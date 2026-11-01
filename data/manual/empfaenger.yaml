@@ -1,0 +1,168 @@
+# Stamm der Empfänger. Automatisch erkannte Empfänger (Lobbyregister mit Bundesmitteln, Haushaltstitel mit Namen)
+# brauchen keinen Eintrag; Einträge hier ergänzen oder überschreiben: Aliasse, Zuordnung zu Titeln,
+# Förderkatalog-Suchname, Art. `geprueft: true` heißt: Titel-Zuordnung und Aliasse von Hand gegen
+# bundeshaushalt.de (Haushalt 2025) und das Lobbyregister geprüft am 1.11.2026.
+# art: unternehmen | verein_stiftung | forschung | oeffentlich | kirche_wohlfahrt | sonstige
+empfaenger:
+  - id: postbeamtenversorgungskasse
+    name: Postbeamtenversorgungskasse
+    aliasse: ["Bundesanstalt für Post und Telekommunikation Deutsche Bundespost, Postbeamtenversorgungskasse"]
+    lobbyregister: null
+    titel: ["60-6002-68501"]
+    foerderkatalog: null
+    art: oeffentlich
+    geprueft: true
+    quelle: "https://www.bundeshaushalt.de/"
+  - id: deutsche-welle
+    name: Deutsche Welle
+    aliasse: ["Rundfunkanstalt Deutsche Welle", "DW"]
+    lobbyregister: null
+    titel: ["04-0452-68591"]
+    foerderkatalog: "Deutsche Welle"
+    art: oeffentlich
+    geprueft: true
+    quelle: "https://www.bundeshaushalt.de/"
+  - id: bundesanstalt-fuer-den-digitalfunk-bos
+    name: Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben
+    aliasse: ["BDBOS"]
+    lobbyregister: null
+    titel: ["06-0602-68520", "06-0602-89451", "06-0602-68551", "06-0602-89420"]
+    foerderkatalog: null
+    art: oeffentlich
+    geprueft: true
+    quelle: "https://www.bundeshaushalt.de/"
+  - id: goethe-institut
+    name: Goethe-Institut e. V.
+    aliasse: ["Goethe-Institut", "Goethe Institut e.V.", "Goethe-Institut e.V."]
+    lobbyregister: null
+    titel: ["05-0504-68740"]
+    foerderkatalog: "Goethe-Institut"
+    art: verein_stiftung
+    geprueft: true
+    quelle: "https://www.bundeshaushalt.de/"
+  - id: stiftung-preussischer-kulturbesitz
+    name: Stiftung Preußischer Kulturbesitz
+    aliasse: ["SPK"]
+    lobbyregister: null
+    titel: ["04-0452-68531", "04-0452-89432"]
+    foerderkatalog: "Stiftung Preußischer Kulturbesitz"
+    art: oeffentlich
+    geprueft: true
+    quelle: "https://www.bundeshaushalt.de/"
+  - id: stiftung-mutter-und-kind
+    name: Stiftung Mutter und Kind - Schutz des ungeborenen Lebens
+    aliasse: ["Bundesstiftung Mutter und Kind"]
+    lobbyregister: null
+    titel: ["17-1701-68502"]
+    foerderkatalog: null
+    art: oeffentlich
+    geprueft: true
+    quelle: "https://www.bundeshaushalt.de/"
+  - id: berliner-institut-fuer-gesundheitsforschung
+    name: Berliner Institut für Gesundheitsforschung (BIH)
+    aliasse: ["Berlin Institute of Health", "BIH"]
+    lobbyregister: null
+    titel: ["30-3004-68572"]
+    foerderkatalog: "Berliner Institut für Gesundheitsforschung"
+    art: forschung
+    geprueft: true
+    quelle: "https://www.bundeshaushalt.de/"
+  - id: foederale-it-kooperation
+    name: Föderale IT-Kooperation (FITKO)
+    aliasse: ["Anstalt öffentlichen Rechts Föderale IT-Kooperation", "FITKO"]
+    lobbyregister: null
+    titel: ["06-0602-68510"]
+    foerderkatalog: null
+    art: oeffentlich
+    geprueft: true
+    quelle: "https://www.bundeshaushalt.de/"
+  - id: alexander-von-humboldt-stiftung
+    name: Alexander von Humboldt-Stiftung
+    aliasse: ["Alexander von Humboldt Stiftung", "AvH"]
+    lobbyregister: null
+    titel: ["05-0504-68746"]
+    foerderkatalog: "Alexander von Humboldt-Stiftung"
+    art: verein_stiftung
+    geprueft: true
+    quelle: "https://www.bundeshaushalt.de/"
+  - id: stiftung-fruehe-hilfen
+    name: Stiftung Frühe Hilfen
+    aliasse: ["Bundesstiftung Frühe Hilfen"]
+    lobbyregister: null
+    titel: ["17-1702-68403"]
+    foerderkatalog: null
+    art: oeffentlich
+    geprueft: true
+    quelle: "https://www.bundeshaushalt.de/"
+  - id: deutsche-zentrale-fuer-tourismus
+    name: Deutsche Zentrale für Tourismus e. V.
+    aliasse: ["Deutsche Zentrale für Tourismus", "DZT"]
+    lobbyregister: null
+    titel: ["09-0904-68601"]
+    foerderkatalog: "Deutsche Zentrale für Tourismus"
+    art: verein_stiftung
+    geprueft: true
+    quelle: "https://www.bundeshaushalt.de/"
+  - id: engagement-global
+    name: Engagement Global gGmbH
+    aliasse: ["Engagement Global", "Engagement Global gGmbH - Service für Entwicklungsinitiativen"]
+    lobbyregister: null
+    titel: ["23-2302-68501"]
+    foerderkatalog: "Engagement Global"
+    art: oeffentlich
+    geprueft: true
+    quelle: "https://www.bundeshaushalt.de/"
+  - id: zentrum-fuer-internationale-friedenseinsaetze
+    name: Zentrum für Internationale Friedenseinsätze (ZIF) gGmbH
+    aliasse: ["Zentrum für internationale Friedenseinsätze (ZIF)", "ZIF"]
+    lobbyregister: null
+    titel: ["05-0501-68530"]
+    foerderkatalog: null
+    art: oeffentlich
+    geprueft: true
+    quelle: "https://www.bundeshaushalt.de/"
+  - id: verbraucherzentrale-bundesverband
+    name: Verbraucherzentrale Bundesverband e. V.
+    aliasse: ["Vertretung der Verbraucher", "vzbv", "Verbraucherzentrale Bundesverband"]
+    lobbyregister: null
+    titel: ["16-1608-68401"]
+    foerderkatalog: null
+    art: verein_stiftung
+    geprueft: true
+    quelle: "https://www.bundeshaushalt.de/"
+  - id: verband-der-reservisten
+    name: Verband der Reservisten der Deutschen Bundeswehr e. V.
+    aliasse: ["Reservistenverband", "Verband der Reservisten der Deutschen Bundeswehr"]
+    lobbyregister: null
+    titel: ["14-1403-68501"]
+    foerderkatalog: null
+    art: verein_stiftung
+    geprueft: true
+    quelle: "https://www.bundeshaushalt.de/"
+  - id: institut-fuer-angewandte-trainingswissenschaft
+    name: Institut für Angewandte Trainingswissenschaft (IAT)
+    aliasse: ["Institut für Angewandte Trainingswissenschaften (IAT)", "IAT Leipzig"]
+    lobbyregister: null
+    titel: ["06-0601-68422"]
+    foerderkatalog: "Institut für Angewandte Trainingswissenschaft"
+    art: forschung
+    geprueft: true
+    quelle: "https://www.bundeshaushalt.de/"
+  - id: deutsches-jugendinstitut
+    name: Deutsches Jugendinstitut e. V.
+    aliasse: ["Deutsches Jugendinstitut", "Deutsche Jugendinstitut e. V.", "DJI"]
+    lobbyregister: null
+    titel: ["17-1702-68604"]
+    foerderkatalog: "Deutsches Jugendinstitut"
+    art: forschung
+    geprueft: true
+    quelle: "https://www.bundeshaushalt.de/"
+  - id: rundfunk-orchester-und-choere
+    name: Rundfunk-Orchester und -Chöre gGmbH
+    aliasse: ["ROC", "Rundfunk Orchester und Chöre GmbH Berlin"]
+    lobbyregister: null
+    titel: ["04-0452-68522"]
+    foerderkatalog: null
+    art: oeffentlich
+    geprueft: true
+    quelle: "https://www.bundeshaushalt.de/"

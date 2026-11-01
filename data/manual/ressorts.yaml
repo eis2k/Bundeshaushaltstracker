@@ -1,0 +1,61 @@
+# Zuordnung von Geldgeber-Namen (Lobbyregister, Förderkatalog) zu Einzelplänen des Bundeshaushalts.
+# Namen werden normalisiert verglichen (Groß/Klein, Umlaute, Klammerzusätze); Präfix-Treffer genügen.
+# Unbekannte Namen bleiben unzugeordnet (epl: null auf der Seite), nie geraten.
+# Quelle für Ressortzuschnitte: Organisationserlasse der Bundeskanzler (BGBl.), Einzelpläne auf bundeshaushalt.de.
+quelle: "https://www.bundeshaushalt.de/"
+ressorts:
+  - epl: "04"
+    kurz: BKAmt
+    namen: ["Bundeskanzleramt", "Die Beauftragte der Bundesregierung für Kultur und Medien", "Der Beauftragte der Bundesregierung für Kultur und Medien", "Beauftragte der Bundesregierung für Kultur und Medien", "Beauftragter der Bundesregierung für Kultur und Medien", "BKM", "Bundesbeauftragte für Kultur und Medien", "Presse- und Informationsamt der Bundesregierung", "Bundespresseamt", "BPA", "Kulturstiftung des Bundes"]
+  - epl: "05"
+    kurz: AA
+    namen: ["Auswärtiges Amt", "AA", "Auswaertiges Amt", "Federal Foreign Office", "Institut für Auslandsbeziehungen", "ifa"]
+  - epl: "06"
+    kurz: BMI
+    namen: ["Bundesministerium des Innern und für Heimat", "Bundesministerium des Innern", "Bundesministerium des Innern, für Bau und Heimat", "BMI", "Bundesamt für Migration und Flüchtlinge", "BAMF", "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe", "BBK", "Bundeskriminalamt", "BKA", "Bundeszentrale für politische Bildung", "bpb", "Bundesinstitut für Sportwissenschaft", "BISp", "Bundesamt für Sicherheit in der Informationstechnik", "BSI", "Bundesverwaltungsamt", "BVA", "Bundesamt für Kartographie und Geodäsie"]
+  - epl: "07"
+    kurz: BMJV
+    namen: ["Bundesministerium der Justiz und für Verbraucherschutz", "Bundesministerium der Justiz", "BMJV", "BMJ", "Bundesamt für Justiz"]
+  - epl: "08"
+    kurz: BMF
+    namen: ["Bundesministerium der Finanzen", "BMF", "Zollverwaltung", "Generalzolldirektion"]
+  - epl: "09"
+    kurz: BMWE
+    namen: ["Bundesministerium für Wirtschaft und Energie", "Bundesministerium für Wirtschaft und Klimaschutz", "Bundesministerium für Wirtschaft und Energie (BMWE)", "BMWE", "BMWK", "BMWi", "Bundesamt für Wirtschaft und Ausfuhrkontrolle", "BAFA", "Bundesnetzagentur", "Physikalisch-Technische Bundesanstalt", "PTB", "Bundesanstalt für Materialforschung und -prüfung", "BAM", "Bundesanstalt für Geowissenschaften und Rohstoffe", "BGR", "KfW"]
+    hinweis: "KfW-Mittel sind Durchleitungen aus Bundesprogrammen; der Einzelplan ist programmabhängig."
+  - epl: "10"
+    kurz: BMLEH
+    namen: ["Bundesministerium für Landwirtschaft, Ernährung und Heimat", "Bundesministerium für Ernährung und Landwirtschaft", "BMLEH", "BMEL", "Bundesanstalt für Landwirtschaft und Ernährung", "BLE", "Bundesinstitut für Risikobewertung", "BfR", "Julius Kühn-Institut", "Thünen-Institut", "Max Rubner-Institut", "Friedrich-Loeffler-Institut"]
+  - epl: "11"
+    kurz: BMAS
+    namen: ["Bundesministerium für Arbeit und Soziales", "BMAS", "Bundesagentur für Arbeit", "Bundesanstalt für Arbeitsschutz und Arbeitsmedizin", "BAuA", "Bundesamt für Soziale Sicherung"]
+    hinweis: "Die Bundesagentur für Arbeit ist eine eigene Sozialkasse; ihre Mittel sind nur teilweise Bundesmittel."
+  - epl: "12"
+    kurz: BMV
+    namen: ["Bundesministerium für Verkehr", "Bundesministerium für Verkehr (BMV)", "Bundesministerium für Digitales und Verkehr", "Bundesministerium für Verkehr und digitale Infrastruktur", "BMV", "BMDV", "BMVI", "Eisenbahn-Bundesamt", "Bundesamt für Logistik und Mobilität", "Kraftfahrt-Bundesamt", "Deutscher Wetterdienst", "Bundesanstalt für Straßenwesen", "Bundesamt für Güterverkehr"]
+  - epl: "14"
+    kurz: BMVg
+    namen: ["Bundesministerium der Verteidigung", "BMVg", "Bundeswehr", "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr", "BAAINBw"]
+  - epl: "15"
+    kurz: BMG
+    namen: ["Bundesministerium für Gesundheit", "BMG", "Robert Koch-Institut", "RKI", "Bundesinstitut für Arzneimittel und Medizinprodukte", "BfArM", "Bundeszentrale für gesundheitliche Aufklärung", "BZgA", "Bundesinstitut für Öffentliche Gesundheit", "Paul-Ehrlich-Institut"]
+  - epl: "16"
+    kurz: BMUKN
+    namen: ["Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit", "Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz", "Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit", "BMUKN", "BMUV", "BMU", "Umweltbundesamt", "UBA", "Bundesamt für Naturschutz", "BfN", "Bundesamt für die Sicherheit der nuklearen Entsorgung", "Zukunft – Umwelt – Gesellschaft (ZUG) gGmbH", "ZUG gGmbH"]
+  - epl: "17"
+    kurz: BMBFSFJ
+    namen: ["Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend", "Bundesministerium für Familie, Senioren, Frauen und Jugend", "BMBFSFJ", "BMFSFJ", "Bundesamt für Familie und zivilgesellschaftliche Aufgaben", "BAFzA"]
+  - epl: "23"
+    kurz: BMZ
+    namen: ["Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung", "BMZ", "Deutsche Gesellschaft für Internationale Zusammenarbeit", "GIZ", "Engagement Global", "Engagement Global gGmbH", "Deutsches Evaluierungsinstitut der Entwicklungszusammenarbeit", "DEval"]
+    hinweis: "GIZ und Engagement Global sind Durchführungsorganisationen des BMZ; Mittel über sie stammen aus Epl. 23 (teils auch aus dem AA)."
+  - epl: "25"
+    kurz: BMWSB
+    namen: ["Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen", "BMWSB", "Bundesinstitut für Bau-, Stadt- und Raumforschung", "BBSR", "Bundesamt für Bauwesen und Raumordnung", "BBR"]
+  - epl: "30"
+    kurz: BMFTR
+    namen: ["Bundesministerium für Forschung, Technologie und Raumfahrt", "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)", "Bundesministerium für Bildung und Forschung", "Bundesministerium für Bildung und Forschung (BMBF)", "BMFTR", "BMBF", "Projektträger Jülich", "PtJ", "DLR Projektträger", "DLR-PT", "Deutsches Zentrum für Luft- und Raumfahrt, Projektträger", "Bundesinstitut für Berufsbildung", "BIBB", "Deutscher Akademischer Austauschdienst", "DAAD"]
+    hinweis: "DAAD-Mittel stammen überwiegend aus dem AA (Epl. 05) und dem BMFTR; die Zuordnung zu 30 gilt für Forschungs- und Bildungsprogramme."
+  - epl: "60"
+    kurz: AFV
+    namen: ["Allgemeine Finanzverwaltung", "Bundesrepublik Deutschland", "Bund"]
