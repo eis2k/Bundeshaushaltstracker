@@ -4,15 +4,18 @@ import type { Schnitt } from "./schnitte";
 
 const VIEWS: ViewId[] = ["fluss", "karte", "saeulen", "gewachsen"];
 const SCHNITTE: Schnitt[] = ["ressort", "kostenart", "empfaengerart"];
+export const TOEPFE = ["gesamt", "bund", "grv", "gkv", "spv", "ba"] as const;
+export type TopfId = (typeof TOEPFE)[number];
 
 /**
  * Zustand → Hash (ohne "#"), z. B.
  * v1;j=2025;a=fluss;f=11/1102/63681;p=rentenzuschuss_halbieren;o=11-1102-63681:50,14:200;sv=1
  * Nur Abweichungen von 100 % werden gespeichert, Prozent ganzzahlig.
  */
-export function encodeScenario(s: Scenario, view: ViewId, focus: NodeId[], schnitt: Schnitt = "ressort"): string {
+export function encodeScenario(s: Scenario, view: ViewId, focus: NodeId[], schnitt: Schnitt = "ressort", topf: TopfId = "gesamt"): string {
   const parts = ["v1", `j=${s.jahr}`, `a=${view}`];
   if (schnitt !== "ressort") parts.push(`sc=${schnitt}`);
+  if (topf !== "gesamt") parts.push(`t=${topf}`);
   if (focus.length) parts.push(`f=${focus.map((id) => id.split("-").pop()).join("/")}`);
   if (s.presets.length) parts.push(`p=${s.presets.join(",")}`);
   const o = Object.entries(s.factors)
@@ -43,8 +46,8 @@ export function knownIds(data: YearData): Set<string> {
   return ids;
 }
 
-export function decodeScenario(hash: string, data: YearData): { scenario: Scenario; view: ViewId; focus: NodeId[]; unknownIds: NodeId[]; schnitt: Schnitt } {
-  const fallback = { scenario: { jahr: data.jahr, factors: {}, presets: [], includeSv: false } as Scenario, view: "fluss" as ViewId, focus: [] as NodeId[], unknownIds: [] as NodeId[], schnitt: "ressort" as Schnitt };
+export function decodeScenario(hash: string, data: YearData): { scenario: Scenario; view: ViewId; focus: NodeId[]; unknownIds: NodeId[]; schnitt: Schnitt; topf: TopfId } {
+  const fallback = { scenario: { jahr: data.jahr, factors: {}, presets: [], includeSv: false } as Scenario, view: "fluss" as ViewId, focus: [] as NodeId[], unknownIds: [] as NodeId[], schnitt: "ressort" as Schnitt, topf: "gesamt" as TopfId };
   const raw = hash.startsWith("#") ? hash.slice(1) : hash;
   const parts = raw.split(";");
   if (parts[0] !== "v1") return fallback;
@@ -56,6 +59,7 @@ export function decodeScenario(hash: string, data: YearData): { scenario: Scenar
   const jahr = Number.parseInt(kv.get("j") ?? "", 10);
   const view = (VIEWS as string[]).includes(kv.get("a") ?? "") ? (kv.get("a") as ViewId) : "fluss";
   const schnitt = (SCHNITTE as string[]).includes(kv.get("sc") ?? "") ? (kv.get("sc") as Schnitt) : "ressort";
+  const topf = (TOEPFE as readonly string[]).includes(kv.get("t") ?? "") ? (kv.get("t") as TopfId) : "gesamt";
   const focus: NodeId[] = [];
   if (kv.get("f")) {
     let acc = "";
@@ -81,6 +85,6 @@ export function decodeScenario(hash: string, data: YearData): { scenario: Scenar
   }
   return {
     scenario: { jahr: Number.isFinite(jahr) ? jahr : data.jahr, factors, presets, includeSv: kv.get("sv") === "1" },
-    view, focus, unknownIds, schnitt,
+    view, focus, unknownIds, schnitt, topf,
   };
 }

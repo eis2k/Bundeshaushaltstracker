@@ -1,6 +1,6 @@
 <script lang="ts">
   import { onMount } from "svelte";
-  import { loadGesetzFrei, loadIndex, loadPresets, loadVpi, loadYear, loadZeitreihe } from "./lib/model/load";
+  import { loadGesetzFrei, loadIndex, loadPresets, loadSozialkassen, loadVpi, loadYear, loadZeitreihe } from "./lib/model/load";
   import { AppState } from "./lib/state.svelte";
   import Jahresleiste from "./lib/ui/Jahresleiste.svelte";
   import Kopfzeile from "./lib/ui/Kopfzeile.svelte";
@@ -12,7 +12,7 @@
   import Gewachsen from "./lib/views/Gewachsen.svelte";
   import Schnittwechsel from "./lib/ui/Schnittwechsel.svelte";
 
-  const app = new AppState({ loadIndex, loadYear, loadPresets, loadGesetzFrei, loadZeitreihe, loadVpi });
+  const app = new AppState({ loadIndex, loadYear, loadPresets, loadGesetzFrei, loadZeitreihe, loadVpi, loadSozialkassen });
   let ready = $state(false);
 
   onMount(() => {
@@ -42,7 +42,8 @@
         <div class="loading">Lade Haushalt …</div>
       {:else if app.view === "fluss"}
         <Fluss data={app.viewData} scenario={app.scenario} factors={app.factors} focus={app.focus} selected={app.selected}
-               onFocus={(p) => app.setFocus(p)} onSelect={(id) => app.setSelected(id)} />
+               topf={app.topf} sozialkassen={app.sozialkassen}
+               onFocus={(p) => app.setFocus(p)} onSelect={(id) => app.setSelected(id)} onTopf={(t) => app.setTopf(t)} />
       {:else if app.view === "karte"}
         <Schnittwechsel {app} />
         <Karte data={app.viewData} scenario={app.scenario} factors={app.factors} focus={app.focus} selected={app.selected} schnitt={app.schnitt}

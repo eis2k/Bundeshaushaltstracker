@@ -1,5 +1,6 @@
 import type { GesetzFreiMap, Index, Preset, YearData } from "./types";
 import type { Vpi, Zeitreihe } from "./zeitreihe";
+import type { SozialkassenYear } from "./toepfe";
 
 const BASE = `${import.meta.env.BASE_URL ?? "/"}data/`;
 const cache = new Map<string, Promise<unknown>>();
@@ -18,6 +19,7 @@ export const loadIndex = () => getJson<Index>("index.json");
 export const loadYear = (jahr: number) => getJson<YearData>(`bund/${jahr}.json`);
 export const loadPresets = async () => (await getJson<{ presets: Preset[] }>("presets.json")).presets;
 export const loadZeitreihe = () => getJson<Zeitreihe>("zeitreihe.json");
+export const loadSozialkassen = (jahr: number) => getJson<SozialkassenYear>(`sozialkassen/${jahr}.json`);
 export const loadVpi = async (): Promise<Vpi> => {
   const raw = await getJson<{ werte: Record<string, number> }>("vpi.json");
   return Object.fromEntries(Object.entries(raw.werte).map(([k, v]) => [Number(k), v]));

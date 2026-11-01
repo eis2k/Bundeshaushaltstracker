@@ -1,0 +1,228 @@
+# Einnahmen und Ausgaben der Sozialversicherungen (Töpfe neben dem Bundeshaushalt), in Euro.
+# Stufe 1: grobe Gliederung, Stützjahre 2015, 2020, 2024, 2025. Fehlende Jahre interpoliert die Pipeline
+# linear und markiert sie als geschaetzt. Jeder Wert trägt seine Quelle; abgeleitete Werte sind markiert.
+#
+# bundesmittel: Verweise auf Titel des Bundeshaushalts (IDs der Build-Daten), damit ein Regler im Bund
+# die Einnahmen des Topfs verändert. Die Beträge der Bundesmittel kommen zur Laufzeit aus dem Bund.
+#
+# Quellen (Kurzzeichen):
+#   DRV-ZR  Deutsche Rentenversicherung, "Rentenversicherung in Zeitreihen", Oktober 2025, S. 238–243,
+#           https://www.deutsche-rentenversicherung.de/SharedDocs/Downloads/DE/Statistiken-und-Berichte/statistikpublikationen/rv_in_zeitreihen.pdf
+#   DRV-KZ  DRV, "Kennzahlen zur Finanzentwicklung" (Rechnungsjahre 2024/2025),
+#           https://www.deutsche-rentenversicherung.de/DRV/DE/Experten/Zahlen-und-Fakten/Kennzahlen-zur-Finanzentwicklung/kennzahlen-zur-finanzentwicklung_node
+#   KJ1     BMG, Gesetzliche Krankenversicherung, Endgültige Rechnungsergebnisse (Statistik KJ 1), Spalte "BUND" (alle Kassen),
+#           https://www.bundesgesundheitsministerium.de/themen/krankenversicherung/zahlen-und-fakten-zur-krankenversicherung/finanzergebnisse.html
+#   SPV     BMG, "Die Finanzentwicklung der sozialen Pflegeversicherung, Ist-Ergebnisse 1995–2025",
+#           https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/Statistiken/Pflegeversicherung/Finanzentwicklung/03-Finanzentwicklung-der-sozialen-Pflegeversicherung__2025.pdf
+#   BA-GB   Bundesagentur für Arbeit, Geschäftsberichte 2015 / 2025, Finanzentwicklungsberichte 2020 / 2024,
+#           https://www.arbeitsagentur.de/ueber-uns/veroeffentlichungen/berichte-und-haushalt
+#   BA-JR   Bundesagentur für Arbeit, Jahresrechnung 2020 / 2024 (statistik.arbeitsagentur.de)
+toepfe:
+  grv:
+    name: Gesetzliche Rentenversicherung
+    kurz: Rentenkasse
+    farbe: beitraege
+    bundesmittel:
+      - {titel: "11-1102-63681", text: "Allgemeiner Bundeszuschuss"}
+      - {titel: "11-1102-63682", text: "Bundeszuschuss Beitrittsgebiet"}
+      - {titel: "11-1102-63683", text: "Zusätzlicher Bundeszuschuss"}
+      - {titel: "11-1102-63684", text: "Beiträge für Kindererziehungszeiten"}
+    jahre:
+      2015:
+        quelle: DRV-ZR
+        einnahmen:
+          - {id: beitraege, text: "Beiträge (ohne Bundesbeiträge für Kindererziehung)", betrag: 195168000000, hinweis: "Beiträge 207.317 Mio abzüglich 12.149 Mio Kindererziehungsbeiträge des Bundes (DRV-ZR S. 243)"}
+          - {id: bund, text: "Bundesmittel (Zuschüsse, Kindererziehung)", betrag: 79850000000, hinweis: "allg. 45.498 + zusätzl. 22.203 + Kindererziehung 12.149 Mio"}
+          - {id: sonstige, text: "Vermögenserträge, Erstattungen, Sonstiges", betrag: 1143000000}
+        ausgaben:
+          - {id: renten, text: "Rentenzahlungen", betrag: 249568000000}
+          - {id: kvdr, text: "Krankenversicherung der Rentner (Beiträge an GKV)", betrag: 17686000000}
+          - {id: reha, text: "Leistungen zur Teilhabe (Reha)", betrag: 6022000000}
+          - {id: verwaltung, text: "Verwaltungs- und Verfahrenskosten", betrag: 3820000000}
+          - {id: sonstige, text: "Sonstige Ausgaben", betrag: 653000000}
+      2020:
+        quelle: DRV-ZR
+        einnahmen:
+          - {id: beitraege, text: "Beiträge (ohne Bundesbeiträge für Kindererziehung)", betrag: 236525000000, hinweis: "252.730 − 16.205 Mio"}
+          - {id: bund, text: "Bundesmittel (Zuschüsse, Kindererziehung)", betrag: 96750000000, hinweis: "53.396 + 27.149 + 16.205 Mio"}
+          - {id: sonstige, text: "Vermögenserträge, Erstattungen, Sonstiges", betrag: 1138000000}
+        ausgaben:
+          - {id: renten, text: "Rentenzahlungen", betrag: 303676000000}
+          - {id: kvdr, text: "Krankenversicherung der Rentner (Beiträge an GKV)", betrag: 23056000000}
+          - {id: reha, text: "Leistungen zur Teilhabe (Reha)", betrag: 6883000000}
+          - {id: verwaltung, text: "Verwaltungs- und Verfahrenskosten", betrag: 4183000000}
+          - {id: sonstige, text: "Sonstige Ausgaben", betrag: 502000000}
+      2024:
+        quelle: DRV-ZR
+        einnahmen:
+          - {id: beitraege, text: "Beiträge (ohne Bundesbeiträge für Kindererziehung)", betrag: 287762000000, hinweis: "305.905 − 18.143 Mio"}
+          - {id: bund, text: "Bundesmittel (Zuschüsse, Kindererziehung)", betrag: 110797000000, hinweis: "61.819 + 30.835 + 18.143 Mio"}
+          - {id: sonstige, text: "Vermögenserträge, Erstattungen, Sonstiges", betrag: 3434000000}
+        ausgaben:
+          - {id: renten, text: "Rentenzahlungen", betrag: 360144000000}
+          - {id: kvdr, text: "Krankenversicherung der Rentner (Beiträge an GKV)", betrag: 28679000000}
+          - {id: reha, text: "Leistungen zur Teilhabe (Reha)", betrag: 8134000000}
+          - {id: verwaltung, text: "Verwaltungs- und Verfahrenskosten", betrag: 5317000000}
+          - {id: sonstige, text: "Sonstige Ausgaben", betrag: 494000000}
+      2025:
+        quelle: DRV-KZ
+        geprueft: false
+        hinweis: "Werte aus der DRV-Kennzahlenseite (Rechnungsjahr 2025), Kindererziehungsbeiträge mit 19.200 Mio aus dem Bundeshaushalt 2025 angesetzt"
+        einnahmen:
+          - {id: beitraege, text: "Beiträge (ohne Bundesbeiträge für Kindererziehung)", betrag: 301791000000, hinweis: "320.991 − 19.200 Mio"}
+          - {id: bund, text: "Bundesmittel (Zuschüsse, Kindererziehung)", betrag: 112377000000, hinweis: "61.073 + 32.104 + 19.200 Mio"}
+          - {id: sonstige, text: "Vermögenserträge, Erstattungen, Sonstiges", betrag: 3254000000}
+        ausgaben:
+          - {id: renten, text: "Rentenzahlungen", betrag: 363303000000}
+          - {id: kvdr, text: "Krankenversicherung der Rentner (Beiträge an GKV)", betrag: 30738000000}
+          - {id: reha, text: "Leistungen zur Teilhabe (Reha)", betrag: 8532000000}
+          - {id: verwaltung, text: "Verwaltungs- und Verfahrenskosten", betrag: 5535000000}
+          - {id: sonstige, text: "Sonstige Ausgaben", betrag: 13224000000, hinweis: "Rest zur Gesamtsumme 421.332 Mio laut DRV-KZ"}
+  gkv:
+    name: Gesetzliche Krankenversicherung
+    kurz: Krankenkassen
+    farbe: beitraege
+    bundesmittel:
+      - {titel: "15-1502-63606", text: "Bundeszuschuss an den Gesundheitsfonds (bis 2019)", bis: 2019}
+      - {titel: "15-1501-63606", text: "Bundeszuschuss an den Gesundheitsfonds", ab: 2020}
+    jahre:
+      2015:
+        quelle: KJ1
+        einnahmen:
+          - {id: beitraege, text: "Beiträge und Zuweisungen aus dem Gesundheitsfonds (ohne Bundeszuschuss)", betrag: 201058000000, hinweis: "Einnahmen 212.558 Mio abzüglich Bundeszuschuss 11.500 Mio"}
+          - {id: bund, text: "Bundeszuschuss (über den Gesundheitsfonds)", betrag: 11500000000}
+        ausgaben:
+          - {id: leistungen, text: "Leistungsausgaben (Kliniken, Ärzte, Arzneimittel, Krankengeld …)", betrag: 202048000000}
+          - {id: verwaltung, text: "Netto-Verwaltungskosten", betrag: 10431000000}
+          - {id: sonstige, text: "Sonstige Ausgaben", betrag: 1196000000}
+      2020:
+        quelle: KJ1
+        einnahmen:
+          - {id: beitraege, text: "Beiträge und Zuweisungen aus dem Gesundheitsfonds (ohne Bundeszuschuss)", betrag: 242349000000, hinweis: "Einnahmen 260.349 Mio abzüglich Bundeszuschuss 14.500 + Corona-Zuschuss 3.500 Mio"}
+          - {id: bund, text: "Bundeszuschuss (über den Gesundheitsfonds, inkl. 3,5 Mrd Corona 2020)", betrag: 18000000000}
+        ausgaben:
+          - {id: leistungen, text: "Leistungsausgaben (Kliniken, Ärzte, Arzneimittel, Krankengeld …)", betrag: 248884000000, abgeleitet: "Ausgaben 262.904 − Verwaltung 11.808 − Sonstige 2.212 Mio"}
+          - {id: verwaltung, text: "Netto-Verwaltungskosten", betrag: 11808000000}
+          - {id: sonstige, text: "Sonstige Ausgaben", betrag: 2212000000}
+      2024:
+        quelle: KJ1
+        einnahmen:
+          - {id: beitraege, text: "Beiträge und Zuweisungen aus dem Gesundheitsfonds (ohne Bundeszuschuss)", betrag: 306339000000, hinweis: "Einnahmen 320.839 Mio abzüglich Bundeszuschuss 14.500 Mio"}
+          - {id: bund, text: "Bundeszuschuss (über den Gesundheitsfonds)", betrag: 14500000000}
+        ausgaben:
+          - {id: leistungen, text: "Leistungsausgaben (Kliniken, Ärzte, Arzneimittel, Krankengeld …)", betrag: 312287000000}
+          - {id: verwaltung, text: "Netto-Verwaltungskosten", betrag: 12630000000}
+          - {id: sonstige, text: "Sonstige Ausgaben", betrag: 2492000000}
+      2025:
+        quelle: KJ1
+        einnahmen:
+          - {id: beitraege, text: "Beiträge und Zuweisungen aus dem Gesundheitsfonds (ohne Bundeszuschuss)", betrag: 341338000000, hinweis: "Einnahmen 355.838 Mio abzüglich Bundeszuschuss 14.500 Mio"}
+          - {id: bund, text: "Bundeszuschuss (über den Gesundheitsfonds)", betrag: 14500000000}
+        ausgaben:
+          - {id: leistungen, text: "Leistungsausgaben (Kliniken, Ärzte, Arzneimittel, Krankengeld …)", betrag: 336411000000}
+          - {id: verwaltung, text: "Netto-Verwaltungskosten", betrag: 13440000000}
+          - {id: sonstige, text: "Sonstige Ausgaben", betrag: 2811000000}
+  spv:
+    name: Soziale Pflegeversicherung
+    kurz: Pflegekasse
+    farbe: beitraege
+    bundesmittel:
+      - {titel: "15-1502-63602", text: "Leistungen des Bundes an den Ausgleichsfonds der Pflegeversicherung", ab: 2020, bis: 2023}
+    jahre:
+      2015:
+        quelle: SPV
+        einnahmen:
+          - {id: beitraege, text: "Beitragseinnahmen", betrag: 30610000000}
+          - {id: sonstige, text: "Sonstige Einnahmen", betrag: 80000000}
+        ausgaben:
+          - {id: leistungen, text: "Leistungsausgaben", betrag: 26640000000}
+          - {id: verwaltung, text: "Verwaltungsausgaben", betrag: 890000000}
+          - {id: vorsorgefonds, text: "Zuführung zum Pflegevorsorgefonds", betrag: 1100000000}
+          - {id: sonstige, text: "Medizinischer Dienst, Sonstiges", betrag: 380000000}
+      2020:
+        quelle: SPV
+        einnahmen:
+          - {id: beitraege, text: "Beitragseinnahmen", betrag: 47890000000}
+          - {id: bund, text: "Bundesmittel (Corona-Zuschuss 2020)", betrag: 1800000000}
+          - {id: sonstige, text: "Sonstige Einnahmen", betrag: 930000000}
+        ausgaben:
+          - {id: leistungen, text: "Leistungsausgaben", betrag: 45600000000}
+          - {id: verwaltung, text: "Verwaltungsausgaben", betrag: 1410000000}
+          - {id: vorsorgefonds, text: "Zuführung zum Pflegevorsorgefonds", betrag: 1530000000}
+          - {id: sonstige, text: "Medizinischer Dienst, Sonstiges", betrag: 540000000}
+      2024:
+        quelle: SPV
+        einnahmen:
+          - {id: beitraege, text: "Beitragseinnahmen", betrag: 65370000000}
+          - {id: sonstige, text: "Sonstige Einnahmen", betrag: 1290000000}
+        ausgaben:
+          - {id: leistungen, text: "Leistungsausgaben", betrag: 63260000000}
+          - {id: verwaltung, text: "Verwaltungsausgaben", betrag: 1800000000}
+          - {id: vorsorgefonds, text: "Zuführung zum Pflegevorsorgefonds", betrag: 2420000000}
+          - {id: sonstige, text: "Medizinischer Dienst, Sonstiges", betrag: 720000000}
+      2025:
+        quelle: SPV
+        einnahmen:
+          - {id: beitraege, text: "Beitragseinnahmen", betrag: 72450000000}
+          - {id: sonstige, text: "Sonstige Einnahmen", betrag: 880000000}
+        ausgaben:
+          - {id: leistungen, text: "Leistungsausgaben", betrag: 70420000000}
+          - {id: verwaltung, text: "Verwaltungsausgaben", betrag: 1950000000}
+          - {id: vorsorgefonds, text: "Zuführung zum Pflegevorsorgefonds", betrag: 700000000}
+          - {id: sonstige, text: "Medizinischer Dienst, Sonstiges", betrag: 750000000}
+  ba:
+    name: Arbeitslosenversicherung (Bundesagentur für Arbeit)
+    kurz: Arbeitslosenversicherung
+    farbe: beitraege
+    bundesmittel:
+      - {titel: "11-1101-63613", text: "Verwaltungskostenerstattung des Bundes für das Bürgergeld (SGB II)"}
+      - {titel: "11-1101-85622", text: "Darlehen des Bundes an die BA", ab: 2020}
+    jahre:
+      2015:
+        quelle: BA-GB
+        einnahmen:
+          - {id: beitraege, text: "Beiträge und Umlagen", betrag: 31100000000, abgeleitet: "Gesamteinnahmen 35,16 Mrd abzüglich Verwaltungskostenerstattung des Bundes 4,04 Mrd (Bundeshaushalt 2015, Tit. 636 13)"}
+          - {id: bund, text: "Erstattungen des Bundes (Verwaltungskosten SGB II)", betrag: 4040000000}
+        ausgaben:
+          - {id: alg, text: "Arbeitslosengeld", betrag: 14800000000, geprueft: false}
+          - {id: foerderung, text: "Aktive Arbeitsförderung, Weiterbildung, Reha", betrag: 9000000000, geprueft: false}
+          - {id: verwaltung, text: "Verwaltung und Personal", betrag: 6500000000, geprueft: false}
+          - {id: sonstige, text: "Insolvenzgeld, Sonstiges", betrag: 1140000000, geprueft: false}
+      2020:
+        quelle: BA-GB
+        einnahmen:
+          - {id: beitraege, text: "Beiträge und Umlagen", betrag: 29316000000, hinweis: "Jahresrechnung 2020: Beiträge 28.236 + Umlagen 1.080 Mio"}
+          - {id: bund, text: "Erstattungen und Darlehen des Bundes", betrag: 16200000000, hinweis: "Verwaltungskostenerstattung 5,13 Mrd + Darlehen des Bundes 6,91 Mrd (BA-JR 2020) + Zuschuss zur Defizitdeckung; Gesamteinnahmen lt. Jahresrechnung 61,09 Mrd", geprueft: false}
+          - {id: sonstige, text: "Sonstige Einnahmen", betrag: 4400000000, geprueft: false}
+        ausgaben:
+          - {id: alg, text: "Arbeitslosengeld", betrag: 20600000000}
+          - {id: kug, text: "Kurzarbeitergeld inkl. Sozialversicherungsbeiträge", betrag: 22100000000, geprueft: false}
+          - {id: foerderung, text: "Aktive Arbeitsförderung", betrag: 8200000000}
+          - {id: verwaltung, text: "Verwaltung und Personal", betrag: 7900000000, geprueft: false}
+          - {id: sonstige, text: "Insolvenzgeld, Sonstiges", betrag: 2200000000, geprueft: false}
+      2024:
+        quelle: BA-GB
+        einnahmen:
+          - {id: beitraege, text: "Beiträge und Umlagen", betrag: 39560000000, hinweis: "Beiträge 38,09 Mrd (BA-JR 2024) + Umlagen; Gesamteinnahmen 44,61 Mrd"}
+          - {id: bund, text: "Erstattungen des Bundes (Verwaltungskosten SGB II)", betrag: 4030000000}
+          - {id: sonstige, text: "Sonstige Einnahmen", betrag: 1020000000}
+        ausgaben:
+          - {id: alg, text: "Arbeitslosengeld", betrag: 22160000000}
+          - {id: foerderung, text: "Aktive Arbeitsförderung, Weiterbildung, Reha", betrag: 10900000000, geprueft: false}
+          - {id: verwaltung, text: "Verwaltung und Personal", betrag: 9800000000, geprueft: false}
+          - {id: sonstige, text: "Insolvenzgeld, Kurzarbeitergeld, Sonstiges", betrag: 2350000000, geprueft: false}
+      2025:
+        quelle: BA-GB
+        einnahmen:
+          - {id: beitraege, text: "Beiträge und Umlagen", betrag: 42560000000, geprueft: false}
+          - {id: bund, text: "Erstattungen des Bundes (Verwaltungskosten SGB II)", betrag: 4200000000, geprueft: false}
+          - {id: sonstige, text: "Sonstige Einnahmen", betrag: 1050000000, geprueft: false}
+        ausgaben:
+          - {id: alg, text: "Arbeitslosengeld", betrag: 26470000000}
+          - {id: foerderung, text: "Aktive Arbeitsförderung, Weiterbildung, Reha", betrag: 12000000000, geprueft: false}
+          - {id: verwaltung, text: "Verwaltung und Personal", betrag: 10700000000, geprueft: false}
+          - {id: sonstige, text: "Insolvenzgeld, Kurzarbeitergeld, Sonstiges", betrag: 2870000000, geprueft: false}
+# Querflüsse zwischen den Töpfen (werden in der Gesamtsumme nur einmal gezählt).
+# Bund → Töpfe ergeben sich aus den bundesmittel-Titeln; hier stehen die übrigen.
+querfluesse:
+  - {von: grv, nach: gkv, id: kvdr, text: "Krankenversicherung der Rentner: Beiträge der Rentenkasse an die Krankenkassen", quelle: DRV-ZR}

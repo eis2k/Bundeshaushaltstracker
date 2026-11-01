@@ -4,7 +4,10 @@
   import { fmtEuro } from "../model/format";
   import type { NodeId, Scenario, YearData } from "../model/types";
   import { CHANGED_STROKE, GHOST_STROKE, colorFor } from "./colors";
-  import { buildSankey, EMPFAENGER_UNBEKANNT, TOPF_BUND, type SLink, type SNode } from "./sankeyData";
+  import { buildSankey, type SLink, type SNode } from "./sankeyData";
+  import { buildGesamtSankey } from "./sankeyGesamt";
+  import type { SozialkassenYear } from "../model/toepfe";
+  import type { TopfId } from "../model/share";
 
   interface Props {
     data: YearData;
@@ -12,17 +15,23 @@
     factors: Record<NodeId, number>;
     focus: NodeId[];
     selected: NodeId | null;
+    topf?: TopfId;
+    sozialkassen?: SozialkassenYear | null;
     onFocus: (path: NodeId[]) => void;
     onSelect: (id: NodeId | null) => void;
+    onTopf?: (topf: TopfId) => void;
   }
-  let { data, scenario, factors, focus, selected, onFocus, onSelect }: Props = $props();
+  let { data, scenario, factors, focus, selected, topf = "bund", sozialkassen = null, onFocus, onSelect, onTopf }: Props = $props();
+  const gesamtModus = $derived(topf !== "bund" && sozialkassen !== null);
 
   let width = $state(900);
   const columnsNeeded = $derived(focus.length >= 2 ? 6 : focus.length === 1 ? 4 : 3);
   const height = $derived((width < 720 ? 560 : 440) + Math.max(0, columnsNeeded - 4) * 80);
   const maxPerColumn = $derived(width < 720 ? 5 : columnsNeeded >= 6 ? 6 : 8);
 
-  const sdata = $derived(buildSankey(data, scenario, factors, focus, { maxPerColumn, maxRevenue: width < 720 ? 5 : 7 }));
+  const sdata = $derived(gesamtModus
+    ? buildGesamtSankey(data, sozialkassen!, scenario, factors, { maxPerColumn, maxRevenue: width < 720 ? 4 : 6, only: topf === "gesamt" ? undefined : topf })
+    : buildSankey(data, scenario, factors, focus, { maxPerColumn, maxRevenue: width < 720 ? 5 : 7 }));
 
   type LNode = SankeyNode<SNode, SLink>;
   type LLink = SankeyLink<SNode, SLink>;
@@ -69,6 +78,13 @@
     return [];
   }
   function click(n: SNode) {
+    if (gesamtModus) {
+      if (n.kind === "topf") {
+        const id = n.id.replace("topf:", "") as TopfId;
+        onTopf?.(id === "bund" ? "bund" : topf === id ? "gesamt" : id);
+      }
+      return;
+    }
     if (n.kind === "topf" || n.kind === "rest" || n.kind === "empfaenger" || n.kind === "abzug") { onFocus([]); onSelect(null); return; }
     if (n.kind === "revenue" || n.kind === "kredit" || n.kind === "minderausgabe") { onSelect(n.kind === "revenue" ? n.id : null); return; }
     onFocus(pathFor(n));
@@ -85,7 +101,7 @@
     if (layout.columns >= 5 && n.dim) return false;
     return nodeHeight(n) >= 9;
   }
-  const columnTitles = ["Woher", "Topf", "Ministerium", "Kapitel", "Titel", "Empfänger"];
+  const columnTitles = $derived(gesamtModus ? ["Woher", "Töpfe", "Wofür"] : ["Woher", "Topf", "Ministerium", "Kapitel", "Titel", "Empfänger"]);
 </script>
 
 <div class="fluss" bind:clientWidth={width}>
@@ -163,8 +179,16 @@
     {#if sdata.minderausgaben !== 0}
       <span class="minder">Globale Minderausgaben: {fmtEuro(sdata.minderausgaben)} (Einsparvorgaben ohne Titel, im Fluss als gestricheltes Band)</span>
     {/if}
+    {#if gesamtModus && topf !== "gesamt"}
+      <button class="reset" onclick={() => onTopf?.("gesamt")}>‹ Gesamtfluss</button>
+    {:else if !gesamtModus && sozialkassen}
+      <button class="reset" onclick={() => onTopf?.("gesamt")}>‹ Gesamtfluss mit Sozialkassen</button>
+    {/if}
     {#if focus.length}
       <button class="reset" onclick={() => { onFocus([]); onSelect(null); }}>‹ Alle Ministerien</button>
+    {/if}
+    {#if gesamtModus}
+      <span class="minder">Beiträge lila, Steuern blau. Bundesmittel erscheinen beim Bund als Ausgabe und bei der Kasse als Einnahme; in der Gesamtsumme zählen sie einmal. Klick auf einen Topf folgt ihm.</span>
     {/if}
   </div>
 </div>

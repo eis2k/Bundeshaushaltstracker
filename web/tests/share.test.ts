@@ -24,6 +24,14 @@ describe("encodeScenario", () => {
     expect(decodeScenario("v1;j=2025;a=karte", fixtureYear).schnitt).toBe("ressort");
   });
 
+  test("topf is encoded only when not gesamt", () => {
+    expect(encodeScenario(base, "fluss", [], "ressort", "bund")).toBe("v1;j=2025;a=fluss;t=bund");
+    expect(encodeScenario(base, "fluss", [], "ressort", "gesamt")).toBe("v1;j=2025;a=fluss");
+    expect(decodeScenario("v1;j=2025;a=fluss;t=grv", fixtureYear).topf).toBe("grv");
+    expect(decodeScenario("v1;j=2025;a=fluss", fixtureYear).topf).toBe("gesamt");
+    expect(decodeScenario("v1;j=2025;a=fluss;t=unsinn", fixtureYear).topf).toBe("gesamt");
+  });
+
   test("factors of exactly 100 % are omitted", () => {
     expect(encodeScenario({ ...base, factors: { "14": 1 } }, "fluss", [])).toBe("v1;j=2025;a=fluss");
   });

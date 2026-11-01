@@ -2,7 +2,7 @@ import { balance, effectiveValue, rowFactor } from "../model/scenario";
 import { revenueGroups, revenueKind } from "../model/tree";
 import type { BudgetRow, NodeId, Scenario, YearData } from "../model/types";
 
-export type SNodeKind = "revenue" | "kredit" | "minderausgabe" | "topf" | "epl" | "kap" | "titel" | "rest" | "empfaenger" | "abzug";
+export type SNodeKind = "revenue" | "kredit" | "minderausgabe" | "topf" | "epl" | "kap" | "titel" | "rest" | "empfaenger" | "abzug" | "beitraege" | "ruecklage";
 
 export interface SNode {
   id: string;

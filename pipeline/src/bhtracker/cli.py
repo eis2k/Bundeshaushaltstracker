@@ -23,6 +23,7 @@ from .model import BudgetRow
 from .nachtrag import apply_nachtrag
 from .parse_csv import parse_soll_csv
 from .parse_xml import parse_rechnung_xml
+from .sozialkassen import build_sozialkassen
 from .sv import load_manual, mark_sv
 
 REPO = Path(__file__).resolve().parents[3]
@@ -174,6 +175,13 @@ def cmd_build(args: argparse.Namespace) -> int:
     build_index(sorted(years), totals, ist_bis=max(ist_years) if ist_years else None, out=out)
     for p in build_manual(manual_dir, out):
         print(f"manuell: {p.name}")
+    sk_file = manual_dir / "sozialkassen.yaml"
+    if sk_file.exists():
+        import yaml
+        with open(sk_file, encoding="utf-8") as f:
+            sk = yaml.safe_load(f)
+        written = build_sozialkassen(sk, sorted(years), out)
+        print(f"sozialkassen: {len(written)} Jahre")
     return 0
 
 

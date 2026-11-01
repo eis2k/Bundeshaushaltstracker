@@ -1,6 +1,7 @@
 import { applyPresets } from "./model/presets";
 import { balance as computeBalance, setFactor as applyFactor } from "./model/scenario";
-import { decodeScenario, encodeScenario, knownIds } from "./model/share";
+import { decodeScenario, encodeScenario, knownIds, type TopfId } from "./model/share";
+import { buildToepfe, type SozialkassenYear, type ToepfeResult } from "./model/toepfe";
 import type { Balance, GesetzFreiMap, Index, NodeId, Preset, Scenario, SolverReport, ViewId, YearData } from "./model/types";
 import { deflate, type Vpi, type Zeitreihe } from "./model/zeitreihe";
 import type { Schnitt } from "./model/schnitte";
@@ -12,6 +13,7 @@ export interface Loader {
   loadGesetzFrei: () => Promise<GesetzFreiMap>;
   loadZeitreihe?: () => Promise<Zeitreihe>;
   loadVpi?: () => Promise<Vpi>;
+  loadSozialkassen?: (jahr: number) => Promise<SozialkassenYear>;
 }
 
 export type Stand = "soll" | "ist";
@@ -36,6 +38,9 @@ export class AppState {
   scenario = $state<Scenario>({ jahr: 2025, factors: {}, presets: [], includeSv: false });
   stand = $state<Stand>("soll");
   schnitt = $state<Schnitt>("ressort");
+  /** Welcher Topf im Fluss gezeigt wird: Gesamtfluss, Bund oder eine Sozialkasse. */
+  topf = $state<TopfId>("gesamt");
+  sozialkassen = $state<SozialkassenYear | null>(null);
   index = $state<Index | null>(null);
   data = $state<YearData | null>(null);
   presets = $state<Preset[]>([]);
@@ -62,6 +67,8 @@ export class AppState {
   factors = $derived(this.applied.factors);
   solver = $derived(this.applied.solver);
   balance = $derived<Balance | null>(this.viewData ? computeBalance(this.viewData, this.factors, this.scenario.includeSv) : null);
+  toepfe = $derived<ToepfeResult | null>(this.viewData && this.sozialkassen && this.sozialkassen.jahr === this.jahr
+    ? buildToepfe(this.viewData, this.sozialkassen, this.factors, this.scenario.includeSv) : null);
 
   constructor(private loader: Loader) {}
 
@@ -81,6 +88,8 @@ export class AppState {
       this.jahr = jahr;
       this.view = final.view;
       this.schnitt = final.schnitt;
+      this.topf = final.topf;
+      await this.loadSk(jahr);
       this.focus = final.focus;
       this.scenario = { ...final.scenario, jahr };
       this.unknownIds = final.unknownIds;
@@ -100,6 +109,7 @@ export class AppState {
       const data = await this.loader.loadYear(jahr);
       this.data = data;
       this.jahr = jahr;
+      await this.loadSk(jahr);
       this.scenario = { ...this.scenario, jahr };
       const known = knownIds(data);
       this.unknownIds = Object.keys(this.scenario.factors).filter((id) => !known.has(id));
@@ -126,6 +136,15 @@ export class AppState {
   }
 
   setView(view: ViewId): void { this.view = view; }
+  setTopf(topf: TopfId): void {
+    if (topf !== this.topf) { this.focus = []; this.selected = null; }
+    this.topf = topf;
+  }
+  private async loadSk(jahr: number): Promise<void> {
+    if (!this.loader.loadSozialkassen) return;
+    try { this.sozialkassen = await this.loader.loadSozialkassen(jahr); }
+    catch { this.sozialkassen = null; }
+  }
   setSchnitt(schnitt: Schnitt): void {
     if (schnitt !== this.schnitt) { this.focus = []; this.selected = null; }
     this.schnitt = schnitt;
@@ -150,7 +169,7 @@ export class AppState {
   }
 
   toHash(): string {
-    return encodeScenario(this.scenario, this.view, this.focus, this.schnitt);
+    return encodeScenario(this.scenario, this.view, this.focus, this.schnitt, this.topf);
   }
 
   get istVerfuegbar(): boolean {
