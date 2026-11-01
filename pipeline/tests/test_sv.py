@@ -43,6 +43,6 @@ def test_full_2025_sv_share():
     out = mark_sv(all_rows, kern_rows, load_manual(MANUAL))
     sv_ausgaben = sum(r.soll for r in out if r.sv and r.art == "A")
     kern_ausgaben = sum(r.soll for r in out if not r.sv and r.art == "A")
-    assert kern_ausgaben == 502_500_000_000
-    assert sv_ausgaben == 642_092_020_000 - 502_500_000_000
+    assert kern_ausgaben == 502_546_135_000  # amtlich gerundet 502,5 Mrd
+    assert sv_ausgaben == 642_092_020_000 - 502_546_135_000
     assert all(r.kap[2] == "9" for r in out if r.sv)
