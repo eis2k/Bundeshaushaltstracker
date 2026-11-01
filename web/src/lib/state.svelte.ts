@@ -3,6 +3,7 @@ import { balance as computeBalance, setFactor as applyFactor } from "./model/sce
 import { decodeScenario, encodeScenario, knownIds } from "./model/share";
 import type { Balance, GesetzFreiMap, Index, NodeId, Preset, Scenario, SolverReport, ViewId, YearData } from "./model/types";
 import { deflate, type Vpi, type Zeitreihe } from "./model/zeitreihe";
+import type { Schnitt } from "./model/schnitte";
 
 export interface Loader {
   loadIndex: () => Promise<Index>;
@@ -34,6 +35,7 @@ export class AppState {
   selected = $state<NodeId | null>(null);
   scenario = $state<Scenario>({ jahr: 2025, factors: {}, presets: [], includeSv: false });
   stand = $state<Stand>("soll");
+  schnitt = $state<Schnitt>("ressort");
   index = $state<Index | null>(null);
   data = $state<YearData | null>(null);
   presets = $state<Preset[]>([]);
@@ -78,6 +80,7 @@ export class AppState {
       const final = jahr === latest ? decoded : decodeScenario(hash, this.data);
       this.jahr = jahr;
       this.view = final.view;
+      this.schnitt = final.schnitt;
       this.focus = final.focus;
       this.scenario = { ...final.scenario, jahr };
       this.unknownIds = final.unknownIds;
@@ -123,6 +126,10 @@ export class AppState {
   }
 
   setView(view: ViewId): void { this.view = view; }
+  setSchnitt(schnitt: Schnitt): void {
+    if (schnitt !== this.schnitt) { this.focus = []; this.selected = null; }
+    this.schnitt = schnitt;
+  }
   setFocus(path: NodeId[]): void { this.focus = path; }
   setSelected(id: NodeId | null): void { this.selected = id; }
   setStand(stand: Stand): void { this.stand = stand; }
@@ -143,7 +150,7 @@ export class AppState {
   }
 
   toHash(): string {
-    return encodeScenario(this.scenario, this.view, this.focus);
+    return encodeScenario(this.scenario, this.view, this.focus, this.schnitt);
   }
 
   get istVerfuegbar(): boolean {

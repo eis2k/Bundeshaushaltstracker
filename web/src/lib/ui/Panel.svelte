@@ -3,6 +3,7 @@
   import { gesetzStatus } from "../model/presets";
   import { childFactorsOverridden, effectiveFactor, effectiveValue, rowFactor } from "../model/scenario";
   import { buildTree, revenueGroups } from "../model/tree";
+  import { groupBy } from "../model/schnitte";
   import type { BudgetRow, NodeId, TreeNode } from "../model/types";
   import type { AppState } from "../state.svelte";
 
@@ -41,6 +42,14 @@
       return { id, kind: "einnahmen", label: g.label, path: ["Einnahmen"], rows: g.rows, original: g.soll, effective,
                parentOriginal: app.balance?.einnahmenOriginal ?? 0, parentLabel: "aller Einnahmen", factor: f,
                userFactor: app.scenario.factors[id] ?? null };
+    }
+    if (id.includes(":")) {
+      const g = groupBy(data, id.startsWith("ka:") ? "kostenart" : "empfaengerart", app.scenario.includeSv).byId.get(id);
+      if (!g) return null;
+      const rows = rowsOf(g);
+      const effective = rows.reduce((s, r) => s + effectiveValue(r, factors), 0);
+      return { id, kind: "epl", label: g.label, path: [id.startsWith("ka:") ? "Kostenart" : "Empfänger-Art"], rows, original: g.soll, effective,
+               parentOriginal: total, parentLabel: "aller Ausgaben", factor: effectiveFactor(id, factors), userFactor: app.scenario.factors[id] ?? null };
     }
     const tree = buildTree(data, app.scenario.includeSv);
     const node = tree.byId.get(id);

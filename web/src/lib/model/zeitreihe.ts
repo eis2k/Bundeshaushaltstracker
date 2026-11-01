@@ -85,8 +85,9 @@ export function rankGrowth(z: Zeitreihe, opts: GrowthOpts): GrowthRow[] {
     const von = vonRaw ?? 0;
     const bis = bisRaw ?? 0;
     if (von === 0 && bis === 0) continue;
-    if (opts.min && Math.max(Math.abs(von), Math.abs(bis)) < opts.min) continue;
     const neu = von <= 0 && bis > 0;
+    // Mindestbetrag: Endwert immer, Startwert nur wenn vorhanden (sonst "neu"-Zeilen verschwinden)
+    if (opts.min && (Math.abs(bis) < opts.min || (!neu && Math.abs(von) < opts.min))) continue;
     const pct = von > 0 ? (bis - von) / von : null;
     const abs = bis - von;
     if (opts.filter === "geschrumpft" && !(abs < 0)) continue;

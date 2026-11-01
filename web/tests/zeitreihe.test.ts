@@ -73,18 +73,22 @@ describe("rankGrowth", () => {
     expect(rankGrowth(z, { ...base, ebene: "epl" })[0].text).toBe("Arbeit und Soziales");
   });
 
-  test("min drops rows whose start and end are both below the threshold", () => {
+  test("min drops rows whose start or end is below the threshold (neu rows only need the end)", () => {
     const ids = rankGrowth(z, { ...base, min: 100 }).map((r) => r.id);
     expect(ids).not.toContain("12-1202-83101");   // 50 → 20
     expect(ids).toContain("60-6002-68309");       // neu, 172 ≥ 100
-    expect(ids).toContain("17-1710-68404");
+    expect(ids).toContain("17-1710-68404");       // 100 → 400
+    expect(rankGrowth(z, { ...base, min: 150 }).map((r) => r.id)).not.toContain("17-1710-68404"); // Start 100 < 150
+    expect(rankGrowth(z, { ...base, min: 150 }).map((r) => r.id)).toContain("60-6002-68309");
   });
 
-  test("min drops rows whose start and end are both below the threshold", () => {
+  test("min drops rows whose start or end is below the threshold (neu rows only need the end)", () => {
     const ids = rankGrowth(z, { ...base, min: 100 }).map((r) => r.id);
     expect(ids).not.toContain("12-1202-83101");   // 50 → 20
     expect(ids).toContain("60-6002-68309");       // neu, 172 ≥ 100
-    expect(ids).toContain("17-1710-68404");
+    expect(ids).toContain("17-1710-68404");       // 100 → 400
+    expect(rankGrowth(z, { ...base, min: 150 }).map((r) => r.id)).not.toContain("17-1710-68404"); // Start 100 < 150
+    expect(rankGrowth(z, { ...base, min: 150 }).map((r) => r.id)).toContain("60-6002-68309");
   });
 
   test("includeSv adds Anlagen", () => {

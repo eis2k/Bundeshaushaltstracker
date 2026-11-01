@@ -1,6 +1,7 @@
 <script lang="ts">
   import { fmtEuro } from "../model/format";
-  import { buildTree, revenueGroups } from "../model/tree";
+  import { revenueGroups } from "../model/tree";
+import { groupBy, type Schnitt } from "../model/schnitte";
   import { effectiveValue } from "../model/scenario";
   import type { NodeId, Scenario, YearData } from "../model/types";
   import { CHANGED_STROKE, colorFor } from "./colors";
@@ -12,15 +13,16 @@
     factors: Record<NodeId, number>;
     focus: NodeId[];
     selected: NodeId | null;
+    schnitt?: Schnitt;
     onFocus: (path: NodeId[]) => void;
     onSelect: (id: NodeId | null) => void;
   }
-  let { data, scenario, factors, focus, selected, onFocus, onSelect }: Props = $props();
+  let { data, scenario, factors, focus, selected, schnitt = "ressort", onFocus, onSelect }: Props = $props();
 
   let width = $state(900);
   const height = $derived(width < 720 ? 480 : 400);
 
-  const tree = $derived(buildTree(data, scenario.includeSv));
+  const tree = $derived(groupBy(data, schnitt, scenario.includeSv));
   const root = $derived(treemapRoot(tree, factors, focus));
   const layout = $derived(buildTreemap(root, width, height));
 
@@ -39,6 +41,8 @@
     return id.split("-")[0];
   }
   function pathFor(id: string, kind: string): NodeId[] {
+    if (id.includes(":")) return [id];                       // Schnitt-Wurzel (ka:…, ea:…)
+    if (schnitt !== "ressort" && kind === "titel") return focus; // Titel im Schnitt: nur auswählen
     const parts = id.split("-");
     if (kind === "epl") return [parts[0]];
     if (kind === "kap") return [parts[0], id];

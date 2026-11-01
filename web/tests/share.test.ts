@@ -16,6 +16,14 @@ describe("encodeScenario", () => {
       .toBe("v1;j=2025;a=karte;f=11/1102/63681;p=rentenzuschuss_halbieren,schwarze_null;o=11-1102-63681:50,14:200,E:steuern:011:110;sv=1");
   });
 
+  test("schnitt is encoded only when not ressort and restored on decode", () => {
+    expect(encodeScenario(base, "karte", [], "kostenart")).toBe("v1;j=2025;a=karte;sc=kostenart");
+    expect(encodeScenario(base, "karte", [], "ressort")).toBe("v1;j=2025;a=karte");
+    expect(decodeScenario("v1;j=2025;a=karte;sc=empfaengerart", fixtureYear).schnitt).toBe("empfaengerart");
+    expect(decodeScenario("v1;j=2025;a=karte;sc=unsinn", fixtureYear).schnitt).toBe("ressort");
+    expect(decodeScenario("v1;j=2025;a=karte", fixtureYear).schnitt).toBe("ressort");
+  });
+
   test("factors of exactly 100 % are omitted", () => {
     expect(encodeScenario({ ...base, factors: { "14": 1 } }, "fluss", [])).toBe("v1;j=2025;a=fluss");
   });

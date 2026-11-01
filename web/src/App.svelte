@@ -10,6 +10,7 @@
   import Karte from "./lib/views/Karte.svelte";
   import Saeulen from "./lib/views/Saeulen.svelte";
   import Gewachsen from "./lib/views/Gewachsen.svelte";
+  import Schnittwechsel from "./lib/ui/Schnittwechsel.svelte";
 
   const app = new AppState({ loadIndex, loadYear, loadPresets, loadGesetzFrei, loadZeitreihe, loadVpi });
   let ready = $state(false);
@@ -43,10 +44,12 @@
         <Fluss data={app.viewData} scenario={app.scenario} factors={app.factors} focus={app.focus} selected={app.selected}
                onFocus={(p) => app.setFocus(p)} onSelect={(id) => app.setSelected(id)} />
       {:else if app.view === "karte"}
-        <Karte data={app.viewData} scenario={app.scenario} factors={app.factors} focus={app.focus} selected={app.selected}
+        <Schnittwechsel {app} />
+        <Karte data={app.viewData} scenario={app.scenario} factors={app.factors} focus={app.focus} selected={app.selected} schnitt={app.schnitt}
                onFocus={(p) => app.setFocus(p)} onSelect={(id) => app.setSelected(id)} />
       {:else if app.view === "saeulen"}
-        <Saeulen data={app.viewData} scenario={app.scenario} factors={app.factors} focus={app.focus} selected={app.selected}
+        <Schnittwechsel {app} />
+        <Saeulen data={app.viewData} scenario={app.scenario} factors={app.factors} focus={app.focus} selected={app.selected} schnitt={app.schnitt}
                  onFocus={(p) => app.setFocus(p)} onSelect={(id) => app.setSelected(id)} />
       {:else if app.view === "gewachsen"}
         <Gewachsen {app} />
