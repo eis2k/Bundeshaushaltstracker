@@ -4,6 +4,8 @@ __pycache__/
 .venv/
 *.pyc
 .env
-data/raw/**/*.zip
 .DS_Store
 Thumbs.db
+# Rohdaten werden nicht committet, nur das Abruflog
+data/raw/**
+!data/raw/fetch_log.json
