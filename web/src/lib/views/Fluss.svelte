@@ -200,7 +200,7 @@
             <text x={labelX(node)} y={((node.y0 ?? 0) + (node.y1 ?? 0)) / 2} dy={nodeHeight(node) >= 22 ? "-0.2em" : "0.35em"} text-anchor={labelAnchor(node)} class="label" class:strong={node.id === selected || focus.includes(node.id)} style="font-size:{11 * invK}px">
               {shortLabel(node)}
               {#if nodeHeight(node) >= 22}
-                <tspan class="amount" x={labelX(node)} dy="1.15em">
+                <tspan class="amount" x={labelX(node)} dy="1.15em" style="font-size:{10 * invK}px">
                   {fmtEuro(node.netEffective)}{#if node.changed && node.netOriginal !== node.netEffective} · war {fmtEuro(node.netOriginal)}{/if}
                 </tspan>
               {/if}
