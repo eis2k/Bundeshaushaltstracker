@@ -100,6 +100,16 @@ Hinweis- und Korrekturweg: Auf jeder Akte und Empfänger-Seite ein Knopf "Fehler
 
 Themenseiten: Rente, Gesundheit, Verteidigung, Bildung/Forschung, Verwaltung. Tafel mit Kennzahlen und Quelle pro Zelle (OECD, Eurostat, Jahr). "System übernehmen"-Presets für Rente, Gesundheit und Verwaltung in der ersten Ausbaustufe; jedes Preset ist eine Liste von Annahmen, die zusammen die deutschen Regler setzen; die Annahmen sind sichtbar und einzeln veränderbar; die Wirkung erscheint in der normalen Bilanz, markiert als Modell.
 
+### 4.8a Steuer-Presets mit Herkunft (Florians Ergänzung vom 1.11.2026)
+
+Auf der Einnahmenseite gibt es Presets für Steuern, die es gab, gibt oder geben könnte: **Vermögensteuer** (seit 1997 nicht mehr erhoben, nachdem das Bundesverfassungsgericht 1995 die Einheitswerte beanstandete und die Regierung Kohl, CDU/CSU und FDP, keine Neuregelung beschloss; das Gesetz gilt formal weiter), **Erbschaftsteuer** (wird erhoben, Aufkommen steht den Ländern zu, Reformen 2009 und 2016 mit weitreichenden Verschonungsregeln für Betriebsvermögen), **Spitzensteuersatz / „Reichensteuer“** (Senkung von 53 % auf 42 % 2001–2005 unter Rot-Grün, Zuschlag 45 % ab 2007 unter der Großen Koalition), Finanztransaktionsteuer und ähnliche.
+
+Jedes Steuer-Preset ist ein Modell mit offenen Annahmen (Steuersatz, Freibetrag, Bemessungsgrundlage, Aufkommensschätzung mit Quelle, z. B. DIW, ifo, Bundesfinanzministerium, Wissenschaftlicher Dienst des Bundestags) und wirkt auf die Einnahmen in der Bilanz. Steht das Aufkommen rechtlich den Ländern zu (Erbschaftsteuer, Vermögensteuer), sagt die Seite das ausdrücklich: der Bund hätte davon ohne Änderung des Grundgesetzes nichts.
+
+Zu jedem Steuer-Preset gehört ein Kasten **„Wer hat das beschlossen“**: eine Zeitlinie der Gesetze und Entscheidungen mit Datum, Gesetz oder Urteil, beschließender Koalition und zuständigem Minister, jeweils mit Quelle (Bundesgesetzblatt, Bundestagsdrucksache, Urteil). Es gilt die Quellenregel aus §2: Belege, keine Wertung. „Verantwortlich“ heißt auf der Seite: hat es eingebracht, beschlossen, nicht erneuert oder ausgesetzt, mit Beleg.
+
+Umsetzung: Stufe 1b nach der Grundausstattung der Stufe 1 (eigener Plan).
+
 ### 4.9 Kostenarten-Schnitt und Personal
 
 Siehe Entscheidungstabelle. Datenbasis: Hauptgruppen und Gruppierungsplan des Bundeshaushalts (liegen in den Titeldaten), Stellenpläne der Einzelpläne, Personalstandstatistik (Destatis), Beraterkosten aus Antworten auf Kleine Anfragen.
