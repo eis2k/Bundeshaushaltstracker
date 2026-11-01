@@ -1,0 +1,9 @@
+.superpowers/
+node_modules/
+__pycache__/
+.venv/
+*.pyc
+.env
+data/raw/**/*.zip
+.DS_Store
+Thumbs.db

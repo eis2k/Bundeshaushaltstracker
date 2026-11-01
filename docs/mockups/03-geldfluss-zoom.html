@@ -1,0 +1,183 @@
+<h2>Geldfluss als Standard: Hineinzoomen heißt "dem Geld nach rechts folgen"</h2>
+<p class="subtitle">Zustand nach einem Klick auf "Arbeit &amp; Soziales": Die anderen Ministerien verblassen, der Fluss von Arbeit &amp; Soziales fächert sich nach rechts auf, über Kapitel und Titel bis zum Empfänger. Jeder weitere Klick hängt eine Spalte an. Links bleibt immer sichtbar, woher das Geld kommt.</p>
+
+<style>
+  .bh { font-family: -apple-system, "Segoe UI", sans-serif; color:#1d1d1f; background:#fff; border-radius:12px; overflow:hidden; border:1px solid #d1d1d6; font-size:12px; }
+  .bh * { box-sizing:border-box; }
+  .bh-top { display:flex; align-items:center; gap:12px; padding:10px 14px; background:#101828; color:#fff; }
+  .bh-top .logo { font-weight:800; letter-spacing:-0.5px; font-size:14px; }
+  .bh-top .logo span { color:#facc15; }
+  .bh-stat { display:flex; flex-direction:column; line-height:1.1; }
+  .bh-stat small { font-size:9px; opacity:.65; text-transform:uppercase; letter-spacing:.5px; }
+  .bh-stat b { font-size:13px; font-variant-numeric: tabular-nums; }
+  .bh-stat.bad b { color:#f87171; } .bh-stat.good b { color:#4ade80; }
+  .views { margin-left:auto; display:flex; background:rgba(255,255,255,.12); border-radius:8px; padding:2px; font-size:11px; }
+  .views span { padding:4px 9px; border-radius:6px; opacity:.7; }
+  .views span.on { background:#fff; color:#101828; opacity:1; font-weight:700; }
+  .bh-presets { display:flex; gap:8px; padding:8px 14px; background:#f5f5f7; border-bottom:1px solid #e5e5e7; flex-wrap:wrap; }
+  .chip { font-size:11px; padding:4px 9px; border-radius:999px; border:1px solid #d1d1d6; background:#fff; white-space:nowrap; display:inline-block; }
+  .chip.on { background:#101828; color:#fff; border-color:#101828; }
+  .chip.add { border-style:dashed; color:#86868b; }
+  .crumbs { padding:8px 14px; background:#fff; border-bottom:1px solid #e5e5e7; color:#86868b; font-size:11px; display:flex; gap:6px; align-items:center; }
+  .crumbs b { color:#1d1d1f; }
+  .crumbs .back { background:#f5f5f7; border:1px solid #d1d1d6; border-radius:6px; padding:2px 7px; color:#1d1d1f; }
+  .bh-body { padding:12px 14px; }
+  .colh { display:grid; grid-template-columns: repeat(5, 1fr); font-size:10px; text-transform:uppercase; letter-spacing:.6px; color:#86868b; font-weight:600; margin-bottom:4px; }
+  .panel { background:#f5f5f7; border:1px solid #e5e5e7; border-radius:10px; padding:10px; font-size:11px; }
+  .panel h5 { margin:0 0 4px; font-size:12px; }
+  .slider { height:4px; background:#d1d1d6; border-radius:2px; position:relative; margin:10px 0 4px; }
+  .slider i { position:absolute; top:-6px; width:16px; height:16px; border-radius:50%; background:#101828; border:2px solid #fff; box-shadow:0 1px 3px rgba(0,0,0,.3); }
+  .slider b { position:absolute; left:0; top:0; bottom:0; background:#101828; border-radius:2px; }
+  .src { font-size:10px; color:#86868b; margin-top:8px; }
+  .src a { color:#0071e3; }
+  .mini { display:flex; align-items:center; gap:6px; font-size:11px; margin-top:8px; flex-wrap:wrap; }
+  .mini .n { padding:5px 8px; border-radius:6px; color:#fff; font-weight:600; }
+  .mini .arr { color:#86868b; }
+  .mini .n.ghost { background:none; border:1px dashed #86868b; color:#86868b; }
+</style>
+
+<div class="mockup">
+  <div class="mockup-header">Geldfluss, nach 1 Klick auf "Arbeit &amp; Soziales"</div>
+  <div class="mockup-body" style="padding:0">
+    <div class="bh">
+      <div class="bh-top">
+        <div class="logo">Haushalts<span>baukasten</span></div>
+        <div class="bh-stat"><small>Einnahmen</small><b>421 Mrd</b></div>
+        <div class="bh-stat"><small>Ausgaben</small><b>468 Mrd</b></div>
+        <div class="bh-stat bad"><small>Neue Schulden</small><b>−47 Mrd</b></div>
+        <div class="bh-stat good"><small>ggü. Original</small><b>+35 Mrd</b></div>
+        <div class="views"><span class="on">Fluss</span><span>Karte</span><span>Säulen</span></div>
+      </div>
+      <div class="bh-presets">
+        <span class="chip on">Rentenzuschuss halbieren</span>
+        <span class="chip">Verteidigung verdoppeln</span>
+        <span class="chip">Entwicklungshilfe streichen</span>
+        <span class="chip">Schwarze Null</span>
+        <span class="chip add">+ eigenes Preset</span>
+        <span class="chip" style="margin-left:auto; background:#facc15; border-color:#facc15; font-weight:700;">Teilen</span>
+      </div>
+      <div class="crumbs"><span class="back">‹ Alle Ministerien</span> Du folgst: <b>Arbeit &amp; Soziales</b> › Rentenversicherung › Zuschuss › Deutsche Rentenversicherung <span style="margin-left:auto">Klick auf ein Band = weiter folgen</span></div>
+      <div class="bh-body" style="display:grid; grid-template-columns: 1fr 220px; gap:16px;">
+        <div>
+          <div class="colh"><span>Woher</span><span>Ministerium</span><span>Kapitel</span><span>Titel</span><span>Empfänger</span></div>
+          <svg viewBox="0 0 860 320" width="100%" style="display:block; font-family:inherit;">
+            <!-- ===== Spalte 1: Einnahmen ===== -->
+            <rect x="0" y="0" width="12" height="88" fill="#3b82f6"/><text x="16" y="40" font-size="10">Umsatzsteuer</text><text x="16" y="52" font-size="10" fill="#86868b">120</text>
+            <rect x="0" y="94" width="12" height="68" fill="#2563eb"/><text x="16" y="124" font-size="10">Lohnsteuer</text><text x="16" y="136" font-size="10" fill="#86868b">93</text>
+            <rect x="0" y="168" width="12" height="90" fill="#60a5fa"/><text x="16" y="208" font-size="10">Übrige Steuern</text><text x="16" y="220" font-size="10" fill="#86868b">174</text>
+            <rect x="0" y="264" width="12" height="22" fill="#64748b"/><text x="16" y="279" font-size="10">Sonstige 34</text>
+            <rect x="0" y="292" width="12" height="28" fill="none" stroke="#dc2626" stroke-dasharray="3 2"/><text x="16" y="310" font-size="10" fill="#dc2626">Neue Schulden 47</text>
+
+            <!-- Flüsse Einnahmen → Ministerien (gemischt, verblasst außer Soziales) -->
+            <path d="M12,0 C110,0 110,0 210,0 L210,100 C110,100 110,88 12,88 Z" fill="#dc2626" opacity=".35"/>
+            <path d="M12,94 C110,94 110,100 210,100 L210,118 C110,118 110,162 12,162 Z" fill="#dc2626" opacity=".3"/>
+            <path d="M12,168 C110,168 110,130 210,130 L210,300 C110,300 110,258 12,258 Z" fill="#cbd5e1" opacity=".5"/>
+            <path d="M12,264 C110,264 110,300 210,300 L210,312 C110,312 110,286 12,286 Z" fill="#cbd5e1" opacity=".5"/>
+            <path d="M12,292 C110,292 110,118 210,118 L210,130 C110,130 110,320 12,320 Z" fill="#fca5a5" opacity=".5"/>
+
+            <!-- ===== Spalte 2: Ministerien ===== -->
+            <rect x="210" y="0" width="12" height="118" fill="#dc2626" stroke="#facc15" stroke-width="2"/><text x="226" y="50" font-size="10" font-weight="700">Arbeit &amp; Soziales</text><text x="226" y="62" font-size="10" fill="#dc2626">155 · war 190</text>
+            <rect x="210" y="130" width="12" height="44" fill="#cbd5e1"/><text x="226" y="155" font-size="10" fill="#86868b">Verteidigung 62</text>
+            <rect x="210" y="180" width="12" height="132" fill="#cbd5e1"/><text x="226" y="248" font-size="10" fill="#86868b">Alle anderen 251</text>
+
+            <!-- Flüsse Soziales → Kapitel -->
+            <path d="M222,0 C320,0 320,0 420,0 L420,62 C320,62 320,62 222,62 Z" fill="#dc2626" opacity=".5"/>
+            <path d="M222,62 C320,62 320,74 420,74 L420,106 C320,106 320,94 222,94 Z" fill="#ef4444" opacity=".45"/>
+            <path d="M222,94 C320,94 320,114 420,114 L420,124 C320,124 320,104 222,104 Z" fill="#f87171" opacity=".4"/>
+            <path d="M222,104 C320,104 320,132 420,132 L420,146 C320,146 320,118 222,118 Z" fill="#fca5a5" opacity=".4"/>
+            <!-- gestrichener Teil als Geisterband -->
+            <path d="M222,0 C320,0 320,0 420,0 L420,62 C320,62 320,62 222,62 Z" fill="none"/>
+            <rect x="420" y="0" width="12" height="62" fill="#dc2626" stroke="#facc15" stroke-width="2" stroke-dasharray="4 2"/>
+            <rect x="420" y="62" width="12" height="46" fill="none" stroke="#dc2626" stroke-dasharray="3 2" opacity=".6"/>
+            <text x="436" y="26" font-size="10" font-weight="700">Rentenversicherung</text><text x="436" y="38" font-size="10" fill="#dc2626">81 · war 142</text>
+            <text x="436" y="90" font-size="9" fill="#dc2626" opacity=".8">gestrichen: 61</text>
+            <rect x="420" y="114" width="12" height="32" fill="#ef4444"/><text x="436" y="128" font-size="10">Bürgergeld &amp;</text><text x="436" y="139" font-size="10">Eingliederung 42</text>
+            <rect x="420" y="152" width="12" height="10" fill="#f87171"/><text x="436" y="161" font-size="10">Grundsicherung 12</text>
+            <rect x="420" y="168" width="12" height="14" fill="#fca5a5"/><text x="436" y="179" font-size="10">Übrige 20</text>
+
+            <!-- Flüsse Kapitel 1102 → Titel -->
+            <path d="M432,0 C530,0 530,0 630,0 L630,46 C530,46 530,46 432,46 Z" fill="#dc2626" opacity=".5"/>
+            <path d="M432,46 C530,46 530,52 630,52 L630,64 C530,64 530,58 432,58 Z" fill="#ef4444" opacity=".45"/>
+            <path d="M432,58 C530,58 530,70 630,70 L630,74 C530,74 530,62 432,62 Z" fill="#f87171" opacity=".4"/>
+            <rect x="630" y="0" width="12" height="46" fill="#dc2626" stroke="#facc15" stroke-width="2" stroke-dasharray="4 2"/><text x="646" y="18" font-size="10" font-weight="700">636 02 Zuschuss</text><text x="646" y="30" font-size="10" fill="#dc2626">61 · war 122</text>
+            <rect x="630" y="52" width="12" height="12" fill="#ef4444"/><text x="646" y="62" font-size="10">636 03 Mütterrente 17</text>
+            <rect x="630" y="70" width="12" height="4" fill="#f87171"/><text x="646" y="84" font-size="10">Übrige Titel 6</text>
+
+            <!-- Flüsse Titel → Empfänger -->
+            <path d="M642,0 C740,0 740,0 820,0 L820,46 C740,46 740,46 642,46 Z" fill="#dc2626" opacity=".5"/>
+            <path d="M642,52 C740,52 740,46 820,46 L820,58 C740,58 740,64 642,64 Z" fill="#ef4444" opacity=".45"/>
+            <rect x="820" y="0" width="12" height="58" fill="#7c3aed"/>
+            <text x="760" y="110" font-size="10" font-weight="700" text-anchor="end">Deutsche Rentenvers.</text>
+            <text x="760" y="122" font-size="10" fill="#86868b" text-anchor="end">Bund, Körperschaft ö. R.</text>
+            <path d="M770,105 L815,60" stroke="#86868b" stroke-width="1" fill="none"/>
+
+            <!-- Hinweis: Beiträge kommen woanders her -->
+            <path d="M832,120 C832,120 832,60 832,58" stroke="none"/>
+            <rect x="820" y="70" width="12" height="150" fill="none" stroke="#7c3aed" stroke-dasharray="3 3"/>
+            <text x="846" y="110" font-size="10" fill="#7c3aed" font-weight="700" transform="rotate(90 846 110)">+ 290 Mrd Beiträge (nicht im Bundeshaushalt)</text>
+
+            <text x="430" y="300" font-size="10" fill="#86868b">Verblasste Bänder: unverändert, nicht im Fokus. Gelb gestrichelt: von dir verändert. Rot gestrichelt: gestrichener Betrag.</text>
+          </svg>
+        </div>
+        <div class="panel">
+          <div style="color:#86868b; font-size:10px; margin-bottom:4px;">Epl. 11 › Kap. 1102 › Titel 636 02</div>
+          <h5>Zuschuss zur Rentenversicherung</h5>
+          <div style="display:flex; justify-content:space-between;"><span>Original</span><b>121,9 Mrd</b></div>
+          <div style="display:flex; justify-content:space-between;"><span>Dein Wert</span><b style="color:#dc2626">61,0 Mrd</b></div>
+          <div class="slider"><b style="width:50%"></b><i style="left:calc(50% - 8px)"></i></div>
+          <div style="display:flex; gap:4px; margin:6px 0; flex-wrap:wrap;">
+            <span class="chip">0 %</span><span class="chip on">50 %</span><span class="chip">100 %</span><span class="chip">Betrag…</span>
+          </div>
+          <div style="padding:8px; background:#fff; border-radius:6px; border-left:3px solid #facc15; margin-top:6px;">
+            <b>Was das ist</b>: Geld des Bundes an die Rentenkasse für Leistungen, die nicht aus Beiträgen bezahlt werden sollen. § 213 SGB VI. <span style="display:inline-block; font-size:9px; padding:1px 5px; border-radius:4px; background:#fee2e2; color:#991b1b; font-weight:700;">Gesetz</span><br><br>
+            <b>Auswirkung</b>: −60,9 Mrd bei der Rentenkasse, ca. 15 % ihrer Ausgaben. <span style="color:#86868b">(Rechnung, keine Prognose)</span>
+          </div>
+          <div style="margin-top:8px;"><b>Empfänger</b><br>Deutsche Rentenversicherung Bund · 100 %<br><span style="color:#0071e3">▸ Wer dort entscheidet</span></div>
+          <div class="src">Quellen: <a>Bundeshaushalt 2025, Tit. 636 02</a> · <a>§ 213 SGB VI</a></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="section" style="margin-top:18px; padding:14px; border:1px dashed #d1d1d6; border-radius:10px; font-size:14px; line-height:1.6;">
+  <p class="label">Was ich hier angenommen habe</p>
+  <ul style="margin:6px 0 0;">
+    <li><b>Spalten statt Zoom-Ebenen</b>: In der Fluss-Ansicht ersetzt eine neue Spalte rechts das Hineinzoomen. Woher das Geld kommt, bleibt links immer sichtbar. Die Karten- und Säulen-Ansicht zoomen stattdessen klassisch hinein.</li>
+    <li><b>Empfänger als letzte Spalte</b>: Hier endet der Bundeshaushalt und hier beginnt später die NGO-Verfolgung: Klick auf einen Empfänger zeigt, was er sonst noch bekommt und wer dort entscheidet ("Wer dort entscheidet" ist der Einstieg in den Beziehungsteil).</li>
+    <li><b>Gestrichene Beträge bleiben als Geisterband sichtbar</b>, damit man sieht, was man weggenommen hat, nicht nur was übrig ist.</li>
+  </ul>
+</div>
+
+<h3 style="margin-top:28px">Die Frage dazu: Wo gehören Rente und Krankenkasse hin?</h3>
+<p class="subtitle">Im Mockup oben sieht man das Problem rechts: Bei der Rentenkasse kommen 290 Mrd Beiträge an, die gar nicht aus dem Bundeshaushalt stammen. Rentenkasse (ca. 400 Mrd) und Krankenkassen (ca. 330 Mrd) sind zusammen größer als der Bundeshaushalt (ca. 500 Mrd).</p>
+
+<div class="options">
+  <div class="option" data-choice="eigene-fluesse" onclick="toggleSelect(this)">
+    <div class="letter">1</div>
+    <div class="content">
+      <h3>Eigene Flüsse, umschaltbar</h3>
+      <p>Oben ein Umschalter: <b>Bundeshaushalt · Rentenkasse · Krankenkassen · Pflege · Arbeitslosenvers.</b> Jeder Topf hat sein eigenes Flussbild mit eigenen Einnahmen links (Beiträge, Bundeszuschuss). Der Bundeszuschuss ist verknüpft: drehst du ihn im Bund, fehlt er im Rentenfluss.</p>
+      <div class="mini"><span class="n" style="background:#3b82f6">Steuern</span><span class="arr">→</span><span class="n" style="background:#dc2626">Bund</span><span class="arr">→</span><span class="n ghost">Zuschuss ↗ (anderer Topf)</span></div>
+      <div class="mini"><span class="n" style="background:#7c3aed">Beiträge</span><span class="arr">+</span><span class="n ghost">Zuschuss</span><span class="arr">→</span><span class="n" style="background:#7c3aed">Rentenkasse</span><span class="arr">→</span><span class="n" style="background:#a78bfa">Rentner</span></div>
+    </div>
+  </div>
+  <div class="option" data-choice="ein-fluss" onclick="toggleSelect(this)">
+    <div class="letter">2</div>
+    <div class="content">
+      <h3>Ein großer Fluss: "Alles, was der Staat für uns ausgibt"</h3>
+      <p>Links Steuern <b>und</b> Beiträge nebeneinander, rund 1,2 Billionen fließen durch Bund und Sozialkassen zu den Empfängern. Rente ist dann das breiteste Band überhaupt, und "Rente auf 50 %" trifft die Rentenausgaben selbst, nicht nur den Zuschuss. Eindrucksvoller, aber Steuer- und Beitragsgeld müssen farblich sauber getrennt bleiben.</p>
+      <div class="mini"><span class="n" style="background:#3b82f6">Steuern 420</span><span class="n" style="background:#7c3aed">Beiträge 600</span><span class="arr">→</span><span class="n" style="background:#dc2626">Bund</span><span class="n" style="background:#7c3aed">Rente</span><span class="n" style="background:#0d9488">Kranken</span><span class="arr">→</span><span class="n" style="background:#64748b">Empfänger</span></div>
+    </div>
+  </div>
+  <div class="option" data-choice="beides" onclick="toggleSelect(this)">
+    <div class="letter">3</div>
+    <div class="content">
+      <h3>Beides: Gesamtfluss als Einstieg, Töpfe zum Folgen</h3>
+      <p>Startbild ist der Gesamtfluss (2). Die mittlere Spalte sind die Töpfe: Bund, Rentenkasse, Krankenkassen, Pflege, Arbeitslosenversicherung. Klick auf einen Topf folgt nur ihm (1). Der Bundeszuschuss wird als Band vom Bund zur Rentenkasse gezeigt und in der Gesamtsumme nur einmal gezählt.</p>
+      <div class="mini"><span class="n" style="background:#3b82f6">Steuern</span><span class="arr">→</span><span class="n" style="background:#dc2626">Bund</span><span class="arr">→ Zuschuss →</span><span class="n" style="background:#7c3aed">Rentenkasse</span><span class="arr">← </span><span class="n" style="background:#7c3aed">Beiträge</span><span class="arr">→</span><span class="n" style="background:#a78bfa">Rentner</span></div>
+    </div>
+  </div>
+</div>
+
+<p class="subtitle" style="margin-top:16px">Klick an, was dir richtig erscheint, und sag mir im Terminal, ob das Folgen nach rechts so passt.</p>

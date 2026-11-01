@@ -1,0 +1,157 @@
+<h2>Ländervergleich und Personal</h2>
+<p class="subtitle">Zwei Bausteine, die noch fehlen. Oben die Frage zum Ländervergleich, darunter mein Vorschlag für Personal und Kostenstruktur. Zahlen gerundet, teils aus dem Gedächtnis, nur zur Veranschaulichung.</p>
+
+<style>
+  .bh { font-family: -apple-system, "Segoe UI", sans-serif; color:#1d1d1f; background:#fff; border-radius:12px; overflow:hidden; border:1px solid #d1d1d6; font-size:12px; }
+  .bh * { box-sizing:border-box; }
+  .bh-top { display:flex; align-items:center; gap:12px; padding:10px 14px; background:#101828; color:#fff; }
+  .bh-top .logo { font-weight:800; letter-spacing:-0.5px; font-size:14px; }
+  .bh-top .logo span { color:#facc15; }
+  .bh-body { padding:14px; }
+  .chip { font-size:11px; padding:4px 9px; border-radius:999px; border:1px solid #d1d1d6; background:#fff; white-space:nowrap; display:inline-block; }
+  .chip.on { background:#101828; color:#fff; border-color:#101828; }
+  table.cmp { width:100%; border-collapse:collapse; font-size:11px; }
+  table.cmp th, table.cmp td { padding:6px 8px; border-bottom:1px solid #eee; text-align:right; font-variant-numeric: tabular-nums; }
+  table.cmp th:first-child, table.cmp td:first-child { text-align:left; }
+  table.cmp th { color:#86868b; font-weight:600; font-size:10px; text-transform:uppercase; letter-spacing:.5px; }
+  table.cmp td.de { background:#fef9c3; font-weight:700; }
+  .q { display:inline-flex; font-size:9px; padding:2px 6px; border-radius:4px; background:#eef2ff; color:#3730a3; font-weight:700; vertical-align:middle; }
+  .card { background:#f5f5f7; border:1px solid #e5e5e7; border-radius:10px; padding:12px; }
+  .card h5 { margin:0 0 8px; font-size:12px; }
+  .assump { font-size:11px; background:#fff; border-left:3px solid #f59e0b; padding:8px; border-radius:6px; }
+  .slider { height:4px; background:#d1d1d6; border-radius:2px; position:relative; margin:10px 0 4px; }
+  .slider i { position:absolute; top:-6px; width:16px; height:16px; border-radius:50%; background:#101828; border:2px solid #fff; box-shadow:0 1px 3px rgba(0,0,0,.3); }
+  .slider b { position:absolute; left:0; top:0; bottom:0; background:#101828; border-radius:2px; }
+  .row { display:grid; grid-template-columns: 1.4fr 70px 70px 70px 1fr; gap:10px; align-items:center; padding:6px; border-bottom:1px solid #eee; font-size:11px; }
+  .row.h { color:#86868b; font-size:10px; text-transform:uppercase; letter-spacing:.5px; }
+  .num { text-align:right; font-variant-numeric: tabular-nums; }
+  .hbar { height:14px; background:#e5e5e7; border-radius:3px; position:relative; }
+  .hbar i { position:absolute; left:0; top:0; bottom:0; border-radius:3px; background:#0ea5e9; }
+  .hbar u { position:absolute; top:0; bottom:0; width:2px; background:#dc2626; }
+</style>
+
+<h3>Ländervergleich: Was heißt "Rente wie in Schweden"?</h3>
+<div class="options">
+  <div class="option" data-choice="tafel" onclick="toggleSelect(this)">
+    <div class="letter">A</div>
+    <div class="content">
+      <h3>Vergleichstafel mit echten Zahlen</h3>
+      <p>Deutschland neben Schweden, Dänemark, Norwegen, Niederlande, Österreich. Für jedes Thema (Rente, Gesundheit, Verteidigung, Bildung …) die wichtigsten Kennzahlen aus OECD und Eurostat: Ausgaben pro Kopf, Anteil am BIP, Beitragssatz, Rentenniveau, Rentenalter, Verwaltungskosten. Alles belegt, alles echt. Aber: nur Beschreibung, kein "Was wäre wenn".</p>
+    </div>
+  </div>
+  <div class="option" data-choice="uebernehmen" onclick="toggleSelect(this)">
+    <div class="letter">B</div>
+    <div class="content">
+      <h3>"System übernehmen" als Preset mit offenen Annahmen</h3>
+      <p>Ein Preset "Rente wie Schweden" stellt die deutschen Regler so, wie das schwedische System es täte: fester Beitragssatz, Rentenalter an Lebenserwartung gekoppelt, Grundrente aus Steuern, Teil-Kapitaldeckung. Die Bilanz zeigt die Wirkung auf den deutschen Haushalt. Jede Annahme steht daneben und ist selbst ein Regler. Spannend und teilbar, aber ein Modell, kein Fakt, und das muss groß dranstehen.</p>
+    </div>
+  </div>
+  <div class="option" data-choice="tafel-und-preset" onclick="toggleSelect(this)">
+    <div class="letter">C</div>
+    <div class="content">
+      <h3>Beides: Tafel als Beleg, Preset als Spiel</h3>
+      <p>Die Tafel ist die Grundlage und steht auf jeder Themenseite. Für die drei, vier Themen, bei denen es sich lohnt (Rente, Gesundheit, Verwaltung), gibt es zusätzlich ein "System übernehmen"-Preset, das aus den Tafelwerten abgeleitet ist und seine Annahmen zeigt.</p>
+    </div>
+  </div>
+</div>
+
+<div class="mockup" style="margin-top:14px">
+  <div class="mockup-header">So sähe die Tafel aus (Thema Rente), mit Preset-Knopf</div>
+  <div class="mockup-body" style="padding:0">
+    <div class="bh">
+      <div class="bh-top">
+        <div class="logo">Haushalts<span>baukasten</span></div>
+        <span style="font-size:11px; opacity:.7">Vergleich</span><b>Rente</b>
+        <span style="margin-left:auto; display:flex; gap:6px;"><span class="chip" style="background:#fff; color:#101828">Gesundheit</span><span class="chip" style="background:#fff; color:#101828">Verteidigung</span><span class="chip" style="background:#fff; color:#101828">Verwaltung</span></span>
+      </div>
+      <div class="bh-body" style="display:grid; grid-template-columns: 1.6fr 1fr; gap:14px;">
+        <div>
+          <table class="cmp">
+            <tr><th>Kennzahl</th><th>DE</th><th>SE</th><th>DK</th><th>NL</th><th>AT</th><th>Quelle</th></tr>
+            <tr><td>Rentenausgaben, % des BIP</td><td class="de">10,4</td><td>7,2</td><td>8,1</td><td>5,9</td><td>13,3</td><td><span class="q">OECD</span></td></tr>
+            <tr><td>Beitragssatz gesamt, %</td><td class="de">18,6</td><td>18,5</td><td>–</td><td>~ 20</td><td>22,8</td><td><span class="q">OECD</span></td></tr>
+            <tr><td>Netto-Rentenniveau Durchschnittsverdiener, %</td><td class="de">55</td><td>62</td><td>80</td><td>93</td><td>88</td><td><span class="q">OECD</span></td></tr>
+            <tr><td>Gesetzl. Rentenalter 2025</td><td class="de">66+</td><td>63–69 flex.</td><td>67</td><td>67</td><td>65/60</td><td><span class="q">OECD</span></td></tr>
+            <tr><td>Steuerzuschuss zur Rente, % der Rentenausgaben</td><td class="de">~ 30</td><td>~ 12</td><td>~ 75</td><td>~ 35</td><td>~ 27</td><td><span class="q">Eurostat</span></td></tr>
+            <tr><td>Altersarmutsquote 65+, %</td><td class="de">11,2</td><td>11,0</td><td>4,3</td><td>5,0</td><td>8,9</td><td><span class="q">OECD</span></td></tr>
+            <tr><td>Kapitalgedeckter Anteil</td><td class="de">klein</td><td>Pflicht 2,5 %</td><td>groß (ATP)</td><td>sehr groß</td><td>klein</td><td><span class="q">OECD</span></td></tr>
+          </table>
+          <div style="font-size:10px; color:#86868b; margin-top:6px">Gelb: Deutschland. Beispielwerte, in der echten Seite aus OECD "Pensions at a Glance" und Eurostat, mit Jahr und Link.</div>
+        </div>
+        <div class="card">
+          <h5>Preset "Rente wie Schweden" <span class="chip on" style="float:right">Anwenden</span></h5>
+          <div class="assump">
+            <b>Das ist ein Modell.</b> Es übersetzt die schwedischen Regeln auf deutsche Zahlen. Jede Zeile ist eine Annahme, die du ändern kannst:
+          </div>
+          <div style="margin-top:8px; font-size:11px;">
+            <div style="display:flex; justify-content:space-between;"><span>Beitragssatz fest</span><b>18,5 %</b></div>
+            <div class="slider"><b style="width:46%"></b><i style="left:calc(46% - 8px)"></i></div>
+            <div style="display:flex; justify-content:space-between; margin-top:8px;"><span>Rentenalter folgt Lebenserwartung</span><b>an</b></div>
+            <div style="display:flex; justify-content:space-between; margin-top:6px;"><span>Grundrente aus Steuern</span><b>statt Grundsicherung</b></div>
+            <div style="display:flex; justify-content:space-between; margin-top:6px;"><span>Kapitaldeckung Pflicht</span><b>2,5 % des Lohns</b></div>
+            <div style="display:flex; justify-content:space-between; margin-top:6px;"><span>Umstellung über</span><b>15 Jahre</b></div>
+          </div>
+          <div style="margin-top:10px; padding:8px; background:#fff; border-radius:6px; border-left:3px solid #facc15; font-size:11px;">
+            <b>Wirkung auf den Bundeshaushalt (Modell)</b><br>Zuschuss sinkt von 122 auf ca. 70 Mrd im Endzustand. Übergangskosten 15 Jahre lang ca. 20 Mrd/Jahr.<br><span style="color:#86868b">Rechnung aus den Annahmen oben, keine Prognose.</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<h3 style="margin-top:32px">Personal und Kostenstruktur: mein Vorschlag</h3>
+<p class="subtitle">Hier stelle ich keine Frage, sondern zeige, wie ich es verstanden habe. Sag mir, ob das stimmt.</p>
+
+<div class="mockup">
+  <div class="mockup-header">Ansicht "Nach Kostenart" plus Personal-Regler</div>
+  <div class="mockup-body" style="padding:0">
+    <div class="bh">
+      <div class="bh-top">
+        <div class="logo">Haushalts<span>baukasten</span></div>
+        <span style="font-size:11px; opacity:.7">Schnitt</span>
+        <span style="display:flex; gap:4px;"><span class="chip" style="background:#fff;color:#101828">Nach Ministerium</span><span class="chip on" style="background:#facc15;color:#101828;border-color:#facc15">Nach Kostenart</span><span class="chip" style="background:#fff;color:#101828">Nach Empfänger-Art</span></span>
+      </div>
+      <div class="bh-body" style="display:grid; grid-template-columns: 1.3fr 1fr; gap:14px;">
+        <div>
+          <div class="row h"><span>Kostenart (Hauptgruppe)</span><span class="num">2015</span><span class="num">2025</span><span class="num">Deins</span><span>Anteil</span></div>
+          <div class="row"><span><b>Personal</b> (Gehälter, Pensionen) <span class="q">HGr 4</span></span><span class="num">30</span><span class="num">44</span><span class="num" style="color:#dc2626; font-weight:700">40</span><div class="hbar"><i style="width:9%"></i></div></div>
+          <div class="row"><span><b>Sachausgaben</b> (Mieten, IT, Berater) <span class="q">HGr 5</span></span><span class="num">26</span><span class="num">40</span><span class="num">40</span><div class="hbar"><i style="width:8%"></i></div></div>
+          <div class="row"><span><b>Zinsen</b> <span class="q">HGr 5</span></span><span class="num">21</span><span class="num">30</span><span class="num">30</span><div class="hbar"><i style="width:6%"></i></div></div>
+          <div class="row"><span><b>Zuweisungen &amp; Zuschüsse</b> (Rente, Bürgergeld, Vereine, Länder) <span class="q">HGr 6</span></span><span class="num">190</span><span class="num">320</span><span class="num">320</span><div class="hbar"><i style="width:64%"></i></div></div>
+          <div class="row"><span><b>Investitionen</b> (Bau, Beteiligungen) <span class="q">HGr 7/8</span></span><span class="num">30</span><span class="num">62</span><span class="num">62</span><div class="hbar"><i style="width:12%"></i></div></div>
+          <div style="font-size:10px; color:#86868b; margin-top:6px">Dasselbe Geld, anders geschnitten. Hier sieht man: 64 % des Bundeshaushalts werden nur durchgereicht, der Bund gibt es nicht selbst aus. Beispielzahlen.</div>
+        </div>
+        <div class="card">
+          <h5>Personal-Regler: Stellen des Bundes</h5>
+          <div style="font-size:11px;">
+            <div style="display:flex; justify-content:space-between;"><span>Planstellen Bund 2025</span><b>≈ 305.000</b></div>
+            <div style="display:flex; justify-content:space-between;"><span>davon Ministerien selbst</span><b>≈ 30.000</b></div>
+            <div style="display:flex; justify-content:space-between;"><span>Zuwachs seit 2015</span><b style="color:#dc2626">+ 60.000 (+25 %)</b></div>
+            <div style="display:flex; justify-content:space-between;"><span>Ø Kosten je Stelle (inkl. Pension)</span><b>≈ 95.000 €</b></div>
+          </div>
+          <div style="margin-top:10px; font-size:11px;"><b>Dein Eingriff</b></div>
+          <div style="display:flex; justify-content:space-between; font-size:11px; margin-top:4px;"><span>Stellen in Ministerien</span><b>30.000 → <span style="color:#dc2626">24.000</span></b></div>
+          <div class="slider"><b style="width:80%"></b><i style="left:calc(80% - 8px)"></i></div>
+          <div style="display:flex; justify-content:space-between; font-size:11px; margin-top:8px;"><span>Berater &amp; externe Gutachten</span><b>1,2 Mrd → <span style="color:#dc2626">0,6 Mrd</span></b></div>
+          <div class="slider"><b style="width:50%"></b><i style="left:calc(50% - 8px)"></i></div>
+          <div style="margin-top:10px; padding:8px; background:#fff; border-radius:6px; border-left:3px solid #facc15; font-size:11px;">
+            <b>Auswirkung</b>: −0,57 Mrd Personal, −0,6 Mrd Sachkosten. Zusammen 1,2 Mrd, das sind 0,24 % des Haushalts. <span style="color:#86868b">(Rechnung: Stellen × Ø Kosten)</span>
+          </div>
+          <div style="font-size:10px; color:#86868b; margin-top:8px">Quellen: Stellenpläne in jedem Einzelplan, Personalstandstatistik (Destatis), Beraterkosten aus Antworten auf Kleine Anfragen.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="section" style="margin-top:18px; padding:14px; border:1px dashed #d1d1d6; border-radius:10px; font-size:14px; line-height:1.6;">
+  <p class="label">So verstehe ich "Personal und Kostenstruktur"</p>
+  <ul style="margin:6px 0 0;">
+    <li><b>Kostenstruktur</b> = derselbe Haushalt, nicht nach Ministerium, sondern nach Kostenart geschnitten (Personal, Sachkosten, Zinsen, Zuschüsse, Investitionen). Der Haushalt hat diese Einteilung schon eingebaut (Hauptgruppen), wir müssen sie nur zeigen. Ein dritter Schnitt "nach Empfänger-Art" (Länder, Sozialkassen, Firmen, Vereine, Ausland) kommt dazu.</li>
+    <li><b>Personal</b> = Stellen pro Behörde als Regler, mit Durchschnittskosten je Stelle. Dazu Berater- und Gutachterkosten als eigener Regler, weil das ein Thema ist, das viele interessiert.</li>
+    <li><b>Ehrlichkeit eingebaut</b>: Die Auswirkung zeigt immer auch den Anteil am Gesamthaushalt. Bei Personal sind das Zehntelprozente, und das soll man sehen.</li>
+  </ul>
+</div>
+
+<p class="subtitle" style="margin-top:16px">Klick beim Ländervergleich A, B oder C an, und sag mir, ob der Personal-Teil so stimmt.</p>

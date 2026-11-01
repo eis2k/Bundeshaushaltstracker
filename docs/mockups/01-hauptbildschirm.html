@@ -1,0 +1,293 @@
+<h2>Der Haushaltsbaukasten: Wie soll der Hauptbildschirm aussehen?</h2>
+<p class="subtitle">Drei Richtungen. Alle zeigen Einnahmen und Ausgaben gegenüber, haben Presets oben und eine laufende Bilanz. Sie unterscheiden sich darin, wie man das Geld <em>sieht</em> und anfasst. Zahlen sind gerundete Beispielwerte aus dem Haushalt 2025.</p>
+
+<style>
+  .bh { font-family: -apple-system, "Segoe UI", sans-serif; color:#1d1d1f; background:#fff; border-radius:12px; overflow:hidden; border:1px solid #d1d1d6; }
+  .bh * { box-sizing:border-box; }
+  .bh-top { display:flex; align-items:center; gap:14px; padding:12px 16px; background:#101828; color:#fff; }
+  .bh-top .logo { font-weight:800; letter-spacing:-0.5px; font-size:15px; }
+  .bh-top .logo span { color:#facc15; }
+  .bh-stat { display:flex; flex-direction:column; line-height:1.1; }
+  .bh-stat small { font-size:10px; opacity:.65; text-transform:uppercase; letter-spacing:.5px; }
+  .bh-stat b { font-size:15px; font-variant-numeric: tabular-nums; }
+  .bh-stat.good b { color:#4ade80; } .bh-stat.bad b { color:#f87171; }
+  .bh-share { margin-left:auto; background:#facc15; color:#101828; font-weight:700; font-size:12px; padding:7px 12px; border-radius:8px; }
+  .bh-presets { display:flex; gap:8px; padding:10px 16px; background:#f5f5f7; border-bottom:1px solid #e5e5e7; flex-wrap:wrap; }
+  .chip { font-size:12px; padding:6px 10px; border-radius:999px; border:1px solid #d1d1d6; background:#fff; white-space:nowrap; }
+  .chip.on { background:#101828; color:#fff; border-color:#101828; }
+  .chip.add { border-style:dashed; color:#86868b; }
+  .bh-body { padding:16px; }
+  .col-h { font-size:11px; text-transform:uppercase; letter-spacing:.6px; color:#86868b; margin-bottom:6px; font-weight:600; }
+  .blk { color:#fff; font-size:12px; padding:6px 8px; display:flex; justify-content:space-between; align-items:center; font-weight:600; border-bottom:1px solid rgba(255,255,255,.25); }
+  .blk small { font-weight:400; opacity:.85; }
+  .blk.changed { outline:2px dashed #facc15; outline-offset:-2px; }
+  .ghost { position:absolute; left:0; right:0; background:repeating-linear-gradient(45deg, transparent 0 4px, rgba(255,255,255,.35) 4px 8px); border:1px dashed rgba(255,255,255,.8); border-radius:3px; }
+  .slider { height:4px; background:#d1d1d6; border-radius:2px; position:relative; margin:10px 0 4px; }
+  .slider i { position:absolute; top:-6px; width:16px; height:16px; border-radius:50%; background:#101828; border:2px solid #fff; box-shadow:0 1px 3px rgba(0,0,0,.3); }
+  .slider b { position:absolute; left:0; top:0; bottom:0; background:#101828; border-radius:2px; }
+  .panel { background:#f5f5f7; border:1px solid #e5e5e7; border-radius:10px; padding:12px; font-size:12px; }
+  .panel h5 { margin:0 0 4px; font-size:13px; }
+  .panel .path { color:#86868b; font-size:11px; margin-bottom:8px; }
+  .src { font-size:10px; color:#86868b; margin-top:8px; }
+  .src a { color:#0071e3; text-decoration:none; }
+  .delta { font-variant-numeric: tabular-nums; font-weight:700; }
+  .delta.plus { color:#16a34a; } .delta.minus { color:#dc2626; }
+</style>
+
+<!-- ============ OPTION A ============ -->
+<div class="section">
+  <div class="options">
+    <div class="option" data-choice="a-zwei-saeulen" onclick="toggleSelect(this)">
+      <div class="letter">A</div>
+      <div class="content">
+        <h3>Zwei Säulen: Einnahmen gegen Ausgaben</h3>
+        <p>Links die Einnahmen, rechts die Ausgaben, beide als gestapelte Säulen auf gleicher Skala. Wo die rechte höher ist, klafft sichtbar die Lücke: das sind die neuen Schulden. Klick auf einen Block zoomt hinein (Ministerium → Kapitel → Titel), der Regler erscheint daneben. Beide Seiten sind veränderbar.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="mockup">
+    <div class="mockup-header">Mockup A: Zwei Säulen</div>
+    <div class="mockup-body" style="padding:0">
+      <div class="bh">
+        <div class="bh-top">
+          <div class="logo">Haushalts<span>baukasten</span></div>
+          <div class="bh-stat"><small>Einnahmen</small><b>421 Mrd €</b></div>
+          <div class="bh-stat"><small>Ausgaben</small><b>468 Mrd €</b></div>
+          <div class="bh-stat bad"><small>Neue Schulden</small><b>−47 Mrd €</b></div>
+          <div class="bh-stat good"><small>ggü. Original</small><b>+35 Mrd €</b></div>
+          <div class="bh-share">Meinen Haushalt teilen</div>
+        </div>
+        <div class="bh-presets">
+          <span class="chip on">Rentenzuschuss halbieren</span>
+          <span class="chip">Verteidigung verdoppeln</span>
+          <span class="chip">Entwicklungshilfe streichen</span>
+          <span class="chip">Schwarze Null</span>
+          <span class="chip">Vermögensteuer 1 %</span>
+          <span class="chip add">+ eigenes Preset</span>
+        </div>
+        <div class="bh-body" style="display:grid; grid-template-columns: 1fr 1fr 230px; gap:18px;">
+          <!-- Einnahmen -->
+          <div>
+            <div class="col-h">Einnahmen · 421 Mrd</div>
+            <div style="display:flex; flex-direction:column; justify-content:flex-end; height:300px; border-radius:6px; overflow:hidden;">
+              <div class="blk" style="background:#2563eb; flex:93;">Lohnsteuer <small>93</small></div>
+              <div class="blk" style="background:#3b82f6; flex:120;">Umsatzsteuer <small>120</small></div>
+              <div class="blk" style="background:#60a5fa; flex:48;">Einkommen- & Körperschaftst. <small>48</small></div>
+              <div class="blk" style="background:#93c5fd; color:#1d1d1f; flex:38;">Energiesteuer <small>38</small></div>
+              <div class="blk" style="background:#bfdbfe; color:#1d1d1f; flex:88;">Übrige Steuern <small>88</small></div>
+              <div class="blk" style="background:#64748b; flex:34;">Sonstige Einnahmen <small>34</small></div>
+            </div>
+          </div>
+          <!-- Ausgaben -->
+          <div>
+            <div class="col-h">Ausgaben · 468 Mrd <span style="color:#dc2626">(war 503)</span></div>
+            <div style="position:relative; display:flex; flex-direction:column; justify-content:flex-end; height:300px; border-radius:6px; overflow:hidden;">
+              <div class="ghost" style="top:0; height:22px;"><span style="font-size:10px; color:#86868b; padding:3px 6px; display:block;">gestrichen: 35 Mrd</span></div>
+              <div class="blk changed" style="background:#dc2626; flex:155;">Arbeit & Soziales <small>155 (war 190)</small></div>
+              <div class="blk" style="background:#f97316; flex:62;">Verteidigung <small>62</small></div>
+              <div class="blk" style="background:#eab308; color:#1d1d1f; flex:38;">Verkehr <small>38</small></div>
+              <div class="blk" style="background:#84cc16; color:#1d1d1f; flex:30;">Zinsen Bundesschuld <small>30</small></div>
+              <div class="blk" style="background:#14b8a6; flex:22;">Bildung & Forschung <small>22</small></div>
+              <div class="blk" style="background:#06b6d4; flex:16;">Gesundheit <small>16</small></div>
+              <div class="blk" style="background:#8b5cf6; flex:145;">Alle übrigen Ressorts <small>145</small></div>
+            </div>
+          </div>
+          <!-- Panel -->
+          <div class="panel">
+            <div class="path">Einzelplan 11 › Kapitel 1102 › Titel 636 02</div>
+            <h5>Zuschuss zur Rentenversicherung</h5>
+            <div style="display:flex; justify-content:space-between;"><span>Original</span><b>121,9 Mrd</b></div>
+            <div style="display:flex; justify-content:space-between;"><span>Dein Wert</span><b style="color:#dc2626">61,0 Mrd</b></div>
+            <div class="slider"><b style="width:50%"></b><i style="left:calc(50% - 8px)"></i></div>
+            <div style="display:flex; justify-content:space-between; font-size:10px; color:#86868b;"><span>0</span><span>50 %</span><span>200 %</span></div>
+            <div style="margin-top:10px; padding:8px; background:#fff; border-radius:6px; border-left:3px solid #facc15;">
+              <b>Was das bedeutet</b><br>
+              Die Rentenkasse hätte 61 Mrd weniger. Ohne Beitragserhöhung entspricht das ca. 15 % weniger Rente für alle. <span style="color:#86868b">(Rechnung, keine Prognose)</span>
+            </div>
+            <div class="src">Quelle: <a>Bundeshaushalt 2025, Epl. 11</a> · <a>Rentenversicherungsbericht 2024</a></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ============ OPTION B ============ -->
+<div class="section">
+  <div class="options">
+    <div class="option" data-choice="b-treemap" onclick="toggleSelect(this)">
+      <div class="letter">B</div>
+      <div class="content">
+        <h3>Landkarte des Geldes (Treemap)</h3>
+        <p>Jeder Euro ist Fläche. Große Ausgaben sind große Kacheln, man sieht sofort, was wirklich ins Gewicht fällt. Klick zoomt in die Kachel hinein. Die Einnahmen liegen als schmaler Streifen darüber auf gleicher Skala, so dass die Lücke als rotes Stück sichtbar bleibt. Veränderte Kacheln schrumpfen oder wachsen live.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="mockup">
+    <div class="mockup-header">Mockup B: Treemap</div>
+    <div class="mockup-body" style="padding:0">
+      <div class="bh">
+        <div class="bh-top">
+          <div class="logo">Haushalts<span>baukasten</span></div>
+          <div class="bh-stat"><small>Einnahmen</small><b>421 Mrd €</b></div>
+          <div class="bh-stat"><small>Ausgaben</small><b>468 Mrd €</b></div>
+          <div class="bh-stat bad"><small>Neue Schulden</small><b>−47 Mrd €</b></div>
+          <div class="bh-share">Teilen</div>
+        </div>
+        <div class="bh-presets">
+          <span class="chip on">Rentenzuschuss halbieren</span>
+          <span class="chip">Verteidigung verdoppeln</span>
+          <span class="chip">Entwicklungshilfe streichen</span>
+          <span class="chip">Schwarze Null</span>
+          <span class="chip add">+ eigenes Preset</span>
+        </div>
+        <div class="bh-body" style="display:grid; grid-template-columns: 1fr 230px; gap:18px;">
+          <div>
+            <div class="col-h">Einnahmen 421 Mrd</div>
+            <div style="display:flex; height:26px; border-radius:4px; overflow:hidden; margin-bottom:10px; font-size:10px; color:#fff; font-weight:600;">
+              <div style="flex:120; background:#3b82f6; padding:6px;">Umsatzsteuer</div>
+              <div style="flex:93; background:#2563eb; padding:6px;">Lohnsteuer</div>
+              <div style="flex:48; background:#60a5fa; padding:6px;">ESt/KSt</div>
+              <div style="flex:38; background:#93c5fd; padding:6px; color:#1d1d1f">Energie</div>
+              <div style="flex:88; background:#bfdbfe; padding:6px; color:#1d1d1f">Übrige</div>
+              <div style="flex:34; background:#64748b; padding:6px;">Sonst.</div>
+              <div style="flex:47; background:repeating-linear-gradient(45deg,#fecaca 0 4px,#fff 4px 8px); color:#dc2626; padding:6px; border:1px dashed #dc2626;">Schulden 47</div>
+            </div>
+            <div class="col-h">Ausgaben 468 Mrd · Klick zum Hineinzoomen</div>
+            <div style="display:grid; grid-template-columns: repeat(12, 1fr); grid-auto-rows: 48px; gap:3px; height:264px;">
+              <div class="blk changed" style="grid-column: span 5; grid-row: span 3; background:#dc2626; align-items:flex-start; flex-direction:column; border-radius:4px; position:relative;">
+                <div>Arbeit & Soziales</div><small>155 Mrd · war 190</small>
+                <div style="position:absolute; right:6px; bottom:6px; background:rgba(255,255,255,.2); border-radius:4px; padding:3px 6px; font-size:10px;">▸ Rentenzuschuss 61 · Bürgergeld 42 · Grundsicherung 12 · …</div>
+              </div>
+              <div class="blk" style="grid-column: span 3; grid-row: span 2; background:#f97316; align-items:flex-start; flex-direction:column; border-radius:4px;"><div>Verteidigung</div><small>62 Mrd</small></div>
+              <div class="blk" style="grid-column: span 2; grid-row: span 2; background:#eab308; color:#1d1d1f; align-items:flex-start; flex-direction:column; border-radius:4px;"><div>Verkehr</div><small>38</small></div>
+              <div class="blk" style="grid-column: span 2; grid-row: span 2; background:#84cc16; color:#1d1d1f; align-items:flex-start; flex-direction:column; border-radius:4px;"><div>Zinsen</div><small>30</small></div>
+              <div class="blk" style="grid-column: span 2; background:#14b8a6; border-radius:4px;"><div>Forschung</div><small>22</small></div>
+              <div class="blk" style="grid-column: span 2; background:#06b6d4; border-radius:4px;"><div>Gesundheit</div><small>16</small></div>
+              <div class="blk" style="grid-column: span 2; background:#0ea5e9; border-radius:4px;"><div>Inneres</div><small>15</small></div>
+              <div class="blk" style="grid-column: span 1; background:#8b5cf6; border-radius:4px; font-size:10px;"><div>Entw.</div></div>
+              <div class="blk" style="grid-column: span 2; grid-row: span 2; background:#a855f7; align-items:flex-start; flex-direction:column; border-radius:4px;"><div>Finanzverw.</div><small>28</small></div>
+              <div class="blk" style="grid-column: span 2; grid-row: span 2; background:#6366f1; align-items:flex-start; flex-direction:column; border-radius:4px;"><div>Familie</div><small>14</small></div>
+              <div class="blk" style="grid-column: span 2; grid-row: span 2; background:#64748b; align-items:flex-start; flex-direction:column; border-radius:4px;"><div>Übrige</div><small>88</small></div>
+              <div class="blk" style="grid-column: span 1; grid-row: span 2; background:#94a3b8; border-radius:4px; font-size:10px;"><div>…</div></div>
+            </div>
+          </div>
+          <div class="panel">
+            <div class="path">Einzelplan 11 › Kapitel 1102 › Titel 636 02</div>
+            <h5>Zuschuss zur Rentenversicherung</h5>
+            <div style="display:flex; justify-content:space-between;"><span>Original</span><b>121,9 Mrd</b></div>
+            <div style="display:flex; justify-content:space-between;"><span>Dein Wert</span><b style="color:#dc2626">61,0 Mrd</b></div>
+            <div class="slider"><b style="width:50%"></b><i style="left:calc(50% - 8px)"></i></div>
+            <div style="display:flex; gap:6px; margin-top:8px;">
+              <span class="chip" style="font-size:11px">0 %</span><span class="chip on" style="font-size:11px">50 %</span><span class="chip" style="font-size:11px">100 %</span><span class="chip" style="font-size:11px">Zahl…</span>
+            </div>
+            <div style="margin-top:10px; padding:8px; background:#fff; border-radius:6px; border-left:3px solid #facc15;">
+              <b>Auswirkung</b><br>Spart 60,9 Mrd. Neue Schulden sinken von 82 auf 21 Mrd.
+            </div>
+            <div class="src">Quelle: <a>Bundeshaushalt 2025, Epl. 11</a></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ============ OPTION C ============ -->
+<div class="section">
+  <div class="options">
+    <div class="option" data-choice="c-fluss" onclick="toggleSelect(this)">
+      <div class="letter">C</div>
+      <div class="content">
+        <h3>Geldfluss: Von der Steuer bis zum Empfänger</h3>
+        <p>Links kommen die Steuern herein, rechts fließen sie zu den Ministerien und weiter zu Kapiteln, Titeln und am Ende zu Empfängern. Ein Band pro Geldstrom, die Breite ist der Betrag. Klick auf ein Band verfolgt es weiter nach rechts. Diese Ansicht ist später auch die Grundlage für "Geldströme zu NGOs verfolgen", weil sie dieselbe Logik hat.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="mockup">
+    <div class="mockup-header">Mockup C: Geldfluss (Sankey)</div>
+    <div class="mockup-body" style="padding:0">
+      <div class="bh">
+        <div class="bh-top">
+          <div class="logo">Haushalts<span>baukasten</span></div>
+          <div class="bh-stat"><small>Einnahmen</small><b>421 Mrd €</b></div>
+          <div class="bh-stat"><small>Ausgaben</small><b>468 Mrd €</b></div>
+          <div class="bh-stat bad"><small>Neue Schulden</small><b>−47 Mrd €</b></div>
+          <div class="bh-share">Teilen</div>
+        </div>
+        <div class="bh-presets">
+          <span class="chip on">Rentenzuschuss halbieren</span>
+          <span class="chip">Verteidigung verdoppeln</span>
+          <span class="chip">Entwicklungshilfe streichen</span>
+          <span class="chip">Schwarze Null</span>
+          <span class="chip add">+ eigenes Preset</span>
+        </div>
+        <div class="bh-body" style="display:grid; grid-template-columns: 1fr 230px; gap:18px;">
+          <div>
+            <div style="display:flex; justify-content:space-between;">
+              <div class="col-h">Einnahmen</div><div class="col-h">Ministerien</div><div class="col-h">Wohin es fließt</div>
+            </div>
+            <svg viewBox="0 0 640 300" width="100%" height="300" style="display:block; font-family:inherit;">
+              <defs>
+                <linearGradient id="g1" x1="0" x2="1"><stop offset="0" stop-color="#3b82f6"/><stop offset="1" stop-color="#dc2626"/></linearGradient>
+                <linearGradient id="g2" x1="0" x2="1"><stop offset="0" stop-color="#3b82f6"/><stop offset="1" stop-color="#f97316"/></linearGradient>
+                <linearGradient id="g3" x1="0" x2="1"><stop offset="0" stop-color="#60a5fa"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+                <linearGradient id="g4" x1="0" x2="1"><stop offset="0" stop-color="#dc2626"/><stop offset="1" stop-color="#b91c1c"/></linearGradient>
+              </defs>
+              <!-- left nodes -->
+              <rect x="0" y="0" width="14" height="90" fill="#3b82f6"/><text x="20" y="48" font-size="11" fill="#1d1d1f">Umsatzsteuer 120</text>
+              <rect x="0" y="96" width="14" height="70" fill="#2563eb"/><text x="20" y="134" font-size="11" fill="#1d1d1f">Lohnsteuer 93</text>
+              <rect x="0" y="172" width="14" height="60" fill="#60a5fa"/><text x="20" y="205" font-size="11" fill="#1d1d1f">Übrige Steuern 174</text>
+              <rect x="0" y="238" width="14" height="24" fill="#64748b"/><text x="20" y="254" font-size="11" fill="#1d1d1f">Sonstige 34</text>
+              <rect x="0" y="268" width="14" height="32" fill="none" stroke="#dc2626" stroke-dasharray="3 2"/><text x="20" y="288" font-size="11" fill="#dc2626">Neue Schulden 47</text>
+              <!-- flows to middle -->
+              <path d="M14,0 C150,0 150,10 300,10 L300,130 C150,130 150,90 14,90 Z" fill="url(#g1)" opacity=".55"/>
+              <path d="M14,96 C150,96 150,138 300,138 L300,190 C150,190 150,166 14,166 Z" fill="url(#g2)" opacity=".55"/>
+              <path d="M14,172 C150,172 150,196 300,196 L300,290 C150,290 150,232 14,232 Z" fill="url(#g3)" opacity=".5"/>
+              <path d="M14,268 C150,268 150,120 300,120 L300,132 C150,132 150,300 14,300 Z" fill="url(#g4)" opacity=".45"/>
+              <!-- middle nodes -->
+              <rect x="300" y="10" width="14" height="122" fill="#dc2626"/><text x="320" y="60" font-size="11" font-weight="700" fill="#1d1d1f">Arbeit & Soziales</text><text x="320" y="74" font-size="10" fill="#dc2626">155 · war 190</text>
+              <rect x="300" y="138" width="14" height="52" fill="#f97316"/><text x="320" y="168" font-size="11" fill="#1d1d1f">Verteidigung 62</text>
+              <rect x="300" y="196" width="14" height="94" fill="#8b5cf6"/><text x="320" y="246" font-size="11" fill="#1d1d1f">Alle anderen 251</text>
+              <!-- flows to right (drilldown of Soziales) -->
+              <path d="M314,10 C420,10 420,0 500,0 L500,52 C420,52 420,58 314,58 Z" fill="#dc2626" opacity=".5"/>
+              <path d="M314,58 C420,58 420,60 500,60 L500,96 C420,96 420,92 314,92 Z" fill="#ef4444" opacity=".45"/>
+              <path d="M314,92 C420,92 420,104 500,104 L500,132 C420,132 420,132 314,132 Z" fill="#f87171" opacity=".4"/>
+              <rect x="500" y="0" width="14" height="52" fill="#dc2626" stroke="#facc15" stroke-width="2" stroke-dasharray="4 2"/><text x="520" y="22" font-size="11" font-weight="700" fill="#1d1d1f">Rentenzuschuss</text><text x="520" y="36" font-size="10" fill="#dc2626">61 · war 122</text>
+              <rect x="500" y="60" width="14" height="36" fill="#ef4444"/><text x="520" y="82" font-size="11" fill="#1d1d1f">Bürgergeld 42</text>
+              <rect x="500" y="104" width="14" height="28" fill="#f87171"/><text x="520" y="122" font-size="11" fill="#1d1d1f">Übrige 52 ▸</text>
+              <text x="500" y="160" font-size="10" fill="#86868b">▸ weiter: Deutsche Rentenversicherung</text>
+              <text x="500" y="174" font-size="10" fill="#86868b">▸ weiter: Jobcenter, Träger, Vereine …</text>
+            </svg>
+          </div>
+          <div class="panel">
+            <div class="path">Einzelplan 11 › Kapitel 1102 › Titel 636 02</div>
+            <h5>Zuschuss zur Rentenversicherung</h5>
+            <div style="display:flex; justify-content:space-between;"><span>Original</span><b>121,9 Mrd</b></div>
+            <div style="display:flex; justify-content:space-between;"><span>Dein Wert</span><b style="color:#dc2626">61,0 Mrd</b></div>
+            <div class="slider"><b style="width:50%"></b><i style="left:calc(50% - 8px)"></i></div>
+            <div style="margin-top:10px; padding:8px; background:#fff; border-radius:6px; border-left:3px solid #facc15;">
+              <b>Auswirkung</b><br>Spart 60,9 Mrd. Das Band zur Rentenversicherung wird halb so breit.
+            </div>
+            <div style="margin-top:8px; font-size:11px;"><b>Empfänger dieses Titels</b><br>Deutsche Rentenversicherung Bund <span style="color:#86868b">(100 %)</span></div>
+            <div class="src">Quelle: <a>Bundeshaushalt 2025, Epl. 11</a></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="section" style="margin-top:24px; padding:16px; border:1px dashed #d1d1d6; border-radius:10px;">
+  <p class="label">In allen drei Entwürfen gleich</p>
+  <ul style="font-size:14px; line-height:1.6; margin:6px 0 0;">
+    <li><b>Kopfzeile mit Bilanz</b>: Einnahmen, Ausgaben, neue Schulden, Abstand zum Original. Immer sichtbar, aktualisiert sich bei jedem Regler.</li>
+    <li><b>Presets</b> als Chips: ein Klick setzt ein Szenario, mehrere kombinierbar, eigene speicherbar.</li>
+    <li><b>Regler-Panel</b> rechts: Original, dein Wert, Schieber, Schnellwerte, kurze Auswirkung in einem Satz, Quelle mit Link.</li>
+    <li><b>Teilen-Knopf</b>: dein Haushalt als Link, den andere öffnen und weiterbauen können.</li>
+  </ul>
+</div>
+
+<p class="subtitle" style="margin-top:16px">Klick eine Option an, die dir am meisten zusagt, und sag mir im Terminal, was dir gefällt oder fehlt. Mischungen sind erlaubt.</p>

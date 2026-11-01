@@ -1,0 +1,174 @@
+<h2>Hineinzoomen: So geht es von der Karte bis zum einzelnen Titel</h2>
+<p class="subtitle">Oben rechts der Ansichtswechsel (Karte ist Standard). Links der Zustand nach einem Klick auf "Arbeit &amp; Soziales", rechts nach zwei weiteren Klicks, auf der untersten Ebene. Der Brotkrumen-Pfad führt jederzeit zurück.</p>
+
+<style>
+  .bh { font-family: -apple-system, "Segoe UI", sans-serif; color:#1d1d1f; background:#fff; border-radius:12px; overflow:hidden; border:1px solid #d1d1d6; font-size:12px; }
+  .bh * { box-sizing:border-box; }
+  .bh-top { display:flex; align-items:center; gap:12px; padding:10px 14px; background:#101828; color:#fff; }
+  .bh-top .logo { font-weight:800; letter-spacing:-0.5px; font-size:14px; }
+  .bh-top .logo span { color:#facc15; }
+  .bh-stat { display:flex; flex-direction:column; line-height:1.1; }
+  .bh-stat small { font-size:9px; opacity:.65; text-transform:uppercase; letter-spacing:.5px; }
+  .bh-stat b { font-size:13px; font-variant-numeric: tabular-nums; }
+  .bh-stat.bad b { color:#f87171; } .bh-stat.good b { color:#4ade80; }
+  .views { margin-left:auto; display:flex; background:rgba(255,255,255,.12); border-radius:8px; padding:2px; font-size:11px; }
+  .views span { padding:4px 9px; border-radius:6px; opacity:.7; }
+  .views span.on { background:#fff; color:#101828; opacity:1; font-weight:700; }
+  .crumbs { padding:8px 14px; background:#f5f5f7; border-bottom:1px solid #e5e5e7; color:#86868b; font-size:11px; display:flex; gap:6px; align-items:center; }
+  .crumbs b { color:#1d1d1f; }
+  .crumbs .back { background:#fff; border:1px solid #d1d1d6; border-radius:6px; padding:2px 7px; color:#1d1d1f; }
+  .bh-body { padding:12px 14px; }
+  .col-h { font-size:10px; text-transform:uppercase; letter-spacing:.6px; color:#86868b; margin-bottom:6px; font-weight:600; display:flex; justify-content:space-between; }
+  .tile { color:#fff; padding:6px 8px; border-radius:4px; display:flex; flex-direction:column; justify-content:space-between; font-weight:600; }
+  .tile small { font-weight:400; opacity:.85; font-size:10px; }
+  .tile.changed { outline:2px dashed #facc15; outline-offset:-2px; }
+  .tile.dim { opacity:.55; }
+  .row { display:grid; grid-template-columns: 1fr 70px 70px 120px 24px; gap:8px; align-items:center; padding:7px 6px; border-bottom:1px solid #eee; }
+  .row.h { color:#86868b; font-size:10px; text-transform:uppercase; letter-spacing:.5px; }
+  .row.changed { background:#fffbeb; }
+  .bar { height:16px; background:#e5e5e7; border-radius:3px; position:relative; }
+  .bar i { position:absolute; left:0; top:0; bottom:0; background:#dc2626; border-radius:3px; }
+  .bar u { position:absolute; left:0; top:0; bottom:0; border:1px dashed #dc2626; border-radius:3px; }
+  .num { text-align:right; font-variant-numeric: tabular-nums; }
+  .slider { height:4px; background:#d1d1d6; border-radius:2px; position:relative; margin:10px 0 4px; }
+  .slider i { position:absolute; top:-6px; width:16px; height:16px; border-radius:50%; background:#101828; border:2px solid #fff; box-shadow:0 1px 3px rgba(0,0,0,.3); }
+  .slider b { position:absolute; left:0; top:0; bottom:0; background:#101828; border-radius:2px; }
+  .panel { background:#f5f5f7; border:1px solid #e5e5e7; border-radius:10px; padding:10px; font-size:11px; }
+  .panel h5 { margin:0 0 4px; font-size:12px; }
+  .src { font-size:10px; color:#86868b; margin-top:8px; }
+  .src a { color:#0071e3; }
+  .chip { font-size:11px; padding:4px 9px; border-radius:999px; border:1px solid #d1d1d6; background:#fff; white-space:nowrap; display:inline-block; }
+  .chip.on { background:#101828; color:#fff; border-color:#101828; }
+  .tag { display:inline-block; font-size:9px; padding:2px 5px; border-radius:4px; background:#eef2ff; color:#4338ca; font-weight:700; margin-left:4px; vertical-align:middle; }
+  .tag.flex { background:#dcfce7; color:#166534; }
+  .tag.fix { background:#fee2e2; color:#991b1b; }
+</style>
+
+<div class="split">
+  <!-- ===== Stufe 2: Einzelplan 11 ===== -->
+  <div class="mockup">
+    <div class="mockup-header">Nach 1 Klick: Einzelplan 11, Arbeit &amp; Soziales</div>
+    <div class="mockup-body" style="padding:0">
+      <div class="bh">
+        <div class="bh-top">
+          <div class="logo">Haushalts<span>baukasten</span></div>
+          <div class="bh-stat"><small>Ausgaben</small><b>468 Mrd</b></div>
+          <div class="bh-stat bad"><small>Schulden</small><b>−47</b></div>
+          <div class="views"><span class="on">Karte</span><span>Säulen</span><span>Fluss</span></div>
+        </div>
+        <div class="crumbs"><span class="back">‹ Zurück</span> Bundeshaushalt 2025 › <b>Epl. 11 Arbeit &amp; Soziales</b> <span style="margin-left:auto">190 → <b style="color:#dc2626">155 Mrd</b></span></div>
+        <div class="bh-body">
+          <div class="col-h"><span>Kapitel · Klick zoomt weiter</span><span>Fläche = Betrag</span></div>
+          <div style="display:grid; grid-template-columns: repeat(10, 1fr); grid-auto-rows: 44px; gap:3px;">
+            <div class="tile changed" style="grid-column: span 6; grid-row: span 4; background:#dc2626;"><div>Kap. 1102 Rentenversicherung</div><small>81 Mrd · war 142 (−61)</small></div>
+            <div class="tile" style="grid-column: span 4; grid-row: span 3; background:#ef4444;"><div>Kap. 1101 Bürgergeld &amp; Eingliederung</div><small>42 Mrd</small></div>
+            <div class="tile" style="grid-column: span 2; grid-row: span 2; background:#f87171;"><div>Grundsicherung Alter</div><small>12 Mrd</small></div>
+            <div class="tile" style="grid-column: span 2; grid-row: span 1; background:#fca5a5; color:#1d1d1f;"><div>Kriegsopfer</div><small>1,5</small></div>
+            <div class="tile" style="grid-column: span 3; grid-row: span 2; background:#fb7185;"><div>Kap. 1103 Inklusion, Arbeitsschutz</div><small>6 Mrd</small></div>
+            <div class="tile" style="grid-column: span 2; grid-row: span 1; background:#fda4af; color:#1d1d1f;"><div>Ministerium selbst</div><small>0,5</small></div>
+            <div class="tile" style="grid-column: span 3; grid-row: span 1; background:#fecdd3; color:#1d1d1f;"><div>Übrige</div><small>12</small></div>
+          </div>
+          <div style="margin-top:10px; padding:8px; background:#f5f5f7; border-radius:8px; font-size:11px; color:#86868b;">
+            Tipp: Die Kachel "Rentenversicherung" ist gestrichelt gelb umrandet, weil du sie verändert hast. Alle anderen stehen auf Original.
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== Stufe 4: Titel ===== -->
+  <div class="mockup">
+    <div class="mockup-header">Nach 3 Klicks: Kapitel 1102, unterste Ebene (Titel)</div>
+    <div class="mockup-body" style="padding:0">
+      <div class="bh">
+        <div class="bh-top">
+          <div class="logo">Haushalts<span>baukasten</span></div>
+          <div class="bh-stat"><small>Ausgaben</small><b>468 Mrd</b></div>
+          <div class="bh-stat bad"><small>Schulden</small><b>−47</b></div>
+          <div class="views"><span class="on">Karte</span><span>Säulen</span><span>Fluss</span></div>
+        </div>
+        <div class="crumbs"><span class="back">‹ Zurück</span> Bund › Epl. 11 › <b>Kap. 1102 Rentenversicherung</b> <span style="margin-left:auto">142 → <b style="color:#dc2626">81 Mrd</b></span></div>
+        <div class="bh-body">
+          <div class="col-h"><span>Titel · hier wird gestellt</span><span>Regler direkt in der Zeile</span></div>
+          <div class="row h"><span>Titel</span><span class="num">Original</span><span class="num">Deins</span><span>Balken</span><span></span></div>
+          <div class="row changed">
+            <span><b>636 02</b> Zuschuss Rentenversicherung <span class="tag flex">frei</span></span>
+            <span class="num">121,9</span><span class="num" style="color:#dc2626; font-weight:700">61,0</span>
+            <div class="bar"><u style="width:100%"></u><i style="width:50%"></i></div><span>⋯</span>
+          </div>
+          <div class="row">
+            <span><b>636 03</b> Mütterrente (Kindererziehung) <span class="tag flex">frei</span></span>
+            <span class="num">17,3</span><span class="num">17,3</span>
+            <div class="bar"><i style="width:14%"></i></div><span>⋯</span>
+          </div>
+          <div class="row">
+            <span><b>636 05</b> Knappschaft (Bergleute) <span class="tag fix">Gesetz</span></span>
+            <span class="num">3,9</span><span class="num">3,9</span>
+            <div class="bar"><i style="width:3%"></i></div><span>⋯</span>
+          </div>
+          <div class="row">
+            <span><b>636 06</b> Zuschuss Rentenkasse Ost <span class="tag fix">Gesetz</span></span>
+            <span class="num">2,0</span><span class="num">2,0</span>
+            <div class="bar"><i style="width:2%"></i></div><span>⋯</span>
+          </div>
+          <div class="row">
+            <span><b>636 04</b> Erstattung Vorruhestand <span class="tag flex">frei</span></span>
+            <span class="num">0,4</span><span class="num">0,4</span>
+            <div class="bar"><i style="width:1%"></i></div><span>⋯</span>
+          </div>
+
+          <div class="panel" style="margin-top:12px;">
+            <h5>636 02 Zuschuss zur Rentenversicherung <span class="chip" style="float:right">Original</span></h5>
+            <div class="slider"><b style="width:50%"></b><i style="left:calc(50% - 8px)"></i></div>
+            <div style="display:flex; gap:5px; margin:6px 0;">
+              <span class="chip">0 %</span><span class="chip on">50 %</span><span class="chip">100 %</span><span class="chip">150 %</span><span class="chip">Betrag eingeben…</span>
+            </div>
+            <div style="padding:8px; background:#fff; border-radius:6px; border-left:3px solid #facc15; margin-top:6px;">
+              <b>Was dieser Titel ist</b>: Der Bund gibt der Rentenkasse jedes Jahr Geld, weil sie Aufgaben erfüllt, die nicht aus Beiträgen bezahlt werden sollen (z. B. Anrechnung von Kindererziehung). Festgelegt in § 213 SGB VI.<br><br>
+              <b>Auswirkung deiner Änderung</b>: −60,9 Mrd für die Rentenkasse. Das entspricht etwa 15 % der gesamten Rentenausgaben. <span style="color:#86868b">(Rechnung, keine Prognose)</span>
+            </div>
+            <div class="src">Quellen: <a>Bundeshaushalt 2025, Epl. 11 Kap. 1102 Tit. 636 02</a> · <a>§ 213 SGB VI</a> · <a>Rentenversicherungsbericht 2024</a></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="section" style="margin-top:18px; padding:14px; border:1px dashed #d1d1d6; border-radius:10px; font-size:14px; line-height:1.6;">
+  <p class="label">Was ich hier angenommen habe</p>
+  <ul style="margin:6px 0 0;">
+    <li><b>Vier Ebenen</b>, wie im echten Haushalt: Bund → Einzelplan (Ministerium) → Kapitel → Titel. Auf jeder Ebene kann man regeln, auch ganze Ministerien auf einmal.</li>
+    <li><b>Markierung "Gesetz" / "frei"</b>: Manche Titel sind gesetzlich festgelegt (Zinsen, Rentenzuschuss nach SGB VI), andere politisch frei. Man darf trotzdem alles verändern, aber die Seite sagt ehrlich: dafür müsste ein Gesetz geändert werden.</li>
+    <li><b>Jeder Titel hat einen Erklärtext</b> in zwei Sätzen, damit man nicht nur "636 02" sieht, sondern versteht, was das ist. Das ist viel Schreibarbeit, aber es macht den Unterschied zu bundeshaushalt.de.</li>
+  </ul>
+</div>
+
+<h3 style="margin-top:28px">Die Frage dazu: Wo gehören Rente und Krankenkasse hin?</h3>
+<p class="subtitle">Rentenkasse (ca. 400 Mrd) und Krankenkassen (ca. 330 Mrd) sind größer als der Bundeshaushalt (ca. 500 Mrd) und haben eigene Töpfe. Wie zeigen wir sie?</p>
+
+<div class="options">
+  <div class="option" data-choice="eigene-karten" onclick="toggleSelect(this)">
+    <div class="letter">1</div>
+    <div class="content">
+      <h3>Eigene Karten, umschaltbar</h3>
+      <p>Oben ein Umschalter: <b>Bundeshaushalt · Rentenkasse · Krankenkassen · Pflege · Arbeitslosenvers.</b> Jeder Topf hat seine eigene Landkarte mit eigenen Einnahmen (Beiträge, Bundeszuschuss) und Ausgaben. Der Bundeszuschuss ist in beiden Karten sichtbar und verknüpft: drehst du ihn im Bund, fehlt er in der Rentenkasse. Sauber getrennt, so wie es rechtlich ist.</p>
+    </div>
+  </div>
+  <div class="option" data-choice="eine-karte" onclick="toggleSelect(this)">
+    <div class="letter">2</div>
+    <div class="content">
+      <h3>Eine große Karte: "Alles, was der Staat für uns ausgibt"</h3>
+      <p>Bund und Sozialkassen zusammen als eine Landkarte von rund 1,2 Billionen. Einnahmen: Steuern <b>und</b> Beiträge nebeneinander. Rente ist dann die größte Kachel überhaupt, und "Rente auf 50 %" trifft direkt die Rentenausgaben, nicht nur den Zuschuss. Eindrucksvoller und näher an dem, was Leute meinen, aber die Grenze zwischen Steuer- und Beitragsgeld muss gut sichtbar bleiben.</p>
+    </div>
+  </div>
+  <div class="option" data-choice="beides" onclick="toggleSelect(this)">
+    <div class="letter">3</div>
+    <div class="content">
+      <h3>Beides: Gesamtkarte als Einstieg, Töpfe zum Hineinzoomen</h3>
+      <p>Startbild ist die Gesamtkarte (Option 2), die obersten Kacheln sind die Töpfe: Bundeshaushalt, Rentenkasse, Krankenkassen, Pflege, Arbeitslosenversicherung. Ein Klick zoomt in den Topf (Option 1). Doppelzählungen (der Bundeszuschuss taucht als Ausgabe im Bund und als Einnahme der Rentenkasse auf) werden in der Gesamtsicht herausgerechnet und erklärt.</p>
+    </div>
+  </div>
+</div>
+
+<p class="subtitle" style="margin-top:16px">Klick an, was dir richtig erscheint, und sag mir im Terminal, ob das Hineinzoomen links/rechts so passt.</p>

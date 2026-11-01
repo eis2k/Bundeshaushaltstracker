@@ -1,0 +1,153 @@
+<h2>Der Empfänger und die Menschen dahinter</h2>
+<p class="subtitle">Was passiert, wenn man im Fluss ganz rechts auf einen Empfänger klickt. Oben die Empfänger-Seite, die in jedem Fall gleich ist. Darunter die Frage, wie die Verbindungen zwischen Menschen dargestellt werden. <b>Alle Namen hier sind erfundene Platzhalter.</b></p>
+
+<style>
+  .bh { font-family: -apple-system, "Segoe UI", sans-serif; color:#1d1d1f; background:#fff; border-radius:12px; overflow:hidden; border:1px solid #d1d1d6; font-size:12px; }
+  .bh * { box-sizing:border-box; }
+  .bh-top { display:flex; align-items:center; gap:12px; padding:10px 14px; background:#101828; color:#fff; }
+  .bh-top .logo { font-weight:800; letter-spacing:-0.5px; font-size:14px; }
+  .bh-top .logo span { color:#facc15; }
+  .crumbs { padding:8px 14px; background:#f5f5f7; border-bottom:1px solid #e5e5e7; color:#86868b; font-size:11px; }
+  .crumbs b { color:#1d1d1f; }
+  .bh-body { padding:14px; }
+  .q { display:inline-flex; align-items:center; gap:4px; font-size:9px; padding:2px 6px; border-radius:4px; background:#eef2ff; color:#3730a3; font-weight:700; vertical-align:middle; white-space:nowrap; }
+  .q.reg { background:#ecfdf5; color:#065f46; }
+  .q.bt { background:#fef3c7; color:#92400e; }
+  .q.hh { background:#dbeafe; color:#1e40af; }
+  .card { background:#f5f5f7; border:1px solid #e5e5e7; border-radius:10px; padding:12px; }
+  .card h5 { margin:0 0 8px; font-size:12px; }
+  .kv { display:flex; justify-content:space-between; padding:4px 0; border-bottom:1px solid #e5e5e7; }
+  .kv:last-child { border:0; }
+  .person { display:flex; gap:10px; align-items:flex-start; padding:8px; background:#fff; border-radius:8px; border:1px solid #e5e5e7; margin-bottom:6px; }
+  .avatar { width:30px; height:30px; border-radius:50%; background:#cbd5e1; flex:none; display:flex; align-items:center; justify-content:center; font-weight:800; color:#475569; font-size:11px; }
+  .avatar.gov { background:#fecaca; color:#991b1b; }
+  .person b { font-size:12px; }
+  .person .role { color:#86868b; font-size:11px; }
+  .tl { position:relative; padding-left:16px; margin-top:6px; }
+  .tl::before { content:""; position:absolute; left:5px; top:4px; bottom:4px; width:2px; background:#d1d1d6; }
+  .tl .ev { position:relative; padding:3px 0 3px 8px; font-size:11px; }
+  .tl .ev::before { content:""; position:absolute; left:-14px; top:7px; width:8px; height:8px; border-radius:50%; background:#64748b; }
+  .tl .ev.gov::before { background:#dc2626; }
+  .tl .ev.money::before { background:#2563eb; }
+  .tl .ev .yr { display:inline-block; width:62px; color:#86868b; font-variant-numeric: tabular-nums; }
+  .spark { height:40px; width:100%; }
+  .warn { font-size:11px; background:#fff; border-left:3px solid #86868b; padding:8px; border-radius:6px; color:#475569; }
+</style>
+
+<!-- ===== Empfänger-Seite ===== -->
+<div class="mockup">
+  <div class="mockup-header">Empfänger-Seite (Platzhalter-Verein)</div>
+  <div class="mockup-body" style="padding:0">
+    <div class="bh">
+      <div class="bh-top">
+        <div class="logo">Haushalts<span>baukasten</span></div>
+        <span style="font-size:11px; opacity:.7">Empfänger</span>
+        <b style="font-size:14px">Beispielverein für Demokratieförderung e.V.</b>
+        <span style="margin-left:auto; font-size:11px; opacity:.7">Platzhalter, keine echte Organisation</span>
+      </div>
+      <div class="crumbs">Fluss › Bundeshaushalt › Epl. 17 Familie › Kap. 1710 › Tit. 684 04 › <b>Beispielverein e.V.</b> &nbsp;·&nbsp; außerdem in: Epl. 06 Inneres (Tit. 684 12), Epl. 23 Entwicklung (Tit. 896 03)</div>
+      <div class="bh-body" style="display:grid; grid-template-columns: 1.1fr 1fr 1fr; gap:14px;">
+
+        <!-- Geld -->
+        <div class="card">
+          <h5>Geld vom Bund, 2015 bis 2025 <span class="q hh">Bundeshaushalt</span></h5>
+          <svg class="spark" viewBox="0 0 220 40">
+            <rect x="2" y="36" width="16" height="4" fill="#93c5fd"/><rect x="22" y="35" width="16" height="5" fill="#93c5fd"/><rect x="42" y="34" width="16" height="6" fill="#93c5fd"/><rect x="62" y="32" width="16" height="8" fill="#60a5fa"/><rect x="82" y="30" width="16" height="10" fill="#60a5fa"/><rect x="102" y="24" width="16" height="16" fill="#3b82f6"/><rect x="122" y="16" width="16" height="24" fill="#2563eb"/><rect x="142" y="12" width="16" height="28" fill="#2563eb"/><rect x="162" y="8" width="16" height="32" fill="#1d4ed8"/><rect x="182" y="4" width="16" height="36" fill="#1d4ed8"/><rect x="202" y="2" width="16" height="38" fill="#1e3a8a"/>
+          </svg>
+          <div style="display:flex; justify-content:space-between; font-size:10px; color:#86868b; margin-bottom:8px;"><span>2015: 0,4 Mio</span><span>2025: 9,8 Mio</span></div>
+          <div class="kv"><span>Summe 2015–2025</span><b>41,2 Mio €</b></div>
+          <div class="kv"><span>Zuwachs</span><b style="color:#dc2626">× 24</b></div>
+          <div class="kv"><span>Aus wie vielen Titeln</span><b>3 (2 Ministerien)</b></div>
+          <div class="kv"><span>Davon aus EU-Mitteln</span><b>1,1 Mio</b> </div>
+          <div class="kv"><span>Rang unter Vereinen, Epl. 17</span><b>Nr. 4 von 212</b></div>
+          <div class="warn" style="margin-top:8px">Quellen: Haushaltsrechnung des Bundes (Ist), Antwort der Bundesregierung auf Drs. 20/xxxx (Zuwendungsliste), Förderdatenbank. Jede Zahl ist verlinkt.</div>
+        </div>
+
+        <!-- Organisation -->
+        <div class="card">
+          <h5>Die Organisation <span class="q reg">Vereinsregister</span> <span class="q">Lobbyregister</span></h5>
+          <div class="kv"><span>Rechtsform</span><b>e.V., Berlin</b></div>
+          <div class="kv"><span>Gegründet</span><b>2014</b></div>
+          <div class="kv"><span>Lobbyregister-Nr.</span><b>R00xxxx, seit 2022</b></div>
+          <div class="kv"><span>Angegebene Lobbyausgaben</span><b>230–240 Tsd €/Jahr</b></div>
+          <div class="kv"><span>Hauptfinanzierung lt. Register</span><b>öffentliche Zuwendungen 91 %</b></div>
+          <div class="kv"><span>Mitarbeiter</span><b>48 (2024)</b></div>
+          <div style="margin-top:10px; font-size:11px;"><b>Vorstand &amp; Geschäftsführung</b> <span class="q reg">Vereinsregister</span></div>
+          <div class="person"><div class="avatar">AB</div><div><b>A. Beispiel</b><div class="role">Vorsitzende/r seit 2014</div></div></div>
+          <div class="person"><div class="avatar">CD</div><div><b>C. Demo</b><div class="role">Geschäftsführung seit 2019 · <span style="color:#dc2626">vorher: Referatsleitung im BMFSFJ 2015–2019</span> <span class="q bt">Bundesanzeiger</span></div></div></div>
+          <div class="person"><div class="avatar">EF</div><div><b>E. Fiktiv</b><div class="role">Beirat · zugleich MdB, Haushaltsausschuss <span class="q bt">bundestag.de</span></div></div></div>
+        </div>
+
+        <!-- Verbindungen -->
+        <div class="card">
+          <h5>Belegte Verbindungen zur Entscheidungsseite</h5>
+          <div class="person"><div class="avatar gov">GH</div><div><b>G. Hypothetisch</b> <span class="q bt">bundestag.de</span><div class="role">Parl. Staatssekretär/in im BMFSFJ, 2021–heute</div><div class="role">Mitglied im Beirat des Vereins 2016–2021 <span class="q reg">Vereinsregister</span></div></div></div>
+          <div class="person"><div class="avatar gov">EF</div><div><b>E. Fiktiv, MdB</b> <span class="q bt">Nebentätigkeiten</span><div class="role">Haushaltsausschuss (entscheidet über Epl. 17) · Beirat des Vereins, ehrenamtlich</div></div></div>
+          <div class="person"><div class="avatar gov">JK</div><div><b>J. Konstruiert</b> <span class="q">Lobbyregister</span><div class="role">Lobbyist/in des Vereins · vorher Büroleitung MdB E. Fiktiv 2017–2020</div></div></div>
+          <div class="warn" style="margin-top:8px"><b>Regel der Seite:</b> Nur Personen in öffentlichen Funktionen (Mandat, Regierungsamt, Vorstand eines Empfängers), nur Verbindungen mit amtlicher Quelle. Keine Bewertung, keine Vermutung. Die Zeitlinie darunter zeigt, was wann war, der Leser urteilt selbst.</div>
+        </div>
+      </div>
+
+      <div class="bh-body" style="padding-top:0">
+        <div class="card">
+          <h5>Zeitlinie: Geld und Posten nebeneinander</h5>
+          <div class="tl">
+            <div class="ev"><span class="yr">2014</span>Verein gegründet. Vorsitz A. Beispiel. <span class="q reg">VR</span></div>
+            <div class="ev money"><span class="yr">2015</span>Erste Zuwendung 0,4 Mio aus Epl. 17. <span class="q hh">HH</span></div>
+            <div class="ev gov"><span class="yr">2016</span>G. Hypothetisch (damals MdB) tritt in den Beirat ein. <span class="q reg">VR</span></div>
+            <div class="ev gov"><span class="yr">2019</span>C. Demo wechselt vom BMFSFJ (Referatsleitung, zuständig für Kap. 1710) in die Geschäftsführung. <span class="q bt">Bundesanzeiger</span></div>
+            <div class="ev money"><span class="yr">2020</span>Zuwendung steigt auf 2,1 Mio. Neuer Titel in Epl. 06 kommt hinzu. <span class="q hh">HH</span></div>
+            <div class="ev gov"><span class="yr">2021</span>G. Hypothetisch wird Parl. Staatssekretär/in im BMFSFJ, verlässt den Beirat. <span class="q bt">bundestag.de</span></div>
+            <div class="ev money"><span class="yr">2022</span>Zuwendung 5,6 Mio. Verein trägt sich ins Lobbyregister ein. <span class="q hh">HH</span> <span class="q">LR</span></div>
+            <div class="ev money"><span class="yr">2025</span>9,8 Mio aus 3 Titeln. <span class="q hh">HH</span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<h3 style="margin-top:28px">Die Frage: Wie zeigen wir die Verbindungen zwischen Menschen?</h3>
+<p class="subtitle">Die Empfänger-Seite oben zeigt eine Organisation. Aber die spannenden Muster laufen quer: eine Person sitzt in drei Vereinen, ein Ministerium fördert zwölf Vereine, deren Vorstände sich überschneiden. Dafür braucht es eine eigene Ansicht.</p>
+
+<div class="options">
+  <div class="option" data-choice="netz" onclick="toggleSelect(this)">
+    <div class="letter">1</div>
+    <div class="content">
+      <h3>Netz: Knoten und Linien</h3>
+      <p>Personen, Organisationen und Ministerien als Punkte, Verbindungen als Linien (Geld blau, Posten rot, Spende grün). Man zieht, zoomt, klickt. Muster wie "alle Wege führen zu einer Person" springen ins Auge. Nachteil: Bei vielen Knoten wird es ein Haarknäuel, und ein Netz wirkt schnell wie eine Verschwörungstafel, auch wenn jede Linie belegt ist.</p>
+      <svg viewBox="0 0 320 110" width="320" height="110" style="margin-top:8px">
+        <line x1="60" y1="55" x2="160" y2="30" stroke="#2563eb" stroke-width="3"/><line x1="60" y1="55" x2="160" y2="80" stroke="#2563eb" stroke-width="2"/><line x1="160" y1="30" x2="260" y2="55" stroke="#dc2626" stroke-width="2"/><line x1="160" y1="80" x2="260" y2="55" stroke="#dc2626" stroke-width="2"/><line x1="60" y1="55" x2="260" y2="55" stroke="#dc2626" stroke-width="2" stroke-dasharray="4 3"/>
+        <circle cx="60" cy="55" r="16" fill="#dc2626"/><text x="60" y="59" font-size="9" fill="#fff" text-anchor="middle">BMFSFJ</text>
+        <circle cx="160" cy="30" r="13" fill="#64748b"/><text x="160" y="33" font-size="8" fill="#fff" text-anchor="middle">Verein 1</text>
+        <circle cx="160" cy="80" r="11" fill="#64748b"/><text x="160" y="83" font-size="8" fill="#fff" text-anchor="middle">Verein 2</text>
+        <circle cx="260" cy="55" r="12" fill="#f59e0b"/><text x="260" y="58" font-size="8" fill="#fff" text-anchor="middle">Person</text>
+      </svg>
+    </div>
+  </div>
+  <div class="option" data-choice="akte" onclick="toggleSelect(this)">
+    <div class="letter">2</div>
+    <div class="content">
+      <h3>Akte: Personenseite mit Zeitlinie, wie oben beim Verein</h3>
+      <p>Jede Person in öffentlicher Funktion bekommt eine Seite: Ämter und Mandate, Posten in Organisationen, welche dieser Organisationen Geld aus welchen Titeln bekamen, alles als Zeitlinie mit Quelle. Nüchtern, belegbar, lesbar wie ein Dossier. Nachteil: Quermuster über viele Personen sieht man nur, wenn man sie schon sucht.</p>
+    </div>
+  </div>
+  <div class="option" data-choice="netz-und-akte" onclick="toggleSelect(this)">
+    <div class="letter">3</div>
+    <div class="content">
+      <h3>Beides: Netz zum Finden, Akte zum Belegen</h3>
+      <p>Von jeder Empfänger- oder Personenseite ein Knopf "Umfeld zeigen": öffnet das Netz nur für diesen Ausschnitt (zwei Schritte weit), nie das ganze Knäuel. Klick auf einen Knoten im Netz öffnet dessen Akte. Das Netz ist Suchwerkzeug, die Akte ist das, was man teilt und zitiert.</p>
+    </div>
+  </div>
+</div>
+
+<div class="section" style="margin-top:18px; padding:14px; border:1px dashed #d1d1d6; border-radius:10px; font-size:14px; line-height:1.6;">
+  <p class="label">Was ich hier angenommen habe</p>
+  <ul style="margin:6px 0 0;">
+    <li><b>Quellen, die wir anzapfen</b>: Haushaltsrechnung (Ist-Zahlen), Zuwendungslisten aus Antworten auf Kleine Anfragen, Förderdatenbank, Lobbyregister des Bundestags, Vereinsregister (Vorstände), Nebentätigkeiten der Abgeordneten, Bundesanzeiger (Jahresabschlüsse, Geschäftsführer), Parteispenden-Listen, EU-Transparenzregister. Alles öffentlich, aber verstreut und in schlechten Formaten. Das ist der Hauptteil der Recherchearbeit.</li>
+    <li><b>Jeder Pfeil hat ein Quellen-Etikett</b> (die kleinen farbigen Kästchen oben). Ohne Quelle kein Pfeil.</li>
+    <li><b>Nur öffentliche Funktionen</b>: Minister, Staatssekretäre, Abgeordnete, Vorstände und Geschäftsführer von Empfängern. Keine Sachbearbeiter, keine Privatpersonen.</li>
+  </ul>
+</div>
+
+<p class="subtitle" style="margin-top:16px">Klick an, was passt, und sag mir im Terminal, was auf der Empfänger-Seite fehlt.</p>

@@ -1,0 +1,159 @@
+<h2>Zehn Jahre: Wie zeigen wir die Zeit?</h2>
+<p class="subtitle">Oben das Startbild (Gesamtfluss mit allen Töpfen) mit Jahresleiste in der Kopfzeile. Darunter zwei Arten, Veränderung über die Jahre sichtbar zu machen. Zahlen sind gerundete Beispielwerte.</p>
+
+<style>
+  .bh { font-family: -apple-system, "Segoe UI", sans-serif; color:#1d1d1f; background:#fff; border-radius:12px; overflow:hidden; border:1px solid #d1d1d6; font-size:12px; }
+  .bh * { box-sizing:border-box; }
+  .bh-top { display:flex; align-items:center; gap:12px; padding:10px 14px; background:#101828; color:#fff; }
+  .bh-top .logo { font-weight:800; letter-spacing:-0.5px; font-size:14px; }
+  .bh-top .logo span { color:#facc15; }
+  .bh-stat { display:flex; flex-direction:column; line-height:1.1; }
+  .bh-stat small { font-size:9px; opacity:.65; text-transform:uppercase; letter-spacing:.5px; }
+  .bh-stat b { font-size:13px; font-variant-numeric: tabular-nums; }
+  .bh-stat.bad b { color:#f87171; } .bh-stat.good b { color:#4ade80; }
+  .views { margin-left:auto; display:flex; background:rgba(255,255,255,.12); border-radius:8px; padding:2px; font-size:11px; }
+  .views span { padding:4px 9px; border-radius:6px; opacity:.7; }
+  .views span.on { background:#fff; color:#101828; opacity:1; font-weight:700; }
+  .years { display:flex; align-items:center; gap:0; padding:8px 14px; background:#1f2937; color:#fff; font-size:11px; }
+  .years .y { flex:1; text-align:center; padding:4px 0; opacity:.55; position:relative; }
+  .years .y.on { opacity:1; font-weight:800; color:#facc15; }
+  .years .y.on::after { content:""; position:absolute; left:50%; bottom:-8px; transform:translateX(-50%); border:6px solid transparent; border-bottom-color:#fff; }
+  .years .play { background:#facc15; color:#101828; border-radius:6px; padding:3px 8px; font-weight:700; margin-right:12px; }
+  .years .mode { margin-left:12px; display:flex; gap:4px; }
+  .years .mode span { padding:3px 7px; border-radius:5px; background:rgba(255,255,255,.12); opacity:.7; }
+  .years .mode span.on { background:#fff; color:#101828; opacity:1; font-weight:700; }
+  .bh-body { padding:12px 14px; }
+  .colh { display:grid; grid-template-columns: repeat(4, 1fr); font-size:10px; text-transform:uppercase; letter-spacing:.6px; color:#86868b; font-weight:600; margin-bottom:4px; }
+  .row { display:grid; grid-template-columns: 1.6fr 60px 60px 80px 120px; gap:10px; align-items:center; padding:7px 6px; border-bottom:1px solid #eee; }
+  .row.h { color:#86868b; font-size:10px; text-transform:uppercase; letter-spacing:.5px; }
+  .num { text-align:right; font-variant-numeric: tabular-nums; }
+  .grow { font-weight:800; text-align:right; font-variant-numeric: tabular-nums; }
+  .grow.hot { color:#dc2626; } .grow.warm { color:#ea580c; } .grow.cold { color:#2563eb; }
+  .spark { height:22px; }
+  .tabs { display:flex; gap:6px; margin-bottom:10px; }
+  .tabs span { font-size:11px; padding:5px 10px; border-radius:999px; border:1px solid #d1d1d6; background:#fff; }
+  .tabs span.on { background:#101828; color:#fff; border-color:#101828; }
+  .note { font-size:10px; color:#86868b; }
+</style>
+
+<!-- ===== Startbild mit Jahresleiste ===== -->
+<div class="mockup">
+  <div class="mockup-header">Startbild: Gesamtfluss 2025 mit Jahresleiste</div>
+  <div class="mockup-body" style="padding:0">
+    <div class="bh">
+      <div class="bh-top">
+        <div class="logo">Haushalts<span>baukasten</span></div>
+        <div class="bh-stat"><small>Steuern + Beiträge</small><b>1.000 Mrd</b></div>
+        <div class="bh-stat"><small>Ausgaben gesamt</small><b>1.110 Mrd</b></div>
+        <div class="bh-stat bad"><small>Neue Schulden</small><b>−82 Mrd</b></div>
+        <div class="views"><span class="on">Fluss</span><span>Karte</span><span>Säulen</span><span>Was ist gewachsen?</span></div>
+      </div>
+      <div class="years">
+        <span class="play">▶ Abspielen</span>
+        <span class="y">2015</span><span class="y">2016</span><span class="y">2017</span><span class="y">2018</span><span class="y">2019</span><span class="y">2020</span><span class="y">2021</span><span class="y">2022</span><span class="y">2023</span><span class="y">2024</span><span class="y on">2025</span>
+        <div class="mode"><span class="on">Soll</span><span>Ist</span><span>inflationsbereinigt</span></div>
+      </div>
+      <div class="bh-body">
+        <div class="colh"><span>Woher (Steuern blau, Beiträge lila)</span><span>Töpfe · Klick folgt einem Topf</span><span>Wofür</span><span>Empfänger</span></div>
+        <svg viewBox="0 0 860 300" width="100%" style="display:block; font-family:inherit;">
+          <!-- Einnahmen -->
+          <rect x="0" y="0" width="12" height="110" fill="#3b82f6"/><text x="16" y="50" font-size="10">Steuern (Bund)</text><text x="16" y="62" font-size="10" fill="#86868b">387</text>
+          <rect x="0" y="116" width="12" height="80" fill="#7c3aed"/><text x="16" y="152" font-size="10">Rentenbeiträge</text><text x="16" y="164" font-size="10" fill="#86868b">290</text>
+          <rect x="0" y="202" width="12" height="66" fill="#6d28d9"/><text x="16" y="232" font-size="10">Krankenkassenbeiträge</text><text x="16" y="244" font-size="10" fill="#86868b">250</text>
+          <rect x="0" y="274" width="12" height="26" fill="#5b21b6"/><text x="16" y="291" font-size="10">Pflege, Arbeitslosenv. 90</text>
+          <!-- Flüsse zu Töpfen -->
+          <path d="M12,0 C120,0 120,0 230,0 L230,110 C120,110 120,110 12,110 Z" fill="#3b82f6" opacity=".45"/>
+          <path d="M12,116 C120,116 120,130 230,130 L230,210 C120,210 120,196 12,196 Z" fill="#7c3aed" opacity=".45"/>
+          <path d="M12,202 C120,202 120,216 230,216 L230,282 C120,282 120,268 12,268 Z" fill="#6d28d9" opacity=".45"/>
+          <path d="M12,274 C120,274 120,288 230,288 L230,300 C120,300 120,300 12,300 Z" fill="#5b21b6" opacity=".45"/>
+          <!-- Zuschuss Bund → Rentenkasse (das verbindende Band) -->
+          <path d="M242,60 C300,60 260,118 300,118 L300,142 C260,142 300,100 242,100 Z" fill="#3b82f6" opacity=".55"/>
+          <text x="258" y="90" font-size="9" fill="#1d4ed8" font-weight="700">Zuschuss 122</text>
+          <!-- Töpfe -->
+          <rect x="230" y="0" width="12" height="118" fill="#dc2626"/><text x="246" y="26" font-size="10" font-weight="700">Bundeshaushalt</text><text x="246" y="38" font-size="10" fill="#86868b">503</text>
+          <rect x="230" y="130" width="12" height="80" fill="#7c3aed"/><text x="246" y="160" font-size="10" font-weight="700">Rentenkasse</text><text x="246" y="172" font-size="10" fill="#86868b">400 (davon 122 vom Bund)</text>
+          <rect x="230" y="216" width="12" height="66" fill="#6d28d9"/><text x="246" y="246" font-size="10" font-weight="700">Krankenkassen</text><text x="246" y="258" font-size="10" fill="#86868b">330 (14 vom Bund)</text>
+          <rect x="230" y="288" width="12" height="12" fill="#5b21b6"/><text x="246" y="297" font-size="10" font-weight="700">Pflege · Arbeit</text>
+          <!-- Flüsse Töpfe → Wofür -->
+          <path d="M242,0 C340,0 340,0 440,0 L440,40 C340,40 340,40 242,40 Z" fill="#dc2626" opacity=".4"/>
+          <path d="M242,40 C340,40 340,46 440,46 L440,118 C340,118 340,118 242,118 Z" fill="#f87171" opacity=".35"/>
+          <path d="M242,130 C340,130 340,124 440,124 L440,204 C340,204 340,210 242,210 Z" fill="#7c3aed" opacity=".4"/>
+          <path d="M242,216 C340,216 340,210 440,210 L440,276 C340,276 340,282 242,282 Z" fill="#6d28d9" opacity=".4"/>
+          <path d="M242,288 C340,288 340,282 440,282 L440,300 C340,300 340,300 242,300 Z" fill="#5b21b6" opacity=".4"/>
+          <!-- Wofür -->
+          <rect x="440" y="0" width="12" height="40" fill="#dc2626"/><text x="456" y="24" font-size="10">Soziales, Bürgergeld, …</text>
+          <rect x="440" y="46" width="12" height="72" fill="#f87171"/><text x="456" y="84" font-size="10">Verteidigung, Verkehr, Zinsen, Rest</text>
+          <rect x="440" y="124" width="12" height="80" fill="#7c3aed"/><text x="456" y="166" font-size="10">Renten</text>
+          <rect x="440" y="210" width="12" height="66" fill="#6d28d9"/><text x="456" y="246" font-size="10">Kliniken, Ärzte, Medikamente</text>
+          <rect x="440" y="282" width="12" height="18" fill="#5b21b6"/><text x="456" y="294" font-size="10">Pflege, Arbeitslosengeld</text>
+          <!-- Flüsse → Empfänger -->
+          <path d="M452,0 C560,0 560,0 660,0 L660,100 C560,100 560,118 452,118 Z" fill="#cbd5e1" opacity=".5"/>
+          <path d="M452,124 C560,124 560,110 660,110 L660,190 C560,190 560,204 452,204 Z" fill="#c4b5fd" opacity=".6"/>
+          <path d="M452,210 C560,210 560,200 660,200 L660,300 C560,300 560,300 452,300 Z" fill="#c4b5fd" opacity=".5"/>
+          <rect x="660" y="0" width="12" height="100" fill="#64748b"/><text x="676" y="40" font-size="10">Länder, Behörden,</text><text x="676" y="52" font-size="10">Firmen, Vereine …</text>
+          <rect x="660" y="110" width="12" height="80" fill="#a78bfa"/><text x="676" y="152" font-size="10">21 Mio Rentner</text>
+          <rect x="660" y="200" width="12" height="100" fill="#a78bfa"/><text x="676" y="246" font-size="10">Kliniken, Ärzte,</text><text x="676" y="258" font-size="10">Pharma, Pflegeheime</text>
+        </svg>
+        <div class="note" style="margin-top:6px">Der Zuschuss vom Bund zur Rentenkasse ist das blaue Querband, in der Gesamtsumme nur einmal gezählt. Klick auf "Bundeshaushalt" zeigt das Bild vom letzten Bildschirm.</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<h3 style="margin-top:28px">Die Frage: Wie soll man die zehn Jahre vergleichen?</h3>
+
+<div class="options">
+  <div class="option" data-choice="schieber" onclick="toggleSelect(this)">
+    <div class="letter">A</div>
+    <div class="content">
+      <h3>Jahresleiste zum Ziehen, plus "Was ist gewachsen?"</h3>
+      <p>Man zieht am Jahr oder drückt Abspielen, und die Bänder wachsen und schrumpfen, man sieht die Bewegung. Für die harte Analyse gibt es die Rangliste "Was ist gewachsen?" (unten): jeder Titel mit Wert 2015, Wert 2025, Zuwachs und kleiner Kurve. Sortierbar nach Zuwachs in Prozent oder in Euro, filterbar nach Empfänger-Art (Vereine, Firmen, Länder).</p>
+    </div>
+  </div>
+  <div class="option" data-choice="nebeneinander" onclick="toggleSelect(this)">
+    <div class="letter">B</div>
+    <div class="content">
+      <h3>Zwei Jahre nebeneinander</h3>
+      <p>Man wählt zwei Jahre (z. B. 2015 und 2025), und der Fluss wird doppelt gezeichnet, links das alte, rechts das neue Jahr, Bänder die stark gewachsen sind rot, geschrumpfte blau. Direkter Vorher-Nachher-Blick, aber die Bewegung dazwischen fehlt und zwei Flüsse brauchen viel Platz.</p>
+    </div>
+  </div>
+</div>
+
+<div class="mockup" style="margin-top:18px">
+  <div class="mockup-header">Ansicht "Was ist gewachsen?" (gehört zu A)</div>
+  <div class="mockup-body" style="padding:0">
+    <div class="bh">
+      <div class="bh-top">
+        <div class="logo">Haushalts<span>baukasten</span></div>
+        <div class="bh-stat"><small>Zeitraum</small><b>2015 → 2025</b></div>
+        <div class="bh-stat"><small>Gesamtausgaben Bund</small><b>299 → 503 Mrd (+68 %)</b></div>
+        <div class="views"><span>Fluss</span><span>Karte</span><span>Säulen</span><span class="on">Was ist gewachsen?</span></div>
+      </div>
+      <div class="bh-body">
+        <div class="tabs"><span class="on">Nach Zuwachs in %</span><span>Nach Zuwachs in €</span><span>Nur Zuwendungen an Vereine/NGOs</span><span>Nur Firmen</span><span>Nur Personal</span><span>Geschrumpft</span></div>
+        <div class="row h"><span>Titel · Ebene Titel, alle Ministerien</span><span class="num">2015</span><span class="num">2025</span><span class="num">Zuwachs</span><span>Verlauf</span></div>
+        <div class="row"><span><b>Zinsen Bundesschuld</b> <span class="note">Epl. 32</span></span><span class="num">21,1</span><span class="num">30,0</span><span class="grow warm">+42 %</span><svg class="spark" viewBox="0 0 120 22"><polyline points="0,6 12,8 24,10 36,13 48,16 60,20 72,19 84,12 96,8 108,4 120,2" fill="none" stroke="#ea580c" stroke-width="1.5"/></svg></div>
+        <div class="row"><span><b>Verteidigung gesamt</b> <span class="note">Epl. 14 + Sondervermögen</span></span><span class="num">33,0</span><span class="num">86,0</span><span class="grow hot">+161 %</span><svg class="spark" viewBox="0 0 120 22"><polyline points="0,20 12,19 24,18 36,17 48,16 60,15 72,14 84,12 96,8 108,4 120,1" fill="none" stroke="#dc2626" stroke-width="1.5"/></svg></div>
+        <div class="row"><span><b>Zuschuss Rentenversicherung</b> <span class="note">Epl. 11, 636 02</span></span><span class="num">84,0</span><span class="num">121,9</span><span class="grow warm">+45 %</span><svg class="spark" viewBox="0 0 120 22"><polyline points="0,20 12,18 24,16 36,14 48,12 60,10 72,8 84,6 96,5 108,3 120,2" fill="none" stroke="#ea580c" stroke-width="1.5"/></svg></div>
+        <div class="row"><span><b>Elterngeld</b> <span class="note">Epl. 17</span></span><span class="num">5,4</span><span class="num">8,5</span><span class="grow warm">+57 %</span><svg class="spark" viewBox="0 0 120 22"><polyline points="0,20 12,17 24,14 36,12 48,10 60,8 72,6 84,5 96,4 108,3 120,3" fill="none" stroke="#ea580c" stroke-width="1.5"/></svg></div>
+        <div class="row" style="background:#fffbeb"><span><b>Zuwendungen an Verbände &amp; Vereine, Epl. 17</b> <span class="note">Kap. 1710, Gruppe 684</span></span><span class="num">0,32</span><span class="num">1,05</span><span class="grow hot">+228 %</span><svg class="spark" viewBox="0 0 120 22"><polyline points="0,21 12,20 24,20 36,18 48,14 60,12 72,10 84,8 96,6 108,3 120,1" fill="none" stroke="#dc2626" stroke-width="1.5"/></svg></div>
+        <div class="row"><span><b>Personalausgaben Bund gesamt</b> <span class="note">Hauptgruppe 4</span></span><span class="num">30,0</span><span class="num">44,0</span><span class="grow warm">+47 %</span><svg class="spark" viewBox="0 0 120 22"><polyline points="0,20 12,18 24,17 36,15 48,13 60,11 72,9 84,7 96,5 108,3 120,2" fill="none" stroke="#ea580c" stroke-width="1.5"/></svg></div>
+        <div class="row"><span><b>Entwicklungszusammenarbeit</b> <span class="note">Epl. 23</span></span><span class="num">6,5</span><span class="num">10,3</span><span class="grow warm">+58 %</span><svg class="spark" viewBox="0 0 120 22"><polyline points="0,20 12,17 24,14 36,12 48,10 60,8 72,6 84,4 96,3 108,5 120,7" fill="none" stroke="#ea580c" stroke-width="1.5"/></svg></div>
+        <div class="row"><span><b>Bundesbeteiligung Flüchtlingskosten an Länder</b> <span class="note">Epl. 60</span></span><span class="num">0</span><span class="num">3,5</span><span class="grow hot">neu</span><svg class="spark" viewBox="0 0 120 22"><polyline points="0,22 12,20 24,10 36,6 48,5 60,6 72,7 84,6 96,5 108,5 120,6" fill="none" stroke="#dc2626" stroke-width="1.5"/></svg></div>
+        <div class="row"><span><b>Bundesanteil Bürgergeld / ALG II</b> <span class="note">Epl. 11, Kap. 1101</span></span><span class="num">29,0</span><span class="num">42,0</span><span class="grow warm">+45 %</span><svg class="spark" viewBox="0 0 120 22"><polyline points="0,18 12,17 24,16 36,15 48,15 60,12 72,11 84,10 96,6 108,3 120,2" fill="none" stroke="#ea580c" stroke-width="1.5"/></svg></div>
+        <div class="note" style="margin-top:8px">Jede Zeile klickbar: öffnet den Titel im Fluss, mit allen Jahren und den Empfängern. Gelb hinterlegt: Zeile, die ich als Beispiel für "auffällig" markiert habe. Beispielzahlen.</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="section" style="margin-top:18px; padding:14px; border:1px dashed #d1d1d6; border-radius:10px; font-size:14px; line-height:1.6;">
+  <p class="label">Was ich hier angenommen habe</p>
+  <ul style="margin:6px 0 0;">
+    <li><b>Soll und Ist</b>: Der Haushalt wird als Plan beschlossen (Soll) und am Ende anders ausgegeben (Ist). Beides ist öffentlich, und der Unterschied ist für die Spurensuche interessant. Deshalb der Umschalter.</li>
+    <li><b>Inflationsbereinigt</b> als Schalter, sonst sieht alles nach Wachstum aus.</li>
+    <li><b>Zehn Jahre 2015 bis 2025</b>; die Daten reichen auf bundeshaushalt.de bis 2012 zurück, wir könnten also auch 13 nehmen.</li>
+  </ul>
+</div>
+
+<p class="subtitle" style="margin-top:16px">Klick A oder B an und sag mir im Terminal, was dir an der Rangliste fehlt.</p>
