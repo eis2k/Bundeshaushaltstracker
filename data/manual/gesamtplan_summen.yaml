@@ -1,0 +1,12 @@
+# Amtliche Gesamtsummen des Kernhaushalts je Jahr (Soll, letzter Stand), in Euro.
+# Dienen der Pipeline als unabhängige Prüfgröße: weicht die Summe der Titel um mehr als
+# `toleranz` ab, bricht der Build ab. Quelle je Jahr: Gesamtplan im Download-Portal.
+toleranz: 1000000
+jahre:
+  2015:
+    ausgaben_kern: 299100000000
+    quelle: {dokument: "Bundeshaushaltsplan 2015, Gesamtplan", url: "https://www.bundeshaushalt.de/static/daten/2015/soll/Haushaltsplan-2015.pdf"}
+  2025:
+    ausgaben_kern: 502546135000
+    nettokreditaufnahme: 81800000000
+    quelle: {dokument: "Bundeshaushaltsplan 2025, Gesamtplan und Übersichten", url: "https://www.bundeshaushalt.de/static/daten/2025/soll/Gesamtplan%20und%20Uebersichten.pdf"}
