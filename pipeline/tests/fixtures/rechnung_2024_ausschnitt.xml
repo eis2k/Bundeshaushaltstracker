@@ -1,0 +1,530 @@
+<?xml version='1.0' encoding='utf-8'?>
+<haushalt jahr="2024">
+  <einzelplan nr="01">
+    <text>Bundespräsident und Bundespräsidialamt</text>
+    <kapitel nr="0101">
+      <einnahmen>
+        <einnahmen-ausgaben-art>
+          <text>Übrige Einnahmen</text>
+          <titel nr="23201" fkt="187" flexibilisiert="nein" seite="9" epl="01" kap="01" titel="010000000" ein-aus-art="einnahmen">
+            <text>Beteiligung der Länder an der Deutschen Künstlerhilfe und sonstige ihr zugedachte Einnahmen</text>
+            <soll wert="0,00" />
+            <ist wert="1.088.350,00" />
+          </titel>
+          <titel nr="38103" fkt="890" flexibilisiert="nein" seite="9" epl="01" kap="01" titel="010000000" ein-aus-art="einnahmen">
+            <text>Verrechnungseinnahmen gemäß § 61 BHO außerhalb der Tit. 381 .1 und 381 .7</text>
+            <soll wert="0,00" />
+            <ist wert="222.172,73" />
+          </titel>
+        </einnahmen-ausgaben-art>
+      </einnahmen>
+      <ausgaben>
+        <einnahmen-ausgaben-art>
+          <text>Sächliche Verwaltungsausgaben</text>
+          <titel nr="52901" fkt="011" flexibilisiert="nein" seite="9" epl="01" kap="01" titel="010140000" ein-aus-art="ausgaben">
+            <text>Außergewöhnlicher Aufwand aus dienstlicher Veranlassung in besonderen Fällen</text>
+            <soll wert="1.100.000,00" />
+            <ist wert="1.296.073,33" />
+          </titel>
+        </einnahmen-ausgaben-art>
+        <einnahmen-ausgaben-art>
+          <text>Zuweisungen und Zuschüsse (ohne Investitionen)</text>
+          <titel nr="68101" fkt="011" flexibilisiert="nein" seite="9" epl="01" kap="01" titel="010140000" ein-aus-art="ausgaben">
+            <text>Übernahme von Patenschaften, Ausgaben aus besonderer Veranlassung und besondere Bewilligungen.</text>
+            <soll wert="1.348.000,00" />
+            <ist wert="1.238.554,15" />
+          </titel>
+          <titel nr="68401" fkt="187" flexibilisiert="nein" seite="9" epl="01" kap="01" titel="010140000" ein-aus-art="ausgaben">
+            <text>Deutsche Künstlerhilfe</text>
+            <soll wert="2.300.000,00" />
+            <ist wert="2.713.016,03" />
+          </titel>
+        </einnahmen-ausgaben-art>
+        <einnahmen-ausgaben-art>
+          <text>Besondere Finanzierungsausgaben</text>
+          <titel nr="98103" fkt="890" flexibilisiert="nein" seite="9" epl="01" kap="01" titel="010140000" ein-aus-art="ausgaben">
+            <text>Verrechnungsausgaben gemäß § 61 BHO außerhalb der Tit. 981 .1 und 981 .7</text>
+            <soll wert="0,00" />
+            <ist wert="0,00" />
+          </titel>
+        </einnahmen-ausgaben-art>
+      </ausgaben>
+      <ausgaben>
+        <titel nr="42101" fkt="011" flexibilisiert="ja" seite="9" epl="01" kap="01" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Bezüge des Bundespräsidenten</text>
+          <soll wert="260.000,00" />
+          <ist wert="273.293,06" />
+        </titel>
+        <titel nr="42102" fkt="011" flexibilisiert="ja" seite="10" epl="01" kap="01" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Aufwandsgeld</text>
+          <soll wert="78.000,00" />
+          <ist wert="78.000,00" />
+        </titel>
+        <titel nr="45301" fkt="011" flexibilisiert="ja" seite="10" epl="01" kap="01" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Trennungsgeld, Fahrtkostenzuschüsse sowie Umzugskostenvergütungen</text>
+          <soll wert="0,00" />
+          <ist wert="0,00" />
+        </titel>
+        <titel nr="54501" fkt="011" flexibilisiert="ja" seite="10" epl="01" kap="01" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Konferenzen, Tagungen, Messen und Ausstellungen</text>
+          <soll wert="0,00" />
+          <ist wert="0,00" />
+        </titel>
+      </ausgaben>
+    </kapitel>
+    <kapitel nr="0111">
+      <einnahmen>
+        <einnahmen-ausgaben-art>
+          <text>Übrige Einnahmen</text>
+          <titel nr="28209" fkt="011" flexibilisiert="nein" seite="13" epl="01" kap="11" titel="010000000" ein-aus-art="einnahmen">
+            <text>Einnahmen aus Sponsoring, Spenden und ähnlichen freiwilligen Geldleistungen</text>
+            <soll wert="0,00" />
+            <ist wert="0,00" />
+          </titel>
+          <titel nr="38103" fkt="890" flexibilisiert="nein" seite="13" epl="01" kap="11" titel="010000000" ein-aus-art="einnahmen">
+            <text>Verrechnungseinnahmen gemäß § 61 BHO außerhalb der Tit. 381 .1 und 381 .7</text>
+            <soll wert="0,00" />
+            <ist wert="3.802,74" />
+          </titel>
+        </einnahmen-ausgaben-art>
+        <titelgruppe nr="57">
+          <text>Versorgung der Beamtinnen und Beamten sowie der Richterinnen und Richter</text>
+          <titel nr="11957" fkt="018" flexibilisiert="nein" seite="13" epl="01" kap="11" titel="010000000" ein-aus-art="einnahmen">
+            <text>Vermischte Einnahmen</text>
+            <soll wert="0,00" />
+            <ist wert="0,00" />
+          </titel>
+          <titel nr="23257" fkt="018" flexibilisiert="nein" seite="13" epl="01" kap="11" titel="010000000" ein-aus-art="einnahmen">
+            <text>Beteiligung an den Versorgungslasten des Bundes</text>
+            <soll wert="100.000,00" />
+            <ist wert="103.360,70" />
+          </titel>
+        </titelgruppe>
+      </einnahmen>
+      <ausgaben>
+        <einnahmen-ausgaben-art>
+          <text>Sächliche Verwaltungsausgaben</text>
+          <titel nr="54201" fkt="013" flexibilisiert="nein" seite="13" epl="01" kap="11" titel="011140000" ein-aus-art="ausgaben">
+            <text>Öffentlichkeitsarbeit</text>
+            <soll wert="360.000,00" />
+            <ist wert="352.057,32" />
+          </titel>
+          <titel nr="54709" fkt="011" flexibilisiert="nein" seite="13" epl="01" kap="11" titel="011140000" ein-aus-art="ausgaben">
+            <text>Ausgaben für Vorhaben, die aus Spenden, Sponsoring und ähnlichen freiwilligen Geldleistungen finanziert werden</text>
+            <soll wert="0,00" />
+            <ist wert="0,00" />
+          </titel>
+        </einnahmen-ausgaben-art>
+        <einnahmen-ausgaben-art>
+          <text>Besondere Finanzierungsausgaben</text>
+          <titel nr="98103" fkt="890" flexibilisiert="nein" seite="13" epl="01" kap="11" titel="011140000" ein-aus-art="ausgaben">
+            <text>Verrechnungsausgaben gemäß § 61 BHO außerhalb der Tit. 981 .1 und 981 .7</text>
+            <soll wert="0,00" />
+            <ist wert="11.685,80" />
+          </titel>
+        </einnahmen-ausgaben-art>
+        <titelgruppe nr="57">
+          <text>Versorgung der Beamtinnen und Beamten sowie der Richterinnen und Richter</text>
+          <titel nr="43157" fkt="018" flexibilisiert="nein" seite="13" epl="01" kap="11" titel="011140000" ein-aus-art="ausgaben">
+            <text>Versorgungsbezüge der Bundespräsidenten und deren Hinterbliebenen</text>
+            <soll wert="900.000,00" />
+            <ist wert="858.121,02" />
+          </titel>
+          <titel nr="43257" fkt="018" flexibilisiert="nein" seite="14" epl="01" kap="11" titel="011140000" ein-aus-art="ausgaben">
+            <text>Versorgungsbezüge</text>
+            <soll wert="3.500.000,00" />
+            <ist wert="3.391.568,65" />
+          </titel>
+          <titel nr="43457" fkt="018" flexibilisiert="nein" seite="14" epl="01" kap="11" titel="011140000" ein-aus-art="ausgaben">
+            <text>Zuführung an die Versorgungsrücklage</text>
+            <soll wert="208.000,00" />
+            <ist wert="191.555,87" />
+          </titel>
+          <titel nr="44357" fkt="018" flexibilisiert="nein" seite="14" epl="01" kap="11" titel="011140000" ein-aus-art="ausgaben">
+            <text>Fürsorgeleistungen und Unterstützungen einschließlich Inanspruchnahme von besonderen Fachdiensten/-kräften</text>
+            <soll wert="0,00" />
+            <ist wert="0,00" />
+          </titel>
+          <titel nr="44657" fkt="018" flexibilisiert="nein" seite="14" epl="01" kap="11" titel="011140000" ein-aus-art="ausgaben">
+            <text>Beihilfen aufgrund der Beihilfevorschriften</text>
+            <soll wert="794.000,00" />
+            <ist wert="1.294.602,77" />
+          </titel>
+          <titel nr="45357" fkt="018" flexibilisiert="nein" seite="14" epl="01" kap="11" titel="011140000" ein-aus-art="ausgaben">
+            <text>Trennungsgeld, Fahrtkostenzuschüsse sowie Umzugskostenvergütungen</text>
+            <soll wert="0,00" />
+            <ist wert="0,00" />
+          </titel>
+          <titel nr="63257" fkt="018" flexibilisiert="nein" seite="14" epl="01" kap="11" titel="011140000" ein-aus-art="ausgaben">
+            <text>Erstattungen des Bundes für Versorgungslasten</text>
+            <soll wert="0,00" />
+            <ist wert="520.285,99" />
+          </titel>
+        </titelgruppe>
+      </ausgaben>
+      <ausgaben>
+        <titel nr="42401" fkt="011" flexibilisiert="ja" seite="14" epl="01" kap="11" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Zuführung an die Versorgungsrücklage</text>
+          <soll wert="0,00" />
+          <ist wert="198.025,07" />
+        </titel>
+        <titel nr="44101" fkt="840" flexibilisiert="ja" seite="14" epl="01" kap="11" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Beihilfen aufgrund der Beihilfevorschriften</text>
+          <soll wert="380.000,00" />
+          <ist wert="327.977,52" />
+        </titel>
+        <titel nr="44301" fkt="840" flexibilisiert="ja" seite="15" epl="01" kap="11" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Fürsorgeleistungen und Unterstützungen einschließlich Inanspruchnahme von besonderen Fachdiensten/-kräften</text>
+          <soll wert="40.000,00" />
+          <ist wert="64.164,23" />
+        </titel>
+        <titel nr="45202" fkt="223" flexibilisiert="ja" seite="15" epl="01" kap="11" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Unfallversicherung Bund und Bahn</text>
+          <soll wert="12.000,00" />
+          <ist wert="11.134,05" />
+        </titel>
+        <titel nr="52601" fkt="011" flexibilisiert="ja" seite="15" epl="01" kap="11" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Gerichts- und ähnliche Kosten</text>
+          <soll wert="20.000,00" />
+          <ist wert="5.660,80" />
+        </titel>
+        <titel nr="52602" fkt="011" flexibilisiert="ja" seite="15" epl="01" kap="11" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Sachverständige, Ausgaben für Mitglieder von Fachbeiräten und ähnlichen Ausschüssen</text>
+          <soll wert="50.000,00" />
+          <ist wert="8.992,40" />
+        </titel>
+        <titel nr="54501" fkt="011" flexibilisiert="ja" seite="15" epl="01" kap="11" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Konferenzen, Tagungen, Messen und Ausstellungen</text>
+          <soll wert="2.200.000,00" />
+          <ist wert="1.922.543,85" />
+        </titel>
+        <titel nr="63403" fkt="011" flexibilisiert="ja" seite="15" epl="01" kap="11" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Zuweisungen an den Versorgungsfonds</text>
+          <soll wert="800.000,00" />
+          <ist wert="944.513,49" />
+        </titel>
+      </ausgaben>
+    </kapitel>
+    <kapitel nr="0112">
+      <einnahmen>
+        <einnahmen-ausgaben-art>
+          <text>Verwaltungseinnahmen</text>
+          <titel nr="11999" fkt="011" flexibilisiert="nein" seite="18" epl="01" kap="12" titel="010000000" ein-aus-art="einnahmen">
+            <text>Vermischte Einnahmen</text>
+            <soll wert="2.000,00" />
+            <ist wert="13.922,50" />
+          </titel>
+          <titel nr="12401" fkt="011" flexibilisiert="nein" seite="18" epl="01" kap="12" titel="010000000" ein-aus-art="einnahmen">
+            <text>Einnahmen aus Vermietung, Verpachtung und Nutzung</text>
+            <soll wert="0,00" />
+            <ist wert="16.850,00" />
+          </titel>
+          <titel nr="13201" fkt="011" flexibilisiert="nein" seite="18" epl="01" kap="12" titel="010000000" ein-aus-art="einnahmen">
+            <text>Erlöse aus der Veräußerung von beweglichen Sachen</text>
+            <soll wert="1.000,00" />
+            <ist wert="8.623,02" />
+          </titel>
+        </einnahmen-ausgaben-art>
+        <einnahmen-ausgaben-art>
+          <text>Übrige Einnahmen</text>
+          <titel nr="38103" fkt="890" flexibilisiert="nein" seite="18" epl="01" kap="12" titel="010000000" ein-aus-art="einnahmen">
+            <text>Verrechnungseinnahmen gemäß § 61 BHO außerhalb der Tit. 381 .1 und 381 .7</text>
+            <soll wert="0,00" />
+            <ist wert="796,90" />
+          </titel>
+        </einnahmen-ausgaben-art>
+      </einnahmen>
+      <ausgaben>
+        <einnahmen-ausgaben-art>
+          <text>Zuweisungen und Zuschüsse (ohne Investitionen)</text>
+          <titel nr="68501" fkt="165" flexibilisiert="nein" seite="18" epl="01" kap="12" titel="011240000" ein-aus-art="ausgaben">
+            <text>Forschungsprojekt: Das Bundespräsidialamt und der Nationalsozialismus</text>
+            <soll wert="0,00" />
+            <ist wert="0,00" />
+          </titel>
+        </einnahmen-ausgaben-art>
+        <einnahmen-ausgaben-art>
+          <text>Besondere Finanzierungsausgaben</text>
+          <titel nr="98103" fkt="890" flexibilisiert="nein" seite="18" epl="01" kap="12" titel="011240000" ein-aus-art="ausgaben">
+            <text>Verrechnungsausgaben gemäß § 61 BHO außerhalb der Tit. 981 .1 und 981 .7</text>
+            <soll wert="0,00" />
+            <ist wert="6.163,31" />
+          </titel>
+        </einnahmen-ausgaben-art>
+      </ausgaben>
+      <ausgaben>
+        <titel nr="42201" fkt="011" flexibilisiert="ja" seite="18" epl="01" kap="12" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Bezüge und Nebenleistungen der planmäßigen Beamtinnen und Beamten</text>
+          <soll wert="7.815.000,00" />
+          <ist wert="7.083.996,74" />
+        </titel>
+        <titel nr="42202" fkt="011" flexibilisiert="ja" seite="18" epl="01" kap="12" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Bezüge und Nebenleistungen der beamteten Hilfskräfte</text>
+          <soll wert="0,00" />
+          <ist wert="0,00" />
+        </titel>
+        <titel nr="42709" fkt="011" flexibilisiert="ja" seite="18" epl="01" kap="12" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Entgelte für Arbeitskräfte mit befristeten Verträgen, sonstige Beschäftigungsentgelte (auch für Auszubildende) sowie Aufwendungen für nebenberuflich und nebenamtlich Tätige</text>
+          <soll wert="900.000,00" />
+          <ist wert="1.442.995,18" />
+        </titel>
+        <titel nr="42801" fkt="011" flexibilisiert="ja" seite="18" epl="01" kap="12" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Entgelte der Arbeitnehmerinnen und Arbeitnehmer</text>
+          <soll wert="8.980.000,00" />
+          <ist wert="10.942.338,74" />
+        </titel>
+        <titel nr="45301" fkt="011" flexibilisiert="ja" seite="19" epl="01" kap="12" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Trennungsgeld, Fahrtkostenzuschüsse sowie Umzugskostenvergütungen</text>
+          <soll wert="50.000,00" />
+          <ist wert="22.385,66" />
+        </titel>
+        <titel nr="51101" fkt="011" flexibilisiert="ja" seite="19" epl="01" kap="12" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Geschäftsbedarf und Kommunikation sowie Geräte, Ausstattungs- und Ausrüstungsgegenstände, sonstige Gebrauchsgegenstände, Software, Wartung</text>
+          <soll wert="1.521.000,00" />
+          <ist wert="1.099.577,64" />
+        </titel>
+        <titel nr="51401" fkt="011" flexibilisiert="ja" seite="19" epl="01" kap="12" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Verbrauchsmittel, Haltung von Fahrzeugen und dgl.</text>
+          <soll wert="180.000,00" />
+          <ist wert="216.338,47" />
+        </titel>
+        <titel nr="51701" fkt="011" flexibilisiert="ja" seite="19" epl="01" kap="12" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Bewirtschaftung der Grundstücke, Gebäude und Räume</text>
+          <soll wert="3.150.000,00" />
+          <ist wert="2.974.941,29" />
+        </titel>
+        <titel nr="51801" fkt="011" flexibilisiert="ja" seite="19" epl="01" kap="12" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Mieten und Pachten</text>
+          <soll wert="360.000,00" />
+          <ist wert="304.061,24" />
+        </titel>
+        <titel nr="51901" fkt="011" flexibilisiert="ja" seite="20" epl="01" kap="12" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Unterhaltung der Grundstücke und baulichen Anlagen</text>
+          <soll wert="1.708.000,00" />
+          <ist wert="1.649.085,88" />
+        </titel>
+        <titel nr="52501" fkt="011" flexibilisiert="ja" seite="20" epl="01" kap="12" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Aus- und Fortbildung</text>
+          <soll wert="190.000,00" />
+          <ist wert="100.344,83" />
+        </titel>
+        <titel nr="52604" fkt="011" flexibilisiert="ja" seite="20" epl="01" kap="12" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Kosten der Kommission unabhängiger Sachverständiger gemäß § 18 Abs. 6 Parteiengesetz</text>
+          <soll wert="0,00" />
+          <ist wert="0,00" />
+        </titel>
+        <titel nr="52701" fkt="011" flexibilisiert="ja" seite="20" epl="01" kap="12" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Dienstreisen</text>
+          <soll wert="300.000,00" />
+          <ist wert="292.149,76" />
+        </titel>
+        <titel nr="53201" fkt="011" flexibilisiert="ja" seite="20" epl="01" kap="12" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Aufträge und Dienstleistungen im Bereich Informationstechnik</text>
+          <soll wert="757.000,00" />
+          <ist wert="408.662,13" />
+        </titel>
+        <titel nr="53204" fkt="011" flexibilisiert="ja" seite="20" epl="01" kap="12" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Kosten aus Anlass von Staatsbesuchen und Reisen des Bundespräsidenten im Ausland</text>
+          <soll wert="1.400.000,00" />
+          <ist wert="1.212.274,47" />
+        </titel>
+        <titel nr="53205" fkt="011" flexibilisiert="ja" seite="20" epl="01" kap="12" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Kosten für Orden und Ehrenzeichen</text>
+          <soll wert="150.000,00" />
+          <ist wert="99.865,46" />
+        </titel>
+        <titel nr="53999" fkt="011" flexibilisiert="ja" seite="21" epl="01" kap="12" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Vermischte Verwaltungsausgaben</text>
+          <soll wert="140.000,00" />
+          <ist wert="102.350,90" />
+        </titel>
+        <titel nr="71101" fkt="011" flexibilisiert="ja" seite="21" epl="01" kap="12" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Kleine Neu-, Um- und Erweiterungsbauten</text>
+          <soll wert="900.000,00" />
+          <ist wert="111.265,51" />
+        </titel>
+        <titel nr="71201" fkt="011" flexibilisiert="ja" seite="21" epl="01" kap="12" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Baumaßnahmen von mehr als 6 000 000 € im Einzelfall</text>
+          <soll wert="0,00" />
+          <ist wert="0,00" />
+        </titel>
+        <titel nr="81101" fkt="011" flexibilisiert="ja" seite="21" epl="01" kap="12" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Erwerb von Fahrzeugen</text>
+          <soll wert="0,00" />
+          <ist wert="0,00" />
+        </titel>
+        <titel nr="81201" fkt="011" flexibilisiert="ja" seite="21" epl="01" kap="12" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Erwerb von Geräten, Ausstattungs- und Ausrüstungsgegenständen für Verwaltungszwecke (ohne IT)</text>
+          <soll wert="440.000,00" />
+          <ist wert="97.429,41" />
+        </titel>
+        <titel nr="81202" fkt="011" flexibilisiert="ja" seite="21" epl="01" kap="12" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Erwerb von Anlagen, Geräten, Ausstattungs- und Ausrüstungsgegenständen sowie Software im Bereich Informationstechnik</text>
+          <soll wert="563.000,00" />
+          <ist wert="499.076,25" />
+        </titel>
+      </ausgaben>
+    </kapitel>
+    <kapitel nr="0113">
+      <einnahmen>
+        <einnahmen-ausgaben-art>
+          <text>Verwaltungseinnahmen</text>
+          <titel nr="11999" fkt="011" flexibilisiert="nein" seite="24" epl="01" kap="13" titel="010000000" ein-aus-art="einnahmen">
+            <text>Vermischte Einnahmen</text>
+            <soll wert="0,00" />
+            <ist wert="0,00" />
+          </titel>
+          <titel nr="13201" fkt="011" flexibilisiert="nein" seite="24" epl="01" kap="13" titel="010000000" ein-aus-art="einnahmen">
+            <text>Erlöse aus der Veräußerung von beweglichen Sachen</text>
+            <soll wert="0,00" />
+            <ist wert="3.885,52" />
+          </titel>
+        </einnahmen-ausgaben-art>
+        <einnahmen-ausgaben-art>
+          <text>Übrige Einnahmen</text>
+          <titel nr="28209" fkt="011" flexibilisiert="nein" seite="24" epl="01" kap="13" titel="010000000" ein-aus-art="einnahmen">
+            <text>Einnahmen aus Sponsoring, Spenden und ähnlichen freiwilligen Geldleistungen</text>
+            <soll wert="0,00" />
+            <ist wert="0,00" />
+          </titel>
+          <titel nr="38103" fkt="890" flexibilisiert="nein" seite="24" epl="01" kap="13" titel="010000000" ein-aus-art="einnahmen">
+            <text>Verrechnungseinnahmen gemäß § 61 BHO außerhalb der Tit. 381 .1 und 381 .7</text>
+            <soll wert="0,00" />
+            <ist wert="0,00" />
+          </titel>
+        </einnahmen-ausgaben-art>
+      </einnahmen>
+      <ausgaben>
+        <einnahmen-ausgaben-art>
+          <text>Sächliche Verwaltungsausgaben</text>
+          <titel nr="51802" fkt="011" flexibilisiert="nein" seite="24" epl="01" kap="13" titel="011340000" ein-aus-art="ausgaben">
+            <text>Mieten und Pachten im Zusammenhang mit dem Einheitlichen Liegenschaftsmanagement</text>
+            <soll wert="437.000,00" />
+            <ist wert="434.946,60" />
+          </titel>
+          <titel nr="52901" fkt="011" flexibilisiert="nein" seite="24" epl="01" kap="13" titel="011340000" ein-aus-art="ausgaben">
+            <text>Außergewöhnlicher Aufwand aus dienstlicher Veranlassung in besonderen Fällen</text>
+            <soll wert="4.000,00" />
+            <ist wert="3.998,00" />
+          </titel>
+          <titel nr="54709" fkt="011" flexibilisiert="nein" seite="24" epl="01" kap="13" titel="011340000" ein-aus-art="ausgaben">
+            <text>Ausgaben für Vorhaben, die aus Spenden, Sponsoring und ähnlichen freiwilligen Geldleistungen finanziert werden</text>
+            <soll wert="0,00" />
+            <ist wert="16,43-" />
+          </titel>
+        </einnahmen-ausgaben-art>
+        <einnahmen-ausgaben-art>
+          <text>Besondere Finanzierungsausgaben</text>
+          <titel nr="98101" fkt="890" flexibilisiert="nein" seite="24" epl="01" kap="13" titel="011340000" ein-aus-art="ausgaben">
+            <text>Leistungen an Bundesbehörden zur Durchführung von Aufträgen</text>
+            <soll wert="0,00" />
+            <ist wert="0,00" />
+          </titel>
+          <titel nr="98103" fkt="890" flexibilisiert="nein" seite="24" epl="01" kap="13" titel="011340000" ein-aus-art="ausgaben">
+            <text>Verrechnungsausgaben gemäß § 61 BHO außerhalb der Tit. 981 .1 und 981 .7</text>
+            <soll wert="0,00" />
+            <ist wert="7.620,72" />
+          </titel>
+        </einnahmen-ausgaben-art>
+      </ausgaben>
+      <ausgaben>
+        <titel nr="42201" fkt="011" flexibilisiert="ja" seite="25" epl="01" kap="13" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Bezüge und Nebenleistungen der planmäßigen Beamtinnen und Beamten</text>
+          <soll wert="655.000,00" />
+          <ist wert="539.831,01" />
+        </titel>
+        <titel nr="42709" fkt="011" flexibilisiert="ja" seite="25" epl="01" kap="13" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Entgelte für Arbeitskräfte mit befristeten Verträgen, sonstige Beschäftigungsentgelte (auch für Auszubildende) sowie Aufwendungen für nebenberuflich und nebenamtlich Tätige</text>
+          <soll wert="30.000,00" />
+          <ist wert="34.086,24" />
+        </titel>
+        <titel nr="42801" fkt="011" flexibilisiert="ja" seite="25" epl="01" kap="13" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Entgelte der Arbeitnehmerinnen und Arbeitnehmer</text>
+          <soll wert="1.317.000,00" />
+          <ist wert="1.333.167,77" />
+        </titel>
+        <titel nr="44101" fkt="840" flexibilisiert="ja" seite="25" epl="01" kap="13" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Beihilfen aufgrund der Beihilfevorschriften</text>
+          <soll wert="45.000,00" />
+          <ist wert="34.705,14" />
+        </titel>
+        <titel nr="44301" fkt="840" flexibilisiert="ja" seite="25" epl="01" kap="13" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Fürsorgeleistungen und Unterstützungen einschließlich Inanspruchnahme von besonderen Fachdiensten/-kräften</text>
+          <soll wert="6.000,00" />
+          <ist wert="7.839,05" />
+        </titel>
+        <titel nr="45202" fkt="223" flexibilisiert="ja" seite="25" epl="01" kap="13" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Unfallversicherung Bund und Bahn</text>
+          <soll wert="2.000,00" />
+          <ist wert="722,63" />
+        </titel>
+        <titel nr="45301" fkt="011" flexibilisiert="ja" seite="25" epl="01" kap="13" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Trennungsgeld, Fahrtkostenzuschüsse sowie Umzugskostenvergütungen</text>
+          <soll wert="0,00" />
+          <ist wert="0,00" />
+        </titel>
+        <titel nr="51101" fkt="011" flexibilisiert="ja" seite="26" epl="01" kap="13" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Geschäftsbedarf und Kommunikation sowie Geräte, Ausstattungs- und Ausrüstungsgegenstände, sonstige Gebrauchsgegenstände, Software, Wartung</text>
+          <soll wert="116.000,00" />
+          <ist wert="65.014,45" />
+        </titel>
+        <titel nr="51801" fkt="011" flexibilisiert="ja" seite="26" epl="01" kap="13" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Mieten und Pachten</text>
+          <soll wert="55.000,00" />
+          <ist wert="0,00" />
+        </titel>
+        <titel nr="53201" fkt="011" flexibilisiert="ja" seite="26" epl="01" kap="13" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Aufträge und Dienstleistungen im Bereich Informationstechnik</text>
+          <soll wert="126.000,00" />
+          <ist wert="154.099,91" />
+        </titel>
+        <titel nr="53999" fkt="011" flexibilisiert="ja" seite="26" epl="01" kap="13" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Vermischte Verwaltungsausgaben</text>
+          <soll wert="196.000,00" />
+          <ist wert="196.693,89" />
+        </titel>
+        <titel nr="63403" fkt="011" flexibilisiert="ja" seite="26" epl="01" kap="13" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Zuweisungen an den Versorgungsfonds</text>
+          <soll wert="161.000,00" />
+          <ist wert="104.534,43" />
+        </titel>
+        <titel nr="71101" fkt="011" flexibilisiert="ja" seite="26" epl="01" kap="13" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Kleine Neu-, Um- und Erweiterungsbauten</text>
+          <soll wert="0,00" />
+          <ist wert="0,00" />
+        </titel>
+        <titel nr="81101" fkt="011" flexibilisiert="ja" seite="26" epl="01" kap="13" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Erwerb von Fahrzeugen</text>
+          <soll wert="10.000,00" />
+          <ist wert="0,00" />
+        </titel>
+        <titel nr="81201" fkt="011" flexibilisiert="ja" seite="26" epl="01" kap="13" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Erwerb von Geräten, Ausstattungs- und Ausrüstungsgegenständen für Verwaltungszwecke (ohne IT)</text>
+          <soll wert="0,00" />
+          <ist wert="0,00" />
+        </titel>
+        <titel nr="81202" fkt="011" flexibilisiert="ja" seite="26" epl="01" kap="13" titel="010000000" ein-aus-art="flex-ausgaben">
+          <text>Erwerb von Anlagen, Geräten, Ausstattungs- und Ausrüstungsgegenständen sowie Software im Bereich Informationstechnik</text>
+          <soll wert="80.000,00" />
+          <ist wert="2.142,00" />
+        </titel>
+      </ausgaben>
+    </kapitel>
+  </einzelplan>
+  <einzelplan nr="06">
+    <text>Bundesministerium des Innern und für Heimat</text>
+    <kapitel nr="0602">
+      <ausgaben>
+        <titelgruppe>
+          <text>Polizei-IT-Fonds</text>
+          <titel nr="51161" fkt="011" flexibilisiert="nein" seite="309" epl="06" kap="02" titel="060000000" ein-aus-art="ausgaben">
+            <text>Geschäftsbedarf und Kommunikation sowie Geräte, Ausstattungs- und Ausrüstungsgegenstände, sonstige Gebrauchsgegenstände, Software, Wartung</text>
+            <soll wert="0,00" />
+            <ist wert="0,00" />
+          </titel>
+          <titel nr="" fkt="" seite="" epl="06" kap="02" titel="060000000" ein-aus-art="ausgaben" />
+        </titelgruppe>
+      </ausgaben>
+    </kapitel>
+  </einzelplan>
+</haushalt>
