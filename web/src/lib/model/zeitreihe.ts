@@ -63,6 +63,22 @@ function isZuwendung(titel: string): boolean {
   return (g >= 63 && g <= 69) || g === 88 || g === 89;
 }
 
+/** Gesamtausgaben des Bundes (Summe der Einzelpläne) im Start- und Endjahr, mit demselben Stand und derselben Preisbasis wie die Zeilen. */
+export function totalGrowth(z: Zeitreihe, opts: Pick<GrowthOpts, "von" | "bis" | "stand" | "real" | "vpi">): { von: number; bis: number } {
+  const iVon = z.jahre.indexOf(opts.von);
+  const iBis = z.jahre.indexOf(opts.bis);
+  let von = 0, bis = 0;
+  if (iVon < 0 || iBis < 0) return { von, bis };
+  for (const e of Object.values(z.epl)) {
+    if (e.art !== "A") continue;
+    const series = opts.stand === "ist" ? e.ist : e.soll;
+    const a = series[iVon], b = series[iBis];
+    if (a !== null) von += opts.real && opts.vpi ? deflate(a, opts.von, opts.bis, opts.vpi) : a;
+    if (b !== null) bis += b;
+  }
+  return { von, bis };
+}
+
 export function rankGrowth(z: Zeitreihe, opts: GrowthOpts): GrowthRow[] {
   const iVon = z.jahre.indexOf(opts.von);
   const iBis = z.jahre.indexOf(opts.bis);

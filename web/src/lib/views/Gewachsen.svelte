@@ -1,7 +1,7 @@
 <script lang="ts">
   import { onMount } from "svelte";
   import { fmtDelta, fmtEuro } from "../model/format";
-  import { rankGrowth, type Ebene, type GrowthFilter, type GrowthRow } from "../model/zeitreihe";
+  import { rankGrowth, totalGrowth, type Ebene, type GrowthFilter, type GrowthRow } from "../model/zeitreihe";
   import type { AppState } from "../state.svelte";
   import { colorFor } from "./colors";
 
@@ -30,13 +30,9 @@
     ? rankGrowth(app.zeitreihe, { von, bis: bisEffective, ebene, stand: app.stand, sort, filter, real: app.real, vpi: app.vpi ?? undefined, includeSv: app.scenario.includeSv, min, konkordanz: app.konkordanz })
     : []);
   const shown = $derived(rows.slice(0, limit));
-  const total = $derived(app.zeitreihe ? (() => {
-    const s = app.zeitreihe!.epl;
-    const i0 = app.zeitreihe!.jahre.indexOf(von), i1 = app.zeitreihe!.jahre.indexOf(bisEffective);
-    let a = 0, b = 0;
-    for (const e of Object.values(s)) { if (e.art !== "A") continue; a += e.soll[i0] ?? 0; b += e.soll[i1] ?? 0; }
-    return { a, b };
-  })() : null);
+  const total = $derived(app.zeitreihe
+    ? (() => { const t = totalGrowth(app.zeitreihe!, { von, bis: bisEffective, stand: app.stand, real: app.real, vpi: app.vpi ?? undefined }); return { a: t.von, b: t.bis }; })()
+    : null);
 
   const filters: { id: GrowthFilter; label: string; title: string }[] = [
     { id: "alle", label: "Alle Ausgaben", title: "Alle Ausgabentitel" },
@@ -56,6 +52,7 @@
     const parts = r.id.split("-");
     const path = ebene === "epl" ? [parts[0]] : ebene === "kap" ? [parts[0], r.id] : [parts[0], `${parts[0]}-${parts[1]}`, r.id];
     void app.setJahr(bisEffective);
+    app.setTopf("bund");
     app.setFocus(path);
     app.setSelected(r.id);
     app.setView("fluss");
@@ -66,14 +63,8 @@
     const p = Math.round(r.pct * 100);
     return `${p > 0 ? "+" : ""}${p} %`;
   }
-  function heat(r: GrowthRow): string {
-    if (r.neu) return "hot";
-    if (r.pct === null) return "";
-    if (r.pct >= 1) return "hot";
-    if (r.pct >= 0.3) return "warm";
-    if (r.pct < 0) return "cold";
-    return "";
-  }
+  // Keine Wertungsfarben: Wachstum und Rückgang unterscheiden sich nur durch das Vorzeichen im Text
+  function heat(_r: GrowthRow): string { return ""; }
 </script>
 
 <div class="gewachsen">
@@ -119,7 +110,7 @@
             <td class="num tabular">{r.von ? fmtEuro(r.von) : "–"}</td>
             <td class="num tabular">{fmtEuro(r.bis)}</td>
             <td class="num tabular grow {heat(r)}">{pctLabel(r)}<small>{fmtDelta(r.abs)}</small></td>
-            <td><svg viewBox="0 0 120 22" class="spark"><polyline points={spark(r.verlauf)} fill="none" stroke={r.abs < 0 ? "#2563eb" : "#dc2626"} stroke-width="1.5" /></svg></td>
+            <td><svg viewBox="0 0 120 22" class="spark"><polyline points={spark(r.verlauf)} fill="none" stroke="#475569" stroke-width="1.5" /></svg></td>
           </tr>
         {/each}
       </tbody>
@@ -127,7 +118,7 @@
     {#if rows.length > limit}
       <button class="more" onclick={() => (limit += 50)}>Weitere {Math.min(50, rows.length - limit)} von {rows.length} zeigen</button>
     {/if}
-    <p class="muted small">Jede Zeile öffnet den Posten im Fluss. Prozent bezieht sich auf das Startjahr; „neu“ heißt: im Startjahr kein Ansatz. Quelle: bundeshaushalt.de (Soll-Endstände, Haushaltsrechnungen).</p>
+    <p class="muted small">Jede Zeile öffnet den Posten im Fluss. Prozent bezieht sich auf das Startjahr; „neu“ heißt: im Startjahr kein Ansatz. Ein Zuwachs ist für sich genommen weder gut noch schlecht; die Liste zeigt nur, wo sich etwas bewegt hat. Quelle: bundeshaushalt.de (Soll-Endstände, Haushaltsrechnungen).</p>
   {/if}
 </div>
 
@@ -148,7 +139,6 @@
   td small { display: block; font-size: 10px; font-weight: 400; }
   .num { text-align: right; white-space: nowrap; }
   .grow { font-weight: 800; }
-  .grow.hot { color: #dc2626; } .grow.warm { color: #ea580c; } .grow.cold { color: #2563eb; }
   .dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 6px; vertical-align: middle; }
   .spark { width: 120px; height: 22px; display: block; }
   .more { margin-top: 10px; font-size: 12px; background: var(--bg); border: 1px solid var(--border); border-radius: 8px; padding: 6px 12px; cursor: pointer; color: var(--fg); }

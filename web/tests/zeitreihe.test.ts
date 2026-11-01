@@ -107,3 +107,14 @@ describe("rankGrowth", () => {
     expect(rankGrowth(z, { ...base, includeSv: true }).find((r) => r.id === "60-6092-89310")).toBeTruthy();
   });
 });
+
+describe("totalGrowth (Review 12)", () => {
+  test("uses the same stand and deflation as the rows", async () => {
+    const { totalGrowth } = await import("../src/lib/model/zeitreihe");
+    expect(totalGrowth(z, { ...base })).toEqual({ von: 800, bis: 1000 });
+    expect(totalGrowth(z, { ...base, stand: "ist", bis: 2020 })).toEqual({ von: 790, bis: 880 });
+    const real = totalGrowth(z, { ...base, real: true, vpi });
+    expect(real.von).toBeCloseTo(800 * 120 / 90, 5);
+    expect(real.bis).toBe(1000);
+  });
+});

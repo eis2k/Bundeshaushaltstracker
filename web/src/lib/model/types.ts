@@ -38,6 +38,8 @@ export interface YearData {
 export interface Index {
   jahre: number[];
   ist_bis: number | null;
+  /** Jahre, für die Wirtschaftspläne der Sondervermögen vorliegen (Schalter Nebenhaushalte). */
+  sv_jahre?: number[];
   summen: Record<string, { ausgaben: number; einnahmen: number; kredite: number }>;
   erzeugt: string;
 }

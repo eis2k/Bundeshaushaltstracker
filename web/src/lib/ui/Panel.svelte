@@ -78,6 +78,23 @@
   const delta = $derived(info ? info.effective - info.original : 0);
   const share = $derived(info && info.parentOriginal > 0 ? Math.abs(delta) / info.parentOriginal : 0);
   const quelle = $derived(app.stand === "ist" ? app.data?.quelle.ist : app.data?.quelle.soll);
+
+  /** Ausgewählter Knoten einer Sozialkasse (topf:grv, posten:grv:renten, beitraege:grv, defizit:grv, ruecklage:grv). */
+  const kasse = $derived.by(() => {
+    const id = app.selected;
+    const sk = app.viewSozialkassen;
+    const t = app.toepfe;
+    if (!id || !sk || !t) return null;
+    const m = id.match(/^(topf|posten|beitraege|sonstige|defizit|ruecklage):([a-z]+)(?::(.+))?$/);
+    if (!m || m[2] === "bund") return null;
+    const data = sk.toepfe[m[2]];
+    const topf = t.toepfe.find((x) => x.id === m[2]);
+    if (!data || !topf) return null;
+    const posten = m[1] === "posten" ? data.ausgaben.find((p) => p.id === m[3]) ?? null : null;
+    const q = data.quelle;
+    const quelle = typeof q === "string" ? { kurz: q, dokument: null, url: null } : q;
+    return { kind: m[1], data, topf, posten, quelle };
+  });
   const erklaerung = $derived(info ? app.texte[info.id] ?? null : null);
 
   let betrag = $state("");
@@ -98,7 +115,35 @@
   {#if app.unknownIds.length}
     <div class="note warn">{app.unknownIds.length} Einstellung{app.unknownIds.length === 1 ? "" : "en"} betreffen Titel, die es {app.jahr} nicht gibt, und bleiben hier ohne Wirkung.</div>
   {/if}
-  {#if !info}
+  {#if kasse}
+    <div class="path">Sozialkasse › {kasse.data.name}{#if kasse.posten} › {kasse.posten.text}{/if}</div>
+    <h3>{kasse.posten ? kasse.posten.text : kasse.kind === "beitraege" ? `Beiträge ${kasse.data.kurz}` : kasse.kind === "defizit" ? `Defizit ${kasse.data.kurz}` : kasse.kind === "ruecklage" ? `Rücklage ${kasse.data.kurz}` : kasse.data.name}</h3>
+    {#if kasse.posten}
+      <div class="kv"><span>Betrag {app.jahr}</span><b class="tabular">{fmtEuro(kasse.posten.betrag)}</b></div>
+      <div class="kv"><span>Anteil an den Ausgaben der Kasse</span><b class="tabular">{fmtPct(kasse.topf.ausgaben ? kasse.posten.betrag / kasse.topf.ausgaben : 0)}</b></div>
+    {:else}
+      <div class="kv"><span>Einnahmen</span><b class="tabular">{fmtEuro(kasse.topf.einnahmen)}{#if kasse.topf.einnahmen !== kasse.topf.einnahmenOriginal} <small class="muted">war {fmtEuro(kasse.topf.einnahmenOriginal)}</small>{/if}</b></div>
+      <div class="kv"><span>davon Bundesmittel</span><b class="tabular">{fmtEuro(kasse.topf.bundesmittel)}</b></div>
+      <div class="kv"><span>Ausgaben</span><b class="tabular">{fmtEuro(kasse.topf.ausgaben)}</b></div>
+      <div class="kv"><span>{kasse.topf.saldo >= 0 ? "Rücklage (Überschuss)" : "Defizit"}</span><b class="tabular" class:bad={kasse.topf.saldo < 0} class:good={kasse.topf.saldo >= 0}>{fmtEuro(Math.abs(kasse.topf.saldo))}</b></div>
+      <div class="box">
+        <b>Einnahmen</b>
+        {#each kasse.data.einnahmen as e}<p><span class="tabular">{fmtEuro(e.betrag)}</span> {e.text}{#if e.geprueft === false} <span class="tag">ungeprüft</span>{/if}</p>{/each}
+        <b>Ausgaben</b>
+        {#each kasse.data.ausgaben as e}<p><span class="tabular">{fmtEuro(e.betrag)}</span> {e.text}{#if e.geprueft === false} <span class="tag">ungeprüft</span>{/if}</p>{/each}
+      </div>
+    {/if}
+    {#if kasse.data.geschaetzt}
+      <div class="note warn">Geschätzt: {kasse.data.hinweis ?? "zwischen Stützjahren interpoliert"}. Amtliche Werte liegen für 2015, 2020, 2024 und 2025 vor.</div>
+    {/if}
+    {#if kasse.data.bundesmittel.length}
+      <div class="note">Verknüpfte Titel im Bundeshaushalt: {kasse.data.bundesmittel.map((b) => `${b.titel} (${b.text})`).join(", ")}. Regler an diesen Titeln verändern die Einnahmen dieser Kasse.</div>
+    {/if}
+    <div class="src">
+      Quelle: {#if kasse.quelle?.url}<a href={kasse.quelle.url} target="_blank" rel="noopener">{kasse.quelle.dokument ?? kasse.quelle.kurz}</a>{:else}{kasse.quelle?.kurz ?? "siehe data/manual/sozialkassen.yaml"}{/if}
+      {#if kasse.data.hinweis && !kasse.data.geschaetzt}<br /><span class="muted">{kasse.data.hinweis}</span>{/if}
+    </div>
+  {:else if !info}
     <div class="empty">
       <b>Klick auf ein Band, einen Knoten oder eine Kachel.</b>
       <p>Dann siehst du hier, was es ist, was es kostet, woher die Zahl stammt, und kannst daran drehen.</p>
@@ -122,7 +167,7 @@
         </span>
       </div>
     {:else}
-      <div class="note">Leertitel ohne Ansatz. Ein Regler hätte hier keine Wirkung.</div>
+      <div class="note">{info.original < 0 ? "Absetzungstitel (negativer Ansatz, z. B. Globale Minderausgabe oder Disagio). Ein Regler ist hier nicht vorgesehen." : "Leertitel ohne Ansatz. Ein Regler hätte hier keine Wirkung."}</div>
     {/if}
     {#if overridden.length}
       <div class="note">{overridden.length} untergeordnete{overridden.length === 1 ? "r Posten ist" : " Posten sind"} einzeln gesetzt und folgen diesem Regler nicht.</div>

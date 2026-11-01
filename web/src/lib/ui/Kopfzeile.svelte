@@ -37,6 +37,9 @@
       <small>{b.neueSchulden >= 0 ? "Neue Schulden (Bund)" : "Überschuss (Bund)"}</small>
       <b class="tabular">{fmtEuro(Math.abs(b.neueSchulden))}</b>
     </div>
+    <div class="stat" class:good={b.delta > 0} class:bad={b.delta < 0}>
+      <small>ggü. Original (Bund)</small><b class="tabular">{fmtDelta(b.delta)}</b>
+    </div>
     <button class="stat toepfe" onclick={() => (showToepfe = !showToepfe)} title="Saldo je Sozialkasse">
       <small>Kassen-Salden {showToepfe ? "▴" : "▾"}</small>
       <b class="tabular" class:bad={gesamt.toepfe.some((t) => t.saldo < 0)}>{gesamt.toepfe.filter((t) => t.saldo < 0).length} im Minus</b>

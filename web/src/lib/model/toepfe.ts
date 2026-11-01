@@ -1,15 +1,17 @@
 import { balance, effectiveValue } from "./scenario";
 import type { NodeId, YearData } from "./types";
 
-export interface Posten { id: string; text: string; betrag: number }
+export interface Posten { id: string; text: string; betrag: number; geprueft?: boolean }
+export interface SkQuelle { kurz: string | null; dokument: string | null; url: string | null }
 
 export interface TopfData {
   name: string;
   kurz: string;
   farbe: string;
   geschaetzt: boolean;
-  quelle: string | null;
+  quelle: SkQuelle | string | null;
   hinweis?: string | null;
+  geprueft?: boolean;
   bundesmittel: { titel: NodeId; text: string }[];
   einnahmen: Posten[];
   ausgaben: Posten[];
@@ -18,7 +20,7 @@ export interface TopfData {
 export interface SozialkassenYear {
   jahr: number;
   toepfe: Record<string, TopfData>;
-  querfluesse: { von: string; nach: string; id: string; text: string; quelle?: string | null }[];
+  querfluesse: { von: string; nach: string; id: string; text: string; quelle?: SkQuelle | string | null }[];
 }
 
 export interface Topf {
@@ -26,7 +28,7 @@ export interface Topf {
   name: string;
   kurz: string;
   geschaetzt: boolean;
-  quelle: string | null;
+  quelle: SkQuelle | string | null;
   hinweis?: string | null;
   einnahmen: number;
   einnahmenOriginal: number;
