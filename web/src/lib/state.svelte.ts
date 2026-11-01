@@ -95,6 +95,8 @@ export class AppState {
       this.view = final.view;
       this.schnitt = final.schnitt;
       this.topf = final.topf;
+      // Ein geteilter Fokuspfad öffnet den letzten Knoten auch im Panel
+      this.selected = final.focus.length ? final.focus[final.focus.length - 1] : null;
       await this.loadSk(jahr);
       this.focus = final.focus;
       this.scenario = { ...final.scenario, jahr };

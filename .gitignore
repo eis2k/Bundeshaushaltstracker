@@ -9,3 +9,7 @@ Thumbs.db
 # Rohdaten werden nicht committet, nur das Abruflog
 data/raw/**
 !data/raw/fetch_log.json
+# Prüf-Ausgaben und Website-Build
+data/build/_check/
+data/build/_texts_check/
+web/dist/

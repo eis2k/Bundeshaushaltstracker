@@ -71,6 +71,7 @@ describe("AppState", () => {
     expect(t.scenario.factors).toEqual({ "14": 2 });
     expect(t.scenario.presets).toEqual(["rente_halb"]);
     expect(t.fromShare).toBe(true);
+    expect(t.selected).toBe("11-1102");
   });
 
   test("reset clears factors and presets but keeps year and view", async () => {

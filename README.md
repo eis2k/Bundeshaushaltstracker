@@ -4,7 +4,7 @@
 
 Und weil Zuschauen nicht reicht: Jeder kann den Haushalt umbauen. Rentenzuschuss halbieren, Verteidigung verdoppeln, einen Titel streichen, und sofort sehen, was das mit Einnahmen, Ausgaben und Schulden macht. Den eigenen Haushalt teilt man als Link.
 
-> Status: Konzeptphase. Das Konzept ist fertig, der Code noch nicht begonnen. Siehe [Konzept](docs/superpowers/specs/2026-11-01-bundeshaushaltstracker-design.md) und die Mockups unter `docs/mockups/`.
+> Status: Stufe 1 im Aufbau, lokal lauffähig (Bund 2015–2026 mit Soll und Ist, Sozialkassen grob, Fluss/Karte/Säulen/Rangliste, Presets, Teilen). Noch nicht veröffentlicht. Siehe [Konzept](docs/superpowers/specs/2026-11-01-bundeshaushaltstracker-design.md), [Umsetzungsplan Stufe 1](docs/superpowers/plans/2026-11-01-stufe-1-bund.md) und die Mockups unter `docs/mockups/`.
 
 ---
 
@@ -81,6 +81,19 @@ Die Ausbaustufen, jede für sich veröffentlichbar:
 2. **Empfänger**: Empfänger-Seiten mit Zeitlinie, Empfänger-Art-Schnitt, Personal-Regler.
 3. **Personen**: Akten, Netz, Melde- und Korrekturweg.
 4. **Ländervergleich**: Tafeln, dann „System übernehmen“-Presets.
+
+## Lokal starten
+
+```bash
+cd pipeline && uv sync && uv run bht fetch && uv run bht build   # Daten laden und aufbereiten (einmalig, ~2 Minuten)
+cd ../web && npm install && npm run dev                           # Entwicklungsserver auf http://localhost:5173
+```
+
+Tests: `cd pipeline && uv run pytest` und `cd web && npm test && npm run check`.
+
+## Deployment
+
+`npm run build` erzeugt in `web/dist/` die komplette Seite samt Daten. `deploy/deploy.sh` baut und spielt sie per rsync auf den Server (Zugang über die Umgebungsvariablen `BHT_HOST`, `BHT_USER`, optional `BHT_PATH`). Die nginx-Konfiguration liegt in `deploy/nginx.conf`; HTTPS kommt über certbot. Vor der Veröffentlichung sind `web/public/impressum.html` und `web/public/datenschutz.html` mit den Betreiberangaben zu füllen.
 
 ## Mitmachen
 
