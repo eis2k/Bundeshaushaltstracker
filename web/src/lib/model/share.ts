@@ -24,6 +24,10 @@ export function encodeScenario(s: Scenario, view: ViewId, focus: NodeId[], schni
     .filter(([, pct]) => pct !== 100)
     .map(([id, pct]) => `${id}:${pct}`);
   if (o.length) parts.push(`o=${o.join(",")}`);
+  const x = Object.entries(s.steuern ?? {})
+    .sort(([a], [b]) => a.localeCompare(b))
+    .map(([id, werte]) => [id, ...Object.entries(werte).sort(([a], [b]) => a.localeCompare(b)).map(([k, v]) => `${k}=${v}`)].join(":"));
+  if (x.length) parts.push(`x=${x.join(",")}`);
   if (s.includeSv) parts.push("sv=1");
   return parts.join(";");
 }
@@ -48,7 +52,7 @@ export function knownIds(data: YearData): Set<string> {
   return ids;
 }
 
-export function decodeScenario(hash: string, data: YearData): { scenario: Scenario; view: ViewId; focus: NodeId[]; unknownIds: NodeId[]; schnitt: Schnitt; topf: TopfId } {
+export function decodeScenario(hash: string, data: YearData, steuerIds?: string[]): { scenario: Scenario; view: ViewId; focus: NodeId[]; unknownIds: NodeId[]; schnitt: Schnitt; topf: TopfId } {
   const fallback = { scenario: { jahr: data.jahr, factors: {}, presets: [], includeSv: false } as Scenario, view: "fluss" as ViewId, focus: [] as NodeId[], unknownIds: [] as NodeId[], schnitt: "ressort" as Schnitt, topf: "gesamt" as TopfId };
   const raw = hash.startsWith("#") ? hash.slice(1) : hash;
   const parts = raw.split(";");
@@ -86,8 +90,23 @@ export function decodeScenario(hash: string, data: YearData): { scenario: Scenar
       if (pct !== 100) factors[id] = pct / 100;
     }
   }
-  return {
-    scenario: { jahr: Number.isFinite(jahr) ? jahr : data.jahr, factors, presets, includeSv: kv.get("sv") === "1" },
-    view, focus, unknownIds, schnitt, topf,
-  };
+  const steuern: Record<string, Record<string, number>> = {};
+  if (kv.get("x")) {
+    for (const item of kv.get("x")!.split(",")) {
+      const [id, ...rest] = item.split(":");
+      if (!id) continue;
+      if (steuerIds && !steuerIds.includes(id)) { unknownIds.push(`x:${id}`); continue; }
+      const werte: Record<string, number> = {};
+      for (const kvp of rest) {
+        const j = kvp.indexOf("=");
+        if (j <= 0) continue;
+        const v = Number.parseFloat(kvp.slice(j + 1));
+        if (Number.isFinite(v)) werte[kvp.slice(0, j)] = v;
+      }
+      steuern[id] = werte;
+    }
+  }
+  const scenario: Scenario = { jahr: Number.isFinite(jahr) ? jahr : data.jahr, factors, presets, includeSv: kv.get("sv") === "1" };
+  if (Object.keys(steuern).length) scenario.steuern = steuern;
+  return { scenario, view, focus, unknownIds, schnitt, topf };
 }

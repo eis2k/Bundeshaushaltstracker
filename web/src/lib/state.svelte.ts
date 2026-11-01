@@ -2,6 +2,7 @@ import { applyPresets } from "./model/presets";
 import { balance as computeBalance, setFactor as applyFactor } from "./model/scenario";
 import { decodeScenario, encodeScenario, knownIds, type TopfId } from "./model/share";
 import { buildToepfe, type SozialkassenYear, type ToepfeResult } from "./model/toepfe";
+import { defaultWerte, steuerEinnahmen, type SteuerErgebnis, type SteuerSzenario } from "./model/steuern";
 import type { Balance, GesetzFreiMap, Index, NodeId, Preset, Scenario, SolverReport, ViewId, YearData } from "./model/types";
 import { deflate, type Vpi, type Zeitreihe } from "./model/zeitreihe";
 import type { Schnitt } from "./model/schnitte";
@@ -14,6 +15,7 @@ export interface Loader {
   loadZeitreihe?: () => Promise<Zeitreihe>;
   loadVpi?: () => Promise<Vpi>;
   loadSozialkassen?: (jahr: number) => Promise<SozialkassenYear>;
+  loadSteuern?: () => Promise<SteuerSzenario[]>;
   loadTexte?: () => Promise<Record<string, { text: string; quelle: string[]; stand: string }>>;
   loadKonkordanz?: () => Promise<Record<string, { ab: number; hinweis: string; quelle?: string }>>;
 }
@@ -54,6 +56,7 @@ export class AppState {
   /** Welcher Topf im Fluss gezeigt wird: Gesamtfluss, Bund oder eine Sozialkasse. */
   topf = $state<TopfId>("gesamt");
   sozialkassen = $state<SozialkassenYear | null>(null);
+  steuern = $state<SteuerSzenario[]>([]);
   texte = $state<Record<string, { text: string; quelle: string[]; stand: string }>>({});
   konkordanz = $state<Record<string, { ab: number; hinweis: string; quelle?: string }>>({});
   index = $state<Index | null>(null);
@@ -81,7 +84,8 @@ export class AppState {
   );
   factors = $derived(this.applied.factors);
   solver = $derived(this.applied.solver);
-  balance = $derived<Balance | null>(this.viewData ? computeBalance(this.viewData, this.factors, this.scenario.includeSv) : null);
+  aktiveSteuern = $derived<SteuerErgebnis>(steuerEinnahmen(this.steuern, this.scenario.steuern));
+  balance = $derived<Balance | null>(this.viewData ? computeBalance(this.viewData, this.factors, this.scenario.includeSv, this.aktiveSteuern.bund) : null);
   /** Sozialkassen des Jahres, bei Inflationsbereinigung in Preisen des Bezugsjahres. */
   viewSozialkassen = $derived<SozialkassenYear | null>(this.sozialkassen && this.sozialkassen.jahr === this.jahr
     ? (this.real && this.vpi ? scaleSozialkassen(this.sozialkassen, this.vpi, this.bezugsjahr) : this.sozialkassen) : null);
@@ -93,18 +97,23 @@ export class AppState {
   async init(hash: string): Promise<void> {
     this.loading = true;
     try {
-      const [index, presets, gesetz] = await Promise.all([this.loader.loadIndex(), this.loader.loadPresets(), this.loader.loadGesetzFrei()]);
+      const [index, presets, gesetz, steuern] = await Promise.all([
+        this.loader.loadIndex(), this.loader.loadPresets(), this.loader.loadGesetzFrei(),
+        this.loader.loadSteuern ? this.loader.loadSteuern().catch(() => [] as SteuerSzenario[]) : Promise.resolve([] as SteuerSzenario[]),
+      ]);
       this.index = index;
       this.presets = presets;
       this.gesetz = gesetz;
+      this.steuern = steuern;
       if (this.loader.loadTexte) this.loader.loadTexte().then((t) => (this.texte = t)).catch(() => undefined);
       if (this.loader.loadKonkordanz) this.loader.loadKonkordanz().then((k) => (this.konkordanz = k)).catch(() => undefined);
       const latest = index.jahre[index.jahre.length - 1];
       const probe = await this.loader.loadYear(latest);
-      const decoded = decodeScenario(hash, probe);
+      const steuerIds = steuern.map((s) => s.id);
+      const decoded = decodeScenario(hash, probe, steuerIds);
       const jahr = index.jahre.includes(decoded.scenario.jahr) ? decoded.scenario.jahr : latest;
       this.data = jahr === latest ? probe : await this.loader.loadYear(jahr);
-      const final = jahr === latest ? decoded : decodeScenario(hash, this.data);
+      const final = jahr === latest ? decoded : decodeScenario(hash, this.data, steuerIds);
       this.jahr = jahr;
       this.view = final.view;
       this.schnitt = final.schnitt;
@@ -115,7 +124,7 @@ export class AppState {
       this.focus = final.focus;
       this.scenario = { ...final.scenario, jahr };
       this.unknownIds = final.unknownIds;
-      this.fromShare = hash.replace(/^#/, "").length > 0 && (Object.keys(final.scenario.factors).length > 0 || final.scenario.presets.length > 0);
+      this.fromShare = hash.replace(/^#/, "").length > 0 && (Object.keys(final.scenario.factors).length > 0 || final.scenario.presets.length > 0 || Object.keys(final.scenario.steuern ?? {}).length > 0);
       this.error = null;
     } catch (e) {
       this.error = e instanceof Error ? e.message : String(e);
@@ -148,6 +157,23 @@ export class AppState {
 
   setFactor(id: NodeId, factor: number): void {
     this.scenario = applyFactor(this.scenario, id, factor);
+  }
+
+  toggleSteuer(id: string): void {
+    const steuern = { ...(this.scenario.steuern ?? {}) };
+    if (steuern[id]) delete steuern[id];
+    else {
+      const s = this.steuern.find((x) => x.id === id);
+      if (!s) return;
+      steuern[id] = defaultWerte(s);
+    }
+    this.scenario = { ...this.scenario, steuern: Object.keys(steuern).length ? steuern : undefined };
+  }
+
+  setAnnahme(id: string, key: string, wert: number): void {
+    const aktuell = this.scenario.steuern?.[id];
+    if (!aktuell) return;
+    this.scenario = { ...this.scenario, steuern: { ...this.scenario.steuern, [id]: { ...aktuell, [key]: wert } } };
   }
 
   togglePreset(id: string): void {
@@ -188,7 +214,7 @@ export class AppState {
   setIncludeSv(on: boolean): void { this.scenario = { ...this.scenario, includeSv: on }; }
 
   reset(): void {
-    this.scenario = { ...this.scenario, factors: {}, presets: [] };
+    this.scenario = { ...this.scenario, factors: {}, presets: [], steuern: undefined };
     this.unknownIds = [];
     this.fromShare = false;
   }

@@ -79,3 +79,17 @@ describe("Grenzen (Review 13)", () => {
     expect(d.unknownIds).toEqual([]);
   });
 });
+
+describe("Steuer-Szenarien im Link (Stufe 1b)", () => {
+  test("active scenarios with their assumptions roundtrip; unknown ones are reported", () => {
+    const s: Scenario = { ...base, steuern: { vermoegensteuer: { satz: 0.01, ausweich: 0.3 }, spitzensteuersatz: { satz_neu: 0.45 } } };
+    const h = encodeScenario(s, "fluss", []);
+    expect(h).toBe("v1;j=2025;a=fluss;x=spitzensteuersatz:satz_neu=0.45,vermoegensteuer:ausweich=0.3:satz=0.01");
+    const d = decodeScenario(h, fixtureYear, ["vermoegensteuer", "spitzensteuersatz"]);
+    expect(d.scenario.steuern).toEqual(s.steuern);
+    const u = decodeScenario("v1;j=2025;a=fluss;x=quatsch:a=1,vermoegensteuer:satz=0.02", fixtureYear, ["vermoegensteuer"]);
+    expect(u.scenario.steuern).toEqual({ vermoegensteuer: { satz: 0.02 } });
+    expect(u.unknownIds).toEqual(["x:quatsch"]);
+    expect(encodeScenario(base, "fluss", [])).toBe("v1;j=2025;a=fluss");
+  });
+});

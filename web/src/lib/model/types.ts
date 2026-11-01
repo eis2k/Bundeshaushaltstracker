@@ -50,6 +50,8 @@ export interface Scenario {
   factors: Record<NodeId, number>;
   presets: string[];
   includeSv: boolean;
+  /** Aktive Steuer-Szenarien mit Annahmewerten (Konzept §4.8a). */
+  steuern?: Record<string, Record<string, number>>;
 }
 
 export interface Balance {
@@ -61,6 +63,8 @@ export interface Balance {
   neueSchuldenOriginal: number;
   /** Verbesserung gegenüber Original: neueSchuldenOriginal − neueSchulden (positiv = weniger Schulden). */
   delta: number;
+  /** Zusätzliche Bund-Einnahmen aus Steuer-Modellen, in einnahmen enthalten. */
+  modellEinnahmen: number;
 }
 
 export type NodeKind = "epl" | "kap" | "titel";

@@ -39,7 +39,7 @@ export function effectiveValue(row: BudgetRow, factors: Factors): number {
   return Math.round(row.soll * rowFactor(row, factors));
 }
 
-export function balance(data: YearData, factors: Factors, includeSv: boolean): Balance {
+export function balance(data: YearData, factors: Factors, includeSv: boolean, extraBund = 0): Balance {
   let ausgaben = 0, einnahmen = 0, ausgabenOriginal = 0, einnahmenOriginal = 0;
   for (const row of data.rows) {
     if (!includeRow(row, includeSv)) continue;
@@ -51,12 +51,14 @@ export function balance(data: YearData, factors: Factors, includeSv: boolean): B
       einnahmen += effectiveValue(row, factors);
     }
   }
+  einnahmen += extraBund;
   const neueSchulden = ausgaben - einnahmen;
   const neueSchuldenOriginal = ausgabenOriginal - einnahmenOriginal;
   return {
     ausgaben, einnahmen, neueSchulden,
     ausgabenOriginal, einnahmenOriginal, neueSchuldenOriginal,
     delta: neueSchuldenOriginal - neueSchulden,
+    modellEinnahmen: extraBund,
   };
 }
 
