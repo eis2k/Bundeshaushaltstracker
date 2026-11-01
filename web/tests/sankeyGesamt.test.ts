@@ -30,29 +30,43 @@ function sumLinks(s: ReturnType<typeof buildGesamtSankey>, pred: (l: { source: s
 }
 
 describe("buildGesamtSankey", () => {
-  test("has three columns: inflows, Töpfe, Verwendung; one Topf node per fund plus Bund", () => {
+  test("has four columns: inflows, Bund, Kassen plus Bund-Verwendung, Kassen-Verwendung", () => {
     const s = buildGesamtSankey(fixtureYear, sk, base, {}, opts);
-    expect(s.nodes.filter((n) => n.column === 1).map((n) => n.id).sort()).toEqual(["topf:bund", "topf:gkv", "topf:grv"]);
-    expect(Math.max(...s.nodes.map((n) => n.column))).toBe(2);
+    expect(s.nodes.filter((n) => n.column === 1).map((n) => n.id)).toEqual(["topf:bund"]);
+    expect(s.nodes.filter((n) => n.kind === "topf" && n.column === 2).map((n) => n.id).sort()).toEqual(["topf:gkv", "topf:grv"]);
+    expect(Math.max(...s.nodes.map((n) => n.column))).toBe(3);
+    expect(s.nodes.filter((n) => n.id.startsWith("posten:")).every((n) => n.column === 3)).toBe(true);
   });
 
-  test("Beiträge nodes feed their Topf; Bundesmittel appear as inflow of the Topf and as Verwendung of the Bund", () => {
+  test("Beiträge feed their Topf directly; Bundesmittel are one Querband Bund → Kasse", () => {
     const s = buildGesamtSankey(fixtureYear, sk, base, {}, opts);
     expect(s.nodes.find((n) => n.id === "beitraege:grv")!.effective).toBe(1000);
     expect(sumLinks(s, (l) => l.source === "beitraege:grv" && l.target === "topf:grv")).toBe(1000);
-    expect(s.nodes.find((n) => n.id === "bundesmittel:grv")!.effective).toBe(500);
-    expect(s.nodes.find((n) => n.id === "bundesmittel:grv")!.colorKey).toBe("steuern");
-    expect(s.nodes.find((n) => n.id === "zuschuesse:bund")!.effective).toBe(500);
-    expect(s.nodes.find((n) => n.id === "zuschuesse:bund")!.column).toBe(2);
+    const quer = s.links.find((l) => l.source === "topf:bund" && l.target === "topf:grv")!;
+    expect(quer.value).toBe(500);
+    expect(quer.colorKey).toBe("steuern");
+    expect(s.nodes.find((n) => n.id === "bundesmittel:grv")).toBeUndefined();
+    expect(s.nodes.find((n) => n.id === "zuschuesse:bund")).toBeUndefined();
   });
 
-  test("every Topf is balanced: inflow links equal outflow links", () => {
+  test("Kassen are balanced; the Bund's outflows exceed its inflows exactly by the Minderausgaben", () => {
     const s = buildGesamtSankey(fixtureYear, sk, base, {}, opts);
-    for (const id of ["topf:bund", "topf:grv", "topf:gkv"]) {
+    for (const id of ["topf:grv", "topf:gkv"]) {
       expect(sumLinks(s, (l) => l.target === id)).toBe(sumLinks(s, (l) => l.source === id));
     }
-    // Bund: Epl-Bänder ohne Zuschüsse plus Zuschüsse-Knoten = positive Ausgaben
+    expect(sumLinks(s, (l) => l.source === "topf:bund") - sumLinks(s, (l) => l.target === "topf:bund")).toBe(50);
+    // Bund: Epl-Bänder ohne die verknüpften Titel plus Querband = positive Ausgaben
     expect(sumLinks(s, (l) => l.source === "topf:bund")).toBe(SUM_A_KERN + 50);
+  });
+
+  test("uses the same saldo as buildToepfe", () => {
+    const factors = { "11-1102-63681": 0.5 };
+    const s = buildGesamtSankey(fixtureYear, sk, { ...base, factors }, factors, opts);
+    const defizit = s.nodes.find((n) => n.id === "defizit:grv")!;
+    expect(defizit.effective).toBe(200);
+    expect(defizit.changed).toBe(true);     // Original-Saldo war 0
+    const s0 = buildGesamtSankey(fixtureYear, sk, base, {}, opts);
+    expect(s0.nodes.find((n) => n.id === "ruecklage:gkv")!.changed).toBe(false);
   });
 
   test("a Topf deficit becomes a dashed 'Defizit' inflow, a surplus a 'Rücklage' outflow", () => {

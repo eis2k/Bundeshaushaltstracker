@@ -63,10 +63,15 @@
   function nodeHeight(n: LNode): number {
     return Math.max(0, (n.y1 ?? 0) - (n.y0 ?? 0));
   }
+  /** Pixel je Euro aus dem Topf-Knoten (d3 bemisst alle Knoten mit demselben Maßstab). */
+  const pxPerEuro = $derived.by(() => {
+    const topf = (layout.nodes as LNode[]).find((n) => n.kind === "topf" && (n.value ?? 0) > 0);
+    return topf ? nodeHeight(topf) / (topf.value ?? 1) : 0;
+  });
   function ghostHeight(n: LNode): number {
     const g = sdata.ghosts.find((g) => g.id === n.id);
-    if (!g || g.diff <= 0 || n.effective <= 0) return 0;
-    return Math.min(nodeHeight(n) * (g.diff / n.effective), height * 0.4);
+    if (!g || g.diff <= 0) return 0;
+    return Math.min(g.diff * pxPerEuro, height * 0.4);
   }
   function ghostFor(n: LNode) {
     return sdata.ghosts.find((g) => g.id === n.id) ?? null;
@@ -81,7 +86,13 @@
     if (gesamtModus) {
       if (n.kind === "topf") {
         const id = n.id.replace("topf:", "") as TopfId;
+        onSelect(n.id);
         onTopf?.(id === "bund" ? "bund" : topf === id ? "gesamt" : id);
+      } else if (n.id.startsWith("posten:") || n.id.startsWith("beitraege:") || n.id.startsWith("defizit:") || n.id.startsWith("ruecklage:")) {
+        onSelect(n.id);
+      } else if (n.kind === "epl") {
+        onFocus([n.id]);
+        onSelect(n.id);
       }
       return;
     }
@@ -101,7 +112,7 @@
     if (layout.columns >= 5 && n.dim) return false;
     return nodeHeight(n) >= 9;
   }
-  const columnTitles = $derived(gesamtModus ? ["Woher", "Töpfe", "Wofür"] : ["Woher", "Topf", "Ministerium", "Kapitel", "Titel", "Empfänger"]);
+  const columnTitles = $derived(gesamtModus ? (topf === "gesamt" ? ["Woher", "Bund", "Kassen · Ministerien", "Wofür"] : ["Woher", "Kasse", "Wofür"]) : ["Woher", "Topf", "Ministerium", "Kapitel", "Titel", "Empfänger"]);
 </script>
 
 <div class="fluss" bind:clientWidth={width}>
@@ -173,11 +184,12 @@
     <span><i style="background:{colorFor('steuern')}"></i> Steuern</span>
     <span><i style="background:{colorFor('sonstige')}"></i> Sonstige Einnahmen</span>
     <span><i style="background:{colorFor('abzug')}"></i> Weiterleitung an EU und Länder (von den Steuern abgezogen)</span>
+    <span><i style="background:{colorFor('minder')}"></i> Globale Mindereinnahmen</span>
     <span><i class="dash" style="border-color:{colorFor('kredit')}"></i> Neue Schulden</span>
     <span><i class="dash" style="border-color:{CHANGED_STROKE}"></i> von dir verändert</span>
     <span><i class="dash" style="border-color:{GHOST_STROKE}"></i> gestrichener Betrag</span>
-    {#if sdata.minderausgaben !== 0}
-      <span class="minder">Globale Minderausgaben: {fmtEuro(sdata.minderausgaben)} (Einsparvorgaben ohne Titel, im Fluss als gestricheltes Band)</span>
+    {#if sdata.minderausgaben !== 0 || sdata.absetzungen !== 0}
+      <span class="minder">In der Summe enthalten, nicht als Band darstellbar:{#if sdata.minderausgaben !== 0} Globale Minderausgaben {fmtEuro(sdata.minderausgaben)} (Einsparvorgaben ohne eigenen Titel, Gruppe 97){/if}{#if sdata.minderausgaben !== 0 && sdata.absetzungen !== 0},{/if}{#if sdata.absetzungen !== 0} sonstige Absetzungen {fmtEuro(sdata.absetzungen)} (z. B. Disagio){/if}.</span>
     {/if}
     {#if gesamtModus && topf !== "gesamt"}
       <button class="reset" onclick={() => onTopf?.("gesamt")}>‹ Gesamtfluss</button>
@@ -188,7 +200,7 @@
       <button class="reset" onclick={() => { onFocus([]); onSelect(null); }}>‹ Alle Ministerien</button>
     {/if}
     {#if gesamtModus}
-      <span class="minder">Beiträge lila, Steuern blau. Bundesmittel erscheinen beim Bund als Ausgabe und bei der Kasse als Einnahme; in der Gesamtsumme zählen sie einmal. Klick auf einen Topf folgt ihm.</span>
+      <span class="minder">Beiträge lila, Steuern blau. Die blauen Bänder vom Bund zu den Kassen sind die Bundesmittel (Zuschüsse, Beiträge für Kindererziehung, Erstattungen). Klick auf eine Kasse folgt ihr, Klick auf ein Ministerium öffnet den Bundeshaushalt.</span>
     {/if}
   </div>
 </div>

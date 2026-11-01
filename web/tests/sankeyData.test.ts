@@ -16,16 +16,42 @@ describe("buildSankey", () => {
     expect(s.nodes.filter((n) => n.column === 2).map((n) => n.id).sort()).toEqual(["11", "14"]); // Epl 60 hat nur die Minderausgabe, kein Band
   });
 
-  test("links out of the Topf sum to Ausgaben minus Minderausgaben; Kredite node carries neueSchulden", () => {
+  test("links out of the Topf sum to the positive Ausgaben; Minderausgaben are reported, not drawn as a band", () => {
     const s = buildSankey(fixtureYear, base, {}, [], opts);
     const out = s.links.filter((l) => l.source === "topf:bund").reduce((a, l) => a + l.value, 0);
     expect(s.minderausgaben).toBe(-50);
+    expect(s.absetzungen).toBe(0);
     expect(out).toBe(SUM_A_KERN + 50);
+    expect(s.nodes.find((n) => n.id === "minderausgabe")).toBeUndefined();
     const kredite = s.nodes.find((n) => n.id === "E:kredite")!;
     expect(kredite.effective).toBe(KREDITE);
     expect(kredite.isKredit).toBe(true);
     const revenueIn = s.links.filter((l) => l.target === "topf:bund").reduce((a, l) => a + l.value, 0);
-    expect(revenueIn).toBe(SUM_A_KERN + 50); // Einnahmen + Kredite + Minderausgaben-Ausgleich = Ausgaben-Bänder
+    expect(revenueIn).toBe(SUM_A_KERN); // Einnahmen + Kredite = Netto-Ausgaben; der Topf wird nach Abflüssen bemessen
+  });
+
+  test("negative Ausgabentitel outside Gruppe 97x count as Absetzungen, negative Einnahmen der Gruppe 37x as Mindereinnahmen", () => {
+    const data = { ...fixtureYear, rows: [
+      ...fixtureYear.rows,
+      { id: "32-3205-57509", art: "A" as const, epl: "32", kap: "3205", titel: "57509", text: "Disagio", fkt: "000", flex: null, tgr: null, soll: -40, ist: null, sv: false },
+      { id: "60-6002-37203", art: "E" as const, epl: "60", kap: "6002", titel: "37203", text: "Globale Mindereinnahme", fkt: "000", flex: null, tgr: null, soll: -25, ist: null, sv: false },
+      { id: "60-6001-02202", art: "E" as const, epl: "60", kap: "6001", titel: "02202", text: "BNE-Eigenmittel", fkt: "000", flex: null, tgr: null, soll: -30, ist: null, sv: false },
+    ] };
+    const s = buildSankey(data, base, {}, [], opts);
+    expect(s.minderausgaben).toBe(-50);
+    expect(s.absetzungen).toBe(-40);
+    expect(s.nodes.find((n) => n.id === "abzuege")!.effective).toBe(30);
+    expect(s.nodes.find((n) => n.id === "mindereinnahmen")!.effective).toBe(25);
+    expect(s.nodes.find((n) => n.id === "mindereinnahmen")!.column).toBe(2);
+  });
+
+  test("a node set to 0 % stays visible with a ghost of its original size", () => {
+    const s = buildSankey(fixtureYear, base, { "14": 0 }, [], opts);
+    const n = s.nodes.find((n) => n.id === "14")!;
+    expect(n.effective).toBe(0);
+    expect(n.changed).toBe(true);
+    expect(s.ghosts.find((g) => g.id === "14")!.diff).toBe(300);
+    expect(s.links.find((l) => l.target === "14")).toBeUndefined();
   });
 
   test("focus on Einzelplan adds Kapitel column, on Kapitel adds Titel column", () => {
@@ -88,7 +114,7 @@ describe("negative revenue titles (EU-Eigenmittel, Länderanteile)", () => {
     expect(s.links.find((l) => l.source === "topf:bund" && l.target === "abzuege")!.value).toBe(30);
     const into = s.links.filter((l) => l.target === "topf:bund").reduce((a, l) => a + l.value, 0);
     const out = s.links.filter((l) => l.source === "topf:bund").reduce((a, l) => a + l.value, 0);
-    expect(into).toBe(out);
+    expect(out - into).toBe(50);   // Differenz = Globale Minderausgaben, die nicht als Band gezeichnet werden
     expect(s.nodes.find((n) => n.id === "E:kredite")!.effective).toBe(KREDITE + 30);
   });
   test("no abzuege node when there are no negative revenue titles", () => {

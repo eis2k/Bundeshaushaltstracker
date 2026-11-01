@@ -1,5 +1,5 @@
 import { balance, effectiveValue, rowFactor } from "../model/scenario";
-import { revenueGroups, revenueKind } from "../model/tree";
+import { includeRow, revenueGroups, revenueKind } from "../model/tree";
 import type { BudgetRow, NodeId, Scenario, YearData } from "../model/types";
 
 export type SNodeKind = "revenue" | "kredit" | "minderausgabe" | "topf" | "epl" | "kap" | "titel" | "rest" | "empfaenger" | "abzug" | "beitraege" | "ruecklage";
@@ -40,17 +40,20 @@ export interface SankeyData {
   nodes: SNode[];
   links: SLink[];
   ghosts: SGhost[];
-  /** Summe der negativen Ausgabentitel (Globale Minderausgaben) nach Faktor, ≤ 0. */
+  /** Globale Minderausgaben (Gruppe 97x) nach Faktor, ≤ 0. Werden nicht als Band gezeichnet. */
   minderausgaben: number;
+  /** Übrige negative Ausgabentitel (z. B. Disagio) nach Faktor, ≤ 0. */
+  absetzungen: number;
 }
 
 export const TOPF_BUND = "topf:bund";
 export const ABZUEGE = "abzuege";
+export const MINDEREINNAHMEN = "mindereinnahmen";
 export const EMPFAENGER_UNBEKANNT = "empfaenger:unbekannt";
 
-interface Agg { id: string; label: string; rows: BudgetRow[]; original: number; effective: number; netOriginal: number; netEffective: number; changed: boolean; colorKey: string }
+export interface Agg { id: string; label: string; rows: BudgetRow[]; original: number; effective: number; netOriginal: number; netEffective: number; changed: boolean; colorKey: string }
 
-function aggregate(id: string, label: string, rows: BudgetRow[], factors: Record<NodeId, number>, colorKey: string): Agg {
+export function aggregate(id: string, label: string, rows: BudgetRow[], factors: Record<NodeId, number>, colorKey: string): Agg {
   let original = 0, effective = 0, netOriginal = 0, netEffective = 0, changed = false;
   for (const r of rows) {
     const v = effectiveValue(r, factors);
@@ -63,15 +66,17 @@ function aggregate(id: string, label: string, rows: BudgetRow[], factors: Record
   return { id, label, rows, original, effective, netOriginal, netEffective, changed, colorKey };
 }
 
-/** Wählt den Fokusknoten plus die größten übrigen; der Rest wird zu "Alle anderen" zusammengefasst. */
-function pick(aggs: Agg[], focusId: string | undefined, max: number, restId: string): { shown: Agg[]; rest: Agg | null } {
+/** Wählt den Fokusknoten, geänderte Knoten und die größten übrigen; der Rest wird zu "Alle anderen" zusammengefasst. */
+export function pick(aggs: Agg[], focusId: string | undefined, max: number, restId: string): { shown: Agg[]; rest: Agg | null } {
   const sorted = [...aggs].sort((a, b) => b.effective - a.effective);
   const shown: Agg[] = [];
   const focus = sorted.find((a) => a.id === focusId);
   if (focus) shown.push(focus);
+  // Geänderte Knoten bleiben sichtbar, auch wenn sie auf 0 gesetzt wurden (Geisterband zeigt das Gestrichene)
+  for (const a of sorted) if (a !== focus && a.changed && a.original > 0 && !shown.includes(a)) shown.push(a);
   for (const a of sorted) {
     if (shown.length >= max) break;
-    if (a !== focus && a.effective > 0) shown.push(a);
+    if (!shown.includes(a) && a.effective > 0) shown.push(a);
   }
   const restAggs = sorted.filter((a) => !shown.includes(a) && a.effective > 0);
   if (!restAggs.length) return { shown, rest: null };
@@ -86,29 +91,31 @@ function pick(aggs: Agg[], focusId: string | undefined, max: number, restId: str
   return { shown, rest };
 }
 
+/** Negative Titel getrennt: Globale Minderausgaben (Gruppe 97x), übrige Absetzungen, negative Steuertitel (Weiterleitung), Mindereinnahmen (Gruppe 37x). */
+export function negatives(rows: BudgetRow[], factors: Record<NodeId, number>) {
+  let minderausgaben = 0, absetzungen = 0, abzuege = 0, abzuegeOriginal = 0, mindereinnahmen = 0, mindereinnahmenOriginal = 0;
+  for (const r of rows) {
+    const v = effectiveValue(r, factors);
+    if (r.art === "A") {
+      if (v < 0) { if (r.titel.slice(0, 2) === "97") minderausgaben += v; else absetzungen += v; }
+    } else if (revenueKind(r) !== "kredite") {
+      const isMinder = r.titel.slice(0, 2) === "37";
+      if (v < 0) { if (isMinder) mindereinnahmen -= v; else abzuege -= v; }
+      if (r.soll < 0) { if (isMinder) mindereinnahmenOriginal -= r.soll; else abzuegeOriginal -= r.soll; }
+    }
+  }
+  return { minderausgaben, absetzungen, abzuege, abzuegeOriginal, mindereinnahmen, mindereinnahmenOriginal };
+}
+
 export function buildSankey(data: YearData, scenario: Scenario, factors: Record<NodeId, number>, focus: NodeId[],
                             opts: { maxPerColumn: number; maxRevenue?: number }): SankeyData {
   const nodes: SNode[] = [];
   const links: SLink[] = [];
   const ghosts: SGhost[] = [];
-  const rows = data.rows.filter((r) => scenario.includeSv || !r.sv);
+  const rows = data.rows.filter((r) => includeRow(r, scenario.includeSv));
   const ausgaben = rows.filter((r) => r.art === "A");
   const b = balance(data, factors, scenario.includeSv);
-
-  let minderausgaben = 0;
-  for (const r of ausgaben) {
-    const v = effectiveValue(r, factors);
-    if (v < 0) minderausgaben += v;
-  }
-  // Negative Einnahmetitel (EU-Eigenmittel, Zuweisungen an Länder aus dem Steueraufkommen) sind
-  // Abflüsse: sie verlassen den Topf als "Weiterleitung", damit Zu- und Abflüsse am Topf aufgehen.
-  let abzuege = 0, abzuegeOriginal = 0;
-  for (const r of rows) {
-    if (r.art !== "E" || revenueKind(r) === "kredite") continue;
-    const v = effectiveValue(r, factors);
-    if (v < 0) abzuege -= v;
-    if (r.soll < 0) abzuegeOriginal -= r.soll;
-  }
+  const neg = negatives(rows, factors);
 
   const add = (n: Omit<SNode, "dim" | "netOriginal" | "netEffective"> & { dim?: boolean; netOriginal?: number; netEffective?: number }) => {
     nodes.push({ dim: false, netOriginal: n.original, netEffective: n.effective, ...n });
@@ -119,8 +126,7 @@ export function buildSankey(data: YearData, scenario: Scenario, factors: Record<
   };
   const ghost = (a: Agg) => { if (a.changed && a.original !== a.effective) ghosts.push({ id: a.id, diff: a.original - a.effective }); };
 
-  // Spalte 0: Einnahmen. Kleine Steuerarten werden zu "Übrige Steuern" zusammengefasst,
-  // damit höchstens maxRevenue Steuer-Knoten erscheinen.
+  // Spalte 0: Einnahmen. Kleine Steuerarten werden zu "Übrige Steuern" zusammengefasst.
   const maxRevenue = opts.maxRevenue ?? opts.maxPerColumn;
   const groups = revenueGroups(data, scenario.includeSv).filter((g) => !g.isKredit);
   const taxGroups = groups.filter((g) => revenueKind(g.rows[0]) === "steuern" && g.id !== "E:steuern:rest");
@@ -141,18 +147,18 @@ export function buildSankey(data: YearData, scenario: Scenario, factors: Record<
   }
   add({ id: "E:kredite", label: "Neue Schulden", column: 0, kind: "kredit", original: b.neueSchuldenOriginal, effective: b.neueSchulden, changed: b.neueSchulden !== b.neueSchuldenOriginal, isKredit: true, colorKey: "kredit" });
   link("E:kredite", TOPF_BUND, b.neueSchulden, "kredit");
-  if (minderausgaben !== 0) {
-    add({ id: "minderausgabe", label: "Globale Minderausgaben", column: 0, kind: "minderausgabe", original: -minderausgaben, effective: -minderausgaben, changed: false, colorKey: "minder" });
-    link("minderausgabe", TOPF_BUND, -minderausgaben, "minder");
-  }
 
   // Spalte 1: Topf
   add({ id: TOPF_BUND, label: "Bundeshaushalt", column: 1, kind: "topf", original: b.ausgabenOriginal, effective: b.ausgaben, changed: b.ausgaben !== b.ausgabenOriginal, colorKey: "topf" });
 
-  // Spalte 2: Weiterleitungen (negative Einnahmetitel) und Einzelpläne
-  if (abzuege > 0) {
-    add({ id: ABZUEGE, label: "Weiterleitung an EU und Länder", column: 2, kind: "abzug", original: abzuegeOriginal, effective: abzuege, changed: abzuege !== abzuegeOriginal, dim: focus.length > 0, colorKey: "abzug" });
-    link(TOPF_BUND, ABZUEGE, abzuege, "abzug", focus.length > 0);
+  // Spalte 2: Weiterleitungen (negative Steuertitel), Mindereinnahmen und Einzelpläne
+  if (neg.abzuege > 0 || neg.abzuegeOriginal > 0) {
+    add({ id: ABZUEGE, label: "Weiterleitung an EU und Länder", column: 2, kind: "abzug", original: neg.abzuegeOriginal, effective: neg.abzuege, changed: neg.abzuege !== neg.abzuegeOriginal, dim: focus.length > 0, colorKey: "abzug" });
+    link(TOPF_BUND, ABZUEGE, neg.abzuege, "abzug", focus.length > 0);
+  }
+  if (neg.mindereinnahmen > 0 || neg.mindereinnahmenOriginal > 0) {
+    add({ id: MINDEREINNAHMEN, label: "Globale Mindereinnahmen", column: 2, kind: "abzug", original: neg.mindereinnahmenOriginal, effective: neg.mindereinnahmen, changed: neg.mindereinnahmen !== neg.mindereinnahmenOriginal, dim: focus.length > 0, colorKey: "minder" });
+    link(TOPF_BUND, MINDEREINNAHMEN, neg.mindereinnahmen, "minder", focus.length > 0);
   }
   const byEpl = new Map<string, BudgetRow[]>();
   for (const r of ausgaben) (byEpl.get(r.epl) ?? byEpl.set(r.epl, []).get(r.epl)!).push(r);
@@ -201,5 +207,5 @@ export function buildSankey(data: YearData, scenario: Scenario, factors: Record<
     }
   }
 
-  return { nodes, links, ghosts, minderausgaben };
+  return { nodes, links, ghosts, minderausgaben: neg.minderausgaben, absetzungen: neg.absetzungen };
 }
