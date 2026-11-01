@@ -1,4 +1,7 @@
 <script lang="ts">
+  import { onMount } from "svelte";
+  import { select } from "d3-selection";
+  import { zoom as d3zoom, zoomIdentity, type ZoomTransform } from "d3-zoom";
   import { sankey as d3sankey, sankeyLinkHorizontal } from "d3-sankey";
   import type { SankeyLink, SankeyNode } from "d3-sankey";
   import { fmtEuro } from "../model/format";
@@ -25,6 +28,33 @@
   const gesamtModus = $derived(topf !== "bund" && sozialkassen !== null);
 
   let width = $state(900);
+
+  // Mausrad zoomt, Ziehen verschiebt; Doppelklick oder Knopf setzt zurück
+  let svgEl = $state<SVGSVGElement | null>(null);
+  let transform = $state<ZoomTransform>(zoomIdentity);
+  const zoomed = $derived(transform.k !== 1 || transform.x !== 0 || transform.y !== 0);
+  const zoomBehavior = d3zoom<SVGSVGElement, unknown>()
+    .scaleExtent([1, 8])
+    .filter((e: Event) => e.type !== "dblclick" && !(e.type === "mousedown" && (e as MouseEvent).button !== 0))
+    .on("zoom", (e) => (transform = e.transform));
+  onMount(() => {
+    if (!svgEl) return;
+    const sel = select(svgEl);
+    sel.call(zoomBehavior);
+    sel.on("dblclick.zoom", null);
+    return () => { sel.on(".zoom", null); };
+  });
+  function resetZoom() {
+    if (svgEl) select(svgEl).call(zoomBehavior.transform, zoomIdentity);
+    else transform = zoomIdentity;
+  }
+  $effect(() => {
+    // Beim Wechsel von Fokus oder Topf zurück auf die Gesamtansicht
+    void focus; void topf;
+    if (svgEl) select(svgEl).call(zoomBehavior.transform, zoomIdentity);
+  });
+  /** Bei Zoom bleiben Schrift und Linienstärken lesbar: Gegenskalierung. */
+  const invK = $derived(1 / transform.k);
   const columnsNeeded = $derived(focus.length >= 2 ? 6 : focus.length === 1 ? 4 : 3);
   const height = $derived((width < 720 ? 560 : 440) + Math.max(0, columnsNeeded - 4) * 80 + (gesamtModus ? 200 : 0));
   const maxPerColumn = $derived(width < 720 ? 5 : columnsNeeded >= 6 ? 6 : 8);
@@ -86,8 +116,8 @@
     if (gesamtModus) {
       if (n.kind === "topf") {
         const id = n.id.replace("topf:", "") as TopfId;
-        onSelect(n.id);
         onTopf?.(id === "bund" ? "bund" : topf === id ? "gesamt" : id);
+        if (id !== "bund") onSelect(n.id);   // nach dem Topfwechsel, sonst setzt der Wechsel die Auswahl zurück
       } else if (n.id.startsWith("posten:") || n.id.startsWith("beitraege:") || n.id.startsWith("defizit:") || n.id.startsWith("ruecklage:")) {
         onSelect(n.id);
       } else if (n.kind === "epl") {
@@ -119,7 +149,8 @@
   <div class="cols" style="grid-template-columns: repeat({layout.columns}, 1fr)">
     {#each columnTitles.slice(0, layout.columns) as t}<span>{t}</span>{/each}
   </div>
-  <svg viewBox="0 0 {width} {height}" {width} {height} role="img" aria-label="Geldfluss des Bundeshaushalts {data.jahr}">
+  <svg bind:this={svgEl} viewBox="0 0 {width} {height}" {width} {height} role="img" aria-label="Geldfluss des Bundeshaushalts {data.jahr}" class:zoomed ondblclick={resetZoom}>
+    <g transform={transform.toString()}>
     <g class="links">
       {#each layout.links as l, i (i)}
         {@const link = l as LLink}
@@ -165,8 +196,8 @@
               fill="none" stroke={GHOST_STROKE} stroke-dasharray="3 2"
             />
           {/if}
-          {#if showLabel(node)}
-            <text x={labelX(node)} y={((node.y0 ?? 0) + (node.y1 ?? 0)) / 2} dy={nodeHeight(node) >= 22 ? "-0.2em" : "0.35em"} text-anchor={labelAnchor(node)} class="label" class:strong={node.id === selected || focus.includes(node.id)}>
+          {#if showLabel(node) || transform.k >= 2.5}
+            <text x={labelX(node)} y={((node.y0 ?? 0) + (node.y1 ?? 0)) / 2} dy={nodeHeight(node) >= 22 ? "-0.2em" : "0.35em"} text-anchor={labelAnchor(node)} class="label" class:strong={node.id === selected || focus.includes(node.id)} style="font-size:{11 * invK}px">
               {shortLabel(node)}
               {#if nodeHeight(node) >= 22}
                 <tspan class="amount" x={labelX(node)} dy="1.15em">
@@ -179,7 +210,11 @@
         </g>
       {/each}
     </g>
+    </g>
   </svg>
+  {#if zoomed}
+    <button class="zoomreset" onclick={resetZoom} title="Zoom zurücksetzen (auch Doppelklick)">Zoom {Math.round(transform.k * 100)} % · zurücksetzen</button>
+  {/if}
   <div class="legend">
     <span><i style="background:{colorFor('steuern')}"></i> Steuern</span>
     <span><i style="background:{colorFor('sonstige')}"></i> Sonstige Einnahmen</span>
@@ -206,10 +241,13 @@
 </div>
 
 <style>
-  .fluss { width: 100%; }
+  .fluss { width: 100%; position: relative; }
   .cols { display: grid; font-size: 10px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin-bottom: 2px; }
   .cols span:last-child { text-align: right; }
-  svg { display: block; width: 100%; height: auto; overflow: visible; }
+  svg { display: block; width: 100%; height: auto; overflow: hidden; cursor: grab; touch-action: none; }
+  svg.zoomed { cursor: move; }
+  .zoomreset { position: absolute; right: 10px; top: 28px; font-size: 11px; background: var(--header); color: #fff; border: 0; border-radius: 6px; padding: 4px 8px; cursor: pointer; opacity: .9; }
+
   .node.clickable { cursor: pointer; }
   .node.dim { opacity: .45; }
   .label { font-size: 11px; fill: var(--fg); cursor: pointer; }
