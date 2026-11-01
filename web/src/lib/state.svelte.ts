@@ -2,7 +2,7 @@ import { applyPresets } from "./model/presets";
 import { balance as computeBalance, setFactor as applyFactor } from "./model/scenario";
 import { decodeScenario, encodeScenario, knownIds, type TopfId } from "./model/share";
 import { buildToepfe, type SozialkassenYear, type ToepfeResult } from "./model/toepfe";
-import { defaultWerte, steuerEinnahmen, type SteuerErgebnis, type SteuerSzenario } from "./model/steuern";
+import { defaultWerte, normalisiere, steuerEinnahmen, type SteuerErgebnis, type SteuerSzenario } from "./model/steuern";
 import type { Balance, GesetzFreiMap, Index, NodeId, Preset, Scenario, SolverReport, ViewId, YearData } from "./model/types";
 import { deflate, type Vpi, type Zeitreihe } from "./model/zeitreihe";
 import type { Schnitt } from "./model/schnitte";
@@ -114,6 +114,10 @@ export class AppState {
       const jahr = index.jahre.includes(decoded.scenario.jahr) ? decoded.scenario.jahr : latest;
       this.data = jahr === latest ? probe : await this.loader.loadYear(jahr);
       const final = jahr === latest ? decoded : decodeScenario(hash, this.data, steuerIds);
+      if (final.scenario.steuern) {
+        const bereinigt = normalisiere(steuern, final.scenario.steuern);
+        final.scenario.steuern = Object.keys(bereinigt).length ? bereinigt : undefined;
+      }
       this.jahr = jahr;
       this.view = final.view;
       this.schnitt = final.schnitt;

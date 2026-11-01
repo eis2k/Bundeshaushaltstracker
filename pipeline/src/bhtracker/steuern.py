@@ -64,6 +64,9 @@ def validate_steuern(data: dict) -> list[str]:
                 errors.append(f"{sid} annahme {a.get('id', '?')}: quelle fehlt")
             if all(k in a for k in ("min", "max", "wert")) and not (a["min"] <= a["wert"] <= a["max"]):
                 errors.append(f"{sid} annahme {a.get('id')}: wert außerhalb von min/max")
+            if (m.get("art") == "satzaenderung" and a.get("id") == "satz_neu" and isinstance(m.get("satz_alt"), (int, float))
+                    and isinstance(a.get("min"), (int, float)) and a["min"] < m["satz_alt"]):
+                errors.append(f"{sid} annahme satz_neu: min liegt unter satz_alt (Mindereinnahmen würden auf 0 gekappt)")
         geschichte = s.get("geschichte") or []
         if not geschichte:
             errors.append(f"{sid}: geschichte fehlt")

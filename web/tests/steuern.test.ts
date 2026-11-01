@@ -1,5 +1,5 @@
 import { describe, expect, test } from "vitest";
-import { aufkommen, defaultWerte, steuerEinnahmen, type SteuerSzenario } from "../src/lib/model/steuern";
+import { aufkommen, defaultWerte, normalisiere, steuerEinnahmen, type SteuerSzenario } from "../src/lib/model/steuern";
 import { balance } from "../src/lib/model/scenario";
 import { fixtureYear, KREDITE, SUM_E_OHNE_KREDITE } from "./fixtures";
 
@@ -80,5 +80,16 @@ describe("balance with extra Bund revenue", () => {
     expect(b.neueSchulden).toBe(KREDITE - 100);
     expect(b.delta).toBe(100);
     expect(b.einnahmenOriginal).toBe(SUM_E_OHNE_KREDITE);
+  });
+});
+
+describe("normalisiere", () => {
+  test("drops unknown scenarios and keys, clamps values to min/max", () => {
+    const r = normalisiere([vermoegen, spitze], {
+      vermoegensteuer: { satz: 5, ausweich: 0.3, foo: 1 },
+      gibt_es_nicht: { x: 1 },
+      spitzensteuersatz: { satz_neu: 0.1 },
+    });
+    expect(r).toEqual({ vermoegensteuer: { satz: 0.03, ausweich: 0.3 }, spitzensteuersatz: { satz_neu: 0.42 } });
   });
 });

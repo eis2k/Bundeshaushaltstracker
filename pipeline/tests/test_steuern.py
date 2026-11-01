@@ -58,3 +58,12 @@ def test_build_writes_json(tmp_path: Path):
     assert v["empfaenger"] == "laender" and v["bund_anteil"] == 0
     assert all(a["quelle"].startswith("http") for a in v["modell"]["annahmen"])
     assert all(g["quelle"].startswith("http") for g in v["geschichte"])
+
+
+def test_satzaenderung_slider_must_not_go_below_satz_alt():
+    # Unter satz_alt ergäbe das Modell Mindereinnahmen, die der Rechenkern auf 0 kappt (Review Stufe 1b, Befund 2)
+    data = load()
+    s = next(x for x in data["szenarien"] if x["id"] == "abgeltungsteuer")
+    s["modell"]["annahmen"][0]["min"] = 0.20
+    errors = validate_steuern(data)
+    assert any("satz_alt" in e and "min" in e for e in errors)

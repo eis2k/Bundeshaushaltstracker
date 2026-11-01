@@ -13,7 +13,7 @@
   {#if app.steuern.length}
     <span class="label sep">Steuer-Modelle</span>
     {#each app.steuern as s (s.id)}
-      <button class="chip steuer" class:on={!!app.scenario.steuern?.[s.id]} title={s.beschreibung}
+      <button class="chip steuer" class:on={!!app.scenario.steuern?.[s.id]} aria-pressed={!!app.scenario.steuern?.[s.id]} title={s.beschreibung}
               onclick={() => { const aktiv = !!app.scenario.steuern?.[s.id]; if (aktiv && app.selected === `x:${s.id}`) { app.toggleSteuer(s.id); return; } if (!aktiv) app.toggleSteuer(s.id); app.setSelected(`x:${s.id}`); }}>
         {s.kurz}{#if s.status === "ausgesetzt"} <small>ausgesetzt</small>{/if}{#if s.empfaenger === "laender"} <small>Länder</small>{/if}
       </button>

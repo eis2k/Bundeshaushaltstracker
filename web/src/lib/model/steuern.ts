@@ -69,6 +69,21 @@ export function aufkommen(s: SteuerSzenario, werte: Record<string, number>): { g
   return { gesamt, bund: Math.round(gesamt * s.bund_anteil) };
 }
 
+/** Bereinigt Werte aus einem Teilen-Link: unbekannte Szenarien und Annahmen fliegen raus, Werte werden auf min/max begrenzt. */
+export function normalisiere(szenarien: SteuerSzenario[], aktiv: AktiveSteuern | undefined): AktiveSteuern {
+  const out: AktiveSteuern = {};
+  for (const [id, werte] of Object.entries(aktiv ?? {})) {
+    const s = szenarien.find((x) => x.id === id);
+    if (!s) continue;
+    const w: Record<string, number> = {};
+    for (const a of s.modell.annahmen) {
+      if (a.id in werte) w[a.id] = wert(s, werte, a.id);
+    }
+    out[id] = w;
+  }
+  return out;
+}
+
 export interface SteuerErgebnis {
   gesamt: number;
   bund: number;

@@ -120,6 +120,7 @@
     return [];
   }
   function click(n: SNode) {
+    if (n.kind === "modell") { onSelect(n.id); return; }
     if (gesamtModus) {
       if (n.kind === "topf") {
         const id = n.id.replace("topf:", "") as TopfId;
@@ -134,7 +135,6 @@
       return;
     }
     if (n.kind === "topf" || n.kind === "rest" || n.kind === "empfaenger" || n.kind === "abzug") { onFocus([]); onSelect(null); return; }
-    if (n.kind === "modell") { onSelect(n.id); return; }
     if (n.kind === "revenue" || n.kind === "kredit" || n.kind === "minderausgabe") { onSelect(n.kind === "revenue" ? n.id : null); return; }
     onFocus(pathFor(n));
     onSelect(n.id);
@@ -209,7 +209,7 @@
               {shortLabel(node)}
               {#if node.kind === "modell" && twoLines(node)}
                 <tspan class="amount" x={labelX(node)} dy="1.15em" style="font-size:{10 * invK}px">
-                  {fmtEuro(node.netEffective)} gesamt · {node.effective > 0 ? `Bund ${fmtEuro(node.effective)}` : "Länder, Bund 0 €"}
+                  Mehreinnahmen {fmtEuro(node.netEffective)} · Bund {fmtEuro(node.effective)}
                 </tspan>
               {:else if nodeHeight(node) >= 22}
                 <tspan class="amount" x={labelX(node)} dy="1.15em" style="font-size:{10 * invK}px">
@@ -218,7 +218,7 @@
               {/if}
             </text>
           {/if}
-          <title>{node.kind === "modell" ? `${node.label}: ${fmtEuro(node.netEffective)} gesamt, davon Bund ${fmtEuro(node.effective)}` : `${node.label}: ${fmtEuro(node.netEffective)}${node.changed ? ` (Original ${fmtEuro(node.netOriginal)})` : ""}`}</title>
+          <title>{node.kind === "modell" ? `${node.label}: Mehreinnahmen ${fmtEuro(node.netEffective)}, davon Bund ${fmtEuro(node.effective)} (nominal zum Basisjahr der Quelle)` : `${node.label}: ${fmtEuro(node.netEffective)}${node.changed ? ` (Original ${fmtEuro(node.netOriginal)})` : ""}`}</title>
         </g>
       {/each}
     </g>
@@ -233,7 +233,7 @@
     <span><i style="background:{colorFor('abzug')}"></i> Weiterleitung an EU und Länder (von den Steuern abgezogen)</span>
     <span><i style="background:{colorFor('minder')}"></i> Globale Mindereinnahmen</span>
     <span><i class="dash" style="border-color:{colorFor('kredit')}"></i> Neue Schulden</span>
-    {#if modelle.length}<span><i class="dash" style="border-color:{colorFor('modell')}"></i> Steuer-Modell (Kasten = Gesamtaufkommen, Band = Anteil des Bundes, leerer Rest = Länder und Gemeinden)</span>{/if}
+    {#if modelle.length}<span><i class="dash" style="border-color:{colorFor('modell')}"></i> Steuer-Modell (Kasten = Mehreinnahmen gesamt, Band = Anteil des Bundes, leerer Rest = Länder und Gemeinden; nominal zum Basisjahr der Quelle, nicht auf das Haushaltsjahr umgerechnet und nicht inflationsbereinigt)</span>{/if}
     <span><i class="dash" style="border-color:{CHANGED_STROKE}"></i> von dir verändert</span>
     <span><i class="dash" style="border-color:{GHOST_STROKE}"></i> gestrichener Betrag</span>
     {#if sdata.minderausgaben !== 0 || sdata.absetzungen !== 0}

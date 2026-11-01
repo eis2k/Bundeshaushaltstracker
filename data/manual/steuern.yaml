@@ -39,7 +39,7 @@ szenarien:
     empfaenger: laender
     bund_anteil: 0.0
     bund_anteil_quelle: "https://www.gesetze-im-internet.de/gg/art_106.html"
-    beschreibung: "Die Erbschaft- und Schenkungsteuer wird erhoben, ihr Aufkommen steht den Ländern zu. Große Betriebsvermögen sind weitgehend verschont; das Bundesverfassungsgericht hat diese Verschonung zweimal beanstandet."
+    beschreibung: "Die Erbschaft- und Schenkungsteuer wird erhoben, ihr Aufkommen steht den Ländern zu. Große Betriebsvermögen sind weitgehend verschont; das Bundesverfassungsgericht hat 2006 die Bewertung und 2014 die Verschonung beanstandet."
     modell:
       art: basis_mal_faktor
       basis:
@@ -74,7 +74,7 @@ szenarien:
         quelle: "https://www.bundestag.de/presse/hib/kurzmeldungen-1050526"
       satz_alt: 0.42
       annahmen:
-        - {id: satz_neu, text: "Neuer Spitzensteuersatz (heute 42 %, bis 1999 53 %)", wert: 0.45, min: 0.42, max: 0.53, schritt: 0.01, einheit: "%", quelle: "https://www.bmf-steuerrechner.de/javax.faces.resource/2025_10_14_Tarifhistorie_Steuerrechner.pdf.xhtml"}
+        - {id: satz_neu, text: "Neuer Spitzensteuersatz (heute 42 %, bis 1999 53 %; die Quelle beziffert nur 45 %, darüber wird linear fortgeschrieben)", wert: 0.45, min: 0.42, max: 0.53, schritt: 0.01, einheit: "%", quelle: "https://www.bmf-steuerrechner.de/javax.faces.resource/2025_10_14_Tarifhistorie_Steuerrechner.pdf.xhtml"}
     geschichte:
       - {datum: 1998-01-01, titel: "Spitzensatz 53 %", text: "Bis einschließlich 1999 beträgt der Spitzensatz der Einkommensteuer 53 %.", akteure: "Bundesfinanzministerium, Tarifhistorie des Einkommensteuerrechners", quelle: "https://www.bmf-steuerrechner.de/javax.faces.resource/2025_10_14_Tarifhistorie_Steuerrechner.pdf.xhtml"}
       - {datum: 2000-02-18, titel: "Steuersenkungsgesetz eingebracht", text: "Die Fraktionen SPD und Bündnis 90/Die Grünen bringen den Entwurf ein, der den Spitzensatz stufenweise auf 42 % (2005) senkt.", akteure: "Regierung Schröder (SPD und Grüne), Bundesfinanzminister Hans Eichel (SPD); Drucksache 14/2683", quelle: "https://dserver.bundestag.de/btd/14/026/1402683.pdf"}
@@ -88,7 +88,7 @@ szenarien:
     empfaenger: gemeinsam
     bund_anteil: 0.44
     bund_anteil_quelle: "https://www.gesetze-im-internet.de/gg/art_106.html"
-    beschreibung: "Zinsen, Dividenden und Kursgewinne werden seit 2009 pauschal mit 25 % besteuert, unabhängig vom persönlichen Steuersatz. Vom Aufkommen der Kapitalertragsteuer erhält der Bund 44 %."
+    beschreibung: "Zinsen und Veräußerungsgewinne aus Kapitalanlagen werden seit 2009 pauschal mit 25 % besteuert, unabhängig vom persönlichen Steuersatz (Abgeltungsteuer auf Zins- und Veräußerungserträge; Dividenden werden in der Statistik getrennt ausgewiesen und sind hier nicht enthalten). Vom Aufkommen erhält der Bund 44 %."
     modell:
       art: satzaenderung
       basis:
@@ -98,7 +98,7 @@ szenarien:
         quelle: "https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Steuerschaetzungen_und_Steuereinnahmen/2025-01-30-steuereinnahmen-Dezember-2024.pdf?__blob=publicationFile&v=2"
       satz_alt: 0.25
       annahmen:
-        - {id: satz_neu, text: "Neuer Steuersatz auf Kapitalerträge (heute 25 %; 45 % entspräche dem Spitzensatz)", wert: 0.30, min: 0.20, max: 0.45, schritt: 0.01, einheit: "%", quelle: "https://webarchiv.bundestag.de/archive/2009/0214/wissen/analysen/2008/abgeltungsteuer.pdf"}
+        - {id: satz_neu, text: "Neuer Steuersatz auf Kapitalerträge (heute 25 %; 45 % entspräche dem Spitzensatz)", wert: 0.30, min: 0.25, max: 0.45, schritt: 0.01, einheit: "%", quelle: "https://webarchiv.bundestag.de/archive/2009/0214/wissen/analysen/2008/abgeltungsteuer.pdf"}
     geschichte:
       - {datum: 2007-08-14, titel: "Unternehmensteuerreformgesetz 2008", text: "Das Gesetz (BGBl. I S. 1912) führt zum 1. Januar 2009 die Abgeltungsteuer von 25 % auf private Kapitalerträge ein.", akteure: "Regierung Merkel I (CDU/CSU und SPD), Bundesfinanzminister Peer Steinbrück (SPD)", quelle: "https://umwelt-online.de/recht/allgemei/steuer/z07_1912.htm"}
       - {datum: 2009-01-01, titel: "Abgeltungsteuer in Kraft", text: "Kapitalerträge werden seit 2009 pauschal mit 25 % (zuzüglich Solidaritätszuschlag) an der Quelle besteuert.", akteure: "Wissenschaftliche Dienste des Deutschen Bundestages, Analyse 2008", quelle: "https://webarchiv.bundestag.de/archive/2009/0214/wissen/analysen/2008/abgeltungsteuer.pdf"}

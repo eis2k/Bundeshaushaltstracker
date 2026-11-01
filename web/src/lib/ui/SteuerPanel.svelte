@@ -8,11 +8,15 @@
   const aktiv = $derived(!!app.scenario.steuern?.[szenario.id]);
   const werte = $derived(app.scenario.steuern?.[szenario.id] ?? defaultWerte(szenario));
   const ergebnis = $derived(aufkommen(szenario, werte));
-  const statusText = $derived(szenario.status === "ausgesetzt" ? "wird seit 1997 nicht erhoben" : szenario.status === "nie_eingefuehrt" ? "nie eingeführt" : "wird erhoben");
+  const statusText = $derived(szenario.status === "ausgesetzt" ? "wird nicht mehr erhoben" : szenario.status === "nie_eingefuehrt" ? "nie eingeführt" : "wird erhoben");
   const empfaengerText = $derived(szenario.empfaenger === "laender" ? "Das Aufkommen steht nach Art. 106 GG den Ländern zu. Für den Bundeshaushalt ändert sich nichts, solange das Grundgesetz nicht geändert wird."
     : szenario.empfaenger === "bund" ? "Das Aufkommen steht dem Bund zu."
     : `Gemeinschaftsteuer: der Bund erhält ${(szenario.bund_anteil * 100).toLocaleString("de-DE", { maximumFractionDigits: 1 })} % des Aufkommens (Art. 106 GG), der Rest geht an Länder und Gemeinden.`);
 
+  function clamp(a: { min: number; max: number; wert: number; id: string }): number {
+    const v = werte[a.id] ?? a.wert;
+    return Number.isFinite(v) ? Math.min(a.max, Math.max(a.min, v)) : a.wert;
+  }
   function fmtWert(a: { einheit: string }, v: number): string {
     if (a.einheit === "%") return `${(v * 100).toLocaleString("de-DE", { maximumFractionDigits: 2 })} %`;
     if (a.einheit === "×") return `${v.toLocaleString("de-DE", { maximumFractionDigits: 2 })}×`;
@@ -37,9 +41,9 @@
 
 {#each szenario.modell.annahmen as a (a.id)}
   <div class="annahme">
-    <div class="kv"><span>{a.text}</span><b class="tabular">{fmtWert(a, werte[a.id] ?? a.wert)}</b></div>
-    <input type="range" min={a.min} max={a.max} step={a.schritt} value={werte[a.id] ?? a.wert} disabled={!aktiv}
-           oninput={(e) => app.setAnnahme(szenario.id, a.id, Number((e.target as HTMLInputElement).value))} aria-label={a.text} />
+    <div class="kv"><span>{a.text}</span><b class="tabular">{fmtWert(a, clamp(a))}</b></div>
+    <input type="range" min={a.min} max={a.max} step={a.schritt} value={clamp(a)} disabled={!aktiv}
+           oninput={(e) => app.setAnnahme(szenario.id, a.id, Number((e.target as HTMLInputElement).value))} aria-label={a.text} aria-valuetext={fmtWert(a, clamp(a))} aria-describedby={aktiv ? undefined : "steuer-inaktiv"} />
     <div class="scale"><span>{fmtWert(a, a.min)}</span><span>Standard {fmtWert(a, a.wert)}</span><span>{fmtWert(a, a.max)}</span></div>
     <div class="src">Beleg: <a href={a.quelle} target="_blank" rel="noopener">{host(a.quelle)}</a></div>
   </div>
@@ -47,10 +51,10 @@
 
 <div class="box">
   <b>Wirkung</b>
-  <div class="kv"><span>Aufkommen gesamt</span><b class="tabular">{fmtEuro(ergebnis.gesamt)}</b></div>
+  <div class="kv"><span>Mehreinnahmen gesamt (gegenüber heutigem Recht)</span><b class="tabular">{fmtEuro(ergebnis.gesamt)}</b></div>
   <div class="kv"><span>davon beim Bund</span><b class="tabular" class:good={ergebnis.bund > 0}>{fmtEuro(ergebnis.bund)}</b></div>
   <p class="muted">{empfaengerText} <a href={szenario.bund_anteil_quelle} target="_blank" rel="noopener">Art. 106 GG</a></p>
-  {#if !aktiv}<p class="muted">Noch nicht aktiv: Schalte das Modell oben ein, damit es in die Bilanz eingeht.</p>{/if}
+  {#if !aktiv}<p class="muted" id="steuer-inaktiv">Noch nicht aktiv: Schalte das Modell oben ein, damit es in die Bilanz eingeht.</p>{/if}
 </div>
 
 <div class="box">
