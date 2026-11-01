@@ -22,7 +22,7 @@ export function encodeScenario(s: Scenario, view: ViewId, focus: NodeId[]): stri
   return parts.join(";");
 }
 
-function knownIds(data: YearData): Set<string> {
+export function knownIds(data: YearData): Set<string> {
   const ids = new Set<string>();
   for (const row of data.rows) {
     if (row.art === "A") {
