@@ -1,0 +1,105 @@
+# Steuer-Szenarien für die Einnahmenseite (Konzept §4.8a). Jedes Szenario ist ein Modell mit offenen Annahmen;
+# jede Annahme und jedes Ereignis der Geschichte trägt eine Quelle (URL). Der Build bricht ohne Quelle ab.
+#
+# Modellarten:
+#   satz_mal_basis   aufkommen = basis × satz × (1 − ausweich)
+#   satzaenderung    aufkommen = basis_pro_punkt × (satz_neu − satz_alt) × 100
+#   basis_mal_faktor aufkommen = basis × (faktor − 1)
+# bund_anteil: Anteil des Aufkommens, der dem Bund zusteht (Art. 106 GG). Ländersteuern: 0.
+szenarien:
+  - id: vermoegensteuer
+    name: Vermögensteuer wieder erheben
+    kurz: Vermögensteuer
+    status: ausgesetzt
+    empfaenger: laender
+    bund_anteil: 0.0
+    bund_anteil_quelle: "https://www.gesetze-im-internet.de/gg/art_106.html"
+    beschreibung: "Die Vermögensteuer wird seit 1997 nicht mehr erhoben, obwohl das Gesetz weiter gilt. Das Aufkommen stünde den Ländern zu, nicht dem Bund."
+    modell:
+      art: satz_mal_basis
+      basis:
+        wert: 4200000000000
+        text: "Steuerpflichtiges Nettovermögen natürlicher Personen oberhalb eines Freibetrags von 1 Mio € (abgeleitet: 1 % Satz ergibt laut DIW 42 Mrd € ohne Verhaltensanpassung)"
+        jahr: 2024
+        quelle: "https://www.diw.de/documents/publikationen/73/diw_01.c.998454.de/diwkompakt_2026-211.pdf"
+      annahmen:
+        - {id: satz, text: "Steuersatz auf das Vermögen oberhalb des Freibetrags", wert: 0.01, min: 0, max: 0.03, schritt: 0.0025, einheit: "%", quelle: "https://www.diw.de/documents/publikationen/73/diw_01.c.998454.de/diwkompakt_2026-211.pdf"}
+        - {id: ausweich, text: "Aufkommensverlust durch Ausweichreaktionen (Verlagerung, Gestaltung); DIW: 30 bis 46 %", wert: 0.30, min: 0, max: 0.6, schritt: 0.05, einheit: "%", quelle: "https://www.diw.de/documents/publikationen/73/diw_01.c.831670.de/21-50-1.pdf"}
+    geschichte:
+      - {datum: 1995-06-22, titel: "Bundesverfassungsgericht: Einheitswerte verfassungswidrig", text: "Der Zweite Senat erklärt § 10 Nr. 1 VStG für unvereinbar mit dem Gleichheitssatz, weil Grundbesitz und Geldvermögen ungleich bewertet wurden. Der Gesetzgeber muss bis zum 31. Dezember 1996 neu regeln.", akteure: "Bundesverfassungsgericht, 2 BvL 37/91", quelle: "https://www.servat.unibe.ch/dfr/bv093121.html"}
+      - {datum: 1996-02-07, titel: "Letzte Schätzung des Aufkommens", text: "Die Bundesregierung beziffert das erwartete Aufkommen 1996 auf rund 8,3 Mrd DM in den alten und 0,35 Mrd DM in den neuen Ländern.", akteure: "Bundesregierung (Kohl, CDU/CSU und FDP), Antwort auf eine Kleine Anfrage", quelle: "https://dserver.bundestag.de/btd/13/037/1303710.pdf"}
+      - {datum: 1996-06-11, titel: "Jahressteuergesetz 1997: keine Neuregelung", text: "Der Gesetzentwurf der Bundesregierung sieht statt einer Neubewertung die Aufhebung des Vermögensteuergesetzes vor. Eine Neuregelung kommt nicht zustande; ab dem 1. Januar 1997 wird die Steuer nicht mehr erhoben, das Gesetz bleibt formal in Kraft.", akteure: "Bundesregierung Kohl (CDU/CSU und FDP), Bundesfinanzminister Theo Waigel (CSU); Drucksache 13/4839", quelle: "https://dserver.bundestag.de/btd/13/048/1304839.pdf"}
+      - {datum: 2024-12-01, titel: "Sachstand der Wissenschaftlichen Dienste", text: "Die Wissenschaftlichen Dienste des Bundestags fassen zusammen, dass die Vermögensteuer seit 1997 nicht erhoben wird und welche Hürden eine Wiedererhebung hätte.", akteure: "Wissenschaftliche Dienste des Deutschen Bundestages, WD 4 - 3000 - 089/24", quelle: "https://www.bundestag.de/resource/blob/1050966/WD-4-089-24-pdf.pdf"}
+      - {datum: 2025-07-15, titel: "Bundesregierung: keine Schätzung des entgangenen Aufkommens", text: "Auf eine Kleine Anfrage antwortet die Bundesregierung, dass ihr keine Schätzungen über das fiktive Aufkommen seit der Aussetzung vorliegen.", akteure: "Bundesregierung Merz (CDU/CSU und SPD); Drucksache 21/908", quelle: "https://dserver.bundestag.de/btd/21/009/2100908.pdf"}
+      - {datum: 2026-01-15, titel: "DIW rechnet Varianten durch", text: "Das DIW schätzt für einen proportionalen Satz von 1 % bei 1 Mio € Freibetrag ein Aufkommen von 42 Mrd € ohne Verhaltensanpassung; frühere DIW-Studien nannten 10 bis 20 Mrd € und Ausweichreaktionen von 30 bis 46 %.", akteure: "DIW Berlin, Politikberatung kompakt 211", quelle: "https://www.diw.de/documents/publikationen/73/diw_01.c.998454.de/diwkompakt_2026-211.pdf"}
+  - id: erbschaftsteuer
+    name: Erbschaftsteuer ohne Verschonungen
+    kurz: Erbschaftsteuer
+    status: erhoben
+    empfaenger: laender
+    bund_anteil: 0.0
+    bund_anteil_quelle: "https://www.gesetze-im-internet.de/gg/art_106.html"
+    beschreibung: "Die Erbschaft- und Schenkungsteuer wird erhoben, ihr Aufkommen steht den Ländern zu. Große Betriebsvermögen sind weitgehend verschont; das Bundesverfassungsgericht hat diese Verschonung zweimal beanstandet."
+    modell:
+      art: basis_mal_faktor
+      basis:
+        wert: 13300000000
+        text: "Festgesetzte Erbschaft- und Schenkungsteuer 2024"
+        jahr: 2024
+        quelle: "https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/08/PD25_320_736.html"
+      annahmen:
+        - {id: faktor, text: "Vervielfacher des Aufkommens durch Abbau der Verschonungen für Betriebsvermögen (1,0 = heutiges Recht; der Umfang der Verschonung ist amtlich nicht beziffert, der Wert ist eine Annahme des Nutzers)", wert: 1.0, min: 1.0, max: 2.5, schritt: 0.1, einheit: "×", quelle: "https://www.servat.unibe.ch/dfr/bv138136.html"}
+    geschichte:
+      - {datum: 2006-11-07, titel: "Bundesverfassungsgericht: Bewertung verfassungswidrig", text: "Der Erste Senat beanstandet die ungleiche Bewertung der Vermögensarten und setzt eine Frist zur Neuregelung bis zum 31. Dezember 2008.", akteure: "Bundesverfassungsgericht, 1 BvL 10/02", quelle: "https://www.servat.unibe.ch/dfr/bv117001.html"}
+      - {datum: 2008-01-28, titel: "Gesetzentwurf Erbschaftsteuerreform", text: "Die Bundesregierung legt den Entwurf des Erbschaftsteuerreformgesetzes vor, mit Verschonung von 85 oder 100 % für Betriebsvermögen.", akteure: "Bundesregierung Merkel I (CDU/CSU und SPD), Bundesfinanzminister Peer Steinbrück (SPD); Drucksache 16/7918", quelle: "https://dserver.bundestag.de/btd/16/079/1607918.pdf"}
+      - {datum: 2008-12-24, titel: "Erbschaftsteuerreformgesetz verkündet", text: "Das Gesetz tritt zum 1. Januar 2009 in Kraft (BGBl. I S. 3018).", akteure: "Bundestag und Bundesrat; Regierung Merkel I (CDU/CSU und SPD)", quelle: "https://dejure.org/BGBl/BGBl._I_2008,_3018"}
+      - {datum: 2014-12-17, titel: "Bundesverfassungsgericht: Verschonung zu weitgehend", text: "Die Verschonungsregeln der §§ 13a und 13b ErbStG sind wegen ihres Ausmaßes und der Gestaltungsmöglichkeiten mit dem Gleichheitssatz unvereinbar; Frist bis zum 30. Juni 2016.", akteure: "Bundesverfassungsgericht, 1 BvL 21/12", quelle: "https://www.servat.unibe.ch/dfr/bv138136.html"}
+      - {datum: 2016-11-04, titel: "Anpassungsgesetz behält die Verschonung bei", text: "Das Gesetz zur Anpassung des Erbschaftsteuer- und Schenkungsteuergesetzes an die Rechtsprechung des Bundesverfassungsgerichts (BGBl. I S. 2464) gilt für Erwerbe ab dem 1. Juli 2016 und führt eine Bedürfnisprüfung für sehr große Vermögen ein, die Verschonung bleibt im Kern erhalten.", akteure: "Bundesregierung Merkel III (CDU/CSU und SPD), Bundesfinanzminister Wolfgang Schäuble (CDU)", quelle: "https://www.gesetze-im-internet.de/erbstg_1974/__37.html"}
+      - {datum: 2025-09-03, titel: "Aufkommen 2024: 13,3 Mrd €", text: "Die festgesetzte Erbschaft- und Schenkungsteuer stieg 2024 um 12,3 % auf 13,3 Mrd €, bei übertragenem Vermögen von 113,2 Mrd €.", akteure: "Statistisches Bundesamt, Pressemitteilung Nr. 320", quelle: "https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/08/PD25_320_736.html"}
+      - {datum: 2026-08-26, titel: "Aufkommen 2025: 21,4 Mrd €", text: "Die festgesetzte Erbschaft- und Schenkungsteuer erreicht 2025 mit 21,4 Mrd € einen Höchstwert.", akteure: "Statistisches Bundesamt, Pressemitteilung Nr. 306", quelle: "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/08/PD26_306_736.html"}
+  - id: spitzensteuersatz
+    name: Spitzensteuersatz anheben
+    kurz: Spitzensteuersatz
+    status: erhoben
+    empfaenger: gemeinsam
+    bund_anteil: 0.425
+    bund_anteil_quelle: "https://www.gesetze-im-internet.de/gg/art_106.html"
+    beschreibung: "Der Spitzensatz der Einkommensteuer lag bis 1999 bei 53 %, seit 2005 bei 42 %; seit 2007 gilt ab 250.000 € ein Zuschlag auf 45 %. Vom Einkommensteueraufkommen erhält der Bund 42,5 %."
+    modell:
+      art: satzaenderung
+      basis:
+        wert: 4667000000
+        text: "Mehreinnahmen je Prozentpunkt Spitzensteuersatz (abgeleitet aus der Regierungsschätzung: 45 % statt 42 % bringen 14 Mrd € im Jahr 2025)"
+        jahr: 2025
+        quelle: "https://www.bundestag.de/presse/hib/kurzmeldungen-1050526"
+      satz_alt: 0.42
+      annahmen:
+        - {id: satz_neu, text: "Neuer Spitzensteuersatz (heute 42 %, bis 1999 53 %)", wert: 0.45, min: 0.42, max: 0.53, schritt: 0.01, einheit: "%", quelle: "https://www.bmf-steuerrechner.de/javax.faces.resource/2025_10_14_Tarifhistorie_Steuerrechner.pdf.xhtml"}
+    geschichte:
+      - {datum: 1998-01-01, titel: "Spitzensatz 53 %", text: "Bis einschließlich 1999 beträgt der Spitzensatz der Einkommensteuer 53 %.", akteure: "Bundesfinanzministerium, Tarifhistorie des Einkommensteuerrechners", quelle: "https://www.bmf-steuerrechner.de/javax.faces.resource/2025_10_14_Tarifhistorie_Steuerrechner.pdf.xhtml"}
+      - {datum: 2000-02-18, titel: "Steuersenkungsgesetz eingebracht", text: "Die Fraktionen SPD und Bündnis 90/Die Grünen bringen den Entwurf ein, der den Spitzensatz stufenweise auf 42 % (2005) senkt.", akteure: "Regierung Schröder (SPD und Grüne), Bundesfinanzminister Hans Eichel (SPD); Drucksache 14/2683", quelle: "https://dserver.bundestag.de/btd/14/026/1402683.pdf"}
+      - {datum: 2000-10-23, titel: "Steuersenkungsgesetz verkündet", text: "Gesetz zur Senkung der Steuersätze und zur Reform der Unternehmensbesteuerung (BGBl. I S. 1433): Spitzensatz 51 % (2000), 48,5 % (2001), 45 % (2004), 42 % (2005).", akteure: "Bundestag und Bundesrat; Regierung Schröder (SPD und Grüne)", quelle: "https://www.bmf-steuerrechner.de/javax.faces.resource/2025_10_14_Tarifhistorie_Steuerrechner.pdf.xhtml"}
+      - {datum: 2006-05-18, titel: "Steueränderungsgesetz 2007: Zuschlag 45 % ab 250.000 €", text: "Die Fraktionen CDU/CSU und SPD bringen den Entwurf ein; ab 2007 gilt für zu versteuernde Einkommen über 250.000 € (Ledige) ein Satz von 45 %.", akteure: "Regierung Merkel I (CDU/CSU und SPD), Bundesfinanzminister Peer Steinbrück (SPD); Drucksache 16/1545", quelle: "https://dserver.bundestag.de/btd/16/015/1601545.pdf"}
+      - {datum: 2025-02-13, titel: "Regierungsschätzung: 45 % brächten 14 Mrd €", text: "Nach Angaben der Bundesregierung würde ein Spitzensatz von 45 % die Steuereinnahmen 2025 um rund 14 Mrd € erhöhen; 48 % in der Reichensteuerzone brächten weitere 3 Mrd €.", akteure: "Bundesregierung Scholz (SPD, Grüne; Drucksache 20/14903), Heute im Bundestag 87/2025", quelle: "https://www.bundestag.de/presse/hib/kurzmeldungen-1050526"}
+  - id: abgeltungsteuer
+    name: Kapitalerträge höher besteuern
+    kurz: Abgeltungsteuer
+    status: erhoben
+    empfaenger: gemeinsam
+    bund_anteil: 0.44
+    bund_anteil_quelle: "https://www.gesetze-im-internet.de/gg/art_106.html"
+    beschreibung: "Zinsen, Dividenden und Kursgewinne werden seit 2009 pauschal mit 25 % besteuert, unabhängig vom persönlichen Steuersatz. Vom Aufkommen der Kapitalertragsteuer erhält der Bund 44 %."
+    modell:
+      art: satzaenderung
+      basis:
+        wert: 771000000
+        text: "Aufkommen je Prozentpunkt (vereinfacht linear: 19,3 Mrd € Abgeltungsteuer 2024 geteilt durch 25 Punkte)"
+        jahr: 2024
+        quelle: "https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Steuerschaetzungen_und_Steuereinnahmen/2025-01-30-steuereinnahmen-Dezember-2024.pdf?__blob=publicationFile&v=2"
+      satz_alt: 0.25
+      annahmen:
+        - {id: satz_neu, text: "Neuer Steuersatz auf Kapitalerträge (heute 25 %; 45 % entspräche dem Spitzensatz)", wert: 0.30, min: 0.20, max: 0.45, schritt: 0.01, einheit: "%", quelle: "https://webarchiv.bundestag.de/archive/2009/0214/wissen/analysen/2008/abgeltungsteuer.pdf"}
+    geschichte:
+      - {datum: 2007-08-14, titel: "Unternehmensteuerreformgesetz 2008", text: "Das Gesetz (BGBl. I S. 1912) führt zum 1. Januar 2009 die Abgeltungsteuer von 25 % auf private Kapitalerträge ein.", akteure: "Regierung Merkel I (CDU/CSU und SPD), Bundesfinanzminister Peer Steinbrück (SPD)", quelle: "https://umwelt-online.de/recht/allgemei/steuer/z07_1912.htm"}
+      - {datum: 2009-01-01, titel: "Abgeltungsteuer in Kraft", text: "Kapitalerträge werden seit 2009 pauschal mit 25 % (zuzüglich Solidaritätszuschlag) an der Quelle besteuert.", akteure: "Wissenschaftliche Dienste des Deutschen Bundestages, Analyse 2008", quelle: "https://webarchiv.bundestag.de/archive/2009/0214/wissen/analysen/2008/abgeltungsteuer.pdf"}
+      - {datum: 2025-01-30, titel: "Aufkommen 2024: 19,3 Mrd €", text: "Die Abgeltungsteuer auf Zins- und Veräußerungserträge brachte 2024 rund 19,3 Mrd € (2023: 8,4 Mrd €).", akteure: "Bundesfinanzministerium, Steuereinnahmen Dezember 2024", quelle: "https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Steuerschaetzungen_und_Steuereinnahmen/2025-01-30-steuereinnahmen-Dezember-2024.pdf?__blob=publicationFile&v=2"}

@@ -24,6 +24,7 @@ from .nachtrag import apply_nachtrag
 from .parse_csv import parse_soll_csv
 from .parse_xml import parse_rechnung_xml
 from .sozialkassen import build_sozialkassen
+from .steuern import build_steuern
 from .texts import build_texts
 from .texts import build_texts
 from .sv import load_manual, mark_sv, mark_transfers
@@ -189,6 +190,10 @@ def cmd_build(args: argparse.Namespace) -> int:
     if texts_dir.exists():
         build_texts(texts_dir, out)
         print("texte: texte.json")
+    st_file = manual_dir / "steuern.yaml"
+    if st_file.exists():
+        build_steuern(st_file, out)
+        print("steuern: steuern.json")
     sk_file = manual_dir / "sozialkassen.yaml"
     if sk_file.exists():
         import yaml
