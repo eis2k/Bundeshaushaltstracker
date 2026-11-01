@@ -78,6 +78,7 @@
   const delta = $derived(info ? info.effective - info.original : 0);
   const share = $derived(info && info.parentOriginal > 0 ? Math.abs(delta) / info.parentOriginal : 0);
   const quelle = $derived(app.stand === "ist" ? app.data?.quelle.ist : app.data?.quelle.soll);
+  const erklaerung = $derived(info ? app.texte[info.id] ?? null : null);
 
   let betrag = $state("");
   function applyBetrag() {
@@ -139,8 +140,13 @@
     {/if}
     <div class="box">
       <b>Was das ist</b>
-      <p>{#if info.row}{info.row.text}{:else}{info.kind === "epl" ? "Einzelplan" : info.kind === "kap" ? "Kapitel" : "Einnahmengruppe"} mit {info.rows.length} Titel{info.rows.length === 1 ? "" : "n"}.{/if}</p>
-      <p class="muted">{info.row ? "Amtliche Zweckbestimmung; ein Erklärtext folgt." : ""}</p>
+      {#if erklaerung}
+        <p>{erklaerung.text}</p>
+        <p class="muted">Erklärtext, Stand {erklaerung.stand}; Belege: {#each erklaerung.quelle as q, i}{#if i > 0}, {/if}<a href={q} target="_blank" rel="noopener">{new URL(q).hostname.replace("www.", "")}</a>{/each}</p>
+      {:else}
+        <p>{#if info.row}{info.row.text}{:else}{info.kind === "epl" ? "Einzelplan" : info.kind === "kap" ? "Kapitel" : "Einnahmengruppe"} mit {info.rows.length} Titel{info.rows.length === 1 ? "" : "n"}.{/if}</p>
+        <p class="muted">{info.row ? "Amtliche Zweckbestimmung; noch kein Erklärtext." : ""}</p>
+      {/if}
       {#if info.factor !== 1}
         <b>Auswirkung deiner Änderung</b>
         <p><span class="tabular" class:good={info.kind === "einnahmen" ? delta > 0 : delta < 0} class:bad={info.kind === "einnahmen" ? delta < 0 : delta > 0}>{fmtDelta(delta)}</span>, das sind {fmtPct(share)} {info.parentLabel}. <span class="muted">(Rechnung, keine Prognose)</span></p>

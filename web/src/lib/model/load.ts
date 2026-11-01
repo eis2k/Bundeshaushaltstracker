@@ -19,6 +19,12 @@ export const loadIndex = () => getJson<Index>("index.json");
 export const loadYear = (jahr: number) => getJson<YearData>(`bund/${jahr}.json`);
 export const loadPresets = async () => (await getJson<{ presets: Preset[] }>("presets.json")).presets;
 export const loadZeitreihe = () => getJson<Zeitreihe>("zeitreihe.json");
+export type Texte = Record<string, { text: string; quelle: string[]; stand: string }>;
+export const loadTexte = () => getJson<Texte>("texte.json");
+export const loadKonkordanz = async (): Promise<Record<string, { ab: number; hinweis: string; quelle?: string }>> => {
+  const raw = await getJson<{ epl: { epl: string; ab: number; hinweis: string; quelle?: string }[] }>("konkordanz.json");
+  return Object.fromEntries(raw.epl.map((e) => [e.epl, { ab: e.ab, hinweis: e.hinweis, quelle: e.quelle }]));
+};
 export const loadSozialkassen = (jahr: number) => getJson<SozialkassenYear>(`sozialkassen/${jahr}.json`);
 export const loadVpi = async (): Promise<Vpi> => {
   const raw = await getJson<{ werte: Record<string, number> }>("vpi.json");

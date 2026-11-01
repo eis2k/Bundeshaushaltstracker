@@ -24,6 +24,8 @@ from .nachtrag import apply_nachtrag
 from .parse_csv import parse_soll_csv
 from .parse_xml import parse_rechnung_xml
 from .sozialkassen import build_sozialkassen
+from .texts import build_texts
+from .texts import build_texts
 from .sv import load_manual, mark_sv
 
 REPO = Path(__file__).resolve().parents[3]
@@ -175,6 +177,14 @@ def cmd_build(args: argparse.Namespace) -> int:
     build_index(sorted(years), totals, ist_bis=max(ist_years) if ist_years else None, out=out)
     for p in build_manual(manual_dir, out):
         print(f"manuell: {p.name}")
+    texts_dir = manual_dir.parent / "texts" / "titel"
+    if texts_dir.exists():
+        build_texts(texts_dir, out)
+        print("texte: texte.json")
+    texts_dir = manual_dir.parent / "texts" / "titel"
+    if texts_dir.exists():
+        build_texts(texts_dir, out)
+        print("texte: texte.json")
     sk_file = manual_dir / "sozialkassen.yaml"
     if sk_file.exists():
         import yaml

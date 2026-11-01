@@ -27,7 +27,7 @@
   const bisEffective = $derived(app.stand === "ist" && istBis !== null ? Math.min(bis, istBis) : bis);
 
   const rows = $derived<GrowthRow[]>(app.zeitreihe
-    ? rankGrowth(app.zeitreihe, { von, bis: bisEffective, ebene, stand: app.stand, sort, filter, real: app.real, vpi: app.vpi ?? undefined, includeSv: app.scenario.includeSv, min })
+    ? rankGrowth(app.zeitreihe, { von, bis: bisEffective, ebene, stand: app.stand, sort, filter, real: app.real, vpi: app.vpi ?? undefined, includeSv: app.scenario.includeSv, min, konkordanz: app.konkordanz })
     : []);
   const shown = $derived(rows.slice(0, limit));
   const total = $derived(app.zeitreihe ? (() => {

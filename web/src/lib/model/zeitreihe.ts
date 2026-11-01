@@ -33,6 +33,8 @@ export interface GrowthOpts {
   includeSv?: boolean;
   /** Mindestbetrag in Euro: Zeilen, deren Start- und Endwert beide darunter liegen, entfallen. */
   min?: number;
+  /** Umschnitte je Einzelplan: Hinweis, wenn der Umschnitt (ab) in den Zeitraum fällt. */
+  konkordanz?: Record<string, { ab: number; hinweis: string }>;
 }
 
 export interface GrowthRow {
@@ -92,7 +94,10 @@ export function rankGrowth(z: Zeitreihe, opts: GrowthOpts): GrowthRow[] {
     const abs = bis - von;
     if (opts.filter === "geschrumpft" && !(abs < 0)) continue;
     if (opts.filter === "neu" && !neu) continue;
-    rows.push({ id, text: s.text, epl: s.epl ?? (opts.ebene === "epl" ? id : undefined), von, bis, abs, pct, neu, verlauf: scaled.slice(Math.min(iVon, iBis), Math.max(iVon, iBis) + 1) });
+    const epl = s.epl ?? (opts.ebene === "epl" ? id : id.split("-")[0]);
+    const k = opts.konkordanz?.[epl];
+    const hinweis = k && k.ab > opts.von && k.ab <= opts.bis ? k.hinweis : undefined;
+    rows.push({ id, text: s.text, epl, von, bis, abs, pct, neu, verlauf: scaled.slice(Math.min(iVon, iBis), Math.max(iVon, iBis) + 1), hinweis });
   }
   if (opts.sort === "abs") rows.sort((a, b) => b.abs - a.abs);
   else rows.sort((a, b) => {

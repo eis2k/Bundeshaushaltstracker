@@ -14,6 +14,8 @@ export interface Loader {
   loadZeitreihe?: () => Promise<Zeitreihe>;
   loadVpi?: () => Promise<Vpi>;
   loadSozialkassen?: (jahr: number) => Promise<SozialkassenYear>;
+  loadTexte?: () => Promise<Record<string, { text: string; quelle: string[]; stand: string }>>;
+  loadKonkordanz?: () => Promise<Record<string, { ab: number; hinweis: string; quelle?: string }>>;
 }
 
 export type Stand = "soll" | "ist";
@@ -41,6 +43,8 @@ export class AppState {
   /** Welcher Topf im Fluss gezeigt wird: Gesamtfluss, Bund oder eine Sozialkasse. */
   topf = $state<TopfId>("gesamt");
   sozialkassen = $state<SozialkassenYear | null>(null);
+  texte = $state<Record<string, { text: string; quelle: string[]; stand: string }>>({});
+  konkordanz = $state<Record<string, { ab: number; hinweis: string; quelle?: string }>>({});
   index = $state<Index | null>(null);
   data = $state<YearData | null>(null);
   presets = $state<Preset[]>([]);
@@ -79,6 +83,8 @@ export class AppState {
       this.index = index;
       this.presets = presets;
       this.gesetz = gesetz;
+      if (this.loader.loadTexte) this.loader.loadTexte().then((t) => (this.texte = t)).catch(() => undefined);
+      if (this.loader.loadKonkordanz) this.loader.loadKonkordanz().then((k) => (this.konkordanz = k)).catch(() => undefined);
       const latest = index.jahre[index.jahre.length - 1];
       const probe = await this.loader.loadYear(latest);
       const decoded = decodeScenario(hash, probe);

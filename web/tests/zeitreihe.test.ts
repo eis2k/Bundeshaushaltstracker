@@ -91,6 +91,18 @@ describe("rankGrowth", () => {
     expect(rankGrowth(z, { ...base, min: 150 }).map((r) => r.id)).toContain("60-6002-68309");
   });
 
+  test("konkordanz adds a hinweis to restructured Einzelpläne and their titel", () => {
+    const konkordanz = { "11": { ab: 2020, hinweis: "2020 umgeschnitten" } };
+    const epl = rankGrowth(z, { ...base, ebene: "epl", konkordanz });
+    expect(epl.find((r) => r.id === "11")!.hinweis).toBe("2020 umgeschnitten");
+    const titel = rankGrowth(z, { ...base, konkordanz });
+    expect(titel.find((r) => r.id === "11-1102-63681")!.hinweis).toBe("2020 umgeschnitten");
+    expect(titel.find((r) => r.id === "14-1403-42301")!.hinweis).toBeUndefined();
+    // Umschnitt außerhalb des Zeitraums → kein Hinweis
+    expect(rankGrowth(z, { ...base, konkordanz: { "11": { ab: 2030, hinweis: "später" } } }).find((r) => r.id === "11-1102-63681")!.hinweis).toBeUndefined();
+    expect(rankGrowth(z, { ...base, von: 2020, konkordanz: { "11": { ab: 2016, hinweis: "früher" } } }).find((r) => r.id === "11-1102-63681")!.hinweis).toBeUndefined();
+  });
+
   test("includeSv adds Anlagen", () => {
     expect(rankGrowth(z, { ...base, includeSv: true }).find((r) => r.id === "60-6092-89310")).toBeTruthy();
   });

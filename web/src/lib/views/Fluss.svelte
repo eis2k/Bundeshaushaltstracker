@@ -26,7 +26,7 @@
 
   let width = $state(900);
   const columnsNeeded = $derived(focus.length >= 2 ? 6 : focus.length === 1 ? 4 : 3);
-  const height = $derived((width < 720 ? 560 : 440) + Math.max(0, columnsNeeded - 4) * 80);
+  const height = $derived((width < 720 ? 560 : 440) + Math.max(0, columnsNeeded - 4) * 80 + (gesamtModus ? 200 : 0));
   const maxPerColumn = $derived(width < 720 ? 5 : columnsNeeded >= 6 ? 6 : 8);
 
   const sdata = $derived(gesamtModus
