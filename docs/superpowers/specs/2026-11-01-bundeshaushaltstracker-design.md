@@ -146,7 +146,8 @@ Florian hat Sprache, Bibliotheken und Architektur dem Builder überlassen. Vorsc
 
 ## 7. Ausbaustufen (Reihenfolge, Vorschlag)
 
-1. **Bund 2015–2025**: Soll und Ist bis Titelebene, Fluss/Karte/Säulen, Regler, Presets, Teilen, Jahresleiste, "Was ist gewachsen?", Kostenarten-Schnitt, Erklärtexte für die großen Titel. Sozialkassen als Töpfe mit grober Gliederung im Gesamtfluss.
+1. **Bund 2015–2026** ✅ (umgesetzt am 1.11.2026, Branch `stufe-1`, Plan `docs/superpowers/plans/2026-11-01-stufe-1-bund.md`): Soll und Ist bis Titelebene, Fluss/Karte/Säulen, Regler, Presets, Teilen, Jahresleiste, "Was ist gewachsen?", Kostenarten-Schnitt, Erklärtexte für die 54 größten Posten. Sozialkassen als Töpfe mit grober Gliederung im Gesamtfluss. Offen aus dieser Stufe: Deployment auf den VPS, Impressum, weitere Erklärtexte, Prüfung der VPI-Werte 2015–2019 und der mit `geprueft: false` markierten Sozialkassen-Posten.
+1b. **Steuer-Presets mit Herkunft** (§4.8a): Vermögensteuer, Erbschaftsteuer, Spitzensteuersatz als Einnahmen-Modelle mit Kasten „Wer hat das beschlossen“.
 2. **Empfänger**: Zuwendungsempfänger aus amtlichen Listen, Empfänger-Seiten mit Zeitlinie, Empfänger-Art-Schnitt, Personal-Regler.
 3. **Personen**: Lobbyregister, Nebentätigkeiten, Register-Daten, Akten, Netz, Melde- und Korrekturweg.
 4. **Ländervergleich**: Tafeln, dann "System übernehmen"-Presets.
