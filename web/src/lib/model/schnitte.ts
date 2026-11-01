@@ -1,4 +1,4 @@
-import { buildTree } from "./tree";
+import { buildTree, includeRow } from "./tree";
 import type { BudgetRow, Tree, TreeNode, YearData } from "./types";
 
 /** Drei Schnitte durch dieselben Ausgaben: nach Ressort, nach Kostenart (Hauptgruppen), nach Empfänger-Art (Gruppierungsplan). */
@@ -77,7 +77,7 @@ function groupTree(data: YearData, includeSv: boolean, prefix: string, keyOf: (r
   const groups = new Map<string, TreeNode>();
   for (const row of data.rows) {
     if (row.art !== "A") continue;
-    if (row.sv && !includeSv) continue;
+    if (!includeRow(row, includeSv)) continue;
     const key = keyOf(row);
     const id = `${prefix}:${key}`;
     let g = groups.get(id);

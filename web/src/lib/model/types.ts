@@ -15,6 +15,8 @@ export interface BudgetRow {
   soll: number;
   ist: number | null;
   sv: boolean;
+  /** Zahlung zwischen Kernhaushalt und Nebenhaushalt; bei zugeschalteten Nebenhaushalten nicht mitzählen. */
+  transfer?: boolean;
 }
 
 export interface Quelle {

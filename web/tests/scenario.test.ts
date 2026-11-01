@@ -77,3 +77,26 @@ describe("setFactor", () => {
     expect(childFactorsOverridden("14", f)).toEqual([]);
   });
 });
+
+describe("Schnitt-Faktoren (Review 9)", () => {
+  test("ka:/ea: factors apply to matching rows below user titel/kap/epl factors", () => {
+    expect(rowFactor(rowById("14-1401-55101"), { "ka:sach": 0.5 })).toBe(0.5);
+    expect(rowFactor(rowById("11-1102-63681"), { "ka:sach": 0.5 })).toBe(1);
+    expect(rowFactor(rowById("11-1102-63681"), { "ea:sozialversicherung": 0.8 })).toBe(0.8);
+    expect(rowFactor(rowById("11-1102-63681"), { "ea:sozialversicherung": 0.8, "11": 1.2 })).toBe(1.2);
+    expect(balance(fixtureYear, { "ka:zuweisungen": 0.5 }, false).ausgaben).toBe(950 - 350);
+  });
+});
+
+describe("Transfers bei Nebenhaushalten (Review 11)", () => {
+  test("rows flagged transfer are skipped when includeSv is on, counted when off", () => {
+    const data = { ...fixtureYear, rows: [
+      ...fixtureYear.rows,
+      { id: "60-6002-63401", art: "A" as const, epl: "60", kap: "6002", titel: "63401", text: "Zuweisung an das Sondervermögen", fkt: "000", flex: null, tgr: null, soll: 30, ist: null, sv: false, transfer: true },
+      { id: "60-6098-23101", art: "E" as const, epl: "60", kap: "6098", titel: "23101", text: "Zuweisung aus dem Bundeshaushalt", fkt: "000", flex: null, tgr: null, soll: 30, ist: null, sv: true, transfer: true },
+    ] };
+    expect(balance(data, {}, false).ausgaben).toBe(SUM_A_KERN + 30);
+    expect(balance(data, {}, true).ausgaben).toBe(SUM_A_KERN + 80);          // Kern-Zuweisung entfällt, SV-Ausgaben 80 dazu
+    expect(balance(data, {}, true).einnahmen).toBe(SUM_E_OHNE_KREDITE + 80); // SV-Einnahme aus dem Bund entfällt
+  });
+});

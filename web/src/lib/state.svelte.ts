@@ -24,6 +24,17 @@ function withIst(data: YearData): YearData {
   return { ...data, rows: data.rows.map((r) => (r.ist === null ? r : { ...r, soll: r.ist })) };
 }
 
+function scaleSozialkassen(sk: SozialkassenYear, vpi: Vpi, bezugsjahr: number): SozialkassenYear {
+  if (!vpi[sk.jahr] || !vpi[bezugsjahr] || sk.jahr === bezugsjahr) return sk;
+  const f = (v: number) => Math.round(deflate(v, sk.jahr, bezugsjahr, vpi));
+  const toepfe = Object.fromEntries(Object.entries(sk.toepfe).map(([id, t]) => [id, {
+    ...t,
+    einnahmen: t.einnahmen.map((e) => ({ ...e, betrag: f(e.betrag) })),
+    ausgaben: t.ausgaben.map((e) => ({ ...e, betrag: f(e.betrag) })),
+  }]));
+  return { ...sk, toepfe };
+}
+
 /** Rechnet alle Beträge eines Jahres in Preise des Bezugsjahres um. */
 function inPrices(data: YearData, vpi: Vpi, bezugsjahr: number): YearData {
   if (!vpi[data.jahr] || !vpi[bezugsjahr] || data.jahr === bezugsjahr) return data;
@@ -71,8 +82,11 @@ export class AppState {
   factors = $derived(this.applied.factors);
   solver = $derived(this.applied.solver);
   balance = $derived<Balance | null>(this.viewData ? computeBalance(this.viewData, this.factors, this.scenario.includeSv) : null);
-  toepfe = $derived<ToepfeResult | null>(this.viewData && this.sozialkassen && this.sozialkassen.jahr === this.jahr
-    ? buildToepfe(this.viewData, this.sozialkassen, this.factors, this.scenario.includeSv) : null);
+  /** Sozialkassen des Jahres, bei Inflationsbereinigung in Preisen des Bezugsjahres. */
+  viewSozialkassen = $derived<SozialkassenYear | null>(this.sozialkassen && this.sozialkassen.jahr === this.jahr
+    ? (this.real && this.vpi ? scaleSozialkassen(this.sozialkassen, this.vpi, this.bezugsjahr) : this.sozialkassen) : null);
+  toepfe = $derived<ToepfeResult | null>(this.viewData && this.viewSozialkassen
+    ? buildToepfe(this.viewData, this.viewSozialkassen, this.factors, this.scenario.includeSv) : null);
 
   constructor(private loader: Loader) {}
 
@@ -157,7 +171,10 @@ export class AppState {
     if (schnitt !== this.schnitt) { this.focus = []; this.selected = null; }
     this.schnitt = schnitt;
   }
-  setFocus(path: NodeId[]): void { this.focus = path; }
+  setFocus(path: NodeId[]): void {
+    this.focus = path;
+    if (path.length) this.topf = "bund";   // ein Fokuspfad gehört immer zum Bundeshaushalt
+  }
   setSelected(id: NodeId | null): void { this.selected = id; }
   setStand(stand: Stand): void { this.stand = stand; }
   async setReal(on: boolean): Promise<void> {

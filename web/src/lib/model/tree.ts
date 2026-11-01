@@ -2,6 +2,13 @@ import type { BudgetRow, RevenueGroup, Tree, TreeNode, YearData } from "./types"
 
 export const KREDIT_GRUPPE = "325";
 
+/** Zeile gehört zur aktuellen Sicht: Nebenhaushalte nur wenn zugeschaltet, Transfers Kern↔Nebenhaushalt dann nicht doppelt. */
+export function includeRow(row: BudgetRow, includeSv: boolean): boolean {
+  if (row.sv && !includeSv) return false;
+  if (includeSv && row.transfer) return false;
+  return true;
+}
+
 /** Steuerarten nach Gruppierungsplan (erste drei Ziffern des Titels, Hauptgruppe 0). */
 export const TAX_LABELS: Record<string, string> = {
   "011": "Lohnsteuer",
@@ -49,7 +56,7 @@ export function buildTree(data: YearData, includeSv: boolean): Tree {
 
   for (const row of data.rows) {
     if (row.art !== "A") continue;
-    if (row.sv && !includeSv) continue;
+    if (!includeRow(row, includeSv)) continue;
 
     let epl = eplNodes.get(row.epl);
     if (!epl) {
@@ -87,7 +94,7 @@ export function revenueGroups(data: YearData, includeSv: boolean): RevenueGroup[
   const groups = new Map<string, RevenueGroup>();
   for (const row of data.rows) {
     if (row.art !== "E") continue;
-    if (row.sv && !includeSv) continue;
+    if (!includeRow(row, includeSv)) continue;
     const id = revenueGroupId(row);
     let g = groups.get(id);
     if (!g) {

@@ -1,4 +1,5 @@
-import { revenueGroupId, revenueKind } from "./tree";
+import { empfaengerArt, kostenart } from "./schnitte";
+import { includeRow, revenueGroupId, revenueKind } from "./tree";
 import type { Balance, BudgetRow, NodeId, Scenario, YearData } from "./types";
 
 type Factors = Record<NodeId, number>;
@@ -16,7 +17,16 @@ export function effectiveFactor(id: NodeId, factors: Factors): number {
 
 /** Faktor für eine konkrete Zeile; Einnahmen lösen Titel → Steuergruppe → alle Steuern/Sonstige auf. */
 export function rowFactor(row: BudgetRow, factors: Factors): number {
-  if (row.art === "A") return effectiveFactor(row.id, factors);
+  if (row.art === "A") {
+    const own = effectiveFactor(row.id, factors);
+    if (own !== 1) return own;
+    // Regler aus dem Kostenarten- oder Empfänger-Art-Schnitt, unterhalb von Titel/Kapitel/Einzelplan
+    const ka = factors[`ka:${kostenart(row.titel)}`];
+    if (ka !== undefined) return ka;
+    const ea = factors[`ea:${empfaengerArt(row.titel)}`];
+    if (ea !== undefined) return ea;
+    return 1;
+  }
   if (factors[row.id] !== undefined) return factors[row.id];
   const groupId = revenueGroupId(row);
   if (factors[groupId] !== undefined) return factors[groupId];
@@ -32,7 +42,7 @@ export function effectiveValue(row: BudgetRow, factors: Factors): number {
 export function balance(data: YearData, factors: Factors, includeSv: boolean): Balance {
   let ausgaben = 0, einnahmen = 0, ausgabenOriginal = 0, einnahmenOriginal = 0;
   for (const row of data.rows) {
-    if (row.sv && !includeSv) continue;
+    if (!includeRow(row, includeSv)) continue;
     if (row.art === "A") {
       ausgabenOriginal += row.soll;
       ausgaben += effectiveValue(row, factors);

@@ -1,6 +1,6 @@
 import { revenueGroupId } from "./tree";
 import type { NodeId, Scenario, ViewId, YearData } from "./types";
-import type { Schnitt } from "./schnitte";
+import { EMPFAENGERART_LABELS, KOSTENART_LABELS, type Schnitt } from "./schnitte";
 
 const VIEWS: ViewId[] = ["fluss", "karte", "saeulen", "gewachsen"];
 const SCHNITTE: Schnitt[] = ["ressort", "kostenart", "empfaengerart"];
@@ -43,6 +43,8 @@ export function knownIds(data: YearData): Set<string> {
   ids.add("E:steuern");
   ids.add("E:sonstige");
   ids.add("E:kredite");
+  for (const k of Object.keys(KOSTENART_LABELS)) ids.add(`ka:${k}`);
+  for (const k of Object.keys(EMPFAENGERART_LABELS)) ids.add(`ea:${k}`);
   return ids;
 }
 
@@ -77,8 +79,9 @@ export function decodeScenario(hash: string, data: YearData): { scenario: Scenar
       const i = item.lastIndexOf(":");
       if (i <= 0) continue;
       const id = item.slice(0, i);
-      const pct = Number.parseInt(item.slice(i + 1), 10);
-      if (!Number.isFinite(pct)) continue;
+      const raw = Number.parseInt(item.slice(i + 1), 10);
+      if (!Number.isFinite(raw)) continue;
+      const pct = Math.min(1000, Math.max(0, raw));
       if (!known.has(id)) { unknownIds.push(id); continue; }
       if (pct !== 100) factors[id] = pct / 100;
     }

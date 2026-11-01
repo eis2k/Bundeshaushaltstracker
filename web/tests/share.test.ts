@@ -69,3 +69,13 @@ describe("decodeScenario", () => {
     expect(d.focus).toEqual(["14"]);
   });
 });
+
+describe("Grenzen (Review 13)", () => {
+  test("percent values are clamped to 0..1000 and ka:/ea: ids are known", () => {
+    const d = decodeScenario("v1;j=2025;a=fluss;o=14:100000,11:-50,ka:personal:50", fixtureYear);
+    expect(d.scenario.factors["14"]).toBe(10);
+    expect(d.scenario.factors["11"]).toBe(0);
+    expect(d.scenario.factors["ka:personal"]).toBe(0.5);
+    expect(d.unknownIds).toEqual([]);
+  });
+});

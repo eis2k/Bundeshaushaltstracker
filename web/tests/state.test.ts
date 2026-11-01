@@ -62,7 +62,7 @@ describe("AppState", () => {
     s.setView("karte");
     s.setFocus(["11", "11-1102"]);
     const h = s.toHash();
-    expect(h).toBe("v1;j=2025;a=karte;f=11/1102;p=rente_halb;o=14:200");
+    expect(h).toBe("v1;j=2025;a=karte;t=bund;f=11/1102;p=rente_halb;o=14:200");  // Fokus schaltet auf den Bund
     const t = new AppState(loader);
     await t.init("#" + h);
     expect(t.jahr).toBe(2025);
@@ -92,5 +92,24 @@ describe("AppState", () => {
     const row = s.viewData!.rows.find((r) => r.id === "11-1102-63681")!;
     expect(row.soll).toBe(390);
     expect(s.balance?.ausgaben).toBe(950 - 10);
+  });
+});
+
+describe("Review-Fixes", () => {
+  test("inflation adjustment also scales the Sozialkassen", async () => {
+    const sk = { jahr: 2019, toepfe: { grv: { name: "GRV", kurz: "Rentenkasse", farbe: "beitraege", geschaetzt: false, quelle: null, bundesmittel: [], einnahmen: [{ id: "beitraege", text: "B", betrag: 1000 }], ausgaben: [{ id: "renten", text: "R", betrag: 1000 }] } }, querfluesse: [] };
+    const s = new AppState({ ...loader, loadSozialkassen: async () => sk, loadVpi: async () => ({ 2019: 100, 2025: 125 }) });
+    await s.init("#v1;j=2019;a=fluss");
+    await s.setReal(true);
+    expect(s.viewSozialkassen!.toepfe.grv.einnahmen[0].betrag).toBe(1250);
+    expect(s.toepfe!.toepfe[0].ausgaben).toBe(1250);
+  });
+
+  test("setting a focus path switches the flow to the Bund", async () => {
+    const s = new AppState(loader);
+    await s.init("");
+    expect(s.topf).toBe("gesamt");
+    s.setFocus(["11"]);
+    expect(s.topf).toBe("bund");
   });
 });

@@ -1,5 +1,5 @@
 import { effectiveValue, rowFactor } from "./scenario";
-import { revenueKind } from "./tree";
+import { includeRow, revenueKind } from "./tree";
 import type { BudgetRow, GesetzFreiEintrag, GesetzFreiMap, NodeId, Preset, Scenario, SolverReport, YearData } from "./types";
 
 type Factors = Record<NodeId, number>;
@@ -14,6 +14,12 @@ export function expandTarget(ziel: string, data: YearData): NodeId[] {
     const g = ziel.slice(2);
     return data.rows.filter((r) => r.titel.slice(0, 3) === g).map((r) => r.id);
   }
+  if (ziel.startsWith("E:") || ziel.startsWith("ka:") || ziel.startsWith("ea:")) return [ziel];
+  // Einzelplan oder Kapitel: auf Titel ausrollen, damit Preset-Regeln untereinander vergleichbar sind
+  // (die zuletzt angewandte Regel gewinnt je Titel) und Nutzer-Regler auf höherer Ebene sie verdrängen können
+  const parts = ziel.split("-");
+  if (parts.length === 1) return data.rows.filter((r) => r.art === "A" && r.epl === ziel).map((r) => r.id);
+  if (parts.length === 2) return data.rows.filter((r) => r.art === "A" && r.epl === parts[0] && r.kap === parts[1]).map((r) => r.id);
   return [ziel];
 }
 
@@ -51,6 +57,11 @@ export function applyPresets(data: YearData, scenario: Scenario, presets: Preset
       for (const id of expandTarget(rule.ziel, data)) factors[id] = rule.faktor;
     }
   }
+  // Nutzer-Regler schlagen Presets: auch alle Preset-Einträge unterhalb eines gesetzten Einzelplans/Kapitels
+  for (const key of Object.keys(scenario.factors)) {
+    const prefix = key + "-";
+    for (const k of Object.keys(factors)) if (k.startsWith(prefix)) delete factors[k];
+  }
   Object.assign(factors, scenario.factors);
   if (!schwarzeNull) return { factors, solver: null };
 
@@ -58,7 +69,7 @@ export function applyPresets(data: YearData, scenario: Scenario, presets: Preset
   let einnahmen = 0, feste = 0, freie = 0;
   const freieRows: BudgetRow[] = [];
   for (const row of data.rows) {
-    if (row.sv && !scenario.includeSv) continue;
+    if (!includeRow(row, scenario.includeSv)) continue;
     if (row.art === "E") {
       if (revenueKind(row) !== "kredite") einnahmen += effectiveValue(row, factors);
       continue;

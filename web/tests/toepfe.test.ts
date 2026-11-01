@@ -56,3 +56,12 @@ describe("buildToepfe", () => {
     expect(r.toepfe.find((t) => t.id === "gkv")!.geschaetzt).toBe(true);
   });
 });
+
+describe("Saldo-Formel und reale Preise (Review 3)", () => {
+  test("topfEinnahmen is the single formula used for saldo", () => {
+    const r = buildToepfe(fixtureYear, sk, { "11-1102-63681": 0.5 }, false);
+    const grv = r.toepfe.find((t) => t.id === "grv")!;
+    expect(grv.einnahmen).toBe(1500 - 200);
+    expect(grv.saldo).toBe(grv.einnahmen - grv.ausgaben);
+  });
+});
