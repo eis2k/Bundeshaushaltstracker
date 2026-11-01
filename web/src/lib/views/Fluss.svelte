@@ -69,7 +69,7 @@
     return [];
   }
   function click(n: SNode) {
-    if (n.kind === "topf" || n.kind === "rest" || n.kind === "empfaenger") { onFocus([]); onSelect(null); return; }
+    if (n.kind === "topf" || n.kind === "rest" || n.kind === "empfaenger" || n.kind === "abzug") { onFocus([]); onSelect(null); return; }
     if (n.kind === "revenue" || n.kind === "kredit" || n.kind === "minderausgabe") { onSelect(n.kind === "revenue" ? n.id : null); return; }
     onFocus(pathFor(n));
     onSelect(n.id);
@@ -156,6 +156,7 @@
   <div class="legend">
     <span><i style="background:{colorFor('steuern')}"></i> Steuern</span>
     <span><i style="background:{colorFor('sonstige')}"></i> Sonstige Einnahmen</span>
+    <span><i style="background:{colorFor('abzug')}"></i> Weiterleitung an EU und Länder (von den Steuern abgezogen)</span>
     <span><i class="dash" style="border-color:{colorFor('kredit')}"></i> Neue Schulden</span>
     <span><i class="dash" style="border-color:{CHANGED_STROKE}"></i> von dir verändert</span>
     <span><i class="dash" style="border-color:{GHOST_STROKE}"></i> gestrichener Betrag</span>

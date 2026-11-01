@@ -1,7 +1,7 @@
 import { svelte } from "@sveltejs/vite-plugin-svelte";
 import { existsSync, readFileSync } from "node:fs";
 import { resolve } from "node:path";
-import { defineConfig, type Plugin } from "vite";
+import { defineConfig, type Plugin } from "vitest/config";
 
 /** Liefert im Dev-Server die Build-Dateien der Pipeline unter /data/ aus (../data/build). */
 function serveBuildData(): Plugin {

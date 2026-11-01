@@ -2,7 +2,7 @@ import { balance, effectiveValue, rowFactor } from "../model/scenario";
 import { revenueGroups, revenueKind } from "../model/tree";
 import type { BudgetRow, NodeId, Scenario, YearData } from "../model/types";
 
-export type SNodeKind = "revenue" | "kredit" | "minderausgabe" | "topf" | "epl" | "kap" | "titel" | "rest" | "empfaenger";
+export type SNodeKind = "revenue" | "kredit" | "minderausgabe" | "topf" | "epl" | "kap" | "titel" | "rest" | "empfaenger" | "abzug";
 
 export interface SNode {
   id: string;
@@ -45,6 +45,7 @@ export interface SankeyData {
 }
 
 export const TOPF_BUND = "topf:bund";
+export const ABZUEGE = "abzuege";
 export const EMPFAENGER_UNBEKANNT = "empfaenger:unbekannt";
 
 interface Agg { id: string; label: string; rows: BudgetRow[]; original: number; effective: number; netOriginal: number; netEffective: number; changed: boolean; colorKey: string }
@@ -99,6 +100,15 @@ export function buildSankey(data: YearData, scenario: Scenario, factors: Record<
     const v = effectiveValue(r, factors);
     if (v < 0) minderausgaben += v;
   }
+  // Negative Einnahmetitel (EU-Eigenmittel, Zuweisungen an Länder aus dem Steueraufkommen) sind
+  // Abflüsse: sie verlassen den Topf als "Weiterleitung", damit Zu- und Abflüsse am Topf aufgehen.
+  let abzuege = 0, abzuegeOriginal = 0;
+  for (const r of rows) {
+    if (r.art !== "E" || revenueKind(r) === "kredite") continue;
+    const v = effectiveValue(r, factors);
+    if (v < 0) abzuege -= v;
+    if (r.soll < 0) abzuegeOriginal -= r.soll;
+  }
 
   const add = (n: Omit<SNode, "dim" | "netOriginal" | "netEffective"> & { dim?: boolean; netOriginal?: number; netEffective?: number }) => {
     nodes.push({ dim: false, netOriginal: n.original, netEffective: n.effective, ...n });
@@ -139,7 +149,11 @@ export function buildSankey(data: YearData, scenario: Scenario, factors: Record<
   // Spalte 1: Topf
   add({ id: TOPF_BUND, label: "Bundeshaushalt", column: 1, kind: "topf", original: b.ausgabenOriginal, effective: b.ausgaben, changed: b.ausgaben !== b.ausgabenOriginal, colorKey: "topf" });
 
-  // Spalte 2: Einzelpläne
+  // Spalte 2: Weiterleitungen (negative Einnahmetitel) und Einzelpläne
+  if (abzuege > 0) {
+    add({ id: ABZUEGE, label: "Weiterleitung an EU und Länder", column: 2, kind: "abzug", original: abzuegeOriginal, effective: abzuege, changed: abzuege !== abzuegeOriginal, dim: focus.length > 0, colorKey: "abzug" });
+    link(TOPF_BUND, ABZUEGE, abzuege, "abzug", focus.length > 0);
+  }
   const byEpl = new Map<string, BudgetRow[]>();
   for (const r of ausgaben) (byEpl.get(r.epl) ?? byEpl.set(r.epl, []).get(r.epl)!).push(r);
   const eplAggs = [...byEpl.entries()].map(([epl, rs]) => aggregate(epl, data.epl[epl] ?? `Einzelplan ${epl}`, rs, factors, epl));
