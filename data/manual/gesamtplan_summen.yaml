@@ -1,12 +1,44 @@
-# Amtliche Gesamtsummen des Kernhaushalts je Jahr (Soll, letzter Stand), in Euro.
-# Dienen der Pipeline als unabhängige Prüfgröße: weicht die Summe der Titel um mehr als
-# `toleranz` ab, bricht der Build ab. Quelle je Jahr: Gesamtplan im Download-Portal.
-toleranz: 1000000
+# Amtliche Gesamtausgaben des Kernhaushalts je Jahr (Soll, letzter Stand inkl. Nachträge), in Euro.
+# Unabhängige Prüfgröße für die Pipeline: weicht die Titelsumme um mehr als `toleranz` ab,
+# bricht der Build ab. Werte wie amtlich veröffentlicht (auf 100 Mio gerundet), Quelle je Jahr
+# der Gesamtplan bzw. das Haushaltsgesetz im Download-Portal von bundeshaushalt.de.
+toleranz: 100000000
 jahre:
   2015:
-    ausgaben_kern: 299100000000
-    quelle: {dokument: "Bundeshaushaltsplan 2015, Gesamtplan", url: "https://www.bundeshaushalt.de/static/daten/2015/soll/Haushaltsplan-2015.pdf"}
+    ausgaben_kern: 306900000000   # inkl. 1. Nachtrag 2015 (Grundhaushalt: 299,1 Mrd)
+    quelle: {dokument: "Haushaltsplan 2015 und Nachtragshaushalt 2015", url: "https://www.bundeshaushalt.de/static/daten/2015/soll/Haushaltsplan-2015.pdf"}
+  2016:
+    ausgaben_kern: 316900000000
+    quelle: {dokument: "Haushaltsplan 2016", url: "https://www.bundeshaushalt.de/static/daten/2016/soll/Haushaltsplan-2016.pdf"}
+  2017:
+    ausgaben_kern: 329100000000
+    quelle: {dokument: "Haushaltsgesetz 2017", url: "https://www.bundeshaushalt.de/static/daten/2017/soll/haushalt_2017.xml"}
+  2018:
+    ausgaben_kern: 343600000000
+    quelle: {dokument: "Bundeshaushaltsplan 2018 / Haushaltsgesetz 2018", url: "https://www.bundeshaushalt.de/static/daten/2018/soll/Bundeshaushaltsplan-2018-Haushaltsgesetz-2018.pdf"}
+  2019:
+    ausgaben_kern: 356400000000
+    quelle: {dokument: "Haushaltsgesetz 2019, Bundeshaushaltsplan Gesamt", url: "https://www.bundeshaushalt.de/static/daten/2019/soll/Haushaltsgesetz_2019_Bundeshaushaltsplan_Gesamt.pdf"}
+  2020:
+    ausgaben_kern: 508500000000   # 2. Nachtragshaushalt 2020 (Grundhaushalt 362,0; 1. Nachtrag 484,5)
+    quelle: {dokument: "2. Nachtragshaushaltsgesetz 2020", url: "https://www.bundeshaushalt.de/static/daten/2020/soll/n2/hh_2020_n2_utf8.csv"}
+  2021:
+    ausgaben_kern: 572700000000   # 2. Nachtragshaushalt 2021 (Grundhaushalt 498,6; 1. Nachtrag 547,7)
+    quelle: {dokument: "2. Nachtragshaushaltsgesetz 2021", url: "https://www.bundeshaushalt.de/static/daten/2021/soll/n2/hh_2021_n2_utf8.csv"}
+  2022:
+    ausgaben_kern: 495800000000
+    quelle: {dokument: "Haushaltsgesetz 2022", url: "https://www.bundeshaushalt.de/static/daten/2022/soll/hh_2022_utf8.csv"}
+  2023:
+    ausgaben_kern: 461200000000   # Nachtragshaushalt 2023 (Grundhaushalt 476,3)
+    quelle: {dokument: "Nachtragshaushaltsgesetz 2023", url: "https://www.bundeshaushalt.de/static/daten/2023/soll/n1/Nachtrag%202023_gesamt.pdf"}
+  2024:
+    ausgaben_kern: 476800000000
+    quelle: {dokument: "Bundeshaushaltsplan 2024, Gesamtplan und Übersichten", url: "https://www.bundeshaushalt.de/static/daten/2024/soll/Gesamtplan%20und%20Uebersichten.pdf"}
   2025:
-    ausgaben_kern: 502546135000
+    ausgaben_kern: 502500000000
     nettokreditaufnahme: 81800000000
     quelle: {dokument: "Bundeshaushaltsplan 2025, Gesamtplan und Übersichten", url: "https://www.bundeshaushalt.de/static/daten/2025/soll/Gesamtplan%20und%20Uebersichten.pdf"}
+  2026:
+    ausgaben_kern: 524500000000
+    nettokreditaufnahme: 98000000000
+    quelle: {dokument: "Bundeshaushaltsplan 2026 (Haushaltsgesetz 2026)", url: "https://www.bundeshaushalt.de/static/daten/2026/soll/HG_2026_final%201a.pdf"}

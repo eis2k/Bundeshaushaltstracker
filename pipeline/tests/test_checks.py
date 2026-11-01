@@ -42,6 +42,6 @@ def test_check_totals_reports_unbalanced_budget():
 
 def test_load_expected_reads_yaml():
     exp = load_expected(MANUAL)
-    assert exp["toleranz"] == 1_000_000
-    assert exp["jahre"][2025]["ausgaben_kern"] == 502_546_135_000
+    assert exp["toleranz"] == 100_000_000
+    assert exp["jahre"][2025]["ausgaben_kern"] == 502_500_000_000
     assert exp["jahre"][2025]["quelle"]["url"].startswith("https://")

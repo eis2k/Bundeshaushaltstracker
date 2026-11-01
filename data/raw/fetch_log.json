@@ -1,0 +1,177 @@
+[
+ {
+  "path": "/static/daten/2016/soll/n1/hh_2016_n1_utf8.csv",
+  "url": "https://www.bundeshaushalt.de/static/daten/2016/soll/n1/hh_2016_n1_utf8.csv",
+  "abgerufen": "2026-11-01T15:53:03+00:00",
+  "bytes": 483,
+  "sha256": "cf642551e898a51f2441f22972f4150655d717c6ae95c1bb5b1edc7530ea890e"
+ },
+ {
+  "path": "/static/daten/2016/ist/rechnung_2016.xml",
+  "url": "https://www.bundeshaushalt.de/static/daten/2016/ist/rechnung_2016.xml",
+  "abgerufen": "2026-11-01T15:53:04+00:00",
+  "bytes": 1930747,
+  "sha256": "f5cec86e8cf3b0383f0dbbf0c63bc412c2d56616109e4ffb8f558b0beb03cd37"
+ },
+ {
+  "path": "/static/daten/2017/soll/hh_2017_utf8.csv",
+  "url": "https://www.bundeshaushalt.de/static/daten/2017/soll/hh_2017_utf8.csv",
+  "abgerufen": "2026-11-01T15:53:04+00:00",
+  "bytes": 1356797,
+  "sha256": "11a20cabf45ec75e7d132986f66af7f0d6aec705fc1cdc1a30dc3e71e1982f8d"
+ },
+ {
+  "path": "/static/daten/2017/ist/rechnung_2017.xml",
+  "url": "https://www.bundeshaushalt.de/static/daten/2017/ist/rechnung_2017.xml",
+  "abgerufen": "2026-11-01T15:53:04+00:00",
+  "bytes": 1969647,
+  "sha256": "c13733b0ff2b26ee5397b65c8caf2cab14f3e4b7ab02a0e48be5a678db84402a"
+ },
+ {
+  "path": "/static/daten/2018/soll/hh_2018_utf8.csv",
+  "url": "https://www.bundeshaushalt.de/static/daten/2018/soll/hh_2018_utf8.csv",
+  "abgerufen": "2026-11-01T15:53:05+00:00",
+  "bytes": 1379909,
+  "sha256": "64ee18090910a1711efdd44f9021418d4e1608db4bf5fbf5264248865fcb55a2"
+ },
+ {
+  "path": "/static/daten/2018/ist/rechnung_2018.xml",
+  "url": "https://www.bundeshaushalt.de/static/daten/2018/ist/rechnung_2018.xml",
+  "abgerufen": "2026-11-01T15:53:05+00:00",
+  "bytes": 1976271,
+  "sha256": "f23a66ceeb0c91d67c2d7cfe5c86ab56347083eba0d2edd71f1a10fb9868174c"
+ },
+ {
+  "path": "/static/daten/2019/soll/hh_2019_utf8.csv",
+  "url": "https://www.bundeshaushalt.de/static/daten/2019/soll/hh_2019_utf8.csv",
+  "abgerufen": "2026-11-01T15:53:05+00:00",
+  "bytes": 1395172,
+  "sha256": "7c640cb6f785b8045c6f4772ff391417bf065e2730810fcf5c86ff08700af10a"
+ },
+ {
+  "path": "/static/daten/2019/ist/rechnung_2019.xml",
+  "url": "https://www.bundeshaushalt.de/static/daten/2019/ist/rechnung_2019.xml",
+  "abgerufen": "2026-11-01T15:53:06+00:00",
+  "bytes": 2799374,
+  "sha256": "577ceb7da46b237252eac0798289454ec9260547fee67a7338cebccba6b06148"
+ },
+ {
+  "path": "/static/daten/2020/soll/n2/hh_2020_n2_utf8.csv",
+  "url": "https://www.bundeshaushalt.de/static/daten/2020/soll/n2/hh_2020_n2_utf8.csv",
+  "abgerufen": "2026-11-01T15:53:06+00:00",
+  "bytes": 51777,
+  "sha256": "210ef3e206891342f57cf45eeaba3ff31b575e5d79816aa8891eb0f461f33289"
+ },
+ {
+  "path": "/static/daten/2020/ist/rechnung_2020.xml",
+  "url": "https://www.bundeshaushalt.de/static/daten/2020/ist/rechnung_2020.xml",
+  "abgerufen": "2026-11-01T15:53:06+00:00",
+  "bytes": 2624885,
+  "sha256": "9a382bd3fdc65ed4c8bdd6833b2ff9f28587dfcb039f0a7ff259cf577f934457"
+ },
+ {
+  "path": "/static/daten/2021/soll/n2/hh_2021_n2_utf8.csv",
+  "url": "https://www.bundeshaushalt.de/static/daten/2021/soll/n2/hh_2021_n2_utf8.csv",
+  "abgerufen": "2026-11-01T15:53:06+00:00",
+  "bytes": 652,
+  "sha256": "a57d6ad3cf2909b6fb25b6f3942b65cd822a79c575d34f151007eb174c61f3f4"
+ },
+ {
+  "path": "/static/daten/2021/ist/rechnung_2021.xml",
+  "url": "https://www.bundeshaushalt.de/static/daten/2021/ist/rechnung_2021.xml",
+  "abgerufen": "2026-11-01T15:53:07+00:00",
+  "bytes": 1822960,
+  "sha256": "376c53e51ef59a692a47420793e146f4810f9e72a24d7779d068f1ddc6285a96"
+ },
+ {
+  "path": "/static/daten/2022/soll/hh_2022_utf8.csv",
+  "url": "https://www.bundeshaushalt.de/static/daten/2022/soll/hh_2022_utf8.csv",
+  "abgerufen": "2026-11-01T15:53:07+00:00",
+  "bytes": 1490661,
+  "sha256": "adaf83136b9a2506a01e59b0a897b1b173eaceee838d0d492e75d5f34a1f135c"
+ },
+ {
+  "path": "/static/daten/2022/ist/rechnung_2022.xml",
+  "url": "https://www.bundeshaushalt.de/static/daten/2022/ist/rechnung_2022.xml",
+  "abgerufen": "2026-11-01T15:53:07+00:00",
+  "bytes": 1874636,
+  "sha256": "7b4222ae126aa9276fd66413f8b33055a16dae6aebcc2ffbeadfae81a506f88d"
+ },
+ {
+  "path": "/static/daten/2023/soll/n1/hh_2023_n1_utf8.csv",
+  "url": "https://www.bundeshaushalt.de/static/daten/2023/soll/n1/hh_2023_n1_utf8.csv",
+  "abgerufen": "2026-11-01T15:53:08+00:00",
+  "bytes": 8297,
+  "sha256": "8b67cadc028f03a7eee29642ad1fa6ac20755ab51fdb40cf0cc89d1e27a0412f"
+ },
+ {
+  "path": "/static/daten/2023/ist/rechnung_2023.xml",
+  "url": "https://www.bundeshaushalt.de/static/daten/2023/ist/rechnung_2023.xml",
+  "abgerufen": "2026-11-01T15:53:08+00:00",
+  "bytes": 1878932,
+  "sha256": "1d205340406de1ebba9b862fda251811e3d86acfb8c34a7f3eac1659c5ea15d0"
+ },
+ {
+  "path": "/static/daten/2024/soll/HH_2024_ALL.csv",
+  "url": "https://www.bundeshaushalt.de/static/daten/2024/soll/HH_2024_ALL.csv",
+  "abgerufen": "2026-11-01T15:53:08+00:00",
+  "bytes": 1754429,
+  "sha256": "a85e9279804f7865fff79bf5f1bcf72de290213ffce61d3cad939190428e315e"
+ },
+ {
+  "path": "/static/daten/2025/ist/rechnung_2025.xml",
+  "url": "https://www.bundeshaushalt.de/static/daten/2025/ist/rechnung_2025.xml",
+  "abgerufen": "2026-11-01T15:53:09+00:00",
+  "bytes": 2389303,
+  "sha256": "5e4a8e489e6a34e3ccbbe78467234caef0f44c2c17e0a72fd265b502ba9dbe88"
+ },
+ {
+  "path": "/static/daten/2026/soll/HH_2026_ALL.csv",
+  "url": "https://www.bundeshaushalt.de/static/daten/2026/soll/HH_2026_ALL.csv",
+  "abgerufen": "2026-11-01T15:53:09+00:00",
+  "bytes": 1788629,
+  "sha256": "3e0cc5a4246d8fe393de0b528fd426686b335fcbf8c8418e99b6b161d214483d"
+ },
+ {
+  "path": "/static/daten/2016/soll/Haushalt_2016_utf8.csv",
+  "url": "https://www.bundeshaushalt.de/static/daten/2016/soll/Haushalt_2016_utf8.csv",
+  "abgerufen": "2026-11-01T15:54:43+00:00",
+  "bytes": 1331759,
+  "sha256": "d3ba3ba5327fd7e997e166e6337effde5e26729342140fa77a91548026c707f3"
+ },
+ {
+  "path": "/static/daten/2020/soll/hh_2020_utf8.csv",
+  "url": "https://www.bundeshaushalt.de/static/daten/2020/soll/hh_2020_utf8.csv",
+  "abgerufen": "2026-11-01T15:54:44+00:00",
+  "bytes": 1427224,
+  "sha256": "803ff08b5c6d52af8172475ebe2bdd5f7c7ef8587e62891a297a41f641df29d6"
+ },
+ {
+  "path": "/static/daten/2020/soll/n1/hh_2020_n1_utf8.csv",
+  "url": "https://www.bundeshaushalt.de/static/daten/2020/soll/n1/hh_2020_n1_utf8.csv",
+  "abgerufen": "2026-11-01T15:54:44+00:00",
+  "bytes": 6164,
+  "sha256": "cc39d2e812abc12d0503f8e008d64d86d367ece88b1af683ba862a84315dc7f7"
+ },
+ {
+  "path": "/static/daten/2021/soll/hh_2021_n2_utf8.csv",
+  "url": "https://www.bundeshaushalt.de/static/daten/2021/soll/hh_2021_n2_utf8.csv",
+  "abgerufen": "2026-11-01T15:54:44+00:00",
+  "bytes": 1452417,
+  "sha256": "dddedf33500f82fad5d5cf1ce7a01ee3b7d3d6a247c68256e5d422f505f8ce0c"
+ },
+ {
+  "path": "/static/daten/2021/soll/n1/hh_2021_n1_utf8.csv",
+  "url": "https://www.bundeshaushalt.de/static/daten/2021/soll/n1/hh_2021_n1_utf8.csv",
+  "abgerufen": "2026-11-01T15:54:44+00:00",
+  "bytes": 20043,
+  "sha256": "89ccd6d155ec206b083ec55915964ffaa32cdafc99425a06ac83addb34d3ba59"
+ },
+ {
+  "path": "/static/daten/2023/soll/HH_2023.csv",
+  "url": "https://www.bundeshaushalt.de/static/daten/2023/soll/HH_2023.csv",
+  "abgerufen": "2026-11-01T15:54:45+00:00",
+  "bytes": 1747677,
+  "sha256": "75e976b18d2c0d5720320f9ebb9600dd2124b15982bdea7ac1a06305b6215208"
+ }
+]

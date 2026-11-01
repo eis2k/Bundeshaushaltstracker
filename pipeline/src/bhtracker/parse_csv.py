@@ -83,12 +83,16 @@ def parse_soll_csv(path: Path, jahr: int) -> list[BudgetRow]:
         art = get("art").upper()
         if art not in ("E", "A"):
             continue
+        epl = get("epl").zfill(2)
+        kap = get("kap")
+        # 2023 schreibt das Kapitel zweistellig ("01" statt "0101"): Einzelplan voranstellen
+        kap = epl + kap.zfill(2) if len(kap) <= 2 else kap.zfill(4)
         rows.append(BudgetRow(
             jahr=jahr,
             stand="soll",
             art=art,  # type: ignore[arg-type]
-            epl=get("epl").zfill(2),
-            kap=get("kap").zfill(4),
+            epl=epl,
+            kap=kap,
             titel=get("titel").zfill(5),
             epl_text=get("epl_text"),
             kap_text=get("kap_text"),

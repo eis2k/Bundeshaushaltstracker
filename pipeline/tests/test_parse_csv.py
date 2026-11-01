@@ -45,3 +45,10 @@ def test_full_2015_totals():
     rows = parse_soll_csv(raw_file("Haushalt_2015_utf8.csv"), 2015)
     assert len(rows) == 5818
     assert sum(r.soll for r in rows if r.art == "A") == 299_100_000_000
+
+
+def test_parse_2023_two_digit_kapitel_and_lowercase_art(fx):
+    rows = parse_soll_csv(fx / "soll_2023_kopf.csv", 2023)
+    assert rows[0].id == "01-0101-23201" and rows[0].art == "E"
+    assert all(len(r.kap) == 4 and r.kap.startswith(r.epl) for r in rows)
+    assert any(r.art == "A" for r in rows)
