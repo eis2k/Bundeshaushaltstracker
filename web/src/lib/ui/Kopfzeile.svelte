@@ -27,7 +27,7 @@
 </script>
 
 <header class="top">
-  <div class="logo">Bundeshaushalts<span>tracker</span></div>
+  <div class="logo">Bundeshaushalts<span>tracker</span>{#if app.real}<small class="real">in Preisen von {app.bezugsjahr}</small>{/if}</div>
   {#if b}
     <div class="stat"><small>Einnahmen</small><b class="tabular">{fmtEuro(b.einnahmen)}</b></div>
     <div class="stat"><small>Ausgaben</small><b class="tabular">{fmtEuro(b.ausgaben)}</b></div>
@@ -56,6 +56,7 @@
   .top { display: flex; align-items: center; gap: 18px; padding: 10px 16px; background: var(--header); color: var(--header-fg); flex-wrap: wrap; }
   .logo { font-weight: 800; letter-spacing: -0.3px; font-size: 16px; white-space: nowrap; }
   .logo span { color: var(--accent); }
+  .logo .real { display: block; font-size: 10px; font-weight: 400; opacity: .7; letter-spacing: 0; }
   .stat { display: flex; flex-direction: column; line-height: 1.15; min-width: 90px; }
   .stat small { font-size: 10px; opacity: .65; text-transform: uppercase; letter-spacing: .05em; }
   .stat b { font-size: 15px; }

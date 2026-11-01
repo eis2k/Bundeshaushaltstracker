@@ -59,6 +59,16 @@ def test_build_zeitreihe_has_null_for_missing_years(tmp_path: Path):
     assert z["epl"]["11"]["soll"] == [800, 910]
 
 
+def test_build_zeitreihe_aggregates_only_ausgaben_into_kap_and_epl(tmp_path: Path):
+    years = {2025: [soll("11", "1102", "63681", 800), soll("11", "1102", "11901", 300, art="E")]}
+    out = build_zeitreihe(years, None, tmp_path)
+    z = json.loads(out.read_text(encoding="utf-8"))
+    assert z["kap"]["11-1102"]["soll"] == [800]
+    assert z["epl"]["11"]["soll"] == [800]
+    assert z["kap"]["11-1102"]["art"] == "A" and z["epl"]["11"]["art"] == "A"
+    assert z["titel"]["11-1102-11901"]["art"] == "E"
+
+
 def test_build_index(tmp_path: Path):
     totals = {2025: CheckResult(ok=True, ausgaben=500, einnahmen=300, kredite=200)}
     out = build_index([2025], totals, ist_bis=2025, out=tmp_path)

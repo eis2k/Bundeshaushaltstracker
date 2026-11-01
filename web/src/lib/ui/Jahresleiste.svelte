@@ -35,6 +35,10 @@
   <div class="mode">
     <button class:on={app.stand === "soll"} onclick={() => app.setStand("soll")} title="Beschlossener Haushaltsplan">Soll</button>
     <button class:on={app.stand === "ist"} disabled={!app.istVerfuegbar} onclick={() => app.setStand("ist")} title={app.istVerfuegbar ? "Tatsächliche Ausgaben laut Haushaltsrechnung" : "Für dieses Jahr liegt noch keine Haushaltsrechnung vor"}>Ist</button>
+    <label class="sv" title="Alle Beträge in Preisen von {app.bezugsjahr} (Verbraucherpreisindex, Destatis)">
+      <input type="checkbox" checked={app.real} onchange={(e) => void app.setReal((e.target as HTMLInputElement).checked)} />
+      inflationsbereinigt
+    </label>
     <label class="sv" title="Sondervermögen, EU-Anlagen und Behörden-Wirtschaftspläne mit anzeigen">
       <input type="checkbox" checked={app.scenario.includeSv} onchange={(e) => app.setIncludeSv((e.target as HTMLInputElement).checked)} />
       Nebenhaushalte

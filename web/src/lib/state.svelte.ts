@@ -2,18 +2,28 @@ import { applyPresets } from "./model/presets";
 import { balance as computeBalance, setFactor as applyFactor } from "./model/scenario";
 import { decodeScenario, encodeScenario, knownIds } from "./model/share";
 import type { Balance, GesetzFreiMap, Index, NodeId, Preset, Scenario, SolverReport, ViewId, YearData } from "./model/types";
+import { deflate, type Vpi, type Zeitreihe } from "./model/zeitreihe";
 
 export interface Loader {
   loadIndex: () => Promise<Index>;
   loadYear: (jahr: number) => Promise<YearData>;
   loadPresets: () => Promise<Preset[]>;
   loadGesetzFrei: () => Promise<GesetzFreiMap>;
+  loadZeitreihe?: () => Promise<Zeitreihe>;
+  loadVpi?: () => Promise<Vpi>;
 }
 
 export type Stand = "soll" | "ist";
 
 function withIst(data: YearData): YearData {
   return { ...data, rows: data.rows.map((r) => (r.ist === null ? r : { ...r, soll: r.ist })) };
+}
+
+/** Rechnet alle Beträge eines Jahres in Preise des Bezugsjahres um. */
+function inPrices(data: YearData, vpi: Vpi, bezugsjahr: number): YearData {
+  if (!vpi[data.jahr] || !vpi[bezugsjahr] || data.jahr === bezugsjahr) return data;
+  const f = (v: number | null) => (v === null ? null : Math.round(deflate(v, data.jahr, bezugsjahr, vpi)));
+  return { ...data, rows: data.rows.map((r) => ({ ...r, soll: f(r.soll) ?? 0, ist: f(r.ist) })) };
 }
 
 /** Gesamter Nutzerzustand der App; der Rechenkern hängt als abgeleitete Werte daran. */
@@ -32,8 +42,18 @@ export class AppState {
   fromShare = $state(false);
   loading = $state(false);
   error = $state<string | null>(null);
+  zeitreihe = $state<Zeitreihe | null>(null);
+  vpi = $state<Vpi | null>(null);
+  /** Inflationsbereinigt: alle Beträge in Preisen des letzten Jahres. */
+  real = $state(false);
 
-  viewData = $derived<YearData | null>(this.data ? (this.stand === "ist" ? withIst(this.data) : this.data) : null);
+  bezugsjahr = $derived(this.index ? this.index.jahre[this.index.jahre.length - 1] : this.jahr);
+  viewData = $derived<YearData | null>(this.data
+    ? (() => {
+        const base = this.stand === "ist" ? withIst(this.data) : this.data;
+        return this.real && this.vpi ? inPrices(base, this.vpi, this.bezugsjahr) : base;
+      })()
+    : null);
   applied = $derived<{ factors: Record<NodeId, number>; solver: SolverReport | null }>(
     this.viewData ? applyPresets(this.viewData, this.scenario, this.presets, this.gesetz) : { factors: {}, solver: null },
   );
@@ -106,6 +126,14 @@ export class AppState {
   setFocus(path: NodeId[]): void { this.focus = path; }
   setSelected(id: NodeId | null): void { this.selected = id; }
   setStand(stand: Stand): void { this.stand = stand; }
+  async setReal(on: boolean): Promise<void> {
+    if (on && !this.vpi && this.loader.loadVpi) this.vpi = await this.loader.loadVpi();
+    this.real = on;
+  }
+  async ensureZeitreihe(): Promise<void> {
+    if (!this.zeitreihe && this.loader.loadZeitreihe) this.zeitreihe = await this.loader.loadZeitreihe();
+    if (!this.vpi && this.loader.loadVpi) this.vpi = await this.loader.loadVpi();
+  }
   setIncludeSv(on: boolean): void { this.scenario = { ...this.scenario, includeSv: on }; }
 
   reset(): void {

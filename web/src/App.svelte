@@ -1,6 +1,6 @@
 <script lang="ts">
   import { onMount } from "svelte";
-  import { loadGesetzFrei, loadIndex, loadPresets, loadYear } from "./lib/model/load";
+  import { loadGesetzFrei, loadIndex, loadPresets, loadVpi, loadYear, loadZeitreihe } from "./lib/model/load";
   import { AppState } from "./lib/state.svelte";
   import Jahresleiste from "./lib/ui/Jahresleiste.svelte";
   import Kopfzeile from "./lib/ui/Kopfzeile.svelte";
@@ -9,8 +9,9 @@
   import Fluss from "./lib/views/Fluss.svelte";
   import Karte from "./lib/views/Karte.svelte";
   import Saeulen from "./lib/views/Saeulen.svelte";
+  import Gewachsen from "./lib/views/Gewachsen.svelte";
 
-  const app = new AppState({ loadIndex, loadYear, loadPresets, loadGesetzFrei });
+  const app = new AppState({ loadIndex, loadYear, loadPresets, loadGesetzFrei, loadZeitreihe, loadVpi });
   let ready = $state(false);
 
   onMount(() => {
@@ -47,6 +48,8 @@
       {:else if app.view === "saeulen"}
         <Saeulen data={app.viewData} scenario={app.scenario} factors={app.factors} focus={app.focus} selected={app.selected}
                  onFocus={(p) => app.setFocus(p)} onSelect={(id) => app.setSelected(id)} />
+      {:else if app.view === "gewachsen"}
+        <Gewachsen {app} />
       {:else}
         <div class="soon">Diese Ansicht ist noch im Aufbau.</div>
       {/if}

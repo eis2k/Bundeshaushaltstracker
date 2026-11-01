@@ -62,9 +62,9 @@ def build_zeitreihe(years: dict[int, list[BudgetRow]], ist_years: dict[int, list
         for r in rows:
             meta = {"text": r.titel_text, "epl": r.epl, "kap": r.kap, "art": r.art, "sv": r.sv}
             bump(titel, r.id, "soll", j, r.soll, meta)
-            if not r.sv:
-                bump(kap, f"{r.epl}-{r.kap}", "soll", j, r.soll, {"text": r.kap_text, "epl": r.epl, "art": r.art})
-                bump(epl, r.epl, "soll", j, r.soll, {"text": r.epl_text, "art": r.art})
+            if not r.sv and r.art == "A":  # Kapitel/Einzelplan-Reihen sind reine Ausgabensummen
+                bump(kap, f"{r.epl}-{r.kap}", "soll", j, r.soll, {"text": r.kap_text, "epl": r.epl, "art": "A"})
+                bump(epl, r.epl, "soll", j, r.soll, {"text": r.epl_text, "art": "A"})
     for j, rows in (ist_years or {}).items():
         if j not in pos:
             continue
@@ -73,9 +73,9 @@ def build_zeitreihe(years: dict[int, list[BudgetRow]], ist_years: dict[int, list
                 continue
             meta = {"text": r.titel_text, "epl": r.epl, "kap": r.kap, "art": r.art, "sv": r.sv}
             bump(titel, r.id, "ist", j, r.ist, meta)
-            if not r.sv:
-                bump(kap, f"{r.epl}-{r.kap}", "ist", j, r.ist, {"text": r.kap_text, "epl": r.epl, "art": r.art})
-                bump(epl, r.epl, "ist", j, r.ist, {"text": r.epl_text, "art": r.art})
+            if not r.sv and r.art == "A":
+                bump(kap, f"{r.epl}-{r.kap}", "ist", j, r.ist, {"text": r.kap_text, "epl": r.epl, "art": "A"})
+                bump(epl, r.epl, "ist", j, r.ist, {"text": r.epl_text, "art": "A"})
     data = {"jahre": jahre, "titel": titel, "kap": kap, "epl": epl}
     return _write(out / "zeitreihe.json", data)
 
