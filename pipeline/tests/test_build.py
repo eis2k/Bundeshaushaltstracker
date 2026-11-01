@@ -33,7 +33,7 @@ def test_build_year_writes_rows_with_ist_joined(tmp_path: Path):
     assert by_id["11-1101-68101"]["ist"] is None
     assert by_id["60-6092-89310"]["sv"] is True
     assert by_id["11-1102-63699"]["soll"] == 0 and by_id["11-1102-63699"]["ist"] == 7
-    assert set(by_id["11-1102-63681"]) == {"id", "art", "epl", "kap", "titel", "text", "fkt", "flex", "tgr", "soll", "ist", "sv"}
+    assert set(by_id["11-1102-63681"]) == {"id", "art", "epl", "kap", "titel", "text", "fkt", "flex", "tgr", "soll", "ist", "sv", "transfer"}
 
 
 def test_build_year_is_compact_utf8(tmp_path: Path):

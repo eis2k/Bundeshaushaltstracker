@@ -51,6 +51,9 @@ class BudgetRow(BaseModel):
     soll: int
     ist: int | None = None
     sv: bool = False
+    """Anlage zum Haushalt (nicht Kernhaushalt): Sondervermögen, EU-Anlagen, Behörden-Wirtschaftspläne."""
+    anlage: bool = False
+    transfer: bool = False
 
     @property
     def id(self) -> str:

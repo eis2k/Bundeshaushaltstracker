@@ -33,7 +33,7 @@ def load_expected(path: Path) -> dict:
 
 
 def check_totals(rows: list[BudgetRow], jahr: int, expected: dict, *, toleranz: int = 1_000_000) -> CheckResult:
-    kern = [r for r in rows if not r.sv]
+    kern = [r for r in rows if not r.anlage]
     ausgaben = sum(r.soll for r in kern if r.art == "A")
     kredite = sum(r.soll for r in kern if r.art == "E" and r.gruppe == KREDIT_GRUPPE)
     einnahmen = sum(r.soll for r in kern if r.art == "E") - kredite
@@ -48,6 +48,6 @@ def check_totals(rows: list[BudgetRow], jahr: int, expected: dict, *, toleranz: 
         diffs.append(f"{jahr}: Kreditaufnahme {_fmt(kredite)} € weicht von amtlich {_fmt(exp_k)} € ab")
 
     if abs(ausgaben - (einnahmen + kredite)) > toleranz:
-        diffs.append(f"{jahr}: Haushaltsausgleich verletzt: Ausgaben {_fmt(ausgaben)} € ≠ Einnahmen {_fmt(einnahmen)} € + Kredite {_fmt(kredite)} €")
+        diffs.append(f"{jahr}: Haushaltsausgleich verletzt: Ausgaben {_fmt(ausgaben)} € != Einnahmen {_fmt(einnahmen)} € + Kredite {_fmt(kredite)} €")
 
     return CheckResult(ok=not diffs, ausgaben=ausgaben, einnahmen=einnahmen, kredite=kredite, diffs=diffs)

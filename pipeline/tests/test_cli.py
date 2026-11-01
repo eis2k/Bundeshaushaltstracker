@@ -30,8 +30,14 @@ def test_cli_build_smoke(tmp_path: Path, monkeypatch, fx):
     expected = tmp_path / "summen.yaml"
     expected.write_text("toleranz: 1000000000000000\njahre: {}\n", encoding="utf-8")
     out = tmp_path / "build"
+    # Manuelle Daten ohne sozialkassen.yaml: deren Bund-Titel fehlen in der kleinen Fixture
+    manual = tmp_path / "manual"
+    manual.mkdir()
+    src_manual = Path(__file__).resolve().parents[2] / "data" / "manual"
+    for name in ("sondervermoegen.yaml", "presets.yaml", "gesetz_frei.yaml"):
+        (manual / name).write_bytes((src_manual / name).read_bytes())
     rc = cli.main(["build", "--from", "2024", "--to", "2025", "--raw", str(raw), "--out", str(out),
-                   "--summen", str(expected), "--manual", str(Path(__file__).resolve().parents[2] / "data" / "manual")])
+                   "--summen", str(expected), "--manual", str(manual)])
     assert rc == 0
     idx = json.loads((out / "index.json").read_text(encoding="utf-8"))
     assert idx["jahre"] == [2024, 2025] and idx["ist_bis"] == 2024

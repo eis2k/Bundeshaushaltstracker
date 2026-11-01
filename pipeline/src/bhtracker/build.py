@@ -22,7 +22,7 @@ def _row_dict(r: BudgetRow, ist: int | None) -> dict:
     return {
         "id": r.id, "art": r.art, "epl": r.epl, "kap": r.kap, "titel": r.titel,
         "text": r.titel_text, "fkt": r.fkt, "flex": r.flex, "tgr": r.tgr,
-        "soll": r.soll, "ist": ist, "sv": r.sv,
+        "soll": r.soll, "ist": ist, "sv": r.sv, "transfer": r.transfer,
     }
 
 
@@ -31,10 +31,12 @@ def build_year(rows_soll: list[BudgetRow], rows_ist: list[BudgetRow] | None, jah
     ist_by_id = {r.id: r for r in (rows_ist or [])}
     epl = {r.epl: r.epl_text for r in rows_soll if r.epl_text}
     kap = {r.kap: r.kap_text for r in rows_soll if r.kap_text}
-    rows = [_row_dict(r, ist_by_id[r.id].ist if r.id in ist_by_id else None) for r in rows_soll]
+    # Anlagen, die keine zuschaltbaren Nebenhaushalte sind (EU-Durchlauf, Behörden-Wirtschaftspläne), bleiben außen vor
+    keep = lambda r: not (r.anlage and not r.sv)
+    rows = [_row_dict(r, ist_by_id[r.id].ist if r.id in ist_by_id else None) for r in rows_soll if keep(r)]
     soll_ids = {r.id for r in rows_soll}
     for r in (rows_ist or []):
-        if r.id not in soll_ids:
+        if r.id not in soll_ids and keep(r):
             rows.append(_row_dict(r, r.ist))
             epl.setdefault(r.epl, r.epl_text)
     data = {"jahr": jahr, "stand": "soll", "quelle": quelle, "epl": epl, "kap": kap, "rows": rows}
@@ -60,20 +62,22 @@ def build_zeitreihe(years: dict[int, list[BudgetRow]], ist_years: dict[int, list
 
     for j, rows in years.items():
         for r in rows:
+            if r.anlage and not r.sv:
+                continue
             meta = {"text": r.titel_text, "epl": r.epl, "kap": r.kap, "art": r.art, "sv": r.sv}
             bump(titel, r.id, "soll", j, r.soll, meta)
-            if not r.sv and r.art == "A":  # Kapitel/Einzelplan-Reihen sind reine Ausgabensummen
+            if not r.anlage and r.art == "A":  # Kapitel/Einzelplan-Reihen sind reine Ausgabensummen
                 bump(kap, f"{r.epl}-{r.kap}", "soll", j, r.soll, {"text": r.kap_text, "epl": r.epl, "art": "A"})
                 bump(epl, r.epl, "soll", j, r.soll, {"text": r.epl_text, "art": "A"})
     for j, rows in (ist_years or {}).items():
         if j not in pos:
             continue
         for r in rows:
-            if r.ist is None:
+            if r.ist is None or (r.anlage and not r.sv):
                 continue
             meta = {"text": r.titel_text, "epl": r.epl, "kap": r.kap, "art": r.art, "sv": r.sv}
             bump(titel, r.id, "ist", j, r.ist, meta)
-            if not r.sv and r.art == "A":
+            if not r.anlage and r.art == "A":
                 bump(kap, f"{r.epl}-{r.kap}", "ist", j, r.ist, {"text": r.kap_text, "epl": r.epl, "art": "A"})
                 bump(epl, r.epl, "ist", j, r.ist, {"text": r.epl_text, "art": "A"})
     data = {"jahre": jahre, "titel": titel, "kap": kap, "epl": epl}
@@ -98,10 +102,12 @@ def build_manual(manual_dir: Path, out: Path) -> list[Path]:
     return written
 
 
-def build_index(years: list[int], totals: dict[int, CheckResult], *, ist_bis: int | None, out: Path) -> Path:
+def build_index(years: list[int], totals: dict[int, CheckResult], *, ist_bis: int | None, out: Path,
+                sv_jahre: list[int] | None = None) -> Path:
     data = {
         "jahre": sorted(years),
         "ist_bis": ist_bis,
+        "sv_jahre": sorted(sv_jahre or []),
         "summen": {str(j): {"ausgaben": t.ausgaben, "einnahmen": t.einnahmen, "kredite": t.kredite}
                    for j, t in sorted(totals.items())},
         "erzeugt": datetime.now(timezone.utc).isoformat(timespec="seconds"),

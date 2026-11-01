@@ -41,8 +41,37 @@ def test_full_2025_sv_share():
     all_rows = parse_soll_csv(raw_file("HH_2025_ALL.csv"), 2025)
     kern_rows = parse_soll_csv(raw_file("HH_2025.csv"), 2025)
     out = mark_sv(all_rows, kern_rows, load_manual(MANUAL))
+    anlage_ausgaben = sum(r.soll for r in out if r.anlage and r.art == "A")
+    kern_ausgaben = sum(r.soll for r in out if not r.anlage and r.art == "A")
     sv_ausgaben = sum(r.soll for r in out if r.sv and r.art == "A")
-    kern_ausgaben = sum(r.soll for r in out if not r.sv and r.art == "A")
     assert kern_ausgaben == 502_546_135_000  # amtlich gerundet 502,5 Mrd
-    assert sv_ausgaben == 642_092_020_000 - 502_546_135_000
-    assert all(r.kap[2] == "9" for r in out if r.sv)
+    assert anlage_ausgaben == 642_092_020_000 - 502_546_135_000
+    assert 0 < sv_ausgaben < anlage_ausgaben  # EU-Anlagen und Behördenpläne zählen nicht als Nebenhaushalt
+    assert all(r.kap[2] == "9" for r in out if r.anlage)
+
+
+def test_only_sondervermoegen_and_nato_count_as_nebenhaushalt_when_marking_by_manual_list():
+    all_rows = [row("60", "6090", "02201"), row("10", "1091", "42201"), row("60", "6092", "89310"), row("14", "1490", "55101")]
+    out = mark_sv(all_rows, None, load_manual(MANUAL))
+    assert [r.sv for r in out] == [False, False, True, True]
+
+
+def test_difference_marking_also_excludes_eu_and_behoerden_anlagen():
+    all_rows = [row("11", "1102", "63681"), row("60", "6090", "02201"), row("60", "6092", "89310")]
+    kern_rows = [row("11", "1102", "63681")]
+    out = mark_sv(all_rows, kern_rows, load_manual(MANUAL))
+    assert [r.sv for r in out] == [False, False, True]
+    assert [r.anlage for r in out] == [False, True, True]
+
+
+def test_transfers_between_kern_and_sondervermoegen_are_flagged():
+    from bhtracker.sv import mark_transfers
+    rows = [
+        row("60", "6002", "63401", soll=5).model_copy(update={"titel_text": "Zuweisung an das Sondervermögen Aufbauhilfe 2021"}),
+        row("60", "6093", "88401", soll=10, ).model_copy(update={"titel_text": "Zuweisung an den Klima- und Transformationsfonds", "sv": True}),
+        row("60", "6092", "33401", soll=10).model_copy(update={"titel_text": "Zuweisungen aus dem Sondervermögen Infrastruktur und Klimaneutralität", "art": "E", "sv": True}),
+        row("60", "6092", "23101", soll=3).model_copy(update={"titel_text": "Zuweisungen aus dem Bundeshaushalt", "art": "E", "sv": True}),
+        row("11", "1102", "63681", soll=100),
+    ]
+    out = mark_transfers(rows)
+    assert [r.transfer for r in out] == [True, True, True, True, False]

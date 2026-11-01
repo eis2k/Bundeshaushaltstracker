@@ -17,6 +17,13 @@
 #   BA-GB   Bundesagentur für Arbeit, Geschäftsberichte 2015 / 2025, Finanzentwicklungsberichte 2020 / 2024,
 #           https://www.arbeitsagentur.de/ueber-uns/veroeffentlichungen/berichte-und-haushalt
 #   BA-JR   Bundesagentur für Arbeit, Jahresrechnung 2020 / 2024 (statistik.arbeitsagentur.de)
+quellen:
+  DRV-ZR: {dokument: "Deutsche Rentenversicherung: Rentenversicherung in Zeitreihen, Oktober 2025, S. 238–243", url: "https://www.deutsche-rentenversicherung.de/SharedDocs/Downloads/DE/Statistiken-und-Berichte/statistikpublikationen/rv_in_zeitreihen.pdf"}
+  DRV-KZ: {dokument: "Deutsche Rentenversicherung: Kennzahlen zur Finanzentwicklung (Rechnungsjahre 2024/2025)", url: "https://www.deutsche-rentenversicherung.de/DRV/DE/Experten/Zahlen-und-Fakten/Kennzahlen-zur-Finanzentwicklung/kennzahlen-zur-finanzentwicklung_node"}
+  KJ1: {dokument: "Bundesministerium für Gesundheit: Gesetzliche Krankenversicherung, Endgültige Rechnungsergebnisse (KJ 1), Spalte alle Kassen", url: "https://www.bundesgesundheitsministerium.de/themen/krankenversicherung/zahlen-und-fakten-zur-krankenversicherung/finanzergebnisse.html"}
+  SPV: {dokument: "Bundesministerium für Gesundheit: Die Finanzentwicklung der sozialen Pflegeversicherung, Ist-Ergebnisse 1995–2025", url: "https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/Statistiken/Pflegeversicherung/Finanzentwicklung/03-Finanzentwicklung-der-sozialen-Pflegeversicherung__2025.pdf"}
+  BA-GB: {dokument: "Bundesagentur für Arbeit: Geschäftsberichte 2015 und 2025, Finanzentwicklungsberichte 2020 und 2024", url: "https://www.arbeitsagentur.de/ueber-uns/veroeffentlichungen/berichte-und-haushalt"}
+  BA-JR: {dokument: "Bundesagentur für Arbeit: Jahresrechnung 2020 und 2024", url: "https://statistik.arbeitsagentur.de/DE/Navigation/Statistiken/Fachstatistiken/Einnahmen-Ausgaben/Einnahmen-Ausgaben-Nav.html"}
 toepfe:
   grv:
     name: Gesetzliche Rentenversicherung
@@ -24,7 +31,7 @@ toepfe:
     farbe: beitraege
     bundesmittel:
       - {titel: "11-1102-63681", text: "Allgemeiner Bundeszuschuss"}
-      - {titel: "11-1102-63682", text: "Bundeszuschuss Beitrittsgebiet"}
+      - {titel: "11-1102-63682", text: "Bundeszuschuss Beitrittsgebiet", bis: 2025}
       - {titel: "11-1102-63683", text: "Zusätzlicher Bundeszuschuss"}
       - {titel: "11-1102-63684", text: "Beiträge für Kindererziehungszeiten"}
     jahre:
@@ -83,8 +90,9 @@ toepfe:
     kurz: Krankenkassen
     farbe: beitraege
     bundesmittel:
-      - {titel: "15-1502-63606", text: "Bundeszuschuss an den Gesundheitsfonds (bis 2019)", bis: 2019}
-      - {titel: "15-1501-63606", text: "Bundeszuschuss an den Gesundheitsfonds", ab: 2020}
+      - {titel: "15-1502-63606", text: "Bundeszuschuss an den Gesundheitsfonds (2015)", bis: 2015}
+      - {titel: "15-1501-63606", text: "Bundeszuschuss an den Gesundheitsfonds", ab: 2016}
+      - {titel: "15-1501-63603", text: "Corona-Zuschuss an den Gesundheitsfonds (2020)", ab: 2020, bis: 2020}
     jahre:
       2015:
         quelle: KJ1

@@ -26,7 +26,7 @@ from .parse_xml import parse_rechnung_xml
 from .sozialkassen import build_sozialkassen
 from .texts import build_texts
 from .texts import build_texts
-from .sv import load_manual, mark_sv
+from .sv import load_manual, mark_sv, mark_transfers
 
 REPO = Path(__file__).resolve().parents[3]
 DEFAULT_RAW = REPO / "data" / "raw"
@@ -138,6 +138,9 @@ def build_one_year(jahr: int, raw: Path, out: Path, manual: dict, expected: dict
             rows_soll = [r.model_copy(update={"stand": "soll"}) for r in rows_ist]
             quelle["hinweise"].append("Keine Soll-CSV: Soll und Texte aus der Haushaltsrechnung")
 
+    rows_soll = mark_transfers(rows_soll)
+    if rows_ist:
+        rows_ist = mark_transfers(rows_ist)
     res = check_totals(rows_soll, jahr, expected.get(jahr, {}), toleranz=toleranz)
     for d in res.diffs:
         print("FEHLER", d)
@@ -174,7 +177,8 @@ def cmd_build(args: argparse.Namespace) -> int:
         print("nichts gebaut")
         return 1
     build_zeitreihe(years, ist_years, out)
-    build_index(sorted(years), totals, ist_bis=max(ist_years) if ist_years else None, out=out)
+    sv_jahre = [j for j, rows in years.items() if any(r.sv for r in rows)]
+    build_index(sorted(years), totals, ist_bis=max(ist_years) if ist_years else None, out=out, sv_jahre=sv_jahre)
     for p in build_manual(manual_dir, out):
         print(f"manuell: {p.name}")
     texts_dir = manual_dir.parent / "texts" / "titel"
@@ -190,7 +194,8 @@ def cmd_build(args: argparse.Namespace) -> int:
         import yaml
         with open(sk_file, encoding="utf-8") as f:
             sk = yaml.safe_load(f)
-        written = build_sozialkassen(sk, sorted(years), out)
+        ids_by_year = {j: {r.id for r in rows} for j, rows in years.items()}
+        written = build_sozialkassen(sk, sorted(years), out, ids_by_year)
         print(f"sozialkassen: {len(written)} Jahre")
     return 0
 

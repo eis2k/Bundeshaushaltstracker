@@ -8,7 +8,7 @@ MANUAL = Path(__file__).resolve().parents[2] / "data" / "manual" / "gesamtplan_s
 
 def row(art, titel, soll, kap="1102", epl="11", sv=False):
     return BudgetRow(jahr=2025, stand="soll", art=art, epl=epl, kap=kap, titel=titel, epl_text="",
-                     kap_text="", titel_text="", fkt="000", soll=soll, sv=sv)
+                     kap_text="", titel_text="", fkt="000", soll=soll, sv=sv, anlage=sv)
 
 
 ROWS = [
