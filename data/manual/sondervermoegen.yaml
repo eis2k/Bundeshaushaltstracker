@@ -1,0 +1,21 @@
+# Anlagen zum Bundeshaushalt (Nebenhaushalte), die nur in den *_ALL-Dateien des
+# Download-Portals enthalten sind. Kapitelnummern der Anlagen enden auf 9x.
+# Quelle der Liste: Vergleich HH_2025_ALL.csv gegen HH_2025.csv (bundeshaushalt.de), 1.11.2026.
+# art: sondervermoegen | eu | behoerde | nato
+kapitel:
+  - {kap: "0690", epl: "06", art: sondervermoegen, name: "Sondervermögen Versorgungsrücklage des Bundes", quelle: "https://www.gesetze-im-internet.de/versrcklg/"}
+  - {kap: "0691", epl: "06", art: sondervermoegen, name: "Sondervermögen Versorgungsfonds des Bundes", quelle: "https://www.gesetze-im-internet.de/versrcklg/"}
+  - {kap: "1090", epl: "10", art: eu, name: "Mittelzuweisungen und Marktordnungsausgaben der EU (Anlage E)", quelle: "https://www.bundeshaushalt.de/static/daten/2025/soll/HH_2025_ALL.csv"}
+  - {kap: "1091", epl: "10", art: behoerde, name: "Verwaltungshaushaltsplan Bundesinstitut für Risikobewertung (BfR)", quelle: "https://www.bundeshaushalt.de/static/daten/2025/soll/HH_2025_ALL.csv"}
+  - {kap: "1092", epl: "10", art: behoerde, name: "Verwaltungshaushaltsplan Bundesanstalt für Landwirtschaft und Ernährung (BLE)", quelle: "https://www.bundeshaushalt.de/static/daten/2025/soll/HH_2025_ALL.csv"}
+  - {kap: "1490", epl: "14", art: nato, name: "NATO-Sicherheits-Investitionsprogramm (Anlage N)", quelle: "https://www.bundeshaushalt.de/static/daten/2025/soll/HH_2025_ALL.csv"}
+  - {kap: "1491", epl: "14", art: sondervermoegen, name: "Sondervermögen Bundeswehr", ab: 2022, quelle: "https://www.gesetze-im-internet.de/bwfinsvermg/"}
+  - {kap: "1790", epl: "17", art: sondervermoegen, name: "Sondervermögen Kinderbetreuungsausbau", quelle: "https://www.gesetze-im-internet.de/kbfg/"}
+  - {kap: "1791", epl: "17", art: sondervermoegen, name: "Sondervermögen Ausbau ganztägiger Bildungs- und Betreuungsangebote (Grundschulalter)", quelle: "https://www.gesetze-im-internet.de/gafg/"}
+  - {kap: "6090", epl: "60", art: eu, name: "Erhebung der Eigenmittel der EU (Anlage E)", quelle: "https://www.bundeshaushalt.de/static/daten/2025/soll/HH_2025_ALL.csv"}
+  - {kap: "6091", epl: "60", art: sondervermoegen, name: "Sondervermögen Investitions- und Tilgungsfonds (ITF)", quelle: "https://www.gesetze-im-internet.de/itfg/"}
+  - {kap: "6092", epl: "60", art: sondervermoegen, name: "Klima- und Transformationsfonds (KTF)", quelle: "https://www.gesetze-im-internet.de/ekfg/"}
+  - {kap: "6093", epl: "60", art: sondervermoegen, name: "Sondervermögen Infrastruktur und Klimaneutralität", ab: 2025, quelle: "https://www.gesetze-im-internet.de/svinfrag/"}
+  - {kap: "6095", epl: "60", art: sondervermoegen, name: "Sondervermögen Aufbauhilfe (2013)", quelle: "https://www.gesetze-im-internet.de/aufbhg/"}
+  - {kap: "6096", epl: "60", art: sondervermoegen, name: "Sondervermögen Kommunalinvestitionsförderungsfonds", quelle: "https://www.gesetze-im-internet.de/kinvfg/"}
+  - {kap: "6098", epl: "60", art: sondervermoegen, name: "Sondervermögen Aufbauhilfe 2021", quelle: "https://www.gesetze-im-internet.de/aufbhg_2021/"}
