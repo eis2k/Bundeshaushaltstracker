@@ -37,7 +37,7 @@ def test_check_totals_reports_difference_with_text():
 def test_check_totals_reports_unbalanced_budget():
     rows = ROWS + [row("E", "11101", 7, kap="6001", epl="60")]
     res = check_totals(rows, 2025, {"ausgaben_kern": 500}, toleranz=0)
-    assert not res.ok and any("Ausgleich" in d for d in res.diffs)
+    assert not res.ok and any("Haushaltsausgleich" in d for d in res.diffs)
 
 
 def test_load_expected_reads_yaml():
