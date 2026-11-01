@@ -1,0 +1,426 @@
+{
+ "registerNumber": "R004511",
+ "registerEntryDetails": {
+  "registerEntryId": 82516,
+  "legislation": "GL2024",
+  "version": 12,
+  "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R004511/82516",
+  "pdfUrl": "https://www.lobbyregister.bundestag.de/media/24/de/837711/Lobbyregister-Registereintraege-Detailansicht-R004511-2026-09-02_14-31-58.pdf",
+  "validFromDate": "2026-09-02T14:31:58.000+02:00",
+  "fiscalYearUpdate": {
+   "updateMissing": false,
+   "lastFiscalYearUpdate": "2026-07-06T15:54:22.000+02:00"
+  }
+ },
+ "accountDetails": {
+  "activeLobbyist": true
+ },
+ "lobbyistIdentity": {
+  "identity": "ORGANIZATION",
+  "name": "Amadeu Antonio Stiftung",
+  "legalFormType": {
+   "code": "JURISTIC_PERSON",
+   "de": "Juristische Person",
+   "en": "Legal person"
+  },
+  "legalForm": {
+   "code": "LF_RSBR",
+   "de": "Rechtsfähige Stiftung bürgerlichen Rechts",
+   "en": "Legal foundation under civil law"
+  },
+  "address": {
+   "type": "NATIONAL",
+   "street": "Karl-Marx-Allee",
+   "streetNumber": "1",
+   "zipCode": "10178",
+   "city": "Berlin",
+   "country": {
+    "code": "DE",
+    "de": "Deutschland",
+    "en": "Germany"
+   }
+  },
+  "capitalCityRepresentationPresent": false,
+  "legalRepresentatives": [
+   {
+    "lastName": "Reinfrank",
+    "firstName": "Timo",
+    "function": "Vorstand",
+    "recentGovernmentFunctionPresent": false,
+    "entrustedPerson": false,
+    "contactDetails": {}
+   },
+   {
+    "lastName": "Ameer",
+    "firstName": "Tahera",
+    "function": "Vorstand",
+    "recentGovernmentFunctionPresent": false,
+    "entrustedPerson": false,
+    "contactDetails": {}
+   }
+  ],
+  "entrustedPersonsPresent": true,
+  "entrustedPersons": [
+   {
+    "lastName": "Reinfrank",
+    "firstName": "Timo",
+    "recentGovernmentFunctionPresent": false
+   }
+  ],
+  "membersPresent": false,
+  "membershipsPresent": true,
+  "membershipsCount": 19,
+  "memberships": [
+   {
+    "membership": "Allianz für Zusammenhalt, in der Allianz „Rechtssicherheit für politische Willensbildung\""
+   },
+   {
+    "membership": "Bundesarbeitsgemeinschaft Demokratieentwicklung (BAGD)"
+   },
+   {
+    "membership": "Bundesarbeitsgemeinschaft Kirche und Rechtsextremismus (BAGKR)"
+   },
+   {
+    "membership": "Bundesausschuss Politische Bildung (bap)"
+   },
+   {
+    "membership": "Bundesverband Deutscher Stiftungen"
+   },
+   {
+    "membership": "Bundesnetzwerk Bürgerschaftliches Engagement (BBE)"
+   },
+   {
+    "membership": "Ariadne (European Funders for Social Change and Human Rights) "
+   },
+   {
+    "membership": "Deutsches Institut für Menschenrechte e.V."
+   },
+   {
+    "membership": "LAG Vielfalt Sachsen"
+   },
+   {
+    "membership": "Mobile Beratung in Thüringen (MOBIT)"
+   },
+   {
+    "membership": "National Coalition zur Umsetzung der UN-Kinderrechtskonvention"
+   },
+   {
+    "membership": "Netzwerk für Demokratie und Toleranz in Sachsen-Anhalt"
+   },
+   {
+    "membership": "Netzwerk Tolerantes Sachsen"
+   },
+   {
+    "membership": "Stiftungsnetzwerk Berlin"
+   },
+   {
+    "membership": "Task Force - Education on Antisemitism"
+   },
+   {
+    "membership": "Wir - Erfolg braucht Vielfalt in Mecklenburg-Vorpommern"
+   },
+   {
+    "membership": "Bündnis für ein weltoffenes und tolerantes Berlin"
+   },
+   {
+    "membership": "Zusammen für Demokratie"
+   },
+   {
+    "membership": "Weltoffenes Thüringen"
+   }
+  ]
+ },
+ "activitiesAndInterests": {
+  "activity": {
+   "code": "ACT_PRIVATE_ORGA_V2",
+   "de": "Privatrechtliche Organisation mit Anerkennung der Gemeinnützigkeit nach Abgabenordnung",
+   "en": "Private-law organization with recognition of non-profit status in accordance with the German Fiscal Code (Abgabenordnung)"
+  },
+  "activityDescription": "Das Ziel der Amadeu Antonio Stiftung, eine demokratische Zivilgesellschaft zu stärken, die sich konsequent gegen Rechtsextremismus, Rassismus und Antisemitismus wendet.\r\nDafür unterstützt sie Initiati"
+ },
+ "financialExpenses": {
+  "relatedFiscalYearFinished": true,
+  "relatedFiscalYearStart": "2025-01-01",
+  "relatedFiscalYearEnd": "2025-12-31",
+  "financialExpensesEuro": {
+   "from": 1,
+   "to": 10000
+  }
+ },
+ "mainFundingSources": {
+  "relatedFiscalYearFinished": true,
+  "relatedFiscalYearStart": "2025-01-01",
+  "relatedFiscalYearEnd": "2025-12-31",
+  "mainFundingSources": [
+   {
+    "code": "MFS_PUBLIC_GRANTS",
+    "de": "Öffentliche Zuwendungen",
+    "en": "Public grants"
+   },
+   {
+    "code": "MFS_GIFTS_AND_DONATIONS",
+    "de": "Schenkungen und sonstige lebzeitige Zuwendungen",
+    "en": "Gifts and other lifetime donations"
+   }
+  ]
+ },
+ "publicAllowances": {
+  "publicAllowancesPresent": true,
+  "relatedFiscalYearFinished": true,
+  "relatedFiscalYearStart": "2025-01-01",
+  "relatedFiscalYearEnd": "2025-12-31",
+  "publicAllowances": [
+   {
+    "name": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+    "type": {
+     "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+     "de": "Deutsche Öffentliche Hand – Bund",
+     "en": "German Public Sector – Federal"
+    },
+    "location": "Berlin",
+    "publicAllowanceEuro": {
+     "from": 1040001,
+     "to": 1050000
+    },
+    "description": "Förderung der Projekte 'Kompetenznetzwerk Rechtsextremismusprävention', 'Good Gaming - Well Played Democracy', 'Weiterentwicklung der Prävention von sowie Beratung zu Verschwörungsdenken in Zusammenhang mit extremistischen Einstellungen', 'Regionalstudie Sömmerda', 'Regionalstudie Ilmkreis'\r\n\r\n\r\n"
+   },
+   {
+    "name": "Bundesministerium für Bildung und Forschung",
+    "type": {
+     "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+     "de": "Deutsche Öffentliche Hand – Bund",
+     "en": "German Public Sector – Federal"
+    },
+    "location": "Bonn ",
+    "publicAllowanceEuro": {
+     "from": 580001,
+     "to": 590000
+    },
+    "description": "Förderung des 'Forschungsinstituts Gesellschaftlicher Zusammenhalt (FGZ), Teilinstitut Jena', des 'Verbundvorhabens: Wissensnetzwerk Rechtsextremismusforschung, Teilvorhaben: Kommunikation zwischen Rechtsextremismusforschung und Zivilgesellschaft durch die \"Plattform Transfer\"', des Verbundprojekts 'Muster und Dynamiken von Verschwörungstheorien und rechtsextremen Ideologien in Krisenzeiten (NEOVEX) - Teilvorhaben: Die Politik digitaler Plattformen im Kontext rechtsextremer und verschwörungsideologischer Mobilisierung', 'Demokratie unter Druck - Fachtagung - Zwischen Gefährdung und Emanzipation -', 'Community Data Sprint'"
+   },
+   {
+    "name": "Bundesministerium des Innern und für Heimat",
+    "type": {
+     "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+     "de": "Deutsche Öffentliche Hand – Bund",
+     "en": "German Public Sector – Federal"
+    },
+    "location": "Berlin",
+    "publicAllowanceEuro": {
+     "from": 710001,
+     "to": 720000
+    },
+    "description": "Förderung des Projekts 'Aktionswochen gegen Antisemitismus', 'PrEval 2: Evaluation und Qualitätssicherung in der Extremismusprävention, Demokratieförderung und politischen Bildung', Teilprojekt 'Innerbehördliche Auseinandersetzung mit Rassismus im Rahmen des Verbundprojekts 'Rassismus als Gefährdung des gesellschaftlichen Zusammenhalts (InRa-Studie)', 'ZADA Pilotprojekt in Sachsen (Das Deutsche Zentrum für eine Gesellschaft ohne Antisemitismus, Diskriminierung und Ausgrenzung'\r\n"
+   },
+   {
+    "name": "Bundeszentrale für politische Bildung",
+    "type": {
+     "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+     "de": "Deutsche Öffentliche Hand – Bund",
+     "en": "German Public Sector – Federal"
+    },
+    "location": "Bonn",
+    "publicAllowanceEuro": {
+     "from": 170001,
+     "to": 180000
+    },
+    "description": "Förderung von Veranstaltungen im Rahmen der Richtlinienförderung und der Projekte 'Entschwörung vor Ort, 'Visualising Democracy'; 'pre:bunk - Digital Streetwork im Videoformat', 'Heilige Allianzen: Die gemeinsame Online-Agitation von extremen Rechten und konservativen Christ*innen gegen pluralistische Geschlechter-\r\nund Sexualidentitäten', 'Thüringen diskutiert'\r\n\r\n"
+   },
+   {
+    "name": "Landesstelle für Gleichbehandlung gegen Diskriminierung Berlin",
+    "type": {
+     "code": "GERMAN_PUBLIC_SECTOR_LAND",
+     "de": "Deutsche Öffentliche Hand – Land",
+     "en": "German Public Sector – Land"
+    },
+    "location": "Berlin",
+    "publicAllowanceEuro": {
+     "from": 960001,
+     "to": 970000
+    },
+    "description": "Förderung der Projekte 'Civic.net - Aktiv gegen Hass im Netz', 'Berliner Aktionswochen gegen Antisemitismus - Präventivpädagogisches Projekt gegen Antisemitismus', 'Berlin steht an der Seite Betroffener rechter Gewalt', 'ju:an-Praxisstelle antisemitismus- und rassismuskritische Jugendarbeit', 'Net Citizens Berlin – die demokratische\r\nContentschmiede'\r\n\r\n"
+   },
+   {
+    "name": "Niedersächsisches Justizministerium",
+    "type": {
+     "code": "GERMAN_PUBLIC_SECTOR_LAND",
+     "de": "Deutsche Öffentliche Hand – Land",
+     "en": "German Public Sector – Land"
+    },
+    "location": "Hannover",
+    "publicAllowanceEuro": {
+     "from": 340001,
+     "to": 350000
+    },
+    "description": "Förderung der 'Recherche- und Informationsstelle Antisemitismus (RIAS) Niedersachsen' und des Projektes 'HateShield'"
+   },
+   {
+    "name": "Sächsisches Staatsministerium für Soziales und Gesellschaftlichen Zusammenhalt",
+    "type": {
+     "code": "GERMAN_PUBLIC_SECTOR_LAND",
+     "de": "Deutsche Öffentliche Hand – Land",
+     "en": "German Public Sector – Land"
+    },
+    "location": "Dresden",
+    "publicAllowanceEuro": {
+     "from": 10001,
+     "to": 20000
+    },
+    "description": "Beauftragung des 'Qualifizierungsangebots zum Umgang mit Verschwörungsideologien'\r\n"
+   },
+   {
+    "name": "Thüringer Ministerium für Bildung, Jugend und Sport",
+    "type": {
+     "code": "GERMAN_PUBLIC_SECTOR_LAND",
+     "de": "Deutsche Öffentliche Hand – Land",
+     "en": "German Public Sector – Land"
+    },
+    "location": "Erfurt",
+    "publicAllowanceEuro": {
+     "from": 360001,
+     "to": 370000
+    },
+    "description": "Förderung des 'IDZ - Institut für Demokratie und Zivilgesellschaft' "
+   },
+   {
+    "name": "Senatsverwaltung für Inneres und Sport",
+    "type": {
+     "code": "GERMAN_PUBLIC_SECTOR_LAND",
+     "de": "Deutsche Öffentliche Hand – Land",
+     "en": "German Public Sector – Land"
+    },
+    "location": "Berlin",
+    "publicAllowanceEuro": {
+     "from": 750001,
+     "to": 760000
+    },
+    "description": "Zuwendung für 'Soforthilfefonds für Betroffene von Hassgewalt' und 'Schutzfonds – Schutzräume ermöglichen und bewahren'"
+   },
+   {
+    "name": "Sächsisches Staatsministerium für Soziales und Gesellschaftlichen Zusammenhalt",
+    "type": {
+     "code": "GERMAN_PUBLIC_SECTOR_LAND",
+     "de": "Deutsche Öffentliche Hand – Land",
+     "en": "German Public Sector – Land"
+    },
+    "location": "Dresden",
+    "publicAllowanceEuro": {
+     "from": 20001,
+     "to": 30000
+    },
+    "description": "Förderung des 'Peter-Henkenborg-Preis'"
+   },
+   {
+    "name": "Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration und Beauftragte der Bundesregierung für Antirassismus",
+    "type": {
+     "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+     "de": "Deutsche Öffentliche Hand – Bund",
+     "en": "German Public Sector – Federal"
+    },
+    "location": "Berlin",
+    "publicAllowanceEuro": {
+     "from": 1050001,
+     "to": 1060000
+    },
+    "description": "Förderung des Projekts 'Selbstbestimmt vernetzen, erinnern und bilden'"
+   },
+   {
+    "name": "Der Beauftragte der Bundesregierung für Kultur und Medien ",
+    "type": {
+     "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+     "de": "Deutsche Öffentliche Hand – Bund",
+     "en": "German Public Sector – Federal"
+    },
+    "location": "Berlin",
+    "publicAllowanceEuro": {
+     "from": 40001,
+     "to": 50000
+    },
+    "description": "Zuwendung für das Archiv- und Vermittlungsprojekt 'Antisemitismus als Kulturtechnik"
+   },
+   {
+    "name": "Deutsche Stiftung für Engagement und Ehrenamt DSEE",
+    "type": {
+     "code": "GERMAN_PUBLIC_SECTOR_FEDERAL",
+     "de": "Deutsche Öffentliche Hand – Bund",
+     "en": "German Public Sector – Federal"
+    },
+    "location": "Neustrelitz",
+    "publicAllowanceEuro": {
+     "from": 80001,
+     "to": 90000
+    },
+    "description": "Unterstützung des Projekts 'Diversitätsorientierte Demokratiearbeit im ländlichen Raum Thüringens'\r\n"
+   },
+   {
+    "name": "Sächsische Aufbaubank -SAB",
+    "type": {
+     "code": "GERMAN_PUBLIC_SECTOR_LAND",
+     "de": "Deutsche Öffentliche Hand – Land",
+     "en": "German Public Sector – Land"
+    },
+    "location": "Dresden",
+    "publicAllowanceEuro": {
+     "from": 60001,
+     "to": 70000
+    },
+    "description": "Kofinanzierung de Projekts 'Starke Eltern - starke Schule - starke Schüler'\r\n\r\n\r\n"
+   },
+   {
+    "name": "Landesamt für Schule und Bildung Sachsen",
+    "type": {
+     "code": "GERMAN_PUBLIC_SECTOR_LAND",
+     "de": "Deutsche Öffentliche Hand – Land",
+     "en": "German Public Sector – Land"
+    },
+    "location": "Dresden",
+    "publicAllowanceEuro": {
+     "from": 20001,
+     "to": 30000
+    },
+    "description": "Förderung des Projekts 'Starke Lehrer – starke Schüler'"
+   },
+   {
+    "name": "Senatsverwaltung für Kultur und Gesellschaftlichen Zusammenhalt",
+    "type": {
+     "code": "GERMAN_PUBLIC_SECTOR_LAND",
+     "de": "Deutsche Öffentliche Hand – Land",
+     "en": "German Public Sector – Land"
+    },
+    "location": "Berlin",
+    "publicAllowanceEuro": {
+     "from": 90001,
+     "to": 100000
+    },
+    "description": "Unterstützung des Projekts 'Aktionsfonds gegen Antisemitismus'"
+   }
+  ]
+ },
+ "donators": {
+  "donatorsInformationPresent": false,
+  "relatedFiscalYearFinished": true,
+  "relatedFiscalYearStart": "2025-01-01",
+  "relatedFiscalYearEnd": "2025-12-31",
+  "totalDonationsEuro": {
+   "from": 4190001,
+   "to": 4200000
+  }
+ },
+ "membershipFees": {
+  "relatedFiscalYearFinished": true,
+  "relatedFiscalYearStart": "2025-01-01",
+  "relatedFiscalYearEnd": "2025-12-31",
+  "totalMembershipFees": {
+   "from": 0,
+   "to": 0
+  },
+  "individualContributorsPresent": false,
+  "individualContributors": []
+ },
+ "annualReports": {
+  "annualReportPreviousLastFiscalYearExists": true,
+  "previousLastFiscalYearStart": "2024-01-01",
+  "previousLastFiscalYearEnd": "2024-12-31",
+  "annualReportPdfUrl": "https://www.lobbyregister.bundestag.de/media/2b/d6/837710/Jahresabschluss-2024-Amadeu-Antonio-Stiftung-Web.pdf"
+ }
+}
