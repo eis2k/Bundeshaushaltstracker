@@ -6,6 +6,7 @@
   import { groupBy } from "../model/schnitte";
   import type { BudgetRow, NodeId, TreeNode } from "../model/types";
   import type { AppState } from "../state.svelte";
+  import SteuerPanel from "./SteuerPanel.svelte";
 
   let { app }: { app: AppState } = $props();
 
@@ -78,6 +79,7 @@
   const delta = $derived(info ? info.effective - info.original : 0);
   const share = $derived(info && info.parentOriginal > 0 ? Math.abs(delta) / info.parentOriginal : 0);
   const quelle = $derived(app.stand === "ist" ? app.data?.quelle.ist : app.data?.quelle.soll);
+  const steuer = $derived(app.selected?.startsWith("x:") ? app.steuern.find((s) => s.id === app.selected!.slice(2)) ?? null : null);
 
   /** Ausgewählter Knoten einer Sozialkasse (topf:grv, posten:grv:renten, beitraege:grv, defizit:grv, ruecklage:grv). */
   const kasse = $derived.by(() => {
@@ -115,7 +117,9 @@
   {#if app.unknownIds.length}
     <div class="note warn">{app.unknownIds.length} Einstellung{app.unknownIds.length === 1 ? "" : "en"} betreffen Titel, die es {app.jahr} nicht gibt, und bleiben hier ohne Wirkung.</div>
   {/if}
-  {#if kasse}
+  {#if steuer}
+    <SteuerPanel {app} szenario={steuer} />
+  {:else if kasse}
     <div class="path">Sozialkasse › {kasse.data.name}{#if kasse.posten} › {kasse.posten.text}{/if}</div>
     <h3>{kasse.posten ? kasse.posten.text : kasse.kind === "beitraege" ? `Beiträge ${kasse.data.kurz}` : kasse.kind === "defizit" ? `Defizit ${kasse.data.kurz}` : kasse.kind === "ruecklage" ? `Rücklage ${kasse.data.kurz}` : kasse.data.name}</h3>
     {#if kasse.posten}

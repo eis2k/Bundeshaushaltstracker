@@ -2,7 +2,7 @@ import { balance, effectiveValue, rowFactor } from "../model/scenario";
 import { includeRow, revenueGroups, revenueKind } from "../model/tree";
 import type { BudgetRow, NodeId, Scenario, YearData } from "../model/types";
 
-export type SNodeKind = "revenue" | "kredit" | "minderausgabe" | "topf" | "epl" | "kap" | "titel" | "rest" | "empfaenger" | "abzug" | "beitraege" | "ruecklage";
+export type SNodeKind = "revenue" | "kredit" | "minderausgabe" | "topf" | "epl" | "kap" | "titel" | "rest" | "empfaenger" | "abzug" | "beitraege" | "ruecklage" | "modell";
 
 export interface SNode {
   id: string;
@@ -18,6 +18,8 @@ export interface SNode {
   changed: boolean;
   dim: boolean;
   isKredit?: boolean;
+  /** Überschreibt die aus den Bändern berechnete Knotenhöhe (d3-sankey fixedValue); Modelle: Gesamtaufkommen. */
+  fixedValue?: number;
   /** Farbe der Quelle (Einzelplan) für Bänder und Knoten. */
   colorKey: string;
 }
@@ -107,14 +109,29 @@ export function negatives(rows: BudgetRow[], factors: Record<NodeId, number>) {
   return { minderausgaben, absetzungen, abzuege, abzuegeOriginal, mindereinnahmen, mindereinnahmenOriginal };
 }
 
+export interface Modell { id: string; kurz: string; gesamt: number; bund: number; empfaenger: "bund" | "laender" | "gemeinsam" }
+
+/** Fügt aktive Steuer-Modelle als gestrichelte Zuflüsse hinzu; Knotenhöhe = Gesamtaufkommen, Band = Bund-Anteil; der leere Rest ist der Anteil von Ländern und Gemeinden. */
+export function addModelle(modelle: Modell[] | undefined, add: (n: Omit<SNode, "dim" | "netOriginal" | "netEffective"> & { dim?: boolean; netOriginal?: number; netEffective?: number }) => unknown,
+                           link: (source: string, target: string, value: number, colorKey: string) => void, target: string): number {
+  let bund = 0;
+  for (const m of modelle ?? []) {
+    add({ id: `x:${m.id}`, label: `${m.kurz} (Modell)`, column: 0, kind: "modell", original: 0, effective: m.bund, netOriginal: 0, netEffective: m.gesamt, changed: true, colorKey: "modell", fixedValue: m.gesamt });
+    link(`x:${m.id}`, target, m.bund, "modell");
+    bund += m.bund;
+  }
+  return bund;
+}
+
 export function buildSankey(data: YearData, scenario: Scenario, factors: Record<NodeId, number>, focus: NodeId[],
-                            opts: { maxPerColumn: number; maxRevenue?: number }): SankeyData {
+                            opts: { maxPerColumn: number; maxRevenue?: number; modelle?: Modell[] }): SankeyData {
   const nodes: SNode[] = [];
   const links: SLink[] = [];
   const ghosts: SGhost[] = [];
   const rows = data.rows.filter((r) => includeRow(r, scenario.includeSv));
   const ausgaben = rows.filter((r) => r.art === "A");
-  const b = balance(data, factors, scenario.includeSv);
+  const extraBund = (opts.modelle ?? []).reduce((s, m) => s + m.bund, 0);
+  const b = balance(data, factors, scenario.includeSv, extraBund);
   const neg = negatives(rows, factors);
 
   const add = (n: Omit<SNode, "dim" | "netOriginal" | "netEffective"> & { dim?: boolean; netOriginal?: number; netEffective?: number }) => {
@@ -145,6 +162,7 @@ export function buildSankey(data: YearData, scenario: Scenario, factors: Record<
     add({ id: a.id, label: a.label, column: 0, kind: "revenue", original: a.original, effective: a.effective, changed: a.changed, colorKey: g.colorKey });
     link(a.id, TOPF_BUND, a.effective, g.colorKey);
   }
+  addModelle(opts.modelle, add, link, TOPF_BUND);
   add({ id: "E:kredite", label: "Neue Schulden", column: 0, kind: "kredit", original: b.neueSchuldenOriginal, effective: b.neueSchulden, changed: b.neueSchulden !== b.neueSchuldenOriginal, isKredit: true, colorKey: "kredit" });
   link("E:kredite", TOPF_BUND, b.neueSchulden, "kredit");
 

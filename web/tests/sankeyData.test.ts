@@ -121,3 +121,29 @@ describe("negative revenue titles (EU-Eigenmittel, Länderanteile)", () => {
     expect(buildSankey(fixtureYear, base, {}, [], opts).nodes.find((n) => n.id === "abzuege")).toBeUndefined();
   });
 });
+
+describe("Modell-Einnahmen aus Steuer-Szenarien (Stufe 1b)", () => {
+  test("active scenarios appear as dashed inflow nodes with the Bund share as band; Länder taxes show a label-only node", () => {
+    const modelle = [
+      { id: "spitzensteuersatz", kurz: "Spitzensteuersatz", gesamt: 14_000_000_000, bund: 5_950_000_000, empfaenger: "gemeinsam" as const },
+      { id: "vermoegensteuer", kurz: "Vermögensteuer", gesamt: 29_400_000_000, bund: 0, empfaenger: "laender" as const },
+    ];
+    const s = buildSankey(fixtureYear, base, {}, [], { ...opts, modelle });
+    const sp = s.nodes.find((n) => n.id === "x:spitzensteuersatz")!;
+    expect(sp.column).toBe(0);
+    expect(sp.kind).toBe("modell");
+    expect(sp.effective).toBe(5_950_000_000);
+    expect(sp.netEffective).toBe(14_000_000_000);
+    expect(s.links.find((l) => l.source === "x:spitzensteuersatz")!.value).toBe(5_950_000_000);
+    const vm = s.nodes.find((n) => n.id === "x:vermoegensteuer")!;
+    expect(vm.effective).toBe(0);
+    expect(vm.netEffective).toBe(29_400_000_000);
+    expect(s.links.find((l) => l.source === "x:vermoegensteuer")).toBeUndefined();
+    // Knotenhöhe = Gesamtaufkommen (d3 fixedValue), Band = Bund-Anteil; der Rest des Knotens bleibt leer (Länder)
+    expect(vm.fixedValue).toBe(29_400_000_000);
+    expect(sp.fixedValue).toBe(14_000_000_000);
+    expect(s.ghosts.find((g) => g.id === "x:vermoegensteuer")).toBeUndefined();
+    // Kredite-Knoten sinkt um den Bund-Anteil
+    expect(s.nodes.find((n) => n.id === "E:kredite")!.effective).toBe(KREDITE - 5_950_000_000);
+  });
+});

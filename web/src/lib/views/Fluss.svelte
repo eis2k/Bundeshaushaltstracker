@@ -7,7 +7,7 @@
   import { fmtEuro } from "../model/format";
   import type { NodeId, Scenario, YearData } from "../model/types";
   import { CHANGED_STROKE, GHOST_STROKE, colorFor } from "./colors";
-  import { buildSankey, type SLink, type SNode } from "./sankeyData";
+  import { buildSankey, type Modell, type SLink, type SNode } from "./sankeyData";
   import { buildGesamtSankey } from "./sankeyGesamt";
   import type { SozialkassenYear } from "../model/toepfe";
   import type { TopfId } from "../model/share";
@@ -20,11 +20,12 @@
     selected: NodeId | null;
     topf?: TopfId;
     sozialkassen?: SozialkassenYear | null;
+    modelle?: Modell[];
     onFocus: (path: NodeId[]) => void;
     onSelect: (id: NodeId | null) => void;
     onTopf?: (topf: TopfId) => void;
   }
-  let { data, scenario, factors, focus, selected, topf = "bund", sozialkassen = null, onFocus, onSelect, onTopf }: Props = $props();
+  let { data, scenario, factors, focus, selected, topf = "bund", sozialkassen = null, modelle = [], onFocus, onSelect, onTopf }: Props = $props();
   const gesamtModus = $derived(topf !== "bund" && sozialkassen !== null);
 
   let width = $state(900);
@@ -60,8 +61,8 @@
   const maxPerColumn = $derived(width < 720 ? 5 : columnsNeeded >= 6 ? 6 : 8);
 
   const sdata = $derived(gesamtModus
-    ? buildGesamtSankey(data, sozialkassen!, scenario, factors, { maxPerColumn, maxRevenue: width < 720 ? 4 : 6, only: topf === "gesamt" ? undefined : topf })
-    : buildSankey(data, scenario, factors, focus, { maxPerColumn, maxRevenue: width < 720 ? 5 : 7 }));
+    ? buildGesamtSankey(data, sozialkassen!, scenario, factors, { maxPerColumn, maxRevenue: width < 720 ? 4 : 6, only: topf === "gesamt" ? undefined : topf, modelle })
+    : buildSankey(data, scenario, factors, focus, { maxPerColumn, maxRevenue: width < 720 ? 5 : 7, modelle }));
 
   type LNode = SankeyNode<SNode, SLink>;
   type LLink = SankeyLink<SNode, SLink>;
@@ -103,6 +104,12 @@
     if (!g || g.diff <= 0) return 0;
     return Math.min(g.diff * pxPerEuro, height * 0.4);
   }
+  function labelY(n: LNode): number {
+    return ((n.y0 ?? 0) + (n.y1 ?? 0)) / 2;
+  }
+  function twoLines(n: LNode): boolean {
+    return nodeHeight(n) >= 22 || (n.kind === "modell" && n.id === selected);
+  }
   function ghostFor(n: LNode) {
     return sdata.ghosts.find((g) => g.id === n.id) ?? null;
   }
@@ -127,6 +134,7 @@
       return;
     }
     if (n.kind === "topf" || n.kind === "rest" || n.kind === "empfaenger" || n.kind === "abzug") { onFocus([]); onSelect(null); return; }
+    if (n.kind === "modell") { onSelect(n.id); return; }
     if (n.kind === "revenue" || n.kind === "kredit" || n.kind === "minderausgabe") { onSelect(n.kind === "revenue" ? n.id : null); return; }
     onFocus(pathFor(n));
     onSelect(n.id);
@@ -158,7 +166,7 @@
           d={linkPath(link) ?? ""}
           stroke={colorFor(link.colorKey)}
           stroke-width={Math.max(1, link.width ?? 1)}
-          stroke-dasharray={link.colorKey === "kredit" || link.colorKey === "minder" ? "6 4" : undefined}
+          stroke-dasharray={link.colorKey === "kredit" || link.colorKey === "minder" || link.colorKey === "modell" ? "6 4" : undefined}
           opacity={link.dim ? 0.18 : 0.55}
           fill="none"
         >
@@ -184,9 +192,9 @@
             stroke={node.id === selected ? CHANGED_STROKE : node.changed ? CHANGED_STROKE : "none"}
             stroke-width={node.id === selected ? 3 : 2}
             stroke-dasharray={node.changed && node.id !== selected ? "4 2" : undefined}
-            fill-opacity={node.kind === "kredit" || node.kind === "minderausgabe" ? 0.25 : 1}
+            fill-opacity={node.kind === "kredit" || node.kind === "minderausgabe" || node.kind === "modell" ? 0.25 : 1}
           />
-          {#if node.kind === "kredit" || node.kind === "minderausgabe"}
+          {#if node.kind === "kredit" || node.kind === "minderausgabe" || node.kind === "modell"}
             <rect x={node.x0} y={node.y0} width={(node.x1 ?? 0) - (node.x0 ?? 0)} height={nodeHeight(node)} fill="none" stroke={colorFor(node.colorKey)} stroke-dasharray="4 2" />
           {/if}
           {#if ghostHeight(node) > 0}
@@ -197,16 +205,20 @@
             />
           {/if}
           {#if showLabel(node) || transform.k >= 2.5}
-            <text x={labelX(node)} y={((node.y0 ?? 0) + (node.y1 ?? 0)) / 2} dy={nodeHeight(node) >= 22 ? "-0.2em" : "0.35em"} text-anchor={labelAnchor(node)} class="label" class:strong={node.id === selected || focus.includes(node.id)} style="font-size:{11 * invK}px">
+            <text x={labelX(node)} y={labelY(node)} dy={twoLines(node) ? "-0.2em" : "0.35em"} text-anchor={labelAnchor(node)} class="label" class:strong={node.id === selected || focus.includes(node.id)} style="font-size:{11 * invK}px">
               {shortLabel(node)}
-              {#if nodeHeight(node) >= 22}
+              {#if node.kind === "modell" && twoLines(node)}
+                <tspan class="amount" x={labelX(node)} dy="1.15em" style="font-size:{10 * invK}px">
+                  {fmtEuro(node.netEffective)} gesamt · {node.effective > 0 ? `Bund ${fmtEuro(node.effective)}` : "Länder, Bund 0 €"}
+                </tspan>
+              {:else if nodeHeight(node) >= 22}
                 <tspan class="amount" x={labelX(node)} dy="1.15em" style="font-size:{10 * invK}px">
                   {fmtEuro(node.netEffective)}{#if node.changed && node.netOriginal !== node.netEffective} · war {fmtEuro(node.netOriginal)}{/if}
                 </tspan>
               {/if}
             </text>
           {/if}
-          <title>{node.label}: {fmtEuro(node.netEffective)}{node.changed ? ` (Original ${fmtEuro(node.netOriginal)})` : ""}</title>
+          <title>{node.kind === "modell" ? `${node.label}: ${fmtEuro(node.netEffective)} gesamt, davon Bund ${fmtEuro(node.effective)}` : `${node.label}: ${fmtEuro(node.netEffective)}${node.changed ? ` (Original ${fmtEuro(node.netOriginal)})` : ""}`}</title>
         </g>
       {/each}
     </g>
@@ -221,6 +233,7 @@
     <span><i style="background:{colorFor('abzug')}"></i> Weiterleitung an EU und Länder (von den Steuern abgezogen)</span>
     <span><i style="background:{colorFor('minder')}"></i> Globale Mindereinnahmen</span>
     <span><i class="dash" style="border-color:{colorFor('kredit')}"></i> Neue Schulden</span>
+    {#if modelle.length}<span><i class="dash" style="border-color:{colorFor('modell')}"></i> Steuer-Modell (Kasten = Gesamtaufkommen, Band = Anteil des Bundes, leerer Rest = Länder und Gemeinden)</span>{/if}
     <span><i class="dash" style="border-color:{CHANGED_STROKE}"></i> von dir verändert</span>
     <span><i class="dash" style="border-color:{GHOST_STROKE}"></i> gestrichener Betrag</span>
     {#if sdata.minderausgaben !== 0 || sdata.absetzungen !== 0}

@@ -2,7 +2,7 @@ import { balance } from "../model/scenario";
 import { buildToepfe, type SozialkassenYear } from "../model/toepfe";
 import { includeRow, revenueGroups, revenueKind } from "../model/tree";
 import type { BudgetRow, NodeId, Scenario, YearData } from "../model/types";
-import { ABZUEGE, MINDEREINNAHMEN, TOPF_BUND, aggregate, negatives, pick, type SGhost, type SLink, type SNode, type SankeyData } from "./sankeyData";
+import { ABZUEGE, MINDEREINNAHMEN, TOPF_BUND, addModelle, aggregate, negatives, pick, type Modell, type SGhost, type SLink, type SNode, type SankeyData } from "./sankeyData";
 
 /**
  * Gesamtfluss: Steuern und Beiträge → Bund → Sozialkassen und Bund-Verwendung → Kassen-Verwendung.
@@ -11,7 +11,7 @@ import { ABZUEGE, MINDEREINNAHMEN, TOPF_BUND, aggregate, negatives, pick, type S
  * buildToepfe, damit Kopfzeile und Fluss dieselbe Rechnung zeigen. `only` zeigt nur eine Kasse (Spalten 0–2).
  */
 export function buildGesamtSankey(bund: YearData, sk: SozialkassenYear, scenario: Scenario, factors: Record<NodeId, number>,
-                                  opts: { maxPerColumn: number; maxRevenue?: number; only?: string }): SankeyData {
+                                  opts: { maxPerColumn: number; maxRevenue?: number; only?: string; modelle?: Modell[] }): SankeyData {
   const nodes: SNode[] = [];
   const links: SLink[] = [];
   const ghosts: SGhost[] = [];
@@ -30,7 +30,8 @@ export function buildGesamtSankey(bund: YearData, sk: SozialkassenYear, scenario
 
   let minderausgaben = 0, absetzungen = 0;
   if (showBund) {
-    const b = balance(bund, factors, scenario.includeSv);
+    const extraBund = (opts.modelle ?? []).reduce((s, m) => s + m.bund, 0);
+    const b = balance(bund, factors, scenario.includeSv, extraBund);
     const ausgaben = rows.filter((r) => r.art === "A");
     const neg = negatives(rows, factors);
     minderausgaben = neg.minderausgaben;
@@ -52,6 +53,7 @@ export function buildGesamtSankey(bund: YearData, sk: SozialkassenYear, scenario
       add({ id: a.id, label: a.label, column: 0, kind: "revenue", original: a.original, effective: a.effective, changed: a.changed, colorKey: g.colorKey });
       link(a.id, TOPF_BUND, a.effective, g.colorKey);
     }
+    addModelle(opts.modelle, add, link, TOPF_BUND);
     add({ id: "E:kredite", label: "Neue Schulden (Bund)", column: 0, kind: "kredit", original: b.neueSchuldenOriginal, effective: b.neueSchulden, changed: b.neueSchulden !== b.neueSchuldenOriginal, isKredit: true, colorKey: "kredit" });
     link("E:kredite", TOPF_BUND, b.neueSchulden, "kredit");
 

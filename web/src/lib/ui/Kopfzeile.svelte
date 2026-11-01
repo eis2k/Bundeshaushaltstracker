@@ -31,7 +31,7 @@
 <header class="top">
   <div class="logo">Bundeshaushalts<span>tracker</span>{#if app.real}<small class="real">in Preisen von {app.bezugsjahr}</small>{/if}</div>
   {#if b && gesamt}
-    <div class="stat"><small>Steuern + Beiträge</small><b class="tabular">{fmtEuro(b.einnahmen + gesamt.beitraege)}</b></div>
+    <div class="stat"><small>Steuern + Beiträge{#if b.modellEinnahmen > 0} · inkl. Modell{/if}</small><b class="tabular">{fmtEuro(b.einnahmen + gesamt.beitraege)}</b></div>
     <div class="stat"><small>Ausgaben gesamt</small><b class="tabular">{fmtEuro(gesamt.gesamtAusgaben)}</b></div>
     <div class="stat" class:bad={b.neueSchulden > 0} class:good={b.neueSchulden <= 0}>
       <small>{b.neueSchulden >= 0 ? "Neue Schulden (Bund)" : "Überschuss (Bund)"}</small>
@@ -45,7 +45,7 @@
       <b class="tabular" class:bad={gesamt.toepfe.some((t) => t.saldo < 0)}>{gesamt.toepfe.filter((t) => t.saldo < 0).length} im Minus</b>
     </button>
   {:else if b}
-    <div class="stat"><small>Einnahmen</small><b class="tabular">{fmtEuro(b.einnahmen)}</b></div>
+    <div class="stat"><small>Einnahmen{#if b.modellEinnahmen > 0} · inkl. Modell{/if}</small><b class="tabular">{fmtEuro(b.einnahmen)}</b></div>
     <div class="stat"><small>Ausgaben</small><b class="tabular">{fmtEuro(b.ausgaben)}</b></div>
     <div class="stat" class:bad={b.neueSchulden > 0} class:good={b.neueSchulden <= 0}>
       <small>{b.neueSchulden >= 0 ? "Neue Schulden" : "Überschuss"}</small>

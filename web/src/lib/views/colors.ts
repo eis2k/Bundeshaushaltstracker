@@ -12,6 +12,7 @@ const FIXED: Record<string, string> = {
   kredit: "#dc2626",
   minder: "#9ca3af",
   abzug: "#93c5fd",
+  modell: "#1d4ed8",
   topf: "#101828",
   rest: "#94a3b8",
 };
