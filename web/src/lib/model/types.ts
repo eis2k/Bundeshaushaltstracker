@@ -87,3 +87,29 @@ export interface RevenueGroup {
 }
 
 export type ViewId = "fluss" | "karte" | "saeulen" | "gewachsen";
+
+/** Preset-Regel: Faktor auf ein Ziel ("11", "11-1102-63681", "HG:4", "G:526", "E:steuern") oder eine Nebenbedingung. */
+export type PresetRule = { ziel: string; faktor: number } | { bedingung: "schwarze_null" };
+
+export interface Preset {
+  id: string;
+  name: string;
+  beschreibung: string;
+  regeln: PresetRule[];
+}
+
+export interface GesetzFreiEintrag {
+  status: "gesetz" | "frei";
+  grundlage: string;
+  quelle: string;
+}
+
+export type GesetzFreiMap = Record<NodeId, GesetzFreiEintrag>;
+
+export interface SolverReport {
+  /** Summe, um die freie Titel gekürzt wurden (Euro). */
+  gekuerzt: number;
+  /** Faktor auf die freien Titel, 0..1. */
+  faktor: number;
+  erreichbar: boolean;
+}

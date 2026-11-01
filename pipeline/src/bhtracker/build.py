@@ -80,6 +80,24 @@ def build_zeitreihe(years: dict[int, list[BudgetRow]], ist_years: dict[int, list
     return _write(out / "zeitreihe.json", data)
 
 
+MANUAL_FILES = ("presets.yaml", "gesetz_frei.yaml", "vpi.yaml", "konkordanz.yaml")
+
+
+def build_manual(manual_dir: Path, out: Path) -> list[Path]:
+    """Kopiert die handgepflegten YAML-Dateien als JSON in den Build (nur vorhandene)."""
+    import yaml
+
+    written: list[Path] = []
+    for name in MANUAL_FILES:
+        src = manual_dir / name
+        if not src.exists():
+            continue
+        with open(src, encoding="utf-8") as f:
+            data = yaml.safe_load(f)
+        written.append(_write(out / (src.stem + ".json"), data))
+    return written
+
+
 def build_index(years: list[int], totals: dict[int, CheckResult], *, ist_bis: int | None, out: Path) -> Path:
     data = {
         "jahre": sorted(years),

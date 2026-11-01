@@ -1,0 +1,50 @@
+# Presets des Haushaltsbaukastens. Ein Preset ist eine geordnete Liste von Regeln:
+#   - {ziel: <Knoten-ID>, faktor: <Zahl>}   Knoten-ID: "11" (Einzelplan), "11-1102" (Kapitel),
+#                                            "11-1102-63681" (Titel), "HG:4" (Hauptgruppe), "G:526" (Gruppe),
+#                                            "E:steuern", "E:steuern:011" (Einnahmen)
+#   - {bedingung: schwarze_null}            wird zuletzt angewandt, kürzt alle freien, nicht einzeln
+#                                            gesetzten Ausgabentitel proportional bis Ausgaben = Einnahmen
+# Titel-IDs beziehen sich auf den Haushalt 2025; fehlt ein Titel in einem Jahr, wird die Regel dort ignoriert.
+presets:
+  - id: rentenzuschuss_halbieren
+    name: Rentenzuschuss halbieren
+    beschreibung: Die drei Bundeszuschüsse an die allgemeine Rentenversicherung (2025 zusammen rund 93 Mrd €) auf die Hälfte.
+    regeln:
+      - {ziel: "11-1102-63681", faktor: 0.5}
+      - {ziel: "11-1102-63682", faktor: 0.5}
+      - {ziel: "11-1102-63683", faktor: 0.5}
+  - id: verteidigung_verdoppeln
+    name: Verteidigung verdoppeln
+    beschreibung: Alle Ausgaben des Einzelplans 14 (Bundesministerium der Verteidigung) verdoppeln. Das Sondervermögen Bundeswehr ist ein Nebenhaushalt und nicht enthalten.
+    regeln:
+      - {ziel: "14", faktor: 2}
+  - id: entwicklungshilfe_streichen
+    name: Entwicklungshilfe streichen
+    beschreibung: Den Einzelplan 23 (wirtschaftliche Zusammenarbeit und Entwicklung) komplett streichen.
+    regeln:
+      - {ziel: "23", faktor: 0}
+  - id: buergergeld_minus_20
+    name: Bürgergeld −20 %
+    beschreibung: Die Regelleistung Bürgergeld (Titel 681 12) um ein Fünftel kürzen.
+    regeln:
+      - {ziel: "11-1101-68112", faktor: 0.8}
+  - id: personal_minus_10
+    name: Personal −10 %
+    beschreibung: Alle Personalausgaben des Bundes (Hauptgruppe 4, inkl. Versorgung) um zehn Prozent.
+    regeln:
+      - {ziel: "HG:4", faktor: 0.9}
+  - id: beraterkosten_halbieren
+    name: Gutachten und Berater halbieren
+    beschreibung: Ausgaben für Gutachten, Studien und externe Beratung (Gruppe 526) halbieren.
+    regeln:
+      - {ziel: "G:526", faktor: 0.5}
+  - id: steuern_plus_5
+    name: Steuern +5 %
+    beschreibung: Alle Steuereinnahmen des Bundes um fünf Prozent erhöhen.
+    regeln:
+      - {ziel: "E:steuern", faktor: 1.05}
+  - id: schwarze_null
+    name: Schwarze Null
+    beschreibung: Alle freien, nicht einzeln gesetzten Ausgabentitel werden proportional gekürzt, bis keine neuen Schulden nötig sind. Gesetzlich gebundene Titel bleiben unverändert.
+    regeln:
+      - {bedingung: schwarze_null}

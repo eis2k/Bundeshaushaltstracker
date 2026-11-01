@@ -66,3 +66,15 @@ def test_build_index(tmp_path: Path):
     assert idx["jahre"] == [2025] and idx["ist_bis"] == 2025
     assert idx["summen"]["2025"] == {"ausgaben": 500, "einnahmen": 300, "kredite": 200}
     assert "erzeugt" in idx
+
+
+def test_build_manual_copies_yaml_as_json(tmp_path: Path):
+    from bhtracker.build import build_manual
+    manual = Path(__file__).resolve().parents[2] / "data" / "manual"
+    written = build_manual(manual, tmp_path)
+    names = {p.name for p in written}
+    assert {"presets.json", "gesetz_frei.json"} <= names
+    presets = json.loads((tmp_path / "presets.json").read_text(encoding="utf-8"))
+    assert any(p["id"] == "schwarze_null" for p in presets["presets"])
+    gf = json.loads((tmp_path / "gesetz_frei.json").read_text(encoding="utf-8"))
+    assert all(e["quelle"].startswith("http") and e["status"] in ("gesetz", "frei") for e in gf["eintraege"])

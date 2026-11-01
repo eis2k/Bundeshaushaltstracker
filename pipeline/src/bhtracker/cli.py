@@ -17,7 +17,7 @@ import sys
 from pathlib import Path
 
 from . import portal
-from .build import build_index, build_year, build_zeitreihe
+from .build import build_index, build_manual, build_year, build_zeitreihe
 from .checks import CheckResult, check_totals, load_expected
 from .model import BudgetRow
 from .nachtrag import apply_nachtrag
@@ -172,6 +172,8 @@ def cmd_build(args: argparse.Namespace) -> int:
         return 1
     build_zeitreihe(years, ist_years, out)
     build_index(sorted(years), totals, ist_bis=max(ist_years) if ist_years else None, out=out)
+    for p in build_manual(manual_dir, out):
+        print(f"manuell: {p.name}")
     return 0
 
 
