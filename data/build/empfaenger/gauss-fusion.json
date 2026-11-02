@@ -70,7 +70,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006596/79087",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "frank-laukien",
+"akte_sichtbar": false
 },
 {
 "name": "Abraham Taherivand",
@@ -81,7 +83,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006596/79087",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "abraham-taherivand",
+"akte_sichtbar": false
 },
 {
 "name": "Heinrich Torlage",
@@ -92,7 +96,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006596/79087",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "heinrich-torlage",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -139,5 +145,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

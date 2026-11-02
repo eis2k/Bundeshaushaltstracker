@@ -57,7 +57,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001357/84686",
 "stand": "2026-08-13"
-}
+},
+"akte_id": "wegehaupt-nandita",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -99,5 +101,6 @@
 "etikett": "Eigenangabe",
 "version": 10
 }
-]
+],
+"parteispenden": []
 }

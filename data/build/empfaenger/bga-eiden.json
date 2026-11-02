@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008256/86454",
 "stand": "2026-10-02"
-}
+},
+"akte_id": "markus-eiden",
+"akte_sichtbar": false
 },
 {
 "name": "Fabian Köhl",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008256/86454",
 "stand": "2026-10-02"
-}
+},
+"akte_id": "fabian-koehl",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -92,5 +96,6 @@
 "etikett": "Eigenangabe",
 "version": 1
 }
-]
+],
+"parteispenden": []
 }

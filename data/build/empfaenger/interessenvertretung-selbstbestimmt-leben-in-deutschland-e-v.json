@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004969/61301",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "jenny-biessmann",
+"akte_sichtbar": false
 },
 {
 "name": "Uwe Frevert",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004969/61301",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "uwe-frevert",
+"akte_sichtbar": false
 },
 {
 "name": "Horst Frehe",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004969/61301",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "horst-frehe",
+"akte_sichtbar": false
 },
 {
 "name": "Wiebke Schär",
@@ -82,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004969/61301",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "wiebke-schaer",
+"akte_sichtbar": false
 },
 {
 "name": "Thomas Koritz",
@@ -93,7 +101,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004969/61301",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "thomas-koritz",
+"akte_sichtbar": false
 },
 {
 "name": "Thomas Künneke",
@@ -104,7 +114,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004969/61301",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "thomas-kuenneke-lr-r004969",
+"akte_sichtbar": false
 },
 {
 "name": "Emine Kalali",
@@ -115,7 +127,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004969/61301",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "emine-kalali",
+"akte_sichtbar": false
 },
 {
 "name": "Maria-Victoria Trümper",
@@ -126,7 +140,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004969/61301",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "maria-victoria-truemper",
+"akte_sichtbar": false
 },
 {
 "name": "Florian Preußger",
@@ -137,7 +153,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004969/61301",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "florian-preussger",
+"akte_sichtbar": false
 },
 {
 "name": "Max Prigge",
@@ -148,7 +166,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004969/61301",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "max-prigge",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -190,5 +210,6 @@
 "etikett": "Eigenangabe",
 "version": 8
 }
-]
+],
+"parteispenden": []
 }

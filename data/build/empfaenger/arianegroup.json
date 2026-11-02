@@ -72,7 +72,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002792/87532",
 "stand": "2026-10-13"
-}
+},
+"akte_id": "pierre-godart",
+"akte_sichtbar": false
 },
 {
 "name": "Jens Franzeck",
@@ -83,7 +85,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002792/87532",
 "stand": "2026-10-13"
-}
+},
+"akte_id": "jens-franzeck",
+"akte_sichtbar": false
 },
 {
 "name": "Jens Schröter",
@@ -94,7 +98,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002792/87532",
 "stand": "2026-10-13"
-}
+},
+"akte_id": "jens-schroeter",
+"akte_sichtbar": false
 },
 {
 "name": "Manuel Oesterschlink",
@@ -105,7 +111,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002792/87532",
 "stand": "2026-10-13"
-}
+},
+"akte_id": "manuel-oesterschlink",
+"akte_sichtbar": false
 },
 {
 "name": "Andreas Hoerkens",
@@ -116,7 +124,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002792/87532",
 "stand": "2026-10-13"
-}
+},
+"akte_id": "andreas-hoerkens",
+"akte_sichtbar": false
 },
 {
 "name": "Annabel Nerlich",
@@ -127,7 +137,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002792/87532",
 "stand": "2026-10-13"
-}
+},
+"akte_id": "annabel-nerlich",
+"akte_sichtbar": false
 },
 {
 "name": "Thorsten Ziegler",
@@ -138,7 +150,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002792/87532",
 "stand": "2026-10-13"
-}
+},
+"akte_id": "thorsten-ziegler",
+"akte_sichtbar": false
 },
 {
 "name": "Marcus Sonntag",
@@ -149,7 +163,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002792/87532",
 "stand": "2026-10-13"
-}
+},
+"akte_id": "marcus-sonntag",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -195,5 +211,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

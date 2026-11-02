@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004984/74520",
 "stand": "2026-05-12"
-}
+},
+"akte_id": "sebastian-knobloch-lr-r004984",
+"akte_sichtbar": false
 },
 {
 "name": "Stefanie Gloede",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004984/74520",
 "stand": "2026-05-12"
-}
+},
+"akte_id": "stefanie-gloede",
+"akte_sichtbar": false
 },
 {
 "name": "Felix Kösterke",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004984/74520",
 "stand": "2026-05-12"
-}
+},
+"akte_id": "felix-koesterke",
+"akte_sichtbar": false
 },
 {
 "name": "Kim Beese",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004984/74520",
 "stand": "2026-05-12"
-}
+},
+"akte_id": "kim-beese",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -116,5 +124,6 @@
 "etikett": "Eigenangabe",
 "version": 12
 }
-]
+],
+"parteispenden": []
 }

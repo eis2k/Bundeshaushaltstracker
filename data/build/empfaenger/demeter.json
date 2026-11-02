@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005058/82675",
 "stand": "2026-07-08"
-}
+},
+"akte_id": "ute-roennebeck",
+"akte_sichtbar": false
 },
 {
 "name": "Nancy Schacht",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005058/82675",
 "stand": "2026-07-08"
-}
+},
+"akte_id": "nancy-schacht",
+"akte_sichtbar": false
 },
 {
 "name": "Jörg Hütter",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005058/82675",
 "stand": "2026-07-08"
-}
+},
+"akte_id": "joerg-huetter",
+"akte_sichtbar": false
 },
 {
 "name": "Lea Schuler",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005058/82675",
 "stand": "2026-07-08"
-}
+},
+"akte_id": "lea-schuler",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -116,5 +124,6 @@
 "etikett": "Eigenangabe",
 "version": 6
 }
-]
+],
+"parteispenden": []
 }

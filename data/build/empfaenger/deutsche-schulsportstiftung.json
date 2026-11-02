@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007770/80873",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "martin-schoenwandt",
+"akte_sichtbar": false
 },
 {
 "name": "Friederike Sowislo",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007770/80873",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "friederike-sowislo",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [
@@ -133,5 +137,6 @@
 "abgerufen": "2026-11-01",
 "etikett": "Eigenangabe"
 }
-]
+],
+"parteispenden": []
 }

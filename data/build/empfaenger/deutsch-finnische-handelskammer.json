@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005214/83760",
 "stand": "2026-07-27"
-}
+},
+"akte_id": "jan-feller",
+"akte_sichtbar": false
 },
 {
 "name": "Dirk Hofmann",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005214/83760",
 "stand": "2026-07-27"
-}
+},
+"akte_id": "dirk-hofmann",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -102,5 +106,6 @@
 "etikett": "Eigenangabe",
 "version": 7
 }
-]
+],
+"parteispenden": []
 }

@@ -65,7 +65,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003194/82154",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "guido-beermann-lr-r003194",
+"akte_sichtbar": false
 },
 {
 "name": "Rolf Buch",
@@ -76,7 +78,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003194/82154",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "rolf-buch",
+"akte_sichtbar": false
 },
 {
 "name": "Monika Fontaine-Kretschmer",
@@ -87,7 +91,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003194/82154",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "monika-fontaine-kretschmer",
+"akte_sichtbar": false
 },
 {
 "name": "Axel Guthmann",
@@ -98,7 +104,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003194/82154",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "axel-guthmann",
+"akte_sichtbar": false
 },
 {
 "name": "Christian Huttenloher",
@@ -109,7 +117,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003194/82154",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "christian-huttenloher",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -152,5 +162,6 @@
 "etikett": "Eigenangabe",
 "version": 9
 }
-]
+],
+"parteispenden": []
 }

@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000253/83827",
 "stand": "2026-07-28"
-}
+},
+"akte_id": "steffen-reiter",
+"akte_sichtbar": false
 },
 {
 "name": "Carl-Stephan Schäfer",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000253/83827",
 "stand": "2026-07-28"
-}
+},
+"akte_id": "carl-stephan-schaefer",
+"akte_sichtbar": false
 },
 {
 "name": "Jan-Bernd Stärk",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000253/83827",
 "stand": "2026-07-28"
-}
+},
+"akte_id": "jan-bernd-staerk",
+"akte_sichtbar": false
 },
 {
 "name": "Paul Berghuis",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000253/83827",
 "stand": "2026-07-28"
-}
+},
+"akte_id": "paul-berghuis",
+"akte_sichtbar": false
 },
 {
 "name": "Karel Alexander-Eichler",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000253/83827",
 "stand": "2026-07-28"
-}
+},
+"akte_id": "karel-alexander-eichler",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -126,5 +136,6 @@
 "etikett": "Eigenangabe",
 "version": 20
 }
-]
+],
+"parteispenden": []
 }

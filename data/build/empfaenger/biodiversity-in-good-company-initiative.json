@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003246/81809",
 "stand": "2026-07-02"
-}
+},
+"akte_id": "stefanie-eichiner",
+"akte_sichtbar": false
 },
 {
 "name": "Pascal Bunk",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003246/81809",
 "stand": "2026-07-02"
-}
+},
+"akte_id": "pascal-bunk",
+"akte_sichtbar": false
 },
 {
 "name": "Lara Boye",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003246/81809",
 "stand": "2026-07-02"
-}
+},
+"akte_id": "lara-boye",
+"akte_sichtbar": false
 },
 {
 "name": "Sascha Liese",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003246/81809",
 "stand": "2026-07-02"
-}
+},
+"akte_id": "sascha-liese",
+"akte_sichtbar": false
 },
 {
 "name": "Jan Fockele",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003246/81809",
 "stand": "2026-07-02"
-}
+},
+"akte_id": "jan-fockele",
+"akte_sichtbar": false
 },
 {
 "name": "Peter Zens",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003246/81809",
 "stand": "2026-07-02"
-}
+},
+"akte_id": "peter-zens",
+"akte_sichtbar": false
 },
 {
 "name": "Veronica Veneziano",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003246/81809",
 "stand": "2026-07-02"
-}
+},
+"akte_id": "veronica-veneziano",
+"akte_sichtbar": false
 },
 {
 "name": "Yngrid Arnold Riveros",
@@ -118,7 +132,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003246/81809",
 "stand": "2026-07-02"
-}
+},
+"akte_id": "yngrid-arnold-riveros",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -160,5 +176,6 @@
 "etikett": "Eigenangabe",
 "version": 6
 }
-]
+],
+"parteispenden": []
 }

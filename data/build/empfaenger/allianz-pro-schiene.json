@@ -71,7 +71,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000866/84960",
 "stand": "2026-08-21"
-}
+},
+"akte_id": "martin-burkert",
+"akte_sichtbar": true
 },
 {
 "name": "Gerhard Greiter",
@@ -82,7 +84,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000866/84960",
 "stand": "2026-08-21"
-}
+},
+"akte_id": "gerhard-greiter",
+"akte_sichtbar": false
 },
 {
 "name": "Klaus-Martin Melzer",
@@ -93,7 +97,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000866/84960",
 "stand": "2026-08-21"
-}
+},
+"akte_id": "klaus-martin-melzer",
+"akte_sichtbar": false
 },
 {
 "name": "Birgit Milius",
@@ -104,7 +110,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000866/84960",
 "stand": "2026-08-21"
-}
+},
+"akte_id": "birgit-milius",
+"akte_sichtbar": false
 },
 {
 "name": "Dirk Flege",
@@ -115,7 +123,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000866/84960",
 "stand": "2026-08-21"
-}
+},
+"akte_id": "dirk-flege",
+"akte_sichtbar": false
 },
 {
 "name": "Andreas Geißler",
@@ -126,7 +136,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000866/84960",
 "stand": "2026-08-21"
-}
+},
+"akte_id": "andreas-geissler",
+"akte_sichtbar": false
 },
 {
 "name": "Bernhard Knierim",
@@ -137,7 +149,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000866/84960",
 "stand": "2026-08-21"
-}
+},
+"akte_id": "bernhard-knierim",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [
@@ -204,5 +218,6 @@
 "etikett": "Eigenangabe",
 "version": 32
 }
-]
+],
+"parteispenden": []
 }

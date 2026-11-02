@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005677/72959",
 "stand": "2026-02-25"
-}
+},
+"akte_id": "andreas-auer",
+"akte_sichtbar": false
 },
 {
 "name": "Annett Traue",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005677/72959",
 "stand": "2026-02-25"
-}
+},
+"akte_id": "annett-traue-lr-r005677",
+"akte_sichtbar": false
 },
 {
 "name": "Friederike Neugebauer",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005677/72959",
 "stand": "2026-02-25"
-}
+},
+"akte_id": "friederike-neugebauer",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -104,5 +110,6 @@
 "etikett": "Eigenangabe",
 "version": 8
 }
-]
+],
+"parteispenden": []
 }

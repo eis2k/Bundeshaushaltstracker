@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005277/86555",
 "stand": "2026-09-29"
-}
+},
+"akte_id": "jonas-geyer",
+"akte_sichtbar": false
 },
 {
 "name": "Anja Westermann",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005277/86555",
 "stand": "2026-09-29"
-}
+},
+"akte_id": "anja-westermann",
+"akte_sichtbar": false
 },
 {
 "name": "Marco Heinrich",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005277/86555",
 "stand": "2026-09-29"
-}
+},
+"akte_id": "marco-heinrich",
+"akte_sichtbar": false
 },
 {
 "name": "Thorsten Zintgraf",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005277/86555",
 "stand": "2026-09-29"
-}
+},
+"akte_id": "thorsten-zintgraf",
+"akte_sichtbar": false
 },
 {
 "name": "Sophia Häußler",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005277/86555",
 "stand": "2026-09-29"
-}
+},
+"akte_id": "sophia-haeussler",
+"akte_sichtbar": false
 },
 {
 "name": "Frank Bowinkelmann",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005277/86555",
 "stand": "2026-09-29"
-}
+},
+"akte_id": "frank-bowinkelmann",
+"akte_sichtbar": false
 },
 {
 "name": "Katja Scheel",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005277/86555",
 "stand": "2026-09-29"
-}
+},
+"akte_id": "katja-scheel",
+"akte_sichtbar": false
 },
 {
 "name": "Jörg Schwerdtfeger",
@@ -118,7 +132,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005277/86555",
 "stand": "2026-09-29"
-}
+},
+"akte_id": "joerg-schwerdtfeger",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -159,5 +175,6 @@
 "etikett": "Eigenangabe",
 "version": 13
 }
-]
+],
+"parteispenden": []
 }

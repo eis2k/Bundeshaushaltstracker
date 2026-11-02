@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003277/80626",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "jens-kroeger",
+"akte_sichtbar": false
 },
 {
 "name": "Thomas Haak",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003277/80626",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "thomas-haak",
+"akte_sichtbar": false
 },
 {
 "name": "Diana Droßel",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003277/80626",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "diana-drossel",
+"akte_sichtbar": false
 },
 {
 "name": "Nicole Mattig-Fabian",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003277/80626",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "nicole-mattig-fabian",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -117,5 +125,6 @@
 "etikett": "Eigenangabe",
 "version": 11
 }
-]
+],
+"parteispenden": []
 }

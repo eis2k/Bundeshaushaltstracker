@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002345/86256",
 "stand": "2026-09-23"
-}
+},
+"akte_id": "norbert-scherbaum",
+"akte_sichtbar": false
 },
 {
 "name": "Corinna Mäder-Linke",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002345/86256",
 "stand": "2026-09-23"
-}
+},
+"akte_id": "corinna-maeder-linke",
+"akte_sichtbar": false
 },
 {
 "name": "Eva Egartner",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002345/86256",
 "stand": "2026-09-23"
-}
+},
+"akte_id": "eva-egartner",
+"akte_sichtbar": false
 },
 {
 "name": "Christina Rummel",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002345/86256",
 "stand": "2026-09-23"
-}
+},
+"akte_id": "christina-rummel",
+"akte_sichtbar": false
 },
 {
 "name": "Peter Raiser",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002345/86256",
 "stand": "2026-09-23"
-}
+},
+"akte_id": "peter-raiser",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -127,5 +137,6 @@
 "etikett": "Eigenangabe",
 "version": 18
 }
-]
+],
+"parteispenden": []
 }

@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008007/80023",
 "stand": "2026-08-20"
-}
+},
+"akte_id": "michael-alexander-meister",
+"akte_sichtbar": false
 },
 {
 "name": "Menage Alexandre",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008007/80023",
 "stand": "2026-08-20"
-}
+},
+"akte_id": "menage-alexandre",
+"akte_sichtbar": false
 },
 {
 "name": "Nima Pegemanyfar",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008007/80023",
 "stand": "2026-08-20"
-}
+},
+"akte_id": "nima-pegemanyfar",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -111,5 +117,6 @@
 "etikett": "Eigenangabe",
 "version": 4
 }
-]
+],
+"parteispenden": []
 }

@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000314/76088",
 "stand": "2026-07-04"
-}
+},
+"akte_id": "paul-bickelbacher",
+"akte_sichtbar": false
 },
 {
 "name": "Wolfgang Packmohr",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000314/76088",
 "stand": "2026-07-04"
-}
+},
+"akte_id": "wolfgang-packmohr",
+"akte_sichtbar": false
 },
 {
 "name": "Roland Stimpel",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000314/76088",
 "stand": "2026-07-04"
-}
+},
+"akte_id": "roland-stimpel",
+"akte_sichtbar": false
 },
 {
 "name": "Claudia Nowak",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000314/76088",
 "stand": "2026-07-04"
-}
+},
+"akte_id": "claudia-nowak",
+"akte_sichtbar": false
 },
 {
 "name": "Thessa Gebhardt",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000314/76088",
 "stand": "2026-07-04"
-}
+},
+"akte_id": "thessa-gebhardt",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -128,5 +138,6 @@
 "etikett": "Eigenangabe",
 "version": 17
 }
-]
+],
+"parteispenden": []
 }

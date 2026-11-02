@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001247/81403",
 "stand": "2026-08-04"
-}
+},
+"akte_id": "clara-friedrich",
+"akte_sichtbar": false
 },
 {
 "name": "Chris Hartmann",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001247/81403",
 "stand": "2026-08-04"
-}
+},
+"akte_id": "chris-hartmann",
+"akte_sichtbar": false
 },
 {
 "name": "Hanno Himmel",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001247/81403",
 "stand": "2026-08-04"
-}
+},
+"akte_id": "hanno-himmel",
+"akte_sichtbar": false
 },
 {
 "name": "Johanna Sell",
@@ -82,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001247/81403",
 "stand": "2026-08-04"
-}
+},
+"akte_id": "johanna-sell",
+"akte_sichtbar": false
 },
 {
 "name": "Anja Petz",
@@ -93,7 +101,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001247/81403",
 "stand": "2026-08-04"
-}
+},
+"akte_id": "anja-petz",
+"akte_sichtbar": false
 },
 {
 "name": "John Preuss",
@@ -104,7 +114,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001247/81403",
 "stand": "2026-08-04"
-}
+},
+"akte_id": "john-preuss",
+"akte_sichtbar": false
 },
 {
 "name": "Ursula Treffer",
@@ -115,7 +127,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001247/81403",
 "stand": "2026-08-04"
-}
+},
+"akte_id": "ursula-treffer",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -158,5 +172,6 @@
 "etikett": "Eigenangabe",
 "version": 9
 }
-]
+],
+"parteispenden": []
 }

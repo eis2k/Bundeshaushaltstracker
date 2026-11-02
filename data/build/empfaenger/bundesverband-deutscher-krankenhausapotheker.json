@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000445/79782",
 "stand": "2026-06-19"
-}
+},
+"akte_id": "jochen-schnurrer",
+"akte_sichtbar": false
 },
 {
 "name": "Dagmar Horn",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000445/79782",
 "stand": "2026-06-19"
-}
+},
+"akte_id": "dagmar-horn",
+"akte_sichtbar": false
 },
 {
 "name": "Christopher Jürgens",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000445/79782",
 "stand": "2026-06-19"
-}
+},
+"akte_id": "christopher-juergens",
+"akte_sichtbar": false
 },
 {
 "name": "Laurette Reisdörfer",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000445/79782",
 "stand": "2026-06-19"
-}
+},
+"akte_id": "laurette-reisdoerfer",
+"akte_sichtbar": false
 },
 {
 "name": "Max Kretzschmar",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000445/79782",
 "stand": "2026-06-19"
-}
+},
+"akte_id": "max-kretzschmar",
+"akte_sichtbar": false
 },
 {
 "name": "Elke Dechandt",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000445/79782",
 "stand": "2026-06-19"
-}
+},
+"akte_id": "elke-dechandt",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -139,5 +151,6 @@
 "etikett": "Eigenangabe",
 "version": 10
 }
-]
+],
+"parteispenden": []
 }

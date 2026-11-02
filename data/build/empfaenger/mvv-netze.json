@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003061/73627",
 "stand": "2026-03-30"
-}
+},
+"akte_id": "volker-glaetzer",
+"akte_sichtbar": false
 },
 {
 "name": "Anton Kirmeier",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003061/73627",
 "stand": "2026-03-30"
-}
+},
+"akte_id": "anton-kirmeier",
+"akte_sichtbar": false
 },
 {
 "name": "Benjamin Peschka",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003061/73627",
 "stand": "2026-03-30"
-}
+},
+"akte_id": "benjamin-peschka",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -104,5 +110,6 @@
 "etikett": "Eigenangabe",
 "version": 7
 }
-]
+],
+"parteispenden": []
 }

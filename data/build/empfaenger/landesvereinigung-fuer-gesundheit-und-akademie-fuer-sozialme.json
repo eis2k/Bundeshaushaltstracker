@@ -65,7 +65,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007114/84501",
 "stand": "2026-08-10"
-}
+},
+"akte_id": "thomas-altgeld-lr-r002427",
+"akte_sichtbar": false
 },
 {
 "name": "Janine Sterner",
@@ -76,7 +78,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007114/84501",
 "stand": "2026-08-10"
-}
+},
+"akte_id": "janine-sterner",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -119,5 +123,6 @@
 "etikett": "Eigenangabe",
 "version": 4
 }
-]
+],
+"parteispenden": []
 }

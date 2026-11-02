@@ -60,7 +60,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006841/83485",
 "stand": "2026-07-21"
-}
+},
+"akte_id": "markus-exenberger",
+"akte_sichtbar": false
 },
 {
 "name": "Emanuel Henrich",
@@ -71,7 +73,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006841/83485",
 "stand": "2026-07-21"
-}
+},
+"akte_id": "emanuel-henrich",
+"akte_sichtbar": false
 },
 {
 "name": "Elisabeth Sterner",
@@ -82,7 +86,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006841/83485",
 "stand": "2026-07-21"
-}
+},
+"akte_id": "elisabeth-sterner",
+"akte_sichtbar": false
 },
 {
 "name": "Pauline Raabe",
@@ -93,7 +99,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006841/83485",
 "stand": "2026-07-21"
-}
+},
+"akte_id": "pauline-raabe",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -140,5 +148,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

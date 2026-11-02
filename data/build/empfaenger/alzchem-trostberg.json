@@ -70,7 +70,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001966/85732",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "andreas-niedermaier",
+"akte_sichtbar": false
 },
 {
 "name": "Andreas Lösler",
@@ -81,7 +83,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001966/85732",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "andreas-loesler",
+"akte_sichtbar": false
 },
 {
 "name": "Martina Spitzer",
@@ -92,7 +96,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001966/85732",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "martina-spitzer",
+"akte_sichtbar": false
 },
 {
 "name": "Jürgen Sans",
@@ -103,7 +109,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001966/85732",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "juergen-sans",
+"akte_sichtbar": false
 },
 {
 "name": "Sven Hartmann",
@@ -114,7 +122,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001966/85732",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "sven-hartmann",
+"akte_sichtbar": false
 },
 {
 "name": "Lorenz Heimerl",
@@ -125,7 +135,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001966/85732",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "lorenz-heimerl",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -170,5 +182,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002233/80670",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "janina-tessloff",
+"akte_sichtbar": false
 },
 {
 "name": "Eva Egartner",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002233/80670",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "eva-egartner",
+"akte_sichtbar": false
 },
 {
 "name": "Carola Bau",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002233/80670",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "carola-bau",
+"akte_sichtbar": false
 },
 {
 "name": "Philip Gerber",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002233/80670",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "philip-gerber",
+"akte_sichtbar": false
 },
 {
 "name": "Katrin Bahr",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002233/80670",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "katrin-bahr",
+"akte_sichtbar": false
 },
 {
 "name": "Michael Leydecker",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002233/80670",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "michael-leydecker",
+"akte_sichtbar": false
 },
 {
 "name": "Annett Fabian",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002233/80670",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "annett-fabian",
+"akte_sichtbar": false
 },
 {
 "name": "Henning Fietz",
@@ -118,7 +132,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002233/80670",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "henning-fietz",
+"akte_sichtbar": false
 },
 {
 "name": "Markus Wirtz",
@@ -129,7 +145,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002233/80670",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "markus-wirtz",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -172,5 +190,6 @@
 "etikett": "Eigenangabe",
 "version": 12
 }
-]
+],
+"parteispenden": []
 }

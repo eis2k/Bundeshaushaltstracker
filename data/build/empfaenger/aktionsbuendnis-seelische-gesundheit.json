@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002071/80134",
 "stand": "2026-06-23"
-}
+},
+"akte_id": "raoul-borb",
+"akte_sichtbar": false
 },
 {
 "name": "Waltraud Rinke",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002071/80134",
 "stand": "2026-06-23"
-}
+},
+"akte_id": "waltraud-rinke",
+"akte_sichtbar": false
 },
 {
 "name": "Birgit  Oehmcke",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002071/80134",
 "stand": "2026-06-23"
-}
+},
+"akte_id": "birgit-oehmcke",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -97,5 +103,6 @@
 "etikett": "Eigenangabe",
 "version": 8
 }
-]
+],
+"parteispenden": []
 }

@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003082/67939",
 "stand": "2026-07-27"
-}
+},
+"akte_id": "irmgard-deschler",
+"akte_sichtbar": false
 },
 {
 "name": "Alexander Thal",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003082/67939",
 "stand": "2026-07-27"
-}
+},
+"akte_id": "alexander-thal",
+"akte_sichtbar": false
 },
 {
 "name": "Anna Frölich",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003082/67939",
 "stand": "2026-07-27"
-}
+},
+"akte_id": "anna-froelich",
+"akte_sichtbar": false
 },
 {
 "name": "Stephan Dünnwald",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003082/67939",
 "stand": "2026-07-27"
-}
+},
+"akte_id": "stephan-duennwald-lr-r003082",
+"akte_sichtbar": false
 },
 {
 "name": "Katharina Grote",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003082/67939",
 "stand": "2026-07-27"
-}
+},
+"akte_id": "katharina-grote",
+"akte_sichtbar": false
 },
 {
 "name": "Agnes Andrae",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003082/67939",
 "stand": "2026-07-27"
-}
+},
+"akte_id": "agnes-andrae",
+"akte_sichtbar": false
 },
 {
 "name": "Jana Weidhaase",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003082/67939",
 "stand": "2026-07-27"
-}
+},
+"akte_id": "jana-weidhaase",
+"akte_sichtbar": false
 },
 {
 "name": "Johanna Böhm",
@@ -118,7 +132,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003082/67939",
 "stand": "2026-07-27"
-}
+},
+"akte_id": "johanna-boehm",
+"akte_sichtbar": false
 },
 {
 "name": "Simone Eiler",
@@ -129,7 +145,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003082/67939",
 "stand": "2026-07-27"
-}
+},
+"akte_id": "simone-eiler",
+"akte_sichtbar": false
 },
 {
 "name": "Nadine Kriebel",
@@ -140,7 +158,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003082/67939",
 "stand": "2026-07-27"
-}
+},
+"akte_id": "nadine-kriebel",
+"akte_sichtbar": false
 },
 {
 "name": "Arif  Haidary",
@@ -151,7 +171,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003082/67939",
 "stand": "2026-07-27"
-}
+},
+"akte_id": "arif-haidary",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -194,5 +216,6 @@
 "etikett": "Eigenangabe",
 "version": 9
 }
-]
+],
+"parteispenden": []
 }

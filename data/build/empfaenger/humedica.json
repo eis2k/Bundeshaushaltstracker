@@ -185,7 +185,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003290/81189",
 "stand": "2026-07-21"
-}
+},
+"akte_id": "johannes-peter",
+"akte_sichtbar": false
 },
 {
 "name": "Heinke Rauscher",
@@ -196,7 +198,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003290/81189",
 "stand": "2026-07-21"
-}
+},
+"akte_id": "heinke-rauscher",
+"akte_sichtbar": false
 },
 {
 "name": "Bernd Weber",
@@ -207,7 +211,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003290/81189",
 "stand": "2026-07-21"
-}
+},
+"akte_id": "bernd-weber-lr-r003290",
+"akte_sichtbar": false
 },
 {
 "name": "Patrick Khamadi",
@@ -218,7 +224,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003290/81189",
 "stand": "2026-07-21"
-}
+},
+"akte_id": "patrick-khamadi",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -261,5 +269,6 @@
 "etikett": "Eigenangabe",
 "version": 11
 }
-]
+],
+"parteispenden": []
 }

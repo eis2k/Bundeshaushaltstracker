@@ -65,7 +65,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001222/76552",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "anne-rolvering",
+"akte_sichtbar": false
 },
 {
 "name": "Frank Hinte",
@@ -76,7 +78,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001222/76552",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "frank-hinte",
+"akte_sichtbar": false
 },
 {
 "name": "Annekathrin Schmidt",
@@ -87,7 +91,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001222/76552",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "annekathrin-schmidt",
+"akte_sichtbar": false
 },
 {
 "name": "Andreas Knoke-Wentorf",
@@ -98,7 +104,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001222/76552",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "andreas-knoke-wentorf",
+"akte_sichtbar": false
 },
 {
 "name": "Stefan Schönwetter",
@@ -109,7 +117,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001222/76552",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "stefan-schoenwetter",
+"akte_sichtbar": false
 },
 {
 "name": "Anna Davis",
@@ -120,7 +130,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001222/76552",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "anna-davis",
+"akte_sichtbar": false
 },
 {
 "name": "Julia Schneider",
@@ -131,7 +143,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001222/76552",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "julia-schneider-lr-r001222",
+"akte_sichtbar": false
 },
 {
 "name": "Jens Hoffsommer",
@@ -142,7 +156,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001222/76552",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "jens-hoffsommer",
+"akte_sichtbar": false
 },
 {
 "name": "Julia Puchta",
@@ -153,7 +169,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001222/76552",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "julia-puchta",
+"akte_sichtbar": false
 },
 {
 "name": "Peggy Eckert",
@@ -164,7 +182,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001222/76552",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "peggy-eckert",
+"akte_sichtbar": false
 },
 {
 "name": "Annegret Kramp-Karrenbauer",
@@ -181,7 +201,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001222/76552",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "annegret-kramp-karrenbauer-lr-r001222",
+"akte_sichtbar": true
 },
 {
 "name": "Lena Thieme",
@@ -192,7 +214,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001222/76552",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "lena-thieme",
+"akte_sichtbar": false
 },
 {
 "name": "Ariane Rademacher",
@@ -203,7 +227,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001222/76552",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "ariane-rademacher",
+"akte_sichtbar": false
 },
 {
 "name": "Maja Hornberger",
@@ -214,7 +240,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001222/76552",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "maja-hornberger",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [
@@ -281,5 +309,6 @@
 "etikett": "Eigenangabe",
 "version": 11
 }
-]
+],
+"parteispenden": []
 }

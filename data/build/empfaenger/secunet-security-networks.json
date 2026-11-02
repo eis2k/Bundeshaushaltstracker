@@ -81,7 +81,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001612/86890",
 "stand": "2026-10-01"
-}
+},
+"akte_id": "marc-julian-siewert",
+"akte_sichtbar": false
 },
 {
 "name": "Torsten Henn",
@@ -92,7 +94,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001612/86890",
 "stand": "2026-10-01"
-}
+},
+"akte_id": "torsten-henn",
+"akte_sichtbar": false
 },
 {
 "name": "Kai Martius",
@@ -103,7 +107,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001612/86890",
 "stand": "2026-10-01"
-}
+},
+"akte_id": "kai-martius",
+"akte_sichtbar": false
 },
 {
 "name": "Christine Skropke",
@@ -114,7 +120,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001612/86890",
 "stand": "2026-10-01"
-}
+},
+"akte_id": "christine-skropke",
+"akte_sichtbar": false
 },
 {
 "name": "Daniel Müller",
@@ -125,7 +133,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001612/86890",
 "stand": "2026-10-01"
-}
+},
+"akte_id": "daniel-mueller-lr-r001612",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -166,5 +176,6 @@
 "etikett": "Eigenangabe",
 "version": 12
 }
-]
+],
+"parteispenden": []
 }

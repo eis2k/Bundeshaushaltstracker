@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007389/83332",
 "stand": "2026-07-18"
-}
+},
+"akte_id": "thomas-ahlmann",
+"akte_sichtbar": false
 },
 {
 "name": "Anton Vaas",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007389/83332",
 "stand": "2026-07-18"
-}
+},
+"akte_id": "anton-vaas",
+"akte_sichtbar": false
 },
 {
 "name": "Johannes Müller",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007389/83332",
 "stand": "2026-07-18"
-}
+},
+"akte_id": "johannes-mueller-lr-r007389",
+"akte_sichtbar": false
 },
 {
 "name": "Erdan Rustemovski",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007389/83332",
 "stand": "2026-07-18"
-}
+},
+"akte_id": "erdan-rustemovski",
+"akte_sichtbar": false
 },
 {
 "name": "Thomas Rosenberger",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007389/83332",
 "stand": "2026-07-18"
-}
+},
+"akte_id": "thomas-rosenberger",
+"akte_sichtbar": false
 },
 {
 "name": "Thomas Johannes",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007389/83332",
 "stand": "2026-07-18"
-}
+},
+"akte_id": "thomas-johannes",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -138,5 +150,6 @@
 "etikett": "Eigenangabe",
 "version": 3
 }
-]
+],
+"parteispenden": []
 }

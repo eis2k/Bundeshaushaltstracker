@@ -65,7 +65,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004615/83578",
 "stand": "2026-08-05"
-}
+},
+"akte_id": "sven-weise",
+"akte_sichtbar": false
 },
 {
 "name": "Angela Papenburg",
@@ -76,7 +78,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004615/83578",
 "stand": "2026-08-05"
-}
+},
+"akte_id": "angela-papenburg",
+"akte_sichtbar": false
 },
 {
 "name": "Olaf Ebert",
@@ -87,7 +91,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004615/83578",
 "stand": "2026-08-05"
-}
+},
+"akte_id": "olaf-ebert-lr-r004615",
+"akte_sichtbar": false
 },
 {
 "name": "Ute Haupt",
@@ -98,7 +104,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004615/83578",
 "stand": "2026-08-05"
-}
+},
+"akte_id": "ute-haupt",
+"akte_sichtbar": false
 },
 {
 "name": "Katja Pähle",
@@ -109,7 +117,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004615/83578",
 "stand": "2026-08-05"
-}
+},
+"akte_id": "katja-paehle",
+"akte_sichtbar": false
 },
 {
 "name": "Sattler Christine",
@@ -120,7 +130,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004615/83578",
 "stand": "2026-08-05"
-}
+},
+"akte_id": "sattler-christine",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -164,5 +176,6 @@
 "etikett": "Eigenangabe",
 "version": 10
 }
-]
+],
+"parteispenden": []
 }

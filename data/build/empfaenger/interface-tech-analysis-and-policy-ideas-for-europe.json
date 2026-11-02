@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003722/87063",
 "stand": "2026-10-05"
-}
+},
+"akte_id": "anna-wohlfarth",
+"akte_sichtbar": false
 },
 {
 "name": "Thorsten  Wetzling",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003722/87063",
 "stand": "2026-10-05"
-}
+},
+"akte_id": "thorsten-wetzling",
+"akte_sichtbar": false
 },
 {
 "name": "Sven Herpig",
@@ -69,7 +73,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003722/87063",
 "stand": "2026-10-05"
-}
+},
+"akte_id": "sven-herpig",
+"akte_sichtbar": true
 },
 {
 "name": "Christina Rupp",
@@ -80,7 +86,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003722/87063",
 "stand": "2026-10-05"
-}
+},
+"akte_id": "christina-rupp",
+"akte_sichtbar": false
 },
 {
 "name": "Julia Sieghardt Hess",
@@ -91,7 +99,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003722/87063",
 "stand": "2026-10-05"
-}
+},
+"akte_id": "julia-sieghardt-hess",
+"akte_sichtbar": false
 },
 {
 "name": "Lena-Maria Böswald",
@@ -102,7 +112,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003722/87063",
 "stand": "2026-10-05"
-}
+},
+"akte_id": "lena-maria-boeswald",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [
@@ -167,5 +179,6 @@
 "etikett": "Eigenangabe",
 "version": 13
 }
-]
+],
+"parteispenden": []
 }

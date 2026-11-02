@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006056/71653",
 "stand": "2026-06-04"
-}
+},
+"akte_id": "georg-fiedler",
+"akte_sichtbar": false
 },
 {
 "name": "Dan  Rujescu-Balcu",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006056/71653",
 "stand": "2026-06-04"
-}
+},
+"akte_id": "dan-rujescu-balcu",
+"akte_sichtbar": false
 },
 {
 "name": "Reinhard  Lindner",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006056/71653",
 "stand": "2026-06-04"
-}
+},
+"akte_id": "reinhard-lindner",
+"akte_sichtbar": false
 },
 {
 "name": "Arno  Drinkmann",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006056/71653",
 "stand": "2026-06-04"
-}
+},
+"akte_id": "arno-drinkmann",
+"akte_sichtbar": false
 },
 {
 "name": "Barbara Urban",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006056/71653",
 "stand": "2026-06-04"
-}
+},
+"akte_id": "barbara-urban",
+"akte_sichtbar": false
 },
 {
 "name": "Birgit  Wagner",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006056/71653",
 "stand": "2026-06-04"
-}
+},
+"akte_id": "birgit-wagner",
+"akte_sichtbar": false
 },
 {
 "name": "Georg Fiedler",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006056/71653",
 "stand": "2026-06-04"
-}
+},
+"akte_id": "georg-fiedler",
+"akte_sichtbar": false
 },
 {
 "name": "Dan Rujescu-Balcu",
@@ -118,7 +132,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006056/71653",
 "stand": "2026-06-04"
-}
+},
+"akte_id": "dan-rujescu-balcu",
+"akte_sichtbar": false
 },
 {
 "name": "Reinhard Lindner",
@@ -129,7 +145,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006056/71653",
 "stand": "2026-06-04"
-}
+},
+"akte_id": "reinhard-lindner",
+"akte_sichtbar": false
 },
 {
 "name": "Arno Drinkmann",
@@ -140,7 +158,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006056/71653",
 "stand": "2026-06-04"
-}
+},
+"akte_id": "arno-drinkmann",
+"akte_sichtbar": false
 },
 {
 "name": "Birgit Wagner",
@@ -151,7 +171,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006056/71653",
 "stand": "2026-06-04"
-}
+},
+"akte_id": "birgit-wagner",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -193,5 +215,6 @@
 "etikett": "Eigenangabe",
 "version": 11
 }
-]
+],
+"parteispenden": []
 }

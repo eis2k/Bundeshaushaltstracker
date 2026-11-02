@@ -60,7 +60,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001938/87332",
 "stand": "2026-10-09"
-}
+},
+"akte_id": "norbert-schiedeck",
+"akte_sichtbar": false
 },
 {
 "name": "Stefan Borchers",
@@ -71,7 +73,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001938/87332",
 "stand": "2026-10-09"
-}
+},
+"akte_id": "stefan-borchers",
+"akte_sichtbar": false
 },
 {
 "name": "Andreas Meier",
@@ -82,7 +86,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001938/87332",
 "stand": "2026-10-09"
-}
+},
+"akte_id": "andreas-meier",
+"akte_sichtbar": false
 },
 {
 "name": "Armin Frommer",
@@ -93,7 +99,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001938/87332",
 "stand": "2026-10-09"
-}
+},
+"akte_id": "armin-frommer",
+"akte_sichtbar": false
 },
 {
 "name": "Jens Wichtermann",
@@ -104,7 +112,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001938/87332",
 "stand": "2026-10-09"
-}
+},
+"akte_id": "jens-wichtermann",
+"akte_sichtbar": false
 },
 {
 "name": "Karl-Heinz Backhaus",
@@ -115,7 +125,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001938/87332",
 "stand": "2026-10-09"
-}
+},
+"akte_id": "karl-heinz-backhaus",
+"akte_sichtbar": false
 },
 {
 "name": "Tillmann  von Schroeter",
@@ -126,7 +138,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001938/87332",
 "stand": "2026-10-09"
-}
+},
+"akte_id": "tillmann-von-schroeter",
+"akte_sichtbar": false
 },
 {
 "name": "Alexander Schuh",
@@ -137,7 +151,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001938/87332",
 "stand": "2026-10-09"
-}
+},
+"akte_id": "alexander-schuh",
+"akte_sichtbar": false
 },
 {
 "name": "Wilhelm Wall",
@@ -148,7 +164,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001938/87332",
 "stand": "2026-10-09"
-}
+},
+"akte_id": "wilhelm-wall",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -193,5 +211,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

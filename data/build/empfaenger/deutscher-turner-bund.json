@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002475/68220",
 "stand": "2025-11-24"
-}
+},
+"akte_id": "kalle-zinnkann",
+"akte_sichtbar": false
 },
 {
 "name": "Thomas Gutekunst",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002475/68220",
 "stand": "2025-11-24"
-}
+},
+"akte_id": "thomas-gutekunst",
+"akte_sichtbar": false
 },
 {
 "name": "Michaela Werkmann",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002475/68220",
 "stand": "2025-11-24"
-}
+},
+"akte_id": "michaela-werkmann",
+"akte_sichtbar": false
 },
 {
 "name": "Alfons Hölzl",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002475/68220",
 "stand": "2025-11-24"
-}
+},
+"akte_id": "alfons-hoelzl",
+"akte_sichtbar": false
 },
 {
 "name": "Martin Hartmann",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002475/68220",
 "stand": "2025-11-24"
-}
+},
+"akte_id": "martin-hartmann",
+"akte_sichtbar": false
 },
 {
 "name": "Christine Noe",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002475/68220",
 "stand": "2025-11-24"
-}
+},
+"akte_id": "christine-noe",
+"akte_sichtbar": false
 },
 {
 "name": "Annette Hofmann",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002475/68220",
 "stand": "2025-11-24"
-}
+},
+"akte_id": "annette-hofmann",
+"akte_sichtbar": false
 },
 {
 "name": "Claudia Pauli",
@@ -118,7 +132,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002475/68220",
 "stand": "2025-11-24"
-}
+},
+"akte_id": "claudia-pauli",
+"akte_sichtbar": false
 },
 {
 "name": "Katrin Engel",
@@ -129,7 +145,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002475/68220",
 "stand": "2025-11-24"
-}
+},
+"akte_id": "katrin-engel",
+"akte_sichtbar": false
 },
 {
 "name": "Friederike Heller",
@@ -140,7 +158,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002475/68220",
 "stand": "2025-11-24"
-}
+},
+"akte_id": "friederike-heller",
+"akte_sichtbar": false
 },
 {
 "name": "Christian Frenzel",
@@ -151,7 +171,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002475/68220",
 "stand": "2025-11-24"
-}
+},
+"akte_id": "christian-frenzel",
+"akte_sichtbar": false
 },
 {
 "name": "Annette Weimann",
@@ -162,7 +184,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002475/68220",
 "stand": "2025-11-24"
-}
+},
+"akte_id": "annette-weimann",
+"akte_sichtbar": false
 },
 {
 "name": "Jürgen Garziella",
@@ -173,7 +197,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002475/68220",
 "stand": "2025-11-24"
-}
+},
+"akte_id": "juergen-garziella",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -215,5 +241,6 @@
 "etikett": "Eigenangabe",
 "version": 10
 }
-]
+],
+"parteispenden": []
 }

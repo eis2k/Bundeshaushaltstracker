@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004306/72809",
 "stand": "2026-02-24"
-}
+},
+"akte_id": "monika-bach",
+"akte_sichtbar": false
 },
 {
 "name": "Ulrike Jährig",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004306/72809",
 "stand": "2026-02-24"
-}
+},
+"akte_id": "ulrike-jaehrig",
+"akte_sichtbar": false
 },
 {
 "name": "Magdalene Ossege",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004306/72809",
 "stand": "2026-02-24"
-}
+},
+"akte_id": "magdalene-ossege",
+"akte_sichtbar": false
 },
 {
 "name": "Jennifer Taube",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004306/72809",
 "stand": "2026-02-24"
-}
+},
+"akte_id": "jennifer-taube",
+"akte_sichtbar": false
 },
 {
 "name": "Ümmahan Gräsle",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004306/72809",
 "stand": "2026-02-24"
-}
+},
+"akte_id": "uemmahan-graesle",
+"akte_sichtbar": false
 },
 {
 "name": "Martina Puschke",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004306/72809",
 "stand": "2026-02-24"
-}
+},
+"akte_id": "martina-puschke",
+"akte_sichtbar": false
 },
 {
 "name": "Brigitte Faber",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004306/72809",
 "stand": "2026-02-24"
-}
+},
+"akte_id": "brigitte-faber",
+"akte_sichtbar": false
 },
 {
 "name": "Beatrice Gómez-Barroso",
@@ -118,7 +132,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004306/72809",
 "stand": "2026-02-24"
-}
+},
+"akte_id": "beatrice-g-mez-barroso",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -159,5 +175,6 @@
 "etikett": "Eigenangabe",
 "version": 10
 }
-]
+],
+"parteispenden": []
 }

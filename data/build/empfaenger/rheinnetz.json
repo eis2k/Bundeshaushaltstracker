@@ -62,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005250/81482",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "karsten-thielmann",
+"akte_sichtbar": false
 },
 {
 "name": "Jan Patrick Linossier",
@@ -73,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005250/81482",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "jan-patrick-linossier",
+"akte_sichtbar": false
 },
 {
 "name": "Frank Thelen",
@@ -84,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005250/81482",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "frank-thelen",
+"akte_sichtbar": false
 },
 {
 "name": "Laura Emmermacher",
@@ -95,7 +101,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005250/81482",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "laura-emmermacher-lr-r005250",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -141,5 +149,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

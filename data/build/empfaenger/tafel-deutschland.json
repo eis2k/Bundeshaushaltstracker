@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000080/74928",
 "stand": "2026-06-12"
-}
+},
+"akte_id": "sirkka-jendis",
+"akte_sichtbar": false
 },
 {
 "name": "Marco Koppe",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000080/74928",
 "stand": "2026-06-12"
-}
+},
+"akte_id": "marco-koppe",
+"akte_sichtbar": false
 },
 {
 "name": "Andreas Steppuhn",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000080/74928",
 "stand": "2026-06-12"
-}
+},
+"akte_id": "andreas-steppuhn",
+"akte_sichtbar": false
 },
 {
 "name": "Maximilian Blaeser",
@@ -82,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000080/74928",
 "stand": "2026-06-12"
-}
+},
+"akte_id": "maximilian-blaeser",
+"akte_sichtbar": false
 },
 {
 "name": "Willi Schmid",
@@ -93,7 +101,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000080/74928",
 "stand": "2026-06-12"
-}
+},
+"akte_id": "willi-schmid",
+"akte_sichtbar": false
 },
 {
 "name": "Kai Noack",
@@ -104,7 +114,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000080/74928",
 "stand": "2026-06-12"
-}
+},
+"akte_id": "kai-noack",
+"akte_sichtbar": false
 },
 {
 "name": "Anna Verres",
@@ -115,7 +127,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000080/74928",
 "stand": "2026-06-12"
-}
+},
+"akte_id": "anna-verres",
+"akte_sichtbar": false
 },
 {
 "name": "Andrea Jahnen",
@@ -126,7 +140,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000080/74928",
 "stand": "2026-06-12"
-}
+},
+"akte_id": "andrea-jahnen",
+"akte_sichtbar": false
 },
 {
 "name": "Kai Dethloff",
@@ -137,7 +153,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000080/74928",
 "stand": "2026-06-12"
-}
+},
+"akte_id": "kai-dethloff",
+"akte_sichtbar": false
 },
 {
 "name": "Regina Treutwein",
@@ -148,7 +166,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000080/74928",
 "stand": "2026-06-12"
-}
+},
+"akte_id": "regina-treutwein",
+"akte_sichtbar": false
 },
 {
 "name": "Lea Grasruck",
@@ -159,7 +179,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000080/74928",
 "stand": "2026-06-12"
-}
+},
+"akte_id": "lea-grasruck",
+"akte_sichtbar": false
 },
 {
 "name": "Joshua Luthin",
@@ -170,7 +192,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000080/74928",
 "stand": "2026-06-12"
-}
+},
+"akte_id": "joshua-luthin",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -212,5 +236,6 @@
 "etikett": "Eigenangabe",
 "version": 12
 }
-]
+],
+"parteispenden": []
 }

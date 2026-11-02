@@ -81,7 +81,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005684/49709",
 "stand": "2025-06-16"
-}
+},
+"akte_id": "peter-suedbeck",
+"akte_sichtbar": false
 },
 {
 "name": "Stephan Zirpel",
@@ -92,7 +94,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005684/49709",
 "stand": "2025-06-16"
-}
+},
+"akte_id": "stephan-zirpel",
+"akte_sichtbar": false
 },
 {
 "name": "Jürgen Stein",
@@ -103,7 +107,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005684/49709",
 "stand": "2025-06-16"
-}
+},
+"akte_id": "juergen-stein",
+"akte_sichtbar": false
 },
 {
 "name": "Eugen Nowak",
@@ -114,7 +120,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005684/49709",
 "stand": "2025-06-16"
-}
+},
+"akte_id": "eugen-nowak",
+"akte_sichtbar": false
 },
 {
 "name": "Neele Larondelle",
@@ -125,7 +133,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005684/49709",
 "stand": "2025-06-16"
-}
+},
+"akte_id": "neele-larondelle",
+"akte_sichtbar": false
 },
 {
 "name": "Jan Wildefeld",
@@ -136,7 +146,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005684/49709",
 "stand": "2025-06-16"
-}
+},
+"akte_id": "jan-wildefeld",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -178,5 +190,6 @@
 "etikett": "Eigenangabe",
 "version": 4
 }
-]
+],
+"parteispenden": []
 }

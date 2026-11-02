@@ -52,7 +52,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001743/87258",
 "stand": "2026-10-08"
-}
+},
+"akte_id": "bj-rn-gulden",
+"akte_sichtbar": false
 },
 {
 "name": "Mathieu Sidokpohou",
@@ -63,7 +65,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001743/87258",
 "stand": "2026-10-08"
-}
+},
+"akte_id": "mathieu-sidokpohou",
+"akte_sichtbar": false
 },
 {
 "name": "Harm Ohlmeyer",
@@ -74,7 +78,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001743/87258",
 "stand": "2026-10-08"
-}
+},
+"akte_id": "harm-ohlmeyer",
+"akte_sichtbar": false
 },
 {
 "name": "Michelle Robertson",
@@ -85,7 +91,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001743/87258",
 "stand": "2026-10-08"
-}
+},
+"akte_id": "michelle-robertson",
+"akte_sichtbar": false
 },
 {
 "name": "Birgit Kretschmer",
@@ -96,7 +104,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001743/87258",
 "stand": "2026-10-08"
-}
+},
+"akte_id": "birgit-kretschmer",
+"akte_sichtbar": false
 },
 {
 "name": "Manuel Pauser",
@@ -107,7 +117,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001743/87258",
 "stand": "2026-10-08"
-}
+},
+"akte_id": "manuel-pauser",
+"akte_sichtbar": false
 },
 {
 "name": "Marcel Marek Bazalinski",
@@ -118,7 +130,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001743/87258",
 "stand": "2026-10-08"
-}
+},
+"akte_id": "marcel-marek-bazalinski",
+"akte_sichtbar": false
 },
 {
 "name": "Annette Ermert",
@@ -129,7 +143,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001743/87258",
 "stand": "2026-10-08"
-}
+},
+"akte_id": "annette-ermert",
+"akte_sichtbar": false
 },
 {
 "name": "Diego Antončić",
@@ -140,7 +156,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001743/87258",
 "stand": "2026-10-08"
-}
+},
+"akte_id": "diego-anton-i",
+"akte_sichtbar": false
 },
 {
 "name": "Anja Gfall",
@@ -151,7 +169,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001743/87258",
 "stand": "2026-10-08"
-}
+},
+"akte_id": "anja-gfall",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -196,5 +216,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

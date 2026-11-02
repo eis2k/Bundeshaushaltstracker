@@ -57,7 +57,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004817/70272",
 "stand": "2026-01-05"
-}
+},
+"akte_id": "patrick-hoemke",
+"akte_sichtbar": false
 },
 {
 "name": "Christian Samuel Kirschenmann",
@@ -68,7 +70,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004817/70272",
 "stand": "2026-01-05"
-}
+},
+"akte_id": "christian-samuel-kirschenmann",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -110,5 +114,6 @@
 "etikett": "Eigenangabe",
 "version": 4
 }
-]
+],
+"parteispenden": []
 }

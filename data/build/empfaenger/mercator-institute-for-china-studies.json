@@ -70,7 +70,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003904/78271",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "mikko-huotari",
+"akte_sichtbar": false
 },
 {
 "name": "Ursula Noack",
@@ -81,7 +83,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003904/78271",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "ursula-noack",
+"akte_sichtbar": false
 },
 {
 "name": "Claudia Wessling",
@@ -92,7 +96,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003904/78271",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "claudia-wessling",
+"akte_sichtbar": false
 },
 {
 "name": "Bernhard Bartsch",
@@ -103,7 +109,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003904/78271",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "bernhard-bartsch",
+"akte_sichtbar": false
 },
 {
 "name": "Jacob Gunter",
@@ -114,7 +122,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003904/78271",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "jacob-gunter",
+"akte_sichtbar": false
 },
 {
 "name": "Katja Drinhausen",
@@ -125,7 +135,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003904/78271",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "katja-drinhausen",
+"akte_sichtbar": false
 },
 {
 "name": "Grzegorz  Stec",
@@ -136,7 +148,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003904/78271",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "grzegorz-stec",
+"akte_sichtbar": false
 },
 {
 "name": "Antonia Hmaidi",
@@ -147,7 +161,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003904/78271",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "antonia-hmaidi",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -194,5 +210,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

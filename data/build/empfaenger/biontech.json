@@ -52,7 +52,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002550/76563",
 "stand": "2026-05-29"
-}
+},
+"akte_id": "ugur-sahin",
+"akte_sichtbar": false
 },
 {
 "name": "Annemarie Hanekamp",
@@ -63,7 +65,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002550/76563",
 "stand": "2026-05-29"
-}
+},
+"akte_id": "annemarie-hanekamp",
+"akte_sichtbar": false
 },
 {
 "name": "Özlem Türeci",
@@ -74,7 +78,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002550/76563",
 "stand": "2026-05-29"
-}
+},
+"akte_id": "oezlem-tuereci",
+"akte_sichtbar": false
 },
 {
 "name": "Sierk Poetting",
@@ -85,7 +91,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002550/76563",
 "stand": "2026-05-29"
-}
+},
+"akte_id": "sierk-poetting",
+"akte_sichtbar": false
 },
 {
 "name": "Ramón Zapata-Gomez",
@@ -96,7 +104,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002550/76563",
 "stand": "2026-05-29"
-}
+},
+"akte_id": "ram-n-zapata-gomez",
+"akte_sichtbar": false
 },
 {
 "name": "James Ryan",
@@ -107,7 +117,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002550/76563",
 "stand": "2026-05-29"
-}
+},
+"akte_id": "james-ryan",
+"akte_sichtbar": false
 },
 {
 "name": "Kylie Jimenez",
@@ -118,7 +130,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002550/76563",
 "stand": "2026-05-29"
-}
+},
+"akte_id": "kylie-jimenez",
+"akte_sichtbar": false
 },
 {
 "name": "Pedro L. Alonso",
@@ -129,7 +143,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002550/76563",
 "stand": "2026-05-29"
-}
+},
+"akte_id": "pedro-l-alonso",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -174,5 +190,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

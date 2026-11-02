@@ -72,7 +72,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007348/72487",
 "stand": "2026-07-23"
-}
+},
+"akte_id": "mariella-minutolo",
+"akte_sichtbar": false
 },
 {
 "name": "Veronika  Danner",
@@ -83,7 +85,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007348/72487",
 "stand": "2026-07-23"
-}
+},
+"akte_id": "veronika-danner",
+"akte_sichtbar": false
 },
 {
 "name": "Detlef Zerfowski",
@@ -94,7 +98,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007348/72487",
 "stand": "2026-07-23"
-}
+},
+"akte_id": "detlef-zerfowski",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -140,5 +146,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

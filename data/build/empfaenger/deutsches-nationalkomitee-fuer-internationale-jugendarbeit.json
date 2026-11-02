@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007951/57675",
 "stand": "2026-04-21"
-}
+},
+"akte_id": "kirstin-weis",
+"akte_sichtbar": false
 },
 {
 "name": "Özge Erdoğan",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007951/57675",
 "stand": "2026-04-21"
-}
+},
+"akte_id": "oezge-erdo-an",
+"akte_sichtbar": false
 },
 {
 "name": "Kirsten Hasenpusch",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007951/57675",
 "stand": "2026-04-21"
-}
+},
+"akte_id": "kirsten-hasenpusch",
+"akte_sichtbar": false
 },
 {
 "name": "Alisan Yasar",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007951/57675",
 "stand": "2026-04-21"
-}
+},
+"akte_id": "alisan-yasar",
+"akte_sichtbar": false
 },
 {
 "name": "Johanna Börgermann",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007951/57675",
 "stand": "2026-04-21"
-}
+},
+"akte_id": "johanna-boergermann",
+"akte_sichtbar": false
 },
 {
 "name": "Paula Neher-Old",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007951/57675",
 "stand": "2026-04-21"
-}
+},
+"akte_id": "paula-neher-old",
+"akte_sichtbar": false
 },
 {
 "name": "Carolin Vogt",
@@ -113,7 +125,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007951/57675",
 "stand": "2026-04-21"
-}
+},
+"akte_id": "carolin-vogt",
+"akte_sichtbar": true
 }
 ],
 "verbindungen": [
@@ -169,5 +183,6 @@
 "etikett": "Eigenangabe",
 "version": 1
 }
-]
+],
+"parteispenden": []
 }

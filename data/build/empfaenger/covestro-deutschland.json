@@ -282,7 +282,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001497/87553",
 "stand": "2026-10-14"
-}
+},
+"akte_id": "markus-steilemann",
+"akte_sichtbar": false
 },
 {
 "name": "Thorsten Dreier",
@@ -293,7 +295,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001497/87553",
 "stand": "2026-10-14"
-}
+},
+"akte_id": "thorsten-dreier",
+"akte_sichtbar": false
 },
 {
 "name": "Klaus Fröhlich",
@@ -304,7 +308,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001497/87553",
 "stand": "2026-10-14"
-}
+},
+"akte_id": "klaus-froehlich",
+"akte_sichtbar": false
 },
 {
 "name": "Monique Buch",
@@ -315,7 +321,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001497/87553",
 "stand": "2026-10-14"
-}
+},
+"akte_id": "monique-buch",
+"akte_sichtbar": false
 },
 {
 "name": "Florian Frankenau",
@@ -326,7 +334,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001497/87553",
 "stand": "2026-10-14"
-}
+},
+"akte_id": "florian-frankenau",
+"akte_sichtbar": false
 },
 {
 "name": "Martin Duchenski-Wolff",
@@ -337,7 +347,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001497/87553",
 "stand": "2026-10-14"
-}
+},
+"akte_id": "martin-duchenski-wolff",
+"akte_sichtbar": false
 },
 {
 "name": "Tanja Gutsmann",
@@ -348,7 +360,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001497/87553",
 "stand": "2026-10-14"
-}
+},
+"akte_id": "tanja-gutsmann",
+"akte_sichtbar": false
 },
 {
 "name": "Jennifer Howe",
@@ -359,7 +373,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001497/87553",
 "stand": "2026-10-14"
-}
+},
+"akte_id": "jennifer-howe",
+"akte_sichtbar": false
 },
 {
 "name": "Marvin Dalheimer",
@@ -370,7 +386,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001497/87553",
 "stand": "2026-10-14"
-}
+},
+"akte_id": "marvin-dalheimer",
+"akte_sichtbar": false
 },
 {
 "name": "Eva Leins",
@@ -381,7 +399,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001497/87553",
 "stand": "2026-10-14"
-}
+},
+"akte_id": "eva-leins",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -427,5 +447,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

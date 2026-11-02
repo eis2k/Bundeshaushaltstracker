@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004549/56434",
 "stand": "2025-05-29"
-}
+},
+"akte_id": "jung-hwa-han",
+"akte_sichtbar": false
 },
 {
 "name": "Na-Rhee Scherfling",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004549/56434",
 "stand": "2025-05-29"
-}
+},
+"akte_id": "na-rhee-scherfling",
+"akte_sichtbar": false
 },
 {
 "name": "Peter Kesselburg",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004549/56434",
 "stand": "2025-05-29"
-}
+},
+"akte_id": "peter-kesselburg",
+"akte_sichtbar": false
 },
 {
 "name": "Jana Schäfer",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004549/56434",
 "stand": "2025-05-29"
-}
+},
+"akte_id": "jana-schaefer",
+"akte_sichtbar": false
 },
 {
 "name": "Yann Prell",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004549/56434",
 "stand": "2025-05-29"
-}
+},
+"akte_id": "yann-prell",
+"akte_sichtbar": false
 },
 {
 "name": "Nammyoung Hong",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004549/56434",
 "stand": "2025-05-29"
-}
+},
+"akte_id": "nammyoung-hong",
+"akte_sichtbar": false
 },
 {
 "name": "Anna So-Shim Schumacher",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004549/56434",
 "stand": "2025-05-29"
-}
+},
+"akte_id": "anna-so-shim-schumacher",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -151,5 +165,6 @@
 "etikett": "Eigenangabe",
 "version": 4
 }
-]
+],
+"parteispenden": []
 }

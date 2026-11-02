@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004857/49102",
 "stand": "2025-01-29"
-}
+},
+"akte_id": "frank-ertel",
+"akte_sichtbar": false
 },
 {
 "name": "Helmut Ellensohn",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004857/49102",
 "stand": "2025-01-29"
-}
+},
+"akte_id": "helmut-ellensohn",
+"akte_sichtbar": false
 },
 {
 "name": "Möhrer-Nolte Salome",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004857/49102",
 "stand": "2025-01-29"
-}
+},
+"akte_id": "moehrer-nolte-salome",
+"akte_sichtbar": false
 },
 {
 "name": "Myga Huenewinckell",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004857/49102",
 "stand": "2025-01-29"
-}
+},
+"akte_id": "myga-huenewinckell",
+"akte_sichtbar": false
 },
 {
 "name": "Lydia  Seifert",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004857/49102",
 "stand": "2025-01-29"
-}
+},
+"akte_id": "lydia-seifert",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -127,5 +137,6 @@
 "etikett": "Eigenangabe",
 "version": 5
 }
-]
+],
+"parteispenden": []
 }

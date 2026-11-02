@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003279/85145",
 "stand": "2026-08-26"
-}
+},
+"akte_id": "gabriel-schwaderer",
+"akte_sichtbar": false
 },
 {
 "name": "Thomas Potthast",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003279/85145",
 "stand": "2026-08-26"
-}
+},
+"akte_id": "thomas-potthast",
+"akte_sichtbar": false
 },
 {
 "name": "Anna-Katharina Wöbse",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003279/85145",
 "stand": "2026-08-26"
-}
+},
+"akte_id": "anna-katharina-woebse",
+"akte_sichtbar": false
 },
 {
 "name": "Hubert Karl Weiger",
@@ -82,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003279/85145",
 "stand": "2026-08-26"
-}
+},
+"akte_id": "hubert-karl-weiger",
+"akte_sichtbar": false
 },
 {
 "name": "Elsa Nickel",
@@ -93,7 +101,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003279/85145",
 "stand": "2026-08-26"
-}
+},
+"akte_id": "elsa-nickel",
+"akte_sichtbar": false
 },
 {
 "name": "Jörg Nitsch",
@@ -104,7 +114,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003279/85145",
 "stand": "2026-08-26"
-}
+},
+"akte_id": "joerg-nitsch-lr-r003279",
+"akte_sichtbar": false
 },
 {
 "name": "Hans-Dieter Knapp",
@@ -115,7 +127,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003279/85145",
 "stand": "2026-08-26"
-}
+},
+"akte_id": "hans-dieter-knapp",
+"akte_sichtbar": false
 },
 {
 "name": "Annette Katharina Spangenberg",
@@ -126,7 +140,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003279/85145",
 "stand": "2026-08-26"
-}
+},
+"akte_id": "annette-katharina-spangenberg",
+"akte_sichtbar": false
 },
 {
 "name": "Stefan Werner Ferger",
@@ -137,7 +153,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003279/85145",
 "stand": "2026-08-26"
-}
+},
+"akte_id": "stefan-werner-ferger",
+"akte_sichtbar": false
 },
 {
 "name": "Viktor  Berishaj",
@@ -148,7 +166,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003279/85145",
 "stand": "2026-08-26"
-}
+},
+"akte_id": "viktor-berishaj",
+"akte_sichtbar": false
 },
 {
 "name": "Tess Ine Cécile Hartmann-Hergott",
@@ -159,7 +179,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003279/85145",
 "stand": "2026-08-26"
-}
+},
+"akte_id": "tess-ine-c-cile-hartmann-hergott",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -201,5 +223,6 @@
 "etikett": "Eigenangabe",
 "version": 9
 }
-]
+],
+"parteispenden": []
 }

@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002260/76963",
 "stand": "2026-06-17"
-}
+},
+"akte_id": "linda-rebmann-musacchio",
+"akte_sichtbar": false
 },
 {
 "name": "Martin Haasler",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002260/76963",
 "stand": "2026-06-17"
-}
+},
+"akte_id": "martin-haasler",
+"akte_sichtbar": false
 },
 {
 "name": "Jedamzik Patrick",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002260/76963",
 "stand": "2026-06-17"
-}
+},
+"akte_id": "jedamzik-patrick",
+"akte_sichtbar": false
 },
 {
 "name": "Klaus Göke",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002260/76963",
 "stand": "2026-06-17"
-}
+},
+"akte_id": "klaus-goeke",
+"akte_sichtbar": false
 },
 {
 "name": "Eva-Maria Hartmann",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002260/76963",
 "stand": "2026-06-17"
-}
+},
+"akte_id": "eva-maria-hartmann",
+"akte_sichtbar": false
 },
 {
 "name": "Malina Stutz",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002260/76963",
 "stand": "2026-06-17"
-}
+},
+"akte_id": "malina-stutz",
+"akte_sichtbar": false
 },
 {
 "name": "Kristina Rehbein",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002260/76963",
 "stand": "2026-06-17"
-}
+},
+"akte_id": "kristina-rehbein",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -150,5 +164,6 @@
 "etikett": "Eigenangabe",
 "version": 8
 }
-]
+],
+"parteispenden": []
 }

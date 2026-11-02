@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006842/73925",
 "stand": "2026-03-30"
-}
+},
+"akte_id": "daniel-christoph-buechle",
+"akte_sichtbar": false
 },
 {
 "name": "Yvonne Cvilak",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006842/73925",
 "stand": "2026-03-30"
-}
+},
+"akte_id": "yvonne-cvilak",
+"akte_sichtbar": false
 },
 {
 "name": "Mike Alexander Reif",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006842/73925",
 "stand": "2026-03-30"
-}
+},
+"akte_id": "mike-alexander-reif",
+"akte_sichtbar": false
 },
 {
 "name": "Samuel Pierre Ganesh Dansette",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006842/73925",
 "stand": "2026-03-30"
-}
+},
+"akte_id": "samuel-pierre-ganesh-dansette",
+"akte_sichtbar": false
 },
 {
 "name": "Kerstin Anette Maurus",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006842/73925",
 "stand": "2026-03-30"
-}
+},
+"akte_id": "kerstin-anette-maurus",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -125,5 +135,6 @@
 "etikett": "Eigenangabe",
 "version": 3
 }
-]
+],
+"parteispenden": []
 }

@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001145/78935",
 "stand": "2026-06-12"
-}
+},
+"akte_id": "florian-pfeil-lr-r001145",
+"akte_sichtbar": false
 },
 {
 "name": "Verena Storch",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001145/78935",
 "stand": "2026-06-12"
-}
+},
+"akte_id": "verena-storch",
+"akte_sichtbar": false
 },
 {
 "name": "Sophie Lungershausen",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001145/78935",
 "stand": "2026-06-12"
-}
+},
+"akte_id": "sophie-lungershausen",
+"akte_sichtbar": false
 },
 {
 "name": "Eva Baillie",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001145/78935",
 "stand": "2026-06-12"
-}
+},
+"akte_id": "eva-baillie",
+"akte_sichtbar": false
 },
 {
 "name": "Uli Baege",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001145/78935",
 "stand": "2026-06-12"
-}
+},
+"akte_id": "uli-baege",
+"akte_sichtbar": false
 },
 {
 "name": "Margaret Kana",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001145/78935",
 "stand": "2026-06-12"
-}
+},
+"akte_id": "margaret-kana",
+"akte_sichtbar": false
 },
 {
 "name": "Cecilia Laca Sánchez",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001145/78935",
 "stand": "2026-06-12"
-}
+},
+"akte_id": "cecilia-laca-s-nchez",
+"akte_sichtbar": false
 },
 {
 "name": "Barbara Mittler",
@@ -118,7 +132,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001145/78935",
 "stand": "2026-06-12"
-}
+},
+"akte_id": "barbara-mittler",
+"akte_sichtbar": false
 },
 {
 "name": "Patrick  Clemens-Weirich",
@@ -129,7 +145,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001145/78935",
 "stand": "2026-06-12"
-}
+},
+"akte_id": "patrick-clemens-weirich",
+"akte_sichtbar": false
 },
 {
 "name": "Judith Kunz",
@@ -140,7 +158,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001145/78935",
 "stand": "2026-06-12"
-}
+},
+"akte_id": "judith-kunz",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -182,5 +202,6 @@
 "etikett": "Eigenangabe",
 "version": 8
 }
-]
+],
+"parteispenden": []
 }

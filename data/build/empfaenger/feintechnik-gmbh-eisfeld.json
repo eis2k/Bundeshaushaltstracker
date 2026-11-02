@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007919/74945",
 "stand": "2026-04-14"
-}
+},
+"akte_id": "florian-schebitz",
+"akte_sichtbar": false
 },
 {
 "name": "Jeff Lipkin",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007919/74945",
 "stand": "2026-04-14"
-}
+},
+"akte_id": "jeff-lipkin",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -100,5 +104,6 @@
 "etikett": "Eigenangabe",
 "version": 2
 }
-]
+],
+"parteispenden": []
 }

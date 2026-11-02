@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001469/80879",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "stefan-mertenskoetter",
+"akte_sichtbar": false
 },
 {
 "name": "Cornelia Trentzsch",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001469/80879",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "cornelia-trentzsch",
+"akte_sichtbar": false
 },
 {
 "name": "Tina Wünschmann",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001469/80879",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "tina-wuenschmann",
+"akte_sichtbar": false
 },
 {
 "name": "Clivia Bahrke",
@@ -82,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001469/80879",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "clivia-bahrke",
+"akte_sichtbar": false
 },
 {
 "name": "Jens Ola",
@@ -93,7 +101,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001469/80879",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "jens-ola",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -137,5 +147,6 @@
 "etikett": "Eigenangabe",
 "version": 9
 }
-]
+],
+"parteispenden": []
 }

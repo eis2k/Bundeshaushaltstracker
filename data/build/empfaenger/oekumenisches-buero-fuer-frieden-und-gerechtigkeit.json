@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004216/82386",
 "stand": "2026-10-09"
-}
+},
+"akte_id": "daniel-tapia-montejo",
+"akte_sichtbar": false
 },
 {
 "name": "Andrea Bertele",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004216/82386",
 "stand": "2026-10-09"
-}
+},
+"akte_id": "andrea-bertele",
+"akte_sichtbar": false
 },
 {
 "name": "Patricia Rendón Galván",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004216/82386",
 "stand": "2026-10-09"
-}
+},
+"akte_id": "patricia-rend-n-galv-n",
+"akte_sichtbar": false
 },
 {
 "name": "Andrea Lammers",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004216/82386",
 "stand": "2026-10-09"
-}
+},
+"akte_id": "andrea-lammers",
+"akte_sichtbar": false
 },
 {
 "name": "Alice Wiesholler",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004216/82386",
 "stand": "2026-10-09"
-}
+},
+"akte_id": "alice-wiesholler",
+"akte_sichtbar": false
 },
 {
 "name": "Antonia Rodríguez Sánchez",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004216/82386",
 "stand": "2026-10-09"
-}
+},
+"akte_id": "antonia-rodr-guez-s-nchez",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -137,5 +149,6 @@
 "etikett": "Eigenangabe",
 "version": 7
 }
-]
+],
+"parteispenden": []
 }

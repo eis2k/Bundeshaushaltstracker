@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000104/87019",
 "stand": "2026-10-05"
-}
+},
+"akte_id": "simone-knapp",
+"akte_sichtbar": false
 },
 {
 "name": "Barbara Riek",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000104/87019",
 "stand": "2026-10-05"
-}
+},
+"akte_id": "barbara-riek",
+"akte_sichtbar": false
 },
 {
 "name": "Lothar Elsner",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000104/87019",
 "stand": "2026-10-05"
-}
+},
+"akte_id": "lothar-elsner",
+"akte_sichtbar": false
 },
 {
 "name": "Maximilian Heßlein",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000104/87019",
 "stand": "2026-10-05"
-}
+},
+"akte_id": "maximilian-hesslein",
+"akte_sichtbar": false
 },
 {
 "name": "Boniface Mabanza Bambu",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000104/87019",
 "stand": "2026-10-05"
-}
+},
+"akte_id": "boniface-mabanza-bambu",
+"akte_sichtbar": false
 },
 {
 "name": "Felix Roll",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000104/87019",
 "stand": "2026-10-05"
-}
+},
+"akte_id": "felix-roll",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -139,5 +151,6 @@
 "etikett": "Eigenangabe",
 "version": 7
 }
-]
+],
+"parteispenden": []
 }

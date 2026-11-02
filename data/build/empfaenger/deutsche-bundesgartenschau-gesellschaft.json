@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006593/63181",
 "stand": "2025-08-01"
-}
+},
+"akte_id": "achim-schloemer",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -81,5 +83,6 @@
 "etikett": "Eigenangabe",
 "version": 2
 }
-]
+],
+"parteispenden": []
 }

@@ -57,7 +57,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002129/85300",
 "stand": "2026-09-01"
-}
+},
+"akte_id": "caroline-kent",
+"akte_sichtbar": false
 },
 {
 "name": "Miriam Niehaus",
@@ -68,7 +70,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002129/85300",
 "stand": "2026-09-01"
-}
+},
+"akte_id": "miriam-niehaus",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -111,5 +115,6 @@
 "etikett": "Eigenangabe",
 "version": 9
 }
-]
+],
+"parteispenden": []
 }

@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000256/60015",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "joachim-zimmermann",
+"akte_sichtbar": false
 },
 {
 "name": "Jens Hohls",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000256/60015",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "jens-hohls",
+"akte_sichtbar": false
 },
 {
 "name": "Carsten Strähle",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000256/60015",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "carsten-straehle-lr-r000256",
+"akte_sichtbar": false
 },
 {
 "name": "Bettina Brennenstuhl",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000256/60015",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "bettina-brennenstuhl",
+"akte_sichtbar": false
 },
 {
 "name": "Uwe Köhn",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000256/60015",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "uwe-koehn",
+"akte_sichtbar": false
 },
 {
 "name": "Marcel Lohbeck",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000256/60015",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "marcel-lohbeck",
+"akte_sichtbar": false
 },
 {
 "name": "Magnus Bünning",
@@ -113,7 +125,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000256/60015",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "magnus-buenning",
+"akte_sichtbar": true
 },
 {
 "name": "Theresa Klein",
@@ -124,7 +138,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000256/60015",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "theresa-klein",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [
@@ -188,5 +204,6 @@
 "etikett": "Eigenangabe",
 "version": 12
 }
-]
+],
+"parteispenden": []
 }

@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004710/72357",
 "stand": "2026-03-25"
-}
+},
+"akte_id": "ulrike-petzold",
+"akte_sichtbar": false
 },
 {
 "name": "Erich Steinsdörfer",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004710/72357",
 "stand": "2026-03-25"
-}
+},
+"akte_id": "erich-steinsdoerfer",
+"akte_sichtbar": false
 },
 {
 "name": "Frank  Druffner",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004710/72357",
 "stand": "2026-03-25"
-}
+},
+"akte_id": "frank-druffner",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -106,5 +112,6 @@
 "etikett": "Eigenangabe",
 "version": 9
 }
-]
+],
+"parteispenden": []
 }

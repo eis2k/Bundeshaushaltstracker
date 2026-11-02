@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007438/79473",
 "stand": "2026-06-17"
-}
+},
+"akte_id": "reiner-thomas-sojka",
+"akte_sichtbar": false
 },
 {
 "name": "Simon Bremer",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007438/79473",
 "stand": "2026-06-17"
-}
+},
+"akte_id": "simon-bremer",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -101,5 +105,6 @@
 "etikett": "Eigenangabe",
 "version": 4
 }
-]
+],
+"parteispenden": []
 }

@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005444/78961",
 "stand": "2026-06-12"
-}
+},
+"akte_id": "andrea-bastian",
+"akte_sichtbar": false
 },
 {
 "name": "Lazarus Tomdio",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005444/78961",
 "stand": "2026-06-12"
-}
+},
+"akte_id": "lazarus-tomdio",
+"akte_sichtbar": false
 },
 {
 "name": "Hassan  Humeida",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005444/78961",
 "stand": "2026-06-12"
-}
+},
+"akte_id": "hassan-humeida",
+"akte_sichtbar": false
 },
 {
 "name": "Martina Kriwy",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005444/78961",
 "stand": "2026-06-12"
-}
+},
+"akte_id": "martina-kriwy",
+"akte_sichtbar": false
 },
 {
 "name": "Corinna Lehmann",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005444/78961",
 "stand": "2026-06-12"
-}
+},
+"akte_id": "corinna-lehmann",
+"akte_sichtbar": false
 },
 {
 "name": "Robin Hetfeld",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005444/78961",
 "stand": "2026-06-12"
-}
+},
+"akte_id": "robin-hetfeld",
+"akte_sichtbar": false
 },
 {
 "name": "Katrin Kolbe",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005444/78961",
 "stand": "2026-06-12"
-}
+},
+"akte_id": "katrin-kolbe",
+"akte_sichtbar": false
 },
 {
 "name": "Martin Weber",
@@ -118,7 +132,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005444/78961",
 "stand": "2026-06-12"
-}
+},
+"akte_id": "martin-weber",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -162,5 +178,6 @@
 "etikett": "Eigenangabe",
 "version": 9
 }
-]
+],
+"parteispenden": []
 }

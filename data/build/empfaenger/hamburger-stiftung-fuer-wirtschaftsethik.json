@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000705/81745",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "jesco-kreft",
+"akte_sichtbar": false
 },
 {
 "name": "Steinberg Christian",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000705/81745",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "steinberg-christian",
+"akte_sichtbar": false
 },
 {
 "name": "Christiane Hellar",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000705/81745",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "christiane-hellar",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -105,5 +111,6 @@
 "etikett": "Eigenangabe",
 "version": 11
 }
-]
+],
+"parteispenden": []
 }

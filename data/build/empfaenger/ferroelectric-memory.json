@@ -60,7 +60,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007479/84720",
 "stand": "2026-08-14"
-}
+},
+"akte_id": "thomas-rueckes",
+"akte_sichtbar": false
 },
 {
 "name": "Sabine Kolodinski",
@@ -71,7 +73,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007479/84720",
 "stand": "2026-08-14"
-}
+},
+"akte_id": "sabine-kolodinski",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -117,5 +121,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

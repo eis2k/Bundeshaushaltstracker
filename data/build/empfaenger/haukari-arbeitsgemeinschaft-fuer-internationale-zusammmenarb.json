@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003349/78703",
 "stand": "2026-06-10"
-}
+},
+"akte_id": "karin-dorsch",
+"akte_sichtbar": false
 },
 {
 "name": "Karin Mlodoch",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003349/78703",
 "stand": "2026-06-10"
-}
+},
+"akte_id": "karin-mlodoch",
+"akte_sichtbar": false
 },
 {
 "name": "Ernst Meyer",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003349/78703",
 "stand": "2026-06-10"
-}
+},
+"akte_id": "ernst-meyer",
+"akte_sichtbar": false
 },
 {
 "name": "Claudia Kipp-Cötok",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003349/78703",
 "stand": "2026-06-10"
-}
+},
+"akte_id": "claudia-kipp-coetok",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -116,5 +124,6 @@
 "etikett": "Eigenangabe",
 "version": 8
 }
-]
+],
+"parteispenden": []
 }

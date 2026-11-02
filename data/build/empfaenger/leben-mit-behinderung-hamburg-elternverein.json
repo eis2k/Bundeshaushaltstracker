@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003067/78920",
 "stand": "2026-06-22"
-}
+},
+"akte_id": "kerrin-stumpf",
+"akte_sichtbar": false
 },
 {
 "name": "Stefanie Könnecke",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003067/78920",
 "stand": "2026-06-22"
-}
+},
+"akte_id": "stefanie-koennecke",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -96,5 +100,6 @@
 "etikett": "Eigenangabe",
 "version": 8
 }
-]
+],
+"parteispenden": []
 }

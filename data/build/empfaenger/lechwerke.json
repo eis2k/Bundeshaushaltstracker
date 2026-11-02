@@ -65,7 +65,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001755/80445",
 "stand": "2026-06-26"
-}
+},
+"akte_id": "dietrich-gemmel",
+"akte_sichtbar": false
 },
 {
 "name": "Malte Sunderkötter",
@@ -76,7 +78,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001755/80445",
 "stand": "2026-06-26"
-}
+},
+"akte_id": "malte-sunderkoetter",
+"akte_sichtbar": false
 },
 {
 "name": "Simone Bockaj",
@@ -87,7 +91,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001755/80445",
 "stand": "2026-06-26"
-}
+},
+"akte_id": "simone-bockaj",
+"akte_sichtbar": false
 },
 {
 "name": "Stefan Tölzer",
@@ -98,7 +104,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001755/80445",
 "stand": "2026-06-26"
-}
+},
+"akte_id": "stefan-toelzer",
+"akte_sichtbar": false
 },
 {
 "name": "Pia Nitsche",
@@ -109,7 +117,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001755/80445",
 "stand": "2026-06-26"
-}
+},
+"akte_id": "pia-nitsche",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -150,5 +160,6 @@
 "etikett": "Eigenangabe",
 "version": 11
 }
-]
+],
+"parteispenden": []
 }

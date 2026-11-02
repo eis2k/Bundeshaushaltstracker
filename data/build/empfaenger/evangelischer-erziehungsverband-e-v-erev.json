@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006707/77808",
 "stand": "2026-06-04"
-}
+},
+"akte_id": "bjoern-hagen",
+"akte_sichtbar": false
 },
 {
 "name": "Carola Sari Hahne",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006707/77808",
 "stand": "2026-06-04"
-}
+},
+"akte_id": "carola-sari-hahne",
+"akte_sichtbar": false
 },
 {
 "name": "Carola Sari Hahne",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006707/77808",
 "stand": "2026-06-04"
-}
+},
+"akte_id": "carola-sari-hahne",
+"akte_sichtbar": false
 },
 {
 "name": "Tanja Buck",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006707/77808",
 "stand": "2026-06-04"
-}
+},
+"akte_id": "tanja-buck",
+"akte_sichtbar": false
 },
 {
 "name": "Frank Dieckbreder",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006707/77808",
 "stand": "2026-06-04"
-}
+},
+"akte_id": "frank-dieckbreder",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -128,5 +138,6 @@
 "etikett": "Eigenangabe",
 "version": 4
 }
-]
+],
+"parteispenden": []
 }

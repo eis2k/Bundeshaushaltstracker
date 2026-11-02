@@ -766,7 +766,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003887/85017",
 "stand": "2026-08-24"
-}
+},
+"akte_id": "theresia-elisabeth-gerndt",
+"akte_sichtbar": false
 },
 {
 "name": "Oliver Zielinski",
@@ -777,7 +779,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003887/85017",
 "stand": "2026-08-24"
-}
+},
+"akte_id": "oliver-zielinski",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -824,5 +828,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

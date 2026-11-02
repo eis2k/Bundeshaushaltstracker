@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003889/79596",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "tobias-schmidt",
+"akte_sichtbar": false
 },
 {
 "name": "Samuel Breisacher",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003889/79596",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "samuel-breisacher-lr-r003889",
+"akte_sichtbar": false
 },
 {
 "name": "Martin Bodin",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003889/79596",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "martin-bodin",
+"akte_sichtbar": false
 },
 {
 "name": "Stefan Kerk",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003889/79596",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "stefan-kerk",
+"akte_sichtbar": false
 },
 {
 "name": "Stefanie Niemeyer",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003889/79596",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "stefanie-niemeyer",
+"akte_sichtbar": false
 },
 {
 "name": "Frank Baumgartner",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003889/79596",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "frank-baumgartner",
+"akte_sichtbar": false
 },
 {
 "name": "Janina Bessenich",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003889/79596",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "janina-bessenich",
+"akte_sichtbar": false
 },
 {
 "name": "Wolfgang Heizer",
@@ -118,7 +132,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003889/79596",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "wolfgang-heizer",
+"akte_sichtbar": false
 },
 {
 "name": "Heike Hahn",
@@ -129,7 +145,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003889/79596",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "heike-hahn",
+"akte_sichtbar": false
 },
 {
 "name": "Tina Mäueler-Görke",
@@ -140,7 +158,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003889/79596",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "tina-maeueler-goerke",
+"akte_sichtbar": false
 },
 {
 "name": "Martin Holler",
@@ -151,7 +171,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003889/79596",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "martin-holler",
+"akte_sichtbar": false
 },
 {
 "name": "Roman Hanle",
@@ -162,7 +184,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003889/79596",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "roman-hanle",
+"akte_sichtbar": false
 },
 {
 "name": "Tanja Ergin",
@@ -173,7 +197,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003889/79596",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "tanja-ergin",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -214,5 +240,6 @@
 "etikett": "Eigenangabe",
 "version": 7
 }
-]
+],
+"parteispenden": []
 }

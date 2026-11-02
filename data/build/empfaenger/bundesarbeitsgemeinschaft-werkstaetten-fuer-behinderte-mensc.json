@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001425/78095",
 "stand": "2026-06-04"
-}
+},
+"akte_id": "andrea-stratmann",
+"akte_sichtbar": false
 },
 {
 "name": "Oliver Gosolits",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001425/78095",
 "stand": "2026-06-04"
-}
+},
+"akte_id": "oliver-gosolits",
+"akte_sichtbar": false
 },
 {
 "name": "Michael Weber",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001425/78095",
 "stand": "2026-06-04"
-}
+},
+"akte_id": "michael-weber",
+"akte_sichtbar": false
 },
 {
 "name": "Christiane Eck-Meißner",
@@ -82,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001425/78095",
 "stand": "2026-06-04"
-}
+},
+"akte_id": "christiane-eck-meissner",
+"akte_sichtbar": false
 },
 {
 "name": "Christian Dreiss",
@@ -93,7 +101,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001425/78095",
 "stand": "2026-06-04"
-}
+},
+"akte_id": "christian-dreiss",
+"akte_sichtbar": false
 },
 {
 "name": "Konstantin Fischer",
@@ -104,7 +114,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001425/78095",
 "stand": "2026-06-04"
-}
+},
+"akte_id": "konstantin-fischer",
+"akte_sichtbar": false
 },
 {
 "name": "Jana Niehaus",
@@ -115,7 +127,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001425/78095",
 "stand": "2026-06-04"
-}
+},
+"akte_id": "jana-niehaus",
+"akte_sichtbar": false
 },
 {
 "name": "Kerstin Adolf-Wright",
@@ -126,7 +140,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001425/78095",
 "stand": "2026-06-04"
-}
+},
+"akte_id": "kerstin-adolf-wright",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -167,5 +183,6 @@
 "etikett": "Eigenangabe",
 "version": 21
 }
-]
+],
+"parteispenden": []
 }

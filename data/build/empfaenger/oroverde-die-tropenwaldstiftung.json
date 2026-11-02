@@ -148,7 +148,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002823/75974",
 "stand": "2026-05-20"
-}
+},
+"akte_id": "martina-schaub",
+"akte_sichtbar": false
 },
 {
 "name": "Hugo Rosa da Conceição",
@@ -159,7 +161,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002823/75974",
 "stand": "2026-05-20"
-}
+},
+"akte_id": "hugo-rosa-da-concei-o",
+"akte_sichtbar": false
 },
 {
 "name": "Nathalie Schynawa",
@@ -170,7 +174,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002823/75974",
 "stand": "2026-05-20"
-}
+},
+"akte_id": "nathalie-schynawa",
+"akte_sichtbar": false
 },
 {
 "name": "Christian Cray",
@@ -181,7 +187,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002823/75974",
 "stand": "2026-05-20"
-}
+},
+"akte_id": "christian-cray",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -228,5 +236,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005470/77887",
 "stand": "2026-07-15"
-}
+},
+"akte_id": "helmut-metzner",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [
@@ -427,5 +429,6 @@
 "abgerufen": "2026-11-01",
 "etikett": "Eigenangabe"
 }
-]
+],
+"parteispenden": []
 }

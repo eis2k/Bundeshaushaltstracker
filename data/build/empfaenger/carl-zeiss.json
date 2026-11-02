@@ -82,7 +82,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005660/75235",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "sven-hermann",
+"akte_sichtbar": false
 },
 {
 "name": "Andreas Pecher",
@@ -93,7 +95,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005660/75235",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "andreas-pecher",
+"akte_sichtbar": false
 },
 {
 "name": "Stefan Müller",
@@ -104,7 +108,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005660/75235",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "stefan-mueller-lr-r005660",
+"akte_sichtbar": false
 },
 {
 "name": "Frank Rohmund",
@@ -115,7 +121,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005660/75235",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "frank-rohmund",
+"akte_sichtbar": false
 },
 {
 "name": "Marc Wawerla",
@@ -126,7 +134,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005660/75235",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "marc-wawerla",
+"akte_sichtbar": false
 },
 {
 "name": "Fabian Bahr",
@@ -137,7 +147,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005660/75235",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "fabian-bahr",
+"akte_sichtbar": false
 },
 {
 "name": "Mareike Dillmann-Schmidt",
@@ -148,7 +160,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005660/75235",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "mareike-dillmann-schmidt",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -194,5 +208,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

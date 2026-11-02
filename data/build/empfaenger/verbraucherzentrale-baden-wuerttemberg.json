@@ -57,7 +57,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005787/83871",
 "stand": "2026-07-28"
-}
+},
+"akte_id": "cornelia-tausch",
+"akte_sichtbar": false
 },
 {
 "name": "Gabriele Bernhardt",
@@ -68,7 +70,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005787/83871",
 "stand": "2026-07-28"
-}
+},
+"akte_id": "gabriele-bernhardt",
+"akte_sichtbar": false
 },
 {
 "name": "Eckhardt Benner",
@@ -79,7 +83,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005787/83871",
 "stand": "2026-07-28"
-}
+},
+"akte_id": "eckhardt-benner",
+"akte_sichtbar": false
 },
 {
 "name": "Niels Nauhauser",
@@ -90,7 +96,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005787/83871",
 "stand": "2026-07-28"
-}
+},
+"akte_id": "niels-nauhauser",
+"akte_sichtbar": false
 },
 {
 "name": "Oliver Buttler",
@@ -101,7 +109,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005787/83871",
 "stand": "2026-07-28"
-}
+},
+"akte_id": "oliver-buttler",
+"akte_sichtbar": false
 },
 {
 "name": "Matthias Bauer",
@@ -112,7 +122,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005787/83871",
 "stand": "2026-07-28"
-}
+},
+"akte_id": "matthias-bauer",
+"akte_sichtbar": false
 },
 {
 "name": "Peter Grieble",
@@ -123,7 +135,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005787/83871",
 "stand": "2026-07-28"
-}
+},
+"akte_id": "peter-grieble",
+"akte_sichtbar": false
 },
 {
 "name": "Heike Silber",
@@ -134,7 +148,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005787/83871",
 "stand": "2026-07-28"
-}
+},
+"akte_id": "heike-silber",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -176,5 +192,6 @@
 "etikett": "Eigenangabe",
 "version": 7
 }
-]
+],
+"parteispenden": []
 }

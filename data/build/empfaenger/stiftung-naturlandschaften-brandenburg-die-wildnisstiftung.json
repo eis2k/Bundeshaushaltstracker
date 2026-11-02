@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002545/84323",
 "stand": "2026-08-06"
-}
+},
+"akte_id": "andreas-meissner",
+"akte_sichtbar": false
 },
 {
 "name": "Antje Wurz",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002545/84323",
 "stand": "2026-08-06"
-}
+},
+"akte_id": "antje-wurz",
+"akte_sichtbar": false
 },
 {
 "name": "Christoph Molkenbur",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002545/84323",
 "stand": "2026-08-06"
-}
+},
+"akte_id": "christoph-molkenbur",
+"akte_sichtbar": false
 },
 {
 "name": "Christof  Schenck",
@@ -82,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002545/84323",
 "stand": "2026-08-06"
-}
+},
+"akte_id": "christof-schenck",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -124,5 +132,6 @@
 "etikett": "Eigenangabe",
 "version": 13
 }
-]
+],
+"parteispenden": []
 }

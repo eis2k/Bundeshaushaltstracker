@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003729/64716",
 "stand": "2025-09-02"
-}
+},
+"akte_id": "chiara-martinelli",
+"akte_sichtbar": false
 },
 {
 "name": "Tijana  Ljubenovic",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003729/64716",
 "stand": "2025-09-02"
-}
+},
+"akte_id": "tijana-ljubenovic",
+"akte_sichtbar": false
 },
 {
 "name": "Jérémie Fosse",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003729/64716",
 "stand": "2025-09-02"
-}
+},
+"akte_id": "j-r-mie-fosse",
+"akte_sichtbar": false
 },
 {
 "name": "Ester Asin",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003729/64716",
 "stand": "2025-09-02"
-}
+},
+"akte_id": "ester-asin",
+"akte_sichtbar": false
 },
 {
 "name": "Marita Hutjes",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003729/64716",
 "stand": "2025-09-02"
-}
+},
+"akte_id": "marita-hutjes",
+"akte_sichtbar": false
 },
 {
 "name": "Barbora Urbanová",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003729/64716",
 "stand": "2025-09-02"
-}
+},
+"akte_id": "barbora-urbanov",
+"akte_sichtbar": false
 },
 {
 "name": "Colin Roche",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003729/64716",
 "stand": "2025-09-02"
-}
+},
+"akte_id": "colin-roche",
+"akte_sichtbar": false
 },
 {
 "name": "Cornelia Maarfield",
@@ -118,7 +132,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003729/64716",
 "stand": "2025-09-02"
-}
+},
+"akte_id": "cornelia-maarfield",
+"akte_sichtbar": false
 },
 {
 "name": "Rachel Simon",
@@ -129,7 +145,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003729/64716",
 "stand": "2025-09-02"
-}
+},
+"akte_id": "rachel-simon",
+"akte_sichtbar": false
 },
 {
 "name": "Verena Bax",
@@ -140,7 +158,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003729/64716",
 "stand": "2025-09-02"
-}
+},
+"akte_id": "verena-bax",
+"akte_sichtbar": false
 },
 {
 "name": "Ulriikka Aarnio",
@@ -151,7 +171,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003729/64716",
 "stand": "2025-09-02"
-}
+},
+"akte_id": "ulriikka-aarnio",
+"akte_sichtbar": false
 },
 {
 "name": "Esther Bollendorff",
@@ -162,7 +184,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003729/64716",
 "stand": "2025-09-02"
-}
+},
+"akte_id": "esther-bollendorff",
+"akte_sichtbar": false
 },
 {
 "name": "Fabian Huebner",
@@ -173,7 +197,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003729/64716",
 "stand": "2025-09-02"
-}
+},
+"akte_id": "fabian-huebner",
+"akte_sichtbar": false
 },
 {
 "name": "Sven Harmeling",
@@ -184,7 +210,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003729/64716",
 "stand": "2025-09-02"
-}
+},
+"akte_id": "sven-harmeling",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -226,5 +254,6 @@
 "etikett": "Eigenangabe",
 "version": 8
 }
-]
+],
+"parteispenden": []
 }

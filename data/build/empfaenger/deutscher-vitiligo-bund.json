@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006435/80434",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "georg-pliszewski",
+"akte_sichtbar": false
 },
 {
 "name": "Klaus Ferber",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006435/80434",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "klaus-ferber",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -102,5 +106,6 @@
 "etikett": "Eigenangabe",
 "version": 6
 }
-]
+],
+"parteispenden": []
 }

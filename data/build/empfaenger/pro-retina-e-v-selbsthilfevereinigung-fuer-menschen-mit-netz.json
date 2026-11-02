@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001384/83514",
 "stand": "2026-10-12"
-}
+},
+"akte_id": "stefan-kuester",
+"akte_sichtbar": false
 },
 {
 "name": "Jörg-Michael Sachse-Schueler",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001384/83514",
 "stand": "2026-10-12"
-}
+},
+"akte_id": "joerg-michael-sachse-schueler",
+"akte_sichtbar": false
 },
 {
 "name": "Zehra Wellmann-Sam",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001384/83514",
 "stand": "2026-10-12"
-}
+},
+"akte_id": "zehra-wellmann-sam",
+"akte_sichtbar": false
 },
 {
 "name": "Hakan Cetinyilmaz",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001384/83514",
 "stand": "2026-10-12"
-}
+},
+"akte_id": "hakan-cetinyilmaz",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -116,5 +124,6 @@
 "etikett": "Eigenangabe",
 "version": 10
 }
-]
+],
+"parteispenden": []
 }

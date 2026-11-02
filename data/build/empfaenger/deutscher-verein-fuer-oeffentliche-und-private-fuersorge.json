@@ -57,7 +57,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001291/86389",
 "stand": "2026-09-24"
-}
+},
+"akte_id": "verena-staats",
+"akte_sichtbar": false
 },
 {
 "name": "Wiebke Bartels",
@@ -68,7 +70,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001291/86389",
 "stand": "2026-09-24"
-}
+},
+"akte_id": "wiebke-bartels",
+"akte_sichtbar": false
 },
 {
 "name": "Andreas Krampe",
@@ -79,7 +83,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001291/86389",
 "stand": "2026-09-24"
-}
+},
+"akte_id": "andreas-krampe",
+"akte_sichtbar": false
 },
 {
 "name": "Anna Richter",
@@ -90,7 +96,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001291/86389",
 "stand": "2026-09-24"
-}
+},
+"akte_id": "anna-richter",
+"akte_sichtbar": false
 },
 {
 "name": "Romy Ahner",
@@ -101,7 +109,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001291/86389",
 "stand": "2026-09-24"
-}
+},
+"akte_id": "romy-ahner",
+"akte_sichtbar": false
 },
 {
 "name": "Maria-Theresia Münch",
@@ -112,7 +122,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001291/86389",
 "stand": "2026-09-24"
-}
+},
+"akte_id": "maria-theresia-muench",
+"akte_sichtbar": false
 },
 {
 "name": "Antje Asmus",
@@ -123,7 +135,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001291/86389",
 "stand": "2026-09-24"
-}
+},
+"akte_id": "antje-asmus",
+"akte_sichtbar": false
 },
 {
 "name": "Irme Stetter-Karp",
@@ -134,7 +148,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001291/86389",
 "stand": "2026-09-24"
-}
+},
+"akte_id": "irme-stetter-karp",
+"akte_sichtbar": false
 },
 {
 "name": "Nora Schmidt",
@@ -145,7 +161,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001291/86389",
 "stand": "2026-09-24"
-}
+},
+"akte_id": "nora-schmidt",
+"akte_sichtbar": false
 },
 {
 "name": "Marie Wilpers",
@@ -156,7 +174,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001291/86389",
 "stand": "2026-09-24"
-}
+},
+"akte_id": "marie-wilpers",
+"akte_sichtbar": false
 },
 {
 "name": "Marc Bauer",
@@ -167,7 +187,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001291/86389",
 "stand": "2026-09-24"
-}
+},
+"akte_id": "marc-bauer",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [
@@ -327,5 +349,6 @@
 "abgerufen": "2026-11-01",
 "etikett": "Eigenangabe"
 }
-]
+],
+"parteispenden": []
 }

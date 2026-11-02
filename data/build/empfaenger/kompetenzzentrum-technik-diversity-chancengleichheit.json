@@ -136,7 +136,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004331/78650",
 "stand": "2026-06-23"
-}
+},
+"akte_id": "barbara-schwarze",
+"akte_sichtbar": false
 },
 {
 "name": "Nicola Marsden",
@@ -147,7 +149,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004331/78650",
 "stand": "2026-06-23"
-}
+},
+"akte_id": "nicola-marsden",
+"akte_sichtbar": false
 },
 {
 "name": "Frank Berner",
@@ -158,7 +162,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004331/78650",
 "stand": "2026-06-23"
-}
+},
+"akte_id": "frank-berner",
+"akte_sichtbar": false
 },
 {
 "name": "Haubenreißer Silke",
@@ -169,7 +175,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004331/78650",
 "stand": "2026-06-23"
-}
+},
+"akte_id": "haubenreisser-silke",
+"akte_sichtbar": false
 },
 {
 "name": "Sabine Mellies",
@@ -180,7 +188,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004331/78650",
 "stand": "2026-06-23"
-}
+},
+"akte_id": "sabine-mellies",
+"akte_sichtbar": false
 },
 {
 "name": "Romy Stühmeier",
@@ -191,7 +201,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004331/78650",
 "stand": "2026-06-23"
-}
+},
+"akte_id": "romy-stuehmeier",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -239,5 +251,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

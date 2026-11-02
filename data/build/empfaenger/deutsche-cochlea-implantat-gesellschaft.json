@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000307/71842",
 "stand": "2026-06-03"
-}
+},
+"akte_id": "roland-zeh",
+"akte_sichtbar": false
 },
 {
 "name": "Sonja Ohligmacher",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000307/71842",
 "stand": "2026-06-03"
-}
+},
+"akte_id": "sonja-ohligmacher",
+"akte_sichtbar": false
 },
 {
 "name": "Oliver Hupka",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000307/71842",
 "stand": "2026-06-03"
-}
+},
+"akte_id": "oliver-hupka",
+"akte_sichtbar": false
 },
 {
 "name": "Matthias Schulz",
@@ -82,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000307/71842",
 "stand": "2026-06-03"
-}
+},
+"akte_id": "matthias-schulz-lr-r000307",
+"akte_sichtbar": false
 },
 {
 "name": "Ulrike Berger",
@@ -93,7 +101,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000307/71842",
 "stand": "2026-06-03"
-}
+},
+"akte_id": "ulrike-berger",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -135,5 +145,6 @@
 "etikett": "Eigenangabe",
 "version": 7
 }
-]
+],
+"parteispenden": []
 }

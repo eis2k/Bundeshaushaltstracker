@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007218/80179",
 "stand": "2026-06-23"
-}
+},
+"akte_id": "janez-sodrznik",
+"akte_sichtbar": false
 },
 {
 "name": "Jean-Francois Laurent",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007218/80179",
 "stand": "2026-06-23"
-}
+},
+"akte_id": "jean-francois-laurent",
+"akte_sichtbar": false
 },
 {
 "name": "Keith George",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007218/80179",
 "stand": "2026-06-23"
-}
+},
+"akte_id": "keith-george",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -107,5 +113,6 @@
 "etikett": "Eigenangabe",
 "version": 4
 }
-]
+],
+"parteispenden": []
 }

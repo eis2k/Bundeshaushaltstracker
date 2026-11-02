@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001499/83611",
 "stand": "2026-07-23"
-}
+},
+"akte_id": "thomas-reiche",
+"akte_sichtbar": false
 },
 {
 "name": "Hubert Helge Mees",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001499/83611",
 "stand": "2026-07-23"
-}
+},
+"akte_id": "hubert-helge-mees",
+"akte_sichtbar": false
 },
 {
 "name": "Marc-Oliver Arnold",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001499/83611",
 "stand": "2026-07-23"
-}
+},
+"akte_id": "marc-oliver-arnold-lr-r001499",
+"akte_sichtbar": false
 },
 {
 "name": "Robert Liebisch",
@@ -82,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001499/83611",
 "stand": "2026-07-23"
-}
+},
+"akte_id": "robert-liebisch",
+"akte_sichtbar": false
 },
 {
 "name": "Anna Sokol",
@@ -93,7 +101,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001499/83611",
 "stand": "2026-07-23"
-}
+},
+"akte_id": "anna-sokol",
+"akte_sichtbar": false
 },
 {
 "name": "Thomas Merkel",
@@ -104,7 +114,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001499/83611",
 "stand": "2026-07-23"
-}
+},
+"akte_id": "thomas-merkel",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -146,5 +158,6 @@
 "etikett": "Eigenangabe",
 "version": 5
 }
-]
+],
+"parteispenden": []
 }

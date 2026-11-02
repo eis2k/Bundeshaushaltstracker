@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002586/88117",
 "stand": "2026-10-28"
-}
+},
+"akte_id": "sebastian-fischer",
+"akte_sichtbar": false
 },
 {
 "name": "Ursula Helms",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002586/88117",
 "stand": "2026-10-28"
-}
+},
+"akte_id": "ursula-helms",
+"akte_sichtbar": false
 },
 {
 "name": "Sigrun Fuchs",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002586/88117",
 "stand": "2026-10-28"
-}
+},
+"akte_id": "sigrun-fuchs",
+"akte_sichtbar": false
 },
 {
 "name": "Nicole Knudsen",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002586/88117",
 "stand": "2026-10-28"
-}
+},
+"akte_id": "nicole-knudsen",
+"akte_sichtbar": false
 },
 {
 "name": "Heinrich Stockschlaeder",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002586/88117",
 "stand": "2026-10-28"
-}
+},
+"akte_id": "heinrich-stockschlaeder",
+"akte_sichtbar": false
 },
 {
 "name": "Horst Michaelis",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002586/88117",
 "stand": "2026-10-28"
-}
+},
+"akte_id": "horst-michaelis",
+"akte_sichtbar": false
 },
 {
 "name": "Lisa Thelen",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002586/88117",
 "stand": "2026-10-28"
-}
+},
+"akte_id": "lisa-thelen",
+"akte_sichtbar": false
 },
 {
 "name": "Nicola Gansert",
@@ -118,7 +132,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002586/88117",
 "stand": "2026-10-28"
-}
+},
+"akte_id": "nicola-gansert",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -161,5 +177,6 @@
 "etikett": "Eigenangabe",
 "version": 20
 }
-]
+],
+"parteispenden": []
 }

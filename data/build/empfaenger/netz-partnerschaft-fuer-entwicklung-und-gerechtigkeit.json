@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002551/85385",
 "stand": "2026-09-18"
-}
+},
+"akte_id": "quellmalz-kathrin",
+"akte_sichtbar": false
 },
 {
 "name": "Bernhard Höper",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002551/85385",
 "stand": "2026-09-18"
-}
+},
+"akte_id": "bernhard-hoeper-lr-r002551",
+"akte_sichtbar": false
 },
 {
 "name": "Max Stille",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002551/85385",
 "stand": "2026-09-18"
-}
+},
+"akte_id": "max-stille",
+"akte_sichtbar": false
 },
 {
 "name": "Niko Richter",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002551/85385",
 "stand": "2026-09-18"
-}
+},
+"akte_id": "niko-richter",
+"akte_sichtbar": false
 },
 {
 "name": "Dirk Saam",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002551/85385",
 "stand": "2026-09-18"
-}
+},
+"akte_id": "dirk-saam",
+"akte_sichtbar": false
 },
 {
 "name": "Melanie Glinicke",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002551/85385",
 "stand": "2026-09-18"
-}
+},
+"akte_id": "melanie-glinicke",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -138,5 +150,6 @@
 "etikett": "Eigenangabe",
 "version": 8
 }
-]
+],
+"parteispenden": []
 }

@@ -104,7 +104,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006169/84632",
 "stand": "2026-08-12"
-}
+},
+"akte_id": "carsten-franzke",
+"akte_sichtbar": false
 },
 {
 "name": "Torsten Klett",
@@ -115,7 +117,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006169/84632",
 "stand": "2026-08-12"
-}
+},
+"akte_id": "torsten-klett",
+"akte_sichtbar": false
 },
 {
 "name": "Antje Bittner",
@@ -126,7 +130,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006169/84632",
 "stand": "2026-08-12"
-}
+},
+"akte_id": "antje-bittner",
+"akte_sichtbar": false
 },
 {
 "name": "Christopher Profitlich",
@@ -137,7 +143,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006169/84632",
 "stand": "2026-08-12"
-}
+},
+"akte_id": "christopher-profitlich",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -183,5 +191,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004706/80723",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "lukas-welz-lr-r004706",
+"akte_sichtbar": false
 },
 {
 "name": "Rouven Sperling",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004706/80723",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "rouven-sperling",
+"akte_sichtbar": false
 },
 {
 "name": "Margitta Steinbach",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004706/80723",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "margitta-steinbach",
+"akte_sichtbar": false
 },
 {
 "name": "Juliane Solf",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004706/80723",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "juliane-solf",
+"akte_sichtbar": false
 },
 {
 "name": "André Hache",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004706/80723",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "andr-hache",
+"akte_sichtbar": false
 },
 {
 "name": "Myrthe Rosenbaum",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004706/80723",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "myrthe-rosenbaum",
+"akte_sichtbar": false
 },
 {
 "name": "Kira Mertmann",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004706/80723",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "kira-mertmann",
+"akte_sichtbar": false
 },
 {
 "name": "Daniel Baranowski",
@@ -118,7 +132,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004706/80723",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "daniel-baranowski",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -159,5 +175,6 @@
 "etikett": "Eigenangabe",
 "version": 5
 }
-]
+],
+"parteispenden": []
 }

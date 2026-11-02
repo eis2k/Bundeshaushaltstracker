@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005377/72231",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "rolf-albus",
+"akte_sichtbar": false
 },
 {
 "name": "Christoph Wieland",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005377/72231",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "christoph-wieland",
+"akte_sichtbar": false
 },
 {
 "name": "Alexandra Botor",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005377/72231",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "alexandra-botor",
+"akte_sichtbar": false
 },
 {
 "name": "Manfred Lange",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005377/72231",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "manfred-lange",
+"akte_sichtbar": false
 },
 {
 "name": "Margit Thomeczek",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005377/72231",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "margit-thomeczek",
+"akte_sichtbar": false
 },
 {
 "name": "Anne Giese",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005377/72231",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "anne-giese",
+"akte_sichtbar": false
 },
 {
 "name": "Nils Brücken",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005377/72231",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "nils-bruecken",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -148,5 +162,6 @@
 "etikett": "Eigenangabe",
 "version": 9
 }
-]
+],
+"parteispenden": []
 }

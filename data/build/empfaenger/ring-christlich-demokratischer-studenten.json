@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002342/70344",
 "stand": "2026-01-05"
-}
+},
+"akte_id": "lukas-honemann",
+"akte_sichtbar": false
 },
 {
 "name": "David Sperling",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002342/70344",
 "stand": "2026-01-05"
-}
+},
+"akte_id": "david-sperling",
+"akte_sichtbar": false
 },
 {
 "name": "Hendrik Jensen",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002342/70344",
 "stand": "2026-01-05"
-}
+},
+"akte_id": "hendrik-jensen",
+"akte_sichtbar": false
 },
 {
 "name": "Clemens Hutengs",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002342/70344",
 "stand": "2026-01-05"
-}
+},
+"akte_id": "clemens-hutengs",
+"akte_sichtbar": false
 },
 {
 "name": "Felix Thiesen",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002342/70344",
 "stand": "2026-01-05"
-}
+},
+"akte_id": "felix-thiesen",
+"akte_sichtbar": false
 },
 {
 "name": "Dennis Greiner",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002342/70344",
 "stand": "2026-01-05"
-}
+},
+"akte_id": "dennis-greiner",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -130,5 +142,6 @@
 "etikett": "Eigenangabe",
 "version": 9
 }
-]
+],
+"parteispenden": []
 }

@@ -112,7 +112,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006178/84818",
 "stand": "2026-08-18"
-}
+},
+"akte_id": "stefan-miltenyi",
+"akte_sichtbar": false
 },
 {
 "name": "Boris Stoffel",
@@ -123,7 +125,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006178/84818",
 "stand": "2026-08-18"
-}
+},
+"akte_id": "boris-stoffel",
+"akte_sichtbar": false
 },
 {
 "name": "Norbert Hentschel",
@@ -134,7 +138,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006178/84818",
 "stand": "2026-08-18"
-}
+},
+"akte_id": "norbert-hentschel",
+"akte_sichtbar": false
 },
 {
 "name": "Jürgen Schmitz",
@@ -145,7 +151,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006178/84818",
 "stand": "2026-08-18"
-}
+},
+"akte_id": "juergen-schmitz",
+"akte_sichtbar": false
 },
 {
 "name": "Antoon Overstijns",
@@ -156,7 +164,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006178/84818",
 "stand": "2026-08-18"
-}
+},
+"akte_id": "antoon-overstijns",
+"akte_sichtbar": false
 },
 {
 "name": "Michael  Kahnert",
@@ -167,7 +177,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006178/84818",
 "stand": "2026-08-18"
-}
+},
+"akte_id": "michael-kahnert",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -213,5 +225,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

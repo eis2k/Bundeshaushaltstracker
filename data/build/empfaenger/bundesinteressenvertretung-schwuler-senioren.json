@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000555/80983",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "andreas-kringe",
+"akte_sichtbar": false
 },
 {
 "name": "Bernd Kraft",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000555/80983",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "bernd-kraft",
+"akte_sichtbar": false
 },
 {
 "name": "Peter Struck",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000555/80983",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "peter-struck",
+"akte_sichtbar": false
 },
 {
 "name": "Wolfgang Schwarz-Heim",
@@ -82,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000555/80983",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "wolfgang-schwarz-heim",
+"akte_sichtbar": false
 },
 {
 "name": "Ralf Richter",
@@ -93,7 +101,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000555/80983",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "ralf-richter",
+"akte_sichtbar": false
 },
 {
 "name": "Jan Bockemühl",
@@ -104,7 +114,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000555/80983",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "jan-bockemuehl",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -146,5 +158,6 @@
 "etikett": "Eigenangabe",
 "version": 13
 }
-]
+],
+"parteispenden": []
 }

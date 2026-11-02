@@ -65,7 +65,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001604/85247",
 "stand": "2026-09-02"
-}
+},
+"akte_id": "peter-roehrig",
+"akte_sichtbar": false
 },
 {
 "name": "Tina Andres",
@@ -76,7 +78,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001604/85247",
 "stand": "2026-09-02"
-}
+},
+"akte_id": "tina-andres",
+"akte_sichtbar": false
 },
 {
 "name": "Matthias Sinn",
@@ -87,7 +91,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001604/85247",
 "stand": "2026-09-02"
-}
+},
+"akte_id": "matthias-sinn",
+"akte_sichtbar": false
 },
 {
 "name": "Thomas Lang",
@@ -98,7 +104,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001604/85247",
 "stand": "2026-09-02"
-}
+},
+"akte_id": "thomas-lang-lr-r001604",
+"akte_sichtbar": false
 },
 {
 "name": "Friedhelm von Mering",
@@ -109,7 +117,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001604/85247",
 "stand": "2026-09-02"
-}
+},
+"akte_id": "friedhelm-von-mering",
+"akte_sichtbar": false
 },
 {
 "name": "Tanja Barbian",
@@ -120,7 +130,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001604/85247",
 "stand": "2026-09-02"
-}
+},
+"akte_id": "tanja-barbian",
+"akte_sichtbar": false
 },
 {
 "name": "Tamira Zöller",
@@ -131,7 +143,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001604/85247",
 "stand": "2026-09-02"
-}
+},
+"akte_id": "tamira-zoeller",
+"akte_sichtbar": false
 },
 {
 "name": "Kevin Smith-Weißmann",
@@ -148,7 +162,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001604/85247",
 "stand": "2026-09-02"
-}
+},
+"akte_id": "kevin-smith-weissmann",
+"akte_sichtbar": true
 }
 ],
 "verbindungen": [
@@ -213,5 +229,6 @@
 "etikett": "Eigenangabe",
 "version": 16
 }
-]
+],
+"parteispenden": []
 }

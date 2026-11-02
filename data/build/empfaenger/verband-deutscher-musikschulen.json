@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001481/78811",
 "stand": "2026-06-12"
-}
+},
+"akte_id": "friedrich-koh-dolge",
+"akte_sichtbar": false
 },
 {
 "name": "Matthias Deichstetter",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001481/78811",
 "stand": "2026-06-12"
-}
+},
+"akte_id": "matthias-deichstetter",
+"akte_sichtbar": false
 },
 {
 "name": "Raphael Amend",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001481/78811",
 "stand": "2026-06-12"
-}
+},
+"akte_id": "raphael-amend",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -106,5 +112,6 @@
 "etikett": "Eigenangabe",
 "version": 13
 }
-]
+],
+"parteispenden": []
 }

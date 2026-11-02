@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008109/84298",
 "stand": "2026-08-05"
-}
+},
+"akte_id": "holger-schlingloff",
+"akte_sichtbar": false
 },
 {
 "name": "Alfred Iwainsky",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008109/84298",
 "stand": "2026-08-05"
-}
+},
+"akte_id": "alfred-iwainsky",
+"akte_sichtbar": false
 },
 {
 "name": "Hans-Günter Weide",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008109/84298",
 "stand": "2026-08-05"
-}
+},
+"akte_id": "hans-guenter-weide",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -114,5 +120,6 @@
 "etikett": "Eigenangabe",
 "version": 2
 }
-]
+],
+"parteispenden": []
 }

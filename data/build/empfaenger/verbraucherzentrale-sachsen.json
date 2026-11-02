@@ -81,7 +81,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002275/81876",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "michael-hummel",
+"akte_sichtbar": false
 },
 {
 "name": "Kerstin Schultz",
@@ -92,7 +94,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002275/81876",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "kerstin-schultz",
+"akte_sichtbar": false
 },
 {
 "name": "Anne Wiesemann",
@@ -103,7 +107,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002275/81876",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "anne-wiesemann",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -145,5 +151,6 @@
 "etikett": "Eigenangabe",
 "version": 16
 }
-]
+],
+"parteispenden": []
 }

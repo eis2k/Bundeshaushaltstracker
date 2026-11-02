@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003842/79588",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "ralf-meyer",
+"akte_sichtbar": false
 },
 {
 "name": "Dieter Leupold",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003842/79588",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "dieter-leupold",
+"akte_sichtbar": false
 },
 {
 "name": "Christian Kunz",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003842/79588",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "christian-kunz",
+"akte_sichtbar": false
 },
 {
 "name": "Stine Rummel-Strebelow",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003842/79588",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "stine-rummel-strebelow",
+"akte_sichtbar": false
 },
 {
 "name": "Corinna Kuhnert",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003842/79588",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "corinna-kuhnert",
+"akte_sichtbar": false
 },
 {
 "name": "Wolf Schipplock",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003842/79588",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "wolf-schipplock",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -138,5 +150,6 @@
 "etikett": "Eigenangabe",
 "version": 10
 }
-]
+],
+"parteispenden": []
 }

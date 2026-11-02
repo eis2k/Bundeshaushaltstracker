@@ -60,7 +60,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000839/82699",
 "stand": "2026-07-08"
-}
+},
+"akte_id": "cornelius-preidel",
+"akte_sichtbar": false
 },
 {
 "name": "Eduard Dischke",
@@ -71,7 +73,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000839/82699",
 "stand": "2026-07-08"
-}
+},
+"akte_id": "eduard-dischke",
+"akte_sichtbar": false
 },
 {
 "name": "Klaus Teizer",
@@ -82,7 +86,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000839/82699",
 "stand": "2026-07-08"
-}
+},
+"akte_id": "klaus-teizer",
+"akte_sichtbar": false
 },
 {
 "name": "Kai Oberste-Ufer",
@@ -93,7 +99,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000839/82699",
 "stand": "2026-07-08"
-}
+},
+"akte_id": "kai-oberste-ufer",
+"akte_sichtbar": false
 },
 {
 "name": "Anica Meins-Becker",
@@ -104,7 +112,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000839/82699",
 "stand": "2026-07-08"
-}
+},
+"akte_id": "anica-meins-becker",
+"akte_sichtbar": false
 },
 {
 "name": "Stefanie Radek",
@@ -115,7 +125,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000839/82699",
 "stand": "2026-07-08"
-}
+},
+"akte_id": "stefanie-radek",
+"akte_sichtbar": false
 },
 {
 "name": "Jörg Ziolkowski",
@@ -126,7 +138,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000839/82699",
 "stand": "2026-07-08"
-}
+},
+"akte_id": "joerg-ziolkowski",
+"akte_sichtbar": false
 },
 {
 "name": "Thomas Liebich",
@@ -137,7 +151,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000839/82699",
 "stand": "2026-07-08"
-}
+},
+"akte_id": "thomas-liebich",
+"akte_sichtbar": false
 },
 {
 "name": "Markus Hochmuth",
@@ -148,7 +164,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000839/82699",
 "stand": "2026-07-08"
-}
+},
+"akte_id": "markus-hochmuth",
+"akte_sichtbar": false
 },
 {
 "name": "Frank Thiesen",
@@ -159,7 +177,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000839/82699",
 "stand": "2026-07-08"
-}
+},
+"akte_id": "frank-thiesen",
+"akte_sichtbar": false
 },
 {
 "name": "Gunther Wölfle",
@@ -170,7 +190,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000839/82699",
 "stand": "2026-07-08"
-}
+},
+"akte_id": "gunther-woelfle",
+"akte_sichtbar": false
 },
 {
 "name": "Jens Pottharst",
@@ -181,7 +203,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000839/82699",
 "stand": "2026-07-08"
-}
+},
+"akte_id": "jens-pottharst",
+"akte_sichtbar": false
 },
 {
 "name": "Thomas Köpp",
@@ -192,7 +216,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000839/82699",
 "stand": "2026-07-08"
-}
+},
+"akte_id": "thomas-koepp",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -239,5 +265,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

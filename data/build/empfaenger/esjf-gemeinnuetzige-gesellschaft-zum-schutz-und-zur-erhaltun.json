@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002808/80458",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "cornelius-fischer-zernin",
+"akte_sichtbar": false
 },
 {
 "name": "Philip Carmel",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002808/80458",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "philip-carmel",
+"akte_sichtbar": false
 },
 {
 "name": "Yossi Beilin",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002808/80458",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "yossi-beilin",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -104,5 +110,6 @@
 "etikett": "Eigenangabe",
 "version": 8
 }
-]
+],
+"parteispenden": []
 }

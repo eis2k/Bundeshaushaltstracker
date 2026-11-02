@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007166/81720",
 "stand": "2026-09-15"
-}
+},
+"akte_id": "nicole-knuth",
+"akte_sichtbar": false
 },
 {
 "name": "Hans-Ullrich Krause",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007166/81720",
 "stand": "2026-09-15"
-}
+},
+"akte_id": "hans-ullrich-krause",
+"akte_sichtbar": false
 },
 {
 "name": "Melanie Overbeck",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007166/81720",
 "stand": "2026-09-15"
-}
+},
+"akte_id": "melanie-overbeck",
+"akte_sichtbar": false
 },
 {
 "name": "Stefan Wedermann",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007166/81720",
 "stand": "2026-09-15"
-}
+},
+"akte_id": "stefan-wedermann",
+"akte_sichtbar": false
 },
 {
 "name": "Katja Albrecht",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007166/81720",
 "stand": "2026-09-15"
-}
+},
+"akte_id": "katja-albrecht",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -127,5 +137,6 @@
 "etikett": "Eigenangabe",
 "version": 4
 }
-]
+],
+"parteispenden": []
 }

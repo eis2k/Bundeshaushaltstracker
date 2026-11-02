@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005422/79592",
 "stand": "2026-06-22"
-}
+},
+"akte_id": "judith-faltl",
+"akte_sichtbar": false
 },
 {
 "name": "Stefan Insam",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005422/79592",
 "stand": "2026-06-22"
-}
+},
+"akte_id": "stefan-insam",
+"akte_sichtbar": false
 },
 {
 "name": "Steffen  Erzgraber",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005422/79592",
 "stand": "2026-06-22"
-}
+},
+"akte_id": "steffen-erzgraber",
+"akte_sichtbar": false
 },
 {
 "name": "Alexandra Bauer",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005422/79592",
 "stand": "2026-06-22"
-}
+},
+"akte_id": "alexandra-bauer",
+"akte_sichtbar": false
 },
 {
 "name": "Maria Strach",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005422/79592",
 "stand": "2026-06-22"
-}
+},
+"akte_id": "maria-strach",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -128,5 +138,6 @@
 "etikett": "Eigenangabe",
 "version": 6
 }
-]
+],
+"parteispenden": []
 }

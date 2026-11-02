@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007842/84628",
 "stand": "2026-08-12"
-}
+},
+"akte_id": "alexander-cobham",
+"akte_sichtbar": false
 },
 {
 "name": "Markus Meinzer",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007842/84628",
 "stand": "2026-08-12"
-}
+},
+"akte_id": "markus-meinzer",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -94,5 +98,6 @@
 "etikett": "Eigenangabe",
 "version": 4
 }
-]
+],
+"parteispenden": []
 }

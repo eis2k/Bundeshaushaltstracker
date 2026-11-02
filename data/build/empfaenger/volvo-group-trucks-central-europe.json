@@ -52,7 +52,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004193/80581",
 "stand": "2026-07-23"
-}
+},
+"akte_id": "markus-weckesser",
+"akte_sichtbar": false
 },
 {
 "name": "Maximilian von Löbbecke",
@@ -63,7 +65,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004193/80581",
 "stand": "2026-07-23"
-}
+},
+"akte_id": "maximilian-von-loebbecke",
+"akte_sichtbar": false
 },
 {
 "name": "Gregor Frieb",
@@ -74,7 +78,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004193/80581",
 "stand": "2026-07-23"
-}
+},
+"akte_id": "gregor-frieb",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -119,5 +125,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003507/79968",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "matthias-schmidt-ohlemann",
+"akte_sichtbar": false
 },
 {
 "name": "Andreas Bethke",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003507/79968",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "andreas-bethke-lr-r003507",
+"akte_sichtbar": false
 },
 {
 "name": "Gerd Kukla",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003507/79968",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "gerd-kukla",
+"akte_sichtbar": false
 },
 {
 "name": "Rolf Buschmann-Steinhage",
@@ -82,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003507/79968",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "rolf-buschmann-steinhage",
+"akte_sichtbar": false
 },
 {
 "name": "Bernhard Greitemann",
@@ -93,7 +101,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003507/79968",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "bernhard-greitemann",
+"akte_sichtbar": false
 },
 {
 "name": "Sylvia Kurth",
@@ -104,7 +114,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003507/79968",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "sylvia-kurth",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -147,5 +159,6 @@
 "etikett": "Eigenangabe",
 "version": 11
 }
-]
+],
+"parteispenden": []
 }

@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005703/83647",
 "stand": "2026-07-24"
-}
+},
+"akte_id": "claus-cordes",
+"akte_sichtbar": false
 },
 {
 "name": "Norbert Kühne",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005703/83647",
 "stand": "2026-07-24"
-}
+},
+"akte_id": "norbert-kuehne",
+"akte_sichtbar": false
 },
 {
 "name": "Michael Morr",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005703/83647",
 "stand": "2026-07-24"
-}
+},
+"akte_id": "michael-morr",
+"akte_sichtbar": false
 },
 {
 "name": "René Brodmühler",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005703/83647",
 "stand": "2026-07-24"
-}
+},
+"akte_id": "ren-brodmuehler",
+"akte_sichtbar": false
 },
 {
 "name": "Andreas Flegel",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005703/83647",
 "stand": "2026-07-24"
-}
+},
+"akte_id": "andreas-flegel",
+"akte_sichtbar": false
 },
 {
 "name": "Frank Einführer",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005703/83647",
 "stand": "2026-07-24"
-}
+},
+"akte_id": "frank-einfuehrer",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -136,5 +148,6 @@
 "etikett": "Eigenangabe",
 "version": 9
 }
-]
+],
+"parteispenden": []
 }

@@ -113,7 +113,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004944/76329",
 "stand": "2026-06-15"
-}
+},
+"akte_id": "jeroen-eijsink",
+"akte_sichtbar": false
 },
 {
 "name": "Jens Hansen",
@@ -124,7 +126,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004944/76329",
 "stand": "2026-06-15"
-}
+},
+"akte_id": "jens-hansen",
+"akte_sichtbar": false
 },
 {
 "name": "Torben Seebold",
@@ -135,7 +139,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004944/76329",
 "stand": "2026-06-15"
-}
+},
+"akte_id": "torben-seebold",
+"akte_sichtbar": false
 },
 {
 "name": "Annette Geiß",
@@ -146,7 +152,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004944/76329",
 "stand": "2026-06-15"
-}
+},
+"akte_id": "annette-geiss",
+"akte_sichtbar": false
 },
 {
 "name": "Lars Anke",
@@ -157,7 +165,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004944/76329",
 "stand": "2026-06-15"
-}
+},
+"akte_id": "lars-anke",
+"akte_sichtbar": false
 },
 {
 "name": "Johannes Berg",
@@ -168,7 +178,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004944/76329",
 "stand": "2026-06-15"
-}
+},
+"akte_id": "johannes-berg",
+"akte_sichtbar": false
 },
 {
 "name": "Carolin Flemming",
@@ -179,7 +191,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004944/76329",
 "stand": "2026-06-15"
-}
+},
+"akte_id": "carolin-flemming",
+"akte_sichtbar": false
 },
 {
 "name": "Lars Neumann",
@@ -190,7 +204,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004944/76329",
 "stand": "2026-06-15"
-}
+},
+"akte_id": "lars-neumann",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -231,5 +247,6 @@
 "etikett": "Eigenangabe",
 "version": 10
 }
-]
+],
+"parteispenden": []
 }

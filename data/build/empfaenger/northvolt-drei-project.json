@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005421/60037",
 "stand": "2026-01-13"
-}
+},
+"akte_id": "nicolas-steinbacher",
+"akte_sichtbar": false
 },
 {
 "name": "Thomas Hoffmann",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005421/60037",
 "stand": "2026-01-13"
-}
+},
+"akte_id": "thomas-hoffmann-lr-r005421",
+"akte_sichtbar": false
 },
 {
 "name": "Patrick Keinprecht",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005421/60037",
 "stand": "2026-01-13"
-}
+},
+"akte_id": "patrick-keinprecht",
+"akte_sichtbar": false
 },
 {
 "name": "Nils Wulfes",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005421/60037",
 "stand": "2026-01-13"
-}
+},
+"akte_id": "nils-wulfes",
+"akte_sichtbar": false
 },
 {
 "name": "Yannick Wulf",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005421/60037",
 "stand": "2026-01-13"
-}
+},
+"akte_id": "yannick-wulf",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -127,5 +137,6 @@
 "etikett": "Eigenangabe",
 "version": 6
 }
-]
+],
+"parteispenden": []
 }

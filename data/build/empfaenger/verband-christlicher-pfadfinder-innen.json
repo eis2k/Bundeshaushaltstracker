@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006654/86469",
 "stand": "2026-09-28"
-}
+},
+"akte_id": "eric-stahlmann",
+"akte_sichtbar": false
 },
 {
 "name": "Leah Albrecht",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006654/86469",
 "stand": "2026-09-28"
-}
+},
+"akte_id": "leah-albrecht",
+"akte_sichtbar": false
 },
 {
 "name": "Daniel Werner",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006654/86469",
 "stand": "2026-09-28"
-}
+},
+"akte_id": "daniel-werner",
+"akte_sichtbar": false
 },
 {
 "name": "Peter Keil",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006654/86469",
 "stand": "2026-09-28"
-}
+},
+"akte_id": "peter-keil",
+"akte_sichtbar": false
 },
 {
 "name": "Arno Schäfer",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006654/86469",
 "stand": "2026-09-28"
-}
+},
+"akte_id": "arno-schaefer",
+"akte_sichtbar": false
 },
 {
 "name": "Florian Brod",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006654/86469",
 "stand": "2026-09-28"
-}
+},
+"akte_id": "florian-brod",
+"akte_sichtbar": false
 },
 {
 "name": "Lara Sander",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006654/86469",
 "stand": "2026-09-28"
-}
+},
+"akte_id": "lara-sander",
+"akte_sichtbar": false
 },
 {
 "name": "Till Strang",
@@ -118,7 +132,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006654/86469",
 "stand": "2026-09-28"
-}
+},
+"akte_id": "till-strang",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -160,5 +176,6 @@
 "etikett": "Eigenangabe",
 "version": 11
 }
-]
+],
+"parteispenden": []
 }

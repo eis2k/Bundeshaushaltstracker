@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002507/87897",
 "stand": "2026-10-22"
-}
+},
+"akte_id": "ruediger-lohse",
+"akte_sichtbar": false
 },
 {
 "name": "Christian Noll",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002507/87897",
 "stand": "2026-10-22"
-}
+},
+"akte_id": "christian-noll",
+"akte_sichtbar": false
 },
 {
 "name": "Valentina Fröhlich",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002507/87897",
 "stand": "2026-10-22"
-}
+},
+"akte_id": "valentina-froehlich",
+"akte_sichtbar": false
 },
 {
 "name": "René Scharr-Hochegger",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002507/87897",
 "stand": "2026-10-22"
-}
+},
+"akte_id": "ren-scharr-hochegger",
+"akte_sichtbar": false
 },
 {
 "name": "Esther Worobjoff",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002507/87897",
 "stand": "2026-10-22"
-}
+},
+"akte_id": "esther-worobjoff",
+"akte_sichtbar": false
 },
 {
 "name": "Friederike  Steddin",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002507/87897",
 "stand": "2026-10-22"
-}
+},
+"akte_id": "friederike-steddin",
+"akte_sichtbar": false
 },
 {
 "name": "Cora Schwermer",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002507/87897",
 "stand": "2026-10-22"
-}
+},
+"akte_id": "cora-schwermer",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -148,5 +162,6 @@
 "etikett": "Eigenangabe",
 "version": 25
 }
-]
+],
+"parteispenden": []
 }

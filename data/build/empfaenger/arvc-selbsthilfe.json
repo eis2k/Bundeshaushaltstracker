@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006161/78074",
 "stand": "2026-06-03"
-}
+},
+"akte_id": "ruth-biller",
+"akte_sichtbar": false
 },
 {
 "name": "Albert Biller",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006161/78074",
 "stand": "2026-06-03"
-}
+},
+"akte_id": "albert-biller",
+"akte_sichtbar": false
 },
 {
 "name": "Fraukje März",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006161/78074",
 "stand": "2026-06-03"
-}
+},
+"akte_id": "fraukje-maerz",
+"akte_sichtbar": false
 },
 {
 "name": "Bernhard Schütze",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006161/78074",
 "stand": "2026-06-03"
-}
+},
+"akte_id": "bernhard-schuetze",
+"akte_sichtbar": false
 },
 {
 "name": "Annemarie Reinhard",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006161/78074",
 "stand": "2026-06-03"
-}
+},
+"akte_id": "annemarie-reinhard",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -128,5 +138,6 @@
 "etikett": "Eigenangabe",
 "version": 6
 }
-]
+],
+"parteispenden": []
 }

@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003855/88198",
 "stand": "2026-10-30"
-}
+},
+"akte_id": "christina-reich",
+"akte_sichtbar": false
 },
 {
 "name": "Lara Bauch",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003855/88198",
 "stand": "2026-10-30"
-}
+},
+"akte_id": "lara-bauch",
+"akte_sichtbar": false
 },
 {
 "name": "Lena Lorenz",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003855/88198",
 "stand": "2026-10-30"
-}
+},
+"akte_id": "lena-lorenz",
+"akte_sichtbar": false
 },
 {
 "name": "Frauke Gebhardt",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003855/88198",
 "stand": "2026-10-30"
-}
+},
+"akte_id": "frauke-gebhardt",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -116,5 +124,6 @@
 "etikett": "Eigenangabe",
 "version": 11
 }
-]
+],
+"parteispenden": []
 }

@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004768/70502",
 "stand": "2026-07-28"
-}
+},
+"akte_id": "andreas-rickert-lr-r004768",
+"akte_sichtbar": false
 },
 {
 "name": "Dina Lorentz",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004768/70502",
 "stand": "2026-07-28"
-}
+},
+"akte_id": "dina-lorentz",
+"akte_sichtbar": false
 },
 {
 "name": "Fittko Sebastian",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004768/70502",
 "stand": "2026-07-28"
-}
+},
+"akte_id": "fittko-sebastian",
+"akte_sichtbar": false
 },
 {
 "name": "Safar Sarif",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004768/70502",
 "stand": "2026-07-28"
-}
+},
+"akte_id": "safar-sarif",
+"akte_sichtbar": false
 },
 {
 "name": "Rafael Andreas  Jaron",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004768/70502",
 "stand": "2026-07-28"
-}
+},
+"akte_id": "rafael-andreas-jaron",
+"akte_sichtbar": false
 },
 {
 "name": "Christopher Matz",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004768/70502",
 "stand": "2026-07-28"
-}
+},
+"akte_id": "christopher-matz",
+"akte_sichtbar": false
 },
 {
 "name": "Christian Hassel",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004768/70502",
 "stand": "2026-07-28"
-}
+},
+"akte_id": "christian-hassel",
+"akte_sichtbar": false
 },
 {
 "name": "Simon Lehmann-Leo",
@@ -124,7 +138,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004768/70502",
 "stand": "2026-07-28"
-}
+},
+"akte_id": "simon-lehmann-leo",
+"akte_sichtbar": true
 }
 ],
 "verbindungen": [
@@ -188,5 +204,6 @@
 "etikett": "Eigenangabe",
 "version": 6
 }
-]
+],
+"parteispenden": []
 }

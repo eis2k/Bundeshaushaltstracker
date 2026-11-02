@@ -65,7 +65,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007027/87830",
 "stand": "2026-10-20"
-}
+},
+"akte_id": "hans-martin-hellebrand",
+"akte_sichtbar": false
 },
 {
 "name": "Dirk Sattur",
@@ -76,7 +78,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007027/87830",
 "stand": "2026-10-20"
-}
+},
+"akte_id": "dirk-sattur",
+"akte_sichtbar": false
 },
 {
 "name": "Thorsten Kuhlmann",
@@ -87,7 +91,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007027/87830",
 "stand": "2026-10-20"
-}
+},
+"akte_id": "thorsten-kuhlmann",
+"akte_sichtbar": false
 },
 {
 "name": "Luis Lehmann",
@@ -98,7 +104,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007027/87830",
 "stand": "2026-10-20"
-}
+},
+"akte_id": "luis-lehmann",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -139,5 +147,6 @@
 "etikett": "Eigenangabe",
 "version": 14
 }
-]
+],
+"parteispenden": []
 }

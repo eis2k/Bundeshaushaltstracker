@@ -57,7 +57,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001208/77879",
 "stand": "2026-06-04"
-}
+},
+"akte_id": "christian-buettner",
+"akte_sichtbar": false
 },
 {
 "name": "Martin Brause",
@@ -68,7 +70,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001208/77879",
 "stand": "2026-06-04"
-}
+},
+"akte_id": "martin-brause",
+"akte_sichtbar": false
 },
 {
 "name": "Ingo List",
@@ -79,7 +83,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001208/77879",
 "stand": "2026-06-04"
-}
+},
+"akte_id": "ingo-list",
+"akte_sichtbar": false
 },
 {
 "name": "Timm Lutter",
@@ -90,7 +96,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001208/77879",
 "stand": "2026-06-04"
-}
+},
+"akte_id": "timm-lutter-lr-r001208",
+"akte_sichtbar": false
 },
 {
 "name": "Cornelia Schneider-Pungs",
@@ -101,7 +109,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001208/77879",
 "stand": "2026-06-04"
-}
+},
+"akte_id": "cornelia-schneider-pungs",
+"akte_sichtbar": false
 },
 {
 "name": "Susanne Beckmann",
@@ -112,7 +122,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001208/77879",
 "stand": "2026-06-04"
-}
+},
+"akte_id": "susanne-beckmann",
+"akte_sichtbar": false
 },
 {
 "name": "Anne Dederer",
@@ -123,7 +135,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001208/77879",
 "stand": "2026-06-04"
-}
+},
+"akte_id": "anne-dederer",
+"akte_sichtbar": false
 },
 {
 "name": "Martin Hüppe",
@@ -134,7 +148,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001208/77879",
 "stand": "2026-06-04"
-}
+},
+"akte_id": "martin-hueppe",
+"akte_sichtbar": false
 },
 {
 "name": "Monika Stütz",
@@ -145,7 +161,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001208/77879",
 "stand": "2026-06-04"
-}
+},
+"akte_id": "monika-stuetz",
+"akte_sichtbar": false
 },
 {
 "name": "Alexander Altendorf-Schöpke",
@@ -162,7 +180,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001208/77879",
 "stand": "2026-06-04"
-}
+},
+"akte_id": "alexander-altendorf-schoepke",
+"akte_sichtbar": true
 }
 ],
 "verbindungen": [
@@ -227,5 +247,6 @@
 "etikett": "Eigenangabe",
 "version": 8
 }
-]
+],
+"parteispenden": []
 }

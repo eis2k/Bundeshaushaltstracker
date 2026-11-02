@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004852/78026",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "malte-goettsche-lr-r004852",
+"akte_sichtbar": false
 },
 {
 "name": "Tobias Pietz",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004852/78026",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "tobias-pietz",
+"akte_sichtbar": false
 },
 {
 "name": "Paulina Starski-Lutoborski",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004852/78026",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "paulina-starski-lutoborski",
+"akte_sichtbar": false
 },
 {
 "name": "Sandra Destradi",
@@ -82,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004852/78026",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "sandra-destradi",
+"akte_sichtbar": false
 },
 {
 "name": "Jana Hönke",
@@ -93,7 +101,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004852/78026",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "jana-hoenke",
+"akte_sichtbar": false
 },
 {
 "name": "Thomas Held",
@@ -104,7 +114,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004852/78026",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "thomas-held",
+"akte_sichtbar": false
 },
 {
 "name": "Franziska Kassing",
@@ -115,7 +127,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004852/78026",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "franziska-kassing",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -156,5 +170,6 @@
 "etikett": "Eigenangabe",
 "version": 7
 }
-]
+],
+"parteispenden": []
 }

@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006974/81450",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "neset-tuekenmez",
+"akte_sichtbar": false
 },
 {
 "name": "Michael Bitzer",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006974/81450",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "michael-bitzer",
+"akte_sichtbar": false
 },
 {
 "name": "Patrick Weber",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006974/81450",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "patrick-weber-lr-r006974",
+"akte_sichtbar": false
 },
 {
 "name": "Jan Wielpütz",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006974/81450",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "jan-wielpuetz",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -114,5 +122,6 @@
 "etikett": "Eigenangabe",
 "version": 8
 }
-]
+],
+"parteispenden": []
 }

@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002844/81727",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "sebastian-peters",
+"akte_sichtbar": false
 },
 {
 "name": "Maximilian Thomasius",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002844/81727",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "maximilian-thomasius",
+"akte_sichtbar": false
 },
 {
 "name": "Daniela Haller",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002844/81727",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "daniela-haller",
+"akte_sichtbar": false
 },
 {
 "name": "Oliver Haack",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002844/81727",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "oliver-haack-lr-r001204",
+"akte_sichtbar": false
 },
 {
 "name": "Clemens Buckwitz",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002844/81727",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "clemens-buckwitz",
+"akte_sichtbar": false
 },
 {
 "name": "Claudia Oeking",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002844/81727",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "claudia-oeking",
+"akte_sichtbar": false
 },
 {
 "name": "Isabel Gradert",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002844/81727",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "isabel-gradert",
+"akte_sichtbar": false
 },
 {
 "name": "Ronald Sweers",
@@ -118,7 +132,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002844/81727",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "ronald-sweers",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -159,5 +175,6 @@
 "etikett": "Eigenangabe",
 "version": 17
 }
-]
+],
+"parteispenden": []
 }

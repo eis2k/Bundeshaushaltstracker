@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000857/80495",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "klaus-poellath",
+"akte_sichtbar": false
 },
 {
 "name": "Peter Warnecke",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000857/80495",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "peter-warnecke",
+"akte_sichtbar": false
 },
 {
 "name": "Wolfgang Roeser",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000857/80495",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "wolfgang-roeser",
+"akte_sichtbar": false
 },
 {
 "name": "Lars Meyer",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000857/80495",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "lars-meyer-lr-r000857",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -115,5 +123,6 @@
 "etikett": "Eigenangabe",
 "version": 7
 }
-]
+],
+"parteispenden": []
 }

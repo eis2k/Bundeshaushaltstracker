@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002127/73187",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "detlef-rump",
+"akte_sichtbar": false
 },
 {
 "name": "Irina  del Rosario Cachay Ayala",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002127/73187",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "irina-del-rosario-cachay-ayala",
+"akte_sichtbar": false
 },
 {
 "name": "Maike Strietholt",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002127/73187",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "maike-strietholt",
+"akte_sichtbar": false
 },
 {
 "name": "Mireille Remesch",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002127/73187",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "mireille-remesch",
+"akte_sichtbar": false
 },
 {
 "name": "Julia Sievers-Langer",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002127/73187",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "julia-sievers-langer",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -129,5 +139,6 @@
 "etikett": "Eigenangabe",
 "version": 17
 }
-]
+],
+"parteispenden": []
 }

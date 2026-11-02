@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004158/87343",
 "stand": "2026-10-09"
-}
+},
+"akte_id": "jochen-rainer-jaser",
+"akte_sichtbar": false
 },
 {
 "name": "Abhinav Puri",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004158/87343",
 "stand": "2026-10-09"
-}
+},
+"akte_id": "abhinav-puri",
+"akte_sichtbar": false
 },
 {
 "name": "Stefan Gaiser",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004158/87343",
 "stand": "2026-10-09"
-}
+},
+"akte_id": "stefan-gaiser",
+"akte_sichtbar": false
 },
 {
 "name": "Torsten Hallmann",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004158/87343",
 "stand": "2026-10-09"
-}
+},
+"akte_id": "torsten-hallmann-lr-r004158",
+"akte_sichtbar": false
 },
 {
 "name": "Matthias Eckermann",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004158/87343",
 "stand": "2026-10-09"
-}
+},
+"akte_id": "matthias-eckermann",
+"akte_sichtbar": false
 },
 {
 "name": "Knut Trepte",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004158/87343",
 "stand": "2026-10-09"
-}
+},
+"akte_id": "knut-trepte",
+"akte_sichtbar": false
 },
 {
 "name": "Holger Pfister",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004158/87343",
 "stand": "2026-10-09"
-}
+},
+"akte_id": "holger-pfister",
+"akte_sichtbar": false
 },
 {
 "name": "Frank Gramüller-Heinz",
@@ -118,7 +132,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004158/87343",
 "stand": "2026-10-09"
-}
+},
+"akte_id": "frank-gramueller-heinz",
+"akte_sichtbar": false
 },
 {
 "name": "Alexander Rahmig",
@@ -129,7 +145,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004158/87343",
 "stand": "2026-10-09"
-}
+},
+"akte_id": "alexander-rahmig",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -169,5 +187,6 @@
 "etikett": "Eigenangabe",
 "version": 16
 }
-]
+],
+"parteispenden": []
 }

@@ -62,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003123/74615",
 "stand": "2026-03-31"
-}
+},
+"akte_id": "marion-hammerl",
+"akte_sichtbar": false
 },
 {
 "name": "Udo Gattenloehner",
@@ -73,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003123/74615",
 "stand": "2026-03-31"
-}
+},
+"akte_id": "udo-gattenloehner",
+"akte_sichtbar": false
 },
 {
 "name": "Stefan Hörmann",
@@ -84,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003123/74615",
 "stand": "2026-03-31"
-}
+},
+"akte_id": "stefan-hoermann",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -132,5 +138,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

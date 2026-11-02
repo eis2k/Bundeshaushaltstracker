@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001143/61602",
 "stand": "2025-07-08"
-}
+},
+"akte_id": "andrea-riedle",
+"akte_sichtbar": false
 },
 {
 "name": "Julana Bredtmann",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001143/61602",
 "stand": "2025-07-08"
-}
+},
+"akte_id": "julana-bredtmann",
+"akte_sichtbar": false
 },
 {
 "name": "Gesine Beutin",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001143/61602",
 "stand": "2025-07-08"
-}
+},
+"akte_id": "gesine-beutin",
+"akte_sichtbar": false
 },
 {
 "name": "Christine Glauning",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001143/61602",
 "stand": "2025-07-08"
-}
+},
+"akte_id": "christine-glauning",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -115,5 +123,6 @@
 "etikett": "Eigenangabe",
 "version": 7
 }
-]
+],
+"parteispenden": []
 }

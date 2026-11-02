@@ -65,7 +65,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003727/83267",
 "stand": "2026-07-16"
-}
+},
+"akte_id": "aaron-auchter",
+"akte_sichtbar": false
 },
 {
 "name": "Hannah Wiendl",
@@ -76,7 +78,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003727/83267",
 "stand": "2026-07-16"
-}
+},
+"akte_id": "hannah-wiendl",
+"akte_sichtbar": false
 },
 {
 "name": "Emily Schunk",
@@ -87,7 +91,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003727/83267",
 "stand": "2026-07-16"
-}
+},
+"akte_id": "emily-schunk",
+"akte_sichtbar": false
 },
 {
 "name": "Oska Jacobs",
@@ -98,7 +104,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003727/83267",
 "stand": "2026-07-16"
-}
+},
+"akte_id": "oska-jacobs",
+"akte_sichtbar": false
 },
 {
 "name": "Raphael Müller",
@@ -109,7 +117,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003727/83267",
 "stand": "2026-07-16"
-}
+},
+"akte_id": "raphael-mueller",
+"akte_sichtbar": false
 },
 {
 "name": "Theo Marx",
@@ -120,7 +130,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003727/83267",
 "stand": "2026-07-16"
-}
+},
+"akte_id": "theo-marx",
+"akte_sichtbar": false
 },
 {
 "name": "Kim Trau",
@@ -131,7 +143,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003727/83267",
 "stand": "2026-07-16"
-}
+},
+"akte_id": "kim-trau",
+"akte_sichtbar": false
 },
 {
 "name": "Nick Hampel",
@@ -142,7 +156,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003727/83267",
 "stand": "2026-07-16"
-}
+},
+"akte_id": "nick-hampel",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -185,5 +201,6 @@
 "etikett": "Eigenangabe",
 "version": 9
 }
-]
+],
+"parteispenden": []
 }

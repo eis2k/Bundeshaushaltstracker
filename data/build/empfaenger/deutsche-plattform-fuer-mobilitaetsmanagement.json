@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004580/77866",
 "stand": "2026-06-16"
-}
+},
+"akte_id": "christoph-overs",
+"akte_sichtbar": false
 },
 {
 "name": "Evelin Unger-Azadi",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004580/77866",
 "stand": "2026-06-16"
-}
+},
+"akte_id": "evelin-unger-azadi",
+"akte_sichtbar": false
 },
 {
 "name": "André Bruns",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004580/77866",
 "stand": "2026-06-16"
-}
+},
+"akte_id": "andr-bruns",
+"akte_sichtbar": false
 },
 {
 "name": "Mareike Stegmair",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004580/77866",
 "stand": "2026-06-16"
-}
+},
+"akte_id": "mareike-stegmair",
+"akte_sichtbar": false
 },
 {
 "name": "Maik Scharnweber",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004580/77866",
 "stand": "2026-06-16"
-}
+},
+"akte_id": "maik-scharnweber",
+"akte_sichtbar": false
 },
 {
 "name": "Jens Lauterbach",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004580/77866",
 "stand": "2026-06-16"
-}
+},
+"akte_id": "jens-lauterbach",
+"akte_sichtbar": false
 },
 {
 "name": "Gisela Gräfin von Schlieffen",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004580/77866",
 "stand": "2026-06-16"
-}
+},
+"akte_id": "gisela-graefin-von-schlieffen",
+"akte_sichtbar": false
 },
 {
 "name": "Ann-Kathrin Schneider",
@@ -118,7 +132,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004580/77866",
 "stand": "2026-06-16"
-}
+},
+"akte_id": "ann-kathrin-schneider",
+"akte_sichtbar": false
 },
 {
 "name": "Dieter Brübach",
@@ -129,7 +145,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004580/77866",
 "stand": "2026-06-16"
-}
+},
+"akte_id": "dieter-bruebach",
+"akte_sichtbar": false
 },
 {
 "name": "Stefan Haendschke",
@@ -140,7 +158,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004580/77866",
 "stand": "2026-06-16"
-}
+},
+"akte_id": "stefan-haendschke",
+"akte_sichtbar": false
 },
 {
 "name": "Michael Abraham",
@@ -151,7 +171,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004580/77866",
 "stand": "2026-06-16"
-}
+},
+"akte_id": "michael-abraham",
+"akte_sichtbar": false
 },
 {
 "name": "Julia Brosy",
@@ -162,7 +184,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004580/77866",
 "stand": "2026-06-16"
-}
+},
+"akte_id": "julia-brosy",
+"akte_sichtbar": false
 },
 {
 "name": "Elias Dieterle",
@@ -173,7 +197,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004580/77866",
 "stand": "2026-06-16"
-}
+},
+"akte_id": "elias-dieterle",
+"akte_sichtbar": false
 },
 {
 "name": "Heike Prüße",
@@ -184,7 +210,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004580/77866",
 "stand": "2026-06-16"
-}
+},
+"akte_id": "heike-pruesse",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -227,5 +255,6 @@
 "etikett": "Eigenangabe",
 "version": 7
 }
-]
+],
+"parteispenden": []
 }

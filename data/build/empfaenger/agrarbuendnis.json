@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005208/81441",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "bernd-voss",
+"akte_sichtbar": false
 },
 {
 "name": "Jenny Schlosser",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005208/81441",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "jenny-schlosser",
+"akte_sichtbar": false
 },
 {
 "name": "Karin Jürgens",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005208/81441",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "karin-juergens",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -104,5 +110,6 @@
 "etikett": "Eigenangabe",
 "version": 17
 }
-]
+],
+"parteispenden": []
 }

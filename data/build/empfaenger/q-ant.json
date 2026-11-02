@@ -102,7 +102,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006934/87557",
 "stand": "2026-10-14"
-}
+},
+"akte_id": "michael-foertsch",
+"akte_sichtbar": false
 },
 {
 "name": "Edith Laga",
@@ -113,7 +115,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006934/87557",
 "stand": "2026-10-14"
-}
+},
+"akte_id": "edith-laga",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -160,5 +164,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000236/77838",
 "stand": "2026-06-16"
-}
+},
+"akte_id": "ralph-dejas",
+"akte_sichtbar": false
 },
 {
 "name": "Paulin Köpfer",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000236/77838",
 "stand": "2026-06-16"
-}
+},
+"akte_id": "paulin-koepfer",
+"akte_sichtbar": false
 },
 {
 "name": "Georg Forster",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000236/77838",
 "stand": "2026-06-16"
-}
+},
+"akte_id": "georg-forster",
+"akte_sichtbar": false
 },
 {
 "name": "Hanneke Schönhals",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000236/77838",
 "stand": "2026-06-16"
-}
+},
+"akte_id": "hanneke-schoenhals",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -116,5 +124,6 @@
 "etikett": "Eigenangabe",
 "version": 8
 }
-]
+],
+"parteispenden": []
 }

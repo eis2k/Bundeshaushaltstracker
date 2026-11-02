@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003231/77039",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "benny-bennet-juergens",
+"akte_sichtbar": false
 },
 {
 "name": "Carlo Ulbrich",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003231/77039",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "carlo-ulbrich",
+"akte_sichtbar": false
 },
 {
 "name": "Timo Behrmann",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003231/77039",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "timo-behrmann",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -103,5 +109,6 @@
 "etikett": "Eigenangabe",
 "version": 11
 }
-]
+],
+"parteispenden": []
 }

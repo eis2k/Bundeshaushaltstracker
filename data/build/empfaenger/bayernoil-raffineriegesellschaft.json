@@ -57,7 +57,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000828/85182",
 "stand": "2026-08-27"
-}
+},
+"akte_id": "wouter-de-jong",
+"akte_sichtbar": false
 },
 {
 "name": "Hedwig Hagl",
@@ -68,7 +70,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000828/85182",
 "stand": "2026-08-27"
-}
+},
+"akte_id": "hedwig-hagl",
+"akte_sichtbar": false
 },
 {
 "name": "Tobias Bauer",
@@ -79,7 +83,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000828/85182",
 "stand": "2026-08-27"
-}
+},
+"akte_id": "tobias-bauer",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -120,5 +126,6 @@
 "etikett": "Eigenangabe",
 "version": 10
 }
-]
+],
+"parteispenden": []
 }

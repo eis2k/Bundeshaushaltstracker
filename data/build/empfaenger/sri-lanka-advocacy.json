@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001877/86842",
 "stand": "2026-10-01"
-}
+},
+"akte_id": "andar-parlindungan-lr-r001877",
+"akte_sichtbar": false
 },
 {
 "name": "Dyah Krismawati",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001877/86842",
 "stand": "2026-10-01"
-}
+},
+"akte_id": "dyah-krismawati",
+"akte_sichtbar": false
 },
 {
 "name": "Franziska Koch",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001877/86842",
 "stand": "2026-10-01"
-}
+},
+"akte_id": "franziska-koch",
+"akte_sichtbar": false
 },
 {
 "name": "Theodor Rathgeber",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001877/86842",
 "stand": "2026-10-01"
-}
+},
+"akte_id": "theodor-rathgeber",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -107,5 +115,6 @@
 "etikett": "Eigenangabe",
 "version": 9
 }
-]
+],
+"parteispenden": []
 }

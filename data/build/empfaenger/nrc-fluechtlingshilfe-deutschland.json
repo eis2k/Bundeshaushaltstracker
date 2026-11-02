@@ -105,7 +105,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000987/80012",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "timm-buechner",
+"akte_sichtbar": false
 },
 {
 "name": "Florian Mähler",
@@ -116,7 +118,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000987/80012",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "florian-maehler",
+"akte_sichtbar": false
 },
 {
 "name": "Maike  Roettger",
@@ -127,7 +131,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000987/80012",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "maike-roettger",
+"akte_sichtbar": false
 },
 {
 "name": "Timm Büchner",
@@ -138,7 +144,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000987/80012",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "timm-buechner",
+"akte_sichtbar": false
 },
 {
 "name": "Sabine Sauer",
@@ -149,7 +157,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000987/80012",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "sabine-sauer",
+"akte_sichtbar": false
 },
 {
 "name": "Damjan Vinko",
@@ -160,7 +170,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000987/80012",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "damjan-vinko",
+"akte_sichtbar": false
 },
 {
 "name": "Paul Hausmann",
@@ -171,7 +183,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000987/80012",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "paul-hausmann",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -226,5 +240,6 @@
 "abgerufen": "2026-11-02",
 "etikett": "Eigenangabe"
 }
-]
+],
+"parteispenden": []
 }

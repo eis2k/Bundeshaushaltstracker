@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003270/86986",
 "stand": "2026-10-02"
-}
+},
+"akte_id": "roda-verheyen",
+"akte_sichtbar": false
 },
 {
 "name": "Tobias Ott",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003270/86986",
 "stand": "2026-10-02"
-}
+},
+"akte_id": "tobias-ott",
+"akte_sichtbar": false
 },
 {
 "name": "Immo Graf",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003270/86986",
 "stand": "2026-10-02"
-}
+},
+"akte_id": "immo-graf",
+"akte_sichtbar": false
 },
 {
 "name": "Marcel Keiffenheim",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003270/86986",
 "stand": "2026-10-02"
-}
+},
+"akte_id": "marcel-keiffenheim",
+"akte_sichtbar": false
 },
 {
 "name": "Lia Polotzek",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003270/86986",
 "stand": "2026-10-02"
-}
+},
+"akte_id": "lia-polotzek",
+"akte_sichtbar": false
 },
 {
 "name": "Henrike Lindemann",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003270/86986",
 "stand": "2026-10-02"
-}
+},
+"akte_id": "henrike-lindemann",
+"akte_sichtbar": false
 },
 {
 "name": "Marie Bohlmann",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003270/86986",
 "stand": "2026-10-02"
-}
+},
+"akte_id": "marie-bohlmann",
+"akte_sichtbar": false
 },
 {
 "name": "Franziska Albrecht",
@@ -118,7 +132,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003270/86986",
 "stand": "2026-10-02"
-}
+},
+"akte_id": "franziska-albrecht",
+"akte_sichtbar": false
 },
 {
 "name": "Valentine Wanbing Zheng",
@@ -129,7 +145,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003270/86986",
 "stand": "2026-10-02"
-}
+},
+"akte_id": "valentine-wanbing-zheng",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -171,5 +189,6 @@
 "etikett": "Eigenangabe",
 "version": 27
 }
-]
+],
+"parteispenden": []
 }

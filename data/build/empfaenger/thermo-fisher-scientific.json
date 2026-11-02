@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002047/85930",
 "stand": "2026-09-16"
-}
+},
+"akte_id": "piet-van-der-zande",
+"akte_sichtbar": false
 },
 {
 "name": "Elli Neu",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002047/85930",
 "stand": "2026-09-16"
-}
+},
+"akte_id": "elli-neu",
+"akte_sichtbar": false
 },
 {
 "name": "Christiane Landsberg",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002047/85930",
 "stand": "2026-09-16"
-}
+},
+"akte_id": "christiane-landsberg",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -113,5 +119,6 @@
 "etikett": "Eigenangabe",
 "version": 23
 }
-]
+],
+"parteispenden": []
 }

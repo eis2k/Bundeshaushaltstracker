@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004682/86096",
 "stand": "2026-09-21"
-}
+},
+"akte_id": "umut-cengil",
+"akte_sichtbar": false
 },
 {
 "name": "Asiye Tugay",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004682/86096",
 "stand": "2026-09-21"
-}
+},
+"akte_id": "asiye-tugay",
+"akte_sichtbar": false
 },
 {
 "name": "Riza Serhat  Tufan",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004682/86096",
 "stand": "2026-09-21"
-}
+},
+"akte_id": "riza-serhat-tufan",
+"akte_sichtbar": false
 },
 {
 "name": "Berfin Celik",
@@ -82,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004682/86096",
 "stand": "2026-09-21"
-}
+},
+"akte_id": "berfin-celik",
+"akte_sichtbar": false
 },
 {
 "name": "Dilan Güler",
@@ -93,7 +101,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004682/86096",
 "stand": "2026-09-21"
-}
+},
+"akte_id": "dilan-gueler",
+"akte_sichtbar": false
 },
 {
 "name": "Özge Erdoğan",
@@ -104,7 +114,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004682/86096",
 "stand": "2026-09-21"
-}
+},
+"akte_id": "oezge-erdo-an",
+"akte_sichtbar": false
 },
 {
 "name": "Baris Özagac",
@@ -115,7 +127,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004682/86096",
 "stand": "2026-09-21"
-}
+},
+"akte_id": "baris-oezagac",
+"akte_sichtbar": false
 },
 {
 "name": "Berfin Korkmaz",
@@ -126,7 +140,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004682/86096",
 "stand": "2026-09-21"
-}
+},
+"akte_id": "berfin-korkmaz",
+"akte_sichtbar": false
 },
 {
 "name": "Güleycan Cantekin",
@@ -137,7 +153,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004682/86096",
 "stand": "2026-09-21"
-}
+},
+"akte_id": "gueleycan-cantekin",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -179,5 +197,6 @@
 "etikett": "Eigenangabe",
 "version": 9
 }
-]
+],
+"parteispenden": []
 }

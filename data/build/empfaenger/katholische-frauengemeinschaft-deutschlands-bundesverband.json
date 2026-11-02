@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005118/65551",
 "stand": "2026-07-29"
-}
+},
+"akte_id": "ulrike-goeken-huismann",
+"akte_sichtbar": false
 },
 {
 "name": "Lucia Lagoda",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005118/65551",
 "stand": "2026-07-29"
-}
+},
+"akte_id": "lucia-lagoda",
+"akte_sichtbar": false
 },
 {
 "name": "Jutta Flüthmann",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005118/65551",
 "stand": "2026-07-29"
-}
+},
+"akte_id": "jutta-fluethmann",
+"akte_sichtbar": false
 },
 {
 "name": "Friederike Frücht",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005118/65551",
 "stand": "2026-07-29"
-}
+},
+"akte_id": "friederike-fruecht",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -115,5 +123,6 @@
 "etikett": "Eigenangabe",
 "version": 8
 }
-]
+],
+"parteispenden": []
 }

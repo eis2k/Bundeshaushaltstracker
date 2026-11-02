@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004589/76683",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "juergen-reinert",
+"akte_sichtbar": false
 },
 {
 "name": "Olaf Heyden",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004589/76683",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "olaf-heyden",
+"akte_sichtbar": false
 },
 {
 "name": "Kaveh Rouhi",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004589/76683",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "kaveh-rouhi",
+"akte_sichtbar": false
 },
 {
 "name": "Eric Quiring",
@@ -82,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004589/76683",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "eric-quiring",
+"akte_sichtbar": false
 },
 {
 "name": "Kathrin Ziepprecht",
@@ -93,7 +101,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004589/76683",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "kathrin-ziepprecht",
+"akte_sichtbar": false
 },
 {
 "name": "Katharina Eickelberg",
@@ -104,7 +114,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004589/76683",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "katharina-eickelberg",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -144,5 +156,6 @@
 "etikett": "Eigenangabe",
 "version": 5
 }
-]
+],
+"parteispenden": []
 }

@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007904/69552",
 "stand": "2026-03-23"
-}
+},
+"akte_id": "albrecht-metter",
+"akte_sichtbar": false
 },
 {
 "name": "Johannes Tröger",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007904/69552",
 "stand": "2026-03-23"
-}
+},
+"akte_id": "johannes-troeger",
+"akte_sichtbar": false
 },
 {
 "name": "Nicole Huber",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007904/69552",
 "stand": "2026-03-23"
-}
+},
+"akte_id": "nicole-huber",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -104,5 +110,6 @@
 "etikett": "Eigenangabe",
 "version": 1
 }
-]
+],
+"parteispenden": []
 }

@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000949/72502",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "franziska-heine",
+"akte_sichtbar": false
 },
 {
 "name": "Lilli Iliev",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000949/72502",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "lilli-iliev",
+"akte_sichtbar": false
 },
 {
 "name": "Friederike von Franqué",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000949/72502",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "friederike-von-franqu",
+"akte_sichtbar": false
 },
 {
 "name": "Jan-David Franke",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000949/72502",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "jan-david-franke",
+"akte_sichtbar": false
 },
 {
 "name": "Stefan Kaufmann",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000949/72502",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "stefan-kaufmann",
+"akte_sichtbar": false
 },
 {
 "name": "Lara Mieg",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000949/72502",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "lara-mieg",
+"akte_sichtbar": false
 },
 {
 "name": "Aline Blankertz",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000949/72502",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "aline-blankertz",
+"akte_sichtbar": false
 },
 {
 "name": "Anne-Sophie  Waag",
@@ -118,7 +132,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000949/72502",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "anne-sophie-waag",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -160,5 +176,6 @@
 "etikett": "Eigenangabe",
 "version": 14
 }
-]
+],
+"parteispenden": []
 }

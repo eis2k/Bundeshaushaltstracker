@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000533/80169",
 "stand": "2026-06-26"
-}
+},
+"akte_id": "claas-bracklo",
+"akte_sichtbar": false
 },
 {
 "name": "Großmann Dirk",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000533/80169",
 "stand": "2026-06-26"
-}
+},
+"akte_id": "grossmann-dirk",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -93,5 +97,6 @@
 "etikett": "Eigenangabe",
 "version": 7
 }
-]
+],
+"parteispenden": []
 }

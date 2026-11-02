@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005106/78545",
 "stand": "2026-06-09"
-}
+},
+"akte_id": "ulrich-joger",
+"akte_sichtbar": false
 },
 {
 "name": "Marco Schulz",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005106/78545",
 "stand": "2026-06-09"
-}
+},
+"akte_id": "marco-schulz",
+"akte_sichtbar": false
 },
 {
 "name": "Philipp  Böning",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005106/78545",
 "stand": "2026-06-09"
-}
+},
+"akte_id": "philipp-boening",
+"akte_sichtbar": false
 },
 {
 "name": "Claudia Koch",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005106/78545",
 "stand": "2026-06-09"
-}
+},
+"akte_id": "claudia-koch",
+"akte_sichtbar": false
 },
 {
 "name": "Christian Bittner",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005106/78545",
 "stand": "2026-06-09"
-}
+},
+"akte_id": "christian-bittner",
+"akte_sichtbar": false
 },
 {
 "name": "Oliver Witte",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005106/78545",
 "stand": "2026-06-09"
-}
+},
+"akte_id": "oliver-witte",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -139,5 +151,6 @@
 "etikett": "Eigenangabe",
 "version": 8
 }
-]
+],
+"parteispenden": []
 }

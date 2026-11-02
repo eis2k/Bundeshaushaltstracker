@@ -47,7 +47,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001873/69140",
 "stand": "2025-12-10"
-}
+},
+"akte_id": "michelle-daniela-angeli",
+"akte_sichtbar": true
 },
 {
 "name": "Friederike Ewald",
@@ -58,7 +60,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001873/69140",
 "stand": "2025-12-10"
-}
+},
+"akte_id": "friederike-ewald",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [
@@ -113,5 +117,6 @@
 "etikett": "Eigenangabe",
 "version": 10
 }
-]
+],
+"parteispenden": []
 }

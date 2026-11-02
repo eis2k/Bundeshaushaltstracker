@@ -57,7 +57,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008188/87210",
 "stand": "2026-10-07"
-}
+},
+"akte_id": "ilse-henne",
+"akte_sichtbar": false
 },
 {
 "name": "Daniel Wodera",
@@ -68,7 +70,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008188/87210",
 "stand": "2026-10-07"
-}
+},
+"akte_id": "daniel-wodera",
+"akte_sichtbar": false
 },
 {
 "name": "Jennifer Weihs",
@@ -79,7 +83,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008188/87210",
 "stand": "2026-10-07"
-}
+},
+"akte_id": "jennifer-weihs",
+"akte_sichtbar": false
 },
 {
 "name": "Annette Büttner",
@@ -90,7 +96,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008188/87210",
 "stand": "2026-10-07"
-}
+},
+"akte_id": "annette-buettner",
+"akte_sichtbar": false
 },
 {
 "name": "Michael Paul Oscar Pühl",
@@ -101,7 +109,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008188/87210",
 "stand": "2026-10-07"
-}
+},
+"akte_id": "michael-paul-oscar-puehl",
+"akte_sichtbar": false
 },
 {
 "name": "Sebastian Szczepanski",
@@ -112,7 +122,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008188/87210",
 "stand": "2026-10-07"
-}
+},
+"akte_id": "sebastian-szczepanski",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -153,5 +165,6 @@
 "etikett": "Eigenangabe",
 "version": 2
 }
-]
+],
+"parteispenden": []
 }

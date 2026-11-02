@@ -73,7 +73,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008170/75265",
 "stand": "2026-08-18"
-}
+},
+"akte_id": "peter-roessner",
+"akte_sichtbar": false
 },
 {
 "name": "Bert Althaus",
@@ -84,7 +86,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008170/75265",
 "stand": "2026-08-18"
-}
+},
+"akte_id": "bert-althaus",
+"akte_sichtbar": false
 },
 {
 "name": "Jan Bellgardt",
@@ -95,7 +99,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008170/75265",
 "stand": "2026-08-18"
-}
+},
+"akte_id": "jan-bellgardt",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -137,5 +143,6 @@
 "etikett": "Eigenangabe",
 "version": 1
 }
-]
+],
+"parteispenden": []
 }

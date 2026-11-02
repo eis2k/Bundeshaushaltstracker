@@ -57,7 +57,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007349/82254",
 "stand": "2026-08-03"
-}
+},
+"akte_id": "heinz-mueller",
+"akte_sichtbar": false
 },
 {
 "name": "Elisabeth Schmutz",
@@ -68,7 +70,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007349/82254",
 "stand": "2026-08-03"
-}
+},
+"akte_id": "elisabeth-schmutz",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -109,5 +113,6 @@
 "etikett": "Eigenangabe",
 "version": 4
 }
-]
+],
+"parteispenden": []
 }

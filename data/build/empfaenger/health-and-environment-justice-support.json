@@ -57,7 +57,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006526/82716",
 "stand": "2026-07-08"
-}
+},
+"akte_id": "alexandra-caterbow",
+"akte_sichtbar": false
 },
 {
 "name": "Olga Speranskaya",
@@ -68,7 +70,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006526/82716",
 "stand": "2026-07-08"
-}
+},
+"akte_id": "olga-speranskaya",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -108,5 +112,6 @@
 "etikett": "Eigenangabe",
 "version": 7
 }
-]
+],
+"parteispenden": []
 }

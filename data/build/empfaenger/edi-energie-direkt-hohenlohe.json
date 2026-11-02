@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006763/63567",
 "stand": "2026-09-22"
-}
+},
+"akte_id": "roland-weissert",
+"akte_sichtbar": false
 },
 {
 "name": "Friedrich Rath",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006763/63567",
 "stand": "2026-09-22"
-}
+},
+"akte_id": "friedrich-rath",
+"akte_sichtbar": false
 },
 {
 "name": "Tom Streckert",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006763/63567",
 "stand": "2026-09-22"
-}
+},
+"akte_id": "tom-streckert",
+"akte_sichtbar": false
 },
 {
 "name": "Günter Klaiber",
@@ -82,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006763/63567",
 "stand": "2026-09-22"
-}
+},
+"akte_id": "guenter-klaiber",
+"akte_sichtbar": false
 },
 {
 "name": "Alexander Süpple",
@@ -93,7 +101,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006763/63567",
 "stand": "2026-09-22"
-}
+},
+"akte_id": "alexander-suepple",
+"akte_sichtbar": false
 },
 {
 "name": "Alexandra Rottweiler",
@@ -104,7 +114,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006763/63567",
 "stand": "2026-09-22"
-}
+},
+"akte_id": "alexandra-rottweiler",
+"akte_sichtbar": false
 },
 {
 "name": "Timo Menzel",
@@ -115,7 +127,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006763/63567",
 "stand": "2026-09-22"
-}
+},
+"akte_id": "timo-menzel",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -155,5 +169,6 @@
 "etikett": "Eigenangabe",
 "version": 5
 }
-]
+],
+"parteispenden": []
 }

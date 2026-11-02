@@ -57,7 +57,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007004/82410",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "dirk-hoffmann",
+"akte_sichtbar": false
 },
 {
 "name": "Axel Blees",
@@ -68,7 +70,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007004/82410",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "axel-blees",
+"akte_sichtbar": false
 },
 {
 "name": "Sarah Neumann",
@@ -79,7 +83,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007004/82410",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "sarah-neumann",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -122,5 +128,6 @@
 "etikett": "Eigenangabe",
 "version": 6
 }
-]
+],
+"parteispenden": []
 }

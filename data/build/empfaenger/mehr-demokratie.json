@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003186/72404",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "claudine-nierth",
+"akte_sichtbar": false
 },
 {
 "name": "Roman Huber",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003186/72404",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "roman-huber",
+"akte_sichtbar": false
 },
 {
 "name": "Ralf-Uwe Beck",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003186/72404",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "ralf-uwe-beck",
+"akte_sichtbar": false
 },
 {
 "name": "Josef Merk",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003186/72404",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "josef-merk",
+"akte_sichtbar": false
 },
 {
 "name": "Anselm Renn",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003186/72404",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "anselm-renn",
+"akte_sichtbar": false
 },
 {
 "name": "Antje Schnarr",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003186/72404",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "antje-schnarr",
+"akte_sichtbar": false
 },
 {
 "name": "Jacob Birkenhäger",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003186/72404",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "jacob-birkenhaeger",
+"akte_sichtbar": false
 },
 {
 "name": "Juliane Baruck",
@@ -118,7 +132,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003186/72404",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "juliane-baruck",
+"akte_sichtbar": false
 },
 {
 "name": "Susanne Socher",
@@ -129,7 +145,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003186/72404",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "susanne-socher",
+"akte_sichtbar": false
 },
 {
 "name": "Oliver Wiedmann",
@@ -140,7 +158,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003186/72404",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "oliver-wiedmann",
+"akte_sichtbar": false
 },
 {
 "name": "Johannes Alber",
@@ -151,7 +171,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003186/72404",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "johannes-alber",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -193,5 +215,6 @@
 "etikett": "Eigenangabe",
 "version": 19
 }
-]
+],
+"parteispenden": []
 }

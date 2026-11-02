@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005869/86870",
 "stand": "2026-10-01"
-}
+},
+"akte_id": "bettina-ruoff",
+"akte_sichtbar": false
 },
 {
 "name": "Silvia Cromm",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005869/86870",
 "stand": "2026-10-01"
-}
+},
+"akte_id": "silvia-cromm",
+"akte_sichtbar": false
 },
 {
 "name": "Roland Strux",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005869/86870",
 "stand": "2026-10-01"
-}
+},
+"akte_id": "roland-strux",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -115,5 +121,6 @@
 "etikett": "Eigenangabe",
 "version": 10
 }
-]
+],
+"parteispenden": []
 }

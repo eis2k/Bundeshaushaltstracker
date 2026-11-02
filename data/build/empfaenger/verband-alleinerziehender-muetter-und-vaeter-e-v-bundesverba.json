@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002795/79691",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "daniela-jaspers",
+"akte_sichtbar": false
 },
 {
 "name": "Myriam Gros",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002795/79691",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "myriam-gros",
+"akte_sichtbar": false
 },
 {
 "name": "Heiko Pache",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002795/79691",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "heiko-pache",
+"akte_sichtbar": false
 },
 {
 "name": "Miriam Hoheisel",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002795/79691",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "miriam-hoheisel",
+"akte_sichtbar": false
 },
 {
 "name": "Lea Zimmermann",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002795/79691",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "lea-zimmermann",
+"akte_sichtbar": false
 },
 {
 "name": "Julia Preidel",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002795/79691",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "julia-preidel",
+"akte_sichtbar": false
 },
 {
 "name": "Simone Hirsch",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002795/79691",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "simone-hirsch",
+"akte_sichtbar": false
 },
 {
 "name": "Isolde Wagner-Pohl",
@@ -118,7 +132,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002795/79691",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "isolde-wagner-pohl",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -159,5 +175,6 @@
 "etikett": "Eigenangabe",
 "version": 8
 }
-]
+],
+"parteispenden": []
 }

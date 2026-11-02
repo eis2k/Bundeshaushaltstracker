@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002850/81276",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "rolf-sukowski",
+"akte_sichtbar": false
 },
 {
 "name": "Sylvia Werther",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002850/81276",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "sylvia-werther",
+"akte_sichtbar": false
 },
 {
 "name": "Uwe Jaenicke",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002850/81276",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "uwe-jaenicke",
+"akte_sichtbar": false
 },
 {
 "name": "Carola Gast",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002850/81276",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "carola-gast",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -116,5 +124,6 @@
 "etikett": "Eigenangabe",
 "version": 9
 }
-]
+],
+"parteispenden": []
 }

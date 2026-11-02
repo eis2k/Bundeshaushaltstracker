@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004685/82165",
 "stand": "2026-07-02"
-}
+},
+"akte_id": "anna-kluesener",
+"akte_sichtbar": false
 },
 {
 "name": "Celine Leonartz",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004685/82165",
 "stand": "2026-07-02"
-}
+},
+"akte_id": "celine-leonartz",
+"akte_sichtbar": false
 },
 {
 "name": "Brigitta Groeters",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004685/82165",
 "stand": "2026-07-02"
-}
+},
+"akte_id": "brigitta-groeters",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -106,5 +112,6 @@
 "etikett": "Eigenangabe",
 "version": 10
 }
-]
+],
+"parteispenden": []
 }

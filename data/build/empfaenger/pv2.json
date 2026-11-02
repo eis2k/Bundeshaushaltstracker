@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005748/79549",
 "stand": "2026-08-18"
-}
+},
+"akte_id": "katharina-braig",
+"akte_sichtbar": false
 },
 {
 "name": "Markus Joachim Glatthaar",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005748/79549",
 "stand": "2026-08-18"
-}
+},
+"akte_id": "markus-joachim-glatthaar",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -94,5 +98,6 @@
 "etikett": "Eigenangabe",
 "version": 5
 }
-]
+],
+"parteispenden": []
 }

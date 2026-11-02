@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000544/87138",
 "stand": "2026-10-06"
-}
+},
+"akte_id": "mirjam-overhoff",
+"akte_sichtbar": false
 },
 {
 "name": "Hannah Wolf",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000544/87138",
 "stand": "2026-10-06"
-}
+},
+"akte_id": "hannah-wolf",
+"akte_sichtbar": false
 },
 {
 "name": "Mary Montemayor",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000544/87138",
 "stand": "2026-10-06"
-}
+},
+"akte_id": "mary-montemayor",
+"akte_sichtbar": false
 },
 {
 "name": "Bernhard Höper",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000544/87138",
 "stand": "2026-10-06"
-}
+},
+"akte_id": "bernhard-hoeper-lr-r000544",
+"akte_sichtbar": false
 },
 {
 "name": "Michael Niggemann",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000544/87138",
 "stand": "2026-10-06"
-}
+},
+"akte_id": "michael-niggemann-lr-r000544",
+"akte_sichtbar": false
 },
 {
 "name": "Gebhard Körte",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000544/87138",
 "stand": "2026-10-06"
-}
+},
+"akte_id": "gebhard-koerte",
+"akte_sichtbar": false
 },
 {
 "name": "Lilli Breininger",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000544/87138",
 "stand": "2026-10-06"
-}
+},
+"akte_id": "lilli-breininger",
+"akte_sichtbar": false
 },
 {
 "name": "Emma Araullo-Weber",
@@ -118,7 +132,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000544/87138",
 "stand": "2026-10-06"
-}
+},
+"akte_id": "emma-araullo-weber",
+"akte_sichtbar": false
 },
 {
 "name": "Amadeo Kaus",
@@ -129,7 +145,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000544/87138",
 "stand": "2026-10-06"
-}
+},
+"akte_id": "amadeo-kaus",
+"akte_sichtbar": false
 },
 {
 "name": "Astrud Beringer",
@@ -140,7 +158,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000544/87138",
 "stand": "2026-10-06"
-}
+},
+"akte_id": "astrud-beringer",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -183,5 +203,6 @@
 "etikett": "Eigenangabe",
 "version": 8
 }
-]
+],
+"parteispenden": []
 }

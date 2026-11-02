@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005144/77366",
 "stand": "2026-05-27"
-}
+},
+"akte_id": "ekkehard-klemm",
+"akte_sichtbar": false
 },
 {
 "name": "Barbara Lucke",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005144/77366",
 "stand": "2026-05-27"
-}
+},
+"akte_id": "barbara-lucke",
+"akte_sichtbar": false
 },
 {
 "name": "Bruno Hohmann",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005144/77366",
 "stand": "2026-05-27"
-}
+},
+"akte_id": "bruno-hohmann",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -103,5 +109,6 @@
 "etikett": "Eigenangabe",
 "version": 9
 }
-]
+],
+"parteispenden": []
 }

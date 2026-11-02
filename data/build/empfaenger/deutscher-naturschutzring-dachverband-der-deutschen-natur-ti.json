@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001103/86778",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "kai-niebert-lr-r001103",
+"akte_sichtbar": false
 },
 {
 "name": "Thomas  Schröder",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001103/86778",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "thomas-schroeder",
+"akte_sichtbar": false
 },
 {
 "name": "Heike Vesper",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001103/86778",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "heike-vesper-lr-r001103",
+"akte_sichtbar": false
 },
 {
 "name": "Adrian Johst",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001103/86778",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "adrian-johst-lr-r001103",
+"akte_sichtbar": false
 },
 {
 "name": "Elena Hofmann",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001103/86778",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "elena-hofmann",
+"akte_sichtbar": false
 },
 {
 "name": "Birthe  März",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001103/86778",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "birthe-maerz",
+"akte_sichtbar": false
 },
 {
 "name": "Tobias Pforte-von Randow",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001103/86778",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "tobias-pforte-von-randow",
+"akte_sichtbar": false
 },
 {
 "name": "Svenja Schünemann",
@@ -118,7 +132,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001103/86778",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "svenja-schuenemann",
+"akte_sichtbar": false
 },
 {
 "name": "Florian  Schöne",
@@ -129,7 +145,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001103/86778",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "florian-schoene-lr-r001103",
+"akte_sichtbar": false
 },
 {
 "name": "Björn Pasemann",
@@ -140,7 +158,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001103/86778",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "bjoern-pasemann",
+"akte_sichtbar": false
 },
 {
 "name": "Christina Stoldt",
@@ -151,7 +171,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001103/86778",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "christina-stoldt",
+"akte_sichtbar": false
 },
 {
 "name": "Alexander Kräß",
@@ -168,7 +190,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001103/86778",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "alexander-kraess",
+"akte_sichtbar": true
 }
 ],
 "verbindungen": [
@@ -233,5 +257,6 @@
 "etikett": "Eigenangabe",
 "version": 33
 }
-]
+],
+"parteispenden": []
 }

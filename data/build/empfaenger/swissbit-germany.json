@@ -116,7 +116,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007715/83082",
 "stand": "2026-07-17"
-}
+},
+"akte_id": "lars-lust",
+"akte_sichtbar": false
 },
 {
 "name": "Chris Schwarze",
@@ -127,7 +129,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007715/83082",
 "stand": "2026-07-17"
-}
+},
+"akte_id": "chris-schwarze",
+"akte_sichtbar": false
 },
 {
 "name": "Julia Schmalenberg",
@@ -138,7 +142,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007715/83082",
 "stand": "2026-07-17"
-}
+},
+"akte_id": "julia-schmalenberg",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -183,5 +189,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

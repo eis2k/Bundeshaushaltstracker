@@ -57,7 +57,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002492/86882",
 "stand": "2026-10-01"
-}
+},
+"akte_id": "cheick-idriss-gonschinska",
+"akte_sichtbar": false
 },
 {
 "name": "Marc Möllmann",
@@ -68,7 +70,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002492/86882",
 "stand": "2026-10-01"
-}
+},
+"akte_id": "marc-moellmann",
+"akte_sichtbar": false
 },
 {
 "name": "Benedikt Ewald",
@@ -79,7 +83,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002492/86882",
 "stand": "2026-10-01"
-}
+},
+"akte_id": "benedikt-ewald",
+"akte_sichtbar": false
 },
 {
 "name": "Hans-Jörg Michels",
@@ -90,7 +96,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002492/86882",
 "stand": "2026-10-01"
-}
+},
+"akte_id": "hans-joerg-michels",
+"akte_sichtbar": false
 },
 {
 "name": "Anja Surmann",
@@ -101,7 +109,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002492/86882",
 "stand": "2026-10-01"
-}
+},
+"akte_id": "anja-surmann",
+"akte_sichtbar": false
 },
 {
 "name": "Gerhard Janetzky",
@@ -112,7 +122,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002492/86882",
 "stand": "2026-10-01"
-}
+},
+"akte_id": "gerhard-janetzky",
+"akte_sichtbar": false
 },
 {
 "name": "Vera Jaron",
@@ -123,7 +135,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002492/86882",
 "stand": "2026-10-01"
-}
+},
+"akte_id": "vera-jaron",
+"akte_sichtbar": false
 },
 {
 "name": "Roland Thietje",
@@ -134,7 +148,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002492/86882",
 "stand": "2026-10-01"
-}
+},
+"akte_id": "roland-thietje",
+"akte_sichtbar": false
 },
 {
 "name": "Katja Kliewer",
@@ -145,7 +161,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002492/86882",
 "stand": "2026-10-01"
-}
+},
+"akte_id": "katja-kliewer",
+"akte_sichtbar": false
 },
 {
 "name": "Friedhelm Julius Beucher",
@@ -156,7 +174,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002492/86882",
 "stand": "2026-10-01"
-}
+},
+"akte_id": "friedhelm-julius-beucher",
+"akte_sichtbar": false
 },
 {
 "name": "Stefan Knopp",
@@ -167,7 +187,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002492/86882",
 "stand": "2026-10-01"
-}
+},
+"akte_id": "stefan-knopp",
+"akte_sichtbar": false
 },
 {
 "name": "Fiona Witte",
@@ -184,7 +206,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002492/86882",
 "stand": "2026-10-01"
-}
+},
+"akte_id": "fiona-witte",
+"akte_sichtbar": true
 }
 ],
 "verbindungen": [
@@ -250,5 +274,6 @@
 "etikett": "Eigenangabe",
 "version": 19
 }
-]
+],
+"parteispenden": []
 }

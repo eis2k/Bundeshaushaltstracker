@@ -57,7 +57,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006524/78469",
 "stand": "2026-08-10"
-}
+},
+"akte_id": "corinna-dawid",
+"akte_sichtbar": false
 },
 {
 "name": "Astrid Fischer",
@@ -68,7 +70,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006524/78469",
 "stand": "2026-08-10"
-}
+},
+"akte_id": "astrid-fischer",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -110,5 +114,6 @@
 "etikett": "Eigenangabe",
 "version": 5
 }
-]
+],
+"parteispenden": []
 }

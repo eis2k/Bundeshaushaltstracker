@@ -68,7 +68,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005992/87146",
 "stand": "2026-10-06"
-}
+},
+"akte_id": "wiebke-lueke",
+"akte_sichtbar": true
 },
 {
 "name": "Gregor Polcyn",
@@ -79,7 +81,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005992/87146",
 "stand": "2026-10-06"
-}
+},
+"akte_id": "gregor-polcyn",
+"akte_sichtbar": false
 },
 {
 "name": "Lukas Lüke",
@@ -90,7 +94,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005992/87146",
 "stand": "2026-10-06"
-}
+},
+"akte_id": "lukas-lueke",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [
@@ -158,5 +164,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

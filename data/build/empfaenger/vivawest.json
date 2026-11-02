@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002862/83369",
 "stand": "2026-07-20"
-}
+},
+"akte_id": "sandra-wehrmann",
+"akte_sichtbar": false
 },
 {
 "name": "Haluk Serhat",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002862/83369",
 "stand": "2026-07-20"
-}
+},
+"akte_id": "haluk-serhat",
+"akte_sichtbar": false
 },
 {
 "name": "Karin Erhard",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002862/83369",
 "stand": "2026-07-20"
-}
+},
+"akte_id": "karin-erhard",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -112,5 +118,6 @@
 "etikett": "Eigenangabe",
 "version": 9
 }
-]
+],
+"parteispenden": []
 }

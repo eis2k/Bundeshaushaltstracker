@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007319/77416",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "nicola-schmidt",
+"akte_sichtbar": false
 },
 {
 "name": "Michael Meyer",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007319/77416",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "michael-meyer-lr-r007319",
+"akte_sichtbar": false
 },
 {
 "name": "Daniela Alvarado Rincón",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007319/77416",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "daniela-alvarado-rinc-n",
+"akte_sichtbar": false
 },
 {
 "name": "Dennis Wenzl",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007319/77416",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "dennis-wenzl",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -115,5 +123,6 @@
 "etikett": "Eigenangabe",
 "version": 3
 }
-]
+],
+"parteispenden": []
 }

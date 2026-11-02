@@ -73,7 +73,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002793/80790",
 "stand": "2026-09-15"
-}
+},
+"akte_id": "simon-isser",
+"akte_sichtbar": false
 },
 {
 "name": "Jörg Dreismann",
@@ -84,7 +86,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002793/80790",
 "stand": "2026-09-15"
-}
+},
+"akte_id": "joerg-dreismann",
+"akte_sichtbar": false
 },
 {
 "name": "Nils Hanraets",
@@ -95,7 +99,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002793/80790",
 "stand": "2026-09-15"
-}
+},
+"akte_id": "nils-hanraets",
+"akte_sichtbar": false
 },
 {
 "name": "Frank Grünert",
@@ -106,7 +112,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002793/80790",
 "stand": "2026-09-15"
-}
+},
+"akte_id": "frank-gruenert",
+"akte_sichtbar": false
 },
 {
 "name": "Brigitte Gstöttl",
@@ -117,7 +125,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002793/80790",
 "stand": "2026-09-15"
-}
+},
+"akte_id": "brigitte-gstoettl",
+"akte_sichtbar": false
 },
 {
 "name": "Irene Ostertag",
@@ -128,7 +138,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002793/80790",
 "stand": "2026-09-15"
-}
+},
+"akte_id": "irene-ostertag",
+"akte_sichtbar": false
 },
 {
 "name": "Stephan Schnell",
@@ -139,7 +151,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002793/80790",
 "stand": "2026-09-15"
-}
+},
+"akte_id": "stephan-schnell",
+"akte_sichtbar": false
 },
 {
 "name": "Julia Lieth",
@@ -150,7 +164,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002793/80790",
 "stand": "2026-09-15"
-}
+},
+"akte_id": "julia-lieth",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -192,5 +208,6 @@
 "etikett": "Eigenangabe",
 "version": 10
 }
-]
+],
+"parteispenden": []
 }

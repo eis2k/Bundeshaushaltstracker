@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004892/78302",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "philip-dehghan",
+"akte_sichtbar": false
 },
 {
 "name": "Jeanette Ploeger",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004892/78302",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "jeanette-ploeger",
+"akte_sichtbar": false
 },
 {
 "name": "Rob Peters",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004892/78302",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "rob-peters",
+"akte_sichtbar": false
 },
 {
 "name": "Jeremy Dähn",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004892/78302",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "jeremy-daehn",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -114,5 +122,6 @@
 "etikett": "Eigenangabe",
 "version": 10
 }
-]
+],
+"parteispenden": []
 }

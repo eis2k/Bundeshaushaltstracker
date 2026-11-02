@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008183/75800",
 "stand": "2026-08-24"
-}
+},
+"akte_id": "andreas-engelhardt",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -81,5 +83,6 @@
 "etikett": "Eigenangabe",
 "version": 1
 }
-]
+],
+"parteispenden": []
 }

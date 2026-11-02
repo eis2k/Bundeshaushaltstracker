@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005222/76067",
 "stand": "2026-06-08"
-}
+},
+"akte_id": "dirk-koeckler",
+"akte_sichtbar": false
 },
 {
 "name": "Hermann Hesseler",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005222/76067",
 "stand": "2026-06-08"
-}
+},
+"akte_id": "hermann-hesseler",
+"akte_sichtbar": false
 },
 {
 "name": "Jörg Sudhoff",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005222/76067",
 "stand": "2026-06-08"
-}
+},
+"akte_id": "joerg-sudhoff",
+"akte_sichtbar": false
 },
 {
 "name": "Jan Heinecke",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005222/76067",
 "stand": "2026-06-08"
-}
+},
+"akte_id": "jan-heinecke",
+"akte_sichtbar": false
 },
 {
 "name": "Bernd Homann",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005222/76067",
 "stand": "2026-06-08"
-}
+},
+"akte_id": "bernd-homann",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -125,5 +135,6 @@
 "etikett": "Eigenangabe",
 "version": 9
 }
-]
+],
+"parteispenden": []
 }

@@ -62,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000975/73393",
 "stand": "2026-03-09"
-}
+},
+"akte_id": "lutz-kampmann",
+"akte_sichtbar": false
 },
 {
 "name": "Alexander von Erdmannsdorff",
@@ -73,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000975/73393",
 "stand": "2026-03-09"
-}
+},
+"akte_id": "alexander-von-erdmannsdorff",
+"akte_sichtbar": false
 },
 {
 "name": "Kai Dlouhy",
@@ -84,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000975/73393",
 "stand": "2026-03-09"
-}
+},
+"akte_id": "kai-dlouhy",
+"akte_sichtbar": false
 },
 {
 "name": "Michael Dost",
@@ -95,7 +101,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000975/73393",
 "stand": "2026-03-09"
-}
+},
+"akte_id": "michael-dost",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -140,5 +148,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

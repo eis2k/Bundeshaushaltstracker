@@ -52,7 +52,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006391/71958",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "heiko-peckmann",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -98,5 +100,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

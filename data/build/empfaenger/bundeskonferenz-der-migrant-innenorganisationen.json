@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003554/83025",
 "stand": "2026-07-14"
-}
+},
+"akte_id": "ehsan-djafari",
+"akte_sichtbar": false
 },
 {
 "name": "Marianne Ballé Moudoumbou",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003554/83025",
 "stand": "2026-07-14"
-}
+},
+"akte_id": "marianne-ball-moudoumbou",
+"akte_sichtbar": false
 },
 {
 "name": "Michael AlliMadi",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003554/83025",
 "stand": "2026-07-14"
-}
+},
+"akte_id": "michael-allimadi",
+"akte_sichtbar": false
 },
 {
 "name": "Leyla Akpinar",
@@ -82,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003554/83025",
 "stand": "2026-07-14"
-}
+},
+"akte_id": "leyla-akpinar",
+"akte_sichtbar": false
 },
 {
 "name": "Anastasia Sudzilovskaya",
@@ -93,7 +101,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003554/83025",
 "stand": "2026-07-14"
-}
+},
+"akte_id": "anastasia-sudzilovskaya-lr-r003554",
+"akte_sichtbar": false
 },
 {
 "name": "Cana Nurtsch",
@@ -104,7 +114,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003554/83025",
 "stand": "2026-07-14"
-}
+},
+"akte_id": "cana-nurtsch-lr-r003554",
+"akte_sichtbar": false
 },
 {
 "name": "Zeynep Sezgin Radant",
@@ -115,7 +127,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003554/83025",
 "stand": "2026-07-14"
-}
+},
+"akte_id": "zeynep-sezgin-radant",
+"akte_sichtbar": false
 },
 {
 "name": "Karen Taylor",
@@ -132,7 +146,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003554/83025",
 "stand": "2026-07-14"
-}
+},
+"akte_id": "karen-taylor",
+"akte_sichtbar": true
 },
 {
 "name": "Eter Hachmann",
@@ -143,7 +159,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003554/83025",
 "stand": "2026-07-14"
-}
+},
+"akte_id": "eter-hachmann",
+"akte_sichtbar": false
 },
 {
 "name": "Lena Graser",
@@ -154,7 +172,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003554/83025",
 "stand": "2026-07-14"
-}
+},
+"akte_id": "lena-graser",
+"akte_sichtbar": false
 },
 {
 "name": "Amir Alexander Fahim",
@@ -165,7 +185,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003554/83025",
 "stand": "2026-07-14"
-}
+},
+"akte_id": "amir-alexander-fahim",
+"akte_sichtbar": false
 },
 {
 "name": "Jackie Schöneck",
@@ -182,7 +204,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003554/83025",
 "stand": "2026-07-14"
-}
+},
+"akte_id": "jackie-schoeneck",
+"akte_sichtbar": true
 }
 ],
 "verbindungen": [
@@ -260,5 +284,6 @@
 "etikett": "Eigenangabe",
 "version": 8
 }
-]
+],
+"parteispenden": []
 }

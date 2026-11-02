@@ -57,7 +57,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007701/86859",
 "stand": "2026-10-01"
-}
+},
+"akte_id": "matthias-geiger",
+"akte_sichtbar": false
 },
 {
 "name": "Dalia Samra-Rohte",
@@ -68,7 +70,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007701/86859",
 "stand": "2026-10-01"
-}
+},
+"akte_id": "dalia-samra-rohte",
+"akte_sichtbar": false
 },
 {
 "name": "Kristina Jolanta Schmidt",
@@ -79,7 +83,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007701/86859",
 "stand": "2026-10-01"
-}
+},
+"akte_id": "kristina-jolanta-schmidt",
+"akte_sichtbar": false
 },
 {
 "name": "Hege Louise Guttormsen",
@@ -90,7 +96,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007701/86859",
 "stand": "2026-10-01"
-}
+},
+"akte_id": "hege-louise-guttormsen",
+"akte_sichtbar": false
 },
 {
 "name": "Anna Hansen Haugan",
@@ -101,7 +109,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007701/86859",
 "stand": "2026-10-01"
-}
+},
+"akte_id": "anna-hansen-haugan",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -143,5 +153,6 @@
 "etikett": "Eigenangabe",
 "version": 4
 }
-]
+],
+"parteispenden": []
 }

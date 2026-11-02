@@ -121,7 +121,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004417/81683",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "alexander-becker",
+"akte_sichtbar": false
 },
 {
 "name": "Anne-Marie Großmann",
@@ -132,7 +134,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004417/81683",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "anne-marie-grossmann",
+"akte_sichtbar": false
 },
 {
 "name": "Mathias Hölscher",
@@ -143,7 +147,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004417/81683",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "mathias-hoelscher",
+"akte_sichtbar": false
 },
 {
 "name": "Frank Düssler",
@@ -154,7 +160,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004417/81683",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "frank-duessler",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -194,5 +202,6 @@
 "etikett": "Eigenangabe",
 "version": 14
 }
-]
+],
+"parteispenden": []
 }

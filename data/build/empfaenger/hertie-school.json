@@ -81,7 +81,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004993/73804",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "axel-thomas-baisch",
+"akte_sichtbar": false
 },
 {
 "name": "Romy Hansum",
@@ -92,7 +94,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004993/73804",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "romy-hansum",
+"akte_sichtbar": false
 },
 {
 "name": "Phillipp Julian Jäger",
@@ -103,7 +107,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004993/73804",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "phillipp-julian-jaeger",
+"akte_sichtbar": false
 },
 {
 "name": "Nils Redeker",
@@ -114,7 +120,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004993/73804",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "nils-redeker",
+"akte_sichtbar": false
 },
 {
 "name": "Hoai-Thu Nguyen",
@@ -125,7 +133,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004993/73804",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "hoai-thu-nguyen",
+"akte_sichtbar": false
 },
 {
 "name": "Yann Wernert",
@@ -136,7 +146,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004993/73804",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "yann-wernert",
+"akte_sichtbar": false
 },
 {
 "name": "Jannik Jansen",
@@ -153,7 +165,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004993/73804",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "jannik-jansen",
+"akte_sichtbar": true
 },
 {
 "name": "Linda Hewitt",
@@ -164,7 +178,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004993/73804",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "linda-hewitt",
+"akte_sichtbar": false
 },
 {
 "name": "Arthur Claus Harry Leichthammer",
@@ -181,7 +197,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004993/73804",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "arthur-claus-harry-leichthammer",
+"akte_sichtbar": true
 },
 {
 "name": "Luise Karla Pauline Quaritsch",
@@ -192,7 +210,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004993/73804",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "luise-karla-pauline-quaritsch",
+"akte_sichtbar": false
 },
 {
 "name": "Marlene Schörner",
@@ -209,7 +229,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004993/73804",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "marlene-schoerner",
+"akte_sichtbar": true
 }
 ],
 "verbindungen": [
@@ -330,5 +352,6 @@
 "etikett": "Eigenangabe",
 "version": 10
 }
-]
+],
+"parteispenden": []
 }

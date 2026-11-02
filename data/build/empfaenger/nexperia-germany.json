@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004566/79548",
 "stand": "2026-06-17"
-}
+},
+"akte_id": "stefan-schwantes",
+"akte_sichtbar": false
 },
 {
 "name": "Andre Schulte-Bisping",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004566/79548",
 "stand": "2026-06-17"
-}
+},
+"akte_id": "andre-schulte-bisping",
+"akte_sichtbar": false
 },
 {
 "name": "Maritza Kompatzki",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004566/79548",
 "stand": "2026-06-17"
-}
+},
+"akte_id": "maritza-kompatzki",
+"akte_sichtbar": false
 },
 {
 "name": "Hannes Van Raemdonck",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004566/79548",
 "stand": "2026-06-17"
-}
+},
+"akte_id": "hannes-van-raemdonck",
+"akte_sichtbar": false
 },
 {
 "name": "Stefan Tilger",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004566/79548",
 "stand": "2026-06-17"
-}
+},
+"akte_id": "stefan-tilger",
+"akte_sichtbar": false
 },
 {
 "name": "Achim Kempe",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004566/79548",
 "stand": "2026-06-17"
-}
+},
+"akte_id": "achim-kempe",
+"akte_sichtbar": false
 },
 {
 "name": "Ansgar Thorns",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004566/79548",
 "stand": "2026-06-17"
-}
+},
+"akte_id": "ansgar-thorns",
+"akte_sichtbar": false
 },
 {
 "name": "Andreas Jantschak",
@@ -118,7 +132,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004566/79548",
 "stand": "2026-06-17"
-}
+},
+"akte_id": "andreas-jantschak",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -159,5 +175,6 @@
 "etikett": "Eigenangabe",
 "version": 9
 }
-]
+],
+"parteispenden": []
 }

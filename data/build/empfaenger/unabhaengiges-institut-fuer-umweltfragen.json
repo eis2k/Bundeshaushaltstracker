@@ -73,7 +73,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004653/78447",
 "stand": "2026-06-23"
-}
+},
+"akte_id": "michael-zschiesche",
+"akte_sichtbar": false
 },
 {
 "name": "Florian Kliche",
@@ -84,7 +86,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004653/78447",
 "stand": "2026-06-23"
-}
+},
+"akte_id": "florian-kliche",
+"akte_sichtbar": false
 },
 {
 "name": "Adrian Johst",
@@ -95,7 +99,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004653/78447",
 "stand": "2026-06-23"
-}
+},
+"akte_id": "adrian-johst-lr-r003006",
+"akte_sichtbar": false
 },
 {
 "name": "Berthold Breid",
@@ -106,7 +112,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004653/78447",
 "stand": "2026-06-23"
-}
+},
+"akte_id": "berthold-breid",
+"akte_sichtbar": false
 },
 {
 "name": "Jonas Rüffer",
@@ -117,7 +125,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004653/78447",
 "stand": "2026-06-23"
-}
+},
+"akte_id": "jonas-rueffer",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -159,5 +169,6 @@
 "etikett": "Eigenangabe",
 "version": 10
 }
-]
+],
+"parteispenden": []
 }

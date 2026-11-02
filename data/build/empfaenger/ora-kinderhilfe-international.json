@@ -73,7 +73,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006205/82805",
 "stand": "2026-07-16"
-}
+},
+"akte_id": "carmen-schoengraf",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -116,5 +118,6 @@
 "etikett": "Eigenangabe",
 "version": 9
 }
-]
+],
+"parteispenden": []
 }

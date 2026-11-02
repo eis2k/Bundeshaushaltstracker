@@ -65,7 +65,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004310/77247",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "frank-ziegele",
+"akte_sichtbar": false
 },
 {
 "name": "Ulrich Müller",
@@ -76,7 +78,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004310/77247",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "ulrich-mueller",
+"akte_sichtbar": false
 },
 {
 "name": "Sigrun Nickel",
@@ -87,7 +91,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004310/77247",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "sigrun-nickel",
+"akte_sichtbar": false
 },
 {
 "name": "Julius Friedrich",
@@ -98,7 +104,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004310/77247",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "julius-friedrich",
+"akte_sichtbar": false
 },
 {
 "name": "Bianca Brinkmann",
@@ -109,7 +117,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004310/77247",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "bianca-brinkmann",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -151,5 +161,6 @@
 "etikett": "Eigenangabe",
 "version": 7
 }
-]
+],
+"parteispenden": []
 }

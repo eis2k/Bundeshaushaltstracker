@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004448/88072",
 "stand": "2026-10-27"
-}
+},
+"akte_id": "michael-ermrich",
+"akte_sichtbar": false
 },
 {
 "name": "Werner Mohr",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004448/88072",
 "stand": "2026-10-27"
-}
+},
+"akte_id": "werner-mohr",
+"akte_sichtbar": false
 },
 {
 "name": "Heidrun Hiemer",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004448/88072",
 "stand": "2026-10-27"
-}
+},
+"akte_id": "heidrun-hiemer",
+"akte_sichtbar": false
 },
 {
 "name": "Thomas Gemke",
@@ -82,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004448/88072",
 "stand": "2026-10-27"
-}
+},
+"akte_id": "thomas-gemke",
+"akte_sichtbar": false
 },
 {
 "name": "Angela Sabac-el-Cher",
@@ -93,7 +101,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004448/88072",
 "stand": "2026-10-27"
-}
+},
+"akte_id": "angela-sabac-el-cher",
+"akte_sichtbar": false
 },
 {
 "name": "Matthias Löb",
@@ -104,7 +114,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004448/88072",
 "stand": "2026-10-27"
-}
+},
+"akte_id": "matthias-loeb",
+"akte_sichtbar": false
 },
 {
 "name": "Bernd Hartmann",
@@ -115,7 +127,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004448/88072",
 "stand": "2026-10-27"
-}
+},
+"akte_id": "bernd-hartmann",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -157,5 +171,6 @@
 "etikett": "Eigenangabe",
 "version": 9
 }
-]
+],
+"parteispenden": []
 }

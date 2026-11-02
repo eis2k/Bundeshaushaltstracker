@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003881/82576",
 "stand": "2026-10-13"
-}
+},
+"akte_id": "jurand-daszkowski",
+"akte_sichtbar": false
 },
 {
 "name": "Felix Freiherr von Kirchbach",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003881/82576",
 "stand": "2026-10-13"
-}
+},
+"akte_id": "felix-freiherr-von-kirchbach",
+"akte_sichtbar": false
 },
 {
 "name": "Sabine Wieg",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003881/82576",
 "stand": "2026-10-13"
-}
+},
+"akte_id": "sabine-wieg",
+"akte_sichtbar": false
 },
 {
 "name": "Matthias Seibt",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003881/82576",
 "stand": "2026-10-13"
-}
+},
+"akte_id": "matthias-seibt",
+"akte_sichtbar": false
 },
 {
 "name": "Bettina Otto-Lange",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003881/82576",
 "stand": "2026-10-13"
-}
+},
+"akte_id": "bettina-otto-lange",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -127,5 +137,6 @@
 "etikett": "Eigenangabe",
 "version": 8
 }
-]
+],
+"parteispenden": []
 }

@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007921/73596",
 "stand": "2026-03-31"
-}
+},
+"akte_id": "christine-regus",
+"akte_sichtbar": false
 },
 {
 "name": "Druffner Frank",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007921/73596",
 "stand": "2026-03-31"
-}
+},
+"akte_id": "druffner-frank",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -92,5 +96,6 @@
 "etikett": "Eigenangabe",
 "version": 1
 }
-]
+],
+"parteispenden": []
 }

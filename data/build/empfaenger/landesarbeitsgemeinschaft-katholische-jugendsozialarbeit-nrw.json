@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008220/71595",
 "stand": "2026-09-14"
-}
+},
+"akte_id": "selina-saeger",
+"akte_sichtbar": false
 },
 {
 "name": "Frank Janßen",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008220/71595",
 "stand": "2026-09-14"
-}
+},
+"akte_id": "frank-janssen",
+"akte_sichtbar": false
 },
 {
 "name": "Dietmar Vitt",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008220/71595",
 "stand": "2026-09-14"
-}
+},
+"akte_id": "dietmar-vitt",
+"akte_sichtbar": false
 },
 {
 "name": "Stefan Ewers",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008220/71595",
 "stand": "2026-09-14"
-}
+},
+"akte_id": "stefan-ewers-lr-r008220",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -115,5 +123,6 @@
 "etikett": "Eigenangabe",
 "version": 1
 }
-]
+],
+"parteispenden": []
 }

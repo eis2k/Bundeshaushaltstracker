@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006137/76760",
 "stand": "2026-05-15"
-}
+},
+"akte_id": "philipp-schuster",
+"akte_sichtbar": false
 },
 {
 "name": "Konstantin Obolenski",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006137/76760",
 "stand": "2026-05-15"
-}
+},
+"akte_id": "konstantin-obolenski",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -100,5 +104,6 @@
 "etikett": "Eigenangabe",
 "version": 10
 }
-]
+],
+"parteispenden": []
 }

@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007029/83484",
 "stand": "2026-07-21"
-}
+},
+"akte_id": "timo-bollerhey",
+"akte_sichtbar": false
 },
 {
 "name": "Christian Trottmann",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007029/83484",
 "stand": "2026-07-21"
-}
+},
+"akte_id": "christian-trottmann",
+"akte_sichtbar": false
 },
 {
 "name": "Florian Geyer",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007029/83484",
 "stand": "2026-07-21"
-}
+},
+"akte_id": "florian-geyer",
+"akte_sichtbar": false
 },
 {
 "name": "Markus Enke",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007029/83484",
 "stand": "2026-07-21"
-}
+},
+"akte_id": "markus-enke",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -116,5 +124,6 @@
 "etikett": "Eigenangabe",
 "version": 4
 }
-]
+],
+"parteispenden": []
 }

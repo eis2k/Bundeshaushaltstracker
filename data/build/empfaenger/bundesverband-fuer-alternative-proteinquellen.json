@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006020/87873",
 "stand": "2026-10-21"
-}
+},
+"akte_id": "fabio-ziemssen",
+"akte_sichtbar": false
 },
 {
 "name": "Hauschildt Claudia",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006020/87873",
 "stand": "2026-10-21"
-}
+},
+"akte_id": "hauschildt-claudia",
+"akte_sichtbar": false
 },
 {
 "name": "William Trautmann",
@@ -69,7 +73,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006020/87873",
 "stand": "2026-10-21"
-}
+},
+"akte_id": "william-trautmann",
+"akte_sichtbar": true
 },
 {
 "name": "Ronja Berthold",
@@ -80,7 +86,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006020/87873",
 "stand": "2026-10-21"
-}
+},
+"akte_id": "ronja-berthold",
+"akte_sichtbar": false
 },
 {
 "name": "Sebastian Ludewig",
@@ -91,7 +99,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006020/87873",
 "stand": "2026-10-21"
-}
+},
+"akte_id": "sebastian-ludewig",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [
@@ -153,5 +163,6 @@
 "etikett": "Eigenangabe",
 "version": 15
 }
-]
+],
+"parteispenden": []
 }

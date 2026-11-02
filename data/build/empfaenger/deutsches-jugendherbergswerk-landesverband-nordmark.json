@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007382/82062",
 "stand": "2026-07-14"
-}
+},
+"akte_id": "thies-grothe",
+"akte_sichtbar": false
 },
 {
 "name": "Stefan Wehrheim",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007382/82062",
 "stand": "2026-07-14"
-}
+},
+"akte_id": "stefan-wehrheim",
+"akte_sichtbar": false
 },
 {
 "name": "Jens Peter Jensen",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007382/82062",
 "stand": "2026-07-14"
-}
+},
+"akte_id": "jens-peter-jensen",
+"akte_sichtbar": false
 },
 {
 "name": "Alexandra Ehlers",
@@ -82,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007382/82062",
 "stand": "2026-07-14"
-}
+},
+"akte_id": "alexandra-ehlers",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -124,5 +132,6 @@
 "etikett": "Eigenangabe",
 "version": 9
 }
-]
+],
+"parteispenden": []
 }

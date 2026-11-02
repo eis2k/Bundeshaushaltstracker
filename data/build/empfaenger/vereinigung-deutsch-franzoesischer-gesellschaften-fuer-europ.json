@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001841/79268",
 "stand": "2026-06-23"
-}
+},
+"akte_id": "jochen-hake",
+"akte_sichtbar": false
 },
 {
 "name": "Claus Michael Allmendinger",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001841/79268",
 "stand": "2026-06-23"
-}
+},
+"akte_id": "claus-michael-allmendinger",
+"akte_sichtbar": false
 },
 {
 "name": "Sylvaine Mody",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001841/79268",
 "stand": "2026-06-23"
-}
+},
+"akte_id": "sylvaine-mody",
+"akte_sichtbar": false
 },
 {
 "name": "Johannes Jacobi",
@@ -82,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001841/79268",
 "stand": "2026-06-23"
-}
+},
+"akte_id": "johannes-jacobi",
+"akte_sichtbar": false
 },
 {
 "name": "Margarete Mehdorn",
@@ -93,7 +101,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001841/79268",
 "stand": "2026-06-23"
-}
+},
+"akte_id": "margarete-mehdorn",
+"akte_sichtbar": false
 },
 {
 "name": "Felix Lennart Hake",
@@ -104,7 +114,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001841/79268",
 "stand": "2026-06-23"
-}
+},
+"akte_id": "felix-lennart-hake",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -147,5 +159,6 @@
 "etikett": "Eigenangabe",
 "version": 11
 }
-]
+],
+"parteispenden": []
 }

@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003863/84888",
 "stand": "2026-10-15"
-}
+},
+"akte_id": "marie-luisa-allemeyer",
+"akte_sichtbar": false
 },
 {
 "name": "Florian Bolenius",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003863/84888",
 "stand": "2026-10-15"
-}
+},
+"akte_id": "florian-bolenius",
+"akte_sichtbar": false
 },
 {
 "name": "Iris Edenheiser",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003863/84888",
 "stand": "2026-10-15"
-}
+},
+"akte_id": "iris-edenheiser",
+"akte_sichtbar": false
 },
 {
 "name": "Patricia Rahemipour",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003863/84888",
 "stand": "2026-10-15"
-}
+},
+"akte_id": "patricia-rahemipour",
+"akte_sichtbar": false
 },
 {
 "name": "Ute Pott",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003863/84888",
 "stand": "2026-10-15"
-}
+},
+"akte_id": "ute-pott",
+"akte_sichtbar": false
 },
 {
 "name": "Christina Reinsch",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003863/84888",
 "stand": "2026-10-15"
-}
+},
+"akte_id": "christina-reinsch",
+"akte_sichtbar": false
 },
 {
 "name": "Menekse Wenzler",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003863/84888",
 "stand": "2026-10-15"
-}
+},
+"akte_id": "menekse-wenzler",
+"akte_sichtbar": false
 },
 {
 "name": "Dietrich Wolf Fenner",
@@ -118,7 +132,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003863/84888",
 "stand": "2026-10-15"
-}
+},
+"akte_id": "dietrich-wolf-fenner",
+"akte_sichtbar": false
 },
 {
 "name": "Dietmar Osses",
@@ -129,7 +145,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003863/84888",
 "stand": "2026-10-15"
-}
+},
+"akte_id": "dietmar-osses",
+"akte_sichtbar": false
 },
 {
 "name": "Katharina Weick-Joch",
@@ -140,7 +158,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003863/84888",
 "stand": "2026-10-15"
-}
+},
+"akte_id": "katharina-weick-joch",
+"akte_sichtbar": false
 },
 {
 "name": "Sebastian Schwarzenberger",
@@ -151,7 +171,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003863/84888",
 "stand": "2026-10-15"
-}
+},
+"akte_id": "sebastian-schwarzenberger",
+"akte_sichtbar": false
 },
 {
 "name": "Sylvia Willkomm",
@@ -162,7 +184,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003863/84888",
 "stand": "2026-10-15"
-}
+},
+"akte_id": "sylvia-willkomm",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -204,5 +228,6 @@
 "etikett": "Eigenangabe",
 "version": 12
 }
-]
+],
+"parteispenden": []
 }

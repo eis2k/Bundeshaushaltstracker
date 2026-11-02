@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002163/82748",
 "stand": "2026-07-08"
-}
+},
+"akte_id": "birgit-fahlteich",
+"akte_sichtbar": false
 },
 {
 "name": "Benedikt Fuhlrott",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002163/82748",
 "stand": "2026-07-08"
-}
+},
+"akte_id": "benedikt-fuhlrott",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -92,5 +96,6 @@
 "etikett": "Eigenangabe",
 "version": 10
 }
-]
+],
+"parteispenden": []
 }

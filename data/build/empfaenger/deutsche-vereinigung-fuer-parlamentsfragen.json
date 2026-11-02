@@ -47,7 +47,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003792/70187",
 "stand": "2026-01-15"
-}
+},
+"akte_id": "macit-karaahmeto-lu",
+"akte_sichtbar": true
 },
 {
 "name": "Alexander Troche",
@@ -64,7 +66,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003792/70187",
 "stand": "2026-01-15"
-}
+},
+"akte_id": "alexander-troche",
+"akte_sichtbar": true
 }
 ],
 "verbindungen": [
@@ -225,5 +229,6 @@
 "abgerufen": "2026-11-01",
 "etikett": "Eigenangabe"
 }
-]
+],
+"parteispenden": []
 }

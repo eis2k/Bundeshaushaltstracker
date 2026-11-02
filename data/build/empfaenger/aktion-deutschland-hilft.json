@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004689/79898",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "carl-alexander-siebel",
+"akte_sichtbar": false
 },
 {
 "name": "Stefan Ewers",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004689/79898",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "stefan-ewers-lr-r002577",
+"akte_sichtbar": false
 },
 {
 "name": "Sid Johann Peruvemba",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004689/79898",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "sid-johann-peruvemba",
+"akte_sichtbar": false
 },
 {
 "name": "Maria Regina Rüther",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004689/79898",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "maria-regina-ruether",
+"akte_sichtbar": false
 },
 {
 "name": "Thilo Reichenbach",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004689/79898",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "thilo-reichenbach",
+"akte_sichtbar": false
 },
 {
 "name": "Markus Holger Gieske",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004689/79898",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "markus-holger-gieske",
+"akte_sichtbar": false
 },
 {
 "name": "Janine Ursula Lietmeyer",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004689/79898",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "janine-ursula-lietmeyer",
+"akte_sichtbar": false
 },
 {
 "name": "Susanne Wesemann",
@@ -118,7 +132,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004689/79898",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "susanne-wesemann",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [
@@ -335,5 +351,6 @@
 "abgerufen": "2026-11-01",
 "etikett": "Eigenangabe"
 }
-]
+],
+"parteispenden": []
 }

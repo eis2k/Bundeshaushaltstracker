@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000148/83218",
 "stand": "2026-07-16"
-}
+},
+"akte_id": "matthias-sammet",
+"akte_sichtbar": false
 },
 {
 "name": "Marthe Tiana Vellguth",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000148/83218",
 "stand": "2026-07-16"
-}
+},
+"akte_id": "marthe-tiana-vellguth",
+"akte_sichtbar": false
 },
 {
 "name": "Lars Ruschmeyer",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000148/83218",
 "stand": "2026-07-16"
-}
+},
+"akte_id": "lars-ruschmeyer",
+"akte_sichtbar": false
 },
 {
 "name": "Christian Leu",
@@ -82,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000148/83218",
 "stand": "2026-07-16"
-}
+},
+"akte_id": "christian-leu",
+"akte_sichtbar": false
 },
 {
 "name": "Paul Krug",
@@ -93,7 +101,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000148/83218",
 "stand": "2026-07-16"
-}
+},
+"akte_id": "paul-krug",
+"akte_sichtbar": false
 },
 {
 "name": "Sandra Schlee",
@@ -104,7 +114,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000148/83218",
 "stand": "2026-07-16"
-}
+},
+"akte_id": "sandra-schlee",
+"akte_sichtbar": false
 },
 {
 "name": "Evelyn Berner",
@@ -115,7 +127,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000148/83218",
 "stand": "2026-07-16"
-}
+},
+"akte_id": "evelyn-berner",
+"akte_sichtbar": false
 },
 {
 "name": "Carina Gräschke",
@@ -126,7 +140,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000148/83218",
 "stand": "2026-07-16"
-}
+},
+"akte_id": "carina-graeschke",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -167,5 +183,6 @@
 "etikett": "Eigenangabe",
 "version": 20
 }
-]
+],
+"parteispenden": []
 }

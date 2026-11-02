@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005795/61272",
 "stand": "2025-07-04"
-}
+},
+"akte_id": "katja-anclam",
+"akte_sichtbar": false
 },
 {
 "name": "Annette Gräfin von Wedel",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005795/61272",
 "stand": "2025-07-04"
-}
+},
+"akte_id": "annette-graefin-von-wedel",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -93,5 +97,6 @@
 "etikett": "Eigenangabe",
 "version": 8
 }
-]
+],
+"parteispenden": []
 }

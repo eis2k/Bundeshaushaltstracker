@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002644/82500",
 "stand": "2026-07-14"
-}
+},
+"akte_id": "heidemarie-haeske-seeberg",
+"akte_sichtbar": false
 },
 {
 "name": "Albrecht Stier",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002644/82500",
 "stand": "2026-07-14"
-}
+},
+"akte_id": "albrecht-stier",
+"akte_sichtbar": false
 },
 {
 "name": "Diel Franziska",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002644/82500",
 "stand": "2026-07-14"
-}
+},
+"akte_id": "diel-franziska",
+"akte_sichtbar": false
 },
 {
 "name": "Franziska Diel",
@@ -82,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002644/82500",
 "stand": "2026-07-14"
-}
+},
+"akte_id": "franziska-diel",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [
@@ -163,5 +171,6 @@
 "abgerufen": "2026-11-01",
 "etikett": "Eigenangabe"
 }
-]
+],
+"parteispenden": []
 }

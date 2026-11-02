@@ -57,7 +57,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001071/77132",
 "stand": "2026-05-22"
-}
+},
+"akte_id": "klaus-stieglitz",
+"akte_sichtbar": false
 },
 {
 "name": "Miriam Schütze",
@@ -68,7 +70,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001071/77132",
 "stand": "2026-05-22"
-}
+},
+"akte_id": "miriam-schuetze",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -110,5 +114,6 @@
 "etikett": "Eigenangabe",
 "version": 17
 }
-]
+],
+"parteispenden": []
 }

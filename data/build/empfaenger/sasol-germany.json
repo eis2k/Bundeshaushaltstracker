@@ -52,7 +52,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004748/76090",
 "stand": "2026-04-30"
-}
+},
+"akte_id": "mark-breitenfelder",
+"akte_sichtbar": false
 },
 {
 "name": "Christoph de Beer",
@@ -63,7 +65,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004748/76090",
 "stand": "2026-04-30"
-}
+},
+"akte_id": "christoph-de-beer",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -109,5 +113,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

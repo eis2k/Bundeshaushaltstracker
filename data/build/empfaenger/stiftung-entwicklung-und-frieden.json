@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003648/78727",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "oliver-krauss-mdl",
+"akte_sichtbar": false
 },
 {
 "name": "Ulrich Beyer",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003648/78727",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "ulrich-beyer",
+"akte_sichtbar": false
 },
 {
 "name": "Martin Gorholt",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003648/78727",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "martin-gorholt",
+"akte_sichtbar": false
 },
 {
 "name": "Randa Kourieh-Ranarivelo",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003648/78727",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "randa-kourieh-ranarivelo",
+"akte_sichtbar": false
 },
 {
 "name": "Christof Hartmann",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003648/78727",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "christof-hartmann",
+"akte_sichtbar": false
 },
 {
 "name": "Nora Witt",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003648/78727",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "nora-witt",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -136,5 +148,6 @@
 "etikett": "Eigenangabe",
 "version": 8
 }
-]
+],
+"parteispenden": []
 }

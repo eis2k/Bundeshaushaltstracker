@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001754/73675",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "till-hofmann",
+"akte_sichtbar": false
 },
 {
 "name": "Stephan Dünnwald",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001754/73675",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "stephan-duennwald-lr-r001754",
+"akte_sichtbar": false
 },
 {
 "name": "Angela Bauer",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001754/73675",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "angela-bauer-lr-r001754",
+"akte_sichtbar": false
 },
 {
 "name": "Barbara Bergau",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001754/73675",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "barbara-bergau",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -117,5 +125,6 @@
 "etikett": "Eigenangabe",
 "version": 7
 }
-]
+],
+"parteispenden": []
 }

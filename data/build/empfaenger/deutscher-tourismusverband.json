@@ -65,7 +65,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001161/78871",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "norbert-kunz",
+"akte_sichtbar": false
 },
 {
 "name": "Reinhard Meyer",
@@ -76,7 +78,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001161/78871",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "reinhard-meyer",
+"akte_sichtbar": false
 },
 {
 "name": "Armin Dellnitz",
@@ -87,7 +91,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001161/78871",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "armin-dellnitz",
+"akte_sichtbar": false
 },
 {
 "name": "Heike Döll-König",
@@ -98,7 +104,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001161/78871",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "heike-doell-koenig",
+"akte_sichtbar": false
 },
 {
 "name": "Birgit Grauvogel",
@@ -109,7 +117,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001161/78871",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "birgit-grauvogel",
+"akte_sichtbar": false
 },
 {
 "name": "Sven Wolf",
@@ -120,7 +130,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001161/78871",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "sven-wolf",
+"akte_sichtbar": false
 },
 {
 "name": "Iris Hegemann",
@@ -131,7 +143,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001161/78871",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "iris-hegemann",
+"akte_sichtbar": false
 },
 {
 "name": "Tim Adler",
@@ -142,7 +156,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001161/78871",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "tim-adler",
+"akte_sichtbar": false
 },
 {
 "name": "Olaf Bentlage",
@@ -159,7 +175,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001161/78871",
 "stand": "2026-07-01"
-}
+},
+"akte_id": "olaf-bentlage",
+"akte_sichtbar": true
 }
 ],
 "verbindungen": [
@@ -224,5 +242,6 @@
 "etikett": "Eigenangabe",
 "version": 12
 }
-]
+],
+"parteispenden": []
 }

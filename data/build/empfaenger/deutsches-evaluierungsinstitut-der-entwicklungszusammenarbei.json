@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003540/78014",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "joerg-faust",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -89,5 +91,6 @@
 "etikett": "Eigenangabe",
 "version": 8
 }
-]
+],
+"parteispenden": []
 }

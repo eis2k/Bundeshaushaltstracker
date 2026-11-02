@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005304/83039",
 "stand": "2026-07-29"
-}
+},
+"akte_id": "anke-stock",
+"akte_sichtbar": false
 },
 {
 "name": "Sascha Kranendonk Gabizon",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005304/83039",
 "stand": "2026-07-29"
-}
+},
+"akte_id": "sascha-kranendonk-gabizon",
+"akte_sichtbar": false
 },
 {
 "name": "Gabriele Köhler",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005304/83039",
 "stand": "2026-07-29"
-}
+},
+"akte_id": "gabriele-koehler",
+"akte_sichtbar": false
 },
 {
 "name": "Wolfgang Obenland",
@@ -82,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005304/83039",
 "stand": "2026-07-29"
-}
+},
+"akte_id": "wolfgang-obenland",
+"akte_sichtbar": false
 },
 {
 "name": "Johanna Hausmann",
@@ -93,7 +101,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005304/83039",
 "stand": "2026-07-29"
-}
+},
+"akte_id": "johanna-hausmann",
+"akte_sichtbar": false
 },
 {
 "name": "Anne Barre",
@@ -104,7 +114,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005304/83039",
 "stand": "2026-07-29"
-}
+},
+"akte_id": "anne-barre",
+"akte_sichtbar": false
 },
 {
 "name": "Katharina Habersbrunner",
@@ -115,7 +127,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005304/83039",
 "stand": "2026-07-29"
-}
+},
+"akte_id": "katharina-habersbrunner",
+"akte_sichtbar": false
 },
 {
 "name": "Kiara Groneweg",
@@ -126,7 +140,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005304/83039",
 "stand": "2026-07-29"
-}
+},
+"akte_id": "kiara-groneweg",
+"akte_sichtbar": false
 },
 {
 "name": "Simona Zimmermann",
@@ -137,7 +153,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005304/83039",
 "stand": "2026-07-29"
-}
+},
+"akte_id": "simona-zimmermann",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -179,5 +197,6 @@
 "etikett": "Eigenangabe",
 "version": 12
 }
-]
+],
+"parteispenden": []
 }

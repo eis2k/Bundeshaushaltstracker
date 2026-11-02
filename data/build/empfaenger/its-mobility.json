@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004646/66542",
 "stand": "2025-10-10"
-}
+},
+"akte_id": "torge-brandenburg",
+"akte_sichtbar": false
 },
 {
 "name": "David Woisetschläger",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004646/66542",
 "stand": "2025-10-10"
-}
+},
+"akte_id": "david-woisetschlaeger",
+"akte_sichtbar": false
 },
 {
 "name": "Gerrit Schrödel",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004646/66542",
 "stand": "2025-10-10"
-}
+},
+"akte_id": "gerrit-schroedel",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -114,5 +120,6 @@
 "etikett": "Eigenangabe",
 "version": 8
 }
-]
+],
+"parteispenden": []
 }

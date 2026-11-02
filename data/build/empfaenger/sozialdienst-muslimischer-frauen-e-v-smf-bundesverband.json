@@ -57,7 +57,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007402/82940",
 "stand": "2026-07-16"
-}
+},
+"akte_id": "ayten-k-l-arslan",
+"akte_sichtbar": false
 },
 {
 "name": "Halide Özkurt",
@@ -68,7 +70,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007402/82940",
 "stand": "2026-07-16"
-}
+},
+"akte_id": "halide-oezkurt",
+"akte_sichtbar": false
 },
 {
 "name": "Hatice Koçak",
@@ -79,7 +83,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007402/82940",
 "stand": "2026-07-16"
-}
+},
+"akte_id": "hatice-ko-ak",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -121,5 +127,6 @@
 "etikett": "Eigenangabe",
 "version": 4
 }
-]
+],
+"parteispenden": []
 }

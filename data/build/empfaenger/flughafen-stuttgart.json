@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004639/82267",
 "stand": "2026-07-07"
-}
+},
+"akte_id": "ulrich-heppe",
+"akte_sichtbar": false
 },
 {
 "name": "Carsten Poralla",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004639/82267",
 "stand": "2026-07-07"
-}
+},
+"akte_id": "carsten-poralla",
+"akte_sichtbar": false
 },
 {
 "name": "Johannes Schumm",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004639/82267",
 "stand": "2026-07-07"
-}
+},
+"akte_id": "johannes-schumm",
+"akte_sichtbar": false
 },
 {
 "name": "Stelian Dumitrache",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004639/82267",
 "stand": "2026-07-07"
-}
+},
+"akte_id": "stelian-dumitrache",
+"akte_sichtbar": false
 },
 {
 "name": "Theresa Diehl",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004639/82267",
 "stand": "2026-07-07"
-}
+},
+"akte_id": "theresa-diehl",
+"akte_sichtbar": false
 },
 {
 "name": "Kai Leitenberger",
@@ -102,7 +112,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004639/82267",
 "stand": "2026-07-07"
-}
+},
+"akte_id": "kai-leitenberger",
+"akte_sichtbar": true
 }
 ],
 "verbindungen": [
@@ -164,5 +176,6 @@
 "etikett": "Eigenangabe",
 "version": 7
 }
-]
+],
+"parteispenden": []
 }

@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004593/83590",
 "stand": "2026-07-23"
-}
+},
+"akte_id": "christoph-grimme",
+"akte_sichtbar": false
 },
 {
 "name": "Richard Weiß",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004593/83590",
 "stand": "2026-07-23"
-}
+},
+"akte_id": "richard-weiss",
+"akte_sichtbar": false
 },
 {
 "name": "Frank  Nordmann",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004593/83590",
 "stand": "2026-07-23"
-}
+},
+"akte_id": "frank-nordmann",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -103,5 +109,6 @@
 "etikett": "Eigenangabe",
 "version": 7
 }
-]
+],
+"parteispenden": []
 }

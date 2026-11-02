@@ -217,7 +217,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005664/83595",
 "stand": "2026-07-24"
-}
+},
+"akte_id": "flurina-schneider-buser",
+"akte_sichtbar": false
 },
 {
 "name": "Frank Schindelmann",
@@ -228,7 +230,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005664/83595",
 "stand": "2026-07-24"
-}
+},
+"akte_id": "frank-schindelmann",
+"akte_sichtbar": false
 },
 {
 "name": "Martina Winker",
@@ -239,7 +243,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005664/83595",
 "stand": "2026-07-24"
-}
+},
+"akte_id": "martina-winker",
+"akte_sichtbar": false
 },
 {
 "name": "Immanuel Stieß",
@@ -250,7 +256,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005664/83595",
 "stand": "2026-07-24"
-}
+},
+"akte_id": "immanuel-stiess",
+"akte_sichtbar": false
 },
 {
 "name": "Nicola Schuldt-Baumgart",
@@ -261,7 +269,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005664/83595",
 "stand": "2026-07-24"
-}
+},
+"akte_id": "nicola-schuldt-baumgart",
+"akte_sichtbar": false
 },
 {
 "name": "Oskar Marg",
@@ -272,7 +282,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005664/83595",
 "stand": "2026-07-24"
-}
+},
+"akte_id": "oskar-marg",
+"akte_sichtbar": false
 },
 {
 "name": "Jutta Deffner",
@@ -283,7 +295,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005664/83595",
 "stand": "2026-07-24"
-}
+},
+"akte_id": "jutta-deffner",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -324,5 +338,6 @@
 "etikett": "Eigenangabe",
 "version": 9
 }
-]
+],
+"parteispenden": []
 }

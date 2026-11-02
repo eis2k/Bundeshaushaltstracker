@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002833/87116",
 "stand": "2026-10-06"
-}
+},
+"akte_id": "thomas-speidel",
+"akte_sichtbar": false
 },
 {
 "name": "Britta Buchholz",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002833/87116",
 "stand": "2026-10-06"
-}
+},
+"akte_id": "britta-buchholz-lr-r002833",
+"akte_sichtbar": false
 },
 {
 "name": "Heinrich Gärtner",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002833/87116",
 "stand": "2026-10-06"
-}
+},
+"akte_id": "heinrich-gaertner",
+"akte_sichtbar": false
 },
 {
 "name": "Urban Windelen",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002833/87116",
 "stand": "2026-10-06"
-}
+},
+"akte_id": "urban-windelen",
+"akte_sichtbar": false
 },
 {
 "name": "Susanne König",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002833/87116",
 "stand": "2026-10-06"
-}
+},
+"akte_id": "susanne-koenig",
+"akte_sichtbar": false
 },
 {
 "name": "Andreas Görtz",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002833/87116",
 "stand": "2026-10-06"
-}
+},
+"akte_id": "andreas-goertz",
+"akte_sichtbar": false
 },
 {
 "name": "Bodo Mayer",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002833/87116",
 "stand": "2026-10-06"
-}
+},
+"akte_id": "bodo-mayer",
+"akte_sichtbar": false
 },
 {
 "name": "Beatrice Schulz",
@@ -118,7 +132,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002833/87116",
 "stand": "2026-10-06"
-}
+},
+"akte_id": "beatrice-schulz",
+"akte_sichtbar": false
 },
 {
 "name": "Gerrit Lühring",
@@ -129,7 +145,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002833/87116",
 "stand": "2026-10-06"
-}
+},
+"akte_id": "gerrit-luehring",
+"akte_sichtbar": false
 },
 {
 "name": "Simon Steffgen",
@@ -140,7 +158,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002833/87116",
 "stand": "2026-10-06"
-}
+},
+"akte_id": "simon-steffgen",
+"akte_sichtbar": false
 },
 {
 "name": "Lennart Freese",
@@ -151,7 +171,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002833/87116",
 "stand": "2026-10-06"
-}
+},
+"akte_id": "lennart-freese",
+"akte_sichtbar": false
 },
 {
 "name": "Isabella Weiss",
@@ -162,7 +184,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002833/87116",
 "stand": "2026-10-06"
-}
+},
+"akte_id": "isabella-weiss",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -204,5 +228,6 @@
 "etikett": "Eigenangabe",
 "version": 25
 }
-]
+],
+"parteispenden": []
 }

@@ -55,7 +55,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001926/78011",
 "stand": "2026-06-17"
-}
+},
+"akte_id": "ekkehard-griep",
+"akte_sichtbar": true
 },
 {
 "name": "Karin Kortmann",
@@ -72,7 +74,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001926/78011",
 "stand": "2026-06-17"
-}
+},
+"akte_id": "karin-kortmann",
+"akte_sichtbar": true
 },
 {
 "name": "Carolin Maluck",
@@ -83,7 +87,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001926/78011",
 "stand": "2026-06-17"
-}
+},
+"akte_id": "carolin-maluck",
+"akte_sichtbar": false
 },
 {
 "name": "Ekkehard Strauß",
@@ -94,7 +100,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001926/78011",
 "stand": "2026-06-17"
-}
+},
+"akte_id": "ekkehard-strauss",
+"akte_sichtbar": false
 },
 {
 "name": "Alfredo Märker",
@@ -105,7 +113,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001926/78011",
 "stand": "2026-06-17"
-}
+},
+"akte_id": "alfredo-maerker",
+"akte_sichtbar": false
 },
 {
 "name": "Felix Deist",
@@ -116,7 +126,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001926/78011",
 "stand": "2026-06-17"
-}
+},
+"akte_id": "felix-deist",
+"akte_sichtbar": false
 },
 {
 "name": "Patrick Rosenow",
@@ -127,7 +139,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001926/78011",
 "stand": "2026-06-17"
-}
+},
+"akte_id": "patrick-rosenow",
+"akte_sichtbar": false
 },
 {
 "name": "Monique Lehmann",
@@ -138,7 +152,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001926/78011",
 "stand": "2026-06-17"
-}
+},
+"akte_id": "monique-lehmann",
+"akte_sichtbar": false
 },
 {
 "name": "Oliver Hasenkamp",
@@ -149,7 +165,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001926/78011",
 "stand": "2026-06-17"
-}
+},
+"akte_id": "oliver-hasenkamp",
+"akte_sichtbar": false
 },
 {
 "name": "Peter Wittschorek",
@@ -160,7 +178,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001926/78011",
 "stand": "2026-06-17"
-}
+},
+"akte_id": "peter-wittschorek",
+"akte_sichtbar": false
 },
 {
 "name": "Sophie Humer-Hager",
@@ -171,7 +191,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001926/78011",
 "stand": "2026-06-17"
-}
+},
+"akte_id": "sophie-humer-hager",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [
@@ -260,5 +282,6 @@
 "etikett": "Eigenangabe",
 "version": 11
 }
-]
+],
+"parteispenden": []
 }

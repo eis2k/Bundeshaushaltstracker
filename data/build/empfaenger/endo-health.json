@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007337/76455",
 "stand": "2026-07-22"
-}
+},
+"akte_id": "nadine-rohloff",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -81,5 +83,6 @@
 "etikett": "Eigenangabe",
 "version": 2
 }
-]
+],
+"parteispenden": []
 }

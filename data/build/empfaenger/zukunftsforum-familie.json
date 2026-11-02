@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000582/72368",
 "stand": "2026-07-07"
-}
+},
+"akte_id": "britta-altenkamp",
+"akte_sichtbar": false
 },
 {
 "name": "Birgit Merkel",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000582/72368",
 "stand": "2026-07-07"
-}
+},
+"akte_id": "birgit-merkel",
+"akte_sichtbar": false
 },
 {
 "name": "Manuel Becker",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000582/72368",
 "stand": "2026-07-07"
-}
+},
+"akte_id": "manuel-becker",
+"akte_sichtbar": false
 },
 {
 "name": "Sophie Schwab",
@@ -88,7 +94,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000582/72368",
 "stand": "2026-07-07"
-}
+},
+"akte_id": "sophie-schwab",
+"akte_sichtbar": true
 },
 {
 "name": "Nikola Schopp",
@@ -99,7 +107,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000582/72368",
 "stand": "2026-07-07"
-}
+},
+"akte_id": "nikola-schopp",
+"akte_sichtbar": false
 },
 {
 "name": "Lilly Schön",
@@ -110,7 +120,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000582/72368",
 "stand": "2026-07-07"
-}
+},
+"akte_id": "lilly-schoen",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [
@@ -174,5 +186,6 @@
 "etikett": "Eigenangabe",
 "version": 10
 }
-]
+],
+"parteispenden": []
 }

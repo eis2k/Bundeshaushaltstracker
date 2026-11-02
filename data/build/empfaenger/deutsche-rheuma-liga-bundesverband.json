@@ -92,7 +92,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001807/80242",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "corinna-elling-audersch",
+"akte_sichtbar": false
 },
 {
 "name": "Claus Heckmann",
@@ -103,7 +105,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001807/80242",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "claus-heckmann",
+"akte_sichtbar": false
 },
 {
 "name": "Helwine Ludwig",
@@ -114,7 +118,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001807/80242",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "helwine-ludwig",
+"akte_sichtbar": false
 },
 {
 "name": "Gerlinde Bendzuck",
@@ -125,7 +131,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001807/80242",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "gerlinde-bendzuck-lr-r001807",
+"akte_sichtbar": false
 },
 {
 "name": "Mara Kaldeweide",
@@ -136,7 +144,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001807/80242",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "mara-kaldeweide",
+"akte_sichtbar": false
 },
 {
 "name": "Gabriele Nuck",
@@ -147,7 +157,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001807/80242",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "gabriele-nuck",
+"akte_sichtbar": false
 },
 {
 "name": "Matthias Schmidt-Ohlemann",
@@ -158,7 +170,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001807/80242",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "matthias-schmidt-ohlemann",
+"akte_sichtbar": false
 },
 {
 "name": "Rolf-Ulrich Schlenker",
@@ -169,7 +183,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001807/80242",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "rolf-ulrich-schlenker",
+"akte_sichtbar": false
 },
 {
 "name": "Kerstin Keding",
@@ -180,7 +196,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001807/80242",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "kerstin-keding",
+"akte_sichtbar": false
 },
 {
 "name": "Röper Josef-Karl",
@@ -191,7 +209,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001807/80242",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "roeper-josef-karl",
+"akte_sichtbar": false
 },
 {
 "name": "Mathias  Miethner",
@@ -202,7 +222,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001807/80242",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "mathias-miethner",
+"akte_sichtbar": false
 },
 {
 "name": "Christof Specker",
@@ -213,7 +235,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001807/80242",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "christof-specker",
+"akte_sichtbar": false
 },
 {
 "name": "Ursula Faubel",
@@ -224,7 +248,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001807/80242",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "ursula-faubel",
+"akte_sichtbar": false
 },
 {
 "name": "Sabine Eis",
@@ -235,7 +261,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001807/80242",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "sabine-eis",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -284,5 +312,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000165/82158",
 "stand": "2026-07-02"
-}
+},
+"akte_id": "markus-mannl",
+"akte_sichtbar": false
 },
 {
 "name": "Martin Haunschild",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000165/82158",
 "stand": "2026-07-02"
-}
+},
+"akte_id": "martin-haunschild",
+"akte_sichtbar": false
 },
 {
 "name": "Joachim Horwath",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000165/82158",
 "stand": "2026-07-02"
-}
+},
+"akte_id": "joachim-horwath",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -103,5 +109,6 @@
 "etikett": "Eigenangabe",
 "version": 9
 }
-]
+],
+"parteispenden": []
 }

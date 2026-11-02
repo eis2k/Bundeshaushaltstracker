@@ -72,7 +72,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002421/86708",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "guido-knott",
+"akte_sichtbar": false
 },
 {
 "name": "Michael Bongartz",
@@ -83,7 +85,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002421/86708",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "michael-bongartz",
+"akte_sichtbar": false
 },
 {
 "name": "Daniel Oehr",
@@ -94,7 +98,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002421/86708",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "daniel-oehr",
+"akte_sichtbar": false
 },
 {
 "name": "Benedikt Hecking",
@@ -105,7 +111,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002421/86708",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "benedikt-hecking",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -150,5 +158,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

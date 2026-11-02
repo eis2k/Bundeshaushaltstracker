@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003610/75515",
 "stand": "2026-06-08"
-}
+},
+"akte_id": "markus-boell",
+"akte_sichtbar": false
 },
 {
 "name": "Sabine Schmucker",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003610/75515",
 "stand": "2026-06-08"
-}
+},
+"akte_id": "sabine-schmucker",
+"akte_sichtbar": false
 },
 {
 "name": "Thomas Möller",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003610/75515",
 "stand": "2026-06-08"
-}
+},
+"akte_id": "thomas-moeller",
+"akte_sichtbar": false
 },
 {
 "name": "Holger Braun",
@@ -82,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003610/75515",
 "stand": "2026-06-08"
-}
+},
+"akte_id": "holger-braun",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -123,5 +131,6 @@
 "etikett": "Eigenangabe",
 "version": 7
 }
-]
+],
+"parteispenden": []
 }

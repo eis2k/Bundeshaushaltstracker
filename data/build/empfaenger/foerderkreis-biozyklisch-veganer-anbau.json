@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006617/86243",
 "stand": "2026-09-22"
-}
+},
+"akte_id": "axel-anders",
+"akte_sichtbar": false
 },
 {
 "name": "Kerstin Anders",
@@ -58,7 +60,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006617/86243",
 "stand": "2026-09-22"
-}
+},
+"akte_id": "kerstin-anders",
+"akte_sichtbar": true
 },
 {
 "name": "Arne Hoops",
@@ -69,7 +73,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006617/86243",
 "stand": "2026-09-22"
-}
+},
+"akte_id": "arne-hoops",
+"akte_sichtbar": false
 },
 {
 "name": "Simon Geisenberger",
@@ -80,7 +86,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006617/86243",
 "stand": "2026-09-22"
-}
+},
+"akte_id": "simon-geisenberger",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [
@@ -144,5 +152,6 @@
 "etikett": "Eigenangabe",
 "version": 4
 }
-]
+],
+"parteispenden": []
 }

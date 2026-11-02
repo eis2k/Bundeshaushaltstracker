@@ -47,7 +47,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001440/86790",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "martin-bujard-lr-r001440",
+"akte_sichtbar": true
 },
 {
 "name": "Nicole Trieloff",
@@ -58,7 +60,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001440/86790",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "nicole-trieloff",
+"akte_sichtbar": false
 },
 {
 "name": "Konstanze Hartmann-Boudol",
@@ -69,7 +73,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001440/86790",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "konstanze-hartmann-boudol",
+"akte_sichtbar": false
 },
 {
 "name": "Sigrid Andersen",
@@ -80,7 +86,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001440/86790",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "sigrid-andersen",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [
@@ -144,5 +152,6 @@
 "etikett": "Eigenangabe",
 "version": 18
 }
-]
+],
+"parteispenden": []
 }

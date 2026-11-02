@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004256/84262",
 "stand": "2026-08-05"
-}
+},
+"akte_id": "florian-hoerlein",
+"akte_sichtbar": false
 },
 {
 "name": "Alexander Lechner",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004256/84262",
 "stand": "2026-08-05"
-}
+},
+"akte_id": "alexander-lechner",
+"akte_sichtbar": false
 },
 {
 "name": "Katrin Ascher",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004256/84262",
 "stand": "2026-08-05"
-}
+},
+"akte_id": "katrin-ascher",
+"akte_sichtbar": false
 },
 {
 "name": "Alexandra Schmid",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004256/84262",
 "stand": "2026-08-05"
-}
+},
+"akte_id": "alexandra-schmid",
+"akte_sichtbar": false
 },
 {
 "name": "Katharina Niedens",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004256/84262",
 "stand": "2026-08-05"
-}
+},
+"akte_id": "katharina-niedens",
+"akte_sichtbar": false
 },
 {
 "name": "Markus Sturm",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004256/84262",
 "stand": "2026-08-05"
-}
+},
+"akte_id": "markus-sturm",
+"akte_sichtbar": false
 },
 {
 "name": "Leonie Hornung",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004256/84262",
 "stand": "2026-08-05"
-}
+},
+"akte_id": "leonie-hornung",
+"akte_sichtbar": false
 },
 {
 "name": "Elke Welscher",
@@ -118,7 +132,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004256/84262",
 "stand": "2026-08-05"
-}
+},
+"akte_id": "elke-welscher",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -159,5 +175,6 @@
 "etikett": "Eigenangabe",
 "version": 9
 }
-]
+],
+"parteispenden": []
 }

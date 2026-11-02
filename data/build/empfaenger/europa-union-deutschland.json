@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002271/80945",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "andrea-wechsler",
+"akte_sichtbar": false
 },
 {
 "name": "Gabriele Bischoff",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002271/80945",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "gabriele-bischoff",
+"akte_sichtbar": false
 },
 {
 "name": "Patrick Sensburg",
@@ -69,7 +73,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002271/80945",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "patrick-sensburg",
+"akte_sichtbar": true
 },
 {
 "name": "Chantal Kopf",
@@ -86,7 +92,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002271/80945",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "chantal-kopf",
+"akte_sichtbar": true
 },
 {
 "name": "Alexander Kulitz",
@@ -103,7 +111,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002271/80945",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "alexander-kulitz",
+"akte_sichtbar": true
 },
 {
 "name": "Christian Moos",
@@ -114,7 +124,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002271/80945",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "christian-moos",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [
@@ -257,5 +269,6 @@
 "abgerufen": "2026-11-01",
 "etikett": "Eigenangabe"
 }
-]
+],
+"parteispenden": []
 }

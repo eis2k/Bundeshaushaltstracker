@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005050/77828",
 "stand": "2026-06-03"
-}
+},
+"akte_id": "jakob-c-terhaag",
+"akte_sichtbar": false
 },
 {
 "name": "Andrea Sommer-Fackler",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005050/77828",
 "stand": "2026-06-03"
-}
+},
+"akte_id": "andrea-sommer-fackler",
+"akte_sichtbar": false
 },
 {
 "name": "Rolf Steup",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005050/77828",
 "stand": "2026-06-03"
-}
+},
+"akte_id": "rolf-steup",
+"akte_sichtbar": false
 },
 {
 "name": "Mathias Mannhardt",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005050/77828",
 "stand": "2026-06-03"
-}
+},
+"akte_id": "mathias-mannhardt",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -115,5 +123,6 @@
 "etikett": "Eigenangabe",
 "version": 12
 }
-]
+],
+"parteispenden": []
 }

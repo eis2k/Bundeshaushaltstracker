@@ -57,7 +57,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003826/88087",
 "stand": "2026-10-28"
-}
+},
+"akte_id": "julia-braune",
+"akte_sichtbar": false
 },
 {
 "name": "Sönke Thoms",
@@ -68,7 +70,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003826/88087",
 "stand": "2026-10-28"
-}
+},
+"akte_id": "soenke-thoms",
+"akte_sichtbar": false
 },
 {
 "name": "Nicholas Roland",
@@ -79,7 +83,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003826/88087",
 "stand": "2026-10-28"
-}
+},
+"akte_id": "nicholas-roland",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [
@@ -192,5 +198,6 @@
 "abgerufen": "2026-11-01",
 "etikett": "Eigenangabe"
 }
-]
+],
+"parteispenden": []
 }

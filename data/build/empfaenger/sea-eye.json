@@ -47,7 +47,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008177/85386",
 "stand": "2026-09-02"
-}
+},
+"akte_id": "anna-di-bari",
+"akte_sichtbar": true
 },
 {
 "name": "Michael Schneider",
@@ -58,7 +60,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008177/85386",
 "stand": "2026-09-02"
-}
+},
+"akte_id": "michael-schneider",
+"akte_sichtbar": false
 },
 {
 "name": "Rhea Franke",
@@ -75,7 +79,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008177/85386",
 "stand": "2026-09-02"
-}
+},
+"akte_id": "rhea-franke",
+"akte_sichtbar": true
 }
 ],
 "verbindungen": [
@@ -161,5 +167,6 @@
 "etikett": "Eigenangabe",
 "version": 2
 }
-]
+],
+"parteispenden": []
 }

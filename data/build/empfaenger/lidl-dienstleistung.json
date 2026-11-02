@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001738/88146",
 "stand": "2026-10-29"
-}
+},
+"akte_id": "jan-brenn",
+"akte_sichtbar": false
 },
 {
 "name": "Christoph Graf",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001738/88146",
 "stand": "2026-10-29"
-}
+},
+"akte_id": "christoph-graf",
+"akte_sichtbar": false
 },
 {
 "name": "Andreas Liepka",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001738/88146",
 "stand": "2026-10-29"
-}
+},
+"akte_id": "andreas-liepka",
+"akte_sichtbar": false
 },
 {
 "name": "Marcel von Haber",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001738/88146",
 "stand": "2026-10-29"
-}
+},
+"akte_id": "marcel-von-haber",
+"akte_sichtbar": false
 },
 {
 "name": "Arnd Pickhardt",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001738/88146",
 "stand": "2026-10-29"
-}
+},
+"akte_id": "arnd-pickhardt",
+"akte_sichtbar": false
 },
 {
 "name": "Christian Steimle",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001738/88146",
 "stand": "2026-10-29"
-}
+},
+"akte_id": "christian-steimle",
+"akte_sichtbar": false
 },
 {
 "name": "Friedrich Fuchs",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001738/88146",
 "stand": "2026-10-29"
-}
+},
+"akte_id": "friedrich-fuchs",
+"akte_sichtbar": false
 },
 {
 "name": "Nikoletta Kolomburda",
@@ -118,7 +132,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001738/88146",
 "stand": "2026-10-29"
-}
+},
+"akte_id": "nikoletta-kolomburda",
+"akte_sichtbar": false
 },
 {
 "name": "Alexander Liedke",
@@ -129,7 +145,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001738/88146",
 "stand": "2026-10-29"
-}
+},
+"akte_id": "alexander-liedke",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -169,5 +187,6 @@
 "etikett": "Eigenangabe",
 "version": 51
 }
-]
+],
+"parteispenden": []
 }

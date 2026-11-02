@@ -57,7 +57,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004195/72236",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "anneke-klasing",
+"akte_sichtbar": false
 },
 {
 "name": "Christoph Heinrich",
@@ -68,7 +70,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004195/72236",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "christoph-heinrich",
+"akte_sichtbar": false
 },
 {
 "name": "Agnes Reinsberg",
@@ -79,7 +83,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004195/72236",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "agnes-reinsberg",
+"akte_sichtbar": false
 },
 {
 "name": "Raffaele Piria",
@@ -90,7 +96,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004195/72236",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "raffaele-piria",
+"akte_sichtbar": false
 },
 {
 "name": "Nils Meyer-Ohlendorf",
@@ -101,7 +109,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004195/72236",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "nils-meyer-ohlendorf",
+"akte_sichtbar": false
 },
 {
 "name": "Doris Knoblauch",
@@ -112,7 +122,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004195/72236",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "doris-knoblauch",
+"akte_sichtbar": false
 },
 {
 "name": "Grit Martinez",
@@ -123,7 +135,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004195/72236",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "grit-martinez",
+"akte_sichtbar": false
 },
 {
 "name": "Matthias Duwe",
@@ -134,7 +148,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004195/72236",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "matthias-duwe",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -176,5 +192,6 @@
 "etikett": "Eigenangabe",
 "version": 9
 }
-]
+],
+"parteispenden": []
 }

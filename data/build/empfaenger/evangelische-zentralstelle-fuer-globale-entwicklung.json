@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001206/82991",
 "stand": "2026-07-13"
-}
+},
+"akte_id": "imme-scholz",
+"akte_sichtbar": false
 },
 {
 "name": "Anne Gidion",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001206/82991",
 "stand": "2026-07-13"
-}
+},
+"akte_id": "anne-gidion",
+"akte_sichtbar": false
 },
 {
 "name": "Beate Hofmann",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001206/82991",
 "stand": "2026-07-13"
-}
+},
+"akte_id": "beate-hofmann",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -126,5 +132,6 @@
 "abgerufen": "2026-11-02",
 "etikett": "Eigenangabe"
 }
-]
+],
+"parteispenden": []
 }

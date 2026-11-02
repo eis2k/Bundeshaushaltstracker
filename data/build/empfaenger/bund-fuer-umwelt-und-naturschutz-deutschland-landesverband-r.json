@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003175/83301",
 "stand": "2026-07-17"
-}
+},
+"akte_id": "sabine-yacoub",
+"akte_sichtbar": false
 },
 {
 "name": "Michael Carl",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003175/83301",
 "stand": "2026-07-17"
-}
+},
+"akte_id": "michael-carl",
+"akte_sichtbar": false
 },
 {
 "name": "Wolfgang Adelfang",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003175/83301",
 "stand": "2026-07-17"
-}
+},
+"akte_id": "wolfgang-adelfang",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -107,5 +113,6 @@
 "etikett": "Eigenangabe",
 "version": 9
 }
-]
+],
+"parteispenden": []
 }

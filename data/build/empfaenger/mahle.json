@@ -52,7 +52,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000980/87431",
 "stand": "2026-10-12"
-}
+},
+"akte_id": "arnd-franz",
+"akte_sichtbar": false
 },
 {
 "name": "Georg Dietz",
@@ -63,7 +65,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000980/87431",
 "stand": "2026-10-12"
-}
+},
+"akte_id": "georg-dietz",
+"akte_sichtbar": false
 },
 {
 "name": "Markus Kapaun",
@@ -74,7 +78,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000980/87431",
 "stand": "2026-10-12"
-}
+},
+"akte_id": "markus-kapaun",
+"akte_sichtbar": false
 },
 {
 "name": "Martin Wellhöffer",
@@ -85,7 +91,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000980/87431",
 "stand": "2026-10-12"
-}
+},
+"akte_id": "martin-wellhoeffer",
+"akte_sichtbar": false
 },
 {
 "name": "Hannes Bächle",
@@ -96,7 +104,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000980/87431",
 "stand": "2026-10-12"
-}
+},
+"akte_id": "hannes-baechle",
+"akte_sichtbar": false
 },
 {
 "name": "Sascha Wagner",
@@ -107,7 +117,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000980/87431",
 "stand": "2026-10-12"
-}
+},
+"akte_id": "sascha-wagner-lr-r000980",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -153,5 +165,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

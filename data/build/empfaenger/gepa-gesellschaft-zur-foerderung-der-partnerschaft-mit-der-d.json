@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003147/80206",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "peter-schaumberger",
+"akte_sichtbar": false
 },
 {
 "name": "Andrea Fütterer",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003147/80206",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "andrea-fuetterer",
+"akte_sichtbar": false
 },
 {
 "name": "Barbara Schimmelpfennig",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003147/80206",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "barbara-schimmelpfennig",
+"akte_sichtbar": false
 },
 {
 "name": "Brigitte Frommeyer",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003147/80206",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "brigitte-frommeyer",
+"akte_sichtbar": false
 },
 {
 "name": "Raphaela Engstler",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003147/80206",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "raphaela-engstler",
+"akte_sichtbar": false
 },
 {
 "name": "Anne Bien",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003147/80206",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "anne-bien",
+"akte_sichtbar": false
 },
 {
 "name": "Sebastian Martin",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003147/80206",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "sebastian-martin",
+"akte_sichtbar": false
 },
 {
 "name": "Celine Schaub",
@@ -118,7 +132,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003147/80206",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "celine-schaub",
+"akte_sichtbar": false
 },
 {
 "name": "Tobias Hoffmann",
@@ -129,7 +145,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003147/80206",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "tobias-hoffmann",
+"akte_sichtbar": false
 },
 {
 "name": "Sandra Seidel",
@@ -140,7 +158,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003147/80206",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "sandra-seidel",
+"akte_sichtbar": false
 },
 {
 "name": "Christine Weiner",
@@ -151,7 +171,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003147/80206",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "christine-weiner",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -192,5 +214,6 @@
 "etikett": "Eigenangabe",
 "version": 7
 }
-]
+],
+"parteispenden": []
 }

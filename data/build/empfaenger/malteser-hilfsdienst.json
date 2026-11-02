@@ -140,7 +140,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001276/84640",
 "stand": "2026-08-12"
-}
+},
+"akte_id": "elmar-pankau",
+"akte_sichtbar": false
 },
 {
 "name": "Frank Weber",
@@ -151,7 +153,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001276/84640",
 "stand": "2026-08-12"
-}
+},
+"akte_id": "frank-weber",
+"akte_sichtbar": false
 },
 {
 "name": "Ulf Reermann",
@@ -162,7 +166,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001276/84640",
 "stand": "2026-08-12"
-}
+},
+"akte_id": "ulf-reermann",
+"akte_sichtbar": false
 },
 {
 "name": "Thomas Kleinert",
@@ -173,7 +179,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001276/84640",
 "stand": "2026-08-12"
-}
+},
+"akte_id": "thomas-kleinert",
+"akte_sichtbar": false
 },
 {
 "name": "Frank  Schira",
@@ -184,7 +192,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001276/84640",
 "stand": "2026-08-12"
-}
+},
+"akte_id": "frank-schira",
+"akte_sichtbar": false
 },
 {
 "name": "Patricia Ehret",
@@ -195,7 +205,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001276/84640",
 "stand": "2026-08-12"
-}
+},
+"akte_id": "patricia-ehret",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -243,5 +255,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

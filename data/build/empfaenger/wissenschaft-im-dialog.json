@@ -102,7 +102,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003375/78082",
 "stand": "2026-06-08"
-}
+},
+"akte_id": "benedikt-fecher",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -149,5 +151,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

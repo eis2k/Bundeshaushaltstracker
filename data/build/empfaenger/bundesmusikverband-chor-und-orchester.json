@@ -95,7 +95,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001132/88019",
 "stand": "2026-10-27"
-}
+},
+"akte_id": "derya-tuerk-nachbaur",
+"akte_sichtbar": true
 },
 {
 "name": "Thomas Kronenberger",
@@ -106,7 +108,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001132/88019",
 "stand": "2026-10-27"
-}
+},
+"akte_id": "thomas-kronenberger-lr-r001132",
+"akte_sichtbar": false
 },
 {
 "name": "Judith Mohr",
@@ -117,7 +121,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001132/88019",
 "stand": "2026-10-27"
-}
+},
+"akte_id": "judith-mohr",
+"akte_sichtbar": false
 },
 {
 "name": "Katrin Schwede-Pritchard",
@@ -128,7 +134,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001132/88019",
 "stand": "2026-10-27"
-}
+},
+"akte_id": "katrin-schwede-pritchard",
+"akte_sichtbar": false
 },
 {
 "name": "Lorenz Overbeck",
@@ -139,7 +147,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001132/88019",
 "stand": "2026-10-27"
-}
+},
+"akte_id": "lorenz-overbeck",
+"akte_sichtbar": false
 },
 {
 "name": "Theresa Demandt",
@@ -150,7 +160,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001132/88019",
 "stand": "2026-10-27"
-}
+},
+"akte_id": "theresa-demandt",
+"akte_sichtbar": false
 },
 {
 "name": "Emilia Schmidt",
@@ -161,7 +173,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001132/88019",
 "stand": "2026-10-27"
-}
+},
+"akte_id": "emilia-schmidt",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [
@@ -353,5 +367,6 @@
 "abgerufen": "2026-11-01",
 "etikett": "Eigenangabe"
 }
-]
+],
+"parteispenden": []
 }

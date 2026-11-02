@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005721/78219",
 "stand": "2026-06-05"
-}
+},
+"akte_id": "martin-lass",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -89,5 +91,6 @@
 "etikett": "Eigenangabe",
 "version": 5
 }
-]
+],
+"parteispenden": []
 }

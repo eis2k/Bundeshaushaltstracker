@@ -94,7 +94,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006245/73785",
 "stand": "2026-03-19"
-}
+},
+"akte_id": "nadja-hakansson",
+"akte_sichtbar": false
 },
 {
 "name": "Misa Djenic",
@@ -105,7 +107,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006245/73785",
 "stand": "2026-03-19"
-}
+},
+"akte_id": "misa-djenic",
+"akte_sichtbar": false
 },
 {
 "name": "Richard Hampson",
@@ -116,7 +120,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006245/73785",
 "stand": "2026-03-19"
-}
+},
+"akte_id": "richard-hampson",
+"akte_sichtbar": false
 },
 {
 "name": "Ralph Kleinschmidt",
@@ -127,7 +133,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006245/73785",
 "stand": "2026-03-19"
-}
+},
+"akte_id": "ralph-kleinschmidt",
+"akte_sichtbar": false
 },
 {
 "name": "Martin Eckert",
@@ -138,7 +146,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006245/73785",
 "stand": "2026-03-19"
-}
+},
+"akte_id": "martin-eckert-lr-r006245",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -184,5 +194,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

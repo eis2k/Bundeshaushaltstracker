@@ -52,7 +52,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007016/85276",
 "stand": "2026-08-31"
-}
+},
+"akte_id": "philipp-pohlmann",
+"akte_sichtbar": false
 },
 {
 "name": "Thomas Ried",
@@ -63,7 +65,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007016/85276",
 "stand": "2026-08-31"
-}
+},
+"akte_id": "thomas-ried",
+"akte_sichtbar": false
 },
 {
 "name": "Samuel Tomic",
@@ -74,7 +78,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007016/85276",
 "stand": "2026-08-31"
-}
+},
+"akte_id": "samuel-tomic",
+"akte_sichtbar": false
 },
 {
 "name": "Peer Kollecker",
@@ -85,7 +91,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007016/85276",
 "stand": "2026-08-31"
-}
+},
+"akte_id": "peer-kollecker",
+"akte_sichtbar": false
 },
 {
 "name": "Henrik Hamann",
@@ -102,7 +110,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007016/85276",
 "stand": "2026-08-31"
-}
+},
+"akte_id": "henrik-hamann",
+"akte_sichtbar": true
 }
 ],
 "verbindungen": [
@@ -169,5 +179,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

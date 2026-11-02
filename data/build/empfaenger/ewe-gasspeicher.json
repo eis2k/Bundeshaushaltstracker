@@ -52,7 +52,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002040/72278",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "peter-schmidt",
+"akte_sichtbar": false
 },
 {
 "name": "Geert Tjarks",
@@ -63,7 +65,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002040/72278",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "geert-tjarks",
+"akte_sichtbar": false
 },
 {
 "name": "Tobias Moldenhauer",
@@ -74,7 +78,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002040/72278",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "tobias-moldenhauer",
+"akte_sichtbar": false
 },
 {
 "name": "Paul Schneider",
@@ -85,7 +91,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002040/72278",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "paul-schneider",
+"akte_sichtbar": false
 },
 {
 "name": "Alexander Malchus",
@@ -96,7 +104,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002040/72278",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "alexander-malchus",
+"akte_sichtbar": false
 },
 {
 "name": "Eva Stede",
@@ -107,7 +117,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002040/72278",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "eva-stede",
+"akte_sichtbar": false
 },
 {
 "name": "Jonas Höckner",
@@ -118,7 +130,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002040/72278",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "jonas-hoeckner",
+"akte_sichtbar": false
 },
 {
 "name": "Andre Janssen",
@@ -129,7 +143,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002040/72278",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "andre-janssen",
+"akte_sichtbar": false
 },
 {
 "name": "Johanna Friese",
@@ -140,7 +156,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002040/72278",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "johanna-friese",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -186,5 +204,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

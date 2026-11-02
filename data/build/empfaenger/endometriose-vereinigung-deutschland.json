@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006975/87994",
 "stand": "2026-10-24"
-}
+},
+"akte_id": "eva-walle",
+"akte_sichtbar": false
 },
 {
 "name": "Laura Ledamun",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006975/87994",
 "stand": "2026-10-24"
-}
+},
+"akte_id": "laura-ledamun",
+"akte_sichtbar": false
 },
 {
 "name": "Jana Eickholt",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006975/87994",
 "stand": "2026-10-24"
-}
+},
+"akte_id": "jana-eickholt",
+"akte_sichtbar": false
 },
 {
 "name": "Eva Zinser",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006975/87994",
 "stand": "2026-10-24"
-}
+},
+"akte_id": "eva-zinser",
+"akte_sichtbar": false
 },
 {
 "name": "Zoe Kaiser",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006975/87994",
 "stand": "2026-10-24"
-}
+},
+"akte_id": "zoe-kaiser",
+"akte_sichtbar": false
 },
 {
 "name": "Emma Wins",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006975/87994",
 "stand": "2026-10-24"
-}
+},
+"akte_id": "emma-wins",
+"akte_sichtbar": false
 },
 {
 "name": "Katrin Wolschke",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006975/87994",
 "stand": "2026-10-24"
-}
+},
+"akte_id": "katrin-wolschke",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -150,5 +164,6 @@
 "etikett": "Eigenangabe",
 "version": 18
 }
-]
+],
+"parteispenden": []
 }

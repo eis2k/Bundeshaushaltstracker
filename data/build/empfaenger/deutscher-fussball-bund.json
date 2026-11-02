@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002938/77708",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "holger-blask",
+"akte_sichtbar": false
 },
 {
 "name": "Bernd Neuendorf",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002938/77708",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "bernd-neuendorf",
+"akte_sichtbar": false
 },
 {
 "name": "Ronny Zimmermann",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002938/77708",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "ronny-zimmermann",
+"akte_sichtbar": false
 },
 {
 "name": "Hans-Joachim Watzke",
@@ -82,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002938/77708",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "hans-joachim-watzke",
+"akte_sichtbar": false
 },
 {
 "name": "Stephan Grunwald",
@@ -93,7 +101,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002938/77708",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "stephan-grunwald",
+"akte_sichtbar": false
 },
 {
 "name": "Oliver Leki",
@@ -104,7 +114,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002938/77708",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "oliver-leki",
+"akte_sichtbar": false
 },
 {
 "name": "Christina Gassner",
@@ -115,7 +127,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002938/77708",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "christina-gassner",
+"akte_sichtbar": false
 },
 {
 "name": "Stefan Brost",
@@ -126,7 +140,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002938/77708",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "stefan-brost",
+"akte_sichtbar": false
 },
 {
 "name": "Leonore Solms",
@@ -137,7 +153,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002938/77708",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "leonore-solms",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -179,5 +197,6 @@
 "etikett": "Eigenangabe",
 "version": 24
 }
-]
+],
+"parteispenden": []
 }

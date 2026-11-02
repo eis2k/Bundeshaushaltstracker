@@ -62,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005780/74190",
 "stand": "2026-04-20"
-}
+},
+"akte_id": "christoph-markschies",
+"akte_sichtbar": false
 },
 {
 "name": "Andrea Rapp",
@@ -73,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005780/74190",
 "stand": "2026-04-20"
-}
+},
+"akte_id": "andrea-rapp",
+"akte_sichtbar": false
 },
 {
 "name": "Hans-Georg Kräusslich",
@@ -84,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005780/74190",
 "stand": "2026-04-20"
-}
+},
+"akte_id": "hans-georg-kraeusslich",
+"akte_sichtbar": false
 },
 {
 "name": "Irene Dingel",
@@ -95,7 +101,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005780/74190",
 "stand": "2026-04-20"
-}
+},
+"akte_id": "irene-dingel",
+"akte_sichtbar": false
 },
 {
 "name": "Mirko Schadewald",
@@ -106,7 +114,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005780/74190",
 "stand": "2026-04-20"
-}
+},
+"akte_id": "mirko-schadewald",
+"akte_sichtbar": false
 },
 {
 "name": "Lea Holtmann",
@@ -117,7 +127,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005780/74190",
 "stand": "2026-04-20"
-}
+},
+"akte_id": "lea-holtmann",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -177,5 +189,6 @@
 "abgerufen": "2026-11-02",
 "etikett": "Eigenangabe"
 }
-]
+],
+"parteispenden": []
 }

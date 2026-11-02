@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004760/81103",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "christina-borchert",
+"akte_sichtbar": false
 },
 {
 "name": "Maria Kraft",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004760/81103",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "maria-kraft",
+"akte_sichtbar": false
 },
 {
 "name": "Alfons Jost",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004760/81103",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "alfons-jost",
+"akte_sichtbar": false
 },
 {
 "name": "Robert Klima",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004760/81103",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "robert-klima",
+"akte_sichtbar": false
 },
 {
 "name": "Alexandra Horster",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004760/81103",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "alexandra-horster",
+"akte_sichtbar": false
 },
 {
 "name": "Benedikt Lücken-Vollmer",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004760/81103",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "benedikt-luecken-vollmer",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -137,5 +149,6 @@
 "etikett": "Eigenangabe",
 "version": 7
 }
-]
+],
+"parteispenden": []
 }

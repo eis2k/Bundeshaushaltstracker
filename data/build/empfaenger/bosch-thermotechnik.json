@@ -52,7 +52,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003224/81037",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "jan-brockmann",
+"akte_sichtbar": false
 },
 {
 "name": "Rainer Ortmann",
@@ -63,7 +65,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003224/81037",
 "stand": "2026-06-29"
-}
+},
+"akte_id": "rainer-ortmann",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -108,5 +112,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

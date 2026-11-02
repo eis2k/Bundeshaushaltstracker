@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004037/67878",
 "stand": "2026-07-03"
-}
+},
+"akte_id": "peter-schaefer",
+"akte_sichtbar": false
 },
 {
 "name": "Sophie Ruhrmann",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004037/67878",
 "stand": "2026-07-03"
-}
+},
+"akte_id": "sophie-ruhrmann",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -94,5 +98,6 @@
 "etikett": "Eigenangabe",
 "version": 6
 }
-]
+],
+"parteispenden": []
 }

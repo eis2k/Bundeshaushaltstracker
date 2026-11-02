@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007273/82860",
 "stand": "2026-07-15"
-}
+},
+"akte_id": "josef-ahlke",
+"akte_sichtbar": false
 },
 {
 "name": "Barbara Makowka",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007273/82860",
 "stand": "2026-07-15"
-}
+},
+"akte_id": "barbara-makowka",
+"akte_sichtbar": false
 },
 {
 "name": "Danielle Rodarius",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007273/82860",
 "stand": "2026-07-15"
-}
+},
+"akte_id": "danielle-rodarius",
+"akte_sichtbar": false
 },
 {
 "name": "Klaus  Reuter",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007273/82860",
 "stand": "2026-07-15"
-}
+},
+"akte_id": "klaus-reuter",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -116,5 +124,6 @@
 "etikett": "Eigenangabe",
 "version": 3
 }
-]
+],
+"parteispenden": []
 }

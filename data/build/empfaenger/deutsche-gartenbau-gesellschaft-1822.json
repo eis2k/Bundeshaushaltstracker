@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003652/81779",
 "stand": "2026-07-02"
-}
+},
+"akte_id": "moering-karsten",
+"akte_sichtbar": false
 },
 {
 "name": "Bettina de la Chevallerie",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003652/81779",
 "stand": "2026-07-02"
-}
+},
+"akte_id": "bettina-de-la-chevallerie",
+"akte_sichtbar": false
 },
 {
 "name": "Tino Heidecke",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003652/81779",
 "stand": "2026-07-02"
-}
+},
+"akte_id": "tino-heidecke",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -104,5 +110,6 @@
 "etikett": "Eigenangabe",
 "version": 8
 }
-]
+],
+"parteispenden": []
 }

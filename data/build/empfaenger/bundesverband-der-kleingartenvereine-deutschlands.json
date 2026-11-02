@@ -57,7 +57,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002960/80186",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "dirk-sielmann",
+"akte_sichtbar": false
 },
 {
 "name": "Udo Seiffert",
@@ -68,7 +70,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002960/80186",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "udo-seiffert",
+"akte_sichtbar": false
 },
 {
 "name": "Hansjörg Kefeder",
@@ -79,7 +83,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002960/80186",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "hansjoerg-kefeder",
+"akte_sichtbar": false
 },
 {
 "name": "Sandra Böhme",
@@ -90,7 +96,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002960/80186",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "sandra-boehme",
+"akte_sichtbar": false
 },
 {
 "name": "Martin Klöden",
@@ -101,7 +109,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002960/80186",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "martin-kloeden",
+"akte_sichtbar": false
 },
 {
 "name": "Robert Kröger",
@@ -112,7 +122,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002960/80186",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "robert-kroeger",
+"akte_sichtbar": false
 },
 {
 "name": "Pasquale Lüthin",
@@ -123,7 +135,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002960/80186",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "pasquale-luethin",
+"akte_sichtbar": false
 },
 {
 "name": "Thomas Kleinworth",
@@ -134,7 +148,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002960/80186",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "thomas-kleinworth",
+"akte_sichtbar": false
 },
 {
 "name": "Stefan Grundei",
@@ -145,7 +161,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002960/80186",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "stefan-grundei",
+"akte_sichtbar": false
 },
 {
 "name": "Eva Foos",
@@ -156,7 +174,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002960/80186",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "eva-foos",
+"akte_sichtbar": false
 },
 {
 "name": "Sandra von Rekowski",
@@ -167,7 +187,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002960/80186",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "sandra-von-rekowski",
+"akte_sichtbar": false
 },
 {
 "name": "Thomas Stölting",
@@ -178,7 +200,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002960/80186",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "thomas-stoelting",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -220,5 +244,6 @@
 "etikett": "Eigenangabe",
 "version": 9
 }
-]
+],
+"parteispenden": []
 }

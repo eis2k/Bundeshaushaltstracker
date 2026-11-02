@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001507/80208",
 "stand": "2026-07-27"
-}
+},
+"akte_id": "susanne-baer",
+"akte_sichtbar": false
 },
 {
 "name": "Verena Haisch",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001507/80208",
 "stand": "2026-07-27"
-}
+},
+"akte_id": "verena-haisch",
+"akte_sichtbar": false
 },
 {
 "name": "Lucy Chebout",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001507/80208",
 "stand": "2026-07-27"
-}
+},
+"akte_id": "lucy-chebout",
+"akte_sichtbar": false
 },
 {
 "name": "Anke Gimbal",
@@ -82,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001507/80208",
 "stand": "2026-07-27"
-}
+},
+"akte_id": "anke-gimbal",
+"akte_sichtbar": false
 },
 {
 "name": "Amelie Schillinger",
@@ -93,7 +101,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001507/80208",
 "stand": "2026-07-27"
-}
+},
+"akte_id": "amelie-schillinger",
+"akte_sichtbar": false
 },
 {
 "name": "Emma Bombien",
@@ -104,7 +114,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001507/80208",
 "stand": "2026-07-27"
-}
+},
+"akte_id": "emma-bombien",
+"akte_sichtbar": false
 },
 {
 "name": "Anna Lena Göttsche",
@@ -115,7 +127,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001507/80208",
 "stand": "2026-07-27"
-}
+},
+"akte_id": "anna-lena-goettsche",
+"akte_sichtbar": false
 },
 {
 "name": "Isabell Hensel",
@@ -126,7 +140,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001507/80208",
 "stand": "2026-07-27"
-}
+},
+"akte_id": "isabell-hensel",
+"akte_sichtbar": false
 },
 {
 "name": "Dilken Çelebi",
@@ -137,7 +153,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001507/80208",
 "stand": "2026-07-27"
-}
+},
+"akte_id": "dilken-elebi",
+"akte_sichtbar": false
 },
 {
 "name": "Susanne Dern",
@@ -148,7 +166,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001507/80208",
 "stand": "2026-07-27"
-}
+},
+"akte_id": "susanne-dern",
+"akte_sichtbar": false
 },
 {
 "name": "Stefanie Killinger",
@@ -159,7 +179,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001507/80208",
 "stand": "2026-07-27"
-}
+},
+"akte_id": "stefanie-killinger",
+"akte_sichtbar": false
 },
 {
 "name": "Valentina Chiofalo",
@@ -170,7 +192,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001507/80208",
 "stand": "2026-07-27"
-}
+},
+"akte_id": "valentina-chiofalo",
+"akte_sichtbar": false
 },
 {
 "name": "Theresia Rasche",
@@ -181,7 +205,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001507/80208",
 "stand": "2026-07-27"
-}
+},
+"akte_id": "theresia-rasche",
+"akte_sichtbar": false
 },
 {
 "name": "Vanessa von Wulfen",
@@ -192,7 +218,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001507/80208",
 "stand": "2026-07-27"
-}
+},
+"akte_id": "vanessa-von-wulfen",
+"akte_sichtbar": false
 },
 {
 "name": "Heide Pfarr",
@@ -203,7 +231,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001507/80208",
 "stand": "2026-07-27"
-}
+},
+"akte_id": "heide-pfarr",
+"akte_sichtbar": false
 },
 {
 "name": "Liane Wörner",
@@ -214,7 +244,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001507/80208",
 "stand": "2026-07-27"
-}
+},
+"akte_id": "liane-woerner",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -257,5 +289,6 @@
 "etikett": "Eigenangabe",
 "version": 32
 }
-]
+],
+"parteispenden": []
 }

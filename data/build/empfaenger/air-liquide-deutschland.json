@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002255/83736",
 "stand": "2026-07-27"
-}
+},
+"akte_id": "mehdi-hireche",
+"akte_sichtbar": false
 },
 {
 "name": "Henrike Hepermann",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002255/83736",
 "stand": "2026-07-27"
-}
+},
+"akte_id": "henrike-hepermann",
+"akte_sichtbar": false
 },
 {
 "name": "Gilles Le Van",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002255/83736",
 "stand": "2026-07-27"
-}
+},
+"akte_id": "gilles-le-van",
+"akte_sichtbar": false
 },
 {
 "name": "Alexander Benöhr",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002255/83736",
 "stand": "2026-07-27"
-}
+},
+"akte_id": "alexander-benoehr",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -114,5 +122,6 @@
 "etikett": "Eigenangabe",
 "version": 17
 }
-]
+],
+"parteispenden": []
 }

@@ -96,7 +96,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003153/84915",
 "stand": "2026-08-20"
-}
+},
+"akte_id": "robert-mayr",
+"akte_sichtbar": false
 },
 {
 "name": "Markus  Algner",
@@ -107,7 +109,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003153/84915",
 "stand": "2026-08-20"
-}
+},
+"akte_id": "markus-algner",
+"akte_sichtbar": false
 },
 {
 "name": "Christian Bär",
@@ -118,7 +122,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003153/84915",
 "stand": "2026-08-20"
-}
+},
+"akte_id": "christian-baer",
+"akte_sichtbar": false
 },
 {
 "name": "Julia Bangerth",
@@ -129,7 +135,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003153/84915",
 "stand": "2026-08-20"
-}
+},
+"akte_id": "julia-bangerth",
+"akte_sichtbar": false
 },
 {
 "name": "Jens  Bizan",
@@ -140,7 +148,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003153/84915",
 "stand": "2026-08-20"
-}
+},
+"akte_id": "jens-bizan",
+"akte_sichtbar": false
 },
 {
 "name": "Torsten Wunderlich",
@@ -151,7 +161,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003153/84915",
 "stand": "2026-08-20"
-}
+},
+"akte_id": "torsten-wunderlich",
+"akte_sichtbar": false
 },
 {
 "name": "Johannes Holtz",
@@ -162,7 +174,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003153/84915",
 "stand": "2026-08-20"
-}
+},
+"akte_id": "johannes-holtz",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [
@@ -248,5 +262,6 @@
 "abgerufen": "2026-11-01",
 "etikett": "Eigenangabe"
 }
-]
+],
+"parteispenden": []
 }

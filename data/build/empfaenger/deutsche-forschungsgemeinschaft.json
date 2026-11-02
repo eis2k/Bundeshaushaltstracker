@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002059/87471",
 "stand": "2026-10-13"
-}
+},
+"akte_id": "katja-becker",
+"akte_sichtbar": false
 },
 {
 "name": "Heide Ahrens",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002059/87471",
 "stand": "2026-10-13"
-}
+},
+"akte_id": "heide-ahrens",
+"akte_sichtbar": false
 },
 {
 "name": "Ina Sauer",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002059/87471",
 "stand": "2026-10-13"
-}
+},
+"akte_id": "ina-sauer",
+"akte_sichtbar": false
 },
 {
 "name": "Hai Ha Tran",
@@ -80,7 +86,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002059/87471",
 "stand": "2026-10-13"
-}
+},
+"akte_id": "hai-ha-tran",
+"akte_sichtbar": true
 },
 {
 "name": "Axel Brakhage",
@@ -91,7 +99,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002059/87471",
 "stand": "2026-10-13"
-}
+},
+"akte_id": "axel-brakhage",
+"akte_sichtbar": false
 },
 {
 "name": "Britta Siegmund",
@@ -102,7 +112,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002059/87471",
 "stand": "2026-10-13"
-}
+},
+"akte_id": "britta-siegmund",
+"akte_sichtbar": false
 },
 {
 "name": "Brigitte Vollmar",
@@ -113,7 +125,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002059/87471",
 "stand": "2026-10-13"
-}
+},
+"akte_id": "brigitte-vollmar",
+"akte_sichtbar": false
 },
 {
 "name": "Markus Fischer",
@@ -124,7 +138,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002059/87471",
 "stand": "2026-10-13"
-}
+},
+"akte_id": "markus-fischer",
+"akte_sichtbar": false
 },
 {
 "name": "Ingrid Ohlert",
@@ -135,7 +151,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002059/87471",
 "stand": "2026-10-13"
-}
+},
+"akte_id": "ingrid-ohlert",
+"akte_sichtbar": false
 },
 {
 "name": "Doris Vetterlein",
@@ -146,7 +164,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002059/87471",
 "stand": "2026-10-13"
-}
+},
+"akte_id": "doris-vetterlein",
+"akte_sichtbar": false
 },
 {
 "name": "Andreas F. Werner",
@@ -157,7 +177,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002059/87471",
 "stand": "2026-10-13"
-}
+},
+"akte_id": "andreas-f-werner",
+"akte_sichtbar": false
 },
 {
 "name": "Johanna Kowol-Santen",
@@ -168,7 +190,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002059/87471",
 "stand": "2026-10-13"
-}
+},
+"akte_id": "johanna-kowol-santen",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [
@@ -244,5 +268,6 @@
 "abgerufen": "2026-11-02",
 "etikett": "Eigenangabe"
 }
-]
+],
+"parteispenden": []
 }

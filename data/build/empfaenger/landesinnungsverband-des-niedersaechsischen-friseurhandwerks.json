@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000375/73042",
 "stand": "2026-02-27"
-}
+},
+"akte_id": "manuela-haertelt-doeren",
+"akte_sichtbar": false
 },
 {
 "name": "Sebastian Kunde",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000375/73042",
 "stand": "2026-02-27"
-}
+},
+"akte_id": "sebastian-kunde",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -85,5 +89,6 @@
 "etikett": "Eigenangabe",
 "version": 5
 }
-]
+],
+"parteispenden": []
 }

@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004883/70359",
 "stand": "2026-01-05"
-}
+},
+"akte_id": "marcus-fendt",
+"akte_sichtbar": false
 },
 {
 "name": "Thomas Moskal",
@@ -58,7 +60,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004883/70359",
 "stand": "2026-01-05"
-}
+},
+"akte_id": "thomas-moskal",
+"akte_sichtbar": true
 },
 {
 "name": "Herbert Diess",
@@ -69,7 +73,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004883/70359",
 "stand": "2026-01-05"
-}
+},
+"akte_id": "herbert-diess",
+"akte_sichtbar": false
 },
 {
 "name": "Alexander Landia",
@@ -80,7 +86,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004883/70359",
 "stand": "2026-01-05"
-}
+},
+"akte_id": "alexander-landia",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [
@@ -143,5 +151,6 @@
 "etikett": "Eigenangabe",
 "version": 4
 }
-]
+],
+"parteispenden": []
 }

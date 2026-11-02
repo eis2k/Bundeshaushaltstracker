@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003719/88163",
 "stand": "2026-10-29"
-}
+},
+"akte_id": "daniel-gotthardt",
+"akte_sichtbar": false
 },
 {
 "name": "Daniela Hommel",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003719/88163",
 "stand": "2026-10-29"
-}
+},
+"akte_id": "daniela-hommel",
+"akte_sichtbar": false
 },
 {
 "name": "Hannes Reichl",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003719/88163",
 "stand": "2026-10-29"
-}
+},
+"akte_id": "hannes-reichl",
+"akte_sichtbar": false
 },
 {
 "name": "Thorsten Herrmann",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003719/88163",
 "stand": "2026-10-29"
-}
+},
+"akte_id": "thorsten-herrmann",
+"akte_sichtbar": false
 },
 {
 "name": "Barbara Bruzek",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003719/88163",
 "stand": "2026-10-29"
-}
+},
+"akte_id": "barbara-bruzek",
+"akte_sichtbar": false
 },
 {
 "name": "Jörg Köpke",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003719/88163",
 "stand": "2026-10-29"
-}
+},
+"akte_id": "joerg-koepke",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -136,5 +148,6 @@
 "etikett": "Eigenangabe",
 "version": 24
 }
-]
+],
+"parteispenden": []
 }

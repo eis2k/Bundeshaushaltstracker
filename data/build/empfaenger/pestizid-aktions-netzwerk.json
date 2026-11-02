@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003022/87131",
 "stand": "2026-10-08"
-}
+},
+"akte_id": "gabriela-strobel",
+"akte_sichtbar": false
 },
 {
 "name": "Inga Wulf",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003022/87131",
 "stand": "2026-10-08"
-}
+},
+"akte_id": "inga-wulf",
+"akte_sichtbar": false
 },
 {
 "name": "Susan Haffmans",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003022/87131",
 "stand": "2026-10-08"
-}
+},
+"akte_id": "susan-haffmans",
+"akte_sichtbar": false
 },
 {
 "name": "Susanne Smolka",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003022/87131",
 "stand": "2026-10-08"
-}
+},
+"akte_id": "susanne-smolka",
+"akte_sichtbar": false
 },
 {
 "name": "Tamara Gripp",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003022/87131",
 "stand": "2026-10-08"
-}
+},
+"akte_id": "tamara-gripp",
+"akte_sichtbar": false
 },
 {
 "name": "Peter Clausing",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003022/87131",
 "stand": "2026-10-08"
-}
+},
+"akte_id": "peter-clausing",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -139,5 +151,6 @@
 "etikett": "Eigenangabe",
 "version": 24
 }
-]
+],
+"parteispenden": []
 }

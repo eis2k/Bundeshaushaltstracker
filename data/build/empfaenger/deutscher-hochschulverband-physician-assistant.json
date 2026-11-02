@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000326/78345",
 "stand": "2026-06-15"
-}
+},
+"akte_id": "peter-heistermann",
+"akte_sichtbar": false
 },
 {
 "name": "Cornelia Hagl",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000326/78345",
 "stand": "2026-06-15"
-}
+},
+"akte_id": "cornelia-hagl",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -93,5 +97,6 @@
 "etikett": "Eigenangabe",
 "version": 12
 }
-]
+],
+"parteispenden": []
 }

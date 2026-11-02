@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005319/86281",
 "stand": "2026-10-27"
-}
+},
+"akte_id": "hila-limar",
+"akte_sichtbar": false
 },
 {
 "name": "Svenja Wienböker",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005319/86281",
 "stand": "2026-10-27"
-}
+},
+"akte_id": "svenja-wienboeker",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -94,5 +98,6 @@
 "etikett": "Eigenangabe",
 "version": 7
 }
-]
+],
+"parteispenden": []
 }

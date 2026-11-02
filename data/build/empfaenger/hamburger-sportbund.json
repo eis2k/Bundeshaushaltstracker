@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000262/87762",
 "stand": "2026-10-19"
-}
+},
+"akte_id": "daniel-knoblich",
+"akte_sichtbar": false
 },
 {
 "name": "Christian Poon",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000262/87762",
 "stand": "2026-10-19"
-}
+},
+"akte_id": "christian-poon",
+"akte_sichtbar": false
 },
 {
 "name": "Maarten Malczak",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000262/87762",
 "stand": "2026-10-19"
-}
+},
+"akte_id": "maarten-malczak",
+"akte_sichtbar": false
 },
 {
 "name": "Pia Wilke",
@@ -82,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000262/87762",
 "stand": "2026-10-19"
-}
+},
+"akte_id": "pia-wilke",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -124,5 +132,6 @@
 "etikett": "Eigenangabe",
 "version": 17
 }
-]
+],
+"parteispenden": []
 }

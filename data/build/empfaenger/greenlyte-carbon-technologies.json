@@ -60,7 +60,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007463/83847",
 "stand": "2026-07-28"
-}
+},
+"akte_id": "florian-hildebrand",
+"akte_sichtbar": false
 },
 {
 "name": "Niklas Friederichsen",
@@ -71,7 +73,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007463/83847",
 "stand": "2026-07-28"
-}
+},
+"akte_id": "niklas-friederichsen",
+"akte_sichtbar": false
 },
 {
 "name": "Martin Schmickler",
@@ -82,7 +86,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007463/83847",
 "stand": "2026-07-28"
-}
+},
+"akte_id": "martin-schmickler",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -128,5 +134,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

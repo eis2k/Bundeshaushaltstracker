@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006738/88140",
 "stand": "2026-10-29"
-}
+},
+"akte_id": "brigitte-knopf",
+"akte_sichtbar": false
 },
 {
 "name": "Michael Schulte",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006738/88140",
 "stand": "2026-10-29"
-}
+},
+"akte_id": "michael-schulte",
+"akte_sichtbar": false
 },
 {
 "name": "Astrid Schaffert",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006738/88140",
 "stand": "2026-10-29"
-}
+},
+"akte_id": "astrid-schaffert",
+"akte_sichtbar": false
 },
 {
 "name": "Marie-Louise Zeller",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006738/88140",
 "stand": "2026-10-29"
-}
+},
+"akte_id": "marie-louise-zeller",
+"akte_sichtbar": false
 },
 {
 "name": "Frederik Lettow",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006738/88140",
 "stand": "2026-10-29"
-}
+},
+"akte_id": "frederik-lettow",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -126,5 +136,6 @@
 "etikett": "Eigenangabe",
 "version": 9
 }
-]
+],
+"parteispenden": []
 }

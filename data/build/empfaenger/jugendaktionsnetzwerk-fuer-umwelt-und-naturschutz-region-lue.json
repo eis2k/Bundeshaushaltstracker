@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000635/84130",
 "stand": "2026-08-04"
-}
+},
+"akte_id": "kaja-petersen",
+"akte_sichtbar": false
 },
 {
 "name": "Phaenna Fölz",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000635/84130",
 "stand": "2026-08-04"
-}
+},
+"akte_id": "phaenna-foelz",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -93,5 +97,6 @@
 "etikett": "Eigenangabe",
 "version": 5
 }
-]
+],
+"parteispenden": []
 }

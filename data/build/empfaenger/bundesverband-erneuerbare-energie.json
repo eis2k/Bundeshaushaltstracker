@@ -57,7 +57,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002168/86822",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "ursula-heinen-esser-lr-r002168",
+"akte_sichtbar": false
 },
 {
 "name": "Bärbel Heidebroek",
@@ -68,7 +70,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002168/86822",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "baerbel-heidebroek",
+"akte_sichtbar": false
 },
 {
 "name": "Carsten Körnig",
@@ -79,7 +83,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002168/86822",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "carsten-koernig",
+"akte_sichtbar": false
 },
 {
 "name": "Hans-Peter Lang",
@@ -90,7 +96,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002168/86822",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "hans-peter-lang",
+"akte_sichtbar": false
 },
 {
 "name": "Martin Sabel",
@@ -101,7 +109,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002168/86822",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "martin-sabel",
+"akte_sichtbar": false
 },
 {
 "name": "Horst Seide",
@@ -112,7 +122,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002168/86822",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "horst-seide",
+"akte_sichtbar": false
 },
 {
 "name": "Steffen Lackmann",
@@ -123,7 +135,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002168/86822",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "steffen-lackmann",
+"akte_sichtbar": false
 },
 {
 "name": "Matthias Stark",
@@ -134,7 +148,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002168/86822",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "matthias-stark",
+"akte_sichtbar": false
 },
 {
 "name": "Florian Widdel",
@@ -145,7 +161,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002168/86822",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "florian-widdel",
+"akte_sichtbar": false
 },
 {
 "name": "Helge Beyer",
@@ -156,7 +174,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002168/86822",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "helge-beyer",
+"akte_sichtbar": false
 },
 {
 "name": "Paul Jannaschk",
@@ -167,7 +187,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002168/86822",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "paul-jannaschk",
+"akte_sichtbar": false
 },
 {
 "name": "Philip Matthiessen",
@@ -178,7 +200,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002168/86822",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "philip-matthiessen",
+"akte_sichtbar": false
 },
 {
 "name": "Paula Fredrich",
@@ -189,7 +213,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002168/86822",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "paula-fredrich",
+"akte_sichtbar": false
 },
 {
 "name": "Christine Falken-Großer",
@@ -206,7 +232,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002168/86822",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "christine-falken-grosser",
+"akte_sichtbar": true
 },
 {
 "name": "Michel Sunderer",
@@ -217,7 +245,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002168/86822",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "michel-sunderer",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [
@@ -283,5 +313,6 @@
 "etikett": "Eigenangabe",
 "version": 44
 }
-]
+],
+"parteispenden": []
 }

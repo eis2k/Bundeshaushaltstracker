@@ -57,7 +57,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006231/69147",
 "stand": "2026-06-26"
-}
+},
+"akte_id": "mareike-von-raepke",
+"akte_sichtbar": false
 },
 {
 "name": "Jantje Theege",
@@ -68,7 +70,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006231/69147",
 "stand": "2026-06-26"
-}
+},
+"akte_id": "jantje-theege",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -111,5 +115,6 @@
 "etikett": "Eigenangabe",
 "version": 7
 }
-]
+],
+"parteispenden": []
 }

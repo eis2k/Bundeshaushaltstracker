@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006017/83758",
 "stand": "2026-08-18"
-}
+},
+"akte_id": "mamad-mohamad",
+"akte_sichtbar": false
 },
 {
 "name": "Undra Dreßler",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006017/83758",
 "stand": "2026-08-18"
-}
+},
+"akte_id": "undra-dressler",
+"akte_sichtbar": false
 },
 {
 "name": "Herrmann Elena",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006017/83758",
 "stand": "2026-08-18"
-}
+},
+"akte_id": "herrmann-elena",
+"akte_sichtbar": false
 },
 {
 "name": "Aleed Waseem",
@@ -82,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006017/83758",
 "stand": "2026-08-18"
-}
+},
+"akte_id": "aleed-waseem",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -123,5 +131,6 @@
 "etikett": "Eigenangabe",
 "version": 10
 }
-]
+],
+"parteispenden": []
 }

@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002272/78111",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "johannes-pollak",
+"akte_sichtbar": false
 },
 {
 "name": "Wolf-Ruthart Born",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002272/78111",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "wolf-ruthart-born",
+"akte_sichtbar": false
 },
 {
 "name": "Andreas Krautscheid",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002272/78111",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "andreas-krautscheid",
+"akte_sichtbar": false
 },
 {
 "name": "Funda Tekin",
@@ -82,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002272/78111",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "funda-tekin-lr-r002272",
+"akte_sichtbar": false
 },
 {
 "name": "Daniel Hegedüs",
@@ -93,7 +101,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002272/78111",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "daniel-hegedues",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -134,5 +144,6 @@
 "etikett": "Eigenangabe",
 "version": 10
 }
-]
+],
+"parteispenden": []
 }

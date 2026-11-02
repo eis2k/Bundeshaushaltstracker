@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004178/83870",
 "stand": "2026-08-10"
-}
+},
+"akte_id": "jan-kroker",
+"akte_sichtbar": false
 },
 {
 "name": "Claudia Wegener",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004178/83870",
 "stand": "2026-08-10"
-}
+},
+"akte_id": "claudia-wegener",
+"akte_sichtbar": false
 },
 {
 "name": "Yi Guo",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004178/83870",
 "stand": "2026-08-10"
-}
+},
+"akte_id": "yi-guo",
+"akte_sichtbar": false
 },
 {
 "name": "Henning Krumrey",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004178/83870",
 "stand": "2026-08-10"
-}
+},
+"akte_id": "henning-krumrey",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -114,5 +122,6 @@
 "etikett": "Eigenangabe",
 "version": 8
 }
-]
+],
+"parteispenden": []
 }

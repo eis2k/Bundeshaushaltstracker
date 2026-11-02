@@ -73,7 +73,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005493/75563",
 "stand": "2026-06-09"
-}
+},
+"akte_id": "berthold-bonekamp",
+"akte_sichtbar": false
 },
 {
 "name": "Birgit Klaissle-Walk",
@@ -84,7 +86,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005493/75563",
 "stand": "2026-06-09"
-}
+},
+"akte_id": "birgit-klaissle-walk",
+"akte_sichtbar": false
 },
 {
 "name": "Rainer Böck",
@@ -95,7 +99,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005493/75563",
 "stand": "2026-06-09"
-}
+},
+"akte_id": "rainer-boeck",
+"akte_sichtbar": false
 },
 {
 "name": "Gerhard Tepe",
@@ -106,7 +112,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005493/75563",
 "stand": "2026-06-09"
-}
+},
+"akte_id": "gerhard-tepe-lr-r005493",
+"akte_sichtbar": false
 },
 {
 "name": "Lukas Schreiber",
@@ -117,7 +125,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005493/75563",
 "stand": "2026-06-09"
-}
+},
+"akte_id": "lukas-schreiber",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -158,5 +168,6 @@
 "etikett": "Eigenangabe",
 "version": 5
 }
-]
+],
+"parteispenden": []
 }

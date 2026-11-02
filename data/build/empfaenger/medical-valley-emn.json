@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007244/76307",
 "stand": "2026-06-12"
-}
+},
+"akte_id": "felix-winter",
+"akte_sichtbar": false
 },
 {
 "name": "Marco Wendel",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007244/76307",
 "stand": "2026-06-12"
-}
+},
+"akte_id": "marco-wendel",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -102,5 +106,6 @@
 "etikett": "Eigenangabe",
 "version": 4
 }
-]
+],
+"parteispenden": []
 }

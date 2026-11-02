@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004284/78502",
 "stand": "2026-06-08"
-}
+},
+"akte_id": "andreas-gahl",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -81,5 +83,6 @@
 "etikett": "Eigenangabe",
 "version": 9
 }
-]
+],
+"parteispenden": []
 }

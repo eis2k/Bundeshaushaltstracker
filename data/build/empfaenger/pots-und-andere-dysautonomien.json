@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007482/84564",
 "stand": "2026-08-11"
-}
+},
+"akte_id": "elena-de-moya",
+"akte_sichtbar": false
 },
 {
 "name": "Inge Baader",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007482/84564",
 "stand": "2026-08-11"
-}
+},
+"akte_id": "inge-baader",
+"akte_sichtbar": false
 },
 {
 "name": "Sven Musolff",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007482/84564",
 "stand": "2026-08-11"
-}
+},
+"akte_id": "sven-musolff",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -106,5 +112,6 @@
 "etikett": "Eigenangabe",
 "version": 4
 }
-]
+],
+"parteispenden": []
 }

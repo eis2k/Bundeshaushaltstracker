@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004213/78321",
 "stand": "2026-06-16"
-}
+},
+"akte_id": "friedel-heuwinkel",
+"akte_sichtbar": false
 },
 {
 "name": "Schöttle Roland",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004213/78321",
 "stand": "2026-06-16"
-}
+},
+"akte_id": "schoettle-roland",
+"akte_sichtbar": false
 },
 {
 "name": "Ulrike Garbe",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004213/78321",
 "stand": "2026-06-16"
-}
+},
+"akte_id": "ulrike-garbe",
+"akte_sichtbar": false
 },
 {
 "name": "Ulrich Köster",
@@ -82,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004213/78321",
 "stand": "2026-06-16"
-}
+},
+"akte_id": "ulrich-koester",
+"akte_sichtbar": false
 },
 {
 "name": "Jörg Liesen",
@@ -93,7 +101,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004213/78321",
 "stand": "2026-06-16"
-}
+},
+"akte_id": "joerg-liesen",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -137,5 +147,6 @@
 "etikett": "Eigenangabe",
 "version": 8
 }
-]
+],
+"parteispenden": []
 }

@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001021/77162",
 "stand": "2026-05-26"
-}
+},
+"akte_id": "lars-schaefer-lr-r001021",
+"akte_sichtbar": false
 },
 {
 "name": "Angelina Bemb",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001021/77162",
 "stand": "2026-05-26"
-}
+},
+"akte_id": "angelina-bemb",
+"akte_sichtbar": false
 },
 {
 "name": "Heike Timmen",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001021/77162",
 "stand": "2026-05-26"
-}
+},
+"akte_id": "heike-timmen-lr-r001021",
+"akte_sichtbar": false
 },
 {
 "name": "Christina Müller-Ehlers",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001021/77162",
 "stand": "2026-05-26"
-}
+},
+"akte_id": "christina-mueller-ehlers",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -116,5 +124,6 @@
 "etikett": "Eigenangabe",
 "version": 13
 }
-]
+],
+"parteispenden": []
 }

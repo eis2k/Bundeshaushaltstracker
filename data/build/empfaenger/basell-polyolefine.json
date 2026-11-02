@@ -52,7 +52,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005987/87669",
 "stand": "2026-10-16"
-}
+},
+"akte_id": "daniel-koch",
+"akte_sichtbar": false
 },
 {
 "name": "Andrei Gonioukh",
@@ -63,7 +65,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005987/87669",
 "stand": "2026-10-16"
-}
+},
+"akte_id": "andrei-gonioukh",
+"akte_sichtbar": false
 },
 {
 "name": "Lizzy Vissia",
@@ -74,7 +78,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005987/87669",
 "stand": "2026-10-16"
-}
+},
+"akte_id": "lizzy-vissia",
+"akte_sichtbar": false
 },
 {
 "name": "Martin Coop",
@@ -85,7 +91,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005987/87669",
 "stand": "2026-10-16"
-}
+},
+"akte_id": "martin-coop",
+"akte_sichtbar": false
 },
 {
 "name": "Rüdiger Klein",
@@ -96,7 +104,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005987/87669",
 "stand": "2026-10-16"
-}
+},
+"akte_id": "ruediger-klein",
+"akte_sichtbar": false
 },
 {
 "name": "Franz-Günter Zeiger",
@@ -107,7 +117,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005987/87669",
 "stand": "2026-10-16"
-}
+},
+"akte_id": "franz-guenter-zeiger",
+"akte_sichtbar": false
 },
 {
 "name": "Wilfried Klein",
@@ -118,7 +130,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005987/87669",
 "stand": "2026-10-16"
-}
+},
+"akte_id": "wilfried-klein",
+"akte_sichtbar": false
 },
 {
 "name": "Stefan Klaiber",
@@ -129,7 +143,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005987/87669",
 "stand": "2026-10-16"
-}
+},
+"akte_id": "stefan-klaiber",
+"akte_sichtbar": false
 },
 {
 "name": "Andreas Neumann",
@@ -140,7 +156,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005987/87669",
 "stand": "2026-10-16"
-}
+},
+"akte_id": "andreas-neumann",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -185,5 +203,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

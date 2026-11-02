@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003032/79928",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "sebastian-schulz",
+"akte_sichtbar": false
 },
 {
 "name": "Alexandra Horster",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003032/79928",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "alexandra-horster",
+"akte_sichtbar": false
 },
 {
 "name": "Peter Johannes Kube",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003032/79928",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "peter-johannes-kube",
+"akte_sichtbar": false
 },
 {
 "name": "Klaudia Rudersdorf",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003032/79928",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "klaudia-rudersdorf",
+"akte_sichtbar": false
 },
 {
 "name": "Sven-Marco Meng",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003032/79928",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "sven-marco-meng",
+"akte_sichtbar": false
 },
 {
 "name": "Michaela  Brönner",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003032/79928",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "michaela-broenner",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -132,5 +144,6 @@
 "etikett": "Eigenangabe",
 "version": 8
 }
-]
+],
+"parteispenden": []
 }

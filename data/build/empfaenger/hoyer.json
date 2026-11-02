@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004684/66135",
 "stand": "2025-10-01"
-}
+},
+"akte_id": "thomas-hoyer-lr-r004684",
+"akte_sichtbar": false
 },
 {
 "name": "Markus Hoyer",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004684/66135",
 "stand": "2025-10-01"
-}
+},
+"akte_id": "markus-hoyer",
+"akte_sichtbar": false
 },
 {
 "name": "Maximillian Hoffmann",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004684/66135",
 "stand": "2025-10-01"
-}
+},
+"akte_id": "maximillian-hoffmann",
+"akte_sichtbar": false
 },
 {
 "name": "Jan Wellmann",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004684/66135",
 "stand": "2025-10-01"
-}
+},
+"akte_id": "jan-wellmann",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -114,5 +122,6 @@
 "etikett": "Eigenangabe",
 "version": 6
 }
-]
+],
+"parteispenden": []
 }

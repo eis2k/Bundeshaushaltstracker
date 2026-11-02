@@ -73,7 +73,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004000/86158",
 "stand": "2026-09-22"
-}
+},
+"akte_id": "marko-walde",
+"akte_sichtbar": false
 },
 {
 "name": "Maximilian Schnarr",
@@ -84,7 +86,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004000/86158",
 "stand": "2026-09-22"
-}
+},
+"akte_id": "maximilian-schnarr",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -126,5 +130,6 @@
 "etikett": "Eigenangabe",
 "version": 10
 }
-]
+],
+"parteispenden": []
 }

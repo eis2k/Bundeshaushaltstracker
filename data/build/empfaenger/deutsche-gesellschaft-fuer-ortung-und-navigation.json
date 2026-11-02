@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007199/86377",
 "stand": "2026-09-24"
-}
+},
+"akte_id": "carlos-jahn",
+"akte_sichtbar": false
 },
 {
 "name": "Uwe Plank-Wiedenbeck",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007199/86377",
 "stand": "2026-09-24"
-}
+},
+"akte_id": "uwe-plank-wiedenbeck",
+"akte_sichtbar": false
 },
 {
 "name": "Frank Zimmermann",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007199/86377",
 "stand": "2026-09-24"
-}
+},
+"akte_id": "frank-zimmermann",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -105,5 +111,6 @@
 "etikett": "Eigenangabe",
 "version": 4
 }
-]
+],
+"parteispenden": []
 }

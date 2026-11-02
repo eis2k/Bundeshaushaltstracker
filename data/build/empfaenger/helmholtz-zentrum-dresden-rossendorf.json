@@ -73,7 +73,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003176/77975",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "sebastian-m-schmidt",
+"akte_sichtbar": false
 },
 {
 "name": "Diana Stiller",
@@ -84,7 +86,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003176/77975",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "diana-stiller",
+"akte_sichtbar": false
 },
 {
 "name": "Simon Schmitt",
@@ -95,7 +99,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003176/77975",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "simon-schmitt",
+"akte_sichtbar": false
 },
 {
 "name": "Kim-Astrid Magister",
@@ -106,7 +112,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003176/77975",
 "stand": "2026-06-30"
-}
+},
+"akte_id": "kim-astrid-magister",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -147,5 +155,6 @@
 "etikett": "Eigenangabe",
 "version": 8
 }
-]
+],
+"parteispenden": []
 }

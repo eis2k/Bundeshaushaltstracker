@@ -577,7 +577,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000611/85641",
 "stand": "2026-09-21"
-}
+},
+"akte_id": "florian-bieberbach",
+"akte_sichtbar": false
 },
 {
 "name": "Gabriele  Jahn",
@@ -588,7 +590,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000611/85641",
 "stand": "2026-09-21"
-}
+},
+"akte_id": "gabriele-jahn",
+"akte_sichtbar": false
 },
 {
 "name": "Helge-Uve Braun",
@@ -599,7 +603,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000611/85641",
 "stand": "2026-09-21"
-}
+},
+"akte_id": "helge-uve-braun",
+"akte_sichtbar": false
 },
 {
 "name": "Karin Thelen",
@@ -610,7 +616,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000611/85641",
 "stand": "2026-09-21"
-}
+},
+"akte_id": "karin-thelen",
+"akte_sichtbar": false
 },
 {
 "name": "Sonja Schmutzer",
@@ -621,7 +629,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000611/85641",
 "stand": "2026-09-21"
-}
+},
+"akte_id": "sonja-schmutzer",
+"akte_sichtbar": false
 },
 {
 "name": "Juliane Leinitz",
@@ -632,7 +642,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000611/85641",
 "stand": "2026-09-21"
-}
+},
+"akte_id": "juliane-leinitz",
+"akte_sichtbar": false
 },
 {
 "name": "Verena Dany",
@@ -643,7 +655,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000611/85641",
 "stand": "2026-09-21"
-}
+},
+"akte_id": "verena-dany",
+"akte_sichtbar": false
 },
 {
 "name": "Maria D'Amico",
@@ -654,7 +668,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000611/85641",
 "stand": "2026-09-21"
-}
+},
+"akte_id": "maria-d-amico",
+"akte_sichtbar": false
 },
 {
 "name": "Jakob Nies",
@@ -665,7 +681,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000611/85641",
 "stand": "2026-09-21"
-}
+},
+"akte_id": "jakob-nies",
+"akte_sichtbar": false
 },
 {
 "name": "Hans Lerchl",
@@ -676,7 +694,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000611/85641",
 "stand": "2026-09-21"
-}
+},
+"akte_id": "hans-lerchl",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -717,5 +737,6 @@
 "etikett": "Eigenangabe",
 "version": 86
 }
-]
+],
+"parteispenden": []
 }

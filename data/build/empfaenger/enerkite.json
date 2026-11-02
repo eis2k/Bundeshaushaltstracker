@@ -78,7 +78,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007630/75963",
 "stand": "2026-06-09"
-}
+},
+"akte_id": "florian-breipohl",
+"akte_sichtbar": false
 },
 {
 "name": "Nicole Werner",
@@ -89,7 +91,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007630/75963",
 "stand": "2026-06-09"
-}
+},
+"akte_id": "nicole-werner",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -135,5 +139,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

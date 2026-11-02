@@ -60,7 +60,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005974/82912",
 "stand": "2026-07-10"
-}
+},
+"akte_id": "andr-pietzke",
+"akte_sichtbar": false
 },
 {
 "name": "André Lang-Herfurth",
@@ -71,7 +73,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005974/82912",
 "stand": "2026-07-10"
-}
+},
+"akte_id": "andr-lang-herfurth",
+"akte_sichtbar": false
 },
 {
 "name": "Monica Harting Pfeifer",
@@ -82,7 +86,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005974/82912",
 "stand": "2026-07-10"
-}
+},
+"akte_id": "monica-harting-pfeifer",
+"akte_sichtbar": false
 },
 {
 "name": "Can Lewandowski",
@@ -93,7 +99,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005974/82912",
 "stand": "2026-07-10"
-}
+},
+"akte_id": "can-lewandowski",
+"akte_sichtbar": false
 },
 {
 "name": "Mathias Gerspacher",
@@ -104,7 +112,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005974/82912",
 "stand": "2026-07-10"
-}
+},
+"akte_id": "mathias-gerspacher",
+"akte_sichtbar": false
 },
 {
 "name": "Julia Klein",
@@ -115,7 +125,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005974/82912",
 "stand": "2026-07-10"
-}
+},
+"akte_id": "julia-klein",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -162,5 +174,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

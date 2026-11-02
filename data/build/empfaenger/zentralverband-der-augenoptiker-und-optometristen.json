@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003313/87180",
 "stand": "2026-10-07"
-}
+},
+"akte_id": "kai-jaeger",
+"akte_sichtbar": false
 },
 {
 "name": "Armin Netuschil-Ameloh",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003313/87180",
 "stand": "2026-10-07"
-}
+},
+"akte_id": "armin-netuschil-ameloh",
+"akte_sichtbar": false
 },
 {
 "name": "Jan Wetzel",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003313/87180",
 "stand": "2026-10-07"
-}
+},
+"akte_id": "jan-wetzel",
+"akte_sichtbar": false
 },
 {
 "name": "Sylvia Alps",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003313/87180",
 "stand": "2026-10-07"
-}
+},
+"akte_id": "sylvia-alps",
+"akte_sichtbar": false
 },
 {
 "name": "Dirk Schäfermeyer",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003313/87180",
 "stand": "2026-10-07"
-}
+},
+"akte_id": "dirk-schaefermeyer",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -128,5 +138,6 @@
 "etikett": "Eigenangabe",
 "version": 20
 }
-]
+],
+"parteispenden": []
 }

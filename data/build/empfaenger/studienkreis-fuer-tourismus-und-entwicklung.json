@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004108/83816",
 "stand": "2026-07-28"
-}
+},
+"akte_id": "petra-thomas-lr-r004108",
+"akte_sichtbar": false
 },
 {
 "name": "Dietlind von Laßberg",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004108/83816",
 "stand": "2026-07-28"
-}
+},
+"akte_id": "dietlind-von-lassberg",
+"akte_sichtbar": false
 },
 {
 "name": "Dietmar Quist",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004108/83816",
 "stand": "2026-07-28"
-}
+},
+"akte_id": "dietmar-quist",
+"akte_sichtbar": false
 },
 {
 "name": "Rika Jean Francois",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004108/83816",
 "stand": "2026-07-28"
-}
+},
+"akte_id": "rika-jean-francois",
+"akte_sichtbar": false
 },
 {
 "name": "Laura Jäger",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004108/83816",
 "stand": "2026-07-28"
-}
+},
+"akte_id": "laura-jaeger",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -128,5 +138,6 @@
 "etikett": "Eigenangabe",
 "version": 7
 }
-]
+],
+"parteispenden": []
 }

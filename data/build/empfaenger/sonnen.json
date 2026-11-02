@@ -52,7 +52,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002274/66092",
 "stand": "2025-09-30"
-}
+},
+"akte_id": "oliver-koch-lr-r002274",
+"akte_sichtbar": false
 },
 {
 "name": "Bianca Swanston",
@@ -63,7 +65,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002274/66092",
 "stand": "2025-09-30"
-}
+},
+"akte_id": "bianca-swanston",
+"akte_sichtbar": false
 },
 {
 "name": "Ralf Plieninger",
@@ -74,7 +78,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002274/66092",
 "stand": "2025-09-30"
-}
+},
+"akte_id": "ralf-plieninger",
+"akte_sichtbar": false
 },
 {
 "name": "Andreas Plenk",
@@ -85,7 +91,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002274/66092",
 "stand": "2025-09-30"
-}
+},
+"akte_id": "andreas-plenk",
+"akte_sichtbar": false
 },
 {
 "name": "Felix Dembski",
@@ -96,7 +104,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002274/66092",
 "stand": "2025-09-30"
-}
+},
+"akte_id": "felix-dembski",
+"akte_sichtbar": false
 },
 {
 "name": "Marie  Garstecki",
@@ -107,7 +117,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002274/66092",
 "stand": "2025-09-30"
-}
+},
+"akte_id": "marie-garstecki",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -152,5 +164,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

@@ -65,7 +65,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002599/82324",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "peter-peetz",
+"akte_sichtbar": false
 },
 {
 "name": "Patrick Köllner",
@@ -76,7 +78,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002599/82324",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "patrick-koellner",
+"akte_sichtbar": false
 },
 {
 "name": "Kurtenbach Sabine",
@@ -87,7 +91,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002599/82324",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "kurtenbach-sabine",
+"akte_sichtbar": false
 },
 {
 "name": "Verena Schweiger",
@@ -98,7 +104,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002599/82324",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "verena-schweiger",
+"akte_sichtbar": false
 },
 {
 "name": "Matthias Basdeau",
@@ -109,7 +117,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002599/82324",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "matthias-basdeau",
+"akte_sichtbar": false
 },
 {
 "name": "Eckart Woertz",
@@ -120,7 +130,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002599/82324",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "eckart-woertz",
+"akte_sichtbar": false
 },
 {
 "name": "Bert Hoffmann",
@@ -131,7 +143,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002599/82324",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "bert-hoffmann",
+"akte_sichtbar": false
 },
 {
 "name": "Christian von Soest",
@@ -142,7 +156,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002599/82324",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "christian-von-soest",
+"akte_sichtbar": false
 },
 {
 "name": "Jann Lay",
@@ -153,7 +169,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002599/82324",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "jann-lay",
+"akte_sichtbar": false
 },
 {
 "name": "Miriam Prys-Hansen",
@@ -164,7 +182,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002599/82324",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "miriam-prys-hansen",
+"akte_sichtbar": false
 },
 {
 "name": "Maren Wagner",
@@ -175,7 +195,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002599/82324",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "maren-wagner",
+"akte_sichtbar": false
 },
 {
 "name": "Sonja Bartsch",
@@ -186,7 +208,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002599/82324",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "sonja-bartsch",
+"akte_sichtbar": false
 },
 {
 "name": "Julia Kramer",
@@ -197,7 +221,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002599/82324",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "julia-kramer",
+"akte_sichtbar": false
 },
 {
 "name": "Thomas Richter",
@@ -208,7 +234,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002599/82324",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "thomas-richter-lr-r002599",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -248,5 +276,6 @@
 "etikett": "Eigenangabe",
 "version": 9
 }
-]
+],
+"parteispenden": []
 }

@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004894/82068",
 "stand": "2026-07-20"
-}
+},
+"akte_id": "julia-walter-lr-r004894",
+"akte_sichtbar": false
 },
 {
 "name": "Silke Langhorst",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004894/82068",
 "stand": "2026-07-20"
-}
+},
+"akte_id": "silke-langhorst",
+"akte_sichtbar": false
 },
 {
 "name": "Robin   Strycek",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004894/82068",
 "stand": "2026-07-20"
-}
+},
+"akte_id": "robin-strycek",
+"akte_sichtbar": false
 },
 {
 "name": "Wolfgang Wagner",
@@ -82,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004894/82068",
 "stand": "2026-07-20"
-}
+},
+"akte_id": "wolfgang-wagner",
+"akte_sichtbar": false
 },
 {
 "name": "Nowack Andreas",
@@ -93,7 +101,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004894/82068",
 "stand": "2026-07-20"
-}
+},
+"akte_id": "nowack-andreas",
+"akte_sichtbar": false
 },
 {
 "name": "Hans-Gerd Ennser",
@@ -104,7 +114,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004894/82068",
 "stand": "2026-07-20"
-}
+},
+"akte_id": "hans-gerd-ennser",
+"akte_sichtbar": false
 },
 {
 "name": "Maja Maurer",
@@ -115,7 +127,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004894/82068",
 "stand": "2026-07-20"
-}
+},
+"akte_id": "maja-maurer",
+"akte_sichtbar": false
 },
 {
 "name": "Jürgen Hieke",
@@ -126,7 +140,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004894/82068",
 "stand": "2026-07-20"
-}
+},
+"akte_id": "juergen-hieke",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -169,5 +185,6 @@
 "etikett": "Eigenangabe",
 "version": 7
 }
-]
+],
+"parteispenden": []
 }

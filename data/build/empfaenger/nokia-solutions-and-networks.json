@@ -57,7 +57,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002994/85599",
 "stand": "2026-09-08"
-}
+},
+"akte_id": "eleftherios-papadopoulos",
+"akte_sichtbar": false
 },
 {
 "name": "Oliver Frede",
@@ -68,7 +70,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002994/85599",
 "stand": "2026-09-08"
-}
+},
+"akte_id": "oliver-frede",
+"akte_sichtbar": false
 },
 {
 "name": "Marc Malten",
@@ -79,7 +83,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002994/85599",
 "stand": "2026-09-08"
-}
+},
+"akte_id": "marc-malten",
+"akte_sichtbar": false
 },
 {
 "name": "Arne Deubelius",
@@ -90,7 +96,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002994/85599",
 "stand": "2026-09-08"
-}
+},
+"akte_id": "arne-deubelius",
+"akte_sichtbar": false
 },
 {
 "name": "Jan Hecker",
@@ -101,7 +109,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002994/85599",
 "stand": "2026-09-08"
-}
+},
+"akte_id": "jan-hecker",
+"akte_sichtbar": false
 },
 {
 "name": "Tom Weyrich",
@@ -112,7 +122,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002994/85599",
 "stand": "2026-09-08"
-}
+},
+"akte_id": "tom-weyrich",
+"akte_sichtbar": false
 },
 {
 "name": "Ulrich Rehfuess",
@@ -123,7 +135,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002994/85599",
 "stand": "2026-09-08"
-}
+},
+"akte_id": "ulrich-rehfuess",
+"akte_sichtbar": false
 },
 {
 "name": "Agnieszka Kupzok",
@@ -134,7 +148,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002994/85599",
 "stand": "2026-09-08"
-}
+},
+"akte_id": "agnieszka-kupzok",
+"akte_sichtbar": false
 },
 {
 "name": "Henrik Bliddal",
@@ -145,7 +161,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002994/85599",
 "stand": "2026-09-08"
-}
+},
+"akte_id": "henrik-bliddal",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -186,5 +204,6 @@
 "etikett": "Eigenangabe",
 "version": 13
 }
-]
+],
+"parteispenden": []
 }

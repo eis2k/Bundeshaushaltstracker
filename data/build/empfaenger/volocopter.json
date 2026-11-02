@@ -113,7 +113,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005536/70349",
 "stand": "2026-01-05"
-}
+},
+"akte_id": "dirk-hoke",
+"akte_sichtbar": false
 },
 {
 "name": "Christian Bauer",
@@ -124,7 +126,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005536/70349",
 "stand": "2026-01-05"
-}
+},
+"akte_id": "christian-bauer",
+"akte_sichtbar": false
 },
 {
 "name": "Stefan Klocke",
@@ -135,7 +139,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005536/70349",
 "stand": "2026-01-05"
-}
+},
+"akte_id": "stefan-klocke",
+"akte_sichtbar": false
 },
 {
 "name": "Oliver Reinhardt",
@@ -146,7 +152,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005536/70349",
 "stand": "2026-01-05"
-}
+},
+"akte_id": "oliver-reinhardt",
+"akte_sichtbar": false
 },
 {
 "name": "Katharina Agüera",
@@ -157,7 +165,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005536/70349",
 "stand": "2026-01-05"
-}
+},
+"akte_id": "katharina-agueera",
+"akte_sichtbar": false
 },
 {
 "name": "Rohit Wariyar",
@@ -168,7 +178,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005536/70349",
 "stand": "2026-01-05"
-}
+},
+"akte_id": "rohit-wariyar",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -210,5 +222,6 @@
 "etikett": "Eigenangabe",
 "version": 8
 }
-]
+],
+"parteispenden": []
 }

@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007000/80810",
 "stand": "2026-07-17"
-}
+},
+"akte_id": "natalie-mekelburger",
+"akte_sichtbar": false
 },
 {
 "name": "Marcus Söhngen",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007000/80810",
 "stand": "2026-07-17"
-}
+},
+"akte_id": "marcus-soehngen",
+"akte_sichtbar": false
 },
 {
 "name": "Torben Kämmerer",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007000/80810",
 "stand": "2026-07-17"
-}
+},
+"akte_id": "torben-kaemmerer",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -111,5 +117,6 @@
 "etikett": "Eigenangabe",
 "version": 5
 }
-]
+],
+"parteispenden": []
 }

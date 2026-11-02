@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000868/83432",
 "stand": "2026-07-20"
-}
+},
+"akte_id": "nicola-kruempelmann",
+"akte_sichtbar": false
 },
 {
 "name": "Becki Möbius",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000868/83432",
 "stand": "2026-07-20"
-}
+},
+"akte_id": "becki-moebius",
+"akte_sichtbar": false
 },
 {
 "name": "Elke Rehwald-Stahl",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000868/83432",
 "stand": "2026-07-20"
-}
+},
+"akte_id": "elke-rehwald-stahl",
+"akte_sichtbar": false
 },
 {
 "name": "Eberhard Bolay",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000868/83432",
 "stand": "2026-07-20"
-}
+},
+"akte_id": "eberhard-bolay",
+"akte_sichtbar": false
 },
 {
 "name": "Astrid Wassenberg",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000868/83432",
 "stand": "2026-07-20"
-}
+},
+"akte_id": "astrid-wassenberg",
+"akte_sichtbar": false
 },
 {
 "name": "Friedrich Hebeisen",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000868/83432",
 "stand": "2026-07-20"
-}
+},
+"akte_id": "friedrich-hebeisen",
+"akte_sichtbar": false
 },
 {
 "name": "Anna Hirt",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000868/83432",
 "stand": "2026-07-20"
-}
+},
+"akte_id": "anna-hirt",
+"akte_sichtbar": false
 },
 {
 "name": "Annika Jungbluth",
@@ -118,7 +132,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000868/83432",
 "stand": "2026-07-20"
-}
+},
+"akte_id": "annika-jungbluth",
+"akte_sichtbar": false
 },
 {
 "name": "Gifty Rosetta Amo Antwi",
@@ -129,7 +145,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000868/83432",
 "stand": "2026-07-20"
-}
+},
+"akte_id": "gifty-rosetta-amo-antwi",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -173,5 +191,6 @@
 "etikett": "Eigenangabe",
 "version": 16
 }
-]
+],
+"parteispenden": []
 }

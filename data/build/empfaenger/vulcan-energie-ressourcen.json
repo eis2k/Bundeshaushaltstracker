@@ -88,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005973/70393",
 "stand": "2026-01-05"
-}
+},
+"akte_id": "nazim-aliyev",
+"akte_sichtbar": false
 },
 {
 "name": "Norbert Pralle",
@@ -99,7 +101,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005973/70393",
 "stand": "2026-01-05"
-}
+},
+"akte_id": "norbert-pralle",
+"akte_sichtbar": false
 },
 {
 "name": "Thomas Bening",
@@ -110,7 +114,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005973/70393",
 "stand": "2026-01-05"
-}
+},
+"akte_id": "thomas-bening",
+"akte_sichtbar": false
 },
 {
 "name": "Lucas Gehringer",
@@ -121,7 +127,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005973/70393",
 "stand": "2026-01-05"
-}
+},
+"akte_id": "lucas-gehringer",
+"akte_sichtbar": false
 },
 {
 "name": "Horst Kreuter",
@@ -132,7 +140,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005973/70393",
 "stand": "2026-01-05"
-}
+},
+"akte_id": "horst-kreuter",
+"akte_sichtbar": false
 },
 {
 "name": "Thorsten Hauck",
@@ -143,7 +153,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005973/70393",
 "stand": "2026-01-05"
-}
+},
+"akte_id": "thorsten-hauck",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -189,5 +201,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

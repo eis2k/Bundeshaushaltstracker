@@ -57,7 +57,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006754/79342",
 "stand": "2026-06-23"
-}
+},
+"akte_id": "marion-sodemann",
+"akte_sichtbar": false
 },
 {
 "name": "Andrea Steinert",
@@ -68,7 +70,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006754/79342",
 "stand": "2026-06-23"
-}
+},
+"akte_id": "andrea-steinert",
+"akte_sichtbar": false
 },
 {
 "name": "Ute Sonnen",
@@ -79,7 +83,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006754/79342",
 "stand": "2026-06-23"
-}
+},
+"akte_id": "ute-sonnen",
+"akte_sichtbar": false
 },
 {
 "name": "Bettina Hartmann",
@@ -90,7 +96,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006754/79342",
 "stand": "2026-06-23"
-}
+},
+"akte_id": "bettina-hartmann",
+"akte_sichtbar": false
 },
 {
 "name": "Heike Nasdala",
@@ -101,7 +109,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006754/79342",
 "stand": "2026-06-23"
-}
+},
+"akte_id": "heike-nasdala",
+"akte_sichtbar": false
 },
 {
 "name": "Julia Haun",
@@ -112,7 +122,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006754/79342",
 "stand": "2026-06-23"
-}
+},
+"akte_id": "julia-haun",
+"akte_sichtbar": false
 },
 {
 "name": "Stefanie Mura",
@@ -123,7 +135,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006754/79342",
 "stand": "2026-06-23"
-}
+},
+"akte_id": "stefanie-mura",
+"akte_sichtbar": false
 },
 {
 "name": "Volker Berresheim",
@@ -134,7 +148,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006754/79342",
 "stand": "2026-06-23"
-}
+},
+"akte_id": "volker-berresheim",
+"akte_sichtbar": false
 },
 {
 "name": "Iris Kobek",
@@ -145,7 +161,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006754/79342",
 "stand": "2026-06-23"
-}
+},
+"akte_id": "iris-kobek",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -188,5 +206,6 @@
 "etikett": "Eigenangabe",
 "version": 9
 }
-]
+],
+"parteispenden": []
 }

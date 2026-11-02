@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005432/71403",
 "stand": "2026-07-09"
-}
+},
+"akte_id": "esther-bierbaum",
+"akte_sichtbar": false
 },
 {
 "name": "Nadine Weber",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005432/71403",
 "stand": "2026-07-09"
-}
+},
+"akte_id": "nadine-weber",
+"akte_sichtbar": false
 },
 {
 "name": "Saskia Schefzik",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005432/71403",
 "stand": "2026-07-09"
-}
+},
+"akte_id": "saskia-schefzik",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -106,5 +112,6 @@
 "etikett": "Eigenangabe",
 "version": 13
 }
-]
+],
+"parteispenden": []
 }

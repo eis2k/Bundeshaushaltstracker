@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008171/84870",
 "stand": "2026-09-03"
-}
+},
+"akte_id": "angela-bauer-lr-r008171",
+"akte_sichtbar": false
 },
 {
 "name": "Thomas Kronenberger",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008171/84870",
 "stand": "2026-09-03"
-}
+},
+"akte_id": "thomas-kronenberger-lr-r008171",
+"akte_sichtbar": false
 },
 {
 "name": "Heiko von Roth",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008171/84870",
 "stand": "2026-09-03"
-}
+},
+"akte_id": "heiko-von-roth",
+"akte_sichtbar": false
 },
 {
 "name": "Jeanne Kompare-Zecher",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008171/84870",
 "stand": "2026-09-03"
-}
+},
+"akte_id": "jeanne-kompare-zecher",
+"akte_sichtbar": false
 },
 {
 "name": "Josef Offele",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008171/84870",
 "stand": "2026-09-03"
-}
+},
+"akte_id": "josef-offele",
+"akte_sichtbar": false
 },
 {
 "name": "Christa Schäfer",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008171/84870",
 "stand": "2026-09-03"
-}
+},
+"akte_id": "christa-schaefer",
+"akte_sichtbar": false
 },
 {
 "name": "Hans-Peter Stenzl",
@@ -107,7 +119,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008171/84870",
 "stand": "2026-09-03"
-}
+},
+"akte_id": "hans-peter-stenzl",
+"akte_sichtbar": false
 },
 {
 "name": "Robert Weis-Banaszczyk",
@@ -118,7 +132,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008171/84870",
 "stand": "2026-09-03"
-}
+},
+"akte_id": "robert-weis-banaszczyk",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -160,5 +176,6 @@
 "etikett": "Eigenangabe",
 "version": 3
 }
-]
+],
+"parteispenden": []
 }

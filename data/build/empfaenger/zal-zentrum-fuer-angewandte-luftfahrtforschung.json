@@ -65,7 +65,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001394/78037",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "roland-gerhards",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -106,5 +108,6 @@
 "etikett": "Eigenangabe",
 "version": 7
 }
-]
+],
+"parteispenden": []
 }

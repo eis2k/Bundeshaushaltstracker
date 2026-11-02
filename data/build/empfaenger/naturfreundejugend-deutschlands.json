@@ -89,7 +89,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001568/61294",
 "stand": "2025-07-31"
-}
+},
+"akte_id": "wendelin-haag",
+"akte_sichtbar": false
 },
 {
 "name": "Frank Hoppe",
@@ -100,7 +102,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001568/61294",
 "stand": "2025-07-31"
-}
+},
+"akte_id": "frank-hoppe",
+"akte_sichtbar": false
 },
 {
 "name": "Tim Flinspach",
@@ -111,7 +115,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001568/61294",
 "stand": "2025-07-31"
-}
+},
+"akte_id": "tim-flinspach",
+"akte_sichtbar": false
 },
 {
 "name": "Kilian Harras",
@@ -122,7 +128,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001568/61294",
 "stand": "2025-07-31"
-}
+},
+"akte_id": "kilian-harras",
+"akte_sichtbar": false
 },
 {
 "name": "Ole Pellmann",
@@ -133,7 +141,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001568/61294",
 "stand": "2025-07-31"
-}
+},
+"akte_id": "ole-pellmann",
+"akte_sichtbar": false
 },
 {
 "name": "Sine Rehmer",
@@ -144,7 +154,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001568/61294",
 "stand": "2025-07-31"
-}
+},
+"akte_id": "sine-rehmer",
+"akte_sichtbar": false
 },
 {
 "name": "Lukas Leon Lindemann-Bülow",
@@ -155,7 +167,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001568/61294",
 "stand": "2025-07-31"
-}
+},
+"akte_id": "lukas-leon-lindemann-buelow",
+"akte_sichtbar": false
 },
 {
 "name": "Lukas Nicolaisen",
@@ -166,7 +180,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001568/61294",
 "stand": "2025-07-31"
-}
+},
+"akte_id": "lukas-nicolaisen",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -200,5 +216,6 @@
 "etikett": "Eigenangabe",
 "version": 7
 }
-]
+],
+"parteispenden": []
 }

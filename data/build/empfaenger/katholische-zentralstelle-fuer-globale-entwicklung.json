@@ -65,7 +65,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001643/84626",
 "stand": "2026-08-12"
-}
+},
+"akte_id": "bernd-bornhorst",
+"akte_sichtbar": false
 },
 {
 "name": "Kerstin Düsch-Wehr",
@@ -76,7 +78,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001643/84626",
 "stand": "2026-08-12"
-}
+},
+"akte_id": "kerstin-duesch-wehr",
+"akte_sichtbar": false
 },
 {
 "name": "Karl Jüsten",
@@ -87,7 +91,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001643/84626",
 "stand": "2026-08-12"
-}
+},
+"akte_id": "karl-juesten",
+"akte_sichtbar": false
 },
 {
 "name": "Andreas Frick",
@@ -98,7 +104,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001643/84626",
 "stand": "2026-08-12"
-}
+},
+"akte_id": "andreas-frick",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -138,5 +146,6 @@
 "etikett": "Eigenangabe",
 "version": 18
 }
-]
+],
+"parteispenden": []
 }

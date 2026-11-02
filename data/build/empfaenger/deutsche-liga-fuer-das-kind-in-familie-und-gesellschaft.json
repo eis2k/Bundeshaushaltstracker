@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006856/63551",
 "stand": "2025-10-09"
-}
+},
+"akte_id": "sabine-walper",
+"akte_sichtbar": false
 },
 {
 "name": "Jeanette Roos",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006856/63551",
 "stand": "2025-10-09"
-}
+},
+"akte_id": "jeanette-roos",
+"akte_sichtbar": false
 },
 {
 "name": "Thomas Fischbach",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006856/63551",
 "stand": "2025-10-09"
-}
+},
+"akte_id": "thomas-fischbach",
+"akte_sichtbar": false
 },
 {
 "name": "Friedrich Karl Gothe",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006856/63551",
 "stand": "2025-10-09"
-}
+},
+"akte_id": "friedrich-karl-gothe",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -117,5 +125,6 @@
 "etikett": "Eigenangabe",
 "version": 3
 }
-]
+],
+"parteispenden": []
 }

@@ -86,7 +86,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003302/74511",
 "stand": "2026-03-30"
-}
+},
+"akte_id": "werner-ponikwar",
+"akte_sichtbar": false
 },
 {
 "name": "Stefan Hahn",
@@ -97,7 +99,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003302/74511",
 "stand": "2026-03-30"
-}
+},
+"akte_id": "stefan-hahn",
+"akte_sichtbar": false
 },
 {
 "name": "Klaus  Ohlig",
@@ -108,7 +112,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003302/74511",
 "stand": "2026-03-30"
-}
+},
+"akte_id": "klaus-ohlig",
+"akte_sichtbar": false
 },
 {
 "name": "Leif Kröger",
@@ -119,7 +125,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003302/74511",
 "stand": "2026-03-30"
-}
+},
+"akte_id": "leif-kroeger",
+"akte_sichtbar": false
 },
 {
 "name": "Sönke Hillebrandt",
@@ -130,7 +138,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003302/74511",
 "stand": "2026-03-30"
-}
+},
+"akte_id": "soenke-hillebrandt",
+"akte_sichtbar": false
 },
 {
 "name": "Mara Funda",
@@ -141,7 +151,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003302/74511",
 "stand": "2026-03-30"
-}
+},
+"akte_id": "mara-funda",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -187,5 +199,6 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-]
+],
+"parteispenden": []
 }

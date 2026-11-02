@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001713/84223",
 "stand": "2026-08-04"
-}
+},
+"akte_id": "olaf-tyllack",
+"akte_sichtbar": false
 },
 {
 "name": "Angelika Knoll",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001713/84223",
 "stand": "2026-08-04"
-}
+},
+"akte_id": "angelika-knoll",
+"akte_sichtbar": false
 },
 {
 "name": "Irmgard Klaff-Isselmann",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001713/84223",
 "stand": "2026-08-04"
-}
+},
+"akte_id": "irmgard-klaff-isselmann",
+"akte_sichtbar": false
 },
 {
 "name": "Julia Seeberg",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001713/84223",
 "stand": "2026-08-04"
-}
+},
+"akte_id": "julia-seeberg",
+"akte_sichtbar": false
 },
 {
 "name": "Michaela Frost-Adams",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001713/84223",
 "stand": "2026-08-04"
-}
+},
+"akte_id": "michaela-frost-adams",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -127,5 +137,6 @@
 "etikett": "Eigenangabe",
 "version": 15
 }
-]
+],
+"parteispenden": []
 }

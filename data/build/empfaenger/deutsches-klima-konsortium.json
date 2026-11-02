@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004491/72516",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "angela-oels",
+"akte_sichtbar": false
 },
 {
 "name": "Markus Reichstein",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004491/72516",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "markus-reichstein",
+"akte_sichtbar": false
 },
 {
 "name": "Doris Fuchs",
@@ -63,7 +67,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004491/72516",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "doris-fuchs",
+"akte_sichtbar": false
 },
 {
 "name": "Tobias Fuchs",
@@ -74,7 +80,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004491/72516",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "tobias-fuchs",
+"akte_sichtbar": false
 },
 {
 "name": "Tilman Santarius",
@@ -85,7 +93,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004491/72516",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "tilman-santarius",
+"akte_sichtbar": false
 },
 {
 "name": "Sebastian Klein",
@@ -96,7 +106,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004491/72516",
 "stand": "2026-06-25"
-}
+},
+"akte_id": "sebastian-klein-lr-r004491",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -136,5 +148,6 @@
 "etikett": "Eigenangabe",
 "version": 7
 }
-]
+],
+"parteispenden": []
 }

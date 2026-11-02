@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000134/86956",
 "stand": "2026-10-05"
-}
+},
+"akte_id": "eric-stab",
+"akte_sichtbar": false
 },
 {
 "name": "Frank Hoepner",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000134/86956",
 "stand": "2026-10-05"
-}
+},
+"akte_id": "frank-hoepner",
+"akte_sichtbar": false
 },
 {
 "name": "Niklas Wiegand",
@@ -71,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000134/86956",
 "stand": "2026-10-05"
-}
+},
+"akte_id": "niklas-wiegand",
+"akte_sichtbar": false
 },
 {
 "name": "Katrin Fuhrmann",
@@ -82,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000134/86956",
 "stand": "2026-10-05"
-}
+},
+"akte_id": "katrin-fuhrmann",
+"akte_sichtbar": false
 },
 {
 "name": "Anne Bosser",
@@ -93,7 +101,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000134/86956",
 "stand": "2026-10-05"
-}
+},
+"akte_id": "anne-bosser",
+"akte_sichtbar": false
 },
 {
 "name": "Henrik Maatsch",
@@ -104,7 +114,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000134/86956",
 "stand": "2026-10-05"
-}
+},
+"akte_id": "henrik-maatsch",
+"akte_sichtbar": false
 },
 {
 "name": "Birte Kempe-Samsami",
@@ -115,7 +127,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000134/86956",
 "stand": "2026-10-05"
-}
+},
+"akte_id": "birte-kempe-samsami",
+"akte_sichtbar": false
 },
 {
 "name": "Sabine Hinz",
@@ -126,7 +140,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000134/86956",
 "stand": "2026-10-05"
-}
+},
+"akte_id": "sabine-hinz",
+"akte_sichtbar": false
 },
 {
 "name": "Stefanie Behling",
@@ -137,7 +153,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000134/86956",
 "stand": "2026-10-05"
-}
+},
+"akte_id": "stefanie-behling",
+"akte_sichtbar": false
 },
 {
 "name": "Corinna Grajetzky",
@@ -148,7 +166,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000134/86956",
 "stand": "2026-10-05"
-}
+},
+"akte_id": "corinna-grajetzky",
+"akte_sichtbar": false
 },
 {
 "name": "Natalie Schorr-Erhardt",
@@ -159,7 +179,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000134/86956",
 "stand": "2026-10-05"
-}
+},
+"akte_id": "natalie-schorr-erhardt",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [],
@@ -199,5 +221,6 @@
 "etikett": "Eigenangabe",
 "version": 28
 }
-]
+],
+"parteispenden": []
 }
