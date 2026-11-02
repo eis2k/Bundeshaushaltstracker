@@ -1,0 +1,7 @@
+# Pflege der Personen-Akten (Spec §4.7a). Jeder Eintrag braucht eine Quelle.
+# zusammenfuehren: belegte Identität über Quellen hinweg (ids = Roh-Ids wie <slug>-lr-<nummer>, <slug>-mdb-<id>, <slug>-breg)
+# trennen: ausdrücklich getrennt halten, auch wenn eine Regel greift
+# freigabe: Akten ohne Amt und ohne Verbindung, die ein Prüfer freischaltet (id der fertigen Akte, geprueft_von = GitHub-Login)
+zusammenfuehren: []
+trennen: []
+freigabe: []
