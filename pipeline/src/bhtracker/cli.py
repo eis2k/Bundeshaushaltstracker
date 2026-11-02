@@ -270,8 +270,7 @@ def cmd_fetch_bilder(args: argparse.Namespace) -> int:
     if not isinstance(alt, list):
         alt = [alt]
     alt.append({"zeit": datetime.now(timezone.utc).isoformat(timespec="seconds"), "kommando": "fetch-bilder", "ergebnis": erg})
-    log.write_text(json.dumps(alt, ensure_ascii=False, indent=1), encoding="utf-8", newline="
-")
+    log.write_text(json.dumps(alt, ensure_ascii=False, indent=1), encoding="utf-8", newline="\n")
     return 0
 
 
