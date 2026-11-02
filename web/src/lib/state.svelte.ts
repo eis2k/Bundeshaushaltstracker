@@ -9,6 +9,7 @@ import type { Schnitt } from "./model/schnitte";
 import type { EmpfaengerIndex, EmpfaengerSeite } from "./model/empfaenger";
 import type { Akte, PersonIndex } from "./model/personen";
 import type { Umfeld } from "./model/netz";
+import type { NavEintrag } from "./model/navigation";
 
 export interface Loader {
   loadIndex: () => Promise<Index>;
@@ -96,6 +97,8 @@ export class AppState {
   netzStart = $state<string | null>(null);
   netz = $state<Umfeld | null>(null);
   netzFehlt = $state<string | null>(null);
+  /** Simulator-Eintrag der Navigation: Geldfluss mit Seitenpanel; flüchtig, nicht im Link (Spec §4.10). */
+  gestalten = $state(false);
   /** Netzansicht ohne gewählten Knoten (Link `a=netz` ohne `n=`). */
   netzLeer = $derived(this.view === "netz" && !this.netzStart);
   /** Woher das Netz geöffnet wurde (Akte oder Empfänger-Seite), für „zurück“; die App schreibt keine History-Einträge. */
@@ -226,8 +229,17 @@ export class AppState {
     this.scenario = { ...this.scenario, presets };
   }
 
+  /** Hauptnavigation (Seitenleiste / untere Leiste). */
+  waehle(eintrag: NavEintrag): void {
+    if (eintrag.view === "empfaenger") this.openEmpfaengerListe();
+    else if (eintrag.view === "personen") this.openPersonenListe();
+    else this.setView(eintrag.view);
+    this.gestalten = !!eintrag.gestalten;
+  }
+
   setView(view: ViewId): void {
     this.view = view;
+    if (view !== "fluss") this.gestalten = false;
     if (view === "empfaenger") void this.ensureEmpfaenger();
     if (view === "personen") void this.ensurePersonen();
   }

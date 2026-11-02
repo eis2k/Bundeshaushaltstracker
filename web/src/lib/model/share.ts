@@ -2,7 +2,7 @@ import { revenueGroupId } from "./tree";
 import type { NodeId, Scenario, ViewId, YearData } from "./types";
 import { EMPFAENGERART_LABELS, KOSTENART_LABELS, type Schnitt } from "./schnitte";
 
-const VIEWS: ViewId[] = ["fluss", "karte", "saeulen", "gewachsen", "empfaenger", "personen", "netz"];
+const VIEWS: ViewId[] = ["fluss", "karte", "saeulen", "gewachsen", "ministerien", "empfaenger", "personen", "netz"];
 const EMPFAENGER_ID = /^[a-z0-9-]{1,80}$/;
 const PERSON_ID = /^[a-z0-9-]{1,100}$/;
 const KNOTEN_ID = /^(p|e|m|partei):[a-z0-9-]{1,100}$/;

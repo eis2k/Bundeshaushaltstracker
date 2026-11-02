@@ -1,12 +1,22 @@
+/* Design Tokens. Herkunft: GUI-v2-Mockups (docs/mockups/gui-v2, Spec §4.10). Farben nur über diese Variablen; Datenfarben des Sankey in views/colors.ts. */
 :root {
-  --bg: #f5f5f7;
-  --fg: #1d1d1f;
-  --muted: #6b7280;
-  --panel: #ffffff;
-  --border: #e5e5e7;
-  --accent: #facc15;
-  --header: #101828;
+  --bg: #f5f9ff;            /* Seite */
+  --fg: #1d2a3a;            /* Text */
+  --muted: #6386a7;         /* gedämpfter Text */
+  --panel: #ffffff;         /* Karten */
+  --border: #d4e5f6;        /* Kartenrand */
+  --accent: #2675e1;        /* Links, Fokus, Hervorhebung */
+  --header: #173c66;        /* Primärfarbe: Überschriften, Knöpfe */
   --header-fg: #ffffff;
+  --nav-bg: #e6f1ff;        /* Seitenleiste */
+  --nav-item: #f5faff;      /* ruhender Eintrag */
+  --nav-on: #2670db;        /* aktiver Eintrag */
+  --nav-on-fg: #ffffff;
+  --chip-blau: #dceaff;
+  --chip-gruen: #d9f4eb;
+  --chip-orange: #fff0df;
+  --radius: 16px;
+  --radius-s: 12px;
   --good: #16a34a;
   --bad: #dc2626;
   --steuern: #2563eb;
@@ -23,7 +33,8 @@
 html, body { margin: 0; padding: 0; background: var(--bg); color: var(--fg); }
 body { min-height: 100vh; }
 button { font: inherit; }
-a { color: #0071e3; }
+a { color: var(--accent); }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 
 .tabular { font-variant-numeric: tabular-nums; }
 .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }

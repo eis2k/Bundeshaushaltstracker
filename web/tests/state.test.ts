@@ -1,5 +1,6 @@
 import { describe, expect, test } from "vitest";
 import { AppState, type Loader } from "../src/lib/state.svelte";
+import { EINTRAEGE } from "../src/lib/model/navigation";
 import type { Index, Preset, YearData } from "../src/lib/model/types";
 import { fixtureYear } from "./fixtures";
 
@@ -92,6 +93,20 @@ describe("AppState", () => {
     const row = s.viewData!.rows.find((r) => r.id === "11-1102-63681")!;
     expect(row.soll).toBe(390);
     expect(s.balance?.ausgaben).toBe(950 - 10);
+  });
+});
+
+describe("GUI v2 Navigation", () => {
+  test("waehle öffnet Ansicht und setzt Simulator-Kennzeichen; alter Link bleibt gleich", async () => {
+    const s = new AppState(loader);
+    await s.init("#v1;j=2025;a=karte;f=11");
+    expect(s.view).toBe("karte");
+    s.waehle(EINTRAEGE.find((e) => e.id === "simulator")!);
+    expect(s.view).toBe("fluss"); expect(s.gestalten).toBe(true);
+    expect(s.toHash()).not.toContain("simulator");
+    s.waehle(EINTRAEGE.find((e) => e.id === "ministerien")!);
+    expect(s.view).toBe("ministerien"); expect(s.gestalten).toBe(false);
+    expect(s.toHash()).toContain("a=ministerien");
   });
 });
 
