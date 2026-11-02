@@ -2,7 +2,7 @@
   import { onMount } from "svelte";
   import { loadEmpfaenger, loadEmpfaengerIndex, loadGesetzFrei, loadIndex, loadKonkordanz, loadNetzIndex, loadNetzShard, loadPersonIndex, loadPersonShard, loadPresets, loadSozialkassen, loadSteuern, loadTexte, loadVpi, loadYear, loadZeitreihe } from "./lib/model/load";
   import { AppState } from "./lib/state.svelte";
-  import Jahresleiste from "./lib/ui/Jahresleiste.svelte";
+  import Datenstatus from "./lib/ui/Datenstatus.svelte";
   import Kopfzeile from "./lib/ui/Kopfzeile.svelte";
   import Navigation from "./lib/ui/Navigation.svelte";
   import Panel from "./lib/ui/Panel.svelte";
@@ -43,8 +43,8 @@
   <Navigation {app} />
   <div class="rechts">
     <Kopfzeile {app} />
+    <Datenstatus {app} />
     {#if haushalt}
-      <Jahresleiste {app} />
       <Presets {app} />
     {/if}
     <main class:breit={!haushalt}>

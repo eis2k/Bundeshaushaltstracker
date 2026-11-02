@@ -50,16 +50,16 @@
 </div>
 
 <style>
-  .years { display: flex; align-items: center; gap: 10px; padding: 8px 16px; background: #1f2937; color: #fff; font-size: 12px; flex-wrap: wrap; }
-  .play { background: var(--accent); color: var(--header); border: 0; border-radius: 6px; padding: 4px 9px; font-weight: 700; cursor: pointer; font-size: 12px; white-space: nowrap; }
+  .years { display: flex; align-items: center; gap: 10px; font-size: 12px; flex-wrap: wrap; flex: 1; min-width: 0; color: var(--fg); }
+  .play { background: var(--nav-on); color: var(--nav-on-fg); border: 0; border-radius: 8px; padding: 4px 9px; font-weight: 700; cursor: pointer; font-size: 12px; white-space: nowrap; }
   .track { display: flex; flex: 1; min-width: 240px; }
-  .track button { flex: 1; background: none; border: 0; color: inherit; opacity: .55; padding: 5px 0; cursor: pointer; font-size: 12px; border-bottom: 2px solid transparent; }
-  .track button.on { opacity: 1; font-weight: 800; color: var(--accent); border-bottom-color: var(--accent); }
+  .track button { flex: 1; background: none; border: 0; color: var(--muted); padding: 5px 0; cursor: pointer; font-size: 12px; border-bottom: 2px solid transparent; }
+  .track button.on { font-weight: 800; color: var(--nav-on); border-bottom-color: var(--nav-on); }
   .mode { display: flex; gap: 4px; align-items: center; }
-  .mode button { background: rgba(255,255,255,.12); border: 0; color: inherit; opacity: .75; padding: 4px 8px; border-radius: 5px; cursor: pointer; font-size: 12px; }
-  .mode button.on { background: #fff; color: var(--header); opacity: 1; font-weight: 700; }
+  .mode button { background: var(--nav-bg); border: 0; color: var(--header); padding: 4px 8px; border-radius: 6px; cursor: pointer; font-size: 12px; }
+  .mode button.on { background: var(--nav-on); color: var(--nav-on-fg); font-weight: 700; }
   .mode button:disabled { opacity: .3; cursor: not-allowed; }
-  .sv { display: flex; gap: 4px; align-items: center; margin-left: 8px; opacity: .85; cursor: pointer; }
+  .sv { display: flex; gap: 4px; align-items: center; margin-left: 8px; color: var(--fg); cursor: pointer; }
   .sv.off { opacity: .4; cursor: not-allowed; }
   .sv small { font-size: 10px; }
   @media (max-width: 720px) {

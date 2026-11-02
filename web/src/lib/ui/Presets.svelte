@@ -34,10 +34,10 @@
 </div>
 
 <style>
-  .presets { display: flex; gap: 8px; padding: 10px 16px; background: var(--bg); border-bottom: 1px solid var(--border); flex-wrap: wrap; align-items: center; }
+  .presets { display: flex; gap: 8px; padding: 8px 20px 0; flex-wrap: wrap; align-items: center; }
   .label { font-size: 10px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin-right: 2px; }
-  .chip { font-size: 12px; padding: 6px 10px; border-radius: 999px; border: 1px solid #d1d1d6; background: var(--panel); cursor: pointer; white-space: nowrap; color: var(--fg); }
-  .chip.on { background: var(--header); color: #fff; border-color: var(--header); }
+  .chip { font-size: 12px; padding: 6px 10px; border-radius: 999px; border: 1px solid var(--border); background: var(--panel); cursor: pointer; white-space: nowrap; color: var(--header); }
+  .chip.on { background: var(--nav-on); color: var(--nav-on-fg); border-color: var(--nav-on); }
   .chip.steuer { border-style: dashed; }
   .chip small { font-size: 9px; opacity: .7; margin-left: 2px; }
   .label.sep { margin-left: 10px; }
