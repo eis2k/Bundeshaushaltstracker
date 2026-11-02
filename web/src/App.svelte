@@ -20,6 +20,7 @@
   import Akte from "./lib/views/Akte.svelte";
   import Netz from "./lib/views/Netz.svelte";
   import Ministerien from "./lib/views/Ministerien.svelte";
+  import Dashboard from "./lib/views/Dashboard.svelte";
   import Schnittwechsel from "./lib/ui/Schnittwechsel.svelte";
 
   const app = new AppState({ loadIndex, loadYear, loadPresets, loadGesetzFrei, loadZeitreihe, loadVpi, loadSozialkassen, loadTexte, loadKonkordanz, loadSteuern, loadEmpfaengerIndex, loadEmpfaenger, loadPersonIndex, loadPersonShard, loadNetzIndex, loadNetzShard });
@@ -62,7 +63,7 @@
           {:else if !app.viewData}
             <div class="loading">Lade Haushalt …</div>
           {:else if app.view === "dashboard"}
-            <div class="soon">Dashboard: Diese Ansicht entsteht gerade. Bis dahin: Geldflüsse & Profiteure.</div>
+            <Dashboard {app} />
           {:else if app.view === "fluss"}
             <Fluss data={app.viewData} scenario={app.scenario} factors={app.factors} focus={app.focus} selected={app.selected}
                    topf={app.topf} sozialkassen={app.viewSozialkassen} modelle={app.aktiveSteuern.je}

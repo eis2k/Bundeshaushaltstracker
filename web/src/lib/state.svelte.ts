@@ -71,6 +71,8 @@ export class AppState {
   texte = $state<Record<string, { text: string; quelle: string[]; stand: string }>>({});
   konkordanz = $state<Record<string, { ab: number; hinweis: string; quelle?: string }>>({});
   index = $state<Index | null>(null);
+  /** Vorjahr des gewählten Jahres (für die Veränderung auf dem Dashboard), nachgeladen. */
+  vorjahrData = $state<YearData | null>(null);
   data = $state<YearData | null>(null);
   presets = $state<Preset[]>([]);
   gesetz = $state<GesetzFreiMap>({});
@@ -316,6 +318,12 @@ export class AppState {
     else if (z.art === "akte") await this.openAkte(z.id);
     else if (z.art === "netz") await this.openNetz(z.knoten);
     else this.setView("ministerien");
+  }
+
+  async ensureVorjahr(): Promise<void> {
+    const vj = this.jahr - 1;
+    if (this.vorjahrData?.jahr === vj || !(this.index?.jahre ?? []).includes(vj)) { if (this.vorjahrData?.jahr !== vj) this.vorjahrData = null; return; }
+    try { this.vorjahrData = await this.loader.loadYear(vj); } catch { this.vorjahrData = null; }
   }
 
   async ensurePersonen(): Promise<void> {

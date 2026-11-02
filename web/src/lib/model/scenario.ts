@@ -2,7 +2,7 @@ import { empfaengerArt, kostenart } from "./schnitte";
 import { includeRow, revenueGroupId, revenueKind } from "./tree";
 import type { Balance, BudgetRow, NodeId, Scenario, YearData } from "./types";
 
-type Factors = Record<NodeId, number>;
+export type Factors = Record<NodeId, number>;
 
 /** Faktor für eine Ausgaben-Knoten-ID: Titel schlägt Kapitel schlägt Einzelplan, sonst 1. */
 export function effectiveFactor(id: NodeId, factors: Factors): number {

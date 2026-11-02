@@ -70,7 +70,7 @@ export function decodeScenario(hash: string, data: YearData, steuerIds?: string[
     if (i > 0) kv.set(p.slice(0, i), p.slice(i + 1));
   }
   const jahr = Number.parseInt(kv.get("j") ?? "", 10);
-  const view = (VIEWS as string[]).includes(kv.get("a") ?? "") ? (kv.get("a") as ViewId) : "fluss";
+  const view = !kv.has("a") ? "dashboard" : (VIEWS as string[]).includes(kv.get("a") ?? "") ? (kv.get("a") as ViewId) : "fluss";
   const schnitt = (SCHNITTE as string[]).includes(kv.get("sc") ?? "") ? (kv.get("sc") as Schnitt) : "ressort";
   const topf = (TOEPFE as readonly string[]).includes(kv.get("t") ?? "") ? (kv.get("t") as TopfId) : "gesamt";
   const eRaw = kv.get("e") ?? "";
