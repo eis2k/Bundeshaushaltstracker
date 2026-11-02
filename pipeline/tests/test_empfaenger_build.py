@@ -230,3 +230,50 @@ def test_build_entfernt_veraltete_seiten(tmp_path):
     build_empfaenger(manual, raw, out, YEARS, IST_YEARS, stand="2026-11-01")
     assert not alt.exists()
     assert (out / "empfaenger" / "index.json").exists() and (out / "empfaenger" / "goethe-institut.json").exists()
+
+
+def _personen_manual(manual: Path) -> None:
+    (manual / "personen.yaml").write_text("zusammenfuehren: []\ntrennen: []\nfreigabe: []\n", encoding="utf-8")
+    (manual / "regierung.yaml").write_text("stand: '2026-11-02'\nmitglieder: []\n", encoding="utf-8")
+
+
+def test_akten_und_netz_nach_empfaenger_build(tmp_path):
+    from bhtracker.personen import build_akten_und_netz
+    raw, manual, out = make_raw(tmp_path), make_manual(tmp_path), tmp_path / "build"
+    _personen_manual(manual)
+    build_empfaenger(manual, raw, out, YEARS, IST_YEARS, stand="2026-11-01")
+    ergebnis = build_akten_und_netz(manual, raw, out, "2026-11-02", modus="relevant")
+    assert (out / "personen" / "index.json").exists() and (out / "netz" / "index.json").exists()
+    idx = json.loads((out / "personen" / "index.json").read_text(encoding="utf-8"))
+    sichtbar = {e["id"] for e in idx["eintraege"] if e["sichtbar"]}
+    assert "sanae-abdi" in sichtbar and "timo-reinfrank" not in sichtbar
+    # Empfänger-Seite kennt die Akten ihrer Personen
+    seite = lade(out, "amadeu-antonio-stiftung.json")
+    p = next(x for x in seite["personen"] if x["name"] == "Timo Reinfrank")
+    assert p["akte_id"] == "timo-reinfrank" and p["akte_sichtbar"] is False
+    assert ergebnis["akten"] >= 3 and ergebnis["sichtbar"] >= 1
+    netz_idx = json.loads((out / "netz" / "index.json").read_text(encoding="utf-8"))
+    assert "e:amadeu-antonio-stiftung" in netz_idx and "p:timo-reinfrank" in netz_idx
+
+
+def test_akten_modus_alle_zeigt_mehr(tmp_path):
+    from bhtracker.personen import build_akten_und_netz
+    raw, manual, out = make_raw(tmp_path), make_manual(tmp_path), tmp_path / "build"
+    _personen_manual(manual)
+    build_empfaenger(manual, raw, out, YEARS, IST_YEARS, stand="2026-11-01")
+    relevant = build_akten_und_netz(manual, raw, out, "2026-11-02", modus="relevant")["sichtbar"]
+    alle = build_akten_und_netz(manual, raw, out, "2026-11-02", modus="alle")["sichtbar"]
+    assert alle > relevant
+    seite = lade(out, "amadeu-antonio-stiftung.json")
+    assert next(x for x in seite["personen"] if x["name"] == "Timo Reinfrank")["akte_sichtbar"] is True
+
+
+def test_ohne_personen_baut_weder_akten_noch_netz(tmp_path):
+    from bhtracker.personen import build_akten_und_netz
+    raw, manual, out = make_raw(tmp_path), make_manual(tmp_path), tmp_path / "build"
+    _personen_manual(manual)
+    build_empfaenger(manual, raw, out, YEARS, IST_YEARS, mit_personen=False, stand="2026-11-01")
+    ergebnis = build_akten_und_netz(manual, raw, out, "2026-11-02", mit_personen=False)
+    assert ergebnis["akten"] == 0 and not (out / "personen").exists()
+    netz_idx = json.loads((out / "netz" / "index.json").read_text(encoding="utf-8"))
+    assert not any(k.startswith("p:") for k in netz_idx)

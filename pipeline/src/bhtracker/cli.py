@@ -30,6 +30,9 @@ from .empfaenger import baue_stamm, build_empfaenger
 from . import bundestag as bt_mod
 from . import foerderkatalog as fk_mod
 from . import lobbyregister as lr_mod
+from . import regierung as rg_mod
+from . import spenden as sp_mod
+from .personen import build_akten_und_netz
 from .texts import build_texts
 from .texts import build_texts
 from .sv import load_manual, mark_sv, mark_transfers
@@ -213,8 +216,36 @@ def cmd_build(args: argparse.Namespace) -> int:
         idx = build_empfaenger(manual_dir, raw, out, years, ist_years, mit_personen=not ohne, stand=date.today().isoformat())
         n = len(json.loads(idx.read_text(encoding="utf-8"))["eintraege"])
         print(f"empfaenger: {n} Seiten" + (" (ohne Personen)" if ohne else ""))
+        modus = getattr(args, "akten", "relevant") or "relevant"
+        erg = build_akten_und_netz(manual_dir, raw, out, date.today().isoformat(), modus=modus, mit_personen=not ohne)
+        print(f"personen: {erg['akten']} Akten, {erg['sichtbar']} sichtbar (Modus {modus}); netz: {erg['knoten']} Knoten, {erg['kanten']} Kanten")
     else:
         print("empfaenger: keine Rohdaten, übersprungen")
+    return 0
+
+
+def cmd_fetch_personen(args: argparse.Namespace) -> int:
+    """Lädt Parteispenden-Seiten, die Kabinettsliste und die Biografien ausgeschiedener Abgeordneter nach data/raw/."""
+    raw = Path(args.raw)
+    quellen = {q.strip() for q in args.quellen.split(",") if q.strip()}
+    heute = date.today().year
+    if "spenden" in quellen:
+        w = sp_mod.fetch_spenden(raw, list(range(2015, heute + 1)), pause=args.pause)
+        print(f"spenden: {len(w)} Jahresseiten geladen")
+    if "kabinett" in quellen:
+        rg_mod.fetch_kabinett(raw)
+        print("kabinett: geladen")
+    if "ausgeschiedene" in quellen:
+        seite = bt_mod._urlopen_bytes("https://www.bundestag.de/abgeordnete/biografien/ausgeschiedene").decode("utf-8", errors="replace")
+        urls = bt_mod.bio_urls_aus_seite(seite)
+        w = bt_mod.fetch_bios(raw, urls, pause=args.pause)
+        print(f"ausgeschiedene: {len(urls)} Biografien, {len(w)} neu geladen")
+    log = raw / "fetch_log.json"
+    alt = json.loads(log.read_text(encoding="utf-8")) if log.exists() else []
+    if not isinstance(alt, list):
+        alt = [alt]
+    alt.append({"zeit": datetime.now(timezone.utc).isoformat(timespec="seconds"), "kommando": "fetch-personen", "quellen": sorted(quellen)})
+    log.write_text(json.dumps(alt, ensure_ascii=False, indent=1), encoding="utf-8", newline="\n")
     return 0
 
 
@@ -282,6 +313,7 @@ def main(argv: list[str] | None = None) -> int:
     b.add_argument("--from", dest="von", type=int, default=2015)
     b.add_argument("--to", dest="bis", type=int, default=2026)
     b.add_argument("--ohne-personen", dest="ohne_personen", action="store_true", help="Empfänger-Seiten ohne Personen und Verbindungen bauen")
+    b.add_argument("--akten", choices=["relevant", "alle"], default="relevant", help="Sichtbarkeit der Personen-Akten: relevant (öffentliche Seite) oder alle")
     common(b)
     b.set_defaults(func=cmd_build)
 
@@ -292,6 +324,12 @@ def main(argv: list[str] | None = None) -> int:
     fe.add_argument("--gesamtexport", default=None, help="bereits geladene Gesamtexport-Datei statt Download")
     common(fe)
     fe.set_defaults(func=cmd_fetch_empfaenger)
+
+    fp = sub.add_parser("fetch-personen", help="Parteispenden, Kabinett und ausgeschiedene Abgeordnete laden")
+    fp.add_argument("--quellen", default="spenden,kabinett,ausgeschiedene")
+    fp.add_argument("--pause", type=float, default=1.5)
+    common(fp)
+    fp.set_defaults(func=cmd_fetch_personen)
 
     c = sub.add_parser("check", help="nur Summenprüfung eines Jahres")
     c.add_argument("jahr", type=int)

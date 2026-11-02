@@ -17,7 +17,7 @@ from .bundestag import KATEGORIE_VORHER, Abgeordneter, lade_abgeordnete
 from .empfaenger import norm_name, slug
 from .lobbyregister import Profil, lade_profile
 from .regierung import Amtstraeger, lade_regierung
-from .spenden import Spende, zuordnen
+from .spenden import Spende, lade_spenden, zuordnen
 
 _TITEL = re.compile(r"^(?:Prof\.|Dr\.|Dipl\.-?\w*\.?|Ing\.|h\. ?c\.|mult\.|med\.|rer\.|nat\.|jur\.|phil\.|PD|Frhr\.|Freifrau|Freiherr)\s+", re.I)
 
@@ -403,3 +403,79 @@ def build_personen(manual_dir: Path, raw_dir: Path, out: Path, empfaenger_seiten
         f.write("# Automatisch erzeugt von `bht build`. Spenden von Organisationen ohne exakten Treffer im Empfänger-Stamm (keine natürlichen Personen).\n")
         yaml.safe_dump({"stand": stand, "kandidaten": spenden_kandidaten}, f, allow_unicode=True, sort_keys=False)
     return index_path
+
+
+# ---------------------------------------------------------------- Orchestrierung (Task 5)
+
+def lade_seiten(out: Path) -> dict[str, dict]:
+    """Alle Empfänger-Seiten des Builds (ohne Index)."""
+    d = out / "empfaenger"
+    seiten: dict[str, dict] = {}
+    if not d.exists():
+        return seiten
+    for p in d.glob("*.json"):
+        if p.name == "index.json":
+            continue
+        s = json.loads(p.read_text(encoding="utf-8"))
+        seiten[s["id"]] = s
+    return seiten
+
+
+def ergaenze_akten(out: Path, seiten: dict[str, dict], akten: list[Akte]) -> int:
+    """Schreibt akte_id und akte_sichtbar an die Personen der Empfänger-Seiten (Name und Organisation müssen passen)."""
+    nach_name: dict[str, list[Akte]] = defaultdict(list)
+    for a in akten:
+        nach_name[name_key(a.name)].append(a)
+    n = 0
+    for sid, s in seiten.items():
+        geaendert = False
+        for p in s.get("personen") or []:
+            treffer = [a for a in nach_name.get(name_key(p.get("name", "")), []) if any(o["id"] == sid for o in a.organisationen)]
+            if len(treffer) == 1:
+                p["akte_id"], p["akte_sichtbar"] = treffer[0].id, treffer[0].sichtbar
+            else:
+                p["akte_id"], p["akte_sichtbar"] = None, False
+            geaendert = True
+            n += 1
+        if geaendert:
+            (out / "empfaenger" / f"{sid}.json").write_text(json.dumps(s, ensure_ascii=False, indent=0), encoding="utf-8", newline="\n")
+    return n
+
+
+def build_akten_und_netz(manual_dir: Path, raw_dir: Path, out: Path, stand: str, *, modus: str = "relevant", mit_personen: bool = True) -> dict:
+    """Akten (sofern Personen gebaut werden) und Netz aus den fertigen Empfänger-Seiten; gibt Kennzahlen zurück."""
+    from .netz import baue_graph, build_netz  # lokaler Import, netz importiert personen
+
+    seiten = lade_seiten(out)
+    spenden = lade_spenden(raw_dir)
+    ressorts = _lade_yaml(manual_dir / "ressorts.yaml")
+    akten: list[Akte] = []
+    sichtbar = 0
+    if mit_personen:
+        manual = _lade_yaml(manual_dir / "personen.yaml")
+        profile = lade_profile(raw_dir)
+        profile_by_nr = {p.nummer: p for p in profile}
+        abgeordnete = lade_abgeordnete(raw_dir)
+        regierung = lade_regierung(manual_dir / "regierung.yaml", raw_dir, ressorts) if (manual_dir / "regierung.yaml").exists() or (raw_dir / "regierung").exists() else []
+        # build_personen rechnet alles noch einmal; hier nur für die Akten-Liste des Netzes und der Empfänger-Seiten
+        build_personen(manual_dir, raw_dir, out, seiten, spenden, stand, modus=modus, mit_personen=True)
+        idx = json.loads((out / "personen" / "index.json").read_text(encoding="utf-8"))
+        sichtbar_ids = {e["id"] for e in idx["eintraege"] if e["sichtbar"]}
+        roh = roh_identitaeten(profile, abgeordnete, regierung)
+        akten, _ = zusammenfuehren(roh, profile_by_nr, manual)
+        seite_by_norm = {norm_name(s["name"]): s for s in seiten.values()}
+        for a in akten:
+            a.sichtbar = a.id in sichtbar_ids
+            orgs = []
+            for f in a.funktionen:
+                if f.art in ("gesetzlicher_vertreter", "interessenvertreter"):
+                    seite = seite_by_norm.get(norm_name(f.organisation))
+                    if seite and not any(o["id"] == seite["id"] for o in orgs):
+                        orgs.append({"id": seite["id"], "name": seite["name"], "funktion": f.text, "rolle": f.art, "stand": f.stand})
+            a.organisationen = orgs
+        sichtbar = len(sichtbar_ids)
+        ergaenze_akten(out, seiten, akten)
+    zu_spenden, _ = zuordnen(spenden, {norm_name(s["name"]): s["id"] for s in seiten.values()})
+    knoten, kanten = baue_graph(seiten, akten, zu_spenden, ressorts)
+    build_netz(out, knoten, kanten, mit_personen=mit_personen)
+    return {"akten": len(akten), "sichtbar": sichtbar, "knoten": len(knoten), "kanten": len(kanten)}
