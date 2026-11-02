@@ -144,6 +144,8 @@ def build_netz(out: Path, knoten: dict[str, Knoten], kanten: list[Kante], *, mit
     for alt in out_dir.glob("*.json"):
         alt.unlink()
     verbunden = {k.von for k in kanten} | {k.nach for k in kanten}
+    # nur Knoten, von denen aus das Netz geöffnet werden kann (Seite vorhanden oder Randknoten); unsichtbare Personen bleiben Nachbarn ohne eigenes Umfeld
+    verbunden = {k for k in verbunden if k in knoten and (knoten[k].seite or knoten[k].art in RANDKNOTEN)}
     shards: dict[str, dict[str, dict]] = defaultdict(dict)
     index: dict[str, str] = {}
     for kid in sorted(verbunden):

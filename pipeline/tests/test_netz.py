@@ -100,3 +100,15 @@ def test_build_netz_shards(tmp_path):
     assert not any(k.startswith("p:") for k in idx2) and "e:aas" in idx2
     sh2 = json.loads((tmp_path / "build2" / "netz" / f"{idx2['e:aas']}.json").read_text(encoding="utf-8"))
     assert not any(k["id"].startswith("p:") for k in sh2["e:aas"]["knoten"])
+
+
+def test_build_netz_nur_fuer_knoten_mit_seite(tmp_path):
+    # Umfelder werden nur für Knoten vorberechnet, von denen aus man das Netz öffnen kann: Seiten, Ministerien, Parteien (130 MB → handhabbar)
+    seiten, akten, spenden = mini()
+    akten[0].sichtbar = False
+    knoten, kanten = baue_graph(seiten, akten, spenden, RESSORTS)
+    idx = json.loads(build_netz(tmp_path / "build", knoten, kanten).read_text(encoding="utf-8"))
+    assert "p:timo-reinfrank" not in idx and "p:friedrich-merz" in idx and "e:aas" in idx and "m:17" in idx and "partei:csu" in idx
+    # der unsichtbare Knoten bleibt aber als Nachbar im Umfeld der Organisation
+    sh = json.loads((tmp_path / "build" / "netz" / f"{idx['e:aas']}.json").read_text(encoding="utf-8"))
+    assert any(k["id"] == "p:timo-reinfrank" for k in sh["e:aas"]["knoten"])
