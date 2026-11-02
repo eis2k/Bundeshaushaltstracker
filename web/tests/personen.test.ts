@@ -1,6 +1,6 @@
 import { describe, expect, test } from "vitest";
 import { FUNKTION_LABELS, bezuegeNachPosten, filterePersonen, issueUrlAkte, zeigeBei, zeitlinieJahre, type Akte, type Bezuege, type BezugZeile, type PersonIndex, type PersonIndexEintrag } from "../src/lib/model/personen";
-import { kantenStil, legende, netzPfad, type Umfeld } from "../src/lib/model/netz";
+import { kantenStil, kanteBeschreibung, legende, netzPfad, type NetzKnoten, type Umfeld } from "../src/lib/model/netz";
 
 function e(id: string, name: string, extra: Partial<PersonIndexEintrag> = {}): PersonIndexEintrag {
   return { id, name, funktion_kurz: "Vorstand", amt: false, sichtbar: true, n_organisationen: 1, shard: "ab", arten: ["gesetzlicher_vertreter"], ...extra };
@@ -91,5 +91,21 @@ describe("Etiketten und „bei“", () => {
     expect(zeigeBei({ art: "regierung", text: "Bundesminister der Finanzen, Bundesministerium der Finanzen", organisation: "Bundesministerium der Finanzen" })).toBe(false);
     expect(zeigeBei({ art: "mdb", text: "Mitglied des Bundestages, SPD", organisation: "Deutscher Bundestag" })).toBe(false);
     expect(zeigeBei({ art: "gesetzlicher_vertreter", text: "Vorstand", organisation: "Amadeu Antonio Stiftung" })).toBe(true);
+  });
+});
+
+describe("kanteBeschreibung", () => {
+  test("liefert Art, Betrag, Quelle und beide Knoten", () => {
+    const knoten: Record<string, NetzKnoten> = {
+      "e:vbm": { id: "e:vbm", art: "organisation", label: "VBM e.V.", sichtbar: true, seite: "v1;a=empfaenger;e=vbm" },
+      "partei:csu": { id: "partei:csu", art: "partei", label: "CSU", sichtbar: true, seite: null },
+    };
+    const b = kanteBeschreibung({ von: "e:vbm", nach: "partei:csu", art: "spende", text: "VBM e.V. spendete 136.000 € an CSU", wert: 136000, quelle: { kurz: "bundestag.de", url: "https://d", etikett: "amtlich" }, stand: "2025-12-23" }, knoten);
+    expect(b.art).toBe("Spende");
+    expect(b.betrag).toBe(136000);
+    expect(b.von?.label).toBe("VBM e.V.");
+    expect(b.nach?.label).toBe("CSU");
+    expect(b.quelle.kurz).toBe("bundestag.de");
+    expect(b.stand).toBe("2025-12-23");
   });
 });

@@ -138,6 +138,7 @@ export class AppState {
 
   async init(hash: string): Promise<void> {
     this.loading = true;
+    this.springt = true;   // beim Laden eines Links entsteht keine Spur
     try {
       const [index, presets, gesetz, steuern] = await Promise.all([
         this.loader.loadIndex(), this.loader.loadPresets(), this.loader.loadGesetzFrei(),
@@ -186,6 +187,7 @@ export class AppState {
       this.error = e instanceof Error ? e.message : String(e);
     } finally {
       this.spur = [];
+      this.springt = false;
       this.loading = false;
     }
   }

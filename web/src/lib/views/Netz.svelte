@@ -2,7 +2,8 @@
   import { forceCenter, forceCollide, forceLink, forceManyBody, forceSimulation, type SimulationLinkDatum, type SimulationNodeDatum } from "d3-force";
   import { select } from "d3-selection";
   import { zoom, zoomIdentity, type ZoomTransform } from "d3-zoom";
-  import { KNOTEN_LABELS, kantenStil, legende, type NetzKante, type NetzKnoten, type Umfeld } from "../model/netz";
+  import { fmtEuro } from "../model/format";
+  import { KNOTEN_LABELS, kanteBeschreibung, kantenStil, legende, type NetzKante, type NetzKnoten, type Umfeld } from "../model/netz";
   import type { AppState } from "../state.svelte";
 
   let { app, umfeld }: { app: AppState; umfeld: Umfeld } = $props();
@@ -17,6 +18,11 @@
   let transform = $state<ZoomTransform>(zoomIdentity);
   let svgEl: SVGSVGElement | undefined = $state();
   let hover = $state<{ x: number; y: number; text: string } | null>(null);
+  /** Belegpanel: gewählte Kante (Klick oder Enter). */
+  let gewaehlt = $state<NetzKante | null>(null);
+  const knotenById = $derived(Object.fromEntries(umfeld.knoten.map((k) => [k.id, k])) as Record<string, NetzKnoten>);
+  const beleg = $derived(gewaehlt ? kanteBeschreibung(gewaehlt, knotenById) : null);
+  $effect(() => { umfeld.start; gewaehlt = null; });
 
   $effect(() => {
     const byId = new Map<string, N>();
@@ -74,9 +80,13 @@
         {@const s = l.source as N}
         {@const t = l.target as N}
         {@const st = kantenStil(l.kante.art)}
-        <line x1={s.x} y1={s.y} x2={t.x} y2={t.y} stroke="var(--header)" stroke-opacity="0.45" stroke-width={st.width} stroke-dasharray={st.dasharray || undefined}
+        {@const aktiv = gewaehlt === l.kante}
+        <line x1={s.x} y1={s.y} x2={t.x} y2={t.y} stroke={aktiv ? "var(--accent)" : "var(--header)"} stroke-opacity={aktiv ? 1 : 0.45} stroke-width={aktiv ? st.width + 1.5 : st.width} stroke-dasharray={st.dasharray || undefined} role="presentation" />
+        <!-- breite, unsichtbare Trefferfläche: klickbar und per Tastatur erreichbar -->
+        <line class="treffer" x1={s.x} y1={s.y} x2={t.x} y2={t.y} stroke="transparent" stroke-width="12" role="button" tabindex="0" aria-label={l.kante.text}
+              onclick={() => (gewaehlt = aktiv ? null : l.kante)} onkeydown={(e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); gewaehlt = aktiv ? null : l.kante; } }}
               onmouseenter={(e) => (hover = { x: e.clientX, y: e.clientY, text: `${l.kante.text} · ${l.kante.quelle.kurz}${l.kante.quelle.etikett ? " · " + l.kante.quelle.etikett : ""}${l.kante.stand ? " · Stand " + l.kante.stand : ""}` })}
-              onmouseleave={() => (hover = null)} role="presentation" />
+              onmouseleave={() => (hover = null)} />
       {/each}
       {#each nodes as n (n.id)}
         <g class="knoten" class:start={n.id === umfeld.start} class:klickbar={!!n.seite} {...(n.seite ? { role: "button", tabindex: 0 } : {})}
@@ -89,18 +99,44 @@
     </g>
   </svg>
   {#if hover}<div class="tip" style="left:{hover.x + 12}px;top:{hover.y + 12}px">{hover.text}</div>{/if}
+  {#if beleg}
+    <aside class="beleg" aria-label="Beleg der gewählten Kante">
+      <div class="beleg-kopf"><span class="tag">{beleg.art}</span><button class="schliessen" onclick={() => (gewaehlt = null)} aria-label="Belegpanel schließen">×</button></div>
+      <p class="satz">{beleg.titel}</p>
+      {#if beleg.betrag != null}<p><b class="tabular">{fmtEuro(beleg.betrag)}</b> <span class="muted">{beleg.art === "Geld" ? "Untergrenze bzw. Soll laut Quelle" : ""}</span></p>{/if}
+      <p class="muted">Quelle: {#if beleg.quelle.url}<a href={beleg.quelle.url} target="_blank" rel="noopener">{beleg.quelle.kurz}</a>{:else}{beleg.quelle.kurz}{/if}{#if beleg.quelle.etikett} · {beleg.quelle.etikett}{/if}{#if beleg.stand} · Stand {beleg.stand}{/if}</p>
+      <p class="knoten-links">
+        {#if beleg.von}<button class="link" disabled={!beleg.von.seite} onclick={() => beleg?.von && klick(beleg.von as N)}>{KNOTEN_LABELS[beleg.von.art] ?? beleg.von.art}: {beleg.von.label}</button>{/if}
+        {#if beleg.nach}<button class="link" disabled={!beleg.nach.seite} onclick={() => beleg?.nach && klick(beleg.nach as N)}>{KNOTEN_LABELS[beleg.nach.art] ?? beleg.nach.art}: {beleg.nach.label}</button>{/if}
+      </p>
+      <p class="muted small">Belegte Beziehung, keine Wertung. Zuständigkeit für einen Einzelplan ist keine Entscheidung über eine einzelne Zahlung.</p>
+    </aside>
+  {/if}
   <div class="legende">
     {#each legende() as l}
       {@const st = kantenStil(l.art)}
       <span><svg width="34" height="8"><line x1="2" y1="4" x2="32" y2="4" stroke="var(--header)" stroke-width={st.width} stroke-dasharray={st.dasharray || undefined} /></svg> {l.label}</span>
     {/each}
     <span>Kreis Person · Quadrat Organisation · Raute Ministerium · Sechseck Partei · hell: Person ohne freigeschaltete Akte</span>
-    <span>Klick öffnet Akte oder Seite, Doppelklick macht den Knoten zur Mitte, Mausrad zoomt. Jede Kante trägt Quelle und Stand (Mauszeiger). Keine Wertung: Das Netz zeigt belegte Beziehungen, nicht mehr.</span>
+    <span>Klick auf einen Knoten öffnet Akte oder Seite, Doppelklick macht ihn zur Mitte, Mausrad zoomt. Klick auf eine Kante zeigt den Beleg mit Quelle und Stand. Keine Wertung: Das Netz zeigt belegte Beziehungen, nicht mehr.</span>
   </div>
 </div>
 
 <style>
   .netz { font-size: 12px; position: relative; }
+  .treffer { cursor: pointer; outline: none; }
+  .treffer:focus-visible { stroke: var(--chip-blau); stroke-opacity: .9; }
+  .beleg { position: absolute; right: 12px; top: 48px; width: 300px; max-width: calc(100% - 24px); background: var(--panel); border: 1px solid var(--border); border-radius: var(--radius-s); padding: 12px 14px; box-shadow: 0 6px 20px rgba(23, 60, 102, .10); }
+  .beleg-kopf { display: flex; justify-content: space-between; align-items: center; }
+  .beleg .tag { background: var(--chip-blau); color: var(--header); border-radius: 999px; padding: 2px 8px; font-weight: 600; font-size: 11px; }
+  .schliessen { background: none; border: 0; font-size: 18px; line-height: 1; cursor: pointer; color: var(--muted); }
+  .beleg .satz { margin: 8px 0 4px; color: var(--fg); }
+  .beleg p { margin: 4px 0; }
+  .knoten-links { display: flex; flex-direction: column; gap: 2px; }
+  .link { background: none; border: 0; color: var(--accent); text-decoration: underline; cursor: pointer; font: inherit; padding: 0; text-align: left; }
+  .link:disabled { color: var(--muted); text-decoration: none; cursor: default; }
+  .small { font-size: 11px; }
+  @media (max-width: 900px) { .beleg { position: static; width: auto; margin-top: 8px; } }
   .kopf { display: flex; gap: 12px; align-items: baseline; flex-wrap: wrap; margin-bottom: 6px; }
   .back { background: none; border: 0; color: var(--header); cursor: pointer; font: inherit; font-size: 12px; padding: 0; }
   h2 { margin: 0; font-size: 15px; }

@@ -31,6 +31,12 @@ export function legende(): { art: KantenArt; label: string }[] {
 }
 
 export const KNOTEN_LABELS: Record<string, string> = { person: "Person", organisation: "Organisation", ministerium: "Ministerium", partei: "Partei" };
+export const KANTEN_LABELS: Record<string, string> = { geld: "Geld", posten: "Posten", spende: "Spende" };
+
+/** Beleg einer Kante für das Belegpanel (Spec §4.10): Art, Text, Betrag, Quelle, Stand und beide Knoten. */
+export function kanteBeschreibung(k: NetzKante, knoten: Record<string, NetzKnoten>): { art: string; titel: string; betrag: number | null; quelle: Quelle; stand: string; von: NetzKnoten | null; nach: NetzKnoten | null } {
+  return { art: KANTEN_LABELS[k.art] ?? k.art, titel: k.text, betrag: k.wert, quelle: k.quelle, stand: k.stand, von: knoten[k.von] ?? null, nach: knoten[k.nach] ?? null };
+}
 
 /** Knoten-Id für den Start eines Umfelds. */
 export const knotenId = {
