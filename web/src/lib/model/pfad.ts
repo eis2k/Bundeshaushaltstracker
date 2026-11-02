@@ -49,7 +49,7 @@ export function aktuellesGlied(e: GliedEingabe): Glied {
     if (e.empfaengerId) return { label: `Empfänger: ${e.empfaengerName ?? e.empfaengerId}`, ziel: { art: "empfaenger", id: e.empfaengerId } };
     return { label: e.empfaengerFilterEpl ? `Empfänger (Einzelplan ${e.empfaengerFilterEpl})` : "Empfänger", ziel: { art: "empfaengerliste", epl: e.empfaengerFilterEpl } };
   }
-  if (e.view === "personen") {
+  if (e.view === "personen" || e.view === "politik") {
     if (e.akteId) return { label: `Akte: ${e.akteName ?? e.akteId}`, ziel: { art: "akte", id: e.akteId } };
     return { label: "Personen", ziel: { art: "personenliste" } };
   }

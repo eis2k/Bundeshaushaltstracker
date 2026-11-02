@@ -98,8 +98,6 @@ export class AppState {
   netzStart = $state<string | null>(null);
   netz = $state<Umfeld | null>(null);
   netzFehlt = $state<string | null>(null);
-  /** Simulator-Eintrag der Navigation: Geldfluss mit Seitenpanel; flüchtig, nicht im Link (Spec §4.10). */
-  gestalten = $state(false);
   /** Netzansicht ohne gewählten Knoten (Link `a=netz` ohne `n=`). */
   netzLeer = $derived(this.view === "netz" && !this.netzStart);
   /** Recherchepfad (Spec §4.10): die tatsächliche Spur der Klicks im Inhalt; Seitenleiste und init leeren sie. */
@@ -264,13 +262,11 @@ export class AppState {
     if (eintrag.view === "empfaenger") this.openEmpfaengerListe();
     else if (eintrag.view === "personen") this.openPersonenListe();
     else this.setView(eintrag.view);
-    this.gestalten = !!eintrag.gestalten;
     this.spur = [];
   }
 
   setView(view: ViewId): void {
     this.view = view;
-    if (view !== "fluss") this.gestalten = false;
     if (view === "empfaenger") void this.ensureEmpfaenger();
     if (view === "personen") void this.ensurePersonen();
   }

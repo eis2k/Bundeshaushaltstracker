@@ -26,7 +26,7 @@ export interface Datenstatus {
   jahresleiste: boolean;
 }
 
-const HAUSHALT: ViewId[] = ["fluss", "karte", "saeulen", "gewachsen", "ministerien"];
+const HAUSHALT: ViewId[] = ["dashboard", "fluss", "karte", "saeulen", "gewachsen", "ministerien", "simulator"];
 
 export function datenstatus(e: DatenstatusEingabe): Datenstatus {
   const preise = e.real ? `in Preisen von ${e.bezugsjahr}` : "nominal";

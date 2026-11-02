@@ -97,16 +97,20 @@ describe("AppState", () => {
 });
 
 describe("GUI v2 Navigation", () => {
-  test("waehle öffnet Ansicht und setzt Simulator-Kennzeichen; alter Link bleibt gleich", async () => {
+  test("waehle öffnet Ansichten; Simulator, Dashboard und Politik sind eigene Ansichten im Link", async () => {
     const s = new AppState(loader);
     await s.init("#v1;j=2025;a=karte;f=11");
     expect(s.view).toBe("karte");
     s.waehle(EINTRAEGE.find((e) => e.id === "simulator")!);
-    expect(s.view).toBe("fluss"); expect(s.gestalten).toBe(true);
-    expect(s.toHash()).not.toContain("simulator");
+    expect(s.view).toBe("simulator"); expect(s.toHash()).toContain("a=simulator");
     s.waehle(EINTRAEGE.find((e) => e.id === "ministerien")!);
-    expect(s.view).toBe("ministerien"); expect(s.gestalten).toBe(false);
-    expect(s.toHash()).toContain("a=ministerien");
+    expect(s.view).toBe("ministerien"); expect(s.toHash()).toContain("a=ministerien");
+    s.waehle(EINTRAEGE.find((e) => e.id === "dashboard")!);
+    expect(s.view).toBe("dashboard");
+    s.waehle(EINTRAEGE.find((e) => e.id === "politik")!);
+    expect(s.view).toBe("politik");
+    await s.init("#v1;j=2025;a=fluss;f=11");                         // alter Link öffnet weiter den Fluss
+    expect(s.view).toBe("fluss"); expect(s.focus).toEqual(["11"]);
   });
 });
 
@@ -246,7 +250,7 @@ describe("Personen und Netz (Stufe 3)", () => {
     expect(s.pfad.map((g) => g.label).at(-1)).toBe("Umfeld: Sanae Abdi");
     await s.springe(1);                                             // zurück zur Empfänger-Seite
     expect(s.view).toBe("empfaenger"); expect(s.empfaengerId).toBe("aas"); expect(s.spur.map((g) => g.label)).toEqual(["Empfänger"]);
-    s.waehle(EINTRAEGE.find((e) => e.id === "verbindungen")!);
+    s.waehle(EINTRAEGE.find((e) => e.id === "verflechtungen")!);
     expect(s.spur).toEqual([]);
   });
 

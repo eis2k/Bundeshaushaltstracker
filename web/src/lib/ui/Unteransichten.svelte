@@ -3,7 +3,7 @@
   import type { AppState } from "../state.svelte";
 
   let { app }: { app: AppState } = $props();
-  const reiter = $derived(unteransichten(aktiverEintrag(app.view, app.gestalten)));
+  const reiter = $derived(unteransichten(aktiverEintrag(app.view)));
   function oeffne(view: string) { app.waehleUnteransicht(view as typeof app.view); }
 </script>
 
