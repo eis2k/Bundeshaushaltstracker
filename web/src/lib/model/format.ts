@@ -10,6 +10,13 @@ export function fmtEuro(n: number): string {
   return `${sign}${deInt.format(abs)} €`;
 }
 
+const deCent = new Intl.NumberFormat("de-DE", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+
+/** Centgenau ohne Kürzung: 11833.47 → "11.833,47 €", −5916.74 → "−5.916,74 €" (für gesetzliche Beträge). */
+export function fmtEuroCent(n: number): string {
+  return `${n < 0 ? "−" : ""}${deCent.format(Math.abs(n))} €`;
+}
+
 export function fmtPct(factor: number): string {
   return `${Math.round(factor * 100)} %`;
 }

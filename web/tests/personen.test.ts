@@ -1,5 +1,5 @@
 import { describe, expect, test } from "vitest";
-import { filterePersonen, issueUrlAkte, zeitlinieJahre, type Akte, type PersonIndex, type PersonIndexEintrag } from "../src/lib/model/personen";
+import { bezuegeNachPosten, filterePersonen, issueUrlAkte, zeitlinieJahre, type Akte, type Bezuege, type BezugZeile, type PersonIndex, type PersonIndexEintrag } from "../src/lib/model/personen";
 import { kantenStil, legende, netzPfad, type Umfeld } from "../src/lib/model/netz";
 
 function e(id: string, name: string, extra: Partial<PersonIndexEintrag> = {}): PersonIndexEintrag {
@@ -69,5 +69,14 @@ describe("netz", () => {
     expect(legende().map((l) => l.art)).toEqual(["geld", "posten", "spende"]);
     const u: Umfeld = { start: "p:x", knoten: [], kanten: [], weitere: 0 };
     expect(u.weitere).toBe(0);
+  });
+});
+
+describe("bezuegeNachPosten", () => {
+  const z = (posten: string, komponente: string): BezugZeile => ({ posten, komponente, rechtsgrundlage: "§", monatlich: 1, zeitraum_von: null, zeitraum_bis: null, monate: null, summe: null, empfaenger: "person", quelle: { kurz: "q", url: null } });
+  test("gruppiert Zeilen je Posten in Reihenfolge", () => {
+    const b: Bezuege = { summe_person: 1, summe_aufwand: 2, hinweise: [], nicht_bezifferbar: [], wp_beginn: "2025-03-25",
+      zeilen: [z("Mitglied des Bundestages", "Abgeordnetenentschädigung"), z("Bundeskanzler", "Amtsgehalt"), z("Mitglied des Bundestages", "Kostenpauschale")] };
+    expect(bezuegeNachPosten(b).map((g) => [g.posten, g.zeilen.length])).toEqual([["Mitglied des Bundestages", 2], ["Bundeskanzler", 1]]);
   });
 });

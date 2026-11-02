@@ -1,6 +1,6 @@
 <script lang="ts">
-  import { fmtEuro } from "../model/format";
-  import { FUNKTION_LABELS, issueUrlAkte, zeitlinieJahre, type Akte } from "../model/personen";
+  import { fmtEuro, fmtEuroCent } from "../model/format";
+  import { FUNKTION_LABELS, bezuegeNachPosten, issueUrlAkte, zeitlinieJahre, type Akte } from "../model/personen";
   import type { AppState } from "../state.svelte";
 
   let { app, akte }: { app: AppState; akte: Akte } = $props();
@@ -15,6 +15,11 @@
     return [...m.entries()];
   });
   const grund = $derived(akte.grund_sichtbar === "amt" ? "öffentliches Amt" : akte.grund_sichtbar === "verbindung" ? "belegte Verbindung zur Entscheidungsseite" : akte.grund_sichtbar === "freigabe" ? "von einem Prüfer freigeschaltet" : akte.grund_sichtbar === "alle" ? "vollständige Fassung (alle Akten)" : "");
+  const bezuege = $derived(akte.bezuege ? bezuegeNachPosten(akte.bezuege) : []);
+  function zeitraum(von: string | null, bis: string | null, monate: number | null): string {
+    if (!von) return "Zeitraum nicht belegt";
+    return `${von} – ${bis ?? ""}${monate != null ? ` (${monate} Monate)` : ""}`;
+  }
   function host(u: string | null): string {
     if (!u) return "";
     try { return new URL(u).hostname.replace("www.", ""); } catch { return u; }
@@ -101,6 +106,39 @@
     {/if}
   </section>
 
+  {#if akte.bezuege}
+    <section class="block bezuege">
+      <h3>Bezüge aus dem Amt</h3>
+      {#each bezuege as g (g.posten)}
+        <h4>{g.posten}</h4>
+        <div class="scroll">
+          <table>
+            <thead><tr><th>Komponente</th><th class="num">monatlich</th><th>Zeitraum</th><th class="num">Summe</th><th>Quelle</th></tr></thead>
+            <tbody>
+              {#each g.zeilen as z}
+                <tr>
+                  <td>{z.komponente}{#if z.empfaenger === "dritte"} <span class="tag">an Dritte</span>{/if}<small class="muted">{z.rechtsgrundlage}</small></td>
+                  <td class="num tabular">{z.monatlich != null ? fmtEuroCent(z.monatlich) : "–"}</td>
+                  <td class="tabular">{zeitraum(z.zeitraum_von, z.zeitraum_bis, z.monate)}</td>
+                  <td class="num tabular">{z.summe != null ? fmtEuroCent(z.summe) : "–"}</td>
+                  <td>{#if z.quelle.url}<a href={z.quelle.url} target="_blank" rel="noopener" title={z.quelle.fundstelle ?? ""}>{z.quelle.kurz}</a>{:else}{z.quelle.kurz}{/if}</td>
+                </tr>
+              {/each}
+            </tbody>
+          </table>
+        </div>
+      {/each}
+      <p class="summe"><b>An die Person ausgezahlt</b> (gerechnet aus den Monatsbeträgen): <span class="tabular">{fmtEuroCent(akte.bezuege.summe_person)}</span></p>
+      <p class="summe"><b>Für die Person aufgewendet</b> (Mitarbeiter, Sachleistungen): <span class="tabular">{fmtEuroCent(akte.bezuege.summe_aufwand)}</span></p>
+      {#if akte.bezuege.hinweise.length}<ul class="muted small hinweise">{#each akte.bezuege.hinweise as h}<li>{h}</li>{/each}</ul>{/if}
+      {#if akte.bezuege.nicht_bezifferbar.length}
+        <h4>Nicht bezifferbar</h4>
+        <ul class="muted small hinweise">{#each akte.bezuege.nicht_bezifferbar as n}<li>{n}</li>{/each}</ul>
+      {/if}
+      <p class="muted small">Gesetzlich festgelegte Beträge, keine Einzelabrechnung. Was die Person tatsächlich erhält, kann durch Kürzungen (§ 14, § 12 Abs. 6, § 29 AbgG) abweichen.</p>
+    </section>
+  {/if}
+
   <section class="block">
     <h3>Zeitlinie</h3>
     {#if jahre.length === 0}
@@ -165,4 +203,8 @@
   .melden.second { background: var(--bg); color: var(--fg); border: 1px solid var(--border); }
   .muted { color: var(--muted); }
   .small { font-size: 11px; }
+  .bezuege h4 { margin: 10px 0 4px; font-size: 13px; }
+  .summe { margin: 8px 0 2px; }
+  .hinweise { padding-left: 18px; margin: 6px 0; }
+  .hinweise li { margin: 2px 0; }
 </style>

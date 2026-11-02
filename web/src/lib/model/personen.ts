@@ -38,6 +38,10 @@ export interface AkteAngabe { kategorie: string; organisation: string; ort: stri
 export interface AkteSpende { organisation_id: string; organisation: string; partei: string; betrag: number; eingang: string; veroeffentlicht?: string; drucksache: string; drucksache_url: string | null; quelle: Quelle }
 export interface ZeitlinieEintrag { jahr: number; art: "geld" | "posten" | "spende" | string; quelle?: "lobbyregister" | "haushalt" | string; organisation_id: string | null; text: string; wert?: number }
 
+/** Stufe 3d: eine Zeile „Bezüge aus dem Amt“; summe null = Zeitraum nicht belegt. */
+export interface BezugZeile { posten: string; komponente: string; rechtsgrundlage: string; monatlich: number | null; zeitraum_von: string | null; zeitraum_bis: string | null; monate: number | null; summe: number | null; empfaenger: "person" | "dritte" | string; quelle: { kurz: string; url: string | null; fundstelle?: string } }
+export interface Bezuege { zeilen: BezugZeile[]; summe_person: number; summe_aufwand: number; hinweise: string[]; nicht_bezifferbar: string[]; wp_beginn: string }
+
 export interface Akte {
   id: string;
   name: string;
@@ -55,6 +59,18 @@ export interface Akte {
   zeitlinie: ZeitlinieEintrag[];
   quellen: Quelle[];
   stand: string;
+  bezuege?: Bezuege | null;
+}
+
+/** Zeilen je Posten in der Reihenfolge des ersten Auftretens. */
+export function bezuegeNachPosten(b: Bezuege): { posten: string; zeilen: BezugZeile[] }[] {
+  const out: { posten: string; zeilen: BezugZeile[] }[] = [];
+  for (const z of b.zeilen) {
+    const g = out.find((x) => x.posten === z.posten);
+    if (g) g.zeilen.push(z);
+    else out.push({ posten: z.posten, zeilen: [z] });
+  }
+  return out;
 }
 
 export type PersonFilter = "alle" | "abgeordnete" | "regierung" | "vertreter";

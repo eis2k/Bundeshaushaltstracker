@@ -88,6 +88,7 @@
         <p>Akten zeigen nur, was amtlich veröffentlicht ist oder die Person selbst angegeben hat: Mandat, Amt, Posten, veröffentlichungspflichtige Angaben, Parteispenden ihrer Organisationen. Jede Zeile trägt Quelle und Datum.</p>
         <p>Öffentlich sind Akten von Personen mit öffentlichem Amt, mit belegter Verbindung oder nach Prüfung eines Belegs. Gleiche Namen werden nur mit Beleg zusammengeführt.</p>
         <p>Das Netz zeigt Geld (Ministerium → Organisation), Posten und Parteispenden zwei Schritte weit; Ministerien und Parteien werden nicht weiter ausgebreitet. Es ist eine Landkarte belegter Beziehungen, kein Urteil.</p>
+        <p>Bezüge aus dem Amt sind die gesetzlich festgelegten Monatsbeträge mit Fundstelle; was nicht je Person veröffentlicht wird, steht als Lücke dabei.</p>
       </aside>
     {:else if app.view === "empfaenger"}
       <aside class="panel hint">
