@@ -1,6 +1,9 @@
 <script lang="ts">
-  /** Platzhalter für Porträts und Logos (Spec §4.11): Initialen im Kreis bzw. Kürzel in der Kachel, bis Stufe 4b lizenzierte Bilder liefert. */
-  let { name, art = "person", size = 36 }: { name: string; art?: "person" | "organisation"; size?: number } = $props();
+  /** Porträt oder Logo (Spec §4.13) mit Urheber und Lizenz im Tooltip; ohne Verweis oder bei Ladefehler Initialen im Kreis bzw. Kürzel in der Kachel. */
+  import { bildFuer, tooltip } from "../model/bilder";
+  import { bilderStore } from "./bilder.svelte";
+
+  let { name, art = "person", size = 36, id }: { name: string; art?: "person" | "organisation"; size?: number; id?: string } = $props();
 
   const TOENE = ["var(--chip-blau)", "var(--chip-gruen)", "var(--chip-orange)", "var(--nav-bg)"];
   const kuerzel = $derived.by(() => {
@@ -11,11 +14,21 @@
     return woerter.slice(0, 3).map((w) => w[0]).join("").toUpperCase() || "?";
   });
   const ton = $derived(TOENE[[...name].reduce((h, c) => (h * 31 + c.charCodeAt(0)) >>> 0, 7) % TOENE.length]);
+  const bild = $derived(bildFuer(bilderStore.wert, id));
+  let fehler = $state(false);
+  $effect(() => { bild; fehler = false; });
 </script>
 
-<span class="avatar" class:org={art === "organisation"} style="width:{size}px;height:{size}px;font-size:{Math.max(9, Math.round(size * 0.34))}px;background:{ton}" aria-hidden="true" title={name}>{kuerzel}</span>
+{#if bild && !fehler}
+  <img class="avatar bild" class:org={art === "organisation"} src={size > 96 ? bild.url_gross : bild.url} alt={name} title={tooltip(bild)} loading="lazy" width={size} height={size}
+       style="width:{size}px;height:{size}px" onerror={() => (fehler = true)} />
+{:else}
+  <span class="avatar" class:org={art === "organisation"} style="width:{size}px;height:{size}px;font-size:{Math.max(9, Math.round(size * 0.34))}px;background:{ton}" aria-hidden="true" title={name}>{kuerzel}</span>
+{/if}
 
 <style>
   .avatar { display: inline-flex; align-items: center; justify-content: center; border-radius: 50%; color: var(--header); font-weight: 700; letter-spacing: .02em; flex: none; border: 1px solid var(--border); }
   .avatar.org { border-radius: 8px; }
+  .avatar.bild { object-fit: cover; background: var(--panel); }
+  .avatar.bild.org { object-fit: contain; padding: 2px; }
 </style>
