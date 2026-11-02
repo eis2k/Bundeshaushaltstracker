@@ -227,6 +227,29 @@ describe("Personen und Netz (Stufe 3)", () => {
     expect(s.netzLeer).toBe(false);
   });
 
+  test("Spur folgt den Klicks im Inhalt, Seitenleiste leert sie, springe geht zurück", async () => {
+    const aas = { id: "aas", name: "Amadeu Antonio Stiftung", art: "verein", rechtsform: "", sitz: "", website: null, stand: "2026-11-01", geprueft: true, lobbyregister: null,
+      haushalt: { titel: [] }, lobby_zuwendungen: [], lobby_untergrenze_bund: 0, foerderkatalog: [], personen: [], verbindungen: [], pflichtangaben: null, quellen: [] };
+    const sloader: Loader = { ...ploader,
+      loadEmpfaengerIndex: async () => ({ stand: "2026-11-01", mit_personen: true, titel: {}, eintraege: [{ id: "aas", name: "Amadeu Antonio Stiftung", art: "verein", rechtsform: "", sitz: "", lobby_untergrenze_bund: 0, haushalt_soll_letztes_jahr: 0, foerderkatalog_summe: 0, n_personen: 0, n_verbindungen: 0, lobbyregister: null, epls: ["17"] }] }) as never,
+      loadEmpfaenger: async (id: string) => { if (id !== "aas") throw new Error("404"); return aas as never; } };
+    const s = new AppState(sloader);
+    await s.init("");
+    s.waehle(EINTRAEGE.find((e) => e.id === "empfaenger")!);     // Seitenleiste → keine Spur
+    expect(s.spur).toEqual([]);
+    await s.openEmpfaenger("aas");                                  // aus der Liste geöffnet
+    expect(s.spur.map((g) => g.label)).toEqual(["Empfänger"]);
+    await s.openAkte("sanae-abdi");                                 // von der Empfänger-Seite
+    expect(s.spur.map((g) => g.label)).toEqual(["Empfänger", "Empfänger: Amadeu Antonio Stiftung"]);
+    await s.openNetz("p:sanae-abdi");
+    expect(s.spur.length).toBe(3);
+    expect(s.pfad.map((g) => g.label).at(-1)).toBe("Umfeld: Sanae Abdi");
+    await s.springe(1);                                             // zurück zur Empfänger-Seite
+    expect(s.view).toBe("empfaenger"); expect(s.empfaengerId).toBe("aas"); expect(s.spur.map((g) => g.label)).toEqual(["Empfänger"]);
+    s.waehle(EINTRAEGE.find((e) => e.id === "verbindungen")!);
+    expect(s.spur).toEqual([]);
+  });
+
   test("zurück aus dem Netz führt zur Akte, von der es geöffnet wurde (Important 8)", async () => {
     const s = new AppState(ploader);
     await s.init("");

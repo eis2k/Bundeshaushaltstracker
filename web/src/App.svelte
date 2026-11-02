@@ -3,6 +3,7 @@
   import { loadEmpfaenger, loadEmpfaengerIndex, loadGesetzFrei, loadIndex, loadKonkordanz, loadNetzIndex, loadNetzShard, loadPersonIndex, loadPersonShard, loadPresets, loadSozialkassen, loadSteuern, loadTexte, loadVpi, loadYear, loadZeitreihe } from "./lib/model/load";
   import { AppState } from "./lib/state.svelte";
   import Datenstatus from "./lib/ui/Datenstatus.svelte";
+  import Pfad from "./lib/ui/Pfad.svelte";
   import Kopfzeile from "./lib/ui/Kopfzeile.svelte";
   import Navigation from "./lib/ui/Navigation.svelte";
   import Panel from "./lib/ui/Panel.svelte";
@@ -44,6 +45,7 @@
   <div class="rechts">
     <Kopfzeile {app} />
     <Datenstatus {app} />
+    <Pfad {app} />
     {#if haushalt}
       <Presets {app} />
     {/if}

@@ -10,6 +10,7 @@ import type { EmpfaengerIndex, EmpfaengerSeite } from "./model/empfaenger";
 import type { Akte, PersonIndex } from "./model/personen";
 import type { Umfeld } from "./model/netz";
 import type { NavEintrag } from "./model/navigation";
+import { aktuellesGlied, pfad as pfadAus, type Glied, type Ziel } from "./model/pfad";
 
 export interface Loader {
   loadIndex: () => Promise<Index>;
@@ -101,8 +102,17 @@ export class AppState {
   gestalten = $state(false);
   /** Netzansicht ohne gewählten Knoten (Link `a=netz` ohne `n=`). */
   netzLeer = $derived(this.view === "netz" && !this.netzStart);
-  /** Woher das Netz geöffnet wurde (Akte oder Empfänger-Seite), für „zurück“; die App schreibt keine History-Einträge. */
-  netzHerkunft = $state<{ art: "akte"; id: string } | { art: "empfaenger"; id: string } | null>(null);
+  /** Recherchepfad (Spec §4.10): die tatsächliche Spur der Klicks im Inhalt; Seitenleiste und init leeren sie. */
+  spur = $state<Glied[]>([]);
+  private springt = false;
+  glied = $derived<Glied>(aktuellesGlied({
+    view: this.view, topf: this.topf, focus: this.focus, selected: this.selected,
+    eplNamen: this.data?.epl ?? {}, titelNamen: this.titelNamen(), topfNamen: this.topfNamen(),
+    empfaengerId: this.empfaengerId, empfaengerName: this.empfaengerSeite?.name ?? null, empfaengerFilterEpl: this.empfaengerFilterEpl,
+    akteId: this.akteId, akteName: this.akte?.name ?? null, netzStart: this.netzStart,
+    netzLabel: this.netz?.knoten.find((k) => k.id === this.netz?.start)?.label ?? null,
+  }));
+  pfad = $derived<Glied[]>(pfadAus(this.spur, this.glied));
 
   bezugsjahr = $derived(this.index ? this.index.jahre[this.index.jahre.length - 1] : this.jahr);
   viewData = $derived<YearData | null>(this.data
@@ -175,6 +185,7 @@ export class AppState {
     } catch (e) {
       this.error = e instanceof Error ? e.message : String(e);
     } finally {
+      this.spur = [];
       this.loading = false;
     }
   }
@@ -235,6 +246,7 @@ export class AppState {
     else if (eintrag.view === "personen") this.openPersonenListe();
     else this.setView(eintrag.view);
     this.gestalten = !!eintrag.gestalten;
+    this.spur = [];
   }
 
   setView(view: ViewId): void {
@@ -242,6 +254,53 @@ export class AppState {
     if (view !== "fluss") this.gestalten = false;
     if (view === "empfaenger") void this.ensureEmpfaenger();
     if (view === "personen") void this.ensurePersonen();
+  }
+
+  private titelNamen(): Record<string, string> {
+    const out: Record<string, string> = {};
+    const data = this.data;
+    if (!data) return out;
+    for (const id of [...this.focus, this.selected]) {
+      if (!id || /^\d{2}$/.test(id)) continue;
+      const row = data.rows.find((r) => r.id === id);
+      if (row) out[id] = row.text;
+      else if (/^\d{2}-\d{4}$/.test(id)) out[id] = data.kap[id.slice(3)] ?? `Kapitel ${id.slice(3)}`;
+    }
+    return out;
+  }
+  private topfNamen(): Record<string, string> {
+    const out: Record<string, string> = { gesamt: "Gesamtfluss", bund: "Bund" };
+    for (const t of this.toepfe?.toepfe ?? []) out[t.id] = t.kurz;
+    return out;
+  }
+  /** Hängt die verlassene Seite an die Spur (Navigation aus dem Inhalt heraus). */
+  private merke(): void {
+    if (this.springt) return;
+    const g = this.glied;
+    const letztes = this.spur[this.spur.length - 1];
+    if (letztes && letztes.label === g.label) return;
+    this.spur = [...this.spur, g].slice(-8);
+  }
+  /** Springt auf Glied `i` der Spur zurück und kürzt die Spur dorthin. */
+  async springe(i: number): Promise<void> {
+    const g = this.spur[i];
+    if (!g) return;
+    this.spur = this.spur.slice(0, i);
+    this.springt = true;
+    try {
+      await this.gehe(g.ziel);
+    } finally {
+      this.springt = false;
+    }
+  }
+  private async gehe(z: Ziel): Promise<void> {
+    if (z.art === "haushalt") { this.setTopf(z.topf); this.focus = z.focus; this.selected = z.focus[z.focus.length - 1] ?? null; this.setView(z.view); }
+    else if (z.art === "empfaengerliste") this.openEmpfaengerListe(z.epl ? { epl: z.epl } : undefined);
+    else if (z.art === "empfaenger") await this.openEmpfaenger(z.id);
+    else if (z.art === "personenliste") this.openPersonenListe();
+    else if (z.art === "akte") await this.openAkte(z.id);
+    else if (z.art === "netz") await this.openNetz(z.knoten);
+    else this.setView("ministerien");
   }
 
   async ensurePersonen(): Promise<void> {
@@ -260,6 +319,7 @@ export class AppState {
 
   /** Öffnet eine Akte; nicht freigeschaltete oder unbekannte Ids werden benannt statt zu scheitern. */
   async openAkte(id: string | null): Promise<void> {
+    if (id && id !== this.akteId) this.merke();
     this.view = "personen";
     await this.ensurePersonen();
     this.akte = null;
@@ -283,9 +343,7 @@ export class AppState {
 
   /** Öffnet das Umfeld eines Knotens (p:, e:, m:, partei:). */
   async openNetz(knotenId: string | null): Promise<void> {
-    if (this.view === "personen" && this.akteId) this.netzHerkunft = { art: "akte", id: this.akteId };
-    else if (this.view === "empfaenger" && this.empfaengerId) this.netzHerkunft = { art: "empfaenger", id: this.empfaengerId };
-    else if (this.view !== "netz") this.netzHerkunft = null;
+    if (knotenId && knotenId !== this.netzStart) this.merke();
     this.view = "netz";
     this.netz = null;
     this.netzFehlt = null;
@@ -304,15 +362,12 @@ export class AppState {
     }
   }
 
-  /** Verlässt das Netz zurück zur Akte oder Empfänger-Seite, von der es geöffnet wurde; sonst zur Personenliste. */
+  /** Verlässt das Netz zurück zum letzten Glied der Spur; ohne Spur zur Personenliste. */
   async closeNetz(): Promise<void> {
-    const h = this.netzHerkunft;
     this.netz = null;
     this.netzStart = null;
     this.netzFehlt = null;
-    this.netzHerkunft = null;
-    if (h?.art === "akte") await this.openAkte(h.id);
-    else if (h?.art === "empfaenger") await this.openEmpfaenger(h.id);
+    if (this.spur.length) await this.springe(this.spur.length - 1);
     else this.openPersonenListe();
   }
 
@@ -324,6 +379,7 @@ export class AppState {
 
   /** Öffnet die Liste; `epl` filtert auf Empfänger, die Geld aus diesem Einzelplan erhalten. */
   openEmpfaengerListe(filter?: { epl?: string }): void {
+    if (filter?.epl) this.merke();
     this.view = "empfaenger";
     this.empfaengerId = null;
     this.empfaengerSeite = null;
@@ -334,6 +390,7 @@ export class AppState {
 
   /** Öffnet eine Empfänger-Seite; unbekannte Id → Liste mit Hinweis. */
   async openEmpfaenger(id: string | null): Promise<void> {
+    if (id && id !== this.empfaengerId) this.merke();
     this.view = "empfaenger";
     await this.ensureEmpfaenger();
     if (!id) { this.openEmpfaengerListe(); return; }
