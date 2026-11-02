@@ -277,6 +277,13 @@ def _lade_yaml(path: Path) -> dict:
         return yaml.safe_load(f) or {}
 
 
+def profile_mit_seite(profile: list[Profil], seiten: dict[str, dict]) -> list[Profil]:
+    """Nur Lobbyregister-Organisationen, die eine Empfänger-Seite haben (Bundesmittel), liefern Personen (Spec §4.7a)."""
+    nummern = {(s.get("lobbyregister") or {}).get("nummer") for s in seiten.values() if s.get("lobbyregister")}
+    normen = {norm_name(s["name"]) for s in seiten.values()}
+    return [p for p in profile if p.nummer in nummern or norm_name(p.name) in normen]
+
+
 def _jahr(datum: str | None) -> int | None:
     if not datum:
         return None
@@ -290,7 +297,7 @@ def build_personen(manual_dir: Path, raw_dir: Path, out: Path, empfaenger_seiten
         return None
     manual = _lade_yaml(manual_dir / "personen.yaml")
     ressorts = _lade_yaml(manual_dir / "ressorts.yaml")
-    profile = lade_profile(raw_dir)
+    profile = profile_mit_seite(lade_profile(raw_dir), empfaenger_seiten)
     profile_by_nr = {p.nummer: p for p in profile}
     abgeordnete = lade_abgeordnete(raw_dir)
     regierung = lade_regierung(manual_dir / "regierung.yaml", raw_dir, ressorts) if (manual_dir / "regierung.yaml").exists() or (raw_dir / "regierung").exists() else []
@@ -453,7 +460,7 @@ def build_akten_und_netz(manual_dir: Path, raw_dir: Path, out: Path, stand: str,
     sichtbar = 0
     if mit_personen:
         manual = _lade_yaml(manual_dir / "personen.yaml")
-        profile = lade_profile(raw_dir)
+        profile = profile_mit_seite(lade_profile(raw_dir), seiten)
         profile_by_nr = {p.nummer: p for p in profile}
         abgeordnete = lade_abgeordnete(raw_dir)
         regierung = lade_regierung(manual_dir / "regierung.yaml", raw_dir, ressorts) if (manual_dir / "regierung.yaml").exists() or (raw_dir / "regierung").exists() else []

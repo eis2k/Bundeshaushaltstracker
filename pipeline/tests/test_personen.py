@@ -172,3 +172,23 @@ def test_ohne_personen_baut_nichts(tmp_path):
     out = tmp_path / "build"
     assert build_personen(tmp_path, tmp_path, out, {}, [], "2026-11-02", mit_personen=False) is None
     assert not (out / "personen").exists()
+
+
+def test_nur_personen_von_empfaengern_mit_seite(tmp_path):
+    # Spec §4.7a: Akten für Vertreter von Empfängern mit Bundesmitteln; Organisationen ohne Empfänger-Seite liefern keine Akten
+    raw = tmp_path / "raw"
+    (raw / "lobbyregister").mkdir(parents=True)
+    (raw / "lobbyregister" / "R004511_82516.json").write_text((FIXTURES / "lobby_detail_R004511.json").read_text(encoding="utf-8"), encoding="utf-8")
+    fremd = json.loads((FIXTURES / "lobby_detail_R004511.json").read_text(encoding="utf-8"))
+    fremd["registerNumber"] = "R000001"; fremd["registerEntryDetails"]["registerEntryId"] = 1; fremd["lobbyistIdentity"]["name"] = "Fremder Verband e.V."
+    fremd["lobbyistIdentity"]["legalRepresentatives"] = [{"lastName": "Fremd", "firstName": "Frieda", "function": "Vorstand", "recentGovernmentFunctionPresent": False}]
+    (raw / "lobbyregister" / "R000001_1.json").write_text(json.dumps(fremd, ensure_ascii=False), encoding="utf-8")
+    manual = tmp_path / "manual"
+    manual.mkdir()
+    (manual / "personen.yaml").write_text("zusammenfuehren: []\ntrennen: []\nfreigabe: []\n", encoding="utf-8")
+    (manual / "ressorts.yaml").write_text((MANUAL / "ressorts.yaml").read_text(encoding="utf-8"), encoding="utf-8")
+    seiten = _seiten()
+    seiten["amadeu-antonio-stiftung"]["lobbyregister"] = {"nummer": "R004511"}
+    idx = json.loads(build_personen(manual, raw, tmp_path / "build", seiten, [], "2026-11-02", modus="alle").read_text(encoding="utf-8"))
+    namen = {e["name"] for e in idx["eintraege"]}
+    assert "Timo Reinfrank" in namen and "Frieda Fremd" not in namen

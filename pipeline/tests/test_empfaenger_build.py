@@ -253,7 +253,7 @@ def test_akten_und_netz_nach_empfaenger_build(tmp_path):
     assert p["akte_id"] == "timo-reinfrank" and p["akte_sichtbar"] is False
     assert ergebnis["akten"] >= 3 and ergebnis["sichtbar"] >= 1
     netz_idx = json.loads((out / "netz" / "index.json").read_text(encoding="utf-8"))
-    assert "e:amadeu-antonio-stiftung" in netz_idx and "p:timo-reinfrank" in netz_idx
+    assert "e:amadeu-antonio-stiftung" in netz_idx and "p:timo-reinfrank" not in netz_idx   # unsichtbare Person: Knoten ohne eigenes Umfeld
 
 
 def test_akten_modus_alle_zeigt_mehr(tmp_path):
