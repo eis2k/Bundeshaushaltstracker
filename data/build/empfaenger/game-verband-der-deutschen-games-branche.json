@@ -41,9 +41,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002096/85844",
 "stand": "2026-09-15"
-},
-"akte_id": "lars-janssen",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Maxi Gräff",
@@ -54,9 +52,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002096/85844",
 "stand": "2026-09-15"
-},
-"akte_id": "maxi-graeff",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Sandro Heuberger",
@@ -67,9 +63,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002096/85844",
 "stand": "2026-09-15"
-},
-"akte_id": "sandro-heuberger",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Benedikt Grindel",
@@ -80,9 +74,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002096/85844",
 "stand": "2026-09-15"
-},
-"akte_id": "benedikt-grindel",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Clemens Mayer-Wegelin",
@@ -93,9 +85,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002096/85844",
 "stand": "2026-09-15"
-},
-"akte_id": "clemens-mayer-wegelin",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Felix Falk",
@@ -106,9 +96,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002096/85844",
 "stand": "2026-09-15"
-},
-"akte_id": "felix-falk",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Maren Raabe",
@@ -119,9 +107,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002096/85844",
 "stand": "2026-09-15"
-},
-"akte_id": "maren-raabe",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Henner Hentsch",
@@ -132,9 +118,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002096/85844",
 "stand": "2026-09-15"
-},
-"akte_id": "henner-hentsch",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Clara Janning",
@@ -151,9 +135,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002096/85844",
 "stand": "2026-09-15"
-},
-"akte_id": "clara-janning",
-"akte_sichtbar": true
+}
 },
 {
 "name": "Vanessa Zeuch",
@@ -164,9 +146,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002096/85844",
 "stand": "2026-09-15"
-},
-"akte_id": "vanessa-zeuch",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Tom Schweiger",
@@ -183,9 +163,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002096/85844",
 "stand": "2026-09-15"
-},
-"akte_id": "tom-schweiger",
-"akte_sichtbar": true
+}
 }
 ],
 "verbindungen": [
@@ -270,6 +248,5 @@
 "etikett": "Eigenangabe",
 "version": 31
 }
-],
-"parteispenden": []
+]
 }

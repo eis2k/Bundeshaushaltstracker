@@ -41,9 +41,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004948/81569",
 "stand": "2026-06-30"
-},
-"akte_id": "h-l-ne-huby",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Victor Maier",
@@ -54,9 +52,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004948/81569",
 "stand": "2026-06-30"
-},
-"akte_id": "victor-maier",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Artur Koop",
@@ -67,9 +63,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004948/81569",
 "stand": "2026-06-30"
-},
-"akte_id": "artur-koop",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Pierre Faucoup",
@@ -80,9 +74,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004948/81569",
 "stand": "2026-06-30"
-},
-"akte_id": "pierre-faucoup",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Stefan Zeller",
@@ -93,9 +85,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004948/81569",
 "stand": "2026-06-30"
-},
-"akte_id": "stefan-zeller",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Jenny Dreier",
@@ -106,9 +96,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004948/81569",
 "stand": "2026-06-30"
-},
-"akte_id": "jenny-dreier",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Felix Lerner",
@@ -125,9 +113,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004948/81569",
 "stand": "2026-06-30"
-},
-"akte_id": "felix-lerner",
-"akte_sichtbar": true
+}
 }
 ],
 "verbindungen": [
@@ -191,6 +177,5 @@
 "etikett": "Eigenangabe",
 "version": 8
 }
-],
-"parteispenden": []
+]
 }

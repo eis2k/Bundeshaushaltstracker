@@ -49,9 +49,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006269/85460",
 "stand": "2026-09-03"
-},
-"akte_id": "francesco-sciortino",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Lucio Milanese",
@@ -62,9 +60,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006269/85460",
 "stand": "2026-09-03"
-},
-"akte_id": "lucio-milanese",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Johannes Schwemmer",
@@ -75,9 +71,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006269/85460",
 "stand": "2026-09-03"
-},
-"akte_id": "johannes-schwemmer",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Eszter Kantor",
@@ -88,9 +82,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006269/85460",
 "stand": "2026-09-03"
-},
-"akte_id": "eszter-kantor",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Yannik Meffert",
@@ -107,9 +99,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006269/85460",
 "stand": "2026-09-03"
-},
-"akte_id": "yannik-meffert",
-"akte_sichtbar": true
+}
 },
 {
 "name": "Armin Reinartz",
@@ -126,9 +116,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006269/85460",
 "stand": "2026-09-03"
-},
-"akte_id": "armin-reinartz",
-"akte_sichtbar": true
+}
 },
 {
 "name": "Maria Dantz",
@@ -139,9 +127,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006269/85460",
 "stand": "2026-09-03"
-},
-"akte_id": "maria-dantz",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Paula Möbius",
@@ -158,9 +144,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006269/85460",
 "stand": "2026-09-03"
-},
-"akte_id": "paula-moebius",
-"akte_sichtbar": true
+}
 }
 ],
 "verbindungen": [
@@ -265,6 +249,5 @@
 "etikett": "Eigenangabe",
 "version": 10
 }
-],
-"parteispenden": []
+]
 }

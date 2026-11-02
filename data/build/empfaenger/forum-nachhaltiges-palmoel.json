@@ -41,9 +41,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004049/80166",
 "stand": "2026-06-30"
-},
-"akte_id": "almut-feller",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Sascha Tischer",
@@ -54,9 +52,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004049/80166",
 "stand": "2026-06-30"
-},
-"akte_id": "sascha-tischer",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Ulrich Hettinger",
@@ -67,9 +63,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004049/80166",
 "stand": "2026-06-30"
-},
-"akte_id": "ulrich-hettinger",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Reza Azmi",
@@ -80,9 +74,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004049/80166",
 "stand": "2026-06-30"
-},
-"akte_id": "reza-azmi",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Armin Hodzic",
@@ -93,9 +85,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004049/80166",
 "stand": "2026-06-30"
-},
-"akte_id": "armin-hodzic",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Urban Treutlein",
@@ -112,9 +102,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004049/80166",
 "stand": "2026-06-30"
-},
-"akte_id": "urban-treutlein",
-"akte_sichtbar": true
+}
 },
 {
 "name": "Gudrun Schlöpker",
@@ -125,9 +113,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004049/80166",
 "stand": "2026-06-30"
-},
-"akte_id": "gudrun-schloepker",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Steffen Kemper",
@@ -138,9 +124,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004049/80166",
 "stand": "2026-06-30"
-},
-"akte_id": "steffen-kemper",
-"akte_sichtbar": false
+}
 }
 ],
 "verbindungen": [
@@ -204,6 +188,5 @@
 "etikett": "Eigenangabe",
 "version": 10
 }
-],
-"parteispenden": []
+]
 }

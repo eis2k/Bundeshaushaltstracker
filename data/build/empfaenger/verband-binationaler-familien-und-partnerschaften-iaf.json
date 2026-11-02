@@ -49,9 +49,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004137/87679",
 "stand": "2026-10-16"
-},
-"akte_id": "said-etris-hashemi",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Vassilis Tsianos",
@@ -62,9 +60,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004137/87679",
 "stand": "2026-10-16"
-},
-"akte_id": "vassilis-tsianos",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Carmen Colinas Schwarz",
@@ -75,9 +71,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004137/87679",
 "stand": "2026-10-16"
-},
-"akte_id": "carmen-colinas-schwarz",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Olga Chlebicka",
@@ -94,9 +88,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004137/87679",
 "stand": "2026-10-16"
-},
-"akte_id": "olga-chlebicka",
-"akte_sichtbar": true
+}
 },
 {
 "name": "Anna Sabel",
@@ -107,9 +99,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004137/87679",
 "stand": "2026-10-16"
-},
-"akte_id": "anna-sabel",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Valeria  Caprioli",
@@ -120,9 +110,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R004137/87679",
 "stand": "2026-10-16"
-},
-"akte_id": "valeria-caprioli",
-"akte_sichtbar": false
+}
 }
 ],
 "verbindungen": [
@@ -189,6 +177,5 @@
 "etikett": "Eigenangabe",
 "version": 69
 }
-],
-"parteispenden": []
+]
 }

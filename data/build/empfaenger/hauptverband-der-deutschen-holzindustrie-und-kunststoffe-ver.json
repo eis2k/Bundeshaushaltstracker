@@ -41,9 +41,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006478/81918",
 "stand": "2026-07-01"
-},
-"akte_id": "carsten-merforth",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Bergmann Jan",
@@ -54,9 +52,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006478/81918",
 "stand": "2026-07-01"
-},
-"akte_id": "bergmann-jan",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Denny Ohnesorge",
@@ -67,9 +63,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006478/81918",
 "stand": "2026-07-01"
-},
-"akte_id": "denny-ohnesorge",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Fee Brauwers",
@@ -80,9 +74,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006478/81918",
 "stand": "2026-07-01"
-},
-"akte_id": "fee-brauwers",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Lukas Freise",
@@ -93,9 +85,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006478/81918",
 "stand": "2026-07-01"
-},
-"akte_id": "lukas-freise",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Dominik Kloster",
@@ -112,9 +102,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006478/81918",
 "stand": "2026-07-01"
-},
-"akte_id": "dominik-kloster",
-"akte_sichtbar": true
+}
 }
 ],
 "verbindungen": [
@@ -177,6 +165,5 @@
 "etikett": "Eigenangabe",
 "version": 12
 }
-],
-"parteispenden": []
+]
 }

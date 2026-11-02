@@ -71,9 +71,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001536/78936",
 "stand": "2026-06-22"
-},
-"akte_id": "ute-vogt",
-"akte_sichtbar": true
+}
 },
 {
 "name": "Dirk Bissinger",
@@ -84,9 +82,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001536/78936",
 "stand": "2026-06-22"
-},
-"akte_id": "dirk-bissinger",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Jörn Linnertz",
@@ -97,9 +93,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001536/78936",
 "stand": "2026-06-22"
-},
-"akte_id": "joern-linnertz",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Anika Flöte",
@@ -110,9 +104,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001536/78936",
 "stand": "2026-06-22"
-},
-"akte_id": "anika-floete",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Dorothee Dill",
@@ -123,9 +115,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001536/78936",
 "stand": "2026-06-22"
-},
-"akte_id": "dorothee-dill",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Alexander Paffrath",
@@ -136,9 +126,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001536/78936",
 "stand": "2026-06-22"
-},
-"akte_id": "alexander-paffrath",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Andreas Bläse",
@@ -149,9 +137,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001536/78936",
 "stand": "2026-06-22"
-},
-"akte_id": "andreas-blaese",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Tanja Larsson",
@@ -162,9 +148,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001536/78936",
 "stand": "2026-06-22"
-},
-"akte_id": "tanja-larsson",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Carolin Lambotte",
@@ -175,9 +159,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001536/78936",
 "stand": "2026-06-22"
-},
-"akte_id": "carolin-lambotte",
-"akte_sichtbar": false
+}
 }
 ],
 "verbindungen": [
@@ -245,6 +227,5 @@
 "etikett": "Eigenangabe",
 "version": 22
 }
-],
-"parteispenden": []
+]
 }

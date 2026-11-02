@@ -57,9 +57,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007753/87580",
 "stand": "2026-10-30"
-},
-"akte_id": "janosch-gloeckner",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Mariella Hettich",
@@ -70,9 +68,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007753/87580",
 "stand": "2026-10-30"
-},
-"akte_id": "mariella-hettich",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Janne Schweitzer",
@@ -83,9 +79,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007753/87580",
 "stand": "2026-10-30"
-},
-"akte_id": "janne-schweitzer",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Jost Seeger",
@@ -96,9 +90,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007753/87580",
 "stand": "2026-10-30"
-},
-"akte_id": "jost-seeger",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Lilian-Ruth Sasse",
@@ -115,9 +107,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007753/87580",
 "stand": "2026-10-30"
-},
-"akte_id": "lilian-ruth-sasse",
-"akte_sichtbar": true
+}
 },
 {
 "name": "Amelie Steffen",
@@ -128,9 +118,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007753/87580",
 "stand": "2026-10-30"
-},
-"akte_id": "amelie-steffen",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Clara von Starck",
@@ -141,9 +129,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007753/87580",
 "stand": "2026-10-30"
-},
-"akte_id": "clara-von-starck",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Paula Winkler",
@@ -154,9 +140,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007753/87580",
 "stand": "2026-10-30"
-},
-"akte_id": "paula-winkler",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Fabian Wolf",
@@ -167,9 +151,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007753/87580",
 "stand": "2026-10-30"
-},
-"akte_id": "fabian-wolf",
-"akte_sichtbar": false
+}
 }
 ],
 "verbindungen": [
@@ -236,6 +218,5 @@
 "etikett": "Eigenangabe",
 "version": 3
 }
-],
-"parteispenden": []
+]
 }

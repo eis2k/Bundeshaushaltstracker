@@ -73,9 +73,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003955/74573",
 "stand": "2026-08-14"
-},
-"akte_id": "oliver-gruen",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Nele Kammlott",
@@ -86,9 +84,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003955/74573",
 "stand": "2026-08-14"
-},
-"akte_id": "nele-kammlott",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Martin Hubschneider",
@@ -99,9 +95,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003955/74573",
 "stand": "2026-08-14"
-},
-"akte_id": "martin-hubschneider",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Christian Gericke",
@@ -112,9 +106,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003955/74573",
 "stand": "2026-08-14"
-},
-"akte_id": "christian-gericke",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Konstantin Elsässer",
@@ -131,9 +123,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003955/74573",
 "stand": "2026-08-14"
-},
-"akte_id": "konstantin-elsaesser",
-"akte_sichtbar": true
+}
 },
 {
 "name": "Anna Brodmann",
@@ -150,9 +140,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003955/74573",
 "stand": "2026-08-14"
-},
-"akte_id": "anna-brodmann",
-"akte_sichtbar": true
+}
 }
 ],
 "verbindungen": [
@@ -243,6 +231,5 @@
 "etikett": "Eigenangabe",
 "version": 7
 }
-],
-"parteispenden": []
+]
 }

@@ -41,9 +41,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006392/86129",
 "stand": "2026-09-21"
-},
-"akte_id": "martin-bujard-lr-r006392",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Sven Iversen",
@@ -54,9 +52,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006392/86129",
 "stand": "2026-09-21"
-},
-"akte_id": "sven-iversen",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Petra Nicolaisen",
@@ -73,9 +69,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006392/86129",
 "stand": "2026-09-21"
-},
-"akte_id": "petra-nicolaisen",
-"akte_sichtbar": true
+}
 },
 {
 "name": "Holger Adolph",
@@ -86,9 +80,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R006392/86129",
 "stand": "2026-09-21"
-},
-"akte_id": "holger-adolph",
-"akte_sichtbar": false
+}
 }
 ],
 "verbindungen": [
@@ -150,6 +142,5 @@
 "etikett": "Eigenangabe",
 "version": 4
 }
-],
-"parteispenden": []
+]
 }

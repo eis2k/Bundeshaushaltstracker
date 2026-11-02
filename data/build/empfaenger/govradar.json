@@ -55,9 +55,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007442/78668",
 "stand": "2026-06-09"
-},
-"akte_id": "sascha-soyk",
-"akte_sichtbar": true
+}
 },
 {
 "name": "Charlotte Stollmann",
@@ -68,9 +66,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007442/78668",
 "stand": "2026-06-09"
-},
-"akte_id": "charlotte-stollmann",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Marius Voigt",
@@ -81,9 +77,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007442/78668",
 "stand": "2026-06-09"
-},
-"akte_id": "marius-voigt",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Thomas Rother",
@@ -94,9 +88,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007442/78668",
 "stand": "2026-06-09"
-},
-"akte_id": "thomas-rother",
-"akte_sichtbar": false
+}
 }
 ],
 "verbindungen": [
@@ -160,6 +152,5 @@
 "etikett": "Eigenangabe",
 "version": 4
 }
-],
-"parteispenden": []
+]
 }

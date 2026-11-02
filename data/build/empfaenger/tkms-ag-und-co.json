@@ -41,9 +41,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003238/80124",
 "stand": "2026-06-23"
-},
-"akte_id": "oliver-burkhard",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Paul Glaser",
@@ -54,9 +52,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003238/80124",
 "stand": "2026-06-23"
-},
-"akte_id": "paul-glaser",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Dirk Steinbrink",
@@ -67,9 +63,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003238/80124",
 "stand": "2026-06-23"
-},
-"akte_id": "dirk-steinbrink",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Angelika Kambeck",
@@ -80,9 +74,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003238/80124",
 "stand": "2026-06-23"
-},
-"akte_id": "angelika-kambeck",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Andreas Görgen",
@@ -99,9 +91,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003238/80124",
 "stand": "2026-06-23"
-},
-"akte_id": "andreas-goergen",
-"akte_sichtbar": true
+}
 },
 {
 "name": "Sebastian Chávez Wurm",
@@ -112,9 +102,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003238/80124",
 "stand": "2026-06-23"
-},
-"akte_id": "sebastian-ch-vez-wurm",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Theresa Caroline Winter",
@@ -125,9 +113,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003238/80124",
 "stand": "2026-06-23"
-},
-"akte_id": "theresa-caroline-winter",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Stefan Ettwig",
@@ -138,9 +124,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003238/80124",
 "stand": "2026-06-23"
-},
-"akte_id": "stefan-ettwig",
-"akte_sichtbar": false
+}
 }
 ],
 "verbindungen": [
@@ -203,6 +187,5 @@
 "etikett": "Eigenangabe",
 "version": 15
 }
-],
-"parteispenden": []
+]
 }

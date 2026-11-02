@@ -41,9 +41,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002290/80978",
 "stand": "2026-06-29"
-},
-"akte_id": "kerstin-stark",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Boris Hekele",
@@ -54,9 +52,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002290/80978",
 "stand": "2026-06-29"
-},
-"akte_id": "boris-hekele",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Hans Hagedorn",
@@ -73,9 +69,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002290/80978",
 "stand": "2026-06-29"
-},
-"akte_id": "hans-hagedorn",
-"akte_sichtbar": true
+}
 },
 {
 "name": "Ragnhild Sørensen",
@@ -86,9 +80,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002290/80978",
 "stand": "2026-06-29"
-},
-"akte_id": "ragnhild-s-rensen",
-"akte_sichtbar": false
+}
 }
 ],
 "verbindungen": [
@@ -153,6 +145,5 @@
 "etikett": "Eigenangabe",
 "version": 17
 }
-],
-"parteispenden": []
+]
 }

@@ -47,9 +47,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005417/86906",
 "stand": "2026-10-01"
-},
-"akte_id": "daniel-vorgrimler",
-"akte_sichtbar": true
+}
 },
 {
 "name": "Lisa Kühn",
@@ -66,9 +64,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005417/86906",
 "stand": "2026-10-01"
-},
-"akte_id": "lisa-kuehn",
-"akte_sichtbar": true
+}
 },
 {
 "name": "Larissa Obst",
@@ -79,9 +75,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005417/86906",
 "stand": "2026-10-01"
-},
-"akte_id": "larissa-obst",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Anna Fräßdorf",
@@ -92,9 +86,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005417/86906",
 "stand": "2026-10-01"
-},
-"akte_id": "anna-fraessdorf",
-"akte_sichtbar": false
+}
 },
 {
 "name": "David Prinz",
@@ -105,9 +97,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005417/86906",
 "stand": "2026-10-01"
-},
-"akte_id": "david-prinz",
-"akte_sichtbar": false
+}
 }
 ],
 "verbindungen": [
@@ -182,6 +172,5 @@
 "etikett": "Eigenangabe",
 "version": 12
 }
-],
-"parteispenden": []
+]
 }

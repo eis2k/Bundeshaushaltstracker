@@ -84,9 +84,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005776/80109",
 "stand": "2026-07-06"
-},
-"akte_id": "tobias-ernst",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Beatice Strübing",
@@ -97,9 +95,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005776/80109",
 "stand": "2026-07-06"
-},
-"akte_id": "beatice-struebing",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Boris Demrowski",
@@ -110,9 +106,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005776/80109",
 "stand": "2026-07-06"
-},
-"akte_id": "boris-demrowski",
-"akte_sichtbar": false
+}
 }
 ],
 "verbindungen": [
@@ -235,6 +229,5 @@
 "abgerufen": "2026-11-01",
 "etikett": "Eigenangabe"
 }
-],
-"parteispenden": []
+]
 }

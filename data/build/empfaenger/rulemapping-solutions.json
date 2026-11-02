@@ -52,9 +52,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008029/76863",
 "stand": "2026-05-28"
-},
-"akte_id": "tilo-wend",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Dirk Woywod",
@@ -65,9 +63,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008029/76863",
 "stand": "2026-05-28"
-},
-"akte_id": "dirk-woywod",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Innokenty Burshteyn",
@@ -84,9 +80,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008029/76863",
 "stand": "2026-05-28"
-},
-"akte_id": "innokenty-burshteyn",
-"akte_sichtbar": true
+}
 }
 ],
 "verbindungen": [
@@ -154,6 +148,5 @@
 "url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
-],
-"parteispenden": []
+]
 }

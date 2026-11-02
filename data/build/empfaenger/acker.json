@@ -89,9 +89,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005463/79595",
 "stand": "2026-06-23"
-},
-"akte_id": "christoph-schmitz",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Sacha Hübner",
@@ -102,9 +100,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005463/79595",
 "stand": "2026-06-23"
-},
-"akte_id": "sacha-huebner",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Sara Reichau",
@@ -121,9 +117,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005463/79595",
 "stand": "2026-06-23"
-},
-"akte_id": "sara-reichau",
-"akte_sichtbar": true
+}
 },
 {
 "name": "Rhea Niggemann",
@@ -140,9 +134,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005463/79595",
 "stand": "2026-06-23"
-},
-"akte_id": "rhea-niggemann",
-"akte_sichtbar": true
+}
 },
 {
 "name": "Johanna von Rechberg",
@@ -159,9 +151,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005463/79595",
 "stand": "2026-06-23"
-},
-"akte_id": "johanna-von-rechberg",
-"akte_sichtbar": true
+}
 },
 {
 "name": "Monja Jänisch",
@@ -172,9 +162,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005463/79595",
 "stand": "2026-06-23"
-},
-"akte_id": "monja-jaenisch",
-"akte_sichtbar": false
+}
 }
 ],
 "verbindungen": [
@@ -299,6 +287,5 @@
 "etikett": "Eigenangabe",
 "version": 8
 }
-],
-"parteispenden": []
+]
 }

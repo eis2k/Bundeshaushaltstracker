@@ -49,9 +49,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008005/78395",
 "stand": "2026-06-15"
-},
-"akte_id": "alexander-mueller-gastell",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Thomas Leonhardt",
@@ -62,9 +60,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008005/78395",
 "stand": "2026-06-15"
-},
-"akte_id": "thomas-leonhardt",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Dirk Walther",
@@ -75,9 +71,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008005/78395",
 "stand": "2026-06-15"
-},
-"akte_id": "dirk-walther",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Michael Heuken",
@@ -88,9 +82,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008005/78395",
 "stand": "2026-06-15"
-},
-"akte_id": "michael-heuken",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Thomas Delfs",
@@ -101,9 +93,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008005/78395",
 "stand": "2026-06-15"
-},
-"akte_id": "thomas-delfs",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Tobias Kellner",
@@ -120,9 +110,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R008005/78395",
 "stand": "2026-06-15"
-},
-"akte_id": "tobias-kellner",
-"akte_sichtbar": true
+}
 }
 ],
 "verbindungen": [
@@ -185,6 +173,5 @@
 "etikett": "Eigenangabe",
 "version": 2
 }
-],
-"parteispenden": []
+]
 }

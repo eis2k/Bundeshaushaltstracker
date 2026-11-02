@@ -49,9 +49,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001880/79428",
 "stand": "2026-06-26"
-},
-"akte_id": "anna-lena-freiin-von-hodenberg",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Josephine Ballon",
@@ -62,9 +60,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001880/79428",
 "stand": "2026-06-26"
-},
-"akte_id": "josephine-ballon",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Jenny Brunner",
@@ -75,9 +71,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001880/79428",
 "stand": "2026-06-26"
-},
-"akte_id": "jenny-brunner",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Franziska Benning",
@@ -88,9 +82,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001880/79428",
 "stand": "2026-06-26"
-},
-"akte_id": "franziska-benning",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Martin Wunderlich",
@@ -107,9 +99,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001880/79428",
 "stand": "2026-06-26"
-},
-"akte_id": "martin-wunderlich",
-"akte_sichtbar": true
+}
 },
 {
 "name": "Ulli Grießhammer",
@@ -120,9 +110,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001880/79428",
 "stand": "2026-06-26"
-},
-"akte_id": "ulli-griesshammer",
-"akte_sichtbar": false
+}
 }
 ],
 "verbindungen": [
@@ -188,6 +176,5 @@
 "etikett": "Eigenangabe",
 "version": 25
 }
-],
-"parteispenden": []
+]
 }

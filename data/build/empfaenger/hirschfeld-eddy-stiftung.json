@@ -41,9 +41,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000372/73285",
 "stand": "2026-06-26"
-},
-"akte_id": "axel-hochrein",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Philipp Braun",
@@ -60,9 +58,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000372/73285",
 "stand": "2026-06-26"
-},
-"akte_id": "philipp-braun-lr-r000372",
-"akte_sichtbar": true
+}
 },
 {
 "name": "Patrick Constantin Dörr",
@@ -73,9 +69,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000372/73285",
 "stand": "2026-06-26"
-},
-"akte_id": "patrick-constantin-doerr",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Alva Katharina Träbert",
@@ -86,9 +80,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000372/73285",
 "stand": "2026-06-26"
-},
-"akte_id": "alva-katharina-traebert",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Klaus Jetz",
@@ -99,9 +91,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000372/73285",
 "stand": "2026-06-26"
-},
-"akte_id": "klaus-jetz",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Stana Iliev",
@@ -112,9 +102,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000372/73285",
 "stand": "2026-06-26"
-},
-"akte_id": "stana-iliev",
-"akte_sichtbar": false
+}
 }
 ],
 "verbindungen": [
@@ -177,6 +165,5 @@
 "etikett": "Eigenangabe",
 "version": 11
 }
-],
-"parteispenden": []
+]
 }

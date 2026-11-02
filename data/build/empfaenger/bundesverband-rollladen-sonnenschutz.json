@@ -41,9 +41,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001037/77773",
 "stand": "2026-08-03"
-},
-"akte_id": "matthias-klenner",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Simon Schmid",
@@ -60,9 +58,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001037/77773",
 "stand": "2026-08-03"
-},
-"akte_id": "simon-schmid",
-"akte_sichtbar": true
+}
 },
 {
 "name": "Nina Kowalewski",
@@ -73,9 +69,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001037/77773",
 "stand": "2026-08-03"
-},
-"akte_id": "nina-kowalewski",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Peter Huber",
@@ -86,9 +80,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001037/77773",
 "stand": "2026-08-03"
-},
-"akte_id": "peter-huber",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Ingo Plück",
@@ -99,9 +91,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001037/77773",
 "stand": "2026-08-03"
-},
-"akte_id": "ingo-plueck",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Schiller  Kathrin",
@@ -112,9 +102,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001037/77773",
 "stand": "2026-08-03"
-},
-"akte_id": "schiller-kathrin",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Norman Mester",
@@ -125,9 +113,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001037/77773",
 "stand": "2026-08-03"
-},
-"akte_id": "norman-mester",
-"akte_sichtbar": false
+}
 }
 ],
 "verbindungen": [
@@ -191,6 +177,5 @@
 "etikett": "Eigenangabe",
 "version": 9
 }
-],
-"parteispenden": []
+]
 }

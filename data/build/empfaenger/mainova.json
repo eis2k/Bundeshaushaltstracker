@@ -49,9 +49,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002450/85587",
 "stand": "2026-09-07"
-},
-"akte_id": "michael-maxelon",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Peter Arnold",
@@ -62,9 +60,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002450/85587",
 "stand": "2026-09-07"
-},
-"akte_id": "peter-arnold",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Martin Giehl",
@@ -75,9 +71,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002450/85587",
 "stand": "2026-09-07"
-},
-"akte_id": "martin-giehl",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Swen Klingelhöfer",
@@ -88,9 +82,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002450/85587",
 "stand": "2026-09-07"
-},
-"akte_id": "swen-klingelhoefer",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Kai Jörn Vollbrecht",
@@ -101,9 +93,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002450/85587",
 "stand": "2026-09-07"
-},
-"akte_id": "kai-joern-vollbrecht",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Adrian Bellingen",
@@ -114,9 +104,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002450/85587",
 "stand": "2026-09-07"
-},
-"akte_id": "adrian-bellingen",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Sebastian Widmuch",
@@ -133,9 +121,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002450/85587",
 "stand": "2026-09-07"
-},
-"akte_id": "sebastian-widmuch",
-"akte_sichtbar": true
+}
 }
 ],
 "verbindungen": [
@@ -198,6 +184,5 @@
 "etikett": "Eigenangabe",
 "version": 19
 }
-],
-"parteispenden": []
+]
 }

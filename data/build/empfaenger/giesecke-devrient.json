@@ -41,9 +41,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000773/85528",
 "stand": "2026-09-04"
-},
-"akte_id": "ralf-wintergerst",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Thyen Jan",
@@ -54,9 +52,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000773/85528",
 "stand": "2026-09-04"
-},
-"akte_id": "thyen-jan",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Gabriel von Mitschke-Collande",
@@ -67,9 +63,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000773/85528",
 "stand": "2026-09-04"
-},
-"akte_id": "gabriel-von-mitschke-collande",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Benno Müchler",
@@ -86,9 +80,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000773/85528",
 "stand": "2026-09-04"
-},
-"akte_id": "benno-muechler",
-"akte_sichtbar": true
+}
 },
 {
 "name": "Anne Ausfelder",
@@ -105,9 +97,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000773/85528",
 "stand": "2026-09-04"
-},
-"akte_id": "anne-ausfelder",
-"akte_sichtbar": true
+}
 },
 {
 "name": "Tobias Müller",
@@ -124,9 +114,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000773/85528",
 "stand": "2026-09-04"
-},
-"akte_id": "tobias-mueller-lr-r000773",
-"akte_sichtbar": true
+}
 },
 {
 "name": "Daniel Sohn",
@@ -137,9 +125,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000773/85528",
 "stand": "2026-09-04"
-},
-"akte_id": "daniel-sohn",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Marc-David Nappert",
@@ -150,9 +136,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000773/85528",
 "stand": "2026-09-04"
-},
-"akte_id": "marc-david-nappert",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Chiara Anna Trommen",
@@ -163,9 +147,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000773/85528",
 "stand": "2026-09-04"
-},
-"akte_id": "chiara-anna-trommen",
-"akte_sichtbar": false
+}
 }
 ],
 "verbindungen": [
@@ -269,6 +251,5 @@
 "etikett": "Eigenangabe",
 "version": 28
 }
-],
-"parteispenden": []
+]
 }

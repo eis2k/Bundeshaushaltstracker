@@ -65,9 +65,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003242/80282",
 "stand": "2026-06-24"
-},
-"akte_id": "christian-schreiber",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Ines Kramer",
@@ -78,9 +76,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003242/80282",
 "stand": "2026-06-24"
-},
-"akte_id": "ines-kramer",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Thomas Krüger",
@@ -91,9 +87,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003242/80282",
 "stand": "2026-06-24"
-},
-"akte_id": "thomas-krueger",
-"akte_sichtbar": false
+}
 }
 ],
 "verbindungen": [],
@@ -136,6 +130,5 @@
 "etikett": "Eigenangabe",
 "version": 11
 }
-],
-"parteispenden": []
+]
 }

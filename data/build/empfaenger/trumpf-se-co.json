@@ -41,9 +41,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000697/72356",
 "stand": "2026-05-28"
-},
-"akte_id": "nicola-leibinger-kammueller-lr-r000697",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Mathias Kammüller",
@@ -54,9 +52,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000697/72356",
 "stand": "2026-05-28"
-},
-"akte_id": "mathias-kammueller",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Lars Grünert",
@@ -67,9 +63,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000697/72356",
 "stand": "2026-05-28"
-},
-"akte_id": "lars-gruenert",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Oliver Maassen",
@@ -80,9 +74,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000697/72356",
 "stand": "2026-05-28"
-},
-"akte_id": "oliver-maassen",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Hagen Zimer",
@@ -93,9 +85,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000697/72356",
 "stand": "2026-05-28"
-},
-"akte_id": "hagen-zimer",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Stephan Mayer",
@@ -106,9 +96,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000697/72356",
 "stand": "2026-05-28"
-},
-"akte_id": "stephan-mayer-lr-r000697",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Berthold Schmidt",
@@ -119,9 +107,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000697/72356",
 "stand": "2026-05-28"
-},
-"akte_id": "berthold-schmidt",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Andreas Möller",
@@ -132,9 +118,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000697/72356",
 "stand": "2026-05-28"
-},
-"akte_id": "andreas-moeller",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Kristin Furtenbach",
@@ -151,9 +135,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000697/72356",
 "stand": "2026-05-28"
-},
-"akte_id": "kristin-furtenbach",
-"akte_sichtbar": true
+}
 },
 {
 "name": "Christoph Schmid",
@@ -164,9 +146,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000697/72356",
 "stand": "2026-05-28"
-},
-"akte_id": "christoph-schmid-lr-r000697",
-"akte_sichtbar": false
+}
 }
 ],
 "verbindungen": [
@@ -227,34 +207,6 @@
 "stand": "2026-05-28",
 "etikett": "Eigenangabe",
 "version": 17
-}
-],
-"parteispenden": [
-{
-"partei": "CDU",
-"betrag": 100000,
-"eingang": "2024-10-18",
-"veroeffentlicht": "2024-10-30",
-"drucksache": "Drs. 20/14118",
-"drucksache_url": "https://dserver.bundestag.de/btd/20/141/2014118.pdf",
-"quelle": {
-"kurz": "bundestag.de",
-"url": "https://dserver.bundestag.de/btd/20/141/2014118.pdf",
-"etikett": "amtlich"
-}
-},
-{
-"partei": "CDU",
-"betrag": 50000,
-"eingang": "2025-01-31",
-"veroeffentlicht": "2025-01-31",
-"drucksache": "Drs. 20/15153",
-"drucksache_url": "https://dserver.bundestag.de/btd/20/151/2015153.pdf",
-"quelle": {
-"kurz": "bundestag.de",
-"url": "https://dserver.bundestag.de/btd/20/151/2015153.pdf",
-"etikett": "amtlich"
-}
 }
 ]
 }

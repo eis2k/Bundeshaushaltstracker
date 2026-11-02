@@ -57,9 +57,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001652/85621",
 "stand": "2026-09-08"
-},
-"akte_id": "ingrid-lebherz",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Rudi Frick",
@@ -70,9 +68,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001652/85621",
 "stand": "2026-09-08"
-},
-"akte_id": "rudi-frick",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Marion Warden",
@@ -83,9 +79,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001652/85621",
 "stand": "2026-09-08"
-},
-"akte_id": "marion-warden",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Serdar Yüksel",
@@ -102,9 +96,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001652/85621",
 "stand": "2026-09-08"
-},
-"akte_id": "serdar-yueksel",
-"akte_sichtbar": true
+}
 }
 ],
 "verbindungen": [
@@ -170,6 +162,5 @@
 "etikett": "Eigenangabe",
 "version": 8
 }
-],
-"parteispenden": []
+]
 }

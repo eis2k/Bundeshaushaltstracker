@@ -49,9 +49,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002299/84750",
 "stand": "2026-08-17"
-},
-"akte_id": "ursula-prall",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Karina Würtz",
@@ -62,9 +60,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002299/84750",
 "stand": "2026-08-17"
-},
-"akte_id": "karina-wuertz",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Andreas  Mummert",
@@ -75,9 +71,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002299/84750",
 "stand": "2026-08-17"
-},
-"akte_id": "andreas-mummert",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Björn Zindler",
@@ -88,9 +82,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002299/84750",
 "stand": "2026-08-17"
-},
-"akte_id": "bjoern-zindler",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Tyark Reddig",
@@ -107,9 +99,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002299/84750",
 "stand": "2026-08-17"
-},
-"akte_id": "tyark-reddig",
-"akte_sichtbar": true
+}
 },
 {
 "name": "Madlen Langmeyer",
@@ -120,9 +110,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002299/84750",
 "stand": "2026-08-17"
-},
-"akte_id": "madlen-langmeyer",
-"akte_sichtbar": false
+}
 }
 ],
 "verbindungen": [
@@ -187,6 +175,5 @@
 "etikett": "Eigenangabe",
 "version": 11
 }
-],
-"parteispenden": []
+]
 }

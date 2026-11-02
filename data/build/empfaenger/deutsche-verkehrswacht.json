@@ -41,9 +41,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000482/82566",
 "stand": "2026-07-08"
-},
-"akte_id": "daniel-schuele",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Kirsten Lühmann",
@@ -60,9 +58,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000482/82566",
 "stand": "2026-07-08"
-},
-"akte_id": "kirsten-luehmann",
-"akte_sichtbar": true
+}
 }
 ],
 "verbindungen": [
@@ -128,6 +124,5 @@
 "etikett": "Eigenangabe",
 "version": 10
 }
-],
-"parteispenden": []
+]
 }

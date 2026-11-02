@@ -41,9 +41,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001932/87664",
 "stand": "2026-10-16"
-},
-"akte_id": "ralph-dommermuth-lr-r001932",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Carsten  Theurer",
@@ -54,9 +52,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001932/87664",
 "stand": "2026-10-16"
-},
-"akte_id": "carsten-theurer",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Michael Hattermann",
@@ -67,9 +63,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001932/87664",
 "stand": "2026-10-16"
-},
-"akte_id": "michael-hattermann",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Manuela-Andrea Pohl",
@@ -80,9 +74,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001932/87664",
 "stand": "2026-10-16"
-},
-"akte_id": "manuela-andrea-pohl",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Benedikt Großmann",
@@ -93,9 +85,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001932/87664",
 "stand": "2026-10-16"
-},
-"akte_id": "benedikt-grossmann",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Florian Mersmann",
@@ -112,9 +102,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001932/87664",
 "stand": "2026-10-16"
-},
-"akte_id": "florian-mersmann",
-"akte_sichtbar": true
+}
 },
 {
 "name": "Tobias Scholl",
@@ -131,9 +119,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001932/87664",
 "stand": "2026-10-16"
-},
-"akte_id": "tobias-scholl",
-"akte_sichtbar": true
+}
 },
 {
 "name": "Mario Rehse",
@@ -144,9 +130,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001932/87664",
 "stand": "2026-10-16"
-},
-"akte_id": "mario-rehse",
-"akte_sichtbar": false
+}
 }
 ],
 "verbindungen": [
@@ -229,6 +213,5 @@
 "etikett": "Eigenangabe",
 "version": 44
 }
-],
-"parteispenden": []
+]
 }

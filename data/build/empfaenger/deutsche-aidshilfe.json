@@ -73,9 +73,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002264/88094",
 "stand": "2026-10-28"
-},
-"akte_id": "sylvia-urban",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Sven Warminsky",
@@ -86,9 +84,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002264/88094",
 "stand": "2026-10-28"
-},
-"akte_id": "sven-warminsky",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Winfried Holz",
@@ -105,9 +101,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002264/88094",
 "stand": "2026-10-28"
-},
-"akte_id": "winfried-holz",
-"akte_sichtbar": true
+}
 },
 {
 "name": "Ulf-Arne Kristal",
@@ -118,9 +112,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002264/88094",
 "stand": "2026-10-28"
-},
-"akte_id": "ulf-arne-kristal",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Stefan Miller",
@@ -131,9 +123,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002264/88094",
 "stand": "2026-10-28"
-},
-"akte_id": "stefan-miller",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Silke Klumb",
@@ -144,9 +134,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002264/88094",
 "stand": "2026-10-28"
-},
-"akte_id": "silke-klumb",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Holger Wicht",
@@ -157,9 +145,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002264/88094",
 "stand": "2026-10-28"
-},
-"akte_id": "holger-wicht",
-"akte_sichtbar": false
+}
 }
 ],
 "verbindungen": [
@@ -229,6 +215,5 @@
 "etikett": "Eigenangabe",
 "version": 12
 }
-],
-"parteispenden": []
+]
 }

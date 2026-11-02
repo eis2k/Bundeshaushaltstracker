@@ -41,9 +41,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001513/82598",
 "stand": "2026-07-07"
-},
-"akte_id": "angelika-wurzel",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Rainer Gottfriedsen",
@@ -54,9 +52,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001513/82598",
 "stand": "2026-07-07"
-},
-"akte_id": "rainer-gottfriedsen",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Christof Martin",
@@ -67,9 +63,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001513/82598",
 "stand": "2026-07-07"
-},
-"akte_id": "christof-martin",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Carola Persiel",
@@ -80,9 +74,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001513/82598",
 "stand": "2026-07-07"
-},
-"akte_id": "carola-persiel",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Stefan Lütkes",
@@ -99,9 +91,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001513/82598",
 "stand": "2026-07-07"
-},
-"akte_id": "stefan-luetkes",
-"akte_sichtbar": true
+}
 },
 {
 "name": "Heike Milkowski-Fingerle",
@@ -112,9 +102,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001513/82598",
 "stand": "2026-07-07"
-},
-"akte_id": "heike-milkowski-fingerle",
-"akte_sichtbar": false
+}
 },
 {
 "name": "Ulrike Heise",
@@ -125,9 +113,7 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R001513/82598",
 "stand": "2026-07-07"
-},
-"akte_id": "ulrike-heise",
-"akte_sichtbar": false
+}
 }
 ],
 "verbindungen": [
@@ -191,6 +177,5 @@
 "etikett": "Eigenangabe",
 "version": 10
 }
-],
-"parteispenden": []
+]
 }
