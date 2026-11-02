@@ -1,0 +1,150 @@
+{
+"id": "deutscher-fachverband-fuer-agroforstwirtschaft",
+"name": "Deutscher Fachverband für Agroforstwirtschaft (DeFAF) e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Cottbus",
+"website": "www.defaf.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007806",
+"eintrag_id": 74287,
+"version": 4,
+"stand": "2026-06-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007806/74287",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/dd/a6/774350/Lobbyregister-Registereintraege-Detailansicht-R007806-2026-06-24_17-01-15.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundeskasse",
+"epl": null,
+"von": 530001,
+"bis": 540000,
+"zweck": "Projektförderungen zur Wertschöpfung in Agroforstsystemen, Wissenstransfer zu Bodenuntersuchungen und Biodiversiät, Bildungsformate zur Agroforstwirtschaft. Projekte: SEBAS, AgroWert-Regio, MODEMA, EELAP, KlimaAF",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesinstitut für Berufsbildung",
+"epl": "30",
+"von": 150001,
+"bis": 160000,
+"zweck": "Projektmittel für SAFT4EU Training für Agroforst und Waldgärten für Europäische Landwirtschaftsbetriebe",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 680002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christian Böhm",
+"funktion": "erster Vorsitzender des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007806/74287",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Michelle Breezmann",
+"funktion": "stellv. Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007806/74287",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Lars Neumeister",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007806/74287",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Ernst Kürsten",
+"funktion": "2. Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007806/74287",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Michaela Kuschel",
+"funktion": "Schriftführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007806/74287",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Leon Bessert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007806/74287",
+"stand": "2026-06-24"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Sonstiges",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 170001,
+"bis": 180000
+},
+"mitgliedsbeitraege": {
+"von": 30001,
+"bis": 40000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/6a/bf/774346/Bericht-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007806/74287",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-24",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

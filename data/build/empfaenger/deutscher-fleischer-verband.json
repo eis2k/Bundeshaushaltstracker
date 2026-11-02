@@ -1,0 +1,245 @@
+{
+"id": "deutscher-fleischer-verband",
+"name": "Deutscher Fleischer-Verband e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Frankfurt",
+"website": "www.fleischerhandwerk.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004605",
+"eintrag_id": 85699,
+"version": 24,
+"stand": "2026-09-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004605/85699",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/cb/7c/846919/Lobbyregister-Registereintraege-Detailansicht-R004605-2026-09-24_13-39-42.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "Förderung Gewerbespezifische Informationstransferstellen (GIT)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 30001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Herbert Dohrmann",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004605/85699",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Dagmar Groß-Mauer",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004605/85699",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Christian Lohff",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004605/85699",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Konrad Ammon",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004605/85699",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Eckhart Neun",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004605/85699",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Martin Fuchs",
+"funktion": "Hauptgeschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004605/85699",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Thomas Trettwer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004605/85699",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Reinhard von Stoutz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004605/85699",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Farina Mieloch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004605/85699",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Daniela Pewny",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-02"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004605/85699",
+"stand": "2026-09-24"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Daniela Pewny",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-02",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Daniela Pewny ist laut Lobbyregister Interessenvertretung bei Deutscher Fleischer-Verband e.V. und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-02. Deutscher Fleischer-Verband e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Energie.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Wirtschaft und Energie"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004605/85699",
+"stand": "2026-09-24"
+}
+],
+"stand": "2026-09-24"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Nora Seitz",
+"funktion_person": "MdB, CDU/CSU",
+"funktion_beim_empfaenger": "Vizepräsidentin, ehrenamtlich (bis 19.10.2025)",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Nora Seitz (MdB, CDU/CSU) ist laut bundestag.de Vizepräsidentin, ehrenamtlich (bis 19.10.2025) bei Deutscher Fleischer-Verband e.V.. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Arbeit und Soziales; Ausschuss für Gesundheit; Ausschuss für Kultur und Medien; Ausschuss für Landwirtschaft, Ernährung und Heimat. Deutscher Fleischer-Verband e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Energie.",
+"ausschuesse": [
+"Ausschuss für Arbeit und Soziales",
+"Ausschuss für Gesundheit",
+"Ausschuss für Kultur und Medien",
+"Ausschuss für Landwirtschaft, Ernährung und Heimat"
+],
+"geld_aus": [
+"Bundesministerium für Wirtschaft und Energie"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/S/seitz_nora-1047392",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1730001,
+"bis": 1740000
+},
+"lobbyausgaben": {
+"von": 600001,
+"bis": 610000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/3b/eb/846915/Jahresrechnung-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004605/85699",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-24",
+"etikett": "Eigenangabe",
+"version": 24
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/S/seitz_nora-1047392",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

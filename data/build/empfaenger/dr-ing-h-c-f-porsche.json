@@ -1,0 +1,286 @@
+{
+"id": "dr-ing-h-c-f-porsche",
+"name": "Dr. Ing. h.c. F. Porsche AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Stuttgart",
+"website": "https://www.porsche.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001768",
+"eintrag_id": 83518,
+"version": 24,
+"stand": "2026-09-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001768/83518",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ab/82/838276/Lobbyregister-Registereintraege-Detailansicht-R001768-2026-09-03_19-04-03.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 80001,
+"bis": 90000,
+"zweck": "SiC-Inverter-Elektronik für maximale Dauerleistung im Antriebsstrang EV; Teilvorhaben: Anforderungsableitung und Validierung am Prüfstand sowie in einer Gesamtfahrzeugsimulation für einen Hochleistungsumrichter.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 20001,
+"bis": 30000,
+"zweck": "Recyclinggerechtes Multi-Material-Design für Leichtbaustrukturen; Teilvorhaben: Anforderungsdefinition, Bauteilkonstruktion, -simulation und -absicherung.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 60001,
+"bis": 70000,
+"zweck": "Referenzsensorik zur hochpräzisen Sensorvalidierung für das automatisierte Fahren; Teilvorhaben: Integration von Radar-Signalverarbeitungsalgorithmen, Aufbau eines fahrenden Demonstrators mit Schnittstellen zu Seriensensoren und Erarbeitung neuer Homologationsstrategien.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr",
+"epl": "12",
+"von": 20001,
+"bis": 30000,
+"zweck": "Tyre Road Noise - Data-based study of effects on controlled and real drive noise emission; Teilvorhaben: Erzeugung und Bereitstellung der Datenbasis.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundeministerium für Wirtschaft und Energie",
+"epl": null,
+"von": 40001,
+"bis": 50000,
+"zweck": "Digitaler End-To-End Workflow zur additiven Serienfertigung von Kunststoffbauteilen für die Automobilindustrie; Teilvorhaben: Additive Fertigung von Spritzguss-äquivalenten Vorserienteilen für medienführende Bauteile in zukünftigen BEV-Fahrzeugen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundeministerium für Wirtschaft und Energie",
+"epl": null,
+"von": 120001,
+"bis": 130000,
+"zweck": "Sicherheitsargumentation befähigendes AI Engineering über den gesamten Lebenszyklus einer KI-Funktion; Teilvorhaben: Modularisierung und Wiederverwendung von Data Analytics Komponenten.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundeministerium für Wirtschaft und Energie",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Embedded Integration von Verfahren der Künstlichen Intelligenz für eine verbesserte Objekterkennung im automatisierten Fahren; Teilvorhaben: Fahrzeugintegration und Erprobung.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 350007,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Michael Leiters",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001768/83518",
+"stand": "2026-09-03"
+}
+},
+{
+"name": "Michael Steiner",
+"funktion": "Stellvertretender Vorstandsvorsitzender und Mitglied des Vorstandes, Forschung und Entwicklung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001768/83518",
+"stand": "2026-09-03"
+}
+},
+{
+"name": "Matthias Becker",
+"funktion": "Mitglied des Vorstandes, Vertrieb und Marketing",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001768/83518",
+"stand": "2026-09-03"
+}
+},
+{
+"name": "Jochen Breckner",
+"funktion": "Mitglied des Vorstandes, Finanzen und IT",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001768/83518",
+"stand": "2026-09-03"
+}
+},
+{
+"name": "Christian Friedl",
+"funktion": "Mitglied des Vorstandes, Produktion und Logistik",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001768/83518",
+"stand": "2026-09-03"
+}
+},
+{
+"name": "Vera Schalwig",
+"funktion": "Mitglied des Vorstandes, Personal- und Sozialwesen",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001768/83518",
+"stand": "2026-09-03"
+}
+},
+{
+"name": "Joachim Scharnagl",
+"funktion": "Mitglied des Vorstandes, Beschaffung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001768/83518",
+"stand": "2026-09-03"
+}
+},
+{
+"name": "Florian Laudan",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001768/83518",
+"stand": "2026-09-03"
+}
+},
+{
+"name": "Thomas Hagg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001768/83518",
+"stand": "2026-09-03"
+}
+},
+{
+"name": "Jan Ohmstedt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001768/83518",
+"stand": "2026-09-03"
+}
+},
+{
+"name": "Dietrich Bruhn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001768/83518",
+"stand": "2026-09-03"
+}
+},
+{
+"name": "Jörg Vogelmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001768/83518",
+"stand": "2026-09-03"
+}
+},
+{
+"name": "Ibrahim Aslan",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001768/83518",
+"stand": "2026-09-03"
+}
+},
+{
+"name": "Daniela Rathe",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001768/83518",
+"stand": "2026-09-03"
+}
+},
+{
+"name": "Arne Siemens",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001768/83518",
+"stand": "2026-09-03"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 400001,
+"bis": 410000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/bf/e9/838272/Geschaefts-und_Nachhaltigkeitsbericht_2025_Porsche_AG.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001768/83518",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-03",
+"etikett": "Eigenangabe",
+"version": 24
+}
+]
+}

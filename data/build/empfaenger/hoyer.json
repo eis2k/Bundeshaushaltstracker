@@ -1,0 +1,117 @@
+{
+"id": "hoyer",
+"name": "Hoyer SE",
+"art": "unternehmen",
+"rechtsform": "Europäische Aktiengesellschaft (SE)",
+"sitz": "Visselhövede",
+"website": "www.hoyer.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004684",
+"eintrag_id": 66135,
+"version": 6,
+"stand": "2025-10-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004684/66135",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/a0/15/624496/Lobbyregister-Registereintraege-Detailansicht-R004684-2025-10-01_10-02-48.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Logistik und Mobilität",
+"epl": "12",
+"von": 150001,
+"bis": 160000,
+"zweck": "Förderung von Tank- und Ladeinfrastruktur KsI",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 150001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Thomas Hoyer",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004684/66135",
+"stand": "2025-10-01"
+}
+},
+{
+"name": "Markus Hoyer",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004684/66135",
+"stand": "2025-10-01"
+}
+},
+{
+"name": "Maximillian Hoffmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004684/66135",
+"stand": "2025-10-01"
+}
+},
+{
+"name": "Jan Wellmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004684/66135",
+"stand": "2025-10-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 30001,
+"bis": 40000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/f5/30/624495/2024-010-A-067-Hoyer-SE-Teil-Konzernabschluss-1.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004684/66135",
+"abgerufen": "2026-11-02",
+"stand": "2025-10-01",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

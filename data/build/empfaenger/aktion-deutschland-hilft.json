@@ -1,0 +1,303 @@
+{
+"id": "aktion-deutschland-hilft",
+"name": "Aktion Deutschland Hilft e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bonn",
+"website": "www.aktion-deutschland-hilft.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004689",
+"eintrag_id": 79898,
+"version": 8,
+"stand": "2026-07-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004689/79898",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/2a/13/799638/Lobbyregister-Registereintraege-Detailansicht-R004689-2026-07-01_13-22-03.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 100001,
+"bis": 110000,
+"zweck": "Journalismuspreis Humanitäre Hilfe Aktion Deutschland Hilft e.V. https://www.aktion-deutschland-hilft.de/de/mediathek/journalistenpreis/",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 100001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Carl Alexander Siebel",
+"funktion": "Kooptierter Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004689/79898",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Stefan Ewers",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004689/79898",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Sid Johann Peruvemba",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004689/79898",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Maria Regina Rüther",
+"funktion": "Hauptgeschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004689/79898",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Thilo Reichenbach",
+"funktion": "Geschäftsbereichsleitung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004689/79898",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Markus Holger Gieske",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004689/79898",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Janine Ursula Lietmeyer",
+"funktion": "Stellv. Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004689/79898",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Susanne Wesemann",
+"funktion": "Vorständin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004689/79898",
+"stand": "2026-07-01"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "abgeordneter_funktion",
+"person": "Annalena Baerbock",
+"funktion_person": "MdB, Bündnis 90 Die Grünen",
+"funktion_beim_empfaenger": "Vorsitzende des Kuratoriums, ehrenamtlich",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Annalena Baerbock (MdB, Bündnis 90 Die Grünen) ist laut bundestag.de Vorsitzende des Kuratoriums, ehrenamtlich bei Aktion Deutschland Hilft e.V.. Aktion Deutschland Hilft e.V. erhielt laut Lobbyregister Mittel von: Auswärtiges Amt.",
+"ausschuesse": [],
+"geld_aus": [
+"Auswärtiges Amt"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/B/baerbock_annalena-1043508",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Michael Brand",
+"funktion_person": "MdB, CDU/CSU",
+"funktion_beim_empfaenger": "Mitglied des Kuratoriums, ehrenamtlich",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Michael Brand (MdB, CDU/CSU) ist laut bundestag.de Mitglied des Kuratoriums, ehrenamtlich bei Aktion Deutschland Hilft e.V.. Aktion Deutschland Hilft e.V. erhielt laut Lobbyregister Mittel von: Auswärtiges Amt.",
+"ausschuesse": [],
+"geld_aus": [
+"Auswärtiges Amt"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/B/brand_michael-1043790",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Dr. Bärbel Kofler",
+"funktion_person": "MdB, SPD",
+"funktion_beim_empfaenger": "Mitglied des Kuratoriums, ehrenamtlich",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Dr. Bärbel Kofler (MdB, SPD) ist laut bundestag.de Mitglied des Kuratoriums, ehrenamtlich bei Aktion Deutschland Hilft e.V.. Aktion Deutschland Hilft e.V. erhielt laut Lobbyregister Mittel von: Auswärtiges Amt.",
+"ausschuesse": [],
+"geld_aus": [
+"Auswärtiges Amt"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/K/kofler_baerbel-1045482",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Aydan Özoğuz",
+"funktion_person": "MdB, SPD",
+"funktion_beim_empfaenger": "Mitglied des Kuratoriums, ehrenamtlich",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Aydan Özoğuz (MdB, SPD) ist laut bundestag.de Mitglied des Kuratoriums, ehrenamtlich bei Aktion Deutschland Hilft e.V.. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Sport und Ehrenamt; Auswärtiger Ausschuss. Aktion Deutschland Hilft e.V. erhielt laut Lobbyregister Mittel von: Auswärtiges Amt.",
+"ausschuesse": [
+"Ausschuss für Sport und Ehrenamt",
+"Auswärtiger Ausschuss"
+],
+"geld_aus": [
+"Auswärtiges Amt"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/O/oezoguz_aydan-1046460",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Dr. Johann David Wadephul",
+"funktion_person": "MdB, CDU/CSU",
+"funktion_beim_empfaenger": "Vorsitzender des Kuratoriums, ehrenamtlich, von Amts wegen (ab 06.05.2025)",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Dr. Johann David Wadephul (MdB, CDU/CSU) ist laut bundestag.de Vorsitzender des Kuratoriums, ehrenamtlich, von Amts wegen (ab 06.05.2025) bei Aktion Deutschland Hilft e.V.. Aktion Deutschland Hilft e.V. erhielt laut Lobbyregister Mittel von: Auswärtiges Amt.",
+"ausschuesse": [],
+"geld_aus": [
+"Auswärtiges Amt"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/W/wadephul_johann-1047914",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 83720001,
+"bis": 83730000
+},
+"mitgliedsbeitraege": {
+"von": 240001,
+"bis": 250000
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/07/da/799636/13333_Aktion-Deutschland-hilft_2025_TE-mit-Unterschriften.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004689/79898",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-01",
+"etikett": "Eigenangabe",
+"version": 8
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/B/baerbock_annalena-1043508",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/B/brand_michael-1043790",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/K/kofler_baerbel-1045482",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/O/oezoguz_aydan-1046460",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/W/wadephul_johann-1047914",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

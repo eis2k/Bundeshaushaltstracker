@@ -1,0 +1,359 @@
+{
+"id": "dechema-gesellschaft-fuer-chemische-technik-und-biotechnolog",
+"name": "DECHEMA Gesellschaft für Chemische Technik und Biotechnologie e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Frankfurt",
+"website": "www.dechema.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003892",
+"eintrag_id": 71321,
+"version": 8,
+"stand": "2026-04-28",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003892/71321",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/64/34/728726/Lobbyregister-Registereintraege-Detailansicht-R003892-2026-04-28_15-26-24.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Umweltschutz",
+"epl": null,
+"von": 30001,
+"bis": 40000,
+"zweck": "Zuschussvertrag Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH im Rahmen des Auftrags des BMU \"Internationales Kompetenzzentrum für Nachhaltige Chemie Phase 2: Konsolidierung und Weiterentwicklung\" [ISC3]",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 90001,
+"bis": 100000,
+"zweck": "Fördermaßnahme „Ressourceneffiziente Stadtquartiere für die Zukunft (RES:Z)\"; BMFTR-Leitinitiative Zukunftsstadt; Rahmenprogramm „Forschung für Nachhaltige Entwicklung – FONA3\" [ReQ+]",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 100001,
+"bis": 110000,
+"zweck": "Förderrichtlinie \"Maßgeschneiderte biobasierte Inhaltsstoffe für eine wettbewerbsfähige Bioökonomie\" im Rahmen der \"Nationalen Forschungsstrategie BioÖkonomie 2030\" des BMFTR [ForceYield 2.2]",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 320001,
+"bis": 330000,
+"zweck": "Förderrichtlinie \"Innovationsräume Bioökonomie\" des BMFTR; Nationale Forschungsstrategie BioÖkonomie 2030 [BioBall - TransRegBio]",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Forschungsgemeinschaft",
+"epl": null,
+"von": 70001,
+"bis": 80000,
+"zweck": "Programm Nationale Dateninfrastruktur (NFDI) [NFDI4Cat]",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 210001,
+"bis": 220000,
+"zweck": "Förderrichtlinie „Vermeidung von klimarelevanten Prozessemissionen in der Industrie (KlimPro-Industrie)“; Rahmenprogramm „Forschung für Nachhaltige Entwicklung“ (FONA3) des BMFTR [ReInvent]",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 350001,
+"bis": 360000,
+"zweck": "BMFTR Kopernikus-Projekte für die Energiewende [Kopernikus P2X III]",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 210001,
+"bis": 220000,
+"zweck": "Reallabore der Energiewende des BMWE; 7. Energieforschungsprogramm – Innovationen für die Energiewende [Trans4Real]",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 830001,
+"bis": 840000,
+"zweck": "Leitprojekte des BMFTR zur Umsetzung der Nationalen Wasserstoffstrategie [H2Giga_TPE]",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 150001,
+"bis": 160000,
+"zweck": "Themenfeld „Spurenstoffe, Krankheitserreger und antibiotikaresistente Bakterien im Wasserkreislauf - von der Quelle bis zur Mündung - und deren Auswirkungen auf die menschliche Gesundheit\" im Rahmen des EU ERA-NET Cofund AquaticPollutants [AP-TransNet]",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+"epl": "16",
+"von": 150001,
+"bis": 160000,
+"zweck": "Internationale Klimaschutzinitiative (IKI) des BMUKN [PTX Pathways]",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 90001,
+"bis": 100000,
+"zweck": "Leitprojekte des BMFTR zur Umsetzung der Nationalen Wasserstoffstrategie: Digitales Stoffstrominformationsmanagement - Entwicklung eines Konzeptes für ein digitales Stoffstrominformationsmanagement zur Unterstützung der Circular Economy [ReNaRe]",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 240001,
+"bis": 250000,
+"zweck": "Leitprojekte des BMFTR zur Umsetzung der Nationalen Wasserstoffstrategie: PtX-Wind Offshore Power-to-X-Prozesse [H2Mare(VB2)]",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 180001,
+"bis": 190000,
+"zweck": "Leitprojekte des BMFTR zur Umsetzung der Nationalen Wasserstoffstrategie: H2Mare - Verbundprojekt TransferWind [TransferWind]",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 300001,
+"bis": 310000,
+"zweck": "BMFTR-Fördermaßnahme „Ressourceneffiziente Kreislaufwirtschaft – Kunststoffrecyclingtechnologien (KuRT) [KuRTplus]",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 300001,
+"bis": 310000,
+"zweck": "Leitprojekte des BMFTR zur Umsetzung der Nationalen Wasserstoffstrategie: TransHyDE-Sys-DEC Interaktion der industriellen Transformation und Infrastrukturentwicklung, Schwerpunkt (petro-) chemische Industrie [TransHyDE-Sys]",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 160001,
+"bis": 170000,
+"zweck": "BMFTR-Fördermaßnahme zur Förderung von Nachwuchsgruppen zu den Themen „künstliche Photosynthese“ und „Nutzung alternativer Rohstoffe zur Wasserstofferzeugung“ (SINATRA) [MyWay]",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 320001,
+"bis": 330000,
+"zweck": "BMFTR - Partnerschaft Deutschland - Namibia zu grünem Wasserstoff [GreenH2Namibia]",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 180001,
+"bis": 190000,
+"zweck": "BMFTR-Fördermaßnahme Nachhaltige Grundwasserbewirtschaftung (LURCH) [LURCHplus]",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 390001,
+"bis": 400000,
+"zweck": "BMFTR Material-Hub-Initiative: MaterialNeutral - Ressourcensouveränität durch Materialinnovationen [MANTRA]",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+"epl": "16",
+"von": 520001,
+"bis": 530000,
+"zweck": "Zuschussvertrag Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH im Rahmen des Auftrags des BMUKN \"Internationales Kompetenzzentrum für Nachhaltige Chemie Phase 3\" [ISC3]",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Forschungsgemeinschaft",
+"epl": null,
+"von": 30001,
+"bis": 40000,
+"zweck": "Programm Nationale Dateninfrastruktur (NFDI) [NFDI4Cat 2.0]",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 160001,
+"bis": 170000,
+"zweck": "Industrielle Gemeinschaftsforschung - Collective Research Networkinh (CORNET) - Conversion of hemicellulose to coatings [HEMICOAT]",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 40001,
+"bis": 50000,
+"zweck": "Forschungsemissionen für die Energiewende im 8. Energieforschungsrahmenprogramm: Digitale Schlüsseltechnologien zur Bestimmung der Sstoffdaten für effiziente Stofftrennung in der Chemischen Industrie [DiKey]",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 5420024,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Andreas Förster",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003892/71321",
+"stand": "2026-04-28"
+}
+},
+{
+"name": "Wolfram Stichert",
+"funktion": "Vorsitzender des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003892/71321",
+"stand": "2026-04-28"
+}
+},
+{
+"name": "Thomas Hirth",
+"funktion": "Schatzmeister ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003892/71321",
+"stand": "2026-04-28"
+}
+},
+{
+"name": "Kathrin Rübberdt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003892/71321",
+"stand": "2026-04-28"
+}
+},
+{
+"name": "Florian Ausfelder",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003892/71321",
+"stand": "2026-04-28"
+}
+},
+{
+"name": "Thomas Track-Schwind",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003892/71321",
+"stand": "2026-04-28"
+}
+},
+{
+"name": "Alexis Bazzanella",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003892/71321",
+"stand": "2026-04-28"
+}
+},
+{
+"name": "Katja Wendler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003892/71321",
+"stand": "2026-04-28"
+}
+},
+{
+"name": "Sebastian Hiessl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003892/71321",
+"stand": "2026-04-28"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 480001,
+"bis": 490000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/0d/0f/728725/Testat-DEV-31-12-2024-signed.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003892/71321",
+"abgerufen": "2026-11-02",
+"stand": "2026-04-28",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

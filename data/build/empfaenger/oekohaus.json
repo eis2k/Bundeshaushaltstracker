@@ -1,0 +1,137 @@
+{
+"id": "oekohaus",
+"name": "Ökohaus e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Rostock",
+"website": "https://oekohaus-rostock.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003952",
+"eintrag_id": 83396,
+"version": 10,
+"stand": "2026-09-18",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003952/83396",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ac/56/843294/Lobbyregister-Registereintraege-Detailansicht-R003952-2026-09-18_09-48-11.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Stiftung Nord-Süd-Brücken",
+"epl": null,
+"von": 60001,
+"bis": 70000,
+"zweck": "1) Projektmittel Eine-Welt-Promotor:innenprogramm",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Förderprogramm Entwicklungspolitische Bildungsarbeit FEB / Engagement Global gGmbH",
+"epl": null,
+"von": 30001,
+"bis": 40000,
+"zweck": "Projektmittel entwicklungspolitische Bildungsarbeit",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Migration und Flüchtlinge",
+"epl": "06",
+"von": 360001,
+"bis": 370000,
+"zweck": "Leisungen für Psychozioles Zentrum Koop PSZ Brandenburg",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 450003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Mariam Daoud",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003952/83396",
+"stand": "2026-09-18"
+}
+},
+{
+"name": "Henrike Schwan",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003952/83396",
+"stand": "2026-09-18"
+}
+},
+{
+"name": "Sven Meister",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003952/83396",
+"stand": "2026-09-18"
+}
+},
+{
+"name": "Birgit Witte",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003952/83396",
+"stand": "2026-09-18"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/25/20/843293/190657-Jahresabschluss-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003952/83396",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-18",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

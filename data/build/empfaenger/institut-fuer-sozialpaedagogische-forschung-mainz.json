@@ -1,0 +1,112 @@
+{
+"id": "institut-fuer-sozialpaedagogische-forschung-mainz",
+"name": "Institut für Sozialpädagogische Forschung Mainz gGmbH",
+"art": "verein_stiftung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Mainz",
+"website": "https://www.ism-mz.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007349",
+"eintrag_id": 82254,
+"version": 4,
+"stand": "2026-08-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007349/82254",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ff/50/824999/Lobbyregister-Registereintraege-Detailansicht-R007349-2026-08-03_14-05-18.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Asyl-, Migrations- und Integrationsfonds",
+"epl": null,
+"von": 210001,
+"bis": 220000,
+"zweck": "AMIF SBs",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Asyl-, Migrations- und Integrationsfonds",
+"epl": null,
+"von": 440001,
+"bis": 450000,
+"zweck": "AMIF MIKKS",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Projektträger Jülich, Forschungszentrum Jülich GmbH",
+"epl": "30",
+"von": 100001,
+"bis": 110000,
+"zweck": "DATI Pilot",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 750003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Heinz Müller",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007349/82254",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Elisabeth Schmutz",
+"funktion": "stellv. Geschäftsführerin (Prokuristin)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007349/82254",
+"stand": "2026-08-03"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/b0/46/824998/290431-JA-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007349/82254",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-03",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

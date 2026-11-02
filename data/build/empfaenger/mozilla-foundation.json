@@ -1,0 +1,108 @@
+{
+"id": "mozilla-foundation",
+"name": "Mozilla Foundation",
+"art": "sonstige",
+"rechtsform": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+"sitz": "CA 94105 San Francisco",
+"website": "https://foundation.mozilla.org/de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006592",
+"eintrag_id": 71767,
+"version": 6,
+"stand": "2026-03-16",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006592/71767",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/50/a0/706608/Lobbyregister-Registereintraege-Detailansicht-R006592-2026-03-16_21-30-52.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Gesellschaft für Internationale Zusammenarbeit (GIZ)",
+"epl": null,
+"von": 190001,
+"bis": 200000,
+"zweck": "GIZ-Förderung für zwei Projekte: 1) Projekt zu Lizenzen für offene Sprachdaten: \"Our Language, Our Data: Co-Creating Equitable Governance Models with African Language Communities\" 2) Projekt zum Daten-Rahmenkonzept der Afrikanischen Union: \"Promoting the Implementation of the African Union Data Policy Framework\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 190001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Mark Surman",
+"funktion": "President",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006592/71767",
+"stand": "2026-03-16"
+}
+},
+{
+"name": "Angela Plohman",
+"funktion": "Chief Operating Officer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006592/71767",
+"stand": "2026-03-16"
+}
+},
+{
+"name": "Maximilian Gahntz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006592/71767",
+"stand": "2026-03-16"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 21810001,
+"bis": 21820000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 80001,
+"bis": 90000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/01/4d/706607/Mozilla-Fdn-2024-AuditedFinancials.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006592/71767",
+"abgerufen": "2026-11-02",
+"stand": "2026-03-16",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

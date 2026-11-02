@@ -1,0 +1,127 @@
+{
+"id": "stiftung-naturlandschaften-brandenburg-die-wildnisstiftung",
+"name": "Stiftung Naturlandschaften Brandenburg - Die Wildnisstiftung",
+"art": "verein_stiftung",
+"rechtsform": "Rechtsfähige Stiftung bürgerlichen Rechts",
+"sitz": "Potsdam",
+"website": "https://www.wildnisstiftung.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002545",
+"eintrag_id": 84323,
+"version": 13,
+"stand": "2026-08-06",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002545/84323",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/52/1b/827038/Lobbyregister-Registereintraege-Detailansicht-R002545-2026-08-06_08-16-19.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Waldklimafonds: Bundesministerium für Ernährung und Landwirtschaft, Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit, Fachagentur Nachwachsende Rohstoffe e.V.",
+"epl": null,
+"von": 30001,
+"bis": 40000,
+"zweck": "Forschungsprojekt PYROPHOB",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+"epl": "16",
+"von": 380001,
+"bis": 390000,
+"zweck": "Flächenkauf Wildnisgebiet Heidehof",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 410002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Andreas Meißner",
+"funktion": "Geschäftsführender Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002545/84323",
+"stand": "2026-08-06"
+}
+},
+{
+"name": "Antje Wurz",
+"funktion": "Geschäftsführender Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002545/84323",
+"stand": "2026-08-06"
+}
+},
+{
+"name": "Christoph Molkenbur",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002545/84323",
+"stand": "2026-08-06"
+}
+},
+{
+"name": "Christof  Schenck",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002545/84323",
+"stand": "2026-08-06"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 120001,
+"bis": 130000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/68/0e/827037/Jahresbericht_2025_Kurzbericht_web.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002545/84323",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-06",
+"etikett": "Eigenangabe",
+"version": 13
+}
+]
+}

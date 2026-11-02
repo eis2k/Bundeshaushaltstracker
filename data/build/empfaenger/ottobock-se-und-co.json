@@ -1,0 +1,201 @@
+{
+"id": "ottobock-se-und-co",
+"name": "Ottobock SE & Co. KGaA",
+"art": "unternehmen",
+"rechtsform": "Kommanditgesellschaft auf Aktien (KGaA)",
+"sitz": "Duderstadt",
+"website": "corporate.ottobock.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004422",
+"eintrag_id": 87301,
+"version": 9,
+"stand": "2026-10-09",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004422/87301",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/2a/f2/858955/Lobbyregister-Registereintraege-Detailansicht-R004422-2026-10-09_08-28-12.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Deutsches Bundesministerium für Bildung und Forschung",
+"epl": null,
+"von": 140001,
+"bis": 150000,
+"zweck": "Förderprojekte QHMI2, Patch2Patient, HapticScan, OrthoSuper und SimPROLEG",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 140001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Oliver Jakobi",
+"funktion": "CEO / CSO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004422/87301",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Arne Kreitz",
+"funktion": "CFO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004422/87301",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Arne Jörn",
+"funktion": "COO/ CTO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004422/87301",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Martin Böhm",
+"funktion": "CXO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004422/87301",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Lukas Eckermann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004422/87301",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Philipp Hoefer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004422/87301",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Karlotta Koperski",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2022-10"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004422/87301",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Merle Florstedt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004422/87301",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Stefan Grabl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004422/87301",
+"stand": "2026-10-09"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Karlotta Koperski",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2022-10",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Karlotta Koperski ist laut Lobbyregister Interessenvertretung bei Ottobock SE & Co. KGaA und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2022-10. Ottobock SE & Co. KGaA erhielt laut Lobbyregister Mittel von: Deutsches Bundesministerium für Bildung und Forschung.",
+"ausschuesse": [],
+"geld_aus": [
+"Deutsches Bundesministerium für Bildung und Forschung"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004422/87301",
+"stand": "2026-10-09"
+}
+],
+"stand": "2026-10-09"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 90001,
+"bis": 100000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/9b/b7/858954/Ottobock_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004422/87301",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-09",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

@@ -1,0 +1,114 @@
+{
+"id": "landessportbund-niedersachsen",
+"name": "Landessportbund Niedersachsen",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Hannover",
+"website": "www.lsb-niedersachsen.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003040",
+"eintrag_id": 85786,
+"version": 14,
+"stand": "2026-09-14",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003040/85786",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/81/a1/841607/Lobbyregister-Registereintraege-Detailansicht-R003040-2026-09-14_09-32-21.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bund",
+"epl": "60",
+"von": 1960001,
+"bis": 1970000,
+"zweck": "Leistungssportförderung des Bundes für das Land Niedersachsen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bund",
+"epl": "60",
+"von": 850001,
+"bis": 860000,
+"zweck": "Integration durch Sport",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundeszentrale für politische Bildung",
+"epl": "06",
+"von": 60001,
+"bis": 70000,
+"zweck": "Programm \"Sport mit Courage\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 2870003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Reinhard Rawe",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003040/85786",
+"stand": "2026-09-14"
+}
+},
+{
+"name": "Marco Lutz",
+"funktion": "Stellvertretender Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003040/85786",
+"stand": "2026-09-14"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 13340001,
+"bis": 13350000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/c5/0e/841605/Jahresabschluss-LSB_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003040/85786",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-14",
+"etikett": "Eigenangabe",
+"version": 14
+}
+]
+}

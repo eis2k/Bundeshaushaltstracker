@@ -1,0 +1,96 @@
+{
+"id": "nextor",
+"name": "nextOR GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Büren",
+"website": "www.next-or.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001669",
+"eintrag_id": 71676,
+"version": 6,
+"stand": "2026-05-04",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001669/71676",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/04/b7/731056/Lobbyregister-Registereintraege-Detailansicht-R001669-2026-05-04_11-24-49.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Forschungszentrum Jülich GmbH",
+"epl": null,
+"von": 30001,
+"bis": 40000,
+"zweck": "Medi.NET ist ein digitales Gesundheitsprojekt zur sicheren Vernetzung von Leistungserbringern und Patienten: Datenaustausch, Telemedizin und Prozessdigitalisierung über interoperable Schnittstellen – zur besseren Versorgung und effizienteren Abläufen.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 30001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Marcus Goerke",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001669/71676",
+"stand": "2026-05-04"
+}
+},
+{
+"name": "Michael Ernst",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001669/71676",
+"stand": "2026-05-04"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/45/c9/731054/Jahresabschluss-2024_digitales-Ansichtsexemplar.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001669/71676",
+"abgerufen": "2026-11-02",
+"stand": "2026-05-04",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

@@ -1,0 +1,115 @@
+{
+"id": "deutsches-museum-von-meisterwerken-der-naturwissenschaft-und",
+"name": "Deutsches Museum von Meisterwerken der Naturwissenschaft und Technik",
+"art": "oeffentlich",
+"rechtsform": "Anstalt des öffentlichen Rechts",
+"sitz": "München",
+"website": "https://www.deutsches-museum.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003818",
+"eintrag_id": 57405,
+"version": 6,
+"stand": "2025-07-02",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003818/57405",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/d9/b3/575042/Lobbyregister-Registereintraege-Detailansicht-R003818-2025-07-02_15-28-40.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesrepublik Deutschland",
+"epl": "60",
+"von": 47360001,
+"bis": 47370000,
+"zweck": "Zuwendung der Bundesrepublik Deutschland",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 47360001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Michael Decker",
+"funktion": "Generaldirektor",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003818/57405",
+"stand": "2025-07-02"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "abgeordneter_funktion",
+"person": "Dorothee Bär",
+"funktion_person": "MdB, CDU/CSU",
+"funktion_beim_empfaenger": "Mitglied des Kuratoriums, von Amts wegen (ab 06.05.2025)",
+"kategorie": "Funktionen in Körperschaften und Anstalten des öffentlichen Rechts",
+"abgleich": "exakt",
+"satz": "Dorothee Bär (MdB, CDU/CSU) ist laut bundestag.de Mitglied des Kuratoriums, von Amts wegen (ab 06.05.2025) bei Deutsches Museum von Meisterwerken der Naturwissenschaft und Technik. Deutsches Museum von Meisterwerken der Naturwissenschaft und Technik erhielt laut Lobbyregister Mittel von: Bundesrepublik Deutschland.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesrepublik Deutschland"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/B/baer_dorothee-1043526",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 1850001,
+"bis": 1860000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/6d/47/575041/VN-2023-fuer-Druck-Seite-1-26.pdf",
+"geschaeftsjahr": "2023",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003818/57405",
+"abgerufen": "2026-11-02",
+"stand": "2025-07-02",
+"etikett": "Eigenangabe",
+"version": 6
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/B/baer_dorothee-1043526",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

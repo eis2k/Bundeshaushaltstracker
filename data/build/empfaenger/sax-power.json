@@ -1,0 +1,117 @@
+{
+"id": "sax-power",
+"name": "SAX Power GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Erbach",
+"website": "https://sax-power.net/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007872",
+"eintrag_id": 75266,
+"version": 2,
+"stand": "2026-04-16",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007872/75266",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c3/f9/723131/Lobbyregister-Registereintraege-Detailansicht-R007872-2026-04-16_08-43-14.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Projektträger Jülich für das Bundesministerium für Wirtschaft und Energie",
+"epl": "30",
+"von": 1240001,
+"bis": 1250000,
+"zweck": "Zuwendung aus dem Bundeshaushalt, Einzelplan 09, Kapitel 03, Titel 68608, Haushaltsjahr 2025 für das Vorhaben: „Verbundvorhaben: Next-MeBa – Megawatt-Batteriespeicher der nächsten Generation: hocheffizient, sicher, kostengünstig: Teilvorhaben: SAX Power“",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1240001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Lei Shen",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007872/75266",
+"stand": "2026-04-16"
+}
+},
+{
+"name": "Marcel Seidenspinner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007872/75266",
+"stand": "2026-04-16"
+}
+},
+{
+"name": "Oliver Fenker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007872/75266",
+"stand": "2026-04-16"
+}
+},
+{
+"name": "Rene Windisch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007872/75266",
+"stand": "2026-04-16"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/30/3a/723130/SaxPowerJahresabschluss2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007872/75266",
+"abgerufen": "2026-11-02",
+"stand": "2026-04-16",
+"etikett": "Eigenangabe",
+"version": 2
+}
+]
+}

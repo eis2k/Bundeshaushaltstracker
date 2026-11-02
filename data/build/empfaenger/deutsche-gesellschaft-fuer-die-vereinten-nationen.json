@@ -1,0 +1,263 @@
+{
+"id": "deutsche-gesellschaft-fuer-die-vereinten-nationen",
+"name": "Deutsche Gesellschaft für die Vereinten Nationen e.V. (DGVN)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.dgvn.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001926",
+"eintrag_id": 78011,
+"version": 11,
+"stand": "2026-06-17",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001926/78011",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/9f/ef/761847/Lobbyregister-Registereintraege-Detailansicht-R001926-2026-06-17_12-32-54.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 1340001,
+"bis": 1350000,
+"zweck": "Institutionelle Zuwendung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 210001,
+"bis": 220000,
+"zweck": "Projektförderung \"Förderung öffentlichkeitswirksamer Maßnahmen im Bereich der Entwicklungszusammenarbeit der Vereinten Nationen\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1550002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ekkehard Griep",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Senior UN Policy Advisor",
+"stelle": "Bundesministerium der Verteidigung (BMVg) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2022-09"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001926/78011",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Karin Kortmann",
+"funktion": "stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Regionalbüro Deutschland-West Leitung",
+"stelle": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001926/78011",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Carolin Maluck",
+"funktion": "stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001926/78011",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Ekkehard Strauß",
+"funktion": "stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001926/78011",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Alfredo Märker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001926/78011",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Felix Deist",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001926/78011",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Patrick Rosenow",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001926/78011",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Monique Lehmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001926/78011",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Oliver Hasenkamp",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001926/78011",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Peter Wittschorek",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001926/78011",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Sophie Humer-Hager",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001926/78011",
+"stand": "2026-06-17"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Ekkehard Griep",
+"funktion_person": "Senior UN Policy Advisor, Bundesministerium der Verteidigung (BMVg) oder dessen Geschäftsbereich, bis 2022-09",
+"funktion_beim_empfaenger": "Vorsitzender",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Ekkehard Griep ist laut Lobbyregister Vorsitzender bei Deutsche Gesellschaft für die Vereinten Nationen e.V. (DGVN) und hatte zuvor eine öffentliche Funktion: Senior UN Policy Advisor, Bundesministerium der Verteidigung (BMVg) oder dessen Geschäftsbereich, bis 2022-09. Deutsche Gesellschaft für die Vereinten Nationen e.V. (DGVN) erhielt laut Lobbyregister Mittel von: Auswärtiges Amt; Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung.",
+"ausschuesse": [],
+"geld_aus": [
+"Auswärtiges Amt",
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001926/78011",
+"stand": "2026-06-17"
+}
+],
+"stand": "2026-06-17"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Karin Kortmann",
+"funktion_person": "Regionalbüro Deutschland-West Leitung, Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+"funktion_beim_empfaenger": "stellvertretende Vorsitzende",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Karin Kortmann ist laut Lobbyregister stellvertretende Vorsitzende bei Deutsche Gesellschaft für die Vereinten Nationen e.V. (DGVN) und hatte zuvor eine öffentliche Funktion: Regionalbüro Deutschland-West Leitung, Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH. Deutsche Gesellschaft für die Vereinten Nationen e.V. (DGVN) erhielt laut Lobbyregister Mittel von: Auswärtiges Amt; Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung.",
+"ausschuesse": [],
+"geld_aus": [
+"Auswärtiges Amt",
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001926/78011",
+"stand": "2026-06-17"
+}
+],
+"stand": "2026-06-17"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 130001,
+"bis": 140000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/cc/ad/761846/TOP_2026-06-08_Gesamt_VWN_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001926/78011",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-17",
+"etikett": "Eigenangabe",
+"version": 11
+}
+]
+}

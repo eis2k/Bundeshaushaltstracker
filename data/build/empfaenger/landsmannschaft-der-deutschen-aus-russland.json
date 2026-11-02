@@ -1,0 +1,142 @@
+{
+"id": "landsmannschaft-der-deutschen-aus-russland",
+"name": "Landsmannschaft der Deutschen aus Russland e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Stuttgart",
+"website": "lmdr.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003911",
+"eintrag_id": 84213,
+"version": 6,
+"stand": "2026-10-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003911/84213",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/b0/ef/866931/Lobbyregister-Registereintraege-Detailansicht-R003911-2026-10-29_13-54-57.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BDV",
+"epl": null,
+"von": 970001,
+"bis": 980000,
+"zweck": "MBE Förderung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMI",
+"epl": "06",
+"von": 10001,
+"bis": 20000,
+"zweck": "Grenzüberschreitende Maßnahmen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMI/BAMF",
+"epl": "06",
+"von": 540001,
+"bis": 550000,
+"zweck": "Diverse Integrationsprojekte",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMI/BAMF",
+"epl": "06",
+"von": 20001,
+"bis": 30000,
+"zweck": "Multiplikatoren Schulungen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1540004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Norbert Strohmaier",
+"funktion": "Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003911/84213",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Inna Dietz-Kravtsov",
+"funktion": "Stellv. Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003911/84213",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Walter Gauks",
+"funktion": "Stellv. Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003911/84213",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Roman Ramenski",
+"funktion": "Stellv. Vositzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003911/84213",
+"stand": "2026-10-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 180001,
+"bis": 190000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/38/f0/866930/214394_1_2025_Jahresuebersicht.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003911/84213",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-29",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

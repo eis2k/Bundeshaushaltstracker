@@ -1,0 +1,144 @@
+{
+"id": "german-water-partnership",
+"name": "German Water Partnership e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.germanwaterpartnership.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001081",
+"eintrag_id": 78663,
+"version": 9,
+"stand": "2026-06-10",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001081/78663",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/d1/5b/755057/Lobbyregister-Registereintraege-Detailansicht-R001081-2026-06-10_16-33-31.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 130001,
+"bis": 140000,
+"zweck": "Kammer- und Verbandspartnerschaft GAPWAS Cote d´Ivoire PN 2022.1003.7",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammmenarbeit und Entwicklung (BMZ)",
+"epl": null,
+"von": 180001,
+"bis": 190000,
+"zweck": "Partner Afrika Projekt im Rahmen der Sonderinitiative Ausbildung und Beschäftigung Uganda, Ruanda, Senegal PN 2021.0217.6",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)",
+"epl": "23",
+"von": 20001,
+"bis": 30000,
+"zweck": "Betreiberplattform zur Stärkung von Partnerschaften kommunaler Unternehmen weltweit, Vertr. 81263121/81309777",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt, PTKA KIT Campus Nord",
+"epl": "30",
+"von": 40001,
+"bis": 50000,
+"zweck": "Vernetzungs- und Transfervorhaben WASANet: Hauptphase Südliches Afrika, Teilprojekt 2",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 370004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Boris Greifeneder",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001081/78663",
+"stand": "2026-06-10"
+}
+},
+{
+"name": "Georg Huber",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001081/78663",
+"stand": "2026-06-10"
+}
+},
+{
+"name": "Ingo Hannemann",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001081/78663",
+"stand": "2026-06-10"
+}
+},
+{
+"name": "Alexandra Ervenich",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001081/78663",
+"stand": "2026-06-10"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 680001,
+"bis": 690000
+},
+"lobbyausgaben": {
+"von": 50001,
+"bis": 60000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/bc/13/755056/2025_Bilanz-GWP.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001081/78663",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-10",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

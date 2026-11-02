@@ -1,0 +1,119 @@
+{
+"id": "deutsch-emiratische-industrie-und-handelskammer",
+"name": "Deutsch-Emiratische Industrie- und Handelskammer (AHK)",
+"art": "verein_stiftung",
+"rechtsform": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+"sitz": "Dubai",
+"website": "https://vae.ahk.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003494",
+"eintrag_id": 81158,
+"version": 9,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003494/81158",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/62/70/792755/Lobbyregister-Registereintraege-Detailansicht-R003494-2026-06-30_15-27-48.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 1810001,
+"bis": 1820000,
+"zweck": "Zuwendung im Wege der Projektförderung als Anteilfinanzierung, gemäß eines Beschlusses des deutschen Bundestags, sowie Zuwendungen für besondere Zwecke (Vollfinanzierung).",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1810001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Martin Henkelmann",
+"funktion": "CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003494/81158",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Karin Zangerl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003494/81158",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Daniela Calligaro",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003494/81158",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Ilef Ajra",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003494/81158",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 680001,
+"bis": 690000
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/76/66/792754/AHK-UAE-Audit-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003494/81158",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

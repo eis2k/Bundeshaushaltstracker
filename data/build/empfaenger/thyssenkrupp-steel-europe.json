@@ -1,0 +1,359 @@
+{
+"id": "thyssenkrupp-steel-europe",
+"name": "thyssenkrupp Steel Europe AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Duisburg",
+"website": "www.thyssenkrupp-steel.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001828",
+"eintrag_id": 84800,
+"version": 10,
+"stand": "2026-09-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001828/84800",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/19/7b/847240/Lobbyregister-Registereintraege-Detailansicht-R001828-2026-09-24_17-57-50.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 200001,
+"bis": 210000,
+"zweck": "H2Stahl - Wasserstofftechnologien zur schrittweisen Dekarbonisierung der Stahlindustrie - Forschungsvorhaben für den Wasserstoff-Hochofen.",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "Verbundprojekt Klima Pro: Schaffung einer alternativen Verwendung einer auf DRI-Basis erzeugten Elektroofenschlacke für die Zementindustrie zur Verringerung der CO2-Emissionen (SAVE_CO2)",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 60001,
+"bis": 70000,
+"zweck": "FSCM-Future Sustainable Car Materials ; Teilvorhaben: Hoch- und höchstfeste Stähle",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 30001,
+"bis": 40000,
+"zweck": "Nutzung von CO2 im Heißwind zur Effizienzsteigerung im Hochofen (NuC0Win)",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "\"Vermeidung von CO2-Emissionen in der Stahlindustrie durch Einsatz von Wasserstoff an diskontinuierlich betriebenen Thermoprozessanlagen am Beispiel von Haubenglühen (H2-DisTherPro)\"",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 50001,
+"bis": 60000,
+"zweck": "Car2Car - Kreislauffähige, nachhaltige Fahrzeugverwertungskonzepte; Teilvorhaben: Evaluierung des Einsatzes von Post-Consumer-Automobilschrotten",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 40001,
+"bis": 50000,
+"zweck": "EPiCoaT - Energieeffiziente Presshärteprozesse mit innovativen Beschichtungen und fortschrittlichen Technologien; Teilvorhaben: Entwicklung und Analysen von Blechbeschichtungen für die Warmformgebung und Übertragung dieser auf kontinuierliche Bandprozesse",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "BMBF/BMFTR",
+"epl": "30",
+"von": 30001,
+"bis": 40000,
+"zweck": "SynErgie3 - Hybrider Stahlbandofen",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 440008,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Marie Jaroni",
+"funktion": "Chief Executive Officer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001828/84800",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Philipp Conze",
+"funktion": "CFO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001828/84800",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Wilfired von Rath",
+"funktion": "CHRO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001828/84800",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Marco Richrath",
+"funktion": "Chief Operating Officer (COO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001828/84800",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Georgios Giovanakis",
+"funktion": "komm. Leitung Ressort Chief Sales Officer (CSO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001828/84800",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Gerrit Riemer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001828/84800",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Erika Mink-Zaghloul",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001828/84800",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Sophia Hartmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001828/84800",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Sandra Reus",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001828/84800",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Hans-Jörn Weddige",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001828/84800",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Sarah Rerbal",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001828/84800",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Ulrike Stubenrauch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001828/84800",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Peter Kirchesch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001828/84800",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Mario van Hall",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001828/84800",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Julian Schorpp",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001828/84800",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Marcel Zok",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001828/84800",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Warrings Hero",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_GOVERNMENT",
+"funktion": "Bundeskanzler/-in",
+"stelle": "Bundesregierung",
+"beendet": true,
+"ende": "2026-09"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001828/84800",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Raphael Büschel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001828/84800",
+"stand": "2026-09-24"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Warrings Hero",
+"funktion_person": "Bundeskanzler/-in, Bundesregierung, bis 2026-09",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Warrings Hero ist laut Lobbyregister Interessenvertretung bei thyssenkrupp Steel Europe AG und hatte zuvor eine öffentliche Funktion: Bundeskanzler/-in, Bundesregierung, bis 2026-09. thyssenkrupp Steel Europe AG erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Klimaschutz; BMWK; BMBF; BMBF/BMFTR.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Wirtschaft und Klimaschutz",
+"BMWK",
+"BMBF",
+"BMBF/BMFTR"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001828/84800",
+"stand": "2026-09-24"
+}
+],
+"stand": "2026-09-24"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1680001,
+"bis": 1690000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/72/47/847231/Geschaeftsbericht_2024_2025_der_thyssenkrupp_AG_WEB-1.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001828/84800",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-24",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

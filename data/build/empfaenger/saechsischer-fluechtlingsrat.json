@@ -1,0 +1,169 @@
+{
+"id": "saechsischer-fluechtlingsrat",
+"name": "Sächsischer Flüchtlingsrat e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Dresden",
+"website": "www.saechsischer-fluechtlingsrat.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006953",
+"eintrag_id": 79042,
+"version": 9,
+"stand": "2026-06-14",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006953/79042",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/d4/52/757991/Lobbyregister-Registereintraege-Detailansicht-R006953-2026-06-14_17-32-24.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Arbeit und Soziales",
+"epl": "11",
+"von": 60001,
+"bis": 70000,
+"zweck": "Förderung des Projektes IBAS ProFlex im Rahmen des ESF-Plus-Programms „Integration durch Qualifizierung – IQ“",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Arbeit und Soziales",
+"epl": "11",
+"von": 130001,
+"bis": 140000,
+"zweck": "Förderung des Projektes RESQUE forward im Rahmen des ESF-Plus-Programms „„WIR - Netzwerke integrieren Geflüchtete in den regionalen Arbeitsmarkt\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Migration und Flüchtlinge",
+"epl": "06",
+"von": 160001,
+"bis": 170000,
+"zweck": "Förderung einer behördenunabhängigen Asylverfahrensberatung nach § 12a AsylG",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 350003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Dajana Strunz",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006953/79042",
+"stand": "2026-06-14"
+}
+},
+{
+"name": "Klara Henzchen",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006953/79042",
+"stand": "2026-06-14"
+}
+},
+{
+"name": "Hannah Lena Franke",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006953/79042",
+"stand": "2026-06-14"
+}
+},
+{
+"name": "Antje Odermann",
+"funktion": "Schatzmeisterin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006953/79042",
+"stand": "2026-06-14"
+}
+},
+{
+"name": "Corinna Emmely Drexler",
+"funktion": "Stellvertretende Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006953/79042",
+"stand": "2026-06-14"
+}
+},
+{
+"name": "Kristian Garthus-Niegel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006953/79042",
+"stand": "2026-06-14"
+}
+},
+{
+"name": "Angela Müller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006953/79042",
+"stand": "2026-06-14"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 90001,
+"bis": 100000
+},
+"mitgliedsbeitraege": {
+"von": 10001,
+"bis": 20000
+},
+"lobbyausgaben": {
+"von": 70001,
+"bis": 80000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/a1/46/757990/JahresabschlussSFR2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006953/79042",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-14",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

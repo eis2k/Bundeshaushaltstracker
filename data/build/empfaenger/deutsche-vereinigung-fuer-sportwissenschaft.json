@@ -1,0 +1,142 @@
+{
+"id": "deutsche-vereinigung-fuer-sportwissenschaft",
+"name": "Deutsche Vereinigung für Sportwissenschaft ",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Hamburg",
+"website": "www.sportwissenschaft.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001907",
+"eintrag_id": 79391,
+"version": 13,
+"stand": "2026-06-17",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001907/79391",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/bf/05/761361/Lobbyregister-Registereintraege-Detailansicht-R001907-2026-06-17_08-51-05.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesinstitut für Sportwissenschaft (BISp)",
+"epl": "06",
+"von": 10001,
+"bis": 20000,
+"zweck": "Einzel-Zuschüsse zur Durchführung sportwissenschaftlicher Veranstaltungen (Projektförderungen als Fehlbedarfsfinanzierungen, eine bedingt rückzahlbare Zuwendung).",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 10001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ansgar Schwirtz",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001907/79391",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Claudia Voelcker-Rehage",
+"funktion": "Vizepräsidentin Finanzen und Forschung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001907/79391",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Ina Hunger",
+"funktion": "Vizepräsidentin Bildung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001907/79391",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Bettina Wollesen",
+"funktion": "Vizepräsidentin Bewegung und Gesundheit",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001907/79391",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Ulrich Fehr",
+"funktion": "Vizepräsident Nachwuchsförderung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001907/79391",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Jennifer Franz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001907/79391",
+"stand": "2026-06-17"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 90001,
+"bis": 100000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/fd/fb/761358/Jahresabschluss-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001907/79391",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-17",
+"etikett": "Eigenangabe",
+"version": 13
+}
+]
+}

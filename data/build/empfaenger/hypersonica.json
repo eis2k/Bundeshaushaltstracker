@@ -1,0 +1,169 @@
+{
+"id": "hypersonica",
+"name": "Hypersonica GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Feldkirchen",
+"website": "https://www.hypersonica.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007839",
+"eintrag_id": 87256,
+"version": 7,
+"stand": "2026-10-08",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007839/87256",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/6c/d6/858615/Lobbyregister-Registereintraege-Detailansicht-R007839-2026-10-08_12-22-26.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "SPRIND GmbH",
+"epl": null,
+"von": 920001,
+"bis": 930000,
+"zweck": "Gründungszuschuss",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 920001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Philipp Kerth",
+"funktion": "Chief Executive Officer (CEO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007839/87256",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Marc Ewenz Rocher",
+"funktion": "Chief Technical Officer (CTO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007839/87256",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Dustin Büttner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007839/87256",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Franz Kreutzer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007839/87256",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Benjamin Campbell-James",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007839/87256",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Paul Simon Schmidt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2026-09"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007839/87256",
+"stand": "2026-10-08"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Paul Simon Schmidt",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2026-09",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Paul Simon Schmidt ist laut Lobbyregister Interessenvertretung bei Hypersonica GmbH und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2026-09. Hypersonica GmbH erhielt laut Lobbyregister Mittel von: SPRIND GmbH.",
+"ausschuesse": [],
+"geld_aus": [
+"SPRIND GmbH"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007839/87256",
+"stand": "2026-10-08"
+}
+],
+"stand": "2026-10-08"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 60001,
+"bis": 70000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/f2/2a/858614/Jahresabschluss-GuV-03-2025-Handelsrecht-HypersonicaGmbH.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007839/87256",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-08",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

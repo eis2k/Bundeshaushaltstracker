@@ -1,0 +1,126 @@
+{
+"id": "bauwirtschaft-baden-wuerttemberg",
+"name": "Bauwirtschaft Baden-Württemberg",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Stuttgart",
+"website": "www.bauwirtschaft-bw.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003610",
+"eintrag_id": 75515,
+"version": 7,
+"stand": "2026-06-08",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003610/75515",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/a7/fe/752293/Lobbyregister-Registereintraege-Detailansicht-R003610-2026-06-08_13-26-41.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesinstitut für Berufsbildung",
+"epl": "30",
+"von": 270001,
+"bis": 280000,
+"zweck": "Bauliche Modernisierung und Umstrukturierung ABZ Geislingen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesinstitut für Berufsbildung",
+"epl": "30",
+"von": 9990001,
+"bis": 10000000,
+"zweck": "Ersatzneubau BZ Geradstetten",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 10260002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Markus Böll",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003610/75515",
+"stand": "2026-06-08"
+}
+},
+{
+"name": "Sabine Schmucker",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003610/75515",
+"stand": "2026-06-08"
+}
+},
+{
+"name": "Thomas Möller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003610/75515",
+"stand": "2026-06-08"
+}
+},
+{
+"name": "Holger Braun",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003610/75515",
+"stand": "2026-06-08"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 4140001,
+"bis": 4150000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ce/18/752292/Lobbyregister-Rechenschaftsbericht-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003610/75515",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-08",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

@@ -1,0 +1,146 @@
+{
+"id": "verein-fuer-friedensarbeit-im-raum-der-ekd",
+"name": "Verein für Friedensarbeit im Raum der EKD e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bonn",
+"website": "www.evangelische-friedensarbeit.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001312",
+"eintrag_id": 80752,
+"version": 8,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001312/80752",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/df/2c/793105/Lobbyregister-Registereintraege-Detailansicht-R001312-2026-06-30_15-50-39.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesverwaltungsamt",
+"epl": "06",
+"von": 30001,
+"bis": 40000,
+"zweck": "Weiterleitung von Fördermitteln aus dem KJP des Bundes als Zentralstelle der Trägerkonferenz der internationalen Jugendgemeinschafts- und Jugendsozialdienste",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Engagement Global gGmbH",
+"epl": "23",
+"von": 30001,
+"bis": 40000,
+"zweck": "Weiterleitung von Fördermitteln aus dem Programm Ziviler Friedensdienst",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BaFzA - Regiestelle Demokratie leben!",
+"epl": "17",
+"von": 100001,
+"bis": 110000,
+"zweck": "Weiterleitung von Mitteln aus dem Förderprogramm \"Demokratie leben!\" aus der Förderung eines Projektes im Bereich der zivilen Konfliktbearbeitung im Inland",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 160003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jens Lattke",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001312/80752",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Jochen Cornelius-Bundschuh",
+"funktion": "stv. Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001312/80752",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Jan Gildemeister",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001312/80752",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Wolfgang Burggraf",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001312/80752",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Bernd Rieche",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001312/80752",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/45/7a/793104/VfF-2025-Bilanz.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001312/80752",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

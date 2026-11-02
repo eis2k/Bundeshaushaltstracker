@@ -1,0 +1,150 @@
+{
+"id": "helmholtz-zentrum-dresden-rossendorf",
+"name": "Helmholtz-Zentrum Dresden - Rossendorf e. V. (HZDR)",
+"art": "forschung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Dresden",
+"website": "http://www.hzdr.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003176",
+"eintrag_id": 77975,
+"version": 8,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003176/77975",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/d8/1f/788898/Lobbyregister-Registereintraege-Detailansicht-R003176-2026-06-30_11-03-55.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung (BMBF) bzw. Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 130430001,
+"bis": 130440000,
+"zweck": "Institutionelle Förderung (Anteil Bund)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung (BMBF) bzw. Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 12700001,
+"bis": 12710000,
+"zweck": "Projektförderung BMBF/BMFTR",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Hermann von Helmholtz-Gemeinschaft Deutscher Forschungszentren e. V. (HGF)",
+"epl": null,
+"von": 4280001,
+"bis": 4290000,
+"zweck": "Projektförderung Helmholtz-Gemeinschaft",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Forschungsgemeinschaft (DFG)",
+"epl": null,
+"von": 3430001,
+"bis": 3440000,
+"zweck": "Projektförderung DFG",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Sonstige Projektförderung (Deutscher Akademischer Austauschdienst, Alexander von Humboldt-Stiftung, etc.)",
+"epl": null,
+"von": 840001,
+"bis": 850000,
+"zweck": "diverse Projektförderungen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 151680005,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Sebastian M. Schmidt",
+"funktion": "Wissenschaftlicher Direktor",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003176/77975",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Diana Stiller",
+"funktion": "Kaufmännische Direktorin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003176/77975",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Simon Schmitt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003176/77975",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Kim-Astrid Magister",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003176/77975",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 10001,
+"bis": 20000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 60001,
+"bis": 70000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/46/03/788897/20260617_HZDR_Testat-2025_signiert.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003176/77975",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

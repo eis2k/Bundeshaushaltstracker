@@ -1,0 +1,56 @@
+{
+"id": "rationellen-und-sparsamen-energieverwendung",
+"name": "rationellen und sparsamen Energieverwendung",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "60-6092-68603",
+"text": "Querschnittsaufgabe Energieeffizienz",
+"epl": "60",
+"epl_text": "Allgemeine Finanzverwaltung",
+"werte": {
+"2015": {
+"soll": 140144000,
+"ist": 73088261
+},
+"2023": {
+"soll": 186750000,
+"ist": null
+},
+"2024": {
+"soll": 19645000,
+"ist": null
+},
+"2025": {
+"soll": 13500000,
+"ist": 4419676
+},
+"2026": {
+"soll": 7900000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

@@ -1,0 +1,140 @@
+{
+"id": "h2apex-nova-holding",
+"name": "H2APEX Nova Holding GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Laage",
+"website": "https://h2apex.com/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R008170",
+"eintrag_id": 75265,
+"version": 1,
+"stand": "2026-08-18",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008170/75265",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/d6/f8/831950/Lobbyregister-Registereintraege-Detailansicht-R008170-2026-08-18_09-03-23.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz heute BMWE Kofinanzierung durch Land MV",
+"epl": "09",
+"von": 2160001,
+"bis": 2170000,
+"zweck": "Nicht rückzahlbare Projektförderung im Rahmen des IPCEI Wasserstoff zur Planung, Errichtung und Inbetriebnahme von Wasserstoffinfrastruktur.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Digitales und Verkehr",
+"epl": "12",
+"von": 110001,
+"bis": 120000,
+"zweck": "Förderung eines Forschungs- und Entwicklungsprojekts zur Entwicklung regenerativer Kraftstoffe durch die Gewinnung von Dimethylcarbonat (DMC) und Methylformiat (MeFo) aus erneuerbaren Quellen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für. Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 40001,
+"bis": 50000,
+"zweck": "Förderung eines Forschungs- und Entwicklungsprojekts zur Entwicklung emissionsfreier maritimer Mobilitätslösungen durch Konzepte für dezentrale Wasserstoff- und Energiebereitstellungssysteme sowie angepasste Ladetechnologien.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 40001,
+"bis": 50000,
+"zweck": "Förderung eines Forschungs- und Entwicklungsprojekts zur Entwicklung modularer, adaptiver und skalierbarer Wasserstoffsysteme zur emissionsfreien Stromerzeugung für maritime Transporteinheiten.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz heute BMWE",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "Förderung eines Forschungs- und Entwicklungsprojekts zur Untersuchung von Offshore‑Strukturen für die Erzeugung, Speicherung und Nutzung von Wasserstoff auf Basis erneuerbarer Energien.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 2360005,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Peter Rößner",
+"funktion": "CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008170/75265",
+"stand": "2026-08-18"
+}
+},
+{
+"name": "Bert Althaus",
+"funktion": "CFO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008170/75265",
+"stand": "2026-08-18"
+}
+},
+{
+"name": "Jan Bellgardt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008170/75265",
+"stand": "2026-08-18"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/23/fc/831947/Report_H2APEX-Group-SCA_-conso-and-stat_2025_FINAL-29042026.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008170/75265",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-18",
+"etikett": "Eigenangabe",
+"version": 1
+}
+]
+}

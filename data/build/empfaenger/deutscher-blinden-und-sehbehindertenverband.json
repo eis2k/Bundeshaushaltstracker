@@ -1,0 +1,198 @@
+{
+"id": "deutscher-blinden-und-sehbehindertenverband",
+"name": "Deutscher Blinden- und Sehbehindertenverband e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.dbsv.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003998",
+"eintrag_id": 78273,
+"version": 12,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003998/78273",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/9b/b5/789831/Lobbyregister-Registereintraege-Detailansicht-R003998-2026-06-30_12-11-23.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "gsub Gesellschaft für soziale Unternehmensberatung mbH / Bundesministerium für Arbeit und Soziales",
+"epl": null,
+"von": 70001,
+"bis": 80000,
+"zweck": "Zweckgebundene Zuwendung zur Förderung des Projektes Partizipation älterer Menschen mit Behinderung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesverwaltungsamt",
+"epl": "06",
+"von": 360001,
+"bis": 370000,
+"zweck": "Der Betrag wurde zur Herstellung und Verbreitung barrierefreier Wahlunterlagen anlässlich der Bundestagswahl 2025 zur Verfügung gestellt und zweckentsprechend verwendet. Damit konnten blinde- und sehbehinderte Menschen mit Wahlschablonen und dafür notwendigen Informationsmaterialien zur gleichberechtigten Teilnahme an der Wahl, entsprechend der Bundeswahlordnung, versorgt werden.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "DRV Knappschaft-Bahn-See",
+"epl": null,
+"von": 100001,
+"bis": 110000,
+"zweck": "\"Verkehrsraumgestaltung und barrierefreie Mobilität – Normung als Schlüssel für mehr Teilhabe“ Gefördert durch den Partizipationsfonds",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "IJAB",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "Zuschuss für Personalstelle im freiwilligen Jahr",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 550004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Hans-Werner Lange",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003998/78273",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Thomas Krämer",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003998/78273",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Andreas Bethke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003998/78273",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Reiner Delgado Faust",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003998/78273",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Jana Mattert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003998/78273",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Merve Maaßen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003998/78273",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Claudia  Schaffer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003998/78273",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Christiane Möller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003998/78273",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Gerald Fröde",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003998/78273",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 630001,
+"bis": 640000
+},
+"mitgliedsbeitraege": {
+"von": 830001,
+"bis": 840000
+},
+"lobbyausgaben": {
+"von": 160001,
+"bis": 170000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/99/ff/789816/GuV_2025_DBSV.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003998/78273",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

@@ -1,0 +1,253 @@
+{
+"id": "deutscher-behindertensportverband-und-nationales-paralympisc",
+"name": "Deutscher Behindertensportverband und Nationales Paralympisches Komitee (DBS) e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Frechen",
+"website": "https://www.dbs-npc.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002492",
+"eintrag_id": 86882,
+"version": 19,
+"stand": "2026-10-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002492/86882",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/64/91/854650/Lobbyregister-Registereintraege-Detailansicht-R002492-2026-10-01_12-07-33.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium des Inneren und für Heimat (BMI)",
+"epl": null,
+"von": 9330001,
+"bis": 9340000,
+"zweck": "Sportjahresplanung, Leistungssportpersonal",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Arbeit und Soziales (BMAS)",
+"epl": "11",
+"von": 370001,
+"bis": 380000,
+"zweck": "Personalkosten und Maßnahmen im Rehabilitationssport, Projekt BMAS (VEREINfacht)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ)",
+"epl": "17",
+"von": 170001,
+"bis": 180000,
+"zweck": "Kinder- und Jugendplan des Bundes, Zuteilung über Deutsche Sportjugend im DOSB",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 9870003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Cheick-Idriss Gonschinska",
+"funktion": "Vorstandsvorsitzender ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002492/86882",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Marc Möllmann",
+"funktion": "Vorstand Leistungssport / Sportdirektor ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002492/86882",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Benedikt Ewald",
+"funktion": "Vorstand Sportentwicklung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002492/86882",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Hans-Jörg Michels",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002492/86882",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Anja Surmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002492/86882",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Gerhard Janetzky",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002492/86882",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Vera Jaron",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002492/86882",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Roland Thietje",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002492/86882",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Katja Kliewer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002492/86882",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Friedhelm Julius Beucher",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002492/86882",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Stefan Knopp",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002492/86882",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Fiona Witte",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2023-04"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002492/86882",
+"stand": "2026-10-01"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Fiona Witte",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-04",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Fiona Witte ist laut Lobbyregister Interessenvertretung bei Deutscher Behindertensportverband und Nationales Paralympisches Komitee (DBS) e.V. und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-04. Deutscher Behindertensportverband und Nationales Paralympisches Komitee (DBS) e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium des Inneren und für Heimat (BMI); Bundesministerium für Arbeit und Soziales (BMAS); Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ).",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium des Inneren und für Heimat (BMI)",
+"Bundesministerium für Arbeit und Soziales (BMAS)",
+"Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002492/86882",
+"stand": "2026-10-01"
+}
+],
+"stand": "2026-10-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 420001,
+"bis": 430000
+},
+"lobbyausgaben": {
+"von": 80001,
+"bis": 90000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e0/9b/854649/Bilanz-GuV-DBS-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002492/86882",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-01",
+"etikett": "Eigenangabe",
+"version": 19
+}
+]
+}

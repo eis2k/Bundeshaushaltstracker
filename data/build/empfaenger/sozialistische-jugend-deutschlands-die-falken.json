@@ -1,0 +1,99 @@
+{
+"id": "sozialistische-jugend-deutschlands-die-falken",
+"name": "Sozialistische Jugend Deutschlands - Die Falken",
+"art": "verein_stiftung",
+"rechtsform": "Nicht rechtsfähiger Verein",
+"sitz": "Berlin",
+"website": "www.wir-falken.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004250",
+"eintrag_id": 84154,
+"version": 13,
+"stand": "2026-08-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004250/84154",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ea/98/825165/Lobbyregister-Registereintraege-Detailansicht-R004250-2026-08-03_15-56-32.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMBFSFJ",
+"epl": "17",
+"von": 900001,
+"bis": 910000,
+"zweck": "Kinder- und Jugendplan des Bundes",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 900001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Michelle Börchers",
+"funktion": "Bundesvorsitz",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004250/84154",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Jonathan Schweizer",
+"funktion": "Bundesvorsitz",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004250/84154",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Stephanie Heck",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004250/84154",
+"stand": "2026-08-03"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 120001,
+"bis": 130000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": null
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004250/84154",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-03",
+"etikett": "Eigenangabe",
+"version": 13
+}
+]
+}

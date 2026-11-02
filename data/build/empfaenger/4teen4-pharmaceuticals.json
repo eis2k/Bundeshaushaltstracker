@@ -1,0 +1,134 @@
+{
+"id": "4teen4-pharmaceuticals",
+"name": "4TEEN4 Pharmaceuticals GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Hennigsdorf",
+"website": "www.4teen4.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007840",
+"eintrag_id": 71817,
+"version": 1,
+"stand": "2026-02-16",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007840/71817",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/51/8a/695129/Lobbyregister-Registereintraege-Detailansicht-R007840-2026-02-16_13-43-30.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundeszentralamt für Steuern",
+"epl": null,
+"von": 850001,
+"bis": 860000,
+"zweck": "Forschungszulage für das Jahr 2023",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 40001,
+"bis": 50000,
+"zweck": "Förderung des Projekts Compliance Control: Management von IT-Compliance durch Object-Centric Process Mining (OCPM) durch das Programm KMU innovativ",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 50001,
+"bis": 60000,
+"zweck": "Förderung für das Projekt \"SURVIVE: Schnelle und zuverlässige Diagnose des kardiogenen und septischen Schocks mittels DPP3-Bluttest in der Akut- und Notfallmedizin\" durch das Programm DATIpilot",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 940003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Eberhard Andreas Bergmann",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007840/71817",
+"stand": "2026-02-16"
+}
+},
+{
+"name": "Kilian Jay von Seldeneck",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007840/71817",
+"stand": "2026-02-16"
+}
+},
+{
+"name": "Alexander Schnartendorff",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007840/71817",
+"stand": "2026-02-16"
+}
+},
+{
+"name": "Maximilian Görlich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007840/71817",
+"stand": "2026-02-16"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/87/56/695128/2024_12_31-Jahresabschluss_Annual-Account-Testat.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007840/71817",
+"abgerufen": "2026-11-02",
+"stand": "2026-02-16",
+"etikett": "Eigenangabe",
+"version": 1
+}
+]
+}

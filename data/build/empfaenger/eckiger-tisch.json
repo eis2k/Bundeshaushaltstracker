@@ -1,0 +1,119 @@
+{
+"id": "eckiger-tisch",
+"name": "Eckiger Tisch e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.eckiger-tisch.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005409",
+"eintrag_id": 66994,
+"version": 7,
+"stand": "2026-08-07",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005409/66994",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/df/10/828039/Lobbyregister-Registereintraege-Detailansicht-R005409-2026-08-07_11-52-59.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium des Inneren",
+"epl": null,
+"von": 460001,
+"bis": 470000,
+"zweck": "Bundeszuwendung an den Verein Eckiger Tisch e.V. für das Projekt \"Aufbau einer Geschäftsstelle und einer Online-Plattform\" aus Kapital 0601, Titel 685 15",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 460001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Matthias Katsch",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005409/66994",
+"stand": "2026-08-07"
+}
+},
+{
+"name": "Andreas Stiller",
+"funktion": "2. Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005409/66994",
+"stand": "2026-08-07"
+}
+},
+{
+"name": "Martin Schmitz",
+"funktion": "1. Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005409/66994",
+"stand": "2026-08-07"
+}
+},
+{
+"name": "Simeon Lennart Breuer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005409/66994",
+"stand": "2026-08-07"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 60001,
+"bis": 70000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/90/40/828038/JA-2024-Eckiger-Tisch-e-V-_ES35620220_V0-1.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005409/66994",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-07",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

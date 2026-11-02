@@ -1,0 +1,154 @@
+{
+"id": "korea-verband",
+"name": "Korea-Verband",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.koreaverband.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004549",
+"eintrag_id": 56434,
+"version": 4,
+"stand": "2025-05-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004549/56434",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/b9/3f/525460/Lobbyregister-Registereintraege-Detailansicht-R004549-2025-05-29_10-32-04.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundeszentrale für politische Bildung",
+"epl": "06",
+"von": 50001,
+"bis": 60000,
+"zweck": "Förderung für das Projekt Starke Denkmäler",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 50001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jung-Hwa Han",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004549/56434",
+"stand": "2025-05-29"
+}
+},
+{
+"name": "Na-Rhee Scherfling",
+"funktion": "Stellvertretende Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004549/56434",
+"stand": "2025-05-29"
+}
+},
+{
+"name": "Peter Kesselburg",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004549/56434",
+"stand": "2025-05-29"
+}
+},
+{
+"name": "Jana Schäfer",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004549/56434",
+"stand": "2025-05-29"
+}
+},
+{
+"name": "Yann Prell",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004549/56434",
+"stand": "2025-05-29"
+}
+},
+{
+"name": "Nammyoung Hong",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004549/56434",
+"stand": "2025-05-29"
+}
+},
+{
+"name": "Anna So-Shim Schumacher",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004549/56434",
+"stand": "2025-05-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 10001,
+"bis": 20000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/03/cb/525459/Jahresabschluss-2023.pdf",
+"geschaeftsjahr": "2023",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004549/56434",
+"abgerufen": "2026-11-02",
+"stand": "2025-05-29",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

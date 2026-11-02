@@ -1,0 +1,1586 @@
+{
+"id": "vdma",
+"name": "VDMA e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Frankfurt",
+"website": "http://www.vdma.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000802",
+"eintrag_id": 87981,
+"version": 129,
+"stand": "2026-10-23",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/6a/98/864866/Lobbyregister-Registereintraege-Detailansicht-R000802-2026-10-23_15-04-38.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 200001,
+"bis": 210000,
+"zweck": "Forschungsprojekt H2Giga - eModule Die VDMA AG P2X4A engagiert sich gemeinsam mit ihren akademischen Projektpartnern im Rahmen des H2Giga Projektes eModule. Die Modellierung, Automatisierung, Integration und Optimierung von Elektrolyse-Modulen ist das zentrale Thema des Projektes. Die VDMA AG P2X4A bindet hierbei Ihre Mitglieder zu verschiedenen Aufgabengebieten ein. Ziel ist es eine Referenzanlage zu entwickeln, in der verschiedene Betriebs- und Nutzungsszenarien von Elektrolyseuren abgebildet werden können. Es gilt möglichst genau zu ermitteln, wie sich der Elektrolyseur und seine Komponenten unter volatilen Bedingungen verhalten und welchen spezifischen Anforderungen sie unterliegen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 150001,
+"bis": 160000,
+"zweck": "„BETSY - Begleitmaßnahme und Transfer-Accelerator zur Förderinitiative Effizienzsteigerung und Nutzung von Synergieeffekten in der Batteriezellfertigung für die Elektromobilität (SynBatt)“ Förderkennzeichen: 03XP0540A",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 110001,
+"bis": 120000,
+"zweck": "Konsortialprojekt mit 11 Industriepartnern und 4 weiteren Projektpartnern (Forschung & Verband) an der Digitalisierung der Fluidtechnik arbeitet. Inhaltlich liegt ein besonderer Fokus des Projekts auf der Digitalisierung fluidtechnischer Produkte und Systeme sowie von Prozessen und use cases, v.a. im Bereich Systementwicklung und Nachhaltigkeit (bspw. Energieeffizienz, Product Carbon Footprints, Kreislaufwirtschaft). Das Projektvolumen beträgt insges. 13,4 Mio. Euro, von denen 8 Mio. Euro gefördert werden, d.h. aus nicht rückzahlbaren Zuwendungen bestehen, die aus dem KoPa-35c-Förderprogramm stammen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium Forschung, Technologie und Raumfahrt",
+"epl": null,
+"von": 70001,
+"bis": 80000,
+"zweck": "Das SynErgie-Projekt strebt bis 2026 an, die technischen, marktseitigen und sozialen Bedingungen zu schaffen, um den Energieverbrauch der deutschen Industrie effektiv an das schwankende Energieangebot anzupassen. Dadurch kann sich Deutschland zu einem internationalen Leitanbieter für energieflexible Industrieprozesse und Technologien zu entwickeln. Das Projekt setzt auf innovative Ansätze im industriellen Demand Side Management, um Produktionsprozesse flexibel an die schwankende Energieversorgung anzupassen und so zur erfolgreichen Umsetzung der Energiewende beizutragen. Dies führt zu verbesserten Bedingungen bei der Energiebeschaffung für Unternehmen und erschließt für das Stromsystem zusätzliche und leicht verfügbare Flexibilitätskapazitäten. Ziel ist, die Energiewende mithilfe erneuerbarer Energien gesellschaftlich akzeptiert und kosteneffizient umzusetzen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "DLR e.V.",
+"epl": "30",
+"von": 250001,
+"bis": 260000,
+"zweck": "Die Tätigkeiten werden vollständig im Rahmen des Förderprogramms „Netzwerk Mittelstand-Digital“ des BMWE gefördert. Der VDMA Bayern setzt diese Arbeiten innerhalb des Mittelstand-Digital Zentrums Augsburg um, mit dem klaren Ziel, kleinen und mittelständischen Unternehmen, Handwerksbetrieben und Start-ups anbieterneutrale und praxisnahe Unterstützung zu bieten. Durch Qualifizierungsmaßnahmen, Demonstratoren, Praxisbeispiele, Informationsveranstaltungen und Austauschformate sollen die Vorteile der Digitalisierung und Künstlichen Intelligenz erlebbar und gezielt zugänglich gemacht werden.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 60001,
+"bis": 70000,
+"zweck": "Das Projekt ENLARGE treibt die Digitalisierung der Batteriezellproduktion voran. Es schafft eine Landkarte relevanter Produktionsparameter und beseitigt Hürden bei der Datendurchgängigkeit, etwa durch inkompatible Datenformate. Auf Basis bestehender Standards wird ein „Meta-Standard“ entwickelt, der neue Elemente ergänzt und das Zusammenspiel aller Komponenten beschreibt. Unternehmen erhalten standardkonforme Parameterbeschreibungen sowie Referenzkomponenten für Integration und Nachrüstung. Die Umsetzung wird anhand von drei Anwendungsfällen validiert. Ziel ist eine flexible, vernetzte Produktion, die eine herstellerübergreifende Wertschöpfung und Kreislaufwirtschaft ermöglicht. Auch kleinere deutsche Unternehmen sollen so im globalen Wettbewerb bestehen können.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 340001,
+"bis": 350000,
+"zweck": "Verbundprojekt: Digitales Ökosystem für KI-basierte Robotik (RoX) Das Projekt RoX beschäftigt sich mit der Schaffung eines dezentralen Daten- und Dienste-Ökosystems, das die Entwicklung, den Einsatz und die kontinuierliche Verbesserung fortschrittlicher, KI-gestützter Robotersysteme über ihren gesamten Lebenszyklus hinweg ermöglicht. Durch die Förderung von Kooperation und Kollaboration aller Akteure wird ein sicherer und effizienter Datenaustausch gewährleistet und so die Entstehung innovativer Robotiklösungen für eine wettbewerbsfähige und nachhaltige Wirtschaft in Deutschland und Europa ermöglicht.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 50001,
+"bis": 60000,
+"zweck": "Verbundprojekt: Edge-Cloud-gestützter Datenraum für die Windindustrie (Wind-X) – Teilvorhaben: Stakeholdermanagement durch die Definition von Anforderungen, Wissenstransfer und Entwicklung von Geschäftsmodellen sowie durch die Zusammenarbeit mit der IPCEI-CIS- und MX-Community",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "VDI Technologiezentrum GmbH",
+"epl": null,
+"von": 690001,
+"bis": 700000,
+"zweck": "Aufbau eines Datenraums für die ausrüstende Industrie (Factory X). Teilvorhaben: Mittelstandsgerechte Datenraumentwicklung und Transfermaßnahmen zur Verbreitung der Ergebnisse aus Factory-X.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 60001,
+"bis": 70000,
+"zweck": "Das Projekt REGAIN adressiert die digitale und nachhaltige Transformation industrieller Wertschöpfungsketten. Ziel ist es, den unternehmens‑ und sektorübergreifenden Austausch industrieller Daten zu verbessern und dadurch Resilienz, Nachhaltigkeit und Wettbewerbsfähigkeit zu stärken. REGAIN analysiert bestehende Hürden bei Datenzugang, Interoperabilität und Standardanwendung und entwickelt praxisnahe Lösungsansätze auf Basis bestehender Normen und Initiativen. Ein besonderer Fokus liegt auf der Nutzbarkeit industrieller Daten für Kreislaufwirtschaft, Energie‑ und Ressourceneffizienz sowie resiliente Lieferketten. Die Ergebnisse werden anhand konkreter industrieller Anwendungsfälle validiert und sollen insbesondere kleinen und mittleren Unternehmen den Zugang zu digitalen Ökosystemen erleichtern.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "VDI Technologiezentrum GmbH",
+"epl": null,
+"von": 460001,
+"bis": 470000,
+"zweck": "Verbundprojekt: Skalierender Technologietransfer für Manufacturing-X (SCALE-MX) - Teilvorhaben: SCALE-MX-EnableManufacturing.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Arbeit und Soziales",
+"epl": "11",
+"von": 90001,
+"bis": 100000,
+"zweck": "Ingenieurinnen gewinnen, halten und Karrieren entwickeln (BMAS-und ESF-Mittel); Geldgeber: BMAS; Sitz: Berlin; Kurzbeschreibung. Mit diesem Projekt fördert der VDMA, gemeinsam mit Mitgliedsunternehmen, Frauen in technischen Berufen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (ehem. Bundesministerium für Wirtschaft und Klimaschutz)",
+"epl": "09",
+"von": 190001,
+"bis": 200000,
+"zweck": "Das Verbundprojekt „Normungsroadmap Wasserstofftechnologien“ ist eine gemeinsame Initiative des Deutschen Instituts für Normung e. V. (DIN), der Deutschen Kommission Elektrotechnik Elektronik Informationstechnik in DIN und VDE (DKE), des Deutschen Vereins des Gas- und Wasserfaches (DVGW), des Vereins für die Normung und Weiterentwicklung des Bahnwesens e. V. (NWB), des Verbands der Automobilindustrie (VDA), des Vereins Deutscher Ingenieure e. V. (VDI) sowie des VDMA e. V. – Europas größtem Verband des Maschinen- und Anlagenbaus (VDMA). Im Rahmen dieses von Januar 2023 bis Ende 2025 durchgeführten Verbundprojekts wurde zusammen mit Expertinnen und Experten aus Wirtschaft, Politik, Wissenschaft und der Zivilgesellschaft ein strategischer Fahrplan erarbeitet für eine schnelle und gezielte Erweiterung und Anpassung des technischen Regelwerks im Bereich der Wasserstofftechnologien.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 2720013,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Bertram Kawlath",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Thilo Brodtmann",
+"funktion": "Hauptgeschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Tina Bröcker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Peter Hug",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Thomas Müller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Thilo Brückner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Sarah Michaelis",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Jörg Mutschler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Hauke Schlegel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Alexandra Dreyer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Oliver Wack",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Susanne Engelbach",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Klaus Friedrich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Joachim Schmid",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Robert Hild",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Sarah Brückner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Frederike Krebs",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Judith Herzog-Kuballa",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Thomas Kraus",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Falko Adomat",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Roger Starke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Markus Heseding",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Andreas Schauer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Magnus Schmitt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Dietrich Birk",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Wilfried Schäfer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Niklas Kuczaty",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Sven Breitung",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Hartmut Rauen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Eric Maiser",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Matthias Zelinger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Claus Oetter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Guido Reimann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Kai Kalusa",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Steffen Zimmermann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Jörg Friedrich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Norbert Völker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Franziska Seimys",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Stefan Grötzschel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Christoph Singrün",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Andreas Brand",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Friedel Klütsch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Dennis Rendschmidt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Gerd Krieger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Malte Peters",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Sebastian Steul",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Haras Najib",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Jana Müller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Fabian Seus",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Richard Clemens",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Olaf Wortmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Ulrich Meißner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Florian Schmidt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Thorsten Kühmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Damaso Lopez Ruiz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Tobias Ehrhard",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Reinhard Heister",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Christoph Herr",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Elgar Straub",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Peter Müller-Baum",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Markus Münz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Patrick Schwarzkopf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Sascha Schmel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Sandra Drechsler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Annkathrin Paulus",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Florian Klein",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Andre Koring",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Vera Fritsche",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Timo Feuerbach",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Nicolas Hummel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Florian von Gierke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Philipp-Johannes Heesen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-10"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Annalena Weber",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2023-12"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Kai Peters",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Reinhold Festge",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Puzant Baliozian",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Sandra Engle",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Benedikt Rothagen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Stephan Eirich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "German Wankmiller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Daniel Chatterjee",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Anthony van der Ley",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Andreas Fußer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Matthias Kammüller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Gabriele  Welcker-Clemens",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Oliver Richtberg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Frank Konrad",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Holger Kunze",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Paul Zepf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Michael Wolfram",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Thomas Noll",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Hermann Wegner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Harald Weber",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Johannes Gernandt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Hartmut Tembrink",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Stefan Oberdörfer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Julia Roshan Moniri",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Laura Dorfer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Jan Paul Marschollek",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Andreas Habermann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Ragnar Wladimir Strauch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Katharina Breden-Hetzel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Roland Hans Papesch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Jens Bauch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Jacob L. Gorenflos López",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Steffen Hentrich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für eine Fraktion/Gruppe im Deutschen Bundestag",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-05"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Dennis Heckler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Miriam Sophie Leuschner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für eine Fraktion/Gruppe im Deutschen Bundestag",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-05"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Ebru Gemici-Loukas",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Martina Maj-Lis Janßen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Alexander Jakschik",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Verena Thies-Niehoff",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Julian Barnikol",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Philipp-Johannes Heesen",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-10",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Philipp-Johannes Heesen ist laut Lobbyregister Interessenvertretung bei VDMA e.V. und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-10. VDMA e.V. erhielt laut Lobbyregister Mittel von: VDI Technologiezentrum GmbH; Bundesministerium für Wirtschaft und Energie; DLR e.V.; Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR); Bundesministerium für Wirtschaft und Energie (ehem. Bundesministerium für Wirtschaft und Klimaschutz); Bundesministerium für Arbeit und Soziales; Bundesministerium Forschung, Technologie und Raumfahrt; Bundesministerium für Forschung, Technologie und Raumfahrt.",
+"ausschuesse": [],
+"geld_aus": [
+"VDI Technologiezentrum GmbH",
+"Bundesministerium für Wirtschaft und Energie",
+"DLR e.V.",
+"Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"Bundesministerium für Wirtschaft und Energie (ehem. Bundesministerium für Wirtschaft und Klimaschutz)",
+"Bundesministerium für Arbeit und Soziales",
+"Bundesministerium Forschung, Technologie und Raumfahrt",
+"Bundesministerium für Forschung, Technologie und Raumfahrt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+],
+"stand": "2026-10-23"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Annalena Weber",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-12",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Annalena Weber ist laut Lobbyregister Interessenvertretung bei VDMA e.V. und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-12. VDMA e.V. erhielt laut Lobbyregister Mittel von: VDI Technologiezentrum GmbH; Bundesministerium für Wirtschaft und Energie; DLR e.V.; Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR); Bundesministerium für Wirtschaft und Energie (ehem. Bundesministerium für Wirtschaft und Klimaschutz); Bundesministerium für Arbeit und Soziales; Bundesministerium Forschung, Technologie und Raumfahrt; Bundesministerium für Forschung, Technologie und Raumfahrt.",
+"ausschuesse": [],
+"geld_aus": [
+"VDI Technologiezentrum GmbH",
+"Bundesministerium für Wirtschaft und Energie",
+"DLR e.V.",
+"Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"Bundesministerium für Wirtschaft und Energie (ehem. Bundesministerium für Wirtschaft und Klimaschutz)",
+"Bundesministerium für Arbeit und Soziales",
+"Bundesministerium Forschung, Technologie und Raumfahrt",
+"Bundesministerium für Forschung, Technologie und Raumfahrt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+],
+"stand": "2026-10-23"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Roland Hans Papesch",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Roland Hans Papesch ist laut Lobbyregister Interessenvertretung bei VDMA e.V. und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03. VDMA e.V. erhielt laut Lobbyregister Mittel von: VDI Technologiezentrum GmbH; Bundesministerium für Wirtschaft und Energie; DLR e.V.; Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR); Bundesministerium für Wirtschaft und Energie (ehem. Bundesministerium für Wirtschaft und Klimaschutz); Bundesministerium für Arbeit und Soziales; Bundesministerium Forschung, Technologie und Raumfahrt; Bundesministerium für Forschung, Technologie und Raumfahrt.",
+"ausschuesse": [],
+"geld_aus": [
+"VDI Technologiezentrum GmbH",
+"Bundesministerium für Wirtschaft und Energie",
+"DLR e.V.",
+"Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"Bundesministerium für Wirtschaft und Energie (ehem. Bundesministerium für Wirtschaft und Klimaschutz)",
+"Bundesministerium für Arbeit und Soziales",
+"Bundesministerium Forschung, Technologie und Raumfahrt",
+"Bundesministerium für Forschung, Technologie und Raumfahrt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+],
+"stand": "2026-10-23"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Steffen Hentrich",
+"funktion_person": "Funktion für eine Fraktion/Gruppe im Deutschen Bundestag, Bundestag, bis 2025-05",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Steffen Hentrich ist laut Lobbyregister Interessenvertretung bei VDMA e.V. und hatte zuvor eine öffentliche Funktion: Funktion für eine Fraktion/Gruppe im Deutschen Bundestag, Bundestag, bis 2025-05. VDMA e.V. erhielt laut Lobbyregister Mittel von: VDI Technologiezentrum GmbH; Bundesministerium für Wirtschaft und Energie; DLR e.V.; Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR); Bundesministerium für Wirtschaft und Energie (ehem. Bundesministerium für Wirtschaft und Klimaschutz); Bundesministerium für Arbeit und Soziales; Bundesministerium Forschung, Technologie und Raumfahrt; Bundesministerium für Forschung, Technologie und Raumfahrt.",
+"ausschuesse": [],
+"geld_aus": [
+"VDI Technologiezentrum GmbH",
+"Bundesministerium für Wirtschaft und Energie",
+"DLR e.V.",
+"Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"Bundesministerium für Wirtschaft und Energie (ehem. Bundesministerium für Wirtschaft und Klimaschutz)",
+"Bundesministerium für Arbeit und Soziales",
+"Bundesministerium Forschung, Technologie und Raumfahrt",
+"Bundesministerium für Forschung, Technologie und Raumfahrt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+],
+"stand": "2026-10-23"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Miriam Sophie Leuschner",
+"funktion_person": "Funktion für eine Fraktion/Gruppe im Deutschen Bundestag, Bundestag, bis 2025-05",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Miriam Sophie Leuschner ist laut Lobbyregister Interessenvertretung bei VDMA e.V. und hatte zuvor eine öffentliche Funktion: Funktion für eine Fraktion/Gruppe im Deutschen Bundestag, Bundestag, bis 2025-05. VDMA e.V. erhielt laut Lobbyregister Mittel von: VDI Technologiezentrum GmbH; Bundesministerium für Wirtschaft und Energie; DLR e.V.; Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR); Bundesministerium für Wirtschaft und Energie (ehem. Bundesministerium für Wirtschaft und Klimaschutz); Bundesministerium für Arbeit und Soziales; Bundesministerium Forschung, Technologie und Raumfahrt; Bundesministerium für Forschung, Technologie und Raumfahrt.",
+"ausschuesse": [],
+"geld_aus": [
+"VDI Technologiezentrum GmbH",
+"Bundesministerium für Wirtschaft und Energie",
+"DLR e.V.",
+"Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"Bundesministerium für Wirtschaft und Energie (ehem. Bundesministerium für Wirtschaft und Klimaschutz)",
+"Bundesministerium für Arbeit und Soziales",
+"Bundesministerium Forschung, Technologie und Raumfahrt",
+"Bundesministerium für Forschung, Technologie und Raumfahrt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"stand": "2026-10-23"
+}
+],
+"stand": "2026-10-23"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Sonstiges",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 81280001,
+"bis": 81290000
+},
+"lobbyausgaben": {
+"von": 4240001,
+"bis": 4250000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ce/16/864865/Geschaeftsbericht_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000802/87981",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-23",
+"etikett": "Eigenangabe",
+"version": 129
+}
+]
+}

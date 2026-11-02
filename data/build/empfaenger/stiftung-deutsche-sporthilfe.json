@@ -1,0 +1,108 @@
+{
+"id": "stiftung-deutsche-sporthilfe",
+"name": "Stiftung Deutsche Sporthilfe",
+"art": "verein_stiftung",
+"rechtsform": "Rechtsfähige Stiftung bürgerlichen Rechts",
+"sitz": "Frankfurt am Main",
+"website": "www.sporthilfe.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005548",
+"eintrag_id": 83069,
+"version": 10,
+"stand": "2026-07-14",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005548/83069",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/89/3d/812721/Lobbyregister-Registereintraege-Detailansicht-R005548-2026-07-14_11-36-56.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundeskanzleramt",
+"epl": "04",
+"von": 10210001,
+"bis": 10220000,
+"zweck": "Das Bundeskanzleramt unterstützt Athleten und Athletinnen über die Sporthilfe mit einer zielgerichteten und bedarfsorientierten direkten Athletenförderung sowie Zuschüssen zur privaten Altersvorsorge.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 10210001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Karin  Orgeldinger",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005548/83069",
+"stand": "2026-07-14"
+}
+},
+{
+"name": "Max Hartung",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005548/83069",
+"stand": "2026-07-14"
+}
+},
+{
+"name": "Oliver Prenger",
+"funktion": "Besonderer Vertreter",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005548/83069",
+"stand": "2026-07-14"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 17960001,
+"bis": 17970000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 110001,
+"bis": 120000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/fa/bb/812720/Final-Testatsexemplar-Stiftung-Dt-Sporthilfe-JAP-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005548/83069",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-14",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

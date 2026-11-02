@@ -1,0 +1,130 @@
+{
+"id": "helmholtz-zentrum-berlin-fuer-materialien-und-energie",
+"name": "Helmholtz-Zentrum Berlin für Materialien und Energie GmbH",
+"art": "forschung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "https://www.helmholtz-berlin.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001597",
+"eintrag_id": 82559,
+"version": 14,
+"stand": "2026-07-07",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001597/82559",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/7f/5e/807259/Lobbyregister-Registereintraege-Detailansicht-R001597-2026-07-07_10-04-02.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesrepublik Deutschland",
+"epl": "60",
+"von": 1780000001,
+"bis": 1780010000,
+"zweck": "Institutionelle Zuwendung und Projektförderungen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Forschungsgemeinschaft e.V.",
+"epl": null,
+"von": 2290001,
+"bis": 2300000,
+"zweck": "Projektförderung und institutionelle Zuwendungen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Hermann von Helmholtz-Gemeinschaft Deutscher Forschungszentren e.V.",
+"epl": null,
+"von": 1030001,
+"bis": 1040000,
+"zweck": "Projektförderung und institutionelle Zuwendungen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Techniker Krankenkasse",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Kooperationsvertrag zwischen TK und HZB zur betrieblichen Gesundheitsfürsorge mit präventivem Charakter",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1783330004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Bernd Rech",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001597/82559",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Saskia Vormfelde",
+"funktion": "Kaufmännische Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001597/82559",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Niklas Martin",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001597/82559",
+"stand": "2026-07-07"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 560001,
+"bis": 570000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/f9/86/807258/HZB_JAP-2025_PB_sig.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001597/82559",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-07",
+"etikett": "Eigenangabe",
+"version": 14
+}
+]
+}

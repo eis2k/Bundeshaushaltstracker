@@ -1,0 +1,109 @@
+{
+"id": "tieraerzte-ohne-grenzen",
+"name": "Tierärzte ohne Grenzen e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.togev.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004238",
+"eintrag_id": 63133,
+"version": 7,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004238/63133",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/9e/c0/793720/Lobbyregister-Registereintraege-Detailansicht-R004238-2026-06-30_16-29-15.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+"epl": "23",
+"von": 790001,
+"bis": 800000,
+"zweck": "Projekte der Entwicklungszusammenarbeit in Ostafrika (Sudan)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 790001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christian Griebenow",
+"funktion": "Vorstandsvorsitzender & CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004238/63133",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Tinega Ong'Ondi",
+"funktion": "Vorstandsmitglied & COO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004238/63133",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Miriam Morhart",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004238/63133",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 590001,
+"bis": 600000
+},
+"mitgliedsbeitraege": {
+"von": 80001,
+"bis": 90000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/c8/fc/793715/068395025-Finaler-Bericht-mit-QES.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004238/63133",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

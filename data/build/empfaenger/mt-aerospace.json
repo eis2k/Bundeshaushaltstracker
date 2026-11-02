@@ -1,0 +1,150 @@
+{
+"id": "mt-aerospace",
+"name": "MT Aerospace AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Augsburg",
+"website": "www.mt-aerospace.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000935",
+"eintrag_id": 74452,
+"version": 10,
+"stand": "2026-06-22",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000935/74452",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/18/26/768175/Lobbyregister-Registereintraege-Detailansicht-R000935-2026-06-22_14-24-08.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Forschung, Technik und Raumfahrt (BMFTR)",
+"epl": null,
+"von": 400001,
+"bis": 410000,
+"zweck": "Projektförderung Optimus (A699952), Adhybau2 (A699972), H2Prop (A699961), CryoCrack (A699968), MULE (A699975) und Adamus (A699971)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 400001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ulrich Scheib",
+"funktion": "Vorstandsvorsitzender (CEO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000935/74452",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Bernd Beschorner",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000935/74452",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Marco Fuchs",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000935/74452",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Marcus Kruckow",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000935/74452",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Katharina Will",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000935/74452",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Edip Uzun",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000935/74452",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Ibrahim Ata",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000935/74452",
+"stand": "2026-06-22"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 140001,
+"bis": 150000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ce/14/768173/MT-Aerospace_31-12-2025_Testat_signiert.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000935/74452",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-22",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

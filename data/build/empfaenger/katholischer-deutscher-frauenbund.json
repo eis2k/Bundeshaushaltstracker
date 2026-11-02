@@ -1,0 +1,255 @@
+{
+"id": "katholischer-deutscher-frauenbund",
+"name": "Katholischer Deutscher Frauenbund e.V. (KDFB)",
+"art": "kirche_wohlfahrt",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Köln ",
+"website": "www.frauenbund.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001252",
+"eintrag_id": 73652,
+"version": 10,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001252/73652",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ee/ef/792988/Lobbyregister-Registereintraege-Detailansicht-R001252-2026-06-30_15-43-39.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Landwirtschaft, Ernährung und Heimat",
+"epl": "10",
+"von": 10001,
+"bis": 20000,
+"zweck": "Zuwendung aus dem Bundeshaushalt für das Haushaltsjahr 2025, Einzelplan 10, Kapitel 1010, Titel 68602, für bundeszentrale Vorhaben für Führungskräfte der Landfrauenvereinigung.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 10001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Anja Maria-Antonia  Karliczek",
+"funktion": "Präsidentin ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001252/73652",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Christiane Fuchs-Pellmann",
+"funktion": "Bundesgeschäftsführerin ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001252/73652",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Annette Fischer",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001252/73652",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Monika Arzberger",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Referatsleitung PB 2 \"Internationale und Europäische Zusammenarbeit\"",
+"stelle": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN) oder dessen Geschäftsbereich",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001252/73652",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Ute Zeilmann",
+"funktion": "Vizepräsidentin ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001252/73652",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Ulrike Gerdiken",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001252/73652",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Andrea Redding",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001252/73652",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Kerstin Bause",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001252/73652",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Anna-Katharina Schmitt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001252/73652",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Anja Maria-Antonia  Karliczek",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag",
+"funktion_beim_empfaenger": "Präsidentin ",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Anja Maria-Antonia  Karliczek ist laut Lobbyregister Präsidentin  bei Katholischer Deutscher Frauenbund e.V. (KDFB) und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag. Katholischer Deutscher Frauenbund e.V. (KDFB) erhielt laut Lobbyregister Mittel von: Bundesministerium für Landwirtschaft, Ernährung und Heimat.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Landwirtschaft, Ernährung und Heimat"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001252/73652",
+"stand": "2026-06-30"
+}
+],
+"stand": "2026-06-30"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Monika Arzberger",
+"funktion_person": "Referatsleitung PB 2 \"Internationale und Europäische Zusammenarbeit\", Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN) oder dessen Geschäftsbereich",
+"funktion_beim_empfaenger": "Vizepräsidentin",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Monika Arzberger ist laut Lobbyregister Vizepräsidentin bei Katholischer Deutscher Frauenbund e.V. (KDFB) und hatte zuvor eine öffentliche Funktion: Referatsleitung PB 2 \"Internationale und Europäische Zusammenarbeit\", Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN) oder dessen Geschäftsbereich. Katholischer Deutscher Frauenbund e.V. (KDFB) erhielt laut Lobbyregister Mittel von: Bundesministerium für Landwirtschaft, Ernährung und Heimat.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Landwirtschaft, Ernährung und Heimat"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001252/73652",
+"stand": "2026-06-30"
+}
+],
+"stand": "2026-06-30"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Martina Englhardt-Kopf",
+"funktion_person": "MdB, CDU/CSU",
+"funktion_beim_empfaenger": "Vizepräsidentin (bis 13.05.2025)",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Martina Englhardt-Kopf (MdB, CDU/CSU) ist laut bundestag.de Vizepräsidentin (bis 13.05.2025) bei Katholischer Deutscher Frauenbund e.V. (KDFB). Katholischer Deutscher Frauenbund e.V. (KDFB) erhielt laut Lobbyregister Mittel von: Bundesministerium für Landwirtschaft, Ernährung und Heimat.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Landwirtschaft, Ernährung und Heimat"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/E/englhardt_kopf_martina-1044208",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1090001,
+"bis": 1100000
+},
+"lobbyausgaben": {
+"von": 160001,
+"bis": 170000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/de/d3/792987/JA-KDFB-e-V-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001252/73652",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 10
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/E/englhardt_kopf_martina-1044208",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

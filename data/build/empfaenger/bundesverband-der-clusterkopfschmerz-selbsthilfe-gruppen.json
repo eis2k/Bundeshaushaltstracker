@@ -1,0 +1,118 @@
+{
+"id": "bundesverband-der-clusterkopfschmerz-selbsthilfe-gruppen",
+"name": "Bundesverband der Clusterkopfschmerz-Selbsthilfe-Gruppen (CSG) e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Waldfeucht",
+"website": "www.clusterkopf.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005050",
+"eintrag_id": 77828,
+"version": 12,
+"stand": "2026-06-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005050/77828",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/fc/5c/746938/Lobbyregister-Registereintraege-Detailansicht-R005050-2026-06-03_08-59-30.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "GKV bundesverband",
+"epl": null,
+"von": 70001,
+"bis": 80000,
+"zweck": "Selbsthilfe-Förderung der Krankenkassen gem. § 20h SGB V",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 70001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jakob C. Terhaag",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005050/77828",
+"stand": "2026-06-03"
+}
+},
+{
+"name": "Andrea Sommer-Fackler",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005050/77828",
+"stand": "2026-06-03"
+}
+},
+{
+"name": "Rolf Steup",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005050/77828",
+"stand": "2026-06-03"
+}
+},
+{
+"name": "Mathias Mannhardt",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005050/77828",
+"stand": "2026-06-03"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 40001,
+"bis": 50000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/03/67/746937/Jahresabschluss-zum-31-12-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005050/77828",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-03",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

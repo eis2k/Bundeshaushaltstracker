@@ -1,0 +1,84 @@
+{
+"id": "deutsche-rentenversicherung-knappschaft-bahn-see-und-an-die",
+"name": "Deutsche Rentenversicherung Knappschaft-Bahn-See und an die Pensionskasse Deutscher Eisenbahnen und Straßenbahnen VVaG",
+"art": "oeffentlich",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "60-6002-63602",
+"text": "Zuschuss an die Deutsche Rentenversicherung Knappschaft-Bahn-See und an die Pensionskasse Deutscher Eisenbahnen und Straßenbahnen VVaG",
+"epl": "60",
+"epl_text": "Allgemeine Finanzverwaltung",
+"werte": {
+"2015": {
+"soll": 6500000,
+"ist": 6471039
+},
+"2016": {
+"soll": 6100000,
+"ist": 6022605
+},
+"2017": {
+"soll": 5700000,
+"ist": 5312995
+},
+"2018": {
+"soll": 5500000,
+"ist": 4610651
+},
+"2019": {
+"soll": 5100000,
+"ist": 4065291
+},
+"2020": {
+"soll": 4300000,
+"ist": 3617196
+},
+"2021": {
+"soll": 3700000,
+"ist": 3000073
+},
+"2022": {
+"soll": 2900000,
+"ist": 2386269
+},
+"2023": {
+"soll": 2800000,
+"ist": 2047426
+},
+"2024": {
+"soll": 2300000,
+"ist": 1743606
+},
+"2025": {
+"soll": 1900000,
+"ist": 1512550
+},
+"2026": {
+"soll": 1700000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

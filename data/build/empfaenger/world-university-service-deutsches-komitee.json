@@ -1,0 +1,97 @@
+{
+"id": "world-university-service-deutsches-komitee",
+"name": "World University Service, Deutsches Komitee e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Wiesbaden",
+"website": "www.wusgermany.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000027",
+"eintrag_id": 84925,
+"version": 13,
+"stand": "2026-08-21",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000027/84925",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/46/55/833673/Lobbyregister-Registereintraege-Detailansicht-R000027-2026-08-21_10-37-33.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Engagement Global",
+"epl": "23",
+"von": 350001,
+"bis": 360000,
+"zweck": "Mittel zur Förderung der entwicklungsbezogenen Bildungsarbeit: Projekt: Informationsstelle Bildungsauftrag Nord-Süd Projekt: Grenzenlos - Globales Lernen in der Beruflichen Bildung Projekt: Portal Globales Lernen - EWIK",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 350001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Kambiz Ghawami",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000027/84925",
+"stand": "2026-08-21"
+}
+},
+{
+"name": "Wiebke Schindel",
+"funktion": "Vorstand - Schatzmeisterin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000027/84925",
+"stand": "2026-08-21"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/cc/a9/833672/Wirtpruef2025-WUS-Abschluss.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000027/84925",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-21",
+"etikett": "Eigenangabe",
+"version": 13
+}
+]
+}

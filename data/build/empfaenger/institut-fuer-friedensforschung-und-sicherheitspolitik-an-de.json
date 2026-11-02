@@ -1,0 +1,125 @@
+{
+"id": "institut-fuer-friedensforschung-und-sicherheitspolitik-an-de",
+"name": "Institut für Friedensforschung und Sicherheitspolitik an der Universität Hamburg (IFSH)",
+"art": "forschung",
+"rechtsform": "Rechtsfähige Stiftung bürgerlichen Rechts",
+"sitz": "Hamburg",
+"website": "ifsh.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002072",
+"eintrag_id": 84186,
+"version": 7,
+"stand": "2026-08-04",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002072/84186",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/74/4c/825452/Lobbyregister-Registereintraege-Detailansicht-R002072-2026-08-04_08-58-43.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 1760001,
+"bis": 1770000,
+"zweck": "Zuwendungen für verschiedene Forschungs- und Transferprojekte mit dem Auswärtigen Amt",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 160001,
+"bis": 170000,
+"zweck": "Zuwendungen für verschiedene Forschungsprojekte des BMBF",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1920002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ursula Schröder",
+"funktion": "Wissenschaftliche Direktorin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002072/84186",
+"stand": "2026-08-04"
+}
+},
+{
+"name": "Carsten Wode",
+"funktion": "Kaufmännischer Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002072/84186",
+"stand": "2026-08-04"
+}
+},
+{
+"name": "Ulrich Kühn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002072/84186",
+"stand": "2026-08-04"
+}
+},
+{
+"name": "Anja Dahlmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002072/84186",
+"stand": "2026-08-04"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 140001,
+"bis": 150000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/eb/9d/825451/IFSH_Jahresbericht_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002072/84186",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-04",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

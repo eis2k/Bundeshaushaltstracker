@@ -1,0 +1,244 @@
+{
+"id": "verbraucherzentrale-schleswig-holstein",
+"name": "Verbraucherzentrale Schleswig-Holstein e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Kiel",
+"website": "www.verbraucherzentrale.sh",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004324",
+"eintrag_id": 83945,
+"version": 8,
+"stand": "2026-07-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004324/83945",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/e6/f0/822788/Lobbyregister-Registereintraege-Detailansicht-R004324-2026-07-30_11-18-39.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Ernährung und Landwirtschaft",
+"epl": "10",
+"von": 260001,
+"bis": 270000,
+"zweck": "Projekt Lebensmittel und Ernährung, zzgl. Projekt zur Ernährungarmut",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+"epl": "16",
+"von": 320001,
+"bis": 330000,
+"zweck": "Marktbeobachtung, Bundesanteil Projekt Wirtschaftlicher Verbraucherschutz",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 310001,
+"bis": 320000,
+"zweck": "Projekte Energieeinsparberatung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 890003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Vitalij Baisel",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004324/83945",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Michael Herte",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004324/83945",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Katrin Rieger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004324/83945",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Carina Vogel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004324/83945",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Ulf Ludwig",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004324/83945",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Levke Schwanz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004324/83945",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Iris Veronica Restrepo-Lopez",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004324/83945",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Beate Oedekoven",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004324/83945",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Selvihan Benda",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004324/83945",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Katrin Reinhardt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004324/83945",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Kristina Rehrich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004324/83945",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Daria Baumann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004324/83945",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Daniela Hartmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004324/83945",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Kristina Grommes",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004324/83945",
+"stand": "2026-07-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ed/bf/822787/VZSH-Jahresrechnung-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004324/83945",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-30",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

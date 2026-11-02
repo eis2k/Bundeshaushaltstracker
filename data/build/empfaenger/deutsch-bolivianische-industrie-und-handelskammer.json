@@ -1,0 +1,105 @@
+{
+"id": "deutsch-bolivianische-industrie-und-handelskammer",
+"name": "Deutsch-Bolivianische Industrie- und Handelskammer (AHK Bolivien)",
+"art": "verein_stiftung",
+"rechtsform": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+"sitz": "La Paz ",
+"website": "www.ahkbol.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005535",
+"eintrag_id": 82025,
+"version": 6,
+"stand": "2026-07-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005535/82025",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/df/1a/801229/Lobbyregister-Registereintraege-Detailansicht-R005535-2026-07-01_23-18-18.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMWE",
+"epl": "09",
+"von": 280001,
+"bis": 290000,
+"zweck": "Bundeszuwendung zugunsten der Deutsch-Bolivianischen Industrie- und Handelskammer als Teil des deutschen Auslandshandelskammernetzwerks für das Haushaltsjahr 2025",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMUKN",
+"epl": "16",
+"von": 40001,
+"bis": 50000,
+"zweck": "Zuwendung für ein bewilligtes Projekt im Rahmen der Exportinitiative Umweltschutz des BMUKN (LearnGreen2.0 - Scaling up Green Finance in Lateinamerika)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 320002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Rodolfo Richter Roca",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005535/82025",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Rodolfo  Richter Roca",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005535/82025",
+"stand": "2026-07-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 70001,
+"bis": 80000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/b7/87/801228/EEFF-2025-AHK-Bolivien-Scan.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005535/82025",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-01",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

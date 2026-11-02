@@ -1,0 +1,140 @@
+{
+"id": "nutzwerk-hamburg-global",
+"name": "Nutzwerk Hamburg Global e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Hamburg",
+"website": "www.hamburg.global",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001887",
+"eintrag_id": 70446,
+"version": 10,
+"stand": "2026-01-05",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001887/70446",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/1b/85/678086/Lobbyregister-Registereintraege-Detailansicht-R001887-2026-01-05_14-27-31.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Engagement Global",
+"epl": "23",
+"von": 60001,
+"bis": 70000,
+"zweck": "- anteilige Sach- und Personalmittel für Netzwerkoordination und Fachstelle Klima- & Ressourcengerechtigkeit im Rahmen des Eine Welt-Promotor:innen-Porgramms - Projektförderung im Rahmen des FEB-Programms - Förderungen einer Qualifizierungsmaßnahme für entwicklungspolitische Akteure in HH",
+"geschaeftsjahr": "2023"
+}
+],
+"lobby_untergrenze_bund": 60001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ursula Gröhn-Wittern",
+"funktion": "vertretungsberechtigte Person",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001887/70446",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Hans-Christoph Bill",
+"funktion": "vertretungsberechtigte Person",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001887/70446",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Ellen Prowe",
+"funktion": "zeichnungsberechtigte Person",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001887/70446",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Thomas Dürmeier",
+"funktion": "vertretungsberechtigte Person",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001887/70446",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Fabian Berger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001887/70446",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Kathrin Holstein",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001887/70446",
+"stand": "2026-01-05"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2023",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/86/aa/678045/hamburg-gobal-Sach-und-Finanzbericht-2023.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001887/70446",
+"abgerufen": "2026-11-02",
+"stand": "2026-01-05",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

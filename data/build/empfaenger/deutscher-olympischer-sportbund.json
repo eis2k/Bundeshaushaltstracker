@@ -1,0 +1,427 @@
+{
+"id": "deutscher-olympischer-sportbund",
+"name": "Deutscher Olympischer Sportbund (DOSB)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Frankfurt am Main",
+"website": "https://www.dosb.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003510",
+"eintrag_id": 80082,
+"version": 25,
+"stand": "2026-06-23",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003510/80082",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/9e/e6/769888/Lobbyregister-Registereintraege-Detailansicht-R003510-2026-06-23_12-01-45.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium des Innern und für Heimat",
+"epl": "06",
+"von": 760001,
+"bis": 770000,
+"zweck": "Förderung für die European Games in Krakau",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundeministerium des Innern und für Heimat",
+"epl": null,
+"von": 1360001,
+"bis": 1370000,
+"zweck": "Globalprojekte im Leistungssport",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 390001,
+"bis": 400000,
+"zweck": "Sportprojekte im Ausland",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium des Innern und für Heimat/ Bundesamt für Migration und Flüchtlinge",
+"epl": "06",
+"von": 990001,
+"bis": 1000000,
+"zweck": "Integration durch Sport",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium des Innern und für Heimat/ Bundesamt für Migration und Flüchtlinge",
+"epl": "06",
+"von": 9950001,
+"bis": 9960000,
+"zweck": "Integration durch Sport - Weiterleitung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundeministerium des Innern und für Heimat",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "Klima wandelt Sport",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium des Innern und für Heimat",
+"epl": "06",
+"von": 30001,
+"bis": 40000,
+"zweck": "Klimakonferenz",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium des Innern und für Heimat",
+"epl": "06",
+"von": 20001,
+"bis": 30000,
+"zweck": "Projekt Bewegung bei Hitze",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Arbeit und Soziales",
+"epl": "11",
+"von": 390001,
+"bis": 400000,
+"zweck": "Projekt Event-Inklusionmanager*in",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Arbeit und Soziales",
+"epl": "11",
+"von": 320001,
+"bis": 330000,
+"zweck": "Projekt Event-Inklusionmanager*in - Weiterleitung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium des Innern und für Heimat",
+"epl": "06",
+"von": 1200001,
+"bis": 1210000,
+"zweck": "Zuschuss Olympiabewerbung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend / Bundesministerium für Gesundheit",
+"epl": "17",
+"von": 240001,
+"bis": 250000,
+"zweck": "Projekte gegen Einsamkeit",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 15670012,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Thomas Arnold",
+"funktion": "Vorstand Finanzen",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003510/80082",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Michaela Röhrbein",
+"funktion": "Vorstand Sportentwicklung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003510/80082",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Olaf Tabor",
+"funktion": "Vorstand Leistungssport",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003510/80082",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Leon Ries",
+"funktion": "Vorstand Sportjugend",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003510/80082",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Otto Fricke",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003510/80082",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Christian Sachs",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003510/80082",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Stefan Lachenmayr",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-04"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003510/80082",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Lukas Wiese",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003510/80082",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Leonie Teigesser",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003510/80082",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Thomas Weikert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003510/80082",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Verena Bentele",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003510/80082",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Kerstin Holze",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003510/80082",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Miriam Welte",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003510/80082",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Jens-Peter Nettekoven",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003510/80082",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Mareike Miller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003510/80082",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Stefan Raid",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003510/80082",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Kim Bui",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003510/80082",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Martin Engelhardt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003510/80082",
+"stand": "2026-06-23"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Otto Fricke",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03",
+"funktion_beim_empfaenger": "Vorstandsvorsitzender",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Otto Fricke ist laut Lobbyregister Vorstandsvorsitzender bei Deutscher Olympischer Sportbund (DOSB) und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03. Deutscher Olympischer Sportbund (DOSB) erhielt laut Lobbyregister Mittel von: Bundesministerium des Innern und für Heimat/ Bundesamt für Migration und Flüchtlinge; Bundeministerium des Innern und für Heimat; Bundesministerium des Innern und für Heimat; Auswärtiges Amt; Bundesministerium für Arbeit und Soziales; Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend / Bundesministerium für Gesundheit.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium des Innern und für Heimat/ Bundesamt für Migration und Flüchtlinge",
+"Bundeministerium des Innern und für Heimat",
+"Bundesministerium des Innern und für Heimat",
+"Auswärtiges Amt",
+"Bundesministerium für Arbeit und Soziales",
+"Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend / Bundesministerium für Gesundheit"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003510/80082",
+"stand": "2026-06-23"
+}
+],
+"stand": "2026-06-23"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Stefan Lachenmayr",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-04",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Stefan Lachenmayr ist laut Lobbyregister Interessenvertretung bei Deutscher Olympischer Sportbund (DOSB) und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-04. Deutscher Olympischer Sportbund (DOSB) erhielt laut Lobbyregister Mittel von: Bundesministerium des Innern und für Heimat/ Bundesamt für Migration und Flüchtlinge; Bundeministerium des Innern und für Heimat; Bundesministerium des Innern und für Heimat; Auswärtiges Amt; Bundesministerium für Arbeit und Soziales; Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend / Bundesministerium für Gesundheit.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium des Innern und für Heimat/ Bundesamt für Migration und Flüchtlinge",
+"Bundeministerium des Innern und für Heimat",
+"Bundesministerium des Innern und für Heimat",
+"Auswärtiges Amt",
+"Bundesministerium für Arbeit und Soziales",
+"Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend / Bundesministerium für Gesundheit"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003510/80082",
+"stand": "2026-06-23"
+}
+],
+"stand": "2026-06-23"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 4480001,
+"bis": 4490000
+},
+"lobbyausgaben": {
+"von": 510001,
+"bis": 520000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ac/86/769886/DOSB-JA-2025-Pruefbericht-WP-Testatexemplar-15-04-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003510/80082",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-23",
+"etikett": "Eigenangabe",
+"version": 25
+}
+]
+}

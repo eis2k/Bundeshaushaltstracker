@@ -1,0 +1,215 @@
+{
+"id": "tafel-deutschland",
+"name": "Tafel Deutschland ",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "tafel.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000080",
+"eintrag_id": 74928,
+"version": 12,
+"stand": "2026-06-12",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000080/74928",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/59/89/756714/Lobbyregister-Registereintraege-Detailansicht-R000080-2026-06-12_08-13-14.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"epl": "17",
+"von": 460001,
+"bis": 470000,
+"zweck": "Zuwendung zur Bildungspauschale und zu allgemeinen Verwaltungsausgaben im Bundesfreiwilligendienst",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesanstalt für Landwirtschaft und Ernährung",
+"epl": "10",
+"von": 800001,
+"bis": 810000,
+"zweck": "Zuwendung für das Projekt Tafel-Connect",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1260002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Sirkka Jendis",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000080/74928",
+"stand": "2026-06-12"
+}
+},
+{
+"name": "Marco Koppe",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000080/74928",
+"stand": "2026-06-12"
+}
+},
+{
+"name": "Andreas Steppuhn",
+"funktion": "Vorsitzender (seit 07.07.2023)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000080/74928",
+"stand": "2026-06-12"
+}
+},
+{
+"name": "Maximilian Blaeser",
+"funktion": "stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000080/74928",
+"stand": "2026-06-12"
+}
+},
+{
+"name": "Willi Schmid",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000080/74928",
+"stand": "2026-06-12"
+}
+},
+{
+"name": "Kai Noack",
+"funktion": "stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000080/74928",
+"stand": "2026-06-12"
+}
+},
+{
+"name": "Anna Verres",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000080/74928",
+"stand": "2026-06-12"
+}
+},
+{
+"name": "Andrea Jahnen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000080/74928",
+"stand": "2026-06-12"
+}
+},
+{
+"name": "Kai Dethloff",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000080/74928",
+"stand": "2026-06-12"
+}
+},
+{
+"name": "Regina Treutwein",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000080/74928",
+"stand": "2026-06-12"
+}
+},
+{
+"name": "Lea Grasruck",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000080/74928",
+"stand": "2026-06-12"
+}
+},
+{
+"name": "Joshua Luthin",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000080/74928",
+"stand": "2026-06-12"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 22290001,
+"bis": 22300000
+},
+"mitgliedsbeitraege": {
+"von": 110001,
+"bis": 120000
+},
+"lobbyausgaben": {
+"von": 70001,
+"bis": 80000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/57/2b/756713/Jahresabschluss2025-Bilanz-und-GuV.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000080/74928",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-12",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

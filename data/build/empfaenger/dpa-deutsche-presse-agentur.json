@@ -1,0 +1,118 @@
+{
+"id": "dpa-deutsche-presse-agentur",
+"name": "dpa Deutsche Presse-Agentur GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Hamburg",
+"website": "www.dpa.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007655",
+"eintrag_id": 81653,
+"version": 3,
+"stand": "2026-07-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007655/81653",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c0/66/799679/Lobbyregister-Registereintraege-Detailansicht-R007655-2026-07-01_13-26-26.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Forschung, Technologie & Raumfahrt",
+"epl": "30",
+"von": 90001,
+"bis": 100000,
+"zweck": "Rund zwei Drittel der Unternehmen sehen sich laut Bitkom als Nachzügler bei KI, etwa jedes fünfte glaubt sogar, den Anschluss verpasst zu haben. Angesichts dieser Herausforderung plant das Projekt GenKI4Media die Entwicklung von innovativen KI-Assistenten und Plug-ins für den Medien-, Kultur- und Kreativbereich, die das innovative Potential generativer KI ELSI-konform erschließen und für das Wissensmanagement in andere Branchen übertragbar sind. Mit der entstehenden GenKI-Lösung, die gezielt konkrete Branchen und Aufgabenbereiche adressiert, wird insbesondere der Mittelstand gefördert, der sich die kostenintensiven, umfangreichen Angebote der Marktführer oft nicht leisten kann. GenKI4Media unterstützt Standortsicherung, Beschäftigung und Wettbewerbsfähigkeit, indem die neuen generativen KI-Assistenten zu wirtschaftlich wichtigen Zielen beitragen. dpa unterstützt als Anwendungspartner das Konsortium aus DFKI, Fraunhofer Fokus, Condat AG, 3pc, Art+Com und Deutsche Welle.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 90001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Peter Kropsch",
+"funktion": "Vorsitzender der Geschäftsführung (CEO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007655/81653",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Andreas Schmidt",
+"funktion": "Geschäftsführer (CFO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007655/81653",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Christopher Höpfner",
+"funktion": "Leiter Vertrieb und Marketing (CRO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007655/81653",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Raabe Sebastian",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007655/81653",
+"stand": "2026-07-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/9c/2e/799678/Geschaftsbericht_dpa_GmbH_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007655/81653",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-01",
+"etikett": "Eigenangabe",
+"version": 3
+}
+]
+}

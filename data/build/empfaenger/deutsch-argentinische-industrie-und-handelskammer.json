@@ -1,0 +1,98 @@
+{
+"id": "deutsch-argentinische-industrie-und-handelskammer",
+"name": "Deutsch-Argentinische Industrie-und Handelskammer (AHK Argentinien)",
+"art": "verein_stiftung",
+"rechtsform": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+"sitz": "Ciudad Autónoma de Buenos Aires",
+"website": "www.ahkargentina.com.ar",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006313",
+"eintrag_id": 82213,
+"version": 7,
+"stand": "2026-07-02",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006313/82213",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/01/18/803241/Lobbyregister-Registereintraege-Detailansicht-R006313-2026-07-02_17-36-09.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Ministerio Federal de Cooperación Económica y Desarrollo en Alemania: BMZ",
+"epl": null,
+"von": 700001,
+"bis": 710000,
+"zweck": "Subvención federal a favor de la Cámara de Industria y Comercio Argentino-Alemana como parte de la red de cámaras de comercio extranjeras de Alemania para el ejercicio 2025.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 700001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Aleksandar Medjedovic",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006313/82213",
+"stand": "2026-07-02"
+}
+},
+{
+"name": "Julieta Barra",
+"funktion": "Erweiterter Führungskreis / Leiterin Außenwirtschaft",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006313/82213",
+"stand": "2026-07-02"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 650001,
+"bis": 660000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/32/30/803240/EECC-al-31-12-2025-Legalizado.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006313/82213",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-02",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

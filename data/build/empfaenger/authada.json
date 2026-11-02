@@ -1,0 +1,96 @@
+{
+"id": "authada",
+"name": "AUTHADA GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Darmstadt",
+"website": "www.authada.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007918",
+"eintrag_id": 74931,
+"version": 2,
+"stand": "2026-04-07",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007918/74931",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/b5/c7/720259/Lobbyregister-Registereintraege-Detailansicht-R007918-2026-04-07_14-33-52.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 70001,
+"bis": 80000,
+"zweck": "WIR! - Blockchain - IWCeID Integration eID in Inter-Wallet-Credential-Exchange, TP1: Etablierung der eID in IWCE und Geschäftsmodellaufbau",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 70001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Andreas Plies",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007918/74931",
+"stand": "2026-04-07"
+}
+},
+{
+"name": "Mauritz Wilkes",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007918/74931",
+"stand": "2026-04-07"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/a5/30/720258/Darmstadt_HRB_94377_25-03-2026.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007918/74931",
+"abgerufen": "2026-11-02",
+"stand": "2026-04-07",
+"etikett": "Eigenangabe",
+"version": 2
+}
+]
+}

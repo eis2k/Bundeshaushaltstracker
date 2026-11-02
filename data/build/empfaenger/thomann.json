@@ -1,0 +1,106 @@
+{
+"id": "thomann",
+"name": "Thomann GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Burgebrach",
+"website": "www.thomann.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R008174",
+"eintrag_id": 85350,
+"version": 4,
+"stand": "2026-09-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008174/85350",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/4a/3f/837378/Lobbyregister-Registereintraege-Detailansicht-R008174-2026-09-01_17-15-24.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BAFA",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "Förderung energetische Maßnahmen.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 10001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Johann Thomann",
+"funktion": "CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008174/85350",
+"stand": "2026-09-01"
+}
+},
+{
+"name": "Elisabeth Neser",
+"funktion": "ppa",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008174/85350",
+"stand": "2026-09-01"
+}
+},
+{
+"name": "Kevin Rodler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008174/85350",
+"stand": "2026-09-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/7d/db/837377/THOG_2024_-Testat-final.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008174/85350",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-01",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

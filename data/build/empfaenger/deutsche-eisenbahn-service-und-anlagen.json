@@ -1,0 +1,114 @@
+{
+"id": "deutsche-eisenbahn-service-und-anlagen",
+"name": "Deutsche Eisenbahn Service und Anlagen GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Putlitz",
+"website": "https://www.desag-holding.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007047",
+"eintrag_id": 85887,
+"version": 5,
+"stand": "2026-09-16",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007047/85887",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f4/1a/842378/Lobbyregister-Registereintraege-Detailansicht-R007047-2026-09-16_09-30-31.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 40001,
+"bis": 50000,
+"zweck": "Forschung und Entwicklung zu alternativen Antrieben im Schienenverkehr",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "Forschung, Entwicklung und Innovation zu Digitale Technologien",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 70002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ralf Böhme",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007047/85887",
+"stand": "2026-09-16"
+}
+},
+{
+"name": "Nadine Maier-Benjo",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007047/85887",
+"stand": "2026-09-16"
+}
+},
+{
+"name": "Björn Schulz",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007047/85887",
+"stand": "2026-09-16"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/0e/19/842377/DESAG-Jahresabschlussbericht-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007047/85887",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-16",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

@@ -1,0 +1,167 @@
+{
+"id": "ews-elektrizitaetswerke-schoenau",
+"name": "EWS Elektrizitätswerke Schönau eG",
+"art": "sonstige",
+"rechtsform": "Eingetragene Genossenschaft (eG)",
+"sitz": "Schönau im Schwarzwald",
+"website": "www.ews-schoenau.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001511",
+"eintrag_id": 87779,
+"version": 19,
+"stand": "2026-10-21",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001511/87779",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/b9/4a/863978/Lobbyregister-Registereintraege-Detailansicht-R001511-2026-10-21_15-37-33.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "KfW Bankengruppe",
+"epl": "09",
+"von": 50001,
+"bis": 60000,
+"zweck": "Gemeinde Hausen im Wiesental; KfW-Förderung für integriertes Quartierskonzept",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "Förderung für Energie- und Ressourceneffizienz",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)",
+"epl": "09",
+"von": 1380001,
+"bis": 1390000,
+"zweck": "Transnet Bafa Zuschuss Netzleitungen in Minseln, Steinen Höllstein und Zell Schwarznau",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1440003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Armin Komenda",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001511/87779",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Alexander Sladek",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001511/87779",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Sebastian Sladek",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001511/87779",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Anja Burde",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001511/87779",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Sophia Latka-Kiel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001511/87779",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Michael Iovu",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001511/87779",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Reemt Heuke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001511/87779",
+"stand": "2026-10-21"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 310001,
+"bis": 320000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/d1/99/863971/ews-integrierter-geschaeftsbericht-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001511/87779",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-21",
+"etikett": "Eigenangabe",
+"version": 19
+}
+]
+}

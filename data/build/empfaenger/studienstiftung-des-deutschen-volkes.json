@@ -1,0 +1,126 @@
+{
+"id": "studienstiftung-des-deutschen-volkes",
+"name": "Studienstiftung des deutschen Volkes",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bonn",
+"website": "www.studienstiftung.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002925",
+"eintrag_id": 79909,
+"version": 5,
+"stand": "2026-06-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002925/79909",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ce/ac/784135/Lobbyregister-Registereintraege-Detailansicht-R002925-2026-06-29_14-01-26.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 122600001,
+"bis": 122610000,
+"zweck": "Zuwendungen aus dem Bundeshaushalt nach den Nebenbestimmungen auf Ausgabenbasis des Bundesministeriums für Bildung und Forschung zur Projektförderung (NABF) - für die Vergabe von Stipendien und Studienkostenpauschalen - für die Förderung von Promotionen, Teilnehmern an Aufbaustudiengängen und die Post-doc Phase - für Verwaltungs-, Auswahl- und Betreuungspauschalen - für vereinbarte Projekte - für das Projekt STSDIG2023 - für das Projekt BAFFSTS - zur Stärkung von China-Kompetenz unter dne Geförderten der Studienstiftung des deutschen Volkes.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 1040001,
+"bis": 1050000,
+"zweck": "Zuwendungen aus dem ERP-Sondervermögen nach den Allgemeine Nebenbestimmungen für Zuwendungen zur Projektförderung (ANBest-P) zur Durchführung des McCloy-Academic-Scholarship-Program und des Stipendien-Programms ERP-USA.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 123640002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Michael Hoch",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002925/79909",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Ansgar Büschges",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002925/79909",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Annette Julius",
+"funktion": "Generalsekretärin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002925/79909",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Sibylle Kalmbach",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002925/79909",
+"stand": "2026-06-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 2290001,
+"bis": 2300000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ec/46/784134/Studienstiftung-des-deutschen-Volkes-e-V-endgueltiger-Jahresabschluss-31-12-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002925/79909",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-29",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

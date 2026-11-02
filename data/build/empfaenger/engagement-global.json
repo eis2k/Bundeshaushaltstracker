@@ -1,0 +1,140 @@
+{
+"id": "engagement-global",
+"name": "Engagement Global gGmbH",
+"art": "oeffentlich",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": true,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "23-2302-68501",
+"text": "Institutionelle Förderung der Engagement Global gGmbH - Betrieb",
+"epl": "23",
+"epl_text": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"werte": {
+"2015": {
+"soll": 19235000,
+"ist": 18629000
+},
+"2016": {
+"soll": 21040000,
+"ist": 20302200
+},
+"2017": {
+"soll": 26097000,
+"ist": 24437990
+},
+"2018": {
+"soll": 27227000,
+"ist": 26991000
+},
+"2019": {
+"soll": 29452000,
+"ist": 26918000
+},
+"2020": {
+"soll": 34704000,
+"ist": 31615450
+},
+"2021": {
+"soll": 36342000,
+"ist": 33874100
+},
+"2022": {
+"soll": 34774000,
+"ist": 34388300
+},
+"2023": {
+"soll": 34908000,
+"ist": 33683800
+},
+"2024": {
+"soll": 35150000,
+"ist": 35462800
+},
+"2025": {
+"soll": 36150000,
+"ist": 36525000
+},
+"2026": {
+"soll": 39650000,
+"ist": null
+}
+}
+},
+{
+"id": "23-2302-89401",
+"text": "Institutionelle Förderung der Engagement Global gGmbH - Zuschüsse für Investitionen",
+"epl": "23",
+"epl_text": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"werte": {
+"2015": {
+"soll": 350000,
+"ist": 615000
+},
+"2016": {
+"soll": 1000000,
+"ist": 776000
+},
+"2017": {
+"soll": 1275000,
+"ist": 1708420
+},
+"2018": {
+"soll": 1037000,
+"ist": 1150000
+},
+"2019": {
+"soll": 1658000,
+"ist": 3598000
+},
+"2020": {
+"soll": 1376000,
+"ist": 3773000
+},
+"2021": {
+"soll": 989000,
+"ist": 2521500
+},
+"2022": {
+"soll": 967000,
+"ist": 999400
+},
+"2023": {
+"soll": 967000,
+"ist": 1132000
+},
+"2024": {
+"soll": 967000,
+"ist": 552000
+},
+"2025": {
+"soll": 967000,
+"ist": 592000
+},
+"2026": {
+"soll": 967000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

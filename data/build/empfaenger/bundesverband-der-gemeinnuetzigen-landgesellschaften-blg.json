@@ -1,0 +1,87 @@
+{
+"id": "bundesverband-der-gemeinnuetzigen-landgesellschaften-blg",
+"name": "Bundesverband der gemeinnützigen Landgesellschaften BLG",
+"art": "verein_stiftung",
+"rechtsform": "Nicht rechtsfähiger Verein",
+"sitz": "Berlin",
+"website": "www.blg-berlin.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003065",
+"eintrag_id": 73646,
+"version": 8,
+"stand": "2026-03-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003065/73646",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/07/e8/710146/Lobbyregister-Registereintraege-Detailansicht-R003065-2026-03-24_12-04-10.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Landwirtschaftliche Rentenbank",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Förderung für Fachinformationen und Fachveranstaltungen zur Ländlichen Entwicklung und zum ländlichen Bodenmarkt",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 10001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Udo Hemmerling",
+"funktion": "Geschäftsführer des BLG",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003065/73646",
+"stand": "2026-03-24"
+}
+},
+{
+"name": "Daniela Degen-Lesske",
+"funktion": "Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003065/73646",
+"stand": "2026-03-24"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 210001,
+"bis": 220000
+},
+"lobbyausgaben": {
+"von": 240001,
+"bis": 250000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": null
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003065/73646",
+"abgerufen": "2026-11-02",
+"stand": "2026-03-24",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

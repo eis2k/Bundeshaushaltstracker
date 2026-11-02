@@ -1,0 +1,126 @@
+{
+"id": "bundesverband-deutscher-galerien-und-kunsthaendler",
+"name": "Bundesverband Deutscher Galerien und Kunsthändler e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://www.bvdg.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003655",
+"eintrag_id": 82298,
+"version": 10,
+"stand": "2026-07-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003655/82298",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/3c/54/804070/Lobbyregister-Registereintraege-Detailansicht-R003655-2026-07-03_11-05-07.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Die Beauftragte der Bundesregierung für Kultur und Medien",
+"epl": "04",
+"von": 30001,
+"bis": 40000,
+"zweck": "Förderprogramm für junge Künstlerinnen und Künstler NEW POSITIONS auf der ART COLOGNE",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Die Beauftragte der Bundesregierung für Kultur und Medien",
+"epl": "04",
+"von": 30001,
+"bis": 40000,
+"zweck": "re:discover@art karlsruhe: Förderprogramm für Künstlerinnen und Künstler in einer gereiften Schaffensphase auf der art karlsruhe",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 60002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Kristian Jarmuschek",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003655/82298",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "Thole Rotermund",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003655/82298",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "Birgit Maria Sturm",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003655/82298",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "Anke Schmidt",
+"funktion": "2. Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003655/82298",
+"stand": "2026-07-03"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 220001,
+"bis": 230000
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ed/98/804069/BVDG_Jahresabschluss_2924.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003655/82298",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-03",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

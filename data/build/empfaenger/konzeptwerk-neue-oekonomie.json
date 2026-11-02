@@ -1,0 +1,107 @@
+{
+"id": "konzeptwerk-neue-oekonomie",
+"name": "Konzeptwerk Neue Ökonomie e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Leipzig",
+"website": "https://konzeptwerk-neue-oekonomie.org/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004357",
+"eintrag_id": 77567,
+"version": 6,
+"stand": "2026-06-22",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004357/77567",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/97/9d/766994/Lobbyregister-Registereintraege-Detailansicht-R004357-2026-06-22_09-26-32.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Engagement Global gGmbH",
+"epl": "23",
+"von": 240001,
+"bis": 250000,
+"zweck": "2x Projektförderung Entwicklungspolitische Bildungsarbeit",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Europäischer Sozialfonds für Deutschland",
+"epl": null,
+"von": 50001,
+"bis": 60000,
+"zweck": "Förderprogramm Nachhaltig Wirken",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 290002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Anja Höfner",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004357/77567",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Frauke Linne",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004357/77567",
+"stand": "2026-06-22"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 140001,
+"bis": 150000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/4d/96/766993/Finanzenbericht_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004357/77567",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-22",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

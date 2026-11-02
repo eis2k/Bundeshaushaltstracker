@@ -1,0 +1,728 @@
+{
+"id": "agora-think-tanks",
+"name": "Agora Think Tanks gGmbH",
+"art": "verein_stiftung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "https://www.agora-thinktanks.org/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003460",
+"eintrag_id": 87726,
+"version": 100,
+"stand": "2026-10-19",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/a4/d7/863028/Lobbyregister-Registereintraege-Detailansicht-R003460-2026-10-19_10-37-23.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Deutsche Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH",
+"epl": "23",
+"von": 1100001,
+"bis": 1110000,
+"zweck": "Mehrere Forschungsprogramme in Europa und international zur Transformation des Stromsystems und zu Fragen der Wasserstoffökonomie",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Projektträger Jülich (Forschungszentrum Jülich GmbH)",
+"epl": "30",
+"von": 160001,
+"bis": 170000,
+"zweck": "Forschung zu Sektorkopplung und Wasserstofftechnologien",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1260002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Markus Steigenberger",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Frank Peter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Aylin Shawkat",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Paul Münnich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Matthias Deutsch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Thorsten Lenck",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Jahel Mielke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Julia Metz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Harald Grethe",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Christine Chemnitz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Katharina Hartz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Uta Weiß",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Mareike Herrndorf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Emir Çolak",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Fabian Barrera Garavito",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Stephanie Wunder",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Tanja Dräger de Teran",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Anna Martinsohn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Nils Ole Plambeck",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Wilhelm Klümper",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Julian Somers",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Philipp  Godron",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Jakob Meemken",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Leandro Janke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Mathias Koch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Referent",
+"stelle": "Auswärtiges Amt (AA) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2022-02"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Anna Kraus",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Niels Tage Wauer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Moritz Zackariat",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Tom Hollander",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Cora Petrick",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2023-06"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Fabian Huneke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Mira Wenzel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2023-05"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Nikolai Pushkarev",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Karina Marzano Franco",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Lea Carolin Mohnen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Ysanne Ferelith Choksey",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Kathrin Böhling",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Maximilian Knoll-Rosenberg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Benjamin Görlach",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Marco Giuli",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Simon De Stercke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Janne Görlach",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Julia Bläsius",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Felix Kütz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Frauke Thies",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Max Ostermayer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Florian Holz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Antonia Helena Sanllorente",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Sonja Verena Thielges",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Eva Meschede",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Alejandro Munera Parra",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Mathias Koch",
+"funktion_person": "Referent, Auswärtiges Amt (AA) oder dessen Geschäftsbereich, bis 2022-02",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Mathias Koch ist laut Lobbyregister Interessenvertretung bei Agora Think Tanks gGmbH und hatte zuvor eine öffentliche Funktion: Referent, Auswärtiges Amt (AA) oder dessen Geschäftsbereich, bis 2022-02. Agora Think Tanks gGmbH erhielt laut Lobbyregister Mittel von: Deutsche Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH; Projektträger Jülich (Forschungszentrum Jülich GmbH).",
+"ausschuesse": [],
+"geld_aus": [
+"Deutsche Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH",
+"Projektträger Jülich (Forschungszentrum Jülich GmbH)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+],
+"stand": "2026-10-19"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Cora Petrick",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-06",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Cora Petrick ist laut Lobbyregister Interessenvertretung bei Agora Think Tanks gGmbH und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-06. Agora Think Tanks gGmbH erhielt laut Lobbyregister Mittel von: Deutsche Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH; Projektträger Jülich (Forschungszentrum Jülich GmbH).",
+"ausschuesse": [],
+"geld_aus": [
+"Deutsche Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH",
+"Projektträger Jülich (Forschungszentrum Jülich GmbH)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+],
+"stand": "2026-10-19"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Mira Wenzel",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-05",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Mira Wenzel ist laut Lobbyregister Interessenvertretung bei Agora Think Tanks gGmbH und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-05. Agora Think Tanks gGmbH erhielt laut Lobbyregister Mittel von: Deutsche Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH; Projektträger Jülich (Forschungszentrum Jülich GmbH).",
+"ausschuesse": [],
+"geld_aus": [
+"Deutsche Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH",
+"Projektträger Jülich (Forschungszentrum Jülich GmbH)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"stand": "2026-10-19"
+}
+],
+"stand": "2026-10-19"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 21570001,
+"bis": 21580000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 150001,
+"bis": 160000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/30/52/863027/Jahresabschluss_2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003460/87726",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-19",
+"etikett": "Eigenangabe",
+"version": 100
+}
+]
+}

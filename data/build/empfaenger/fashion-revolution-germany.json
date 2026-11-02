@@ -1,0 +1,120 @@
+{
+"id": "fashion-revolution-germany",
+"name": "Fashion Revolution Germany e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://fashionrevolutiongermany.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007401",
+"eintrag_id": 54096,
+"version": 1,
+"stand": "2025-06-02",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007401/54096",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/e1/15/526492/Lobbyregister-Registereintraege-Detailansicht-R007401-2025-06-02_15-46-01.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "FEB Förderprogramm Entwicklungspolitische Bildung",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Das FEB bietet Projekten der entwicklungspolitischen Informations- und Bildungsarbeit finanzielle Unterstützung.",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 10001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Carina Bischof",
+"funktion": "1. Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007401/54096",
+"stand": "2025-06-02"
+}
+},
+{
+"name": "Max Raymund Gilgenmann",
+"funktion": "2. Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007401/54096",
+"stand": "2025-06-02"
+}
+},
+{
+"name": "Viola Wohlgemuth",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007401/54096",
+"stand": "2025-06-02"
+}
+},
+{
+"name": "Ruth Hammerbacher",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007401/54096",
+"stand": "2025-06-02"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/a4/94/526491/FRG_Einnahmen-Uberschussrechnung-_-Lexware.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007401/54096",
+"abgerufen": "2026-11-02",
+"stand": "2025-06-02",
+"etikett": "Eigenangabe",
+"version": 1
+}
+]
+}

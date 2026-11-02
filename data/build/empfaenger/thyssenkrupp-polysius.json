@@ -1,0 +1,131 @@
+{
+"id": "thyssenkrupp-polysius",
+"name": "thyssenkrupp Polysius GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Beckum",
+"website": "https://www.thyssenkrupp-polysius.com/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006215",
+"eintrag_id": 72630,
+"version": 8,
+"stand": "2026-03-26",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006215/72630",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/9a/c0/711676/Lobbyregister-Registereintraege-Detailansicht-R006215-2026-03-26_08-38-03.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 10001,
+"bis": 20000,
+"zweck": "C²inCO2 Altbetonrecycling; CO2-WIN",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 1,
+"bis": 10000,
+"zweck": "SlagCem; Steel Slag Processing; FONA ReMin.",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "BMWK (Energieforschungsprogramm)",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "CemSol: Entwicklung eines mit der Zementherstellung gekoppelten Calcium-Loopings (CaL)",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "BMBF (Kopernikus Projekte)",
+"epl": "30",
+"von": 40001,
+"bis": 50000,
+"zweck": "ENKOGRO - Synergies for energy coupling processes (FenOxy)",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 60004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christian Myland",
+"funktion": "CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006215/72630",
+"stand": "2026-03-26"
+}
+},
+{
+"name": "Irene Ratshibaya",
+"funktion": "CFO ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006215/72630",
+"stand": "2026-03-26"
+}
+},
+{
+"name": "Martin Eckert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006215/72630",
+"stand": "2026-03-26"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 130001,
+"bis": 140000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/4c/0f/711669/Geschaeftsbericht_2024_2025_der_thyssenkrupp_AG_WEB-1.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006215/72630",
+"abgerufen": "2026-11-02",
+"stand": "2026-03-26",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

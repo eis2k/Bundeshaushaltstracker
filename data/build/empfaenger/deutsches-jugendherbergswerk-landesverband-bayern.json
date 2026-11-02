@@ -1,0 +1,128 @@
+{
+"id": "deutsches-jugendherbergswerk-landesverband-bayern",
+"name": "Deutsches Jugendherbergswerk, Landesverband Bayern e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "München",
+"website": "www.jugendherberge.de/bayern",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005290",
+"eintrag_id": 77843,
+"version": 7,
+"stand": "2026-07-27",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005290/77843",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/d6/7c/820259/Lobbyregister-Registereintraege-Detailansicht-R005290-2026-07-27_10-38-13.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundeskasse Trier (Bundesfreiwilligenamt)",
+"epl": null,
+"von": 70001,
+"bis": 80000,
+"zweck": "Zuschuss Bundesfreiwillige",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundeswirtschaftsministerium",
+"epl": null,
+"von": 90001,
+"bis": 100000,
+"zweck": "Heizungsmodernisierung Jugendherberge Eichstätt/Anschluss Fernwärme",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundeslandwirtschaftsministerium",
+"epl": null,
+"von": 30001,
+"bis": 40000,
+"zweck": "RIBE-Beratung, Förderung der Umstellung auf ökologische Lebensmittel",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 190003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Klaus Umbach",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005290/77843",
+"stand": "2026-07-27"
+}
+},
+{
+"name": "Michael Gößl",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005290/77843",
+"stand": "2026-07-27"
+}
+},
+{
+"name": "Marko Junghänel",
+"funktion": "Strategische Kommunikation",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005290/77843",
+"stand": "2026-07-27"
+}
+},
+{
+"name": "Daniel Sautter",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005290/77843",
+"stand": "2026-07-27"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 2110001,
+"bis": 2120000
+},
+"lobbyausgaben": {
+"von": 50001,
+"bis": 60000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": null
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005290/77843",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-27",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

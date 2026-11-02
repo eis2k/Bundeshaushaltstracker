@@ -1,0 +1,172 @@
+{
+"id": "powerco",
+"name": "PowerCo SE",
+"art": "unternehmen",
+"rechtsform": "Europäische Aktiengesellschaft (SE)",
+"sitz": "Salzgitter",
+"website": "https://www.powerco.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006923",
+"eintrag_id": 86491,
+"version": 17,
+"stand": "2026-09-28",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006923/86491",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/e8/b5/848637/Lobbyregister-Registereintraege-Detailansicht-R006923-2026-09-28_11-33-09.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bund",
+"epl": "60",
+"von": 160001,
+"bis": 170000,
+"zweck": "Zuwendungen für Projekte (1) MiKoBatt (Fabrik- und Maschinenkonzepte für eine wirtschaftlich effiziente Batteriezellproduktion mit Mikro-Umgebungen), (2) DiRecReg (Agile Prozesskette für das direkte Recycling von Lithium-Ionen-Batterien und die Regeneration von Aktivmaterialien), (3) ENTISE (Entwicklung der Natrium-Ionen-Technologie für industriell skalierbare Energiespeichersysteme) sowie (4) HVBatCycle (HV-Batterie-Recycling und Resyntheseprozesse für nachhaltige und funktionsbewahrende Materialkreisläufe)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 160001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Frank Blome",
+"funktion": "Mitglied des Leitungsorgans, CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006923/86491",
+"stand": "2026-09-28"
+}
+},
+{
+"name": "Kai Alexander Müller",
+"funktion": "Mitglied des Leitungsorgans, CFO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006923/86491",
+"stand": "2026-09-28"
+}
+},
+{
+"name": "Alexander Schmitt",
+"funktion": "Mitglied des Leitungsorgans, CPO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006923/86491",
+"stand": "2026-09-28"
+}
+},
+{
+"name": "Heinz Willi Vassen",
+"funktion": "Mitglied des Leitungsorgans, CTO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006923/86491",
+"stand": "2026-09-28"
+}
+},
+{
+"name": "Sebastian Krapoth",
+"funktion": "Mitglied des Leitungsorgans, CHRO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006923/86491",
+"stand": "2026-09-28"
+}
+},
+{
+"name": "René Horst  Reif",
+"funktion": "Mitglied des Leitungsorgans, COO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006923/86491",
+"stand": "2026-09-28"
+}
+},
+{
+"name": "Christiane Miethe",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006923/86491",
+"stand": "2026-09-28"
+}
+},
+{
+"name": "Daniela Blaschke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006923/86491",
+"stand": "2026-09-28"
+}
+},
+{
+"name": "Anne May",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006923/86491",
+"stand": "2026-09-28"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/c8/57/848634/Braunschweig_HRB_209737_08-06-2026.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006923/86491",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-28",
+"etikett": "Eigenangabe",
+"version": 17
+}
+]
+}

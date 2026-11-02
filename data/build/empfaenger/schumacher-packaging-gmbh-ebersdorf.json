@@ -1,0 +1,101 @@
+{
+"id": "schumacher-packaging-gmbh-ebersdorf",
+"name": "Schumacher Packaging GmbH Ebersdorf",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Ebersdorf",
+"website": "https://www.schumacher-packaging.com/de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005880",
+"eintrag_id": 62034,
+"version": 4,
+"stand": "2025-07-15",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005880/62034",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/8f/12/584693/Lobbyregister-Registereintraege-Detailansicht-R005880-2025-07-15_10-36-31.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Kreditanstalt für Wiederaufbau (KfW)",
+"epl": null,
+"von": 1430001,
+"bis": 1440000,
+"zweck": "Zuwendung für das BMUV-Umweltinnovationsprogramm",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "Zuschuss – Richtlinie für die Bundesförderung für Energie- und Ressourceneffizienz in der Wirtschaft",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "Zuschuss – Bundesförderung für Energieeffizienz in der Wirtschaft",
+"geschaeftsjahr": "2023"
+}
+],
+"lobby_untergrenze_bund": 1470003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Björn Schumacher",
+"funktion": "CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005880/62034",
+"stand": "2025-07-15"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2023",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/c4/e8/584691/Bericht-Schumacher-Packaging-GmbH-Ebersdorf-2022.pdf",
+"geschaeftsjahr": "2022",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005880/62034",
+"abgerufen": "2026-11-02",
+"stand": "2025-07-15",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

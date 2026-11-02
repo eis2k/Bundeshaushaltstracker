@@ -1,0 +1,244 @@
+{
+"id": "vcd",
+"name": "VCD (Verkehrsclub Deutschland) e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.vcd.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001837",
+"eintrag_id": 72129,
+"version": 12,
+"stand": "2026-06-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001837/72129",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/11/5b/786026/Lobbyregister-Registereintraege-Detailansicht-R001837-2026-06-29_16-52-25.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Umweltbundesamt",
+"epl": "16",
+"von": 80001,
+"bis": 90000,
+"zweck": "Fuß- und fahrradfreundliche Schule – für mehr aktive Mobilität an Schulen Argumentieren für die Verkehrswende – so gelingt der Dialog! Lärmaktionsplanung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Logistik und Mobilität",
+"epl": "12",
+"von": 90001,
+"bis": 100000,
+"zweck": "Mit:Rad - Auf zwei Rädern zu mehr Selbstständigkeit und Teilhabe",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 170002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Matthias Kurzeck",
+"funktion": "Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001837/72129",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Thomas J. Mager",
+"funktion": "Bundesschatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001837/72129",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Monika Zimmermann",
+"funktion": "Mitglied des Bundesvorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001837/72129",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Martin Tönnes",
+"funktion": "Mitglied des Bundesvorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001837/72129",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Lorenz Schauer",
+"funktion": "Bundesvorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001837/72129",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Carolin Ritter",
+"funktion": "Bundesgeschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001837/72129",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Christiane Rohleder",
+"funktion": "Bundesvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Staatssekretärin",
+"stelle": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2025-05"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001837/72129",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Michael Müller-Görnert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001837/72129",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Anika Meenken",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001837/72129",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Jan Langehein",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001837/72129",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Alexander Kaas-Elias",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001837/72129",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Alfred Schreiber",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001837/72129",
+"stand": "2026-06-29"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Christiane Rohleder",
+"funktion_person": "Staatssekretärin, Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN) oder dessen Geschäftsbereich, bis 2025-05",
+"funktion_beim_empfaenger": "Bundesvorsitzende",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Christiane Rohleder ist laut Lobbyregister Bundesvorsitzende bei VCD (Verkehrsclub Deutschland) e.V. und hatte zuvor eine öffentliche Funktion: Staatssekretärin, Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN) oder dessen Geschäftsbereich, bis 2025-05. VCD (Verkehrsclub Deutschland) e.V. erhielt laut Lobbyregister Mittel von: Bundesamt für Logistik und Mobilität; Umweltbundesamt.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesamt für Logistik und Mobilität",
+"Umweltbundesamt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001837/72129",
+"stand": "2026-06-29"
+}
+],
+"stand": "2026-06-29"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 410001,
+"bis": 420000
+},
+"mitgliedsbeitraege": {
+"von": 2760001,
+"bis": 2770000
+},
+"lobbyausgaben": {
+"von": 360001,
+"bis": 370000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/fa/d6/786019/VCD_Jahresbericht_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001837/72129",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-29",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

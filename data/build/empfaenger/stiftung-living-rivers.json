@@ -1,0 +1,86 @@
+{
+"id": "stiftung-living-rivers",
+"name": "Stiftung Living Rivers",
+"art": "oeffentlich",
+"rechtsform": "Stiftung öffentlichen Rechts",
+"sitz": "Hilden",
+"website": "https://www.living-rivers.eu/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004527",
+"eintrag_id": 77176,
+"version": 9,
+"stand": "2026-05-22",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004527/77176",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/b8/14/741183/Lobbyregister-Registereintraege-Detailansicht-R004527-2026-05-22_12-49-14.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Umweltbundesamt",
+"epl": "16",
+"von": 80001,
+"bis": 90000,
+"zweck": "Verbändeförderung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 80001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Mario Sommerhäuser",
+"funktion": "Siftungsvorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004527/77176",
+"stand": "2026-05-22"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Wirtschaftliche Tätigkeit",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/63/18/741182/14916_11849_2024_temporaere-Auswahl-1.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004527/77176",
+"abgerufen": "2026-11-02",
+"stand": "2026-05-22",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

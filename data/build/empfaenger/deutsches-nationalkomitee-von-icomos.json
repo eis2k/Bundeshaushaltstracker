@@ -1,0 +1,107 @@
+{
+"id": "deutsches-nationalkomitee-von-icomos",
+"name": "Deutsches Nationalkomitee von ICOMOS e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.icomos.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003905",
+"eintrag_id": 64871,
+"version": 6,
+"stand": "2026-06-08",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003905/64871",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/19/b1/751825/Lobbyregister-Registereintraege-Detailansicht-R003905-2026-06-08_10-11-59.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesbeauftragte für Kultur und Medien",
+"epl": "04",
+"von": 190001,
+"bis": 200000,
+"zweck": "Projektförderung zum Betrieb der Geschäftsstelle von ICOMOS Deutschland",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 190001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Tino Mager",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003905/64871",
+"stand": "2026-06-08"
+}
+},
+{
+"name": "Gregor Hitzfeld",
+"funktion": "Generalsekretär",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003905/64871",
+"stand": "2026-06-08"
+}
+},
+{
+"name": "Ayhan Ayrilmaz",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003905/64871",
+"stand": "2026-06-08"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 60001,
+"bis": 70000
+},
+"lobbyausgaben": {
+"von": 280001,
+"bis": 290000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/bb/e7/751824/2025_Haushaltsabschluss.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003905/64871",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-08",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

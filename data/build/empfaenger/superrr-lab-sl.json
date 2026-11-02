@@ -1,0 +1,108 @@
+{
+"id": "superrr-lab-sl",
+"name": "SUPERRR Lab SL gGmbH",
+"art": "verein_stiftung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "superrr.net",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000453",
+"eintrag_id": 82005,
+"version": 6,
+"stand": "2026-07-07",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000453/82005",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/2d/3a/808052/Lobbyregister-Registereintraege-Detailansicht-R000453-2026-07-07_16-13-19.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMUV",
+"epl": "16",
+"von": 140001,
+"bis": 150000,
+"zweck": "Projekt Forum Digitale Fairness",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 140001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Julia Kloiber",
+"funktion": "Co-Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000453/82005",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Elisa Lindinger",
+"funktion": "Co-Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000453/82005",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Lisa Ama Schrade",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000453/82005",
+"stand": "2026-07-07"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 830001,
+"bis": 840000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 60001,
+"bis": 70000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/96/47/808051/Taetigkeitsbericht-SUPERRRLab-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000453/82005",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-07",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

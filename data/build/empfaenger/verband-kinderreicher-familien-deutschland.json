@@ -1,0 +1,105 @@
+{
+"id": "verband-kinderreicher-familien-deutschland",
+"name": "Verband kinderreicher Familien Deutschland e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Mönchengladbach ",
+"website": "www.kinderreichefamilien.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004842",
+"eintrag_id": 77899,
+"version": 6,
+"stand": "2026-06-04",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004842/77899",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/4a/85/748731/Lobbyregister-Registereintraege-Detailansicht-R004842-2026-06-04_08-37-08.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministeriums für Familie, Senioren, Frauen und Jugend",
+"epl": null,
+"von": 120001,
+"bis": 130000,
+"zweck": "Personalkostenförderung Geschäftsstelle",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministeriums für Familie, Senioren, Frauen und Jugend",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "Förderung eines Patenprojekts im Rahmen des Bundesprogramms Menschen stärken Menschen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 140002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Elisabeth  Müller",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004842/77899",
+"stand": "2026-06-04"
+}
+},
+{
+"name": "Andreas  Konrad",
+"funktion": "Stellvertretender Vorsitzender ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004842/77899",
+"stand": "2026-06-04"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 10001,
+"bis": 20000
+},
+"lobbyausgaben": {
+"von": 210001,
+"bis": 220000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e6/88/748730/Jahresbericht-nach-Social-Reporting-Standard_2024-final.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004842/77899",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-04",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

@@ -1,0 +1,136 @@
+{
+"id": "krisenchat-gemeinnuetzige",
+"name": "krisenchat gemeinnützige GmbH",
+"art": "verein_stiftung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "https://krisenchat.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005460",
+"eintrag_id": 79729,
+"version": 14,
+"stand": "2026-08-04",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005460/79729",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/3e/72/825979/Lobbyregister-Registereintraege-Detailansicht-R005460-2026-08-04_16-06-28.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 810001,
+"bis": 820000,
+"zweck": "Förderung der Entwicklung, sowie Inbetriebnahme eines Webchats für Hilfesuchende als Alternative zu anderen Messenger Services",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 810001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Kai Lanz",
+"funktion": "Co-CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005460/79729",
+"stand": "2026-08-04"
+}
+},
+{
+"name": "Melanie Eckert",
+"funktion": "Co-CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005460/79729",
+"stand": "2026-08-04"
+}
+},
+{
+"name": "Maria Herrmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Referentin",
+"stelle": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2023-09"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005460/79729",
+"stand": "2026-08-04"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Maria Herrmann",
+"funktion_person": "Referentin, Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR) oder dessen Geschäftsbereich, bis 2023-09",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Maria Herrmann ist laut Lobbyregister Interessenvertretung bei krisenchat gemeinnützige GmbH und hatte zuvor eine öffentliche Funktion: Referentin, Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR) oder dessen Geschäftsbereich, bis 2023-09. krisenchat gemeinnützige GmbH erhielt laut Lobbyregister Mittel von: Bundesministerium für Familie, Senioren, Frauen und Jugend.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Familie, Senioren, Frauen und Jugend"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005460/79729",
+"stand": "2026-08-04"
+}
+],
+"stand": "2026-08-04"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 6920001,
+"bis": 6930000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 100001,
+"bis": 110000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/db/ff/825976/Entwurf_krisenchat-Jahresabschluss-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005460/79729",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-04",
+"etikett": "Eigenangabe",
+"version": 14
+}
+]
+}

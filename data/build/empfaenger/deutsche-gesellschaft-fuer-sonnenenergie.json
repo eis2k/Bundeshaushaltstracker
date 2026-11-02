@@ -1,0 +1,141 @@
+{
+"id": "deutsche-gesellschaft-fuer-sonnenenergie",
+"name": "Deutsche Gesellschaft für Sonnenenergie e.V. (DGS)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://www.dgs.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003560",
+"eintrag_id": 85126,
+"version": 9,
+"stand": "2026-08-26",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003560/85126",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/89/95/835405/Lobbyregister-Registereintraege-Detailansicht-R003560-2026-08-26_15-02-35.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Arbeit und Soziales (BMAS)",
+"epl": "11",
+"von": 10001,
+"bis": 20000,
+"zweck": "Zuschuss im Rahmen des Beratungsprogramms INQA-Coaching (Initiative Neue Qualität der Arbeit) zur Förderung von Digitalisierungsprozessen in kleinen und mittleren Unternehmen. Das Programm wird durch das Bundesministerium für Arbeit und Soziales gefördert und aus dem Europäischen Sozialfonds Plus (ESF Plus) der Europäischen Union kofinanziert. Bewilligungsstelle ist die Deutsche Rentenversicherung Knappschaft-Bahn-See.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 10001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Torsten Lütten",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003560/85126",
+"stand": "2026-08-26"
+}
+},
+{
+"name": "Frank Späte",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003560/85126",
+"stand": "2026-08-26"
+}
+},
+{
+"name": "Lena Kehl",
+"funktion": "2. Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003560/85126",
+"stand": "2026-08-26"
+}
+},
+{
+"name": "Gerald Lange",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003560/85126",
+"stand": "2026-08-26"
+}
+},
+{
+"name": "Peter Eckert",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003560/85126",
+"stand": "2026-08-26"
+}
+},
+{
+"name": "Sebastian Lange",
+"funktion": "3. Vizepräsident / Schriftführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003560/85126",
+"stand": "2026-08-26"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 10001,
+"bis": 20000
+},
+"mitgliedsbeitraege": {
+"von": 420001,
+"bis": 430000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/81/92/835404/Jahresabschluss-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003560/85126",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-26",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

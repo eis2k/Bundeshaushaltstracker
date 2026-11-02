@@ -1,0 +1,333 @@
+{
+"id": "hertie-school",
+"name": "Hertie School gGmbH",
+"art": "forschung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "www.hertie-school.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004993",
+"eintrag_id": 73804,
+"version": 10,
+"stand": "2026-06-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004993/73804",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c6/74/785931/Lobbyregister-Registereintraege-Detailansicht-R004993-2026-06-29_16-39-14.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 390001,
+"bis": 400000,
+"zweck": "- AA-Zukunftsgespräche VI - Deutsch-Französische Zukunftsgespräche (AA-Z VII)",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundesministerium der Finanzen",
+"epl": "08",
+"von": 200001,
+"bis": 210000,
+"zweck": "- BMF IX - Europa im Wahljahr - Die EU am Beginn einer neuen Legislaturperiode (BMF X)",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 700001,
+"bis": 710000,
+"zweck": "- Ariadne - Evidenzbasiertes Assessment für die Gestaltung der deutschen Energiewende - Human Logistics in the Digital Age (CHANSE) - ML-Strom: Maschinelles Lernen für die Strommarktforschung - PerzepEU - Erasmus+ Expertin 2025 (via NA DAAD)",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "DAAD",
+"epl": "30",
+"von": 240001,
+"bis": 250000,
+"zweck": "- DAAD_CIVICA_Nationale Initiative 2.0 - PROMOS 2025 - DAAD Stibet 2024 - LEI Lokale Erasmus+ Initiative 2025 - DAAD HKC Conference: EU as a geopolitical actor (DAAD / John Hopkins)",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "DFG",
+"epl": null,
+"von": 1630001,
+"bis": 1640000,
+"zweck": "- \"Understanding Motivations to Donate Blood\" (DFG grant transfer from Uni Bonn) - DFG-Open-Access-Publikationskosten - DYNAMICS Folgeprojekt - Election forecasts for the German federal election 2025 - REGULATE: Recasting the Regulatory State? - Scrapping, Banning, and Taxing Cars in Germany: Public Economics Analyses - The Anatomy of the Authoritarian Security Apparatus: 1 & 2 - The Contribution of UN Treaty Body Case Law: Development of International Human Rights Law - Zentralbanken in schwierigen Zeiten - Reconfiguring Bobic&Europe - Koordinationsfonds - Issue Voting over the Business Cycle - \"Competition, Incentives, and Belief Formation\" (subproject CRC Transregio 190) - Reconfiguring Dawson & Jachtenfuchs - Divorce and Diagnosis (DiDi) - revised - Labour market regulations - DFG-Open-Access-Publikationskosten 2025-27 - SCRIPTS Allocation \"The Challenge to the Challenge\" & \"Leader Types and (Liberal?) Narratives of the COVID-19 Pandemic\" (with FU Berlin)",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundesministerium für Arbeit und Soziales",
+"epl": "11",
+"von": 150001,
+"bis": 160000,
+"zweck": "- Betriebliche Mitbestimmung in der digitalen Transformation - Inklusive Industriepolitik in der EU",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 3310006,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Axel Thomas Baisch",
+"funktion": "Managing Director",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004993/73804",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Romy Hansum",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004993/73804",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Phillipp Julian Jäger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004993/73804",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Nils Redeker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004993/73804",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Hoai-Thu Nguyen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004993/73804",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Yann Wernert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004993/73804",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Jannik Jansen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Sachbearbeiter / Professional Year",
+"stelle": "Bundesministerium für Arbeit und Soziales (BMAS) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2022-08"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004993/73804",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Linda Hewitt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004993/73804",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Arthur Claus Harry Leichthammer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Sachbearbeiter EA1, Im Rahmen der deutschen Ratspräsidentschaft",
+"stelle": "Bundesministerium der Finanzen (BMF) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2021-06"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004993/73804",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Luise Karla Pauline Quaritsch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004993/73804",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Marlene Schörner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Trainee / Referentin",
+"stelle": "Bundesministerium der Finanzen (BMF) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2025-05"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004993/73804",
+"stand": "2026-06-29"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Jannik Jansen",
+"funktion_person": "Sachbearbeiter / Professional Year, Bundesministerium für Arbeit und Soziales (BMAS) oder dessen Geschäftsbereich, bis 2022-08",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Jannik Jansen ist laut Lobbyregister Interessenvertretung bei Hertie School gGmbH und hatte zuvor eine öffentliche Funktion: Sachbearbeiter / Professional Year, Bundesministerium für Arbeit und Soziales (BMAS) oder dessen Geschäftsbereich, bis 2022-08. Hertie School gGmbH erhielt laut Lobbyregister Mittel von: DFG; Bundesministerium für Bildung und Forschung; Auswärtiges Amt; DAAD; Bundesministerium der Finanzen; Bundesministerium für Arbeit und Soziales.",
+"ausschuesse": [],
+"geld_aus": [
+"DFG",
+"Bundesministerium für Bildung und Forschung",
+"Auswärtiges Amt",
+"DAAD",
+"Bundesministerium der Finanzen",
+"Bundesministerium für Arbeit und Soziales"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004993/73804",
+"stand": "2026-06-29"
+}
+],
+"stand": "2026-06-29"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Arthur Claus Harry Leichthammer",
+"funktion_person": "Sachbearbeiter EA1, Im Rahmen der deutschen Ratspräsidentschaft, Bundesministerium der Finanzen (BMF) oder dessen Geschäftsbereich, bis 2021-06",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Arthur Claus Harry Leichthammer ist laut Lobbyregister Interessenvertretung bei Hertie School gGmbH und hatte zuvor eine öffentliche Funktion: Sachbearbeiter EA1, Im Rahmen der deutschen Ratspräsidentschaft, Bundesministerium der Finanzen (BMF) oder dessen Geschäftsbereich, bis 2021-06. Hertie School gGmbH erhielt laut Lobbyregister Mittel von: DFG; Bundesministerium für Bildung und Forschung; Auswärtiges Amt; DAAD; Bundesministerium der Finanzen; Bundesministerium für Arbeit und Soziales.",
+"ausschuesse": [],
+"geld_aus": [
+"DFG",
+"Bundesministerium für Bildung und Forschung",
+"Auswärtiges Amt",
+"DAAD",
+"Bundesministerium der Finanzen",
+"Bundesministerium für Arbeit und Soziales"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004993/73804",
+"stand": "2026-06-29"
+}
+],
+"stand": "2026-06-29"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Marlene Schörner",
+"funktion_person": "Trainee / Referentin, Bundesministerium der Finanzen (BMF) oder dessen Geschäftsbereich, bis 2025-05",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Marlene Schörner ist laut Lobbyregister Interessenvertretung bei Hertie School gGmbH und hatte zuvor eine öffentliche Funktion: Trainee / Referentin, Bundesministerium der Finanzen (BMF) oder dessen Geschäftsbereich, bis 2025-05. Hertie School gGmbH erhielt laut Lobbyregister Mittel von: DFG; Bundesministerium für Bildung und Forschung; Auswärtiges Amt; DAAD; Bundesministerium der Finanzen; Bundesministerium für Arbeit und Soziales.",
+"ausschuesse": [],
+"geld_aus": [
+"DFG",
+"Bundesministerium für Bildung und Forschung",
+"Auswärtiges Amt",
+"DAAD",
+"Bundesministerium der Finanzen",
+"Bundesministerium für Arbeit und Soziales"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004993/73804",
+"stand": "2026-06-29"
+}
+],
+"stand": "2026-06-29"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Sonstiges",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 14620001,
+"bis": 14630000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 130001,
+"bis": 140000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/77/be/785928/P24_Testat_Hertie_School_gGmbH_2024-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004993/73804",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-29",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

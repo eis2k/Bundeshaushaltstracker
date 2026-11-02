@@ -1,0 +1,144 @@
+{
+"id": "schneider-electric",
+"name": "Schneider Electric GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Düsseldorf",
+"website": "www.schneider-electric.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003948",
+"eintrag_id": 80998,
+"version": 17,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003948/80998",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/dc/b2/792435/Lobbyregister-Registereintraege-Detailansicht-R003948-2026-06-30_15-13-32.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Deutsches Zentrum für Luft- un Raumfahrt e.V.",
+"epl": null,
+"von": 120001,
+"bis": 130000,
+"zweck": "unIT-e² – Reallabor für verNETZte E-Mobilität : Ein Konsortium, bestehend aus insgesamt 31 Partnern der Bereiche Automobil- und Energiewirtschaft, IT und Ladeinfrastruktur sowie Wissenschaft, beschäftigt sich im Rahmen von vier deutschlandweiten Feldversuchen mit der vernetzten E-Mobilität. Im Fokus steht dabei die nutzerfreundliche, großflächige Umsetzung von intelligenten Ladekonzepten. Ziel ist die Entwicklung ganzheitlicher Lösungen für den weiteren Hochlauf der Elektromobilität und deren Netzintegration. Um das komplexe Thema von allen Seiten anzugehen, beteiligen sich Partner entlang der gesamten Wertschöpfungskette – vom Fahrzeug bis ins Energiesystem – an dem Verbundprojekt",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Forschungszentrum Jülich GmbH",
+"epl": null,
+"von": 40001,
+"bis": 50000,
+"zweck": "idFlexNetz - Das Projekt idFlexNetz ist ein innovatives Forschungsvorhaben zur Digitalisierung der Energiebranche. Es verfolgt das Ziel, ein IKT-Ökosystem (Informations- und Kommunikationstechnologie) zu schaffen, das auf den Prinzipien von GAIA-X und den International Data Spaces basiert. Im Zentrum steht die Entwicklung eines Marktplatzes, auf dem digitale Zwillinge, Algorithmen und Softwarelösungen für den Betrieb von Verteilnetzen bereitgestellt und integriert werden können",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Forschungszentrum Jülich GmbH",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "energy-data-X: Ziel ist der Aufbau eines zukunftsfähigen Datenökosystems für die digitale Vernetzung aller Marktakteure. Unser Bestreben ist die Förderung der Energiewende durch die Schaffung eines gemeinsamen Data Space für innovative, datengetriebene Geschäftsmodelle sowie einen standardisierten, effizienten Datenaustausch innerhalb der Energiewirtschaft sowie mit angrenzenden Sektoren. Datensicherheit und individuelle Entscheidungen über den Datenaustausch werden entsprechend den europäischen Gaia-X-Standards zuverlässig gewährleistet.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 170003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Michael Hughes",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003948/80998",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Christine Beck-Sablonski",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003948/80998",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Stefan Kilb",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003948/80998",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Stefan Rinnert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003948/80998",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Peter Weckesser",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003948/80998",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 420001,
+"bis": 430000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/90/6a/792434/SE_Bericht_2024_Bundesanzeiger.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003948/80998",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 17
+}
+]
+}

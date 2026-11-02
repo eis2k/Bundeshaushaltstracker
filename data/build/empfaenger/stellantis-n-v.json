@@ -1,0 +1,334 @@
+{
+"id": "stellantis-n-v",
+"name": "Stellantis N.V.",
+"art": "unternehmen",
+"rechtsform": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+"sitz": "2132 LS Hoofddorp",
+"website": "www.stellantis.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002372",
+"eintrag_id": 86175,
+"version": 8,
+"stand": "2026-09-22",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002372/86175",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/db/15/845537/Lobbyregister-Registereintraege-Detailansicht-R002372-2026-09-22_10-27-25.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 210001,
+"bis": 220000,
+"zweck": "Fördervorhaben \"STADT:up\": Automatisiertes Fahren - Entwicklung und Implementierung von Verfahren zur Perzeption und Fusion für städtische Szenarien und kritische Situationen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 60001,
+"bis": 70000,
+"zweck": "Fördervorhaben \"KI Absicherung\": Development of safeguarding methods and measures for AI applications in the field of Automated Driving.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 80001,
+"bis": 90000,
+"zweck": "Fördervorhaben \"Safe AI Engineering\": Automatisiertes Fahren - Sicherheitsargumentation befähigendes AI Engineering über den gesamten Lebenszyklus einer KI-Funktion.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium der Finanzen (BMF)",
+"epl": "08",
+"von": 70001,
+"bis": 80000,
+"zweck": "Bremsstaubreduzierung für EURO 7",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium der Finanzen (BMF)",
+"epl": "08",
+"von": 120001,
+"bis": 130000,
+"zweck": "Förderung Batterie-Aufarbeitung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium der Finanzen (BMF)",
+"epl": "08",
+"von": 10001,
+"bis": 20000,
+"zweck": "Neuartige Integration des Gurtstraffers in Vordersitzstruktur",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium der Finanzen (BMF)",
+"epl": "08",
+"von": 140001,
+"bis": 150000,
+"zweck": "Virtuelle Validierung von Fahrerassistenzsystemen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium der Finanzen (BMF)",
+"epl": "08",
+"von": 40001,
+"bis": 50000,
+"zweck": "L4 Parking - Infrastrukturbasiertes Autonomes Fahren",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium der Finanzen (BMF)",
+"epl": "08",
+"von": 20001,
+"bis": 30000,
+"zweck": "Fahreraribagmodul mit neuem Airbag-Entfaltungspfad für ein HMI Panel im Lenkrad",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium der Finanzen (BMF)",
+"epl": "08",
+"von": 20001,
+"bis": 30000,
+"zweck": "Ergonomische Schulterabstützung im Fahrzeug",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium der Finanzen (BMF)",
+"epl": "08",
+"von": 40001,
+"bis": 50000,
+"zweck": "Lichtkommunikations- und Beleuchtungstechnologien für autonome Fahrzeuge",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium der Finanzen (BMF)",
+"epl": "08",
+"von": 10001,
+"bis": 20000,
+"zweck": "Sicherheitskonzept für Hochvolt-Batterien im Fahrzeuginnenraum von Brennstoffzellenfahrzeugen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium der Finanzen (BMF)",
+"epl": "08",
+"von": 30001,
+"bis": 40000,
+"zweck": "Deaktivierung von Pathogenen und Desinfektion des Fahrzeuginnenraums",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 850013,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Antonio Filosa",
+"funktion": "Chairman",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002372/86175",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Robert Peugeot",
+"funktion": "Vice Chairman",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002372/86175",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Henri de la Croix de Castries",
+"funktion": "Senior Independent Director",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002372/86175",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Benoît Ribadeau-Dumas",
+"funktion": "Non-executive Director",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002372/86175",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Nicolas Dufourcq",
+"funktion": "Non-executive Director",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002372/86175",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Ann Frances  Godbehere",
+"funktion": "Non-executive Director",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002372/86175",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Fiona Clare  Cicconi",
+"funktion": "Non-executive Director",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002372/86175",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Giorgio  Fossati",
+"funktion": "General Counsel",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002372/86175",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Claudia Parzani",
+"funktion": "Non-executive Director",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002372/86175",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Juergen Esser",
+"funktion": "Non-executive Director",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002372/86175",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Daniel Ramot",
+"funktion": "Non-executive Director",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002372/86175",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Alice Davey  Schroeder",
+"funktion": "Non-executive Director",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002372/86175",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Christian Kiel-Demartial",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002372/86175",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Florian Huettl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002372/86175",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Christoph Hinrichsen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002372/86175",
+"stand": "2026-09-22"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 130001,
+"bis": 140000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/62/3a/845533/Stellantis-NV-20251231-Annual-Report.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002372/86175",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-22",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

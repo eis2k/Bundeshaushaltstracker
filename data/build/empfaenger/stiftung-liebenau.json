@@ -1,0 +1,164 @@
+{
+"id": "stiftung-liebenau",
+"name": "Stiftung Liebenau",
+"art": "verein_stiftung",
+"rechtsform": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+"sitz": "Meckenbeuren",
+"website": "www.stiftung-liebenau.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002842",
+"eintrag_id": 69956,
+"version": 13,
+"stand": "2025-12-22",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002842/69956",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/be/9b/666192/Lobbyregister-Registereintraege-Detailansicht-R002842-2025-12-22_14-28-44.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend (BMFSFJ)",
+"epl": "17",
+"von": 30001,
+"bis": 40000,
+"zweck": "Förderung sozialer und ökologischer Projekte und Angebote Wir erhalten darüber hinaus diverse Zuschüsse aus der Bundes-, Landes- und Kommunalebene und auf europäischer Ebene. Wir verweisen hierzu auf unseren Jahresbericht \"anstifter\".",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 30001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Berthold Broll",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002842/69956",
+"stand": "2025-12-22"
+}
+},
+{
+"name": "Markus Nachbaur",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002842/69956",
+"stand": "2025-12-22"
+}
+},
+{
+"name": "Ulrich Dobler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002842/69956",
+"stand": "2025-12-22"
+}
+},
+{
+"name": "Ulrich Kuhn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002842/69956",
+"stand": "2025-12-22"
+}
+},
+{
+"name": "Alexander Grunewald",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002842/69956",
+"stand": "2025-12-22"
+}
+},
+{
+"name": "Elke Gundel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002842/69956",
+"stand": "2025-12-22"
+}
+},
+{
+"name": "Christian Braun",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002842/69956",
+"stand": "2025-12-22"
+}
+},
+{
+"name": "Alfons Ummenhofer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002842/69956",
+"stand": "2025-12-22"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1040001,
+"bis": 1050000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 40001,
+"bis": 50000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/58/b9/666191/jahresbericht-2024.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002842/69956",
+"abgerufen": "2026-11-02",
+"stand": "2025-12-22",
+"etikett": "Eigenangabe",
+"version": 13
+}
+]
+}

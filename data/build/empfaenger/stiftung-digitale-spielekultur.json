@@ -1,0 +1,102 @@
+{
+"id": "stiftung-digitale-spielekultur",
+"name": "Stiftung Digitale Spielekultur",
+"art": "verein_stiftung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "https://www.stiftung-digitale-spielekultur.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001357",
+"eintrag_id": 84686,
+"version": 10,
+"stand": "2026-08-13",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001357/84686",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/66/a4/830701/Lobbyregister-Registereintraege-Detailansicht-R001357-2026-08-13_13-31-18.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministeriums für Bildung, Familie, Senioren, Frauen und Jugend",
+"epl": null,
+"von": 760001,
+"bis": 770000,
+"zweck": "Projekt \"Stärker mit Games\" im Rahmen des Programms \"Kultur macht stark\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Beauftragter der Bundesregierung für Kultur und Medien",
+"epl": "04",
+"von": 770001,
+"bis": 780000,
+"zweck": "Press Start: Gründungsstipendium Games",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 230001,
+"bis": 240000,
+"zweck": "Awardbüro Deutscher Computerspielpreis",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1760003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Wegehaupt Nandita",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001357/84686",
+"stand": "2026-08-13"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 610001,
+"bis": 620000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/6b/5a/830700/Stiftung-Digitale-Spielekultur-gGmbH_Jahresabschluss_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001357/84686",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-13",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

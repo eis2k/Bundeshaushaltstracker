@@ -1,0 +1,141 @@
+{
+"id": "hafen-hamburg-marketing",
+"name": "Hafen Hamburg Marketing e.V. (HHM)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Hamburg",
+"website": "hafen-hamburg.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000622",
+"eintrag_id": 78735,
+"version": 8,
+"stand": "2026-06-19",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000622/78735",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/e5/6b/764911/Lobbyregister-Registereintraege-Detailansicht-R000622-2026-06-19_09-56-19.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministeriums für Digitales und Verkehr",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "Projektziel im Förderprogramm Programm IHATEC II: Entwicklung robotischer Hilfen (COBOTS) bei der Be-/Entladung von Tankschiffen. Konzeptfindung für einen COBOT, unter Einbeziehung verschiedener Tanklagerstandorte, darunter auch die Tankläger von HHM-Mitgliedsunternehmen. Die Anforderungsanalyse umfasste u.a. die operativen Prozesse an Land, die Ausstattung vor Ort am Steiger, die Beschaffenheit der Anlege- und Umschlagstelle, die Besatzung an Land und an Bord samt ihren jeweiligen Aufgaben, die Ausstattung an Bord, die informationstechnische Begleitung und Abbildung des Prozesses. Das Projekt DigiTank bringt die Digitalisierung in die Tanklagerbranche und setzt neue Maßstäbe für Sicherheit, Effizienz und Nachhaltigkeit. Mithilfe eines digitalen Zwillings, KI-basierter Analysen und mobiler Überwachungssysteme werden Umweltbelastungen reduziert, die Arbeitssituation für Mitarbeitende verbessert und Betriebsprozesse optimiert.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 20001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Axel Mattern",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000622/78735",
+"stand": "2026-06-19"
+}
+},
+{
+"name": "Hendrik Meyn",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000622/78735",
+"stand": "2026-06-19"
+}
+},
+{
+"name": "Marina Basso Michael",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000622/78735",
+"stand": "2026-06-19"
+}
+},
+{
+"name": "Mathias Schulz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000622/78735",
+"stand": "2026-06-19"
+}
+},
+{
+"name": "Stefan Breitenbach",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000622/78735",
+"stand": "2026-06-19"
+}
+},
+{
+"name": "Roman Fürtig",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000622/78735",
+"stand": "2026-06-19"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 2910001,
+"bis": 2920000
+},
+"lobbyausgaben": {
+"von": 100001,
+"bis": 110000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/d5/d3/764910/TESTAT-2025_HHM-e-V-signed.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000622/78735",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-19",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

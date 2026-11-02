@@ -1,0 +1,263 @@
+{
+"id": "bundeskonferenz-der-migrant-innenorganisationen",
+"name": "Bundeskonferenz der Migrant*innenorganisationen (BKMO)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.bundeskonferenz-mo.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003554",
+"eintrag_id": 83025,
+"version": 8,
+"stand": "2026-07-14",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003554/83025",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/1f/7f/812849/Lobbyregister-Registereintraege-Detailansicht-R003554-2026-07-14_13-05-42.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 410001,
+"bis": 420000,
+"zweck": "Förderung für die Entwicklung einer bundeszentralen Infrastruktur",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Migration und Flüchtlinge",
+"epl": "06",
+"von": 90001,
+"bis": 100000,
+"zweck": "Strukturförderung für Migrantenorganisationen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 500002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ehsan Djafari",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003554/83025",
+"stand": "2026-07-14"
+}
+},
+{
+"name": "Marianne Ballé Moudoumbou",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003554/83025",
+"stand": "2026-07-14"
+}
+},
+{
+"name": "Michael AlliMadi",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003554/83025",
+"stand": "2026-07-14"
+}
+},
+{
+"name": "Leyla Akpinar",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003554/83025",
+"stand": "2026-07-14"
+}
+},
+{
+"name": "Anastasia Sudzilovskaya",
+"funktion": "Mitglied im Vertreter*innenrat",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003554/83025",
+"stand": "2026-07-14"
+}
+},
+{
+"name": "Cana Nurtsch",
+"funktion": "Kassenwärtin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003554/83025",
+"stand": "2026-07-14"
+}
+},
+{
+"name": "Zeynep Sezgin Radant",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003554/83025",
+"stand": "2026-07-14"
+}
+},
+{
+"name": "Karen Taylor",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003554/83025",
+"stand": "2026-07-14"
+}
+},
+{
+"name": "Eter Hachmann",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003554/83025",
+"stand": "2026-07-14"
+}
+},
+{
+"name": "Lena Graser",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003554/83025",
+"stand": "2026-07-14"
+}
+},
+{
+"name": "Amir Alexander Fahim",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003554/83025",
+"stand": "2026-07-14"
+}
+},
+{
+"name": "Jackie Schöneck",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003554/83025",
+"stand": "2026-07-14"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Karen Taylor",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag",
+"funktion_beim_empfaenger": "Vorstandsvorsitzende",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Karen Taylor ist laut Lobbyregister Vorstandsvorsitzende bei Bundeskonferenz der Migrant*innenorganisationen (BKMO) und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag. Bundeskonferenz der Migrant*innenorganisationen (BKMO) erhielt laut Lobbyregister Mittel von: Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend; Bundesamt für Migration und Flüchtlinge.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"Bundesamt für Migration und Flüchtlinge"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003554/83025",
+"stand": "2026-07-14"
+}
+],
+"stand": "2026-07-14"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Jackie Schöneck",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Jackie Schöneck ist laut Lobbyregister Interessenvertretung bei Bundeskonferenz der Migrant*innenorganisationen (BKMO) und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03. Bundeskonferenz der Migrant*innenorganisationen (BKMO) erhielt laut Lobbyregister Mittel von: Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend; Bundesamt für Migration und Flüchtlinge.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"Bundesamt für Migration und Flüchtlinge"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003554/83025",
+"stand": "2026-07-14"
+}
+],
+"stand": "2026-07-14"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 40001,
+"bis": 50000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": null
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003554/83025",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-14",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

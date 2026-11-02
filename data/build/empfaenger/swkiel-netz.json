@@ -1,0 +1,95 @@
+{
+"id": "swkiel-netz",
+"name": "SWKiel Netz GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Kiel",
+"website": "www.SWKiel-Netz.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006930",
+"eintrag_id": 71747,
+"version": 4,
+"stand": "2026-02-11",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006930/71747",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/b0/87/692967/Lobbyregister-Registereintraege-Detailansicht-R006930-2026-02-11_09-20-37.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Kopernikus Projekte",
+"epl": null,
+"von": 40001,
+"bis": 50000,
+"zweck": "Neue Energienetzstrukturen für die Energiewende",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 40001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Roland Drewek",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006930/71747",
+"stand": "2026-02-11"
+}
+},
+{
+"name": "Tobias Zuckschwerdt",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006930/71747",
+"stand": "2026-02-11"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/84/63/692966/20039918_End_TE_JA2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006930/71747",
+"abgerufen": "2026-11-02",
+"stand": "2026-02-11",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

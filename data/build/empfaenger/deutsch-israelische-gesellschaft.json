@@ -1,0 +1,302 @@
+{
+"id": "deutsch-israelische-gesellschaft",
+"name": "Deutsch-Israelische Gesellschaft e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.digev.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005190",
+"eintrag_id": 82436,
+"version": 12,
+"stand": "2026-07-06",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005190/82436",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/59/b1/805566/Lobbyregister-Registereintraege-Detailansicht-R005190-2026-07-06_10-30-50.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 640001,
+"bis": 650000,
+"zweck": "Die Zuwendung im Rahmen der institutionellen Förderung ist zweckgebunden zur Erfüllung der Aufgaben der Deutsch-Israelischen Gesellschaft e.V.. Sie darf nur entsprechend Ihrem oben genannten Antrag (Wirtschaftsplan) für die Zweckbestimmung gemäß Bundeshaushalt 2025, Einzelplan 05 Kapitel 0502 Titel 685 20 EN 1.7 verwendet werden. Mit dieser Zuwendung werden folgende Ziele und Indikatoren für verbindlich erklärt: Die Deutsch-Israelische Gesellschaft e. V. hat die Aufgabe, die Beziehungen zwischen Deutschland und Israel in allen Fragen des öffentlichen und kulturellen Lebens zu vertiefen. Sie dient der Förderung internationaler Verbundenheit, der Toleranz und der Verständigung der Völker, insbesondere im Nahen Osten.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 640001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Volker Beck",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005190/82436",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Constantin Ganss",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005190/82436",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Mathias Stein",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005190/82436",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Marcus Faber",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005190/82436",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Lisa Badum",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005190/82436",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Paula Ranft",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005190/82436",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Jürgen Hardt",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005190/82436",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Hermann Kuhn",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005190/82436",
+"stand": "2026-07-06"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Mathias Stein",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03",
+"funktion_beim_empfaenger": "Vizepräsident",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Mathias Stein ist laut Lobbyregister Vizepräsident bei Deutsch-Israelische Gesellschaft e.V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03. Deutsch-Israelische Gesellschaft e.V. erhielt laut Lobbyregister Mittel von: Auswärtiges Amt.",
+"ausschuesse": [],
+"geld_aus": [
+"Auswärtiges Amt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005190/82436",
+"stand": "2026-07-06"
+}
+],
+"stand": "2026-07-06"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Marcus Faber",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03",
+"funktion_beim_empfaenger": "Vizepräsident",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Marcus Faber ist laut Lobbyregister Vizepräsident bei Deutsch-Israelische Gesellschaft e.V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03. Deutsch-Israelische Gesellschaft e.V. erhielt laut Lobbyregister Mittel von: Auswärtiges Amt.",
+"ausschuesse": [],
+"geld_aus": [
+"Auswärtiges Amt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005190/82436",
+"stand": "2026-07-06"
+}
+],
+"stand": "2026-07-06"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Lisa Badum",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag",
+"funktion_beim_empfaenger": "Vizepräsidentin",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Lisa Badum ist laut Lobbyregister Vizepräsidentin bei Deutsch-Israelische Gesellschaft e.V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag. Deutsch-Israelische Gesellschaft e.V. erhielt laut Lobbyregister Mittel von: Auswärtiges Amt.",
+"ausschuesse": [],
+"geld_aus": [
+"Auswärtiges Amt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005190/82436",
+"stand": "2026-07-06"
+}
+],
+"stand": "2026-07-06"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Jürgen Hardt",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag",
+"funktion_beim_empfaenger": "Vizepräsident",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Jürgen Hardt ist laut Lobbyregister Vizepräsident bei Deutsch-Israelische Gesellschaft e.V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag. Deutsch-Israelische Gesellschaft e.V. erhielt laut Lobbyregister Mittel von: Auswärtiges Amt.",
+"ausschuesse": [],
+"geld_aus": [
+"Auswärtiges Amt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005190/82436",
+"stand": "2026-07-06"
+}
+],
+"stand": "2026-07-06"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Jürgen Hardt",
+"funktion_person": "MdB, CDU/CSU",
+"funktion_beim_empfaenger": "Vizepräsident, ehrenamtlich",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Jürgen Hardt (MdB, CDU/CSU) ist laut bundestag.de Vizepräsident, ehrenamtlich bei Deutsch-Israelische Gesellschaft e.V.. Ausschüsse und Gremien im Bundestag laut bundestag.de: Auswärtiger Ausschuss; Ausschuss für die Angelegenheiten der Europäischen Union; Unterausschuss Auswärtige Kultur- und Bildungspolitik. Deutsch-Israelische Gesellschaft e.V. erhielt laut Lobbyregister Mittel von: Auswärtiges Amt.",
+"ausschuesse": [
+"Auswärtiger Ausschuss",
+"Ausschuss für die Angelegenheiten der Europäischen Union",
+"Unterausschuss Auswärtige Kultur- und Bildungspolitik"
+],
+"geld_aus": [
+"Auswärtiges Amt"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/H/hardt_juergen-1044742",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 420001,
+"bis": 430000
+},
+"lobbyausgaben": {
+"von": 320001,
+"bis": 330000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/88/16/805565/Jahresabschluss2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005190/82436",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-06",
+"etikett": "Eigenangabe",
+"version": 12
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/H/hardt_juergen-1044742",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

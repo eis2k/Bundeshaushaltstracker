@@ -1,0 +1,84 @@
+{
+"id": "nowega",
+"name": "Nowega GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Münster",
+"website": "www.nowega.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003498",
+"eintrag_id": 77992,
+"version": 11,
+"stand": "2026-06-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003498/77992",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/e1/8b/773662/Lobbyregister-Registereintraege-Detailansicht-R003498-2026-06-24_14-39-04.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz, Sondervermögen Klima- und Transformationsfonds",
+"epl": "09",
+"von": 5050001,
+"bis": 5060000,
+"zweck": "IPCEI-Förderung, Art. 107 AEUV IPCEI, Zuwendung Wasserstofftransport; Zuwendung aus dem Sondervermögen „Klima- und Transformationsfonds“ (KTF) für den Transport von Wasserstoff",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 5050001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Frank Heunemann",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003498/77992",
+"stand": "2026-06-24"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 50001,
+"bis": 60000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/f3/9d/773659/Nowega_Testat-JAP-2025_Pruefungsbericht_Nowega-GmbH_31-12-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003498/77992",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-24",
+"etikett": "Eigenangabe",
+"version": 11
+}
+]
+}

@@ -1,0 +1,203 @@
+{
+"id": "bundesarbeitsgemeinschaft-religioes-begruendeter-extremismus",
+"name": "Bundesarbeitsgemeinschaft religiös begründeter Extremismus e. V. (BAG RelEx)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.bag-relex.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004925",
+"eintrag_id": 78122,
+"version": 10,
+"stand": "2026-07-06",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004925/78122",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f0/5f/805523/Lobbyregister-Registereintraege-Detailansicht-R004925-2026-07-06_10-10-22.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 590001,
+"bis": 600000,
+"zweck": "Förderung im Kompetenznetzwerk \"Islamistischer Extremismus\" im Rahmen von Demokratie Leben!",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundeszentrale für politische Bildung",
+"epl": "06",
+"von": 120001,
+"bis": 130000,
+"zweck": "Umsetzung der Austauschplattform \"wissenschaft:praxisnah\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 710002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Dervis Hizarci",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004925/78122",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Silke Baer",
+"funktion": "Vorständin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004925/78122",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Friederike Müller",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004925/78122",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Karin Meißner",
+"funktion": "Vorständin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004925/78122",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Dženeta Isaković",
+"funktion": "Vorständin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004925/78122",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Jamuna Oehlmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004925/78122",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Ivo Lisitzki",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004925/78122",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Miriam Katharina Heß",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004925/78122",
+"stand": "2026-07-06"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "abgeordneter_funktion",
+"person": "Lamya Kaddor",
+"funktion_person": "MdB, Bündnis 90 Die Grünen",
+"funktion_beim_empfaenger": "Mitglied des Beirates",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Lamya Kaddor (MdB, Bündnis 90 Die Grünen) ist laut bundestag.de Mitglied des Beirates bei Bundesarbeitsgemeinschaft religiös begründeter Extremismus e. V. (BAG RelEx). Ausschüsse und Gremien im Bundestag laut bundestag.de: Innenausschuss; Auswärtiger Ausschuss. Bundesarbeitsgemeinschaft religiös begründeter Extremismus e. V. (BAG RelEx) erhielt laut Lobbyregister Mittel von: Bundesministerium für Familie, Senioren, Frauen und Jugend; Bundeszentrale für politische Bildung.",
+"ausschuesse": [
+"Innenausschuss",
+"Auswärtiger Ausschuss"
+],
+"geld_aus": [
+"Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"Bundeszentrale für politische Bildung"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/K/kaddor_lamya-1045258",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/92/78/805473/260319-Jahresabschluss-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004925/78122",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-06",
+"etikett": "Eigenangabe",
+"version": 10
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/K/kaddor_lamya-1045258",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

@@ -1,0 +1,113 @@
+{
+"id": "verband-fuer-digitalisierung-in-der-sozialwirtschaft",
+"name": "Verband für Digitalisierung in der Sozialwirtschaft e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Halle (Saale)",
+"website": "www.vediso.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002339",
+"eintrag_id": 76747,
+"version": 7,
+"stand": "2026-05-15",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002339/76747",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/8e/aa/736870/Lobbyregister-Registereintraege-Detailansicht-R002339-2026-05-15_08-55-02.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 50001,
+"bis": 60000,
+"zweck": "Zuwendung aus dem Bundeshaushalt für das Vorhaben \"ProKIP: Prozessentwicklung und -begleitung zum KI-Einsatz in der Pflege\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Arbeit und Soziales",
+"epl": "11",
+"von": 130001,
+"bis": 140000,
+"zweck": "Zuschuss für das Projekt: Pulsnetz MuTiG",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Arbeit und Soziales",
+"epl": "11",
+"von": 70001,
+"bis": 80000,
+"zweck": "Förderung aus Mitteln des ESF und BMAS - Förderprogramm rückendwind^3 - für das Projekt IKS - Innvationskompetenzen und -strukturen.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 250003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Miriam Wolf",
+"funktion": "Vorständin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002339/76747",
+"stand": "2026-05-15"
+}
+},
+{
+"name": "Nadine Hüning",
+"funktion": "Vorständin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002339/76747",
+"stand": "2026-05-15"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 280001,
+"bis": 290000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/0a/b9/736868/Endgultiger_Bericht_PrD_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002339/76747",
+"abgerufen": "2026-11-02",
+"stand": "2026-05-15",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

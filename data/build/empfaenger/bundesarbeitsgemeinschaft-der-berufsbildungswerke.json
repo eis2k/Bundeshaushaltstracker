@@ -1,0 +1,217 @@
+{
+"id": "bundesarbeitsgemeinschaft-der-berufsbildungswerke",
+"name": "Bundesarbeitsgemeinschaft der Berufsbildungswerke e. V. (BAG BBW)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.bagbbw.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003889",
+"eintrag_id": 79596,
+"version": 7,
+"stand": "2026-07-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003889/79596",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/a6/21/800012/Lobbyregister-Registereintraege-Detailansicht-R003889-2026-07-01_14-28-00.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Ausgleichsfonds des Bundesministeriums für Arbeit und Soziales",
+"epl": null,
+"von": 510001,
+"bis": 520000,
+"zweck": "Die Zuwendungen erfolgten für folgende Projekte: - KI-Kompass inklusiv - EdAL MR 4.0 - LeBe5",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 510001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Tobias Schmidt",
+"funktion": "Vorsitzender des Vorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003889/79596",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Samuel Breisacher",
+"funktion": "stellvertretender Vorsitzender des Vorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003889/79596",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Martin Bodin",
+"funktion": "Mitglied des Vorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003889/79596",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Stefan Kerk",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003889/79596",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Stefanie Niemeyer",
+"funktion": "stellvertretende Vorsitzende des Vorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003889/79596",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Frank Baumgartner",
+"funktion": "Mitglied des Vorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003889/79596",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Janina Bessenich",
+"funktion": "Mitglied des Vorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003889/79596",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Wolfgang Heizer",
+"funktion": "Mitglied des Vorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003889/79596",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Heike Hahn",
+"funktion": "Mitglied des Vorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003889/79596",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Tina Mäueler-Görke",
+"funktion": "Mitglied des Vorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003889/79596",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Martin Holler",
+"funktion": "Mitglied des Vorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003889/79596",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Roman Hanle",
+"funktion": "Mitglied des Vorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003889/79596",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Tanja Ergin",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003889/79596",
+"stand": "2026-07-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 810001,
+"bis": 820000
+},
+"lobbyausgaben": {
+"von": 930001,
+"bis": 940000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/32/0e/800007/2025-Jahresabschluss-Bestatigungsvermerk.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003889/79596",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-01",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

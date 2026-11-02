@@ -1,0 +1,176 @@
+{
+"id": "deutsche-blaeserjugend",
+"name": "Deutsche Bläserjugend",
+"art": "verein_stiftung",
+"rechtsform": "Nicht rechtsfähiger Verein",
+"sitz": "Berlin",
+"website": "https://www.deutsche-blaeserjugend.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006616",
+"eintrag_id": 80661,
+"version": 4,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006616/80661",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/99/2a/789953/Lobbyregister-Registereintraege-Detailansicht-R006616-2026-06-30_12-20-29.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 270001,
+"bis": 280000,
+"zweck": "Kinder- und Jugendplan des Bundes, Handlungsfeld Kinder- und Jugendarbeit, außerschulische Jugendbildung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 270001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Sarah Nehring",
+"funktion": "Bundesvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006616/80661",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Volker Westermayer",
+"funktion": "Stellv. Bundesvorsitzender, Finanzen, Personal und Internationales",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006616/80661",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Cordula Ruppel",
+"funktion": "Stellv. Bundesvorsitzende, Überfachliche Bildung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006616/80661",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Fabian Lang",
+"funktion": "Stellv. Bundesvorsitzender, Musikalische Bildung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006616/80661",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Michael Weiß",
+"funktion": "Beisitzer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006616/80661",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Sophia Walter",
+"funktion": "Beisitzerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006616/80661",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Lea Johanna Schmidt",
+"funktion": "Stellv. Bundesvorsitzende, Öffentlichkeitsarbeit und Homepage",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006616/80661",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Ricarda Würzler",
+"funktion": "Beisitzerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006616/80661",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Vanessa Klimas",
+"funktion": "Beisitzerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006616/80661",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Philipp Simon Markowetz Maier",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006616/80661",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 40001,
+"bis": 50000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": null
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006616/80661",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

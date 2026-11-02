@@ -1,0 +1,180 @@
+{
+"id": "bundesverband-rollladen-sonnenschutz",
+"name": "Bundesverband Rollladen + Sonnenschutz e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bonn",
+"website": "www.rs-fachverband.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001037",
+"eintrag_id": 77773,
+"version": 9,
+"stand": "2026-08-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001037/77773",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/d0/07/824556/Lobbyregister-Registereintraege-Detailansicht-R001037-2026-08-03_09-37-55.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "Zuschuss für Fachspezifische Informationsstelle IT und Unternehmensführung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 10001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Matthias Klenner",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001037/77773",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Simon Schmid",
+"funktion": "Hauptgeschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2023-11"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001037/77773",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Nina Kowalewski",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001037/77773",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Peter Huber",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001037/77773",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Ingo Plück",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001037/77773",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Schiller  Kathrin",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001037/77773",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Norman Mester",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001037/77773",
+"stand": "2026-08-03"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Simon Schmid",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-11",
+"funktion_beim_empfaenger": "Hauptgeschäftsführer",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Simon Schmid ist laut Lobbyregister Hauptgeschäftsführer bei Bundesverband Rollladen + Sonnenschutz e.V. und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-11. Bundesverband Rollladen + Sonnenschutz e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Energie.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Wirtschaft und Energie"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001037/77773",
+"stand": "2026-08-03"
+}
+],
+"stand": "2026-08-03"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 420001,
+"bis": 430000
+},
+"lobbyausgaben": {
+"von": 100001,
+"bis": 110000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/65/a4/824555/Jahresabschluss-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001037/77773",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-03",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

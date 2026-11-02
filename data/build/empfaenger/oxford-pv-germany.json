@@ -1,0 +1,119 @@
+{
+"id": "oxford-pv-germany",
+"name": "Oxford PV Germany GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Brandenburg an der Havel",
+"website": "www.oxfordpv.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006042",
+"eintrag_id": 70482,
+"version": 6,
+"stand": "2026-01-08",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006042/70482",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/e7/0c/679389/Lobbyregister-Registereintraege-Detailansicht-R006042-2026-01-08_10-53-07.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Forschungszentrum Jülich GmbH",
+"epl": null,
+"von": 380001,
+"bis": 390000,
+"zweck": "Es handelt sich um Zuschüsse für Forschungsprojekte im Bereich der Erneuerbaren Energien. Es wurden vier verschieden Forschungsprojekte durch die Forschungszentrum Jülich GmbH bezuschusst",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 380001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Paul Köhler",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006042/70482",
+"stand": "2026-01-08"
+}
+},
+{
+"name": "Peter Lübke",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006042/70482",
+"stand": "2026-01-08"
+}
+},
+{
+"name": "David Ward",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006042/70482",
+"stand": "2026-01-08"
+}
+},
+{
+"name": "Laura Miranda Perez",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006042/70482",
+"stand": "2026-01-08"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 280001,
+"bis": 290000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/3e/4e/679388/857103-Erstellungsbericht-JA-unterzeichnetes-Exemplar-2024.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006042/70482",
+"abgerufen": "2026-11-02",
+"stand": "2026-01-08",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

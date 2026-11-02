@@ -1,0 +1,231 @@
+{
+"id": "anschuetz",
+"name": "Anschütz GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Kiel",
+"website": "https://www.anschuetz.com/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002769",
+"eintrag_id": 72480,
+"version": 10,
+"stand": "2026-02-16",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002769/72480",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/a9/9a/694955/Lobbyregister-Registereintraege-Detailansicht-R002769-2026-02-16_10-11-55.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft & Klimaschutz",
+"epl": "09",
+"von": 560001,
+"bis": 570000,
+"zweck": "OCCUMAR - Automatisierter und teilautonomer Schiffsbetrieb in beengten Seegebieten mit nicht-kooperativen Teilnehmern Teilvorhaben Anschütz - Brückensystementwicklung für teilautomatisierte Schiffsystem Das Anschütz Teilvorhaben fügt sich gemeinsam mit dem Verbundvorhaben ein in die Eckpunkte der Maritimen Forschungsstrategie 2025 der Bundesregierung und bietet einen hervorragenden Ansatzpunkt zur individuellen Stärkung der Themen MARITIME.smart (Maritime Digitalisierung und smarte Technologien) und MARITIME.safe (Maritime Sicherheit) sowie der Maritimen Industrie 4.0",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Digitales und Verkehr",
+"epl": "12",
+"von": 100001,
+"bis": 110000,
+"zweck": "FÖRDERPROJEKT IST BEENDET CAPTN Förde Areal - Im Projekt CAPTN Förde Areal werden die notwendige Infrastruktur für eine praxisnahe Erprobung des autonomen Schiffsverkehrs entwickelt und weitere Forschungsprojekte initiiert. Zum Konzept gehört ein integriertes Brückensystem an Bord und an Land sowie ein digitaler Zwilling des Schiffs im Kontrollzentrum an Land. Die Steuerung und Überwachung des Versuchsträgers erfolgt in Echtzeit über das Kontrollzentrum an Land. Für einen optimalen Datenaustausch in Echtzeit zwischen Schiff und Kontrollzentrum gehört eine stabile IT-Infrastruktur sowie ein verlässliches Mobilfunknetz. Letzteres wird im Projekt CAPTN Förde 5G erarbeitet.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Digitales und Verkehr",
+"epl": "12",
+"von": 340001,
+"bis": 350000,
+"zweck": "Förde 5G - Anwendungen und Nutzen von 5G an der Kieler Innenförde. Mehr Sicherheit und Effizienz für Personenfähren und weitere Nutzungsszenarien durch 5G Anschütz Teilprojekt 4: - 5G-Kontrollzentrum - Überwachung autonomer Manöver. Das Ziel dieses Teilprojektes ist es, eine automatische Steuerung und Überwachung eines autonomen Schiffes mit Hilfe eines landbasierten Rechen- und Kontrollzentrums mittels 5G-Kommunikation zu ermöglichen. Das Teilprojekt besteht aus drei eng miteinander verbundenen Teilthemen: der automatischen Steuerung , dem Kontrollzentrum und der zuverlässigen, adaptiven Kommunikation.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Digitales und Verkehr",
+"epl": "12",
+"von": 160001,
+"bis": 170000,
+"zweck": "CAPTN Förde Areal II - Praxisnahe Erforschung der (teil)autonomen, emissionsfreien Schifffahrt im digitalen Testfeld im Rahmen der Förderrichtlinie zur Forschung und Entwicklung von Digitalen Testfeldern an Bundeswasserstraßen (DTW II) vom Bundesministerium für Verkehr und digitale Infrastruktur",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft & Klimaschutz",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "FÖRDERVORHABEN IST BEENDET ENDURE: Die Becker Marine Systems GmbH (BMS) plant gemeinsam mit der Anschütz GmbH ein Projekt zur weiteren intelligenten Verknüpfung von Manövrieranlagen und Autopilotsystemen. Im Fokus der Forschungsaktivitäten stehen insbesondere die Erweiterung der datentechnischen Vernetzung sowie die Erhöhung der systemischen Intelligenz.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 180001,
+"bis": 190000,
+"zweck": "CAPTN_X-FERRY - Selbsterklärendes Verhalten einer autonomen Fähre; Vorhaben: Hochautomatisierte nautische Lagebilderstellung mit kontext-basiertem Alarmmanagement in beengten Fahrwasserstrassen Gegenstand des Vorhabens „X-FERRY“ ist es, die grundlegende Technologie für eine automatische Selbsterklärung des Verhaltens autonomer Schiffe zu erforschen und damit die Grundlage für zukünftige neuartige Produkte zu schaffen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft & Energie",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "PRS-AHRS - Ersatz der HRG-Inertial Measurement Unit im Hybridsystem von PRS Gyro gegen eine MEMS-IMU, die auf einen Rundschalttisch montiert wird. Außerdem erfolgt eine entsprechende Anpassung der Kompass- Signalverarbeitung sowie die Integration einer funktionserweiterten und miniaturisierten Galileo PRS- Empfangstechnik.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1360007,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Niels Möller",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002769/72480",
+"stand": "2026-02-16"
+}
+},
+{
+"name": "Andreas Weidner",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002769/72480",
+"stand": "2026-02-16"
+}
+},
+{
+"name": "Thomas Harlander",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002769/72480",
+"stand": "2026-02-16"
+}
+},
+{
+"name": "Martin Graßmann",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002769/72480",
+"stand": "2026-02-16"
+}
+},
+{
+"name": "Andreas Mues",
+"funktion": "Prokurist",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002769/72480",
+"stand": "2026-02-16"
+}
+},
+{
+"name": "Stefan Köhler",
+"funktion": "Prokurist",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002769/72480",
+"stand": "2026-02-16"
+}
+},
+{
+"name": "Gerald Baden",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002769/72480",
+"stand": "2026-02-16"
+}
+},
+{
+"name": "Jörg Dammrich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002769/72480",
+"stand": "2026-02-16"
+}
+},
+{
+"name": "Thomas Lehmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002769/72480",
+"stand": "2026-02-16"
+}
+},
+{
+"name": "Philipp Treuer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002769/72480",
+"stand": "2026-02-16"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/70/6e/694954/Jahresabschluss_2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002769/72480",
+"abgerufen": "2026-11-02",
+"stand": "2026-02-16",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

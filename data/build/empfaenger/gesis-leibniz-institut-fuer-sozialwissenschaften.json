@@ -1,0 +1,163 @@
+{
+"id": "gesis-leibniz-institut-fuer-sozialwissenschaften",
+"name": "GESIS - Leibniz-Institut für Sozialwissenschaften e.V.",
+"art": "forschung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Mannheim",
+"website": "https://www.gesis.org/home",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007801",
+"eintrag_id": 79798,
+"version": 3,
+"stand": "2026-06-23",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007801/79798",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/13/a3/770571/Lobbyregister-Registereintraege-Detailansicht-R007801-2026-06-23_15-16-49.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMFTR",
+"epl": "30",
+"von": 2660001,
+"bis": 2670000,
+"zweck": "Projektförderung für diverse wissenschaftliche Projekte",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundeskanzleramt",
+"epl": "04",
+"von": 160001,
+"bis": 170000,
+"zweck": "Projektförderung - Wissenschaftliche Erhebung \"Deutschlandmonitor\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BIB - Bundesinstitut für Bevölkerungsforschung",
+"epl": null,
+"von": 2620001,
+"bis": 2630000,
+"zweck": "Projektförderung - Wissenschaftliche Erhebung \"FReDA II\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMAS",
+"epl": "11",
+"von": 110001,
+"bis": 120000,
+"zweck": "Projektförderung - Wissenschaftliche Erhebung \"ESTuK\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 5550004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christof Wolf",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007801/79798",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Beatrice Rammstedt",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007801/79798",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Jost Henze",
+"funktion": "Administrativer Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007801/79798",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Constantin Hammer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007801/79798",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Sebastian Stier",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007801/79798",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Katrin Weller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007801/79798",
+"stand": "2026-06-23"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e7/7e/770570/GESIS_Jahresrechnung_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007801/79798",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-23",
+"etikett": "Eigenangabe",
+"version": 3
+}
+]
+}

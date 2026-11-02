@@ -1,0 +1,95 @@
+{
+"id": "deutsches-primatenzentrum-gmbh-leibniz-institut-fuer-primate",
+"name": "Deutsches Primatenzentrum GmbH Leibniz-Institut für Primatenforschung",
+"art": "forschung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Göttingen",
+"website": "dpz.eu",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006570",
+"eintrag_id": 31429,
+"version": 2,
+"stand": "2025-10-23",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006570/31429",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/df/08/631890/Lobbyregister-Registereintraege-Detailansicht-R006570-2025-10-23_12-16-43.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bund",
+"epl": "60",
+"von": 10390001,
+"bis": 10400000,
+"zweck": "Zuwendung, auf Basis der Ausführungsvereinbarung WGL (GWK)",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 10390001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Stefan Treue",
+"funktion": "Wissenschaftlicher Geschäftsführung und Direktor",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006570/31429",
+"stand": "2025-10-23"
+}
+},
+{
+"name": "Peters Katharina",
+"funktion": "Admin. Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006570/31429",
+"stand": "2025-10-23"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/f5/8a/631889/Jahresabschluss-2024.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006570/31429",
+"abgerufen": "2026-11-02",
+"stand": "2025-10-23",
+"etikett": "Eigenangabe",
+"version": 2
+}
+]
+}

@@ -1,0 +1,118 @@
+{
+"id": "swiss-steel-holding",
+"name": "Swiss Steel Holding AG",
+"art": "unternehmen",
+"rechtsform": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+"sitz": "Luzern",
+"website": "https://www.swisssteel-group.com/home",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004351",
+"eintrag_id": 79060,
+"version": 9,
+"stand": "2026-07-28",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004351/79060",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/e3/ff/821609/Lobbyregister-Registereintraege-Detailansicht-R004351-2026-07-28_17-09-38.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE.IIB4)",
+"epl": "09",
+"von": 320001,
+"bis": 330000,
+"zweck": "Ressourcentechnische und energetische Optimierung Blankstahlproduktion, Deutsche Edelstahlwerke Siegen/Hagen GmbH & Co. KG, Siegen, Nordrhein-Westfalen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 320001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Frank Koch",
+"funktion": "Group CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004351/79060",
+"stand": "2026-07-28"
+}
+},
+{
+"name": "Jörg Paura",
+"funktion": "VP Transformation & General Councel",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004351/79060",
+"stand": "2026-07-28"
+}
+},
+{
+"name": "Anina Berger",
+"funktion": "Vice President Corporate Marketing  & Communications",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004351/79060",
+"stand": "2026-07-28"
+}
+},
+{
+"name": "Helmut Freiherr von Fircks",
+"funktion": "Corporate Communications",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004351/79060",
+"stand": "2026-07-28"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 150001,
+"bis": 160000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/09/c0/821598/260423_SSG_Short_Report_2025_DE_A4_quer.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004351/79060",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-28",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

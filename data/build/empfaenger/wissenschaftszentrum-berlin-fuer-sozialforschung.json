@@ -1,0 +1,107 @@
+{
+"id": "wissenschaftszentrum-berlin-fuer-sozialforschung",
+"name": "Wissenschaftszentrum Berlin für Sozialforschung gGmbH ",
+"art": "verein_stiftung",
+"rechtsform": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+"sitz": " Berlin",
+"website": "https://www.wzb.eu/de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003986",
+"eintrag_id": 87051,
+"version": 6,
+"stand": "2026-10-05",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003986/87051",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/8a/30/856865/Lobbyregister-Registereintraege-Detailansicht-R003986-2026-10-05_14-18-18.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesrepublik Deutschland und die Länder",
+"epl": "60",
+"von": 20170001,
+"bis": 20180000,
+"zweck": "Das WZB ist als außeruniversitäre Forschungseinrichtung Mitglied der Leibniz-Gemeinschaft. Die Förderung außeruniversitärer Forschung erfolgt gemäß den Vorgaben des Art. 91b GG als sogenannte Gemeinschaftsaufgabe von Bund und Ländern in Verbindung mit dem Verwaltungsabkommen zwischen Bund und Ländern über die Errichtung der Gemeinsamen Wissenschaftskonferenz (GWK) sowie der Ausführungsvereinbarung zum GWK-Abkommen über die Förderung der Leibniz-Einrichtungen. Das WZB erhält auf dieser Grundlage institutionelle Zuwendungen durch die Bundesrepublik Deutschland und die Länder.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 20170001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Nicola Fuchs-Schündeln",
+"funktion": "Präsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003986/87051",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Marcus Kölling",
+"funktion": "Admistrativer Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003986/87051",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Nora Dasch",
+"funktion": "Prokuristin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003986/87051",
+"stand": "2026-10-05"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/5e/d4/856864/Testat_WZB_JAP-2025_5-5-2026_signed_signed.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003986/87051",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-05",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

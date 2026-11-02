@@ -1,0 +1,142 @@
+{
+"id": "pestizid-aktions-netzwerk",
+"name": "Pestizid Aktions-Netzwerk e.V. (PAN Germany)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Hamburg",
+"website": "www.pan-germany.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003022",
+"eintrag_id": 87131,
+"version": 24,
+"stand": "2026-10-08",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003022/87131",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/43/db/858703/Lobbyregister-Registereintraege-Detailansicht-R003022-2026-10-08_15-06-22.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Umweltbundesamt UBA",
+"epl": "16",
+"von": 80001,
+"bis": 90000,
+"zweck": "Verbändeförderung: UBA PAN / Wasser \"Lebenselixier Wasser - Gewässerschutz braucht Pestizidreduktion\"; UBA PAN / EDC \"Aktiv gegen hormonaktive Substanzen - Für einen starken EDC-Aktionsplan\"; UBA Biozide \"Wissen, Verstehen, Handeln - aktiv Biozid-Risiken vermeiden\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 80001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Gabriela Strobel",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003022/87131",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Inga Wulf",
+"funktion": "Vorstand / Finanzreferentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003022/87131",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Susan Haffmans",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003022/87131",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Susanne Smolka",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003022/87131",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Tamara Gripp",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003022/87131",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Peter Clausing",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003022/87131",
+"stand": "2026-10-08"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 220001,
+"bis": 230000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 30001,
+"bis": 40000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/3b/60/858699/Jahresabschluss-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003022/87131",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-08",
+"etikett": "Eigenangabe",
+"version": 24
+}
+]
+}

@@ -1,0 +1,147 @@
+{
+"id": "sma-solar-technology",
+"name": "SMA Solar Technology ",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Niestetal",
+"website": "www.sma.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004589",
+"eintrag_id": 76683,
+"version": 5,
+"stand": "2026-07-06",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004589/76683",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/e4/64/806167/Lobbyregister-Registereintraege-Detailansicht-R004589-2026-07-06_13-58-17.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 1740001,
+"bis": 1750000,
+"zweck": "Förderung Forschungs- und Entwicklungsprojekte",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 230001,
+"bis": 240000,
+"zweck": "Förderung Forschungs- und Entwicklungsprojekte",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1970002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jürgen Reinert",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004589/76683",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Olaf Heyden",
+"funktion": "Vorstand Transformation und Operations",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004589/76683",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Kaveh Rouhi",
+"funktion": "Vorstand Finanzen und Recht",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004589/76683",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Eric Quiring",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004589/76683",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Kathrin Ziepprecht",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004589/76683",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Katharina Eickelberg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004589/76683",
+"stand": "2026-07-06"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 280001,
+"bis": 290000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/00/f3/806166/Geschaeftsbericht-der-SMA-Gruppe-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004589/76683",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-06",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

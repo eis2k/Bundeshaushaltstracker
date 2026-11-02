@@ -1,0 +1,193 @@
+{
+"id": "suedzucker",
+"name": "Südzucker AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Mannheim",
+"website": "www.suedzuckergroup.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001956",
+"eintrag_id": 77386,
+"version": 10,
+"stand": "2026-08-31",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001956/77386",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/58/2a/836706/Lobbyregister-Registereintraege-Detailansicht-R001956-2026-08-31_14-31-31.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 1300001,
+"bis": 1310000,
+"zweck": "Umstellung Kohlekessel auf Erdgas - Ochsenfurt",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 40001,
+"bis": 50000,
+"zweck": "FU - CEB Zeitz",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 2230001,
+"bis": 2240000,
+"zweck": "Anaerobanlage - Wabern",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhkontrolle",
+"epl": null,
+"von": 1,
+"bis": 10000,
+"zweck": "FU - Plattling",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 240001,
+"bis": 250000,
+"zweck": "Kälteanlage - Freiberger Osterweddingen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 3810005,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Niels Pörksen",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001956/77386",
+"stand": "2026-08-31"
+}
+},
+{
+"name": "Hans-Peter Gai",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001956/77386",
+"stand": "2026-08-31"
+}
+},
+{
+"name": "Stephan Meeder",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001956/77386",
+"stand": "2026-08-31"
+}
+},
+{
+"name": "Stephan Büttner",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001956/77386",
+"stand": "2026-08-31"
+}
+},
+{
+"name": "Theresa von Fugler",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001956/77386",
+"stand": "2026-08-31"
+}
+},
+{
+"name": "Marco Veselka",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001956/77386",
+"stand": "2026-08-31"
+}
+},
+{
+"name": "Lennart Christ",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001956/77386",
+"stand": "2026-08-31"
+}
+},
+{
+"name": "Wolfgang Kraus",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001956/77386",
+"stand": "2026-08-31"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1050001,
+"bis": 1060000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/94/9d/836705/Suedzucker_Geschaeftsbericht_2025-26.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001956/77386",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-31",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

@@ -1,0 +1,144 @@
+{
+"id": "bundesamt-st-georg",
+"name": "Bundesamt St. Georg e.V. (Rechtsträger Deutsche Pfadfinder*innenschaft St. Georg, Bundesverband)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Mönchengladbach",
+"website": "www.dpsg.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004884",
+"eintrag_id": 85011,
+"version": 7,
+"stand": "2026-08-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004884/85011",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/95/ee/834303/Lobbyregister-Registereintraege-Detailansicht-R004884-2026-08-24_13-35-29.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Kinder- und Jugendplan des Bundes",
+"epl": null,
+"von": 740001,
+"bis": 750000,
+"zweck": "Mittel aus dem Kinder- und Jugendplan des Bundes (national und international, zzgl. 80.000 € als Zentralstelle für die Weiterleitung an den Bund Muslimischer Pfadfinderinnen und Pfadfinder BMPPD)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Dt. Frz. Jugendwerk DFJW",
+"epl": null,
+"von": 1,
+"bis": 10000,
+"zweck": "Das Deutsch-Französische Jugendwerk (DFJW) ist eine internationale Organisation im Dienst der deutsch-französischen Zusammenarbeit mit Standorten in Paris und Berlin und einer Außenstelle in Saarbrücken. Es fördert Jugendaustauschmaßnahmen und internat. Begegnungen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "ConAct Koordinierungszentrum Deutsch-Israelischer Jugendaustausch",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "ConAct – Koordinierungszentrum Deutsch-Israelischer Jugendaustausch arbeitet bundesweit als Service-Zentrum für die Jugendkontakte zwischen Deutschland und Israel. ConAct unterstützt bei der inhaltlichen und organisatorischen Verwirklichung deutsch-israelischer Jugendbegegnungen und Fachkräfteprogramme und richtet Fachveranstaltungen zur Weiterentwicklung des Arbeitsfeldes aus. Das im Oktober 2001 offiziell eröffnete Koordinierungszentrum fördert jedes Jahr rund 300 Projekte der außerschulischen Bildungs- und Austauscharbeit. Im Auftrag des Bundesministeriums für Familie, Senioren, Frauen und Jugend verwaltet ConAct die Fördermittel für den deutsch-israelischen Jugendaustausch und setzt Projekte zum Aufbau eines Deutsch-Israelischen Jugendwerks um.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Verband der Diözesen Deutschlands",
+"epl": null,
+"von": 140001,
+"bis": 150000,
+"zweck": "Zuschuß für die Jugendarbeit der DPSG Bundesebene, u.a. Personalkosten. Der Verband der Diözesen Deutschlands ist Rechtsträger der Deutschen Bischofskonferenz. Er wurde am 4. März 1968 als Körperschaft des öffentlichen Rechts gegründet.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 890004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Annkathrin Meyer",
+"funktion": "Bundesvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004884/85011",
+"stand": "2026-08-24"
+}
+},
+{
+"name": "Manuel Ganser",
+"funktion": "Bundesgeschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004884/85011",
+"stand": "2026-08-24"
+}
+},
+{
+"name": "Becker Sebastian",
+"funktion": "Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004884/85011",
+"stand": "2026-08-24"
+}
+},
+{
+"name": "Maximilian Strozyk",
+"funktion": "Bundeskurat (Bundesvorsitzender)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004884/85011",
+"stand": "2026-08-24"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 2860001,
+"bis": 2870000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/cf/0b/834301/15739_Bundesamt-Sankt-Georg-e-V-N_2025TE.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004884/85011",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-24",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

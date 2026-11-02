@@ -1,0 +1,142 @@
+{
+"id": "verein-fuer-internationalismus-und-kommunikation",
+"name": "Verein für Internationalismus und Kommunikation",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bremen",
+"website": "www.fair-oceans.info",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004677",
+"eintrag_id": 70098,
+"version": 8,
+"stand": "2025-12-31",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004677/70098",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/34/75/673710/Lobbyregister-Registereintraege-Detailansicht-R004677-2025-12-31_13-33-02.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Engagement Global GgmbH",
+"epl": "23",
+"von": 60001,
+"bis": 70000,
+"zweck": "FEB-Projekt in der entwicklungspolitischen Bildungs- und Informationsarbeit zur Thematik der Meerespolitik",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 60001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Kai Kaschinski",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004677/70098",
+"stand": "2025-12-31"
+}
+},
+{
+"name": "Christoph Spehr",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004677/70098",
+"stand": "2025-12-31"
+}
+},
+{
+"name": "Christiane Föllinger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004677/70098",
+"stand": "2025-12-31"
+}
+},
+{
+"name": "Michael Föllinger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004677/70098",
+"stand": "2025-12-31"
+}
+},
+{
+"name": "Arman Cayirli",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004677/70098",
+"stand": "2025-12-31"
+}
+},
+{
+"name": "Cornelia Wilß-Hasenkamp",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004677/70098",
+"stand": "2025-12-31"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 10001,
+"bis": 20000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/73/a7/673707/IntKom_Finanzbericht-2024_Endfassung-Lobbyregister.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004677/70098",
+"abgerufen": "2026-11-02",
+"stand": "2025-12-31",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

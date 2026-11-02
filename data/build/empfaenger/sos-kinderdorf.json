@@ -1,0 +1,132 @@
+{
+"id": "sos-kinderdorf",
+"name": "SOS-Kinderdorf e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "München",
+"website": "https://www.sos-kinderdorf.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002251",
+"eintrag_id": 78294,
+"version": 15,
+"stand": "2026-07-06",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002251/78294",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/fb/b3/806291/Lobbyregister-Registereintraege-Detailansicht-R002251-2026-07-06_14-55-42.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"epl": "17",
+"von": 400001,
+"bis": 410000,
+"zweck": "Zuschuss zu offenen Angeboten, Bürgerzentrum, Familientreffpunkt, Mütterzentrum und Mehrgenerationshäusern",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 400001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Georg Falterbaum",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002251/78294",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Astrid Brandl",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002251/78294",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Jörg Faulstich",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002251/78294",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Sven Stumpf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002251/78294",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Sagithjan Surendra",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002251/78294",
+"stand": "2026-07-06"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 199900001,
+"bis": 199910000
+},
+"mitgliedsbeitraege": {
+"von": 20001,
+"bis": 30000
+},
+"lobbyausgaben": {
+"von": 340001,
+"bis": 350000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/f5/97/806290/Jahresbericht.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002251/78294",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-06",
+"etikett": "Eigenangabe",
+"version": 15
+}
+]
+}

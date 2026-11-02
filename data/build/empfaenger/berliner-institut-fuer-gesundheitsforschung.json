@@ -1,0 +1,80 @@
+{
+"id": "berliner-institut-fuer-gesundheitsforschung",
+"name": "Berliner Institut für Gesundheitsforschung (BIH)",
+"art": "forschung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": true,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "30-3004-68572",
+"text": "Berliner Institut für Gesundheitsforschung (BIH) - Betrieb",
+"epl": "30",
+"epl_text": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"werte": {
+"2016": {
+"soll": 36810000,
+"ist": 36810000
+},
+"2017": {
+"soll": 47940000,
+"ist": 47940000
+},
+"2018": {
+"soll": 49730000,
+"ist": 49730000
+},
+"2019": {
+"soll": 52022000,
+"ist": 52022000
+},
+"2020": {
+"soll": 49427000,
+"ist": 49427000
+},
+"2021": {
+"soll": 51574000,
+"ist": 51574000
+},
+"2022": {
+"soll": 60000000,
+"ist": 60000000
+},
+"2023": {
+"soll": 69409000,
+"ist": 69409000
+},
+"2024": {
+"soll": 72000000,
+"ist": 70000000
+},
+"2025": {
+"soll": 77250000,
+"ist": 77250000
+},
+"2026": {
+"soll": 87250000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

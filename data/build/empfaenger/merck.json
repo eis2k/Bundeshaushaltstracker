@@ -1,0 +1,273 @@
+{
+"id": "merck",
+"name": "Merck KGaA",
+"art": "unternehmen",
+"rechtsform": "Kommanditgesellschaft auf Aktien (KGaA)",
+"sitz": "Darmstadt",
+"website": "www.merckgroup.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001503",
+"eintrag_id": 82020,
+"version": 14,
+"stand": "2026-07-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001503/82020",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f5/a6/801080/Lobbyregister-Registereintraege-Detailansicht-R001503-2026-07-01_20-16-48.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "VDI Technologiezentrum",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Zuwendung aus dem Bundeshaushalt, Einzelplan 30, Kapitel 3004, Titel 68325, Verbundprojekt: Verifizierbare Variationelle Quantenalgorithmen (VeriVaQ) - Teilvorhaben: Identifizierung von Testmolekülen und Methodeneinbindung in industrielle Anwendung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Forschungszentrum Jülich",
+"epl": null,
+"von": 140001,
+"bis": 150000,
+"zweck": "Zuwendung aus dem Bundeshaushalt, Einzelplan 09, Kapitel 03,Titel 68608, Reallabor: DELTA- Darmstädter Energie-Labor für Technologien in der Anwendung; Teilvorhaben: Energieoptimiertes Industriequartier (Entwicklung und Erprobung)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Forschungszentrum Jülich, Berlin",
+"epl": null,
+"von": 70001,
+"bis": 80000,
+"zweck": "Zuwendung aus dem Bundeshaushalt, Einzelplan 09, Kapitel 03, Titel 68301, EISKIG - Energy lntelligence System für smarte Kältesysteme in Industriegebäuden; Teilvorhaben: lndustriegerechte Anwendungen für die Pharma- und Chemieindustrie",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "VDI Technologiezentrum GmbH, Duesseldorf",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Zuwendung aus dem Bundeshaushalt, Einzelplan 09, Kapitel 0901, Titel 68624, Verbundprojekt: Aufbau eines Datenraums der chemischen Industrie sowie Schnittstellen der mit ihr verbundener Wertschöpfungsketten am Beispiel des digitalen Produkt Passes (Chem-X) - Teilvorhaben: Nachhaltigkeits- und Zirkularitätsmetriken als Basis und Enabler nachhaltiger Geschäftsmodelle",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 230004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Kai Beckmann",
+"funktion": "Vorsitzender der Geschäftsleitung und Group CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001503/82020",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Danny Ba-Zohar",
+"funktion": "Mitglied der Geschäftsleitung und CEO Healthcare",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001503/82020",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Jean-Charles Wirth",
+"funktion": "Mitglied der Geschäftsleitung und CEO Life Science",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001503/82020",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Helene von Roeder",
+"funktion": "Mitglied der Geschäftsleitung und Chief Financial Officer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001503/82020",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Benjamin Hein",
+"funktion": "Mitglied der Geschäftsleitung und CEO Electronics",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001503/82020",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Martin Leibing",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001503/82020",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Matthias Bürk",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001503/82020",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Stefan Konietzny",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001503/82020",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Marlies von der Malsburg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001503/82020",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Thomas Spangenberg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001503/82020",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Arno Hartmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001503/82020",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Arne Leibfritz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001503/82020",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Martina Jäger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001503/82020",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Anastasios Magolidis",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001503/82020",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Troels Rye-Anderson",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001503/82020",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Frank Gotthardt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001503/82020",
+"stand": "2026-07-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 280001,
+"bis": 290000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/6a/07/801079/entire-merck-gb25.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001503/82020",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-01",
+"etikett": "Eigenangabe",
+"version": 14
+}
+]
+}

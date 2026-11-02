@@ -1,0 +1,159 @@
+{
+"id": "aktionsbuendnis-patientensicherheit",
+"name": "Aktionsbündnis Patientensicherheit ",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://www.aps-ev.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002644",
+"eintrag_id": 82500,
+"version": 11,
+"stand": "2026-07-14",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002644/82500",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ae/13/813218/Lobbyregister-Registereintraege-Detailansicht-R002644-2026-07-14_15-51-16.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMG - Bundesgesundheitsministerium",
+"epl": "15",
+"von": 1560001,
+"bis": 1570000,
+"zweck": "Projektfördermittel für das Projekt \"Deutschland erkennt Sepsis\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Innovationsausschuss beim g-BA",
+"epl": null,
+"von": 420001,
+"bis": 430000,
+"zweck": "Projektfördermittel für das Projekt „PSI-BUND – Bundesweites Patientensicherheitsindikatoren-Kern-Set für eine bürokratiearme Qualitätssicherung und Transparenz der Gesundheitsversorgung“ Förderkennzeichen: 01VSF24023",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1980002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Heidemarie Haeske-Seeberg",
+"funktion": "Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002644/82500",
+"stand": "2026-07-14"
+}
+},
+{
+"name": "Albrecht Stier",
+"funktion": "Stellvertrender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002644/82500",
+"stand": "2026-07-14"
+}
+},
+{
+"name": "Diel Franziska",
+"funktion": "Generalsekretärin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002644/82500",
+"stand": "2026-07-14"
+}
+},
+{
+"name": "Franziska Diel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002644/82500",
+"stand": "2026-07-14"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "abgeordneter_funktion",
+"person": "Stefan Schwartze",
+"funktion_person": "MdB, SPD",
+"funktion_beim_empfaenger": "Mitglied des Kuratoriums, von Amts wegen",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Stefan Schwartze (MdB, SPD) ist laut bundestag.de Mitglied des Kuratoriums, von Amts wegen bei Aktionsbündnis Patientensicherheit . Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Gesundheit; Petitionsausschuss; Verkehrsausschuss. Aktionsbündnis Patientensicherheit  erhielt laut Lobbyregister Mittel von: BMG - Bundesgesundheitsministerium; Innovationsausschuss beim g-BA.",
+"ausschuesse": [
+"Ausschuss für Gesundheit",
+"Petitionsausschuss",
+"Verkehrsausschuss"
+],
+"geld_aus": [
+"BMG - Bundesgesundheitsministerium",
+"Innovationsausschuss beim g-BA"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/S/schwartze_stefan-1047344",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 40001,
+"bis": 50000
+},
+"mitgliedsbeitraege": {
+"von": 400001,
+"bis": 410000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/2c/a8/813217/Bilanz-zum-31-12-2024_Stand-30-10-2025.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002644/82500",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-14",
+"etikett": "Eigenangabe",
+"version": 11
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/S/schwartze_stefan-1047344",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

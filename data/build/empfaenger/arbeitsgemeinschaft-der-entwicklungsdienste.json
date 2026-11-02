@@ -1,0 +1,117 @@
+{
+"id": "arbeitsgemeinschaft-der-entwicklungsdienste",
+"name": "Arbeitsgemeinschaft der Entwicklungsdienste e.V. (AGdD)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bonn",
+"website": "www.agdd.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006858",
+"eintrag_id": 78816,
+"version": 4,
+"stand": "2026-06-17",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006858/78816",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/79/76/762007/Lobbyregister-Registereintraege-Detailansicht-R006858-2026-06-17_13-33-09.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+"epl": "23",
+"von": 840001,
+"bis": 850000,
+"zweck": "Projektförderung durch das Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) für die „Berufliche Reintegration von Entwicklungshelferinnen und Entwicklungshelfern, die aufgrund des EhfG eingesetzt sind.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 840001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Robert Mehr",
+"funktion": "Erster stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006858/78816",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Therese Wenzel",
+"funktion": "Zweite stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006858/78816",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Caroline Wiegand",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006858/78816",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Gabi Waibel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006858/78816",
+"stand": "2026-06-17"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/68/de/762006/AGdD_Jahresbericht_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006858/78816",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-17",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

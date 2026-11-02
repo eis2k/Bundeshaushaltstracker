@@ -1,0 +1,97 @@
+{
+"id": "gesellschaft-gegen-gewichtsdiskriminierung",
+"name": "Gesellschaft gegen Gewichtsdiskriminierung e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://www.gewichtsdiskriminierung.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007584",
+"eintrag_id": 67047,
+"version": 2,
+"stand": "2025-10-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007584/67047",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/cb/8c/632327/Lobbyregister-Registereintraege-Detailansicht-R007584-2025-10-24_11-38-55.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Antidiskriminierungsstelle des Bundes (ADS)",
+"epl": null,
+"von": 70001,
+"bis": 80000,
+"zweck": "Die Zuwendung ist eine Projektförderung im Rahmen des Programms respekt*land in Form einer Fehlbedarfsfinanzierung. Sie dient der Deckung der Ausgaben für die Entwicklung eines Fortbildungsangebots zur Qualifizierung von Antidiksriminierungsberatungsstellen zum Thema Gewichtsdiskriminierung und schließt dabei intersektionale Perspektiven entlang der in § 1 AGG genannten Diskriminierungskategorien ein.",
+"geschaeftsjahr": "2023"
+}
+],
+"lobby_untergrenze_bund": 70001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Natalie Rosenke",
+"funktion": "Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007584/67047",
+"stand": "2025-10-24"
+}
+},
+{
+"name": "Stephanie von Liebenstein",
+"funktion": "stellv. Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007584/67047",
+"stand": "2025-10-24"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2023",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/d4/a8/632326/2023_EUR_lobbyregister.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007584/67047",
+"abgerufen": "2026-11-02",
+"stand": "2025-10-24",
+"etikett": "Eigenangabe",
+"version": 2
+}
+]
+}

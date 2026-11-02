@@ -1,0 +1,108 @@
+{
+"id": "dryad-networks",
+"name": "Dryad Networks",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "www.dryad.net",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007142",
+"eintrag_id": 70293,
+"version": 2,
+"stand": "2026-01-05",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007142/70293",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/eb/d9/677512/Lobbyregister-Registereintraege-Detailansicht-R007142-2026-01-05_14-25-27.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "EuNo/BMWK",
+"epl": null,
+"von": 500001,
+"bis": 510000,
+"zweck": "FireRiskMap",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "ARTES-CG",
+"epl": null,
+"von": 41000001,
+"bis": 41010000,
+"zweck": "DtS-BGS",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "KMU-innovativ",
+"epl": null,
+"von": 48880001,
+"bis": 48890000,
+"zweck": "EHWB",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "KMU-innovativ",
+"epl": null,
+"von": 490001,
+"bis": 500000,
+"zweck": "KIWB",
+"geschaeftsjahr": "2023"
+}
+],
+"lobby_untergrenze_bund": 90870004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Stephan Beyer",
+"funktion": "CFO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007142/70293",
+"stand": "2026-01-05"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2023",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/33/fb/677503/Dryad-Financial-Statements-2023-23092024-final-but-not-audited.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007142/70293",
+"abgerufen": "2026-11-02",
+"stand": "2026-01-05",
+"etikett": "Eigenangabe",
+"version": 2
+}
+]
+}

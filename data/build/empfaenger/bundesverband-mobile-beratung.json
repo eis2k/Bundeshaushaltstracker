@@ -1,0 +1,170 @@
+{
+"id": "bundesverband-mobile-beratung",
+"name": "Bundesverband Mobile Beratung",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Dresden",
+"website": "www.bundesverband-mobile-beratung.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000312",
+"eintrag_id": 71587,
+"version": 19,
+"stand": "2026-02-02",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000312/71587",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/b0/9a/688419/Lobbyregister-Registereintraege-Detailansicht-R000312-2026-02-02_15-37-07.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Familie, Frauen, Senioren und Jugend",
+"epl": null,
+"von": 550001,
+"bis": 560000,
+"zweck": "Förderung des Bundesverbandes Mobile Beratung als Begleitprojekt für die Mobile Beratung in den Ländern.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesintegrationsbeauftragte",
+"epl": null,
+"von": 80001,
+"bis": 90000,
+"zweck": "Förderung des Bundesverbandes Mobile Beratung als Begleitprojekt für die Mobile Beratung in den Ländern.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 630002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Pascal Begrich",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000312/71587",
+"stand": "2026-02-02"
+}
+},
+{
+"name": "Michael Nattke",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000312/71587",
+"stand": "2026-02-02"
+}
+},
+{
+"name": "Kathalena Essers",
+"funktion": "Vorständin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000312/71587",
+"stand": "2026-02-02"
+}
+},
+{
+"name": "Heiko Klare",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000312/71587",
+"stand": "2026-02-02"
+}
+},
+{
+"name": "Nora Warrach",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000312/71587",
+"stand": "2026-02-02"
+}
+},
+{
+"name": "Friedemann Bringt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000312/71587",
+"stand": "2026-02-02"
+}
+},
+{
+"name": "Onna Buchholt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000312/71587",
+"stand": "2026-02-02"
+}
+},
+{
+"name": "Jennifer Pross",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000312/71587",
+"stand": "2026-02-02"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/97/91/688418/BMB_Bilanz-2023_241007.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000312/71587",
+"abgerufen": "2026-11-02",
+"stand": "2026-02-02",
+"etikett": "Eigenangabe",
+"version": 19
+}
+]
+}

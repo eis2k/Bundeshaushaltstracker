@@ -1,0 +1,86 @@
+{
+"id": "circulum-vitae",
+"name": "Circulum Vitae GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "www.meine-erde.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005254",
+"eintrag_id": 64157,
+"version": 6,
+"stand": "2025-08-20",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005254/64157",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/03/e8/604952/Lobbyregister-Registereintraege-Detailansicht-R005254-2025-08-20_15-05-12.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium der Finanzen",
+"epl": "08",
+"von": 120001,
+"bis": 130000,
+"zweck": "Forschungszulage",
+"geschaeftsjahr": "2023"
+}
+],
+"lobby_untergrenze_bund": 120001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Pablo Metz",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005254/64157",
+"stand": "2025-08-20"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2023",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/cc/06/604949/Circulum-Vitae-GmbH_Jahresabschluss_2022.pdf",
+"geschaeftsjahr": "2022",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005254/64157",
+"abgerufen": "2026-11-02",
+"stand": "2025-08-20",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

@@ -1,0 +1,156 @@
+{
+"id": "bundesverband-fuer-alternative-proteinquellen",
+"name": "Bundesverband für Alternative Proteinquellen e. V. ",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://balpro.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006020",
+"eintrag_id": 87873,
+"version": 15,
+"stand": "2026-10-21",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006020/87873",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/30/31/863983/Lobbyregister-Registereintraege-Detailansicht-R006020-2026-10-21_15-38-52.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Landwirtschaftliche Rentenbank",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Projektbezogene Förderung zur Stärkung von Kommunikation, Wissenstransfer, fachlicher Einordnung und politischer Anschlussfähigkeit im Bereich alternativer Proteinquellen.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 10001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Fabio Ziemßen",
+"funktion": "Vorstand ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006020/87873",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Hauschildt Claudia",
+"funktion": "Stellvertretende Vorsitzende ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006020/87873",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "William Trautmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Studentischer Mitarbeiter",
+"stelle": "Verwaltung des Deutschen Bundestages",
+"beendet": true,
+"ende": "2022-10"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006020/87873",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Ronja Berthold",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006020/87873",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Sebastian Ludewig",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006020/87873",
+"stand": "2026-10-21"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "William Trautmann",
+"funktion_person": "Studentischer Mitarbeiter, Verwaltung des Deutschen Bundestages, bis 2022-10",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "William Trautmann ist laut Lobbyregister Interessenvertretung bei Bundesverband für Alternative Proteinquellen e. V.  und hatte zuvor eine öffentliche Funktion: Studentischer Mitarbeiter, Verwaltung des Deutschen Bundestages, bis 2022-10. Bundesverband für Alternative Proteinquellen e. V.  erhielt laut Lobbyregister Mittel von: Landwirtschaftliche Rentenbank.",
+"ausschuesse": [],
+"geld_aus": [
+"Landwirtschaftliche Rentenbank"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006020/87873",
+"stand": "2026-10-21"
+}
+],
+"stand": "2026-10-21"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 170001,
+"bis": 180000
+},
+"mitgliedsbeitraege": {
+"von": 170001,
+"bis": 180000
+},
+"lobbyausgaben": {
+"von": 110001,
+"bis": 120000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/3c/6d/863979/Jahresabschluss-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006020/87873",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-21",
+"etikett": "Eigenangabe",
+"version": 15
+}
+]
+}

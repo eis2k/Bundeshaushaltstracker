@@ -1,0 +1,87 @@
+{
+"id": "gesellschaft-der-deutschen-bundesstiftung-umwelt-zur-sicheru",
+"name": "Gesellschaft der Deutschen Bundesstiftung Umwelt zur Sicherung des nationalen Naturerbes - DBU Naturerbe GmbH",
+"art": "verein_stiftung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Osnabrück",
+"website": "www.dbu.de/naturerbe",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001533",
+"eintrag_id": 79282,
+"version": 9,
+"stand": "2026-06-18",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001533/79282",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/8b/5d/762780/Lobbyregister-Registereintraege-Detailansicht-R001533-2026-06-18_08-16-39.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Naturschutz",
+"epl": "16",
+"von": 1000001,
+"bis": 1010000,
+"zweck": "Das Bundesamt für Naturschutz förderte die Machbarkeitsstudie „Natürlicher Klimaschutz auf Flächen des Nationalen Natuerbes: Konzeptentwicklung und Evaluierung am Beispiel ausgewählter DBU Naturerbeflächen“.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1000001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Alexander Bonde",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001533/79282",
+"stand": "2026-06-18"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 30001,
+"bis": 40000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/f4/f9/762779/2025-DBU-Naturerbe-Jahresabschluss-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001533/79282",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-18",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

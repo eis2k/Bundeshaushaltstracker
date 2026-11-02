@@ -1,0 +1,108 @@
+{
+"id": "ionity",
+"name": "IONITY GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "München",
+"website": "ionity.eu",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006540",
+"eintrag_id": 82877,
+"version": 7,
+"stand": "2026-07-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006540/82877",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/77/c0/819465/Lobbyregister-Registereintraege-Detailansicht-R006540-2026-07-24_10-03-32.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMDV",
+"epl": "12",
+"von": 170001,
+"bis": 180000,
+"zweck": "Forschungsprojekt SEQURE",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 170001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jeroen van Tilburg",
+"funktion": "Geschäftsführer / CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006540/82877",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Torsten Kiedel",
+"funktion": "Geschäftsführer / CFO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006540/82877",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Dominik Ziriakus",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006540/82877",
+"stand": "2026-07-24"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 90001,
+"bis": 100000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/33/d6/819464/Konzernabschluss-31-12-2024-small.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006540/82877",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-24",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

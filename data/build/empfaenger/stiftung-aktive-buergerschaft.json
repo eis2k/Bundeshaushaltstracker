@@ -1,0 +1,107 @@
+{
+"id": "stiftung-aktive-buergerschaft",
+"name": "Stiftung Aktive Bürgerschaft",
+"art": "verein_stiftung",
+"rechtsform": "Rechtsfähige Stiftung bürgerlichen Rechts",
+"sitz": "Berlin",
+"website": "https://www.aktive-buergerschaft.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000502",
+"eintrag_id": 82285,
+"version": 7,
+"stand": "2026-07-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000502/82285",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/48/bd/803928/Lobbyregister-Registereintraege-Detailansicht-R000502-2026-07-03_10-13-15.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Deutschen Stiftung für Engagement und Ehrenamt",
+"epl": null,
+"von": 30001,
+"bis": 40000,
+"zweck": "sozialgenial für alle: Junge Menschen bundesweit für Engagement gewinnen und Zusammenhalt stärken",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 30001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Peter Hanker",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000502/82285",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "Kirsten Siersleben",
+"funktion": "Stellv. Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000502/82285",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "Stefan Nährlich",
+"funktion": "Geschäftsführer und Mitglied des Vorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000502/82285",
+"stand": "2026-07-03"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 930001,
+"bis": 940000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e1/4b/803927/Jahresbericht2023-unterzeichnet.pdf",
+"geschaeftsjahr": "2023",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000502/82285",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-03",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

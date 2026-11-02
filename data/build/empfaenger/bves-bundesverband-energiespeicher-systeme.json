@@ -1,0 +1,207 @@
+{
+"id": "bves-bundesverband-energiespeicher-systeme",
+"name": "BVES Bundesverband Energiespeicher Systeme e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.bves.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002833",
+"eintrag_id": 87116,
+"version": 25,
+"stand": "2026-10-06",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002833/87116",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/08/80/857313/Lobbyregister-Registereintraege-Detailansicht-R002833-2026-10-06_13-03-11.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz (BMWK)",
+"epl": "09",
+"von": 50001,
+"bis": 60000,
+"zweck": "Im Rahmen des Projekts EcoEneSto übernimmt der BVES die Leitung und Mitarbeit im Task Economics of Energy Storage im Rahmen des Technology Collaboration Programme (TCP) Energy Storage der Internationalen Energieagentur (IEA). Das übergeordnete Ziel des Tasks ist es, folgende Fragen zu beantworten: Was ist der Wert von Energiespeichern in vielversprechenden Anwendungen und wie kann dieser quantifiziert werden? Wie können der Nutzen und der Wert von Energiespeichern in aussichtsreiche Geschäftsmodelle umgesetzt werden? Kooperationspartner ist das Bayerisches Zentrum für Angewandte Energieforschung ZAE Bayern.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 50001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Thomas Speidel",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002833/87116",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Britta Buchholz",
+"funktion": "Mitglied des Präsidiums",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002833/87116",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Heinrich Gärtner",
+"funktion": "Mitglied des Präsidiums",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002833/87116",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Urban Windelen",
+"funktion": "Bundesgeschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002833/87116",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Susanne König",
+"funktion": "Mitglied des Präsidiums",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002833/87116",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Andreas Görtz",
+"funktion": "Mitglied des Präsidiums",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002833/87116",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Bodo Mayer",
+"funktion": "Mitglied des Präsidiums",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002833/87116",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Beatrice Schulz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002833/87116",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Gerrit Lühring",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002833/87116",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Simon Steffgen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002833/87116",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Lennart Freese",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002833/87116",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Isabella Weiss",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002833/87116",
+"stand": "2026-10-06"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 830001,
+"bis": 840000
+},
+"lobbyausgaben": {
+"von": 400001,
+"bis": 410000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/c1/4a/857307/BVES-JA_2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002833/87116",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-06",
+"etikett": "Eigenangabe",
+"version": 25
+}
+]
+}

@@ -1,0 +1,130 @@
+{
+"id": "northvolt-drei-project",
+"name": "Northvolt Drei Project GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Hamburg",
+"website": "www.northvolt.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005421",
+"eintrag_id": 60037,
+"version": 6,
+"stand": "2026-01-13",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005421/60037",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/45/82/681149/Lobbyregister-Registereintraege-Detailansicht-R005421-2026-01-13_13-29-18.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 20001,
+"bis": 30000,
+"zweck": "Aufbau eines Qualifikationszentrums für Batterie-Fachkräfte in Schleswig-Holstein. Ab 2026 sollen dort pro Jahr bis zu 900 Fachkräfte qualifiziert werden. Die Aus- und Weiterbildungsinitiative wird von fünf gleichberechtigten Partnern umgesetzt: den beiden Batterieherstellern Northvolt und CustomCells, dem Fraunhofer-Institut für Siliziumtechnologie (ISIT), dem Branchennetzwerk Erneuerbare Energien Hamburg (EEHH) und dem Weiterbildungsunternehmen Heinze Akademie GmbH. Träger des Projekts ist die VDI/VDE Innovation + Technik GmbH.",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 20001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Nicolas Steinbacher",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005421/60037",
+"stand": "2026-01-13"
+}
+},
+{
+"name": "Thomas Hoffmann",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005421/60037",
+"stand": "2026-01-13"
+}
+},
+{
+"name": "Patrick Keinprecht",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005421/60037",
+"stand": "2026-01-13"
+}
+},
+{
+"name": "Nils Wulfes",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005421/60037",
+"stand": "2026-01-13"
+}
+},
+{
+"name": "Yannick Wulf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005421/60037",
+"stand": "2026-01-13"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 40001,
+"bis": 50000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/08/7e/681148/1719998824-northvolt_sustainability_and_annual_report_2023.pdf",
+"geschaeftsjahr": "2023",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005421/60037",
+"abgerufen": "2026-11-02",
+"stand": "2026-01-13",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

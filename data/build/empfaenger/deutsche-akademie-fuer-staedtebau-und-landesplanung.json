@@ -1,0 +1,165 @@
+{
+"id": "deutsche-akademie-fuer-staedtebau-und-landesplanung",
+"name": "Deutsche Akademie für Städtebau und Landesplanung (DASL) e. V. ",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.dasl.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005382",
+"eintrag_id": 79093,
+"version": 9,
+"stand": "2026-06-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005382/79093",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/aa/ce/772339/Lobbyregister-Registereintraege-Detailansicht-R005382-2026-06-24_11-10-28.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesinstitut für Bau-, Stadt- und Raumforschung",
+"epl": "25",
+"von": 180001,
+"bis": 190000,
+"zweck": "Zehnter Hochschultag der Nationalen Stadtentwicklungspolitik",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesinstitut für Bau-, Stadt- und Raumforschung",
+"epl": "25",
+"von": 90001,
+"bis": 100000,
+"zweck": "DASL Jahrestagung 2025-2027",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 270002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Monika Thomas",
+"funktion": "Präsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Abteilungsleiterin für Stadtentwicklung und Wohnen",
+"stelle": "Bundesministerium des Innern und für Heimat (BMI) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2020-12"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005382/79093",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Barbara Engel",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005382/79093",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Frauke Burgdorff",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005382/79093",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Michael von der Mühlen",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005382/79093",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Irene Gaus",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005382/79093",
+"stand": "2026-06-24"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Monika Thomas",
+"funktion_person": "Abteilungsleiterin für Stadtentwicklung und Wohnen, Bundesministerium des Innern und für Heimat (BMI) oder dessen Geschäftsbereich, bis 2020-12",
+"funktion_beim_empfaenger": "Präsidentin",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Monika Thomas ist laut Lobbyregister Präsidentin bei Deutsche Akademie für Städtebau und Landesplanung (DASL) e. V.  und hatte zuvor eine öffentliche Funktion: Abteilungsleiterin für Stadtentwicklung und Wohnen, Bundesministerium des Innern und für Heimat (BMI) oder dessen Geschäftsbereich, bis 2020-12. Deutsche Akademie für Städtebau und Landesplanung (DASL) e. V.  erhielt laut Lobbyregister Mittel von: Bundesinstitut für Bau-, Stadt- und Raumforschung.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesinstitut für Bau-, Stadt- und Raumforschung"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005382/79093",
+"stand": "2026-06-24"
+}
+],
+"stand": "2026-06-24"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 240001,
+"bis": 250000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/a4/97/772338/1-BGS-HH-Abschluss-2025-WP-2027.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005382/79093",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-24",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

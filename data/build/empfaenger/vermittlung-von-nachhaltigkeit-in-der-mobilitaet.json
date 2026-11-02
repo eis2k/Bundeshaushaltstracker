@@ -1,0 +1,64 @@
+{
+"id": "vermittlung-von-nachhaltigkeit-in-der-mobilitaet",
+"name": "Vermittlung von Nachhaltigkeit in der Mobilität",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "12-1210-68603",
+"text": "Förderung der Vermittlung von Nachhaltigkeit in der Mobilität",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr",
+"werte": {
+"2020": {
+"soll": 866000,
+"ist": 0
+},
+"2021": {
+"soll": 866000,
+"ist": 1725400
+},
+"2022": {
+"soll": 866000,
+"ist": 872600
+},
+"2023": {
+"soll": 0,
+"ist": 0
+},
+"2024": {
+"soll": 950000,
+"ist": 928460
+},
+"2025": {
+"soll": 950000,
+"ist": 971540
+},
+"2026": {
+"soll": 950000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

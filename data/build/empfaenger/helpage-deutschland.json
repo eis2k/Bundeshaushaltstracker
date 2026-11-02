@@ -1,0 +1,116 @@
+{
+"id": "helpage-deutschland",
+"name": "HelpAge Deutschland e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Osnabrück",
+"website": "www.helpage.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003505",
+"eintrag_id": 80440,
+"version": 8,
+"stand": "2026-07-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003505/80440",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/aa/70/799781/Lobbyregister-Registereintraege-Detailansicht-R003505-2026-07-01_13-41-12.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 2570001,
+"bis": 2580000,
+"zweck": "Zuschüsse zur Projektarbeit in Ländern des Globalen Südens.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 5310001,
+"bis": 5320000,
+"zweck": "Zuschüsse zur Humanitären Hilfe in der Ukraine und in Ländern des Globalen Südens.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 7880002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Tom Kafczyk",
+"funktion": "geschäftsführender Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003505/80440",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Nadine Fels",
+"funktion": "geschäftsführender Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003505/80440",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Jürgen Focke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003505/80440",
+"stand": "2026-07-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 4240001,
+"bis": 4250000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 120001,
+"bis": 130000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/5b/a0/799780/helpage_jahresbericht_2025_web.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003505/80440",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-01",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

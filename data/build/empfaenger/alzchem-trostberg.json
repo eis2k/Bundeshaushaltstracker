@@ -1,0 +1,147 @@
+{
+"id": "alzchem-trostberg",
+"name": "Alzchem Trostberg GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Trostberg",
+"website": "https://www.alzchem.com/de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001966",
+"eintrag_id": 85732,
+"version": 8,
+"stand": "2026-09-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001966/85732",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/69/b7/851623/Lobbyregister-Registereintraege-Detailansicht-R001966-2026-09-30_12-09-18.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)",
+"epl": "09",
+"von": 40001,
+"bis": 50000,
+"zweck": "Richtlinie für die Bundesförderung für Energie- und Ressourceneffizienz in der Wirtschaft",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "Richtlinie für die Bundesförderung für Energie- und Ressourceneffizienz in der Wirtschaft",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 50002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Andreas Niedermaier",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001966/85732",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Andreas Lösler",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001966/85732",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Martina Spitzer",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001966/85732",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Jürgen Sans",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001966/85732",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Sven Hartmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001966/85732",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Lorenz Heimerl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001966/85732",
+"stand": "2026-09-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 220001,
+"bis": 230000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/b4/02/851619/Alzchem-Geschaeftsbericht-2025s-10.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001966/85732",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-30",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

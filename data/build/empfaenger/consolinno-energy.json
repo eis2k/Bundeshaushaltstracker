@@ -1,0 +1,96 @@
+{
+"id": "consolinno-energy",
+"name": "Consolinno Energy GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Regensburg",
+"website": "https://consolinno.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R008107",
+"eintrag_id": 85163,
+"version": 2,
+"stand": "2026-08-27",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008107/85163",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/25/3f/835646/Lobbyregister-Registereintraege-Detailansicht-R008107-2026-08-27_10-54-11.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 450001,
+"bis": 460000,
+"zweck": "Pilotierung energiewirtschaftlicher Szenarien im Bereich bidirektionales Laden",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 450001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Klaus Nagl",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008107/85163",
+"stand": "2026-08-27"
+}
+},
+{
+"name": "Simon Köppl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008107/85163",
+"stand": "2026-08-27"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/3b/8e/835645/251120_-Consolinno-Energy-GmbH_Jahresabschluss_-2024_vollstaendig-unterzeichnet.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008107/85163",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-27",
+"etikett": "Eigenangabe",
+"version": 2
+}
+]
+}

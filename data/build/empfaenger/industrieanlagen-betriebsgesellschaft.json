@@ -1,0 +1,209 @@
+{
+"id": "industrieanlagen-betriebsgesellschaft",
+"name": "Industrieanlagen-Betriebsgesellschaft mbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Ottobrunn",
+"website": "www.iabg.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002444",
+"eintrag_id": 79572,
+"version": 5,
+"stand": "2026-06-19",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002444/79572",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/d8/34/765526/Lobbyregister-Registereintraege-Detailansicht-R002444-2026-06-19_13-00-24.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 20001,
+"bis": 30000,
+"zweck": "Vorhaben: NIP II-FuE: Entwicklung und Erprobung eines CRYOGAS Wasserstoff-Speichersystems (CcH2) für den Einsatz in Langstrecken-Nutzfahrzeugen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 20001,
+"bis": 30000,
+"zweck": "Vorhaben: Produktion, Optimierung und Virtuelle Nachweisführung für Generative Fertigungsverfahren",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 140001,
+"bis": 150000,
+"zweck": "Verbundvorhaben: BUENA - Branchenuebergreifende Industrialisierung von additiver Produktion",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 150001,
+"bis": 160000,
+"zweck": "Verbundprojekt: SmarTram — Autonom fahrendes Transportsystem für den Stadtverkehr mit erhöhtem Passagierkomfort",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "Verbundprojekt: 5G-OPERA (5G OPEn RA)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "DLR eV. Raumfahrtagentur - Projekt gefördert durch: Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": null,
+"von": 70001,
+"bis": 80000,
+"zweck": "Verbundvorhaben: Weitraumgestützte Uberwachung von GNSS Signalinterferenzen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "TÜV Rheinland Consulting GmbH, Forschungsmanagement Projekt gefördert durch: Bundesministerium für Digitales und Verkehr",
+"epl": null,
+"von": 130001,
+"bis": 140000,
+"zweck": "Verbundprojekt: Artificial Intelligence in Rescue Chains - AIRCIS - Stärkung der Rettungskette unter Extremwettereinflüssen durch den Einsatz von Künstlicher Intelligenz am Beispiel Lausitz",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "VDI/ VDE-lT Projekt gefördert durch:Bundesministerium für Bildung und Forschung",
+"epl": null,
+"von": 170001,
+"bis": 180000,
+"zweck": "Verbundprojekt: QuNET+ skalierbare Bodenstationen - QuNET+SKALE — im Rahmen der QuNET-Initiative",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "DLR eV. Raumfahrtagentur Postfach 3003 64 Projekt gefördert durch: Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": null,
+"von": 170001,
+"bis": 180000,
+"zweck": "Vorhaben: Vorbereitung künftiger Tests und Zulassungen innovativer GNSS-Dienste wie HAS, OSNMA oder LEO-Verfahren",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "DLR eV. Raumfahrtagentur Postfach 3003 64 Projekt gefördert durch: Bundesministerium für Digitales und Verkehr",
+"epl": null,
+"von": 90001,
+"bis": 100000,
+"zweck": "Vorhaben:Entwicklung eines PRS Analyse Tools und eines Konzeptes für einen PRS PPP",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR)",
+"epl": "30",
+"von": 160001,
+"bis": 170000,
+"zweck": "Verbundvorhaben: Resilient Zero-Trust Avionics Platform supported by Digital Security Twins and Aircraft-SOCs (RESISTANT)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1130011,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Rudolf Schwarz",
+"funktion": "Geschäftsführer (Vorsitz)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002444/79572",
+"stand": "2026-06-19"
+}
+},
+{
+"name": "Thomas Köhler",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002444/79572",
+"stand": "2026-06-19"
+}
+},
+{
+"name": "Axel Lüder",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002444/79572",
+"stand": "2026-06-19"
+}
+},
+{
+"name": "Karsten Deiseroth",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002444/79572",
+"stand": "2026-06-19"
+}
+},
+{
+"name": "Pelin Afat",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002444/79572",
+"stand": "2026-06-19"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 130001,
+"bis": 140000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/84/4b/765525/SH_Konzernabschluss_2024_Bilanz_GUV.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002444/79572",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-19",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

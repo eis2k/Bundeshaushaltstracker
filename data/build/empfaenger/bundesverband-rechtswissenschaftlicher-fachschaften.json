@@ -1,0 +1,247 @@
+{
+"id": "bundesverband-rechtswissenschaftlicher-fachschaften",
+"name": "Bundesverband rechtswissenschaftlicher Fachschaften e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Hamburg",
+"website": "https://bundesfachschaft.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005312",
+"eintrag_id": 79032,
+"version": 13,
+"stand": "2026-07-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005312/79032",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/fc/7d/800577/Lobbyregister-Registereintraege-Detailansicht-R005312-2026-07-01_16-17-59.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 10001,
+"bis": 20000,
+"zweck": "Die Zuwendung wurde vom Bundesministerium für Bildung und Forschung (seit der 21. Legislatur des Bundestages Bundesministerium für Forschung, Technologie und Raumfahrt) im Rahmen der \"Förderung hochschulbezogener zentraler Maßnahmen studentischer Verbände\" bewilligt.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 10001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Arndörfer David",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005312/79032",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Jan Kießelbach",
+"funktion": "Stellvertrender Vorsitzender und Vorstand für Öffentlichkeitsarbeit",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005312/79032",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Tristan Simmang",
+"funktion": "Vorstand für Finanzen",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005312/79032",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Victoria Anna Templin",
+"funktion": "Vorständin für Sponsoring und Kooperationen",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005312/79032",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Johannes Matussek",
+"funktion": "Vorstand für IT",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005312/79032",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Eric Lamping",
+"funktion": "Vorstand für Inhaltliche Koordination",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005312/79032",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Maxima Früh",
+"funktion": "Vorständin für Tagungen",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005312/79032",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Justine Börngen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005312/79032",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Julian Russo",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005312/79032",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Simon Morgenstern",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005312/79032",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Maurice Opitz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005312/79032",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Pascal Beleiu",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005312/79032",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Zeliha Durmus",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005312/79032",
+"stand": "2026-07-01"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Justine Börngen",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Justine Börngen ist laut Lobbyregister Interessenvertretung bei Bundesverband rechtswissenschaftlicher Fachschaften e.V. und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag. Bundesverband rechtswissenschaftlicher Fachschaften e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Bildung und Forschung.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Bildung und Forschung"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005312/79032",
+"stand": "2026-07-01"
+}
+],
+"stand": "2026-07-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/f2/cc/800576/Abschluss-25.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005312/79032",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-01",
+"etikett": "Eigenangabe",
+"version": 13
+}
+]
+}

@@ -1,0 +1,155 @@
+{
+"id": "h-und-r-gmbh-und-co",
+"name": "H&R GmbH & Co. KGaA",
+"art": "unternehmen",
+"rechtsform": "Kommanditgesellschaft auf Aktien (KGaA)",
+"sitz": "Salzbergen",
+"website": "www.hur.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R008116",
+"eintrag_id": 85965,
+"version": 5,
+"stand": "2026-09-17",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008116/85965",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/5d/14/842975/Lobbyregister-Registereintraege-Detailansicht-R008116-2026-09-17_13-59-49.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Deutsche Emissionshandelsstelle (DEHSt)",
+"epl": null,
+"von": 3890001,
+"bis": 3900000,
+"zweck": "Beihilfen für indirekte CO2-Kosten (Strompreiskompensation). Das Instrument dient dazu, stromintensive Unternehmen im Rahmen des EU-Emissionshandelssystems (EU-ETS) zu entlasten, um Wettbewerbsnachteile und die Verlagerung von Produktionen (Carbon Leakage) ins Ausland zu verhindern.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)",
+"epl": "09",
+"von": 510001,
+"bis": 520000,
+"zweck": "Die Besondere Ausgleichsregelung (BesAR) beim BAFA begrenzt die KWKG- und Offshore-Netzumlage für stromkostenintensive Unternehmen, um deren internationale Wettbewerbsfähigkeit zu sichern.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Zollverwaltung",
+"epl": "08",
+"von": 2900001,
+"bis": 2910000,
+"zweck": "Steuerentlastung für Gas / Erdgas. Die Rückerstattung der Energiesteuer ist eine Maßnahme, mit der Unternehmen gezahlte Energiesteuern auf Erdgas teilweise zurückerhalten. Ziel ist es, die Energiekosten zu senken und die Wettbewerbsfähigkeit zu stärken (Energiesteuergesetzes (EnergieStG) § 54 oder § 51, Energiesteuer-Durchführungsverordnung (EnergieStV) und die EnSTransV)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Emissionshandelsstelle (DEHSt)",
+"epl": null,
+"von": 6890001,
+"bis": 6900000,
+"zweck": "Die kostenlose Zuteilung von Emissionsrechten (EU-ETS) dient dem Schutz der Wettbewerbsfähigkeit und der Vermeidung von \"Carbon Leakage\".",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Hauptzollamt",
+"epl": null,
+"von": 1820001,
+"bis": 1830000,
+"zweck": "Unternehmen des produzierenden Gewerbes sowie der Land- und Forstwirtschaft können beim Hauptzollamt (HZA) Entlastungen von der Stromsteuer für nachweislich versteuerten Strom beantragen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)",
+"epl": "09",
+"von": 310001,
+"bis": 320000,
+"zweck": "Zuschüsse für KWK-Anlagen (Kraft-Wärme-Kopplung) werden gezahlt, um den Ausbau hocheffizienter, CO2-armer Technologie zu fördern, die Strom und Wärme gleichzeitig erzeugt.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Emissionshandelsstelle (DEHSt)",
+"epl": null,
+"von": 40001,
+"bis": 50000,
+"zweck": "Die Carbon Leakage Verordnung (BECV) bietet Zuschüsse für Unternehmen, die durch die CO2-Bepreisung (BEHG) im nationalen Brennstoffemissionshandel belastet sind. Sie dient dazu, die internationale Wettbewerbsfähigkeit energieintensiver Unternehmen zu sichern und Anreize für Klimaschutzinvestitionen zu schaffen.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 16360007,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Niels Heinz Hansen",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008116/85965",
+"stand": "2026-09-17"
+}
+},
+{
+"name": "Holger Oldekamp",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008116/85965",
+"stand": "2026-09-17"
+}
+},
+{
+"name": "Detlev Wösten",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008116/85965",
+"stand": "2026-09-17"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/fa/0f/842974/HuR_GB2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008116/85965",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-17",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

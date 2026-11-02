@@ -1,0 +1,103 @@
+{
+"id": "vng-gasspeicher",
+"name": "VNG Gasspeicher GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Leipzig",
+"website": "https://www.vng-gasspeicher.de/home",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000208",
+"eintrag_id": 77158,
+"version": 8,
+"stand": "2026-05-27",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000208/77158",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/1f/a1/742680/Lobbyregister-Registereintraege-Detailansicht-R000208-2026-05-27_10-05-45.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium für Wirtschaft und Energie",
+"epl": "60",
+"von": 1160001,
+"bis": 1170000,
+"zweck": "Zuwendung für das Vorhaben: „Reallabor: EnergieparkBL -Demonstration von Sektorkopplung: Wind-Elektrolyse für Erzeugung, Speicherung und Transport von grünem Wasserstoff - Teilvorhaben: Großtechnische Speicherung von Wasserstoff aus erneuerbaren Energien“",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium für Wirtschaft und Energie, sowie das Land Sachsen-Anhalt",
+"epl": "60",
+"von": 260001,
+"bis": 270000,
+"zweck": "Förderung für IPCEI-Projekt GoSpeicher - Green Octopus Mitteldeutschland, Kavernenspeicher für Wasserstoff",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1420002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Bernd Protze",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000208/77158",
+"stand": "2026-05-27"
+}
+},
+{
+"name": "Susanne Schmidt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000208/77158",
+"stand": "2026-05-27"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 110001,
+"bis": 120000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/d4/0d/742679/JA-Testat-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000208/77158",
+"abgerufen": "2026-11-02",
+"stand": "2026-05-27",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

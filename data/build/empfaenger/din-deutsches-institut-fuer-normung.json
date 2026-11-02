@@ -1,0 +1,294 @@
+{
+"id": "din-deutsches-institut-fuer-normung",
+"name": "DIN Deutsches Institut für Normung e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.din.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000798",
+"eintrag_id": 79322,
+"version": 15,
+"stand": "2026-06-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000798/79322",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/a8/13/781719/Lobbyregister-Registereintraege-Detailansicht-R000798-2026-06-29_09-46-36.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 840001,
+"bis": 850000,
+"zweck": "Projektförderung im Bereich H2-Standardisierung (Verwaltender Projektträger der Zuwendung: Projektträger Jülich)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "Projektförderung im Bereich Standardisierung (Verwaltender Projektträger der Zuwendung: TÜV Rheinland Consulting)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 3420001,
+"bis": 3430000,
+"zweck": "Projektförderung von Technologie- und Innovationstransfer (Verwaltende Stelle der Zuwendung: Bundesamt für Wirtschaft und Ausfuhrkontrolle)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Arbeit und Soziales (BMAS)",
+"epl": "11",
+"von": 440001,
+"bis": 450000,
+"zweck": "Projektförderung im Bereich Normung und Standardisierung (Verwaltende Stelle der Zuwendung: Bundesverwaltungsamt)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen (BMWSB)",
+"epl": "25",
+"von": 500001,
+"bis": 510000,
+"zweck": "Projektförderung auf dem Gebiet des Normungswesens",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium der Justiz und für Verbraucherschutz (BMJV)",
+"epl": "07",
+"von": 980001,
+"bis": 990000,
+"zweck": "Projektförderung der Geschäftsstelle des Verbraucherrates (Verwaltende Stelle der Zuwendung: Bundesverwaltungsamt)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN)",
+"epl": "16",
+"von": 1350001,
+"bis": 1360000,
+"zweck": "Projektförderung für die Arbeiten einzelner Normenausschüsse als auch die der Koordinierungsstelle Umweltschutz (Verwaltende Stelle der Zuwendung: Umweltbundesamt)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Ernährung und Landwirtschaft (BMEL)",
+"epl": "10",
+"von": 260001,
+"bis": 270000,
+"zweck": "Projektförderung im Bereich Normung und Standardisierung (Verwaltende Stelle der Zuwendung: Bundesverwaltungsamt)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 300001,
+"bis": 310000,
+"zweck": "Projektförderung auf dem Gebiet des Normungswesens (Verwaltende Stellen der Zuwendungen: BMDV und die Bundesanstalt für Verwaltungsdienstleistungen)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 40001,
+"bis": 50000,
+"zweck": "Projektförderung im Bereich Standardisierung (Verwaltender Projektträger der Zuwendung: Deutsches Zentrum für Luft- und Raumfahrt)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 80001,
+"bis": 90000,
+"zweck": "Projektförderung im Bereich Standardisierung (Verwaltender Projektträger der Zuwendung: Projektträger Jülich)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 30001,
+"bis": 40000,
+"zweck": "Projektförderung im Bereich Standardisierung (Verwaltender Projektträger der Zuwendung: VDI Technologiezentrum GmbH)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "Projektförderung für die Verwaltungspartnerschaft für die Wasserstofftechnologie in Namibia",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 8280013,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christoph Winterhalter",
+"funktion": "Vorsitzender des Vorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000798/79322",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Daniel Schmidt",
+"funktion": "Mitglied des Vorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000798/79322",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Sibylle Gabler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000798/79322",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Katja Krüger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000798/79322",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Christiane Nowotzki",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000798/79322",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Marion Lange",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000798/79322",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Daniel Pavlovic",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000798/79322",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Markus Oliver Brunner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000798/79322",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Corinna Holst",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000798/79322",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Christoph Tovar",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000798/79322",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Johannes Benjamin Helfritz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000798/79322",
+"stand": "2026-06-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Sonstiges",
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 300001,
+"bis": 310000
+},
+"mitgliedsbeitraege": {
+"von": 9770001,
+"bis": 9780000
+},
+"lobbyausgaben": {
+"von": 1130001,
+"bis": 1140000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/92/7d/781718/DIN-eV_JAP-2025_Testat-final_elektr-Kopie.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000798/79322",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-29",
+"etikett": "Eigenangabe",
+"version": 15
+}
+]
+}

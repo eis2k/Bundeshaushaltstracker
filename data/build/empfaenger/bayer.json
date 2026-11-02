@@ -1,0 +1,719 @@
+{
+"id": "bayer",
+"name": "Bayer AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Leverkusen",
+"website": "www.bayer.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002249",
+"eintrag_id": 82914,
+"version": 23,
+"stand": "2026-07-10",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f8/d3/811092/Lobbyregister-Registereintraege-Detailansicht-R002249-2026-07-10_13-01-45.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 10001,
+"bis": 20000,
+"zweck": "Förderprojekt INSPIRATION",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 1,
+"bis": 10000,
+"zweck": "Förderprojekt AutoRamanHCA",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 240001,
+"bis": 250000,
+"zweck": "Förderprojekt BaseLipid",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 1,
+"bis": 10000,
+"zweck": "Förderprojekt EagleEtos",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Frorschung",
+"epl": null,
+"von": 40001,
+"bis": 50000,
+"zweck": "Förderprojekt Mediator",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 290005,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Stefan Oelrich",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Rodrigo Santos",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Bill Anderson",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Heike Prinz",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Julio Triana",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Judith Hartmann",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Max Müller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Marco Annas",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Matthias Berninger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Verena Kantel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Constantin Marquardt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2020-08"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Claus Runge",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Stephan Schraff",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Helga Flores Trejo",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Jan Uhlemann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Melanie Vogel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Till Voß",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Kai Mornhinweg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Tobias Helmstorf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Anna Rainer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Frank Terhorst",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Ines von Behr",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Anna Maria Mortler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Sarah Hartwich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Marianna Voigt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2023-12"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "David Lerch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Carolin Welzel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Senior Advisor",
+"stelle": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+"beendet": true,
+"ende": "2024-09"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Lars Friedrich Lindemann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2024-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Bianca Annabella Schneider",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Antonia Barthel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Karen Köhler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Elisabeth Grünberg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2023-08"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Laura Dieguez Otero",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Hannah Herscheid",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Daniel Schneiders",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Thomas Puetz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Jessica Keiser",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Janina Lukas",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Bettina Wanner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Ellen Dhein",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "David Schneider",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Sabrina Ritterbach",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Hendrik Gnad",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Constantin Marquardt",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2020-08",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Constantin Marquardt ist laut Lobbyregister Interessenvertretung bei Bayer AG und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2020-08. Bayer AG erhielt laut Lobbyregister Mittel von: Bundesministerium für Bildung und Forschung; Bundesministerium für Bildung und Frorschung.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Bildung und Forschung",
+"Bundesministerium für Bildung und Frorschung"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+],
+"stand": "2026-07-10"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Marianna Voigt",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-12",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Marianna Voigt ist laut Lobbyregister Interessenvertretung bei Bayer AG und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-12. Bayer AG erhielt laut Lobbyregister Mittel von: Bundesministerium für Bildung und Forschung; Bundesministerium für Bildung und Frorschung.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Bildung und Forschung",
+"Bundesministerium für Bildung und Frorschung"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+],
+"stand": "2026-07-10"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Carolin Welzel",
+"funktion_person": "Senior Advisor, Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH, bis 2024-09",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Carolin Welzel ist laut Lobbyregister Interessenvertretung bei Bayer AG und hatte zuvor eine öffentliche Funktion: Senior Advisor, Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH, bis 2024-09. Bayer AG erhielt laut Lobbyregister Mittel von: Bundesministerium für Bildung und Forschung; Bundesministerium für Bildung und Frorschung.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Bildung und Forschung",
+"Bundesministerium für Bildung und Frorschung"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+],
+"stand": "2026-07-10"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Lars Friedrich Lindemann",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag, bis 2024-03",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Lars Friedrich Lindemann ist laut Lobbyregister Interessenvertretung bei Bayer AG und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag, bis 2024-03. Bayer AG erhielt laut Lobbyregister Mittel von: Bundesministerium für Bildung und Forschung; Bundesministerium für Bildung und Frorschung.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Bildung und Forschung",
+"Bundesministerium für Bildung und Frorschung"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+],
+"stand": "2026-07-10"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Elisabeth Grünberg",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-08",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Elisabeth Grünberg ist laut Lobbyregister Interessenvertretung bei Bayer AG und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-08. Bayer AG erhielt laut Lobbyregister Mittel von: Bundesministerium für Bildung und Forschung; Bundesministerium für Bildung und Frorschung.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Bildung und Forschung",
+"Bundesministerium für Bildung und Frorschung"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"stand": "2026-07-10"
+}
+],
+"stand": "2026-07-10"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 2180001,
+"bis": 2190000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/7c/4d/811087/entire-bayer-gb25.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002249/82914",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-10",
+"etikett": "Eigenangabe",
+"version": 23
+}
+]
+}

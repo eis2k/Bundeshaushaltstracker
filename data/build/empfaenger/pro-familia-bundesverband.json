@@ -1,0 +1,129 @@
+{
+"id": "pro-familia-bundesverband",
+"name": "pro familia Bundesverband e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Frankfurt am Main",
+"website": "https://www.profamilia.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005361",
+"eintrag_id": 78969,
+"version": 17,
+"stand": "2026-08-12",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005361/78969",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/11/84/830197/Lobbyregister-Registereintraege-Detailansicht-R005361-2026-08-12_14-40-18.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 1210001,
+"bis": 1220000,
+"zweck": "Fachliche Beratung im Bereich der Sexuellen und Reproduktiven Gesundheit und Rechte",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1210001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Monika Börding",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005361/78969",
+"stand": "2026-08-12"
+}
+},
+{
+"name": "Jutta Güldenpfennig",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005361/78969",
+"stand": "2026-08-12"
+}
+},
+{
+"name": "Paula Dielentheis",
+"funktion": "Stellvertretender Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005361/78969",
+"stand": "2026-08-12"
+}
+},
+{
+"name": "Julia Zinsmeister",
+"funktion": "Schatzmeisterin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005361/78969",
+"stand": "2026-08-12"
+}
+},
+{
+"name": "Sebastian Schädler",
+"funktion": "Stellvertretender Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005361/78969",
+"stand": "2026-08-12"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 20001,
+"bis": 30000
+},
+"mitgliedsbeitraege": {
+"von": 30001,
+"bis": 40000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/b6/0e/830196/finanzbericht_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005361/78969",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-12",
+"etikett": "Eigenangabe",
+"version": 17
+}
+]
+}

@@ -1,0 +1,119 @@
+{
+"id": "bundesarbeitsgemeinschaft-fuer-straffaelligenhilfe",
+"name": "Bundesarbeitsgemeinschaft für Straffälligenhilfe e.V. (BAG-S)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.bag-s.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001021",
+"eintrag_id": 77162,
+"version": 13,
+"stand": "2026-05-26",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001021/77162",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/6f/88/741942/Lobbyregister-Registereintraege-Detailansicht-R001021-2026-05-26_11-19-05.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMAS",
+"epl": "11",
+"von": 190001,
+"bis": 200000,
+"zweck": "Projekte im Bereich der Straffälligenhilfe im besonderen Bundesinteresse",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 190001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Lars Schäfer",
+"funktion": "1. Stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001021/77162",
+"stand": "2026-05-26"
+}
+},
+{
+"name": "Angelina Bemb",
+"funktion": "Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001021/77162",
+"stand": "2026-05-26"
+}
+},
+{
+"name": "Heike Timmen",
+"funktion": "2. Stellvertretung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001021/77162",
+"stand": "2026-05-26"
+}
+},
+{
+"name": "Christina Müller-Ehlers",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001021/77162",
+"stand": "2026-05-26"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 20001,
+"bis": 30000
+},
+"lobbyausgaben": {
+"von": 60001,
+"bis": 70000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/34/9d/741937/Jahresabschluss-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001021/77162",
+"abgerufen": "2026-11-02",
+"stand": "2026-05-26",
+"etikett": "Eigenangabe",
+"version": 13
+}
+]
+}

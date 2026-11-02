@@ -1,0 +1,268 @@
+{
+"id": "medica-mondiale",
+"name": "medica mondiale e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Köln",
+"website": "www.medicamondiale.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002910",
+"eintrag_id": 83977,
+"version": 11,
+"stand": "2026-07-31",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002910/83977",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/dc/83/823313/Lobbyregister-Registereintraege-Detailansicht-R002910-2026-07-31_08-15-33.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 30001,
+"bis": 40000,
+"zweck": "Feministische Handlungsspielräume stärken! Frauenrechtsorganisationen vernetzen sich in der Großen Seen Region",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 40001,
+"bis": 50000,
+"zweck": "Starke Stimmen: Uganda gegen SGBV-Gemeinsam für Frauenrechte & zivilgesellschaftliche Resilienz",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Entwicklung und Zusammenarbeit",
+"epl": null,
+"von": 90001,
+"bis": 100000,
+"zweck": "Nulltoleranz für S/GBV in der Mano River Region – Phase 2: Multiplikation und Integration",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 160001,
+"bis": 170000,
+"zweck": "Gemeinsam stärker - ein gender-transformative Koalition/ Stronger together - a Gender Transformative Coalition",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Zusammenarbeit und Entwicklung",
+"epl": null,
+"von": 190001,
+"bis": 200000,
+"zweck": "Concerted action for zero tolerance against S/GBV in the Mano River Region (dt Nulltoleranz für S/GBV in der Mano River Region durch konzertiertes Vorgehen auf zivilgesellschaftlicher, staatlicher und sub-regionaler Ebene)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 380001,
+"bis": 390000,
+"zweck": "Psychosoziale Gesundheit gewaltbetroffener Frauen und Mädchen fördern sowie Schutz vor geschlechtsspezifischer Gewalt erhöhen, Monts./Margibi, Liberia",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": null,
+"von": 490001,
+"bis": 500000,
+"zweck": "THTP 3 - Transnationales Gesundheitstrainings und Advocacy Programm - Phase 3",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 670001,
+"bis": 680000,
+"zweck": "Amplifying Voices von Frauen, die von konfliktbezogener Gewalt im Westbalkan betroffen sind.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMZ",
+"epl": "23",
+"von": 690001,
+"bis": 700000,
+"zweck": "Auf lange Sicht - Prävention von SGBV und Stärkung betroffener Frauen und Mädchen in der afrikanischen Große Seen Region - Phase 2",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 1080001,
+"bis": 1090000,
+"zweck": "In Würde leben II - Ganzheitlicher Schutz und Empowerment von SGBV-Überlebenden und ihren Kindern in der Autonomen Region Kurdistan im Irak",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 3820010,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Monika  Hauser",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002910/83977",
+"stand": "2026-07-31"
+}
+},
+{
+"name": "Sybille Fezer",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002910/83977",
+"stand": "2026-07-31"
+}
+},
+{
+"name": "Elke Ebert",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002910/83977",
+"stand": "2026-07-31"
+}
+},
+{
+"name": "Sara Fremberg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002910/83977",
+"stand": "2026-07-31"
+}
+},
+{
+"name": "Jeannette Böhme",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002910/83977",
+"stand": "2026-07-31"
+}
+},
+{
+"name": "Jana Schwerdtfeger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002910/83977",
+"stand": "2026-07-31"
+}
+},
+{
+"name": "Monika Hauser",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002910/83977",
+"stand": "2026-07-31"
+}
+},
+{
+"name": "Whitney Martina Nosakhare",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Rechtsreferendarin",
+"stelle": "Auswärtiges Amt (AA) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2024-05"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002910/83977",
+"stand": "2026-07-31"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Whitney Martina Nosakhare",
+"funktion_person": "Rechtsreferendarin, Auswärtiges Amt (AA) oder dessen Geschäftsbereich, bis 2024-05",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Whitney Martina Nosakhare ist laut Lobbyregister Interessenvertretung bei medica mondiale e.V. und hatte zuvor eine öffentliche Funktion: Rechtsreferendarin, Auswärtiges Amt (AA) oder dessen Geschäftsbereich, bis 2024-05. medica mondiale e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung; BMZ; Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung; Bundesministerium für Zusammenarbeit und Entwicklung; Bundesministerium für wirtschaftliche Entwicklung und Zusammenarbeit.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"BMZ",
+"Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung",
+"Bundesministerium für Zusammenarbeit und Entwicklung",
+"Bundesministerium für wirtschaftliche Entwicklung und Zusammenarbeit"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002910/83977",
+"stand": "2026-07-31"
+}
+],
+"stand": "2026-07-31"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Sonstiges",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 6050001,
+"bis": 6060000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 240001,
+"bis": 250000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e6/5a/823312/mm_Jahresbericht-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002910/83977",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-31",
+"etikett": "Eigenangabe",
+"version": 11
+}
+]
+}

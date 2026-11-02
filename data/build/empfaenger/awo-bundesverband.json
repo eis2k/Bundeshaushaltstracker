@@ -1,0 +1,753 @@
+{
+"id": "awo-bundesverband",
+"name": "AWO Bundesverband e.V.",
+"art": "kirche_wohlfahrt",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.awo.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002224",
+"eintrag_id": 78847,
+"version": 47,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c3/0e/789660/Lobbyregister-Registereintraege-Detailansicht-R002224-2026-06-30_12-00-14.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 360001,
+"bis": 370000,
+"zweck": "Zuwendung für Jugendsozialarbeit an Schulen - Respekt Coaches (Titel 68401)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 3160001,
+"bis": 3170000,
+"zweck": "Zuwendung für die Durchführung zentraler und internationaler Wohlfahrtsaufgaben (Titel 68404)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 410001,
+"bis": 420000,
+"zweck": "Zuwendung für die Qualifizierung durch digital gestützte Bildungsprozesse und Vernetzungsstrukturen (Titel 68407)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Migration und Flüchtlinge",
+"epl": "06",
+"von": 1460001,
+"bis": 1470000,
+"zweck": "Zuwendung für Migrationsberatung erwachsener Zuwanderer (Titel 68413)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Migration und Flüchtlinge",
+"epl": "06",
+"von": 20001,
+"bis": 30000,
+"zweck": "Zuwendung für die gesellschaftliche und soziale Integration von Zuwanderinnen und Zuwanderern (Titel 68414)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesverwaltungsamt",
+"epl": "06",
+"von": 970001,
+"bis": 980000,
+"zweck": "Zuwendung für Jugendsozialarbeit und weiterer bundeszentraler Aufgaben der Kinder- und Jugendhilfe",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"epl": "17",
+"von": 210001,
+"bis": 220000,
+"zweck": "Zuwendung für die pädagogischen Begleitung im Freiwilligen Sozialen Jahr (Titel 68411)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"epl": "17",
+"von": 220001,
+"bis": 230000,
+"zweck": "Förderung des Bundesfreiwilligendienstes",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"epl": "17",
+"von": 130001,
+"bis": 140000,
+"zweck": "Zuwendung für die Förderung von Chancenpatenschaften (Titel 68404)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend / Bundesverwaltungsamt",
+"epl": "17",
+"von": 290001,
+"bis": 300000,
+"zweck": "Zuwendung: Programm der Bundesregierung zur Beratung und Betreuung von Flüchtlingen (Titel 68405)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend / Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"epl": "17",
+"von": 40001,
+"bis": 50000,
+"zweck": "Zuwendung: Förderung der Demokratie und Vielfalt (Titel 68404)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 430001,
+"bis": 440000,
+"zweck": "Zuwendung für die bundesweite Förderung der individuellen Begleitung junger zugewanderter Menschen (Titel 68401)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Migration und Flüchtlinge",
+"epl": "06",
+"von": 120001,
+"bis": 130000,
+"zweck": "Zuwendung: Projekt Zentralstelle des Programms \"MiA - Migrantinnen einfach stark im Alltag\" (Titel 68412)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Migration und Flüchtlinge",
+"epl": "06",
+"von": 100001,
+"bis": 110000,
+"zweck": "Zuwendung: Behördenunabhängige Asylverfahrensberatung (Titel 684 62)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 230001,
+"bis": 240000,
+"zweck": "Zuwendung: Zukunftspaket für Bewegung, Kultur und Gesundheit – Mental Health Coaches",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 20001,
+"bis": 30000,
+"zweck": "Zuwendung: Bildungsberatung Garantiefonds Hochschule",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsch-Französisches Jugendwerk",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Zuwendung: Jugendbegegnung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 100001,
+"bis": 110000,
+"zweck": "Zuwendung im Rahmen der Jugendmigrationsdienste - Projekt Digital Hub (Titel 68401)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 8280018,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Claudia Mandrysch",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Marvin  Deversi",
+"funktion": "Mitglied des Vorstands ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Claus Bölicke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Sebastian Gottschall",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Claudia Pohl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Cordula Schuh",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Fabian Schwarz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Heike Timmen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Antje Helbig",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Marius Isenberg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Susanne Rindt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Alexandra Hoorn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Steffen Lembke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Manuel Armbruster",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Talibe Süzen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Kitty Thiel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Hubert Lautenbach",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Verena Wittke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Judith Adamczyk",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Frederik Palmer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Berit Gründler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Lorenz Wiese",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Lukas Werner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Lukas Hochscheidt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2022-12"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Alexander Friedrich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Tobias Reichelt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Carolin Drößler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Hanna Schwarz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Kathrin Sonnenholzner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Michael Groß",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-10"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Sandra Mika-Berger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Anna Terfehr-Hoffmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Jennifer Rotter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Thomas Diekamp",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Peter Kuleßa",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Alexander Nöhring",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Sina Küster",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Christian Shukow",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Janina Herrmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Julia Florentine Binder",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2023-08"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Lukas Hochscheidt",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2022-12",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Lukas Hochscheidt ist laut Lobbyregister Interessenvertretung bei AWO Bundesverband e.V. und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2022-12. AWO Bundesverband e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Familie, Senioren, Frauen und Jugend; Bundesamt für Migration und Flüchtlinge; Bundesverwaltungsamt; Bundesministerium für Familie, Senioren, Frauen und Jugend / Bundesverwaltungsamt; Bundesamt für Familie und zivilgesellschaftliche Aufgaben; Bundesministerium für Familie, Senioren, Frauen und Jugend / Bundesamt für Familie und zivilgesellschaftliche Aufgaben; Deutsch-Französisches Jugendwerk.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"Bundesamt für Migration und Flüchtlinge",
+"Bundesverwaltungsamt",
+"Bundesministerium für Familie, Senioren, Frauen und Jugend / Bundesverwaltungsamt",
+"Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"Bundesministerium für Familie, Senioren, Frauen und Jugend / Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"Deutsch-Französisches Jugendwerk"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+],
+"stand": "2026-06-30"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Michael Groß",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag, bis 2021-10",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Michael Groß ist laut Lobbyregister Interessenvertretung bei AWO Bundesverband e.V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag, bis 2021-10. AWO Bundesverband e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Familie, Senioren, Frauen und Jugend; Bundesamt für Migration und Flüchtlinge; Bundesverwaltungsamt; Bundesministerium für Familie, Senioren, Frauen und Jugend / Bundesverwaltungsamt; Bundesamt für Familie und zivilgesellschaftliche Aufgaben; Bundesministerium für Familie, Senioren, Frauen und Jugend / Bundesamt für Familie und zivilgesellschaftliche Aufgaben; Deutsch-Französisches Jugendwerk.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"Bundesamt für Migration und Flüchtlinge",
+"Bundesverwaltungsamt",
+"Bundesministerium für Familie, Senioren, Frauen und Jugend / Bundesverwaltungsamt",
+"Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"Bundesministerium für Familie, Senioren, Frauen und Jugend / Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"Deutsch-Französisches Jugendwerk"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+],
+"stand": "2026-06-30"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Julia Florentine Binder",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-08",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Julia Florentine Binder ist laut Lobbyregister Interessenvertretung bei AWO Bundesverband e.V. und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-08. AWO Bundesverband e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Familie, Senioren, Frauen und Jugend; Bundesamt für Migration und Flüchtlinge; Bundesverwaltungsamt; Bundesministerium für Familie, Senioren, Frauen und Jugend / Bundesverwaltungsamt; Bundesamt für Familie und zivilgesellschaftliche Aufgaben; Bundesministerium für Familie, Senioren, Frauen und Jugend / Bundesamt für Familie und zivilgesellschaftliche Aufgaben; Deutsch-Französisches Jugendwerk.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"Bundesamt für Migration und Flüchtlinge",
+"Bundesverwaltungsamt",
+"Bundesministerium für Familie, Senioren, Frauen und Jugend / Bundesverwaltungsamt",
+"Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"Bundesministerium für Familie, Senioren, Frauen und Jugend / Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"Deutsch-Französisches Jugendwerk"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"stand": "2026-06-30"
+}
+],
+"stand": "2026-06-30"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 70001,
+"bis": 80000
+},
+"mitgliedsbeitraege": {
+"von": 3170001,
+"bis": 3180000
+},
+"lobbyausgaben": {
+"von": 440001,
+"bis": 450000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/25/15/789658/Endgueltiger-Bericht-JAP-2024-AWO-BV.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002224/78847",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 47
+}
+]
+}

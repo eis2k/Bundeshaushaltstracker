@@ -1,0 +1,127 @@
+{
+"id": "german-irish-chamber-of-industry-and-commerce",
+"name": "German-Irish Chamber of Industry and Commerce",
+"art": "verein_stiftung",
+"rechtsform": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+"sitz": "Dublin2",
+"website": "www.german-irish.ie",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003886",
+"eintrag_id": 57032,
+"version": 10,
+"stand": "2025-06-04",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003886/57032",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/fd/39/537220/Lobbyregister-Registereintraege-Detailansicht-R003886-2025-06-04_13-36-13.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 390001,
+"bis": 400000,
+"zweck": "BMWK Service",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 50001,
+"bis": 60000,
+"zweck": "Energy Export Initiative (Dublin)",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 440002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Simon Dauber",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003886/57032",
+"stand": "2025-06-04"
+}
+},
+{
+"name": "Stefanie Ziska",
+"funktion": "CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003886/57032",
+"stand": "2025-06-04"
+}
+},
+{
+"name": "David Parkmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003886/57032",
+"stand": "2025-06-04"
+}
+},
+{
+"name": "Jutta Jennings",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003886/57032",
+"stand": "2025-06-04"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 60001,
+"bis": 70000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/90/43/529118/Abridged-Financial-Statements-2024.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003886/57032",
+"abgerufen": "2026-11-02",
+"stand": "2025-06-04",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

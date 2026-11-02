@@ -1,0 +1,143 @@
+{
+"id": "lhoist-germany-rheinkalk",
+"name": "Lhoist Germany Rheinkalk GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Wülfrath",
+"website": "https://www.lhoist.com/de-DE/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003482",
+"eintrag_id": 60963,
+"version": 7,
+"stand": "2025-07-02",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003482/60963",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/73/36/574601/Lobbyregister-Registereintraege-Detailansicht-R003482-2025-07-02_13-23-24.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 390001,
+"bis": 400000,
+"zweck": "Zuwendung im Rahmen der Richtlinie für die Förderung von Stromeinsparungen im Rahmen wettbewerblicher Ausschreibungen: Stromeffizienzpotentiale nutzen, STEP up. Mit den wettbewerblichen Ausschreibungen im Bereich Stromeffizienz, STEP up, werden im Rahmen dieser Förderrichtlinie investive Stromeffizienzprojekte gefördert, durch die mit gegebenen Fördermitteleinsätzen eine maximale Einsparung erzielt wird.",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 240001,
+"bis": 250000,
+"zweck": "BAFA Modul 1: In diesem Modul werden investive Maßnahmen zur Erhöhung der Energieeffizienz durch den Einsatz von hocheffizienten und am Markt verfügbaren Technologien gefördert. Förderfähig sind Investitionen zum Ersatz oder zur Neuanschaffung von hocheffizienten Anlagen bzw. Aggregaten für die industrielle und gewerbliche Anwendung.",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "Projektträger Jülich | Forschungszentrum Jülich GmbH",
+"epl": "30",
+"von": 10001,
+"bis": 20000,
+"zweck": "Förderung des PtJ mit einem Zuschuss für die aktive Beteiligung des Unternehmens (Personalkosten) im Verbundprojekt \"Carbon2Chem\" unter Beteiligung des Bundesministerium für Bildung und Forschung sowie zahlreichen Partnern aus Wissenschaft und Industrie. Carbon2Chem® bildet einen zentralen Baustein für den Klimaschutz in der Industrie. Eine Verbesserung beim Klimaschutz erfordert neben der Reduzierung der CO2-Emissionen auch eine Verringerung bzw. Vermeidung des Einsatzes fossiler Rohstoffe. Das Verbundprojekt Carbon2Chem® will Prozessgase der Industrie als wertvolle Kohlenstoffquelle für die chemische Industrie erschließen. Gefördert wird das Projekt vom Bundesministerium für Bildung und Forschung (BMBF).",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 160001,
+"bis": 170000,
+"zweck": "Zuwendung im Rahmen des Förderwettbewerb Energie- und Ressourceneffizienz: Der Förderwettbewerb ist akteurs-, sektor- und technologieoffen. Im Fokus der Förderung stehen investive Maßnahmen von Unternehmen zur Verbesserung der Energie- und Ressourceneffizienz sowie zur Bereitstellung von Prozesswärme aus erneuerbaren Energien. Dadurch sollen den Unternehmen Anreize geboten werden, um insbesondere in ambitionierte Projekte zu investieren, die für eine wirtschaftliche Umsetzung von mehr Energie- und Ressourceneffizienz und Senkung der THG-Emissionen Unterstützung benötigen.",
+"geschaeftsjahr": "2023"
+}
+],
+"lobby_untergrenze_bund": 800004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Alexia Spieler",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003482/60963",
+"stand": "2025-07-02"
+}
+},
+{
+"name": "Mario Burda",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003482/60963",
+"stand": "2025-07-02"
+}
+},
+{
+"name": "Thomas Nowak",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003482/60963",
+"stand": "2025-07-02"
+}
+},
+{
+"name": "Martin Volmer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003482/60963",
+"stand": "2025-07-02"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Sonstiges",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 100001,
+"bis": 110000
+},
+"geschaeftsjahr": "2023",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/62/0d/574600/240625-Lhoist-Rheinkalk-GmbH-Jahresabschluss-Geschaeftsjahr-2023.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003482/60963",
+"abgerufen": "2026-11-02",
+"stand": "2025-07-02",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

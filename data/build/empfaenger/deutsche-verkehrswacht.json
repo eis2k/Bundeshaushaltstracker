@@ -1,0 +1,127 @@
+{
+"id": "deutsche-verkehrswacht",
+"name": "Deutsche Verkehrswacht e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.verkehrswacht.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000482",
+"eintrag_id": 82566,
+"version": 10,
+"stand": "2026-07-08",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000482/82566",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/50/e7/808549/Lobbyregister-Registereintraege-Detailansicht-R000482-2026-07-08_10-00-53.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Digitales und Verkehr (bis 06. Mai 2025) // Bundesministerium für Verkehr (ab 06. Mai 2025)",
+"epl": "12",
+"von": 4740001,
+"bis": 4750000,
+"zweck": "Fördermittel / Zuschüsse für Präventionsmaßnahmen zur Erhöhung der Verkehrssicherheit (Zielgruppenprojekte)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 4740001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Daniel Schüle",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000482/82566",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Kirsten Lühmann",
+"funktion": "Präsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-09"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000482/82566",
+"stand": "2026-07-08"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Kirsten Lühmann",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag, bis 2021-09",
+"funktion_beim_empfaenger": "Präsidentin",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Kirsten Lühmann ist laut Lobbyregister Präsidentin bei Deutsche Verkehrswacht e. V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag, bis 2021-09. Deutsche Verkehrswacht e. V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Digitales und Verkehr (bis 06. Mai 2025) // Bundesministerium für Verkehr (ab 06. Mai 2025).",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Digitales und Verkehr (bis 06. Mai 2025) // Bundesministerium für Verkehr (ab 06. Mai 2025)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000482/82566",
+"stand": "2026-07-08"
+}
+],
+"stand": "2026-07-08"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 60001,
+"bis": 70000
+},
+"lobbyausgaben": {
+"von": 40001,
+"bis": 50000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/f9/34/808547/Deutsche-Verkehrswacht-Jahresabschluss-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000482/82566",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-08",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

@@ -1,0 +1,278 @@
+{
+"id": "deutscher-segler-verband",
+"name": "Deutscher Segler-Verband e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Hamburg",
+"website": "www.dsv.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000586",
+"eintrag_id": 77353,
+"version": 17,
+"stand": "2026-06-19",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000586/77353",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/89/85/764855/Lobbyregister-Registereintraege-Detailansicht-R000586-2026-06-19_09-43-27.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium des Innern und für Heimat",
+"epl": "06",
+"von": 2980001,
+"bis": 2990000,
+"zweck": "Spitzensportförderung für die Bundeskaderathlet*innen, die Bundestrainer*innen, die Betreuer*innen und das Leistungssportpersonal. In 2025 hat die Vorbereitung auf den neuen Olympiazyklus der Olympischen Spiele 2028 in Los Angeles begonnen. Zudem wurde der Ausbau der Trainingsmaßnahmen mit anderen internationalen Spitzensegler*innen und die Teilnahme an hochwertigen internationalen Regatten weiter ausgebaut.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutscher Olympischer Sportbund",
+"epl": null,
+"von": 120001,
+"bis": 130000,
+"zweck": "Verschiedene Förderprogramme der Seglerjugend. Insbesondere der Seglerjugend Roadshow, zur deutschlandweiten Förderung des Segelsportes bei Jugendlichen und Kindern.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 3100002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Claus Funk",
+"funktion": "Vizepräsident mit dem Geschäftsbereich Fahrten- und Freizeitsegeln",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000586/77353",
+"stand": "2026-06-19"
+}
+},
+{
+"name": "Katrin Adloff",
+"funktion": "Vizepräsidentin mit dem Geschäftsbereich Wettsegeln",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000586/77353",
+"stand": "2026-06-19"
+}
+},
+{
+"name": "Andreas Löwe",
+"funktion": "Vizepräsident mit dem Geschäftsbereich Umwelt und Recht",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000586/77353",
+"stand": "2026-06-19"
+}
+},
+{
+"name": "Mona Küppers",
+"funktion": "Präsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000586/77353",
+"stand": "2026-06-19"
+}
+},
+{
+"name": "Sibylle Merk",
+"funktion": "Vizepräsident mit dem Geschäftsbereich Olympisches Segeln und Nachwuchsleistungssport",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000586/77353",
+"stand": "2026-06-19"
+}
+},
+{
+"name": "Meike Greten",
+"funktion": "Vizepräsidentin mit dem Geschäftsbereich Aus- und Weiterbildung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000586/77353",
+"stand": "2026-06-19"
+}
+},
+{
+"name": "Claus Otto Hansen",
+"funktion": "Vizepräsident mit dem Geschäftsbereich Verwaltung und Finanzen",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000586/77353",
+"stand": "2026-06-19"
+}
+},
+{
+"name": "Jonathan Koch",
+"funktion": "Vizepräsident mit dem Geschäftsbereich Jugend",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Zeitvertragskraft im Rahmen der deutschen EU-Ratspräsidentschaft - Sachbearbeiter Europaabteilung",
+"stelle": "Auswärtiges Amt (AA) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2021-08"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000586/77353",
+"stand": "2026-06-19"
+}
+},
+{
+"name": "Michael Stoldt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000586/77353",
+"stand": "2026-06-19"
+}
+},
+{
+"name": "Hanna Steingröver",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000586/77353",
+"stand": "2026-06-19"
+}
+},
+{
+"name": "Nadine Stegenwalner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000586/77353",
+"stand": "2026-06-19"
+}
+},
+{
+"name": "Germar Brockmeyer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000586/77353",
+"stand": "2026-06-19"
+}
+},
+{
+"name": "Christiane Perlewitz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000586/77353",
+"stand": "2026-06-19"
+}
+},
+{
+"name": "Rainer Tatenhorst",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000586/77353",
+"stand": "2026-06-19"
+}
+},
+{
+"name": "Oliver Wiegand",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000586/77353",
+"stand": "2026-06-19"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Jonathan Koch",
+"funktion_person": "Zeitvertragskraft im Rahmen der deutschen EU-Ratspräsidentschaft - Sachbearbeiter Europaabteilung, Auswärtiges Amt (AA) oder dessen Geschäftsbereich, bis 2021-08",
+"funktion_beim_empfaenger": "Vizepräsident mit dem Geschäftsbereich Jugend",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Jonathan Koch ist laut Lobbyregister Vizepräsident mit dem Geschäftsbereich Jugend bei Deutscher Segler-Verband e.V. und hatte zuvor eine öffentliche Funktion: Zeitvertragskraft im Rahmen der deutschen EU-Ratspräsidentschaft - Sachbearbeiter Europaabteilung, Auswärtiges Amt (AA) oder dessen Geschäftsbereich, bis 2021-08. Deutscher Segler-Verband e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium des Innern und für Heimat; Deutscher Olympischer Sportbund.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium des Innern und für Heimat",
+"Deutscher Olympischer Sportbund"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000586/77353",
+"stand": "2026-06-19"
+}
+],
+"stand": "2026-06-19"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 30001,
+"bis": 40000
+},
+"mitgliedsbeitraege": {
+"von": 2160001,
+"bis": 2170000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/6e/8b/764854/24_JA-Deutscher-Segler-Verband-e-V.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000586/77353",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-19",
+"etikett": "Eigenangabe",
+"version": 17
+}
+]
+}

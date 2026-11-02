@@ -1,0 +1,139 @@
+{
+"id": "compugroup-medical-se-und-co",
+"name": "CompuGroup Medical SE & Co. KGaA",
+"art": "unternehmen",
+"rechtsform": "Kommanditgesellschaft auf Aktien (KGaA)",
+"sitz": "Koblenz",
+"website": "www.cgm.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003719",
+"eintrag_id": 88163,
+"version": 24,
+"stand": "2026-10-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003719/88163",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/b7/81/866838/Lobbyregister-Registereintraege-Detailansicht-R003719-2026-10-29_12-46-57.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 70001,
+"bis": 80000,
+"zweck": "Verbundprojekt: Digitales Selbstmanagement in transsektoralen, interprofessionellen Versorgungsstrukturen für die Onkologie (DigiCare) – Teilvorhaben: Erforschung einer eHealth-App und Aufbau einer Kommunikationsplattform",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 70001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Daniel Gotthardt",
+"funktion": "CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003719/88163",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Daniela Hommel",
+"funktion": "CFO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003719/88163",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Hannes Reichl",
+"funktion": "Geschäftsführender Direktor Inpatient and Social Care",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003719/88163",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Thorsten Herrmann",
+"funktion": "Managing Director Germany",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003719/88163",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Barbara Bruzek",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003719/88163",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Jörg Köpke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003719/88163",
+"stand": "2026-10-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 80001,
+"bis": 90000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/1d/e3/866837/260305-CGM-Geschaeftsbericht-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003719/88163",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-29",
+"etikett": "Eigenangabe",
+"version": 24
+}
+]
+}

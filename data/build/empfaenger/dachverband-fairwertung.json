@@ -1,0 +1,141 @@
+{
+"id": "dachverband-fairwertung",
+"name": "Dachverband FairWertung e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Essen",
+"website": "www.fairwertung.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007389",
+"eintrag_id": 83332,
+"version": 3,
+"stand": "2026-07-18",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007389/83332",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/2c/0c/815902/Lobbyregister-Registereintraege-Detailansicht-R007389-2026-07-18_14-29-17.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Umweltbundesamt",
+"epl": "16",
+"von": 70001,
+"bis": 80000,
+"zweck": "Im Rahmen der Verbändeförderung wurden Bundeszuschüsse für das Projekt \"Zukunftstage Altkleiderspende\" gewährt. Ziel war es, Organisationen und Initiativen im Bereich Altkleidersammlung bei der Bewältigung aktueller Herausforderungen zu unterstützen. Hierzu zählen u.a. die Themen - Kommunikation mit Altkleider-Spender*innen; - Nachhaltiger Umgang mit Textilspenden zur Wertsteigerung der Sammlung und für die lokale Wiederverwendung; - ökologisch sinnvoller Umgang mit textilen Abfällen; Durch die ZUKUNFTSTAGE ALTKLEIDERSPENDE wurden bundesweit mittels fünf Veranstaltungen eine Plattform geschaffen für eine verbands-, organisations- und generationenübergreifenden Austausch und Vernetzung, für fachliche (Fort-)Bildung zu aktuellen Themen und Herausforderungen in zielgruppenspezifischen Formaten.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 70001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Thomas Ahlmann",
+"funktion": "Besonderer Vertreter nach § 30 BGB",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007389/83332",
+"stand": "2026-07-18"
+}
+},
+{
+"name": "Anton Vaas",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007389/83332",
+"stand": "2026-07-18"
+}
+},
+{
+"name": "Johannes Müller",
+"funktion": "stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007389/83332",
+"stand": "2026-07-18"
+}
+},
+{
+"name": "Erdan Rustemovski",
+"funktion": "Beisitzer im Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007389/83332",
+"stand": "2026-07-18"
+}
+},
+{
+"name": "Thomas Rosenberger",
+"funktion": "Beisitzer im Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007389/83332",
+"stand": "2026-07-18"
+}
+},
+{
+"name": "Thomas Johannes",
+"funktion": "Beisitzer im Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007389/83332",
+"stand": "2026-07-18"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 40001,
+"bis": 50000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/b2/fe/815901/JA-Bericht-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007389/83332",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-18",
+"etikett": "Eigenangabe",
+"version": 3
+}
+]
+}

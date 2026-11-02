@@ -1,0 +1,147 @@
+{
+"id": "brainlab",
+"name": "Brainlab SE",
+"art": "unternehmen",
+"rechtsform": "Europäische Aktiengesellschaft (SE)",
+"sitz": "München",
+"website": "www.brainlab.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002216",
+"eintrag_id": 73681,
+"version": 17,
+"stand": "2026-03-27",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002216/73681",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/73/c9/713738/Lobbyregister-Registereintraege-Detailansicht-R002216-2026-03-27_16-27-21.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 130001,
+"bis": 140000,
+"zweck": "Das BMFTR Forschungsprojekt INSIGHT zieht auf die Entwicklung einer innovativen Technologie zur präziseren und schonender Behandlung von Tumorerkrankungen im Oberbauch ab. Durch die Kombination moderner Bildgebung, intelligenter Datenverarbeitung und Bewegungsanalysen soll eine neue Systemlösung entstehen, die zukünftig breiter in der Therapie eingesetzt werden kann.",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 120001,
+"bis": 130000,
+"zweck": "Das Projekt ReFACE zielt darauf ab, die Rekonstruktion des menschlichen Gesichts nach schweren Eingriffen – etwa infolge von Traumata, Tumorresektionen oder angeborenen Fehlbildungen – grundlegend zu verbessern, indem modernste künstliche Intelligenz in die chirurgische Planung integriert wird. Im Mittelpunkt steht die Entwicklung von Algorithmen, die eine automatisierte, präzise und patientenspezifische Rekonstruktion insbesondere der komplexen Mittelgesichtsknochen ermöglichen. Dadurch soll die virtuelle Planung in der Mund-, Kiefer- und Gesichtschirurgie (MKG) auf ein neues Niveau gehoben werden: schneller, standardisierter und gleichzeitig individueller. Ziel ist es, Chirurginnen und Chirurgen leistungsfähige digitale Werkzeuge an die Hand zu geben, die sowohl die Qualität der Ergebnisse als auch die Effizienz der Behandlungsprozesse nachhaltig verbessern.",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 250002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Rainer Birkenbach",
+"funktion": "Geschäftsführender Direktor (Vorsitz) / CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002216/73681",
+"stand": "2026-03-27"
+}
+},
+{
+"name": "Florian  Hoffmann",
+"funktion": "Geschäftsführender Direktor / COO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002216/73681",
+"stand": "2026-03-27"
+}
+},
+{
+"name": "Tobias  Schalkhausser",
+"funktion": "Geschäftsführender Direktor / CMO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002216/73681",
+"stand": "2026-03-27"
+}
+},
+{
+"name": "Rudolf  Kreitmair",
+"funktion": "Geschäftsführender Direktor / CFO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002216/73681",
+"stand": "2026-03-27"
+}
+},
+{
+"name": "Martin Wisböck",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002216/73681",
+"stand": "2026-03-27"
+}
+},
+{
+"name": "Stefan Vilsmeier",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002216/73681",
+"stand": "2026-03-27"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 130001,
+"bis": 140000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/28/a6/713729/Brainlab-AG-HGB-GJ-2025_final.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002216/73681",
+"abgerufen": "2026-11-02",
+"stand": "2026-03-27",
+"etikett": "Eigenangabe",
+"version": 17
+}
+]
+}

@@ -1,0 +1,179 @@
+{
+"id": "hateaid",
+"name": "HateAid gGmbH",
+"art": "verein_stiftung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "www.hateaid.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001880",
+"eintrag_id": 79428,
+"version": 25,
+"stand": "2026-06-26",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001880/79428",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f7/1c/779384/Lobbyregister-Registereintraege-Detailansicht-R001880-2026-06-26_13-50-34.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 420001,
+"bis": 430000,
+"zweck": "Projektförderung im Bundesprogramm “Demokratie leben!“",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium der Justiz",
+"epl": "07",
+"von": 590001,
+"bis": 600000,
+"zweck": "Projektförderung \"Digitale Gewalt in einem volatilen Umfeld: Neue Phänomenbereiche, Gewaltformen und Betroffenengruppen\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1010002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Anna-Lena Freiin von Hodenberg",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001880/79428",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Josephine Ballon",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001880/79428",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Jenny Brunner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001880/79428",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Franziska Benning",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001880/79428",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Martin Wunderlich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für eine Fraktion/Gruppe im Deutschen Bundestag",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001880/79428",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Ulli Grießhammer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001880/79428",
+"stand": "2026-06-26"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Martin Wunderlich",
+"funktion_person": "Funktion für eine Fraktion/Gruppe im Deutschen Bundestag, Bundestag, bis 2025-03",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Martin Wunderlich ist laut Lobbyregister Interessenvertretung bei HateAid gGmbH und hatte zuvor eine öffentliche Funktion: Funktion für eine Fraktion/Gruppe im Deutschen Bundestag, Bundestag, bis 2025-03. HateAid gGmbH erhielt laut Lobbyregister Mittel von: Bundesministerium der Justiz; Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium der Justiz",
+"Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001880/79428",
+"stand": "2026-06-26"
+}
+],
+"stand": "2026-06-26"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 6390001,
+"bis": 6400000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 160001,
+"bis": 170000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ef/cc/779356/Jahresabschluss-2025-final-signed-Website.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001880/79428",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-26",
+"etikett": "Eigenangabe",
+"version": 25
+}
+]
+}

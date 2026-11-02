@@ -1,0 +1,123 @@
+{
+"id": "bayernoil-raffineriegesellschaft",
+"name": "BAYERNOIL Raffineriegesellschaft mbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Neustadt",
+"website": "www.bayernoil.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000828",
+"eintrag_id": 85182,
+"version": 10,
+"stand": "2026-08-27",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000828/85182",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/1b/8e/835762/Lobbyregister-Registereintraege-Detailansicht-R000828-2026-08-27_14-39-59.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Umweltbundesamt, Deutsche Emissionshandelsstelle",
+"epl": "16",
+"von": 17350001,
+"bis": 17360000,
+"zweck": "Bewilligung einer Beihilfe für indirekte CO2-Kosten gemäß der Förderrichtlinie für Beihilfen für indirekte CO2-Kosten vom 13.03.2024",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "KfW Kreditanstalt",
+"epl": "09",
+"von": 4680001,
+"bis": 4690000,
+"zweck": "Bundesförderung für effiziente Gebäude - Nichtwohngebäude",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)",
+"epl": "09",
+"von": 1370001,
+"bis": 1380000,
+"zweck": "Zuschuss für Energieeffizienzmaßnahme nach BAFA Programm \"Bundesförderung für Energieeffizienz in der Wirtschaft\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 23400003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Wouter de Jong",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000828/85182",
+"stand": "2026-08-27"
+}
+},
+{
+"name": "Hedwig Hagl",
+"funktion": "Prokuristin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000828/85182",
+"stand": "2026-08-27"
+}
+},
+{
+"name": "Tobias Bauer",
+"funktion": "Prokurist",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000828/85182",
+"stand": "2026-08-27"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 140001,
+"bis": 150000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/cc/4c/835758/Bayernoil_JAP_31-12-2025_URegister_Offenlegung.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000828/85182",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-27",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

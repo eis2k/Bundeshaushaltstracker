@@ -1,0 +1,103 @@
+{
+"id": "feg-textiltechnik-forschungs-und-entwicklungsgesellschaft",
+"name": "FEG Textiltechnik Forschungs- und Entwicklungsgesellschaft mbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Aachen",
+"website": "Www.feg-textiltechnik.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006137",
+"eintrag_id": 76760,
+"version": 10,
+"stand": "2026-05-15",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006137/76760",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ce/da/737115/Lobbyregister-Registereintraege-Detailansicht-R006137-2026-05-15_11-16-45.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 140001,
+"bis": 150000,
+"zweck": "Forschungsförderung 03RU1U172C reACT",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 100001,
+"bis": 110000,
+"zweck": "Forschungsförderung 02L19C610 WIRKsam KI",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 240002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Philipp Schuster",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006137/76760",
+"stand": "2026-05-15"
+}
+},
+{
+"name": "Konstantin Obolenski",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006137/76760",
+"stand": "2026-05-15"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/d9/3f/737114/FEG_JA_2024-2025_Vorschau-Offenlegung.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006137/76760",
+"abgerufen": "2026-11-02",
+"stand": "2026-05-15",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

@@ -1,0 +1,103 @@
+{
+"id": "tikvah-institut",
+"name": "Tikvah Institut gUG",
+"art": "verein_stiftung",
+"rechtsform": "Unternehmergesellschaft (UG) (haftungsbeschränkt)",
+"sitz": "Berlin",
+"website": "https://tikvahinstitut.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000438",
+"eintrag_id": 60706,
+"version": 8,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000438/60706",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/97/73/794465/Lobbyregister-Registereintraege-Detailansicht-R000438-2026-06-30_17-10-56.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 150001,
+"bis": 160000,
+"zweck": "Projektförderung für verschiedene Forschungsprojekte",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium des Inneren",
+"epl": null,
+"von": 690001,
+"bis": 700000,
+"zweck": "Instiutionelle Förderung aufgrund eines Beschlusses des Deutschen Bundestages",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 840002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Volker Beck",
+"funktion": "Gesellschafter und Geschäftsführer ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000438/60706",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Deidre Berger",
+"funktion": "Gesellschafterin und Programmdirektorin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000438/60706",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/82/61/794464/Lobbyregister_Jahresabschluss_2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000438/60706",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

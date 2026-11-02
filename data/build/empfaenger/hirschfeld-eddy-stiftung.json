@@ -1,0 +1,168 @@
+{
+"id": "hirschfeld-eddy-stiftung",
+"name": "Hirschfeld-Eddy-Stiftung",
+"art": "verein_stiftung",
+"rechtsform": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+"sitz": "Köln",
+"website": "http://hirschfeld-eddy-stiftung.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000372",
+"eintrag_id": 73285,
+"version": 11,
+"stand": "2026-06-26",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000372/73285",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/a9/95/780335/Lobbyregister-Registereintraege-Detailansicht-R000372-2026-06-26_18-19-34.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium der Justiz und für Verbraucherschutz",
+"epl": "07",
+"von": 190001,
+"bis": 200000,
+"zweck": "Der pinke Faktor. Die Rolle von LSBTIQ im globalen Streit um Werte, Ressourcen und Vorherrschaft",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 190001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Axel Hochrein",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000372/73285",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Philipp Braun",
+"funktion": "Vorsitzender des Stiftungsrates",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Referent",
+"stelle": "Bundesministerium für Wirtschaft und Klimaschutz (BMWK) (20. WP) oder dessen Geschäftsbereich",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000372/73285",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Patrick Constantin Dörr",
+"funktion": "Stellvertretender Stiftungsratsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000372/73285",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Alva Katharina Träbert",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000372/73285",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Klaus Jetz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000372/73285",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Stana Iliev",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000372/73285",
+"stand": "2026-06-26"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Philipp Braun",
+"funktion_person": "Referent, Bundesministerium für Wirtschaft und Klimaschutz (BMWK) (20. WP) oder dessen Geschäftsbereich",
+"funktion_beim_empfaenger": "Vorsitzender des Stiftungsrates",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Philipp Braun ist laut Lobbyregister Vorsitzender des Stiftungsrates bei Hirschfeld-Eddy-Stiftung und hatte zuvor eine öffentliche Funktion: Referent, Bundesministerium für Wirtschaft und Klimaschutz (BMWK) (20. WP) oder dessen Geschäftsbereich. Hirschfeld-Eddy-Stiftung erhielt laut Lobbyregister Mittel von: Bundesministerium der Justiz und für Verbraucherschutz.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium der Justiz und für Verbraucherschutz"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000372/73285",
+"stand": "2026-06-26"
+}
+],
+"stand": "2026-06-26"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 60001,
+"bis": 70000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/c7/11/780324/HES-Abschluss-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000372/73285",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-26",
+"etikett": "Eigenangabe",
+"version": 11
+}
+]
+}

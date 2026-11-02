@@ -1,0 +1,176 @@
+{
+"id": "landessportbund-sachsen",
+"name": "Landessportbund Sachsen e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Leipzig",
+"website": "www.sport-fuer-sachsen.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004445",
+"eintrag_id": 72433,
+"version": 6,
+"stand": "2026-04-22",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004445/72433",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/81/66/725693/Lobbyregister-Registereintraege-Detailansicht-R004445-2026-04-22_08-51-28.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundeszentrale für politische Bildung",
+"epl": "06",
+"von": 40001,
+"bis": 50000,
+"zweck": "Zusammenhalt durch Teilhabe - Im Sport verein(t) für Demokratie",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen u. Jugend",
+"epl": null,
+"von": 80001,
+"bis": 90000,
+"zweck": "Deutsche Sportjugend im DOSB - Freiwilliges Soziales Jahr im Sport",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"epl": "17",
+"von": 110001,
+"bis": 120000,
+"zweck": "Bundesfreiwilligendienst im Sport",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen u. Jugend",
+"epl": null,
+"von": 30001,
+"bis": 40000,
+"zweck": "Deutsche Sportjugend im DOSB - Bundesfreiwilligendienst im Sport",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 260004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Frank Pfeil",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004445/72433",
+"stand": "2026-04-22"
+}
+},
+{
+"name": "Almut Krapf",
+"funktion": "Vizepräsidentin Breitensport",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004445/72433",
+"stand": "2026-04-22"
+}
+},
+{
+"name": "Christian Dahms",
+"funktion": "Hauptgeschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004445/72433",
+"stand": "2026-04-22"
+}
+},
+{
+"name": "Klaus-Ulrich Mau",
+"funktion": "Vizepräsident Leistungssport",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004445/72433",
+"stand": "2026-04-22"
+}
+},
+{
+"name": "André Schneider",
+"funktion": "Vizepräsident Bildung/Umwelt",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004445/72433",
+"stand": "2026-04-22"
+}
+},
+{
+"name": "Andreas Woda",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004445/72433",
+"stand": "2026-04-22"
+}
+},
+{
+"name": "Paul Werner",
+"funktion": "1. Vorsitzender der Sportjugend Sachsen",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004445/72433",
+"stand": "2026-04-22"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 710001,
+"bis": 720000
+},
+"mitgliedsbeitraege": {
+"von": 4220001,
+"bis": 4230000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e5/d1/725692/Kurzbericht-LSB-Sachsen-e-V-JA-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004445/72433",
+"abgerufen": "2026-11-02",
+"stand": "2026-04-22",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

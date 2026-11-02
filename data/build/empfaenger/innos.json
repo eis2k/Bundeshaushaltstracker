@@ -1,0 +1,96 @@
+{
+"id": "innos",
+"name": "innos GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Göttingen",
+"website": "www.innos.global",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001640",
+"eintrag_id": 69335,
+"version": 5,
+"stand": "2025-12-22",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001640/69335",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/9e/26/665571/Lobbyregister-Registereintraege-Detailansicht-R001640-2025-12-22_09-59-07.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "VDI/VDE Innovation und Technik GmbH",
+"epl": null,
+"von": 240001,
+"bis": 250000,
+"zweck": "Erlöse aus Zuwendungsbescheiden für Tätigkeit als Netzwerkmanagementeinrichtung in ZIM-Kooperationsnetzwerken",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 240001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "André Kaufung",
+"funktion": "Geschäftsführender Gesellschafter",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001640/69335",
+"stand": "2025-12-22"
+}
+},
+{
+"name": "Oliver Bub",
+"funktion": "Prokurist",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001640/69335",
+"stand": "2025-12-22"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/a2/82/665570/innos_GmbH_JA_2024.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001640/69335",
+"abgerufen": "2026-11-02",
+"stand": "2025-12-22",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

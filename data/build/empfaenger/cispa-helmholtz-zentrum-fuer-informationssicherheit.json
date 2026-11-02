@@ -1,0 +1,222 @@
+{
+"id": "cispa-helmholtz-zentrum-fuer-informationssicherheit",
+"name": "CISPA - Helmholtz-Zentrum für Informationssicherheit gGmbH",
+"art": "forschung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Saarbrücken",
+"website": "https://cispa.de/de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001367",
+"eintrag_id": 82936,
+"version": 15,
+"stand": "2026-07-10",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001367/82936",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/63/ac/811207/Lobbyregister-Registereintraege-Detailansicht-R001367-2026-07-10_14-44-43.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesrepublik Deutschland - BMBF/BMFTR, BMWi, BMWK, BMDV",
+"epl": "60",
+"von": 53220001,
+"bis": 53230000,
+"zweck": "1. Institutionelle Förderung 2. Nachstehende Projektförderung des BMBF/BMFTR: - CISPA-Stanford Center for Cybersecurity - CISPA-Gründungsinkubator für Startups im IT-Sicherheitsbereich - Folgende Projekte: KMU FUZZ (AZA), CPSec (AZA), UbiTrans (AZA), PriSyn (AZA), PrivateAIM, ASRIOT, KMU-FUZZ, UbiTrans, CPSec, AlgenCY, ILLUMINATION, InputLab, Aletheia, FUZZWARE, SiSWiss 3. Nachstehende Projektförderung des BMWi: Folgende Projekte: Kamaeleon, VoloSTREAM 4. Nachstehende Projektförderung des BMWK: Folgendes Projekt: ProSeCA 5. Nachstehende Projektförderung des BMDV: Folgendes Projekt: CYPHER-AV,",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Hermann von Helmholtz-Gemeinschaft Deutscher Forschungszentren e.V.",
+"epl": null,
+"von": 390001,
+"bis": 400000,
+"zweck": "Folgende Projektförderungen: TFDA, AMR-XAI, LOKI, HIDA, Opt4Bio, Image Tox, PAFMIM, CodeXt, LIBERATE AI, Fuzzware, GFP, HIDA 2.0, GuardSphere",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Forschungsgemeinschaft e.V.",
+"epl": null,
+"von": 1160001,
+"bis": 1170000,
+"zweck": "Folgende Projektförderungen: TRR248, ANR, Yuri, EMPEROR, ProvSec, FM-Crest, GSP&Co, GRK2853, SPP, PreCePT, LoGDC, TYPES4STRINGS, SafeGen, Idanon, PriVisSSL, DeepOpt, QIF, QPTest, LExecution",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 54770003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Michael Backes",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001367/82936",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Kevin Streit",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001367/82936",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Nabila Wagner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001367/82936",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Mario Daniels",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001367/82936",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Alexej Behnisch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001367/82936",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Jürgen Philippi",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001367/82936",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Ninja Marnau",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001367/82936",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Sebastian Klöckner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001367/82936",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Anne Meyer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001367/82936",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Isabel Weber von Freital",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001367/82936",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Kathrin Schwan",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001367/82936",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Kerstin Köhler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001367/82936",
+"stand": "2026-07-10"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 450001,
+"bis": 460000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 450001,
+"bis": 460000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/26/71/811206/Offenlegung-CISPA-JA2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001367/82936",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-10",
+"etikett": "Eigenangabe",
+"version": 15
+}
+]
+}

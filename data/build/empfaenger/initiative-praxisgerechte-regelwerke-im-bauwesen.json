@@ -1,0 +1,118 @@
+{
+"id": "initiative-praxisgerechte-regelwerke-im-bauwesen",
+"name": "Initiative Praxisgerechte Regelwerke im Bauwesen e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.initiative-prb.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000857",
+"eintrag_id": 80495,
+"version": 7,
+"stand": "2026-07-06",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000857/80495",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c8/e8/805772/Lobbyregister-Registereintraege-Detailansicht-R000857-2026-07-06_11-36-51.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Deutsches Institut für Bautechnik",
+"epl": null,
+"von": 580001,
+"bis": 590000,
+"zweck": "Fördermittel zu Forschungsvorhaben: - Analyse der künftigen Eurocodes hinsichtlich der tatsächlich erreichten Verbesserung der Anwendbarkeit (Ease of Use) - Fortsetzung - Technische Baubestimmungen für das zirkuläre Bauen - Technische Baubestimmungen für den Klimaschutz",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 580001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Klaus Pöllath",
+"funktion": "gesetzlicher Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000857/80495",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Peter Warnecke",
+"funktion": "gesetzlicher Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000857/80495",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Wolfgang Roeser",
+"funktion": "gesetzlicher Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000857/80495",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Lars Meyer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000857/80495",
+"stand": "2026-07-06"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 150001,
+"bis": 160000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/5c/8c/805771/GuV-PRB-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000857/80495",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-06",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

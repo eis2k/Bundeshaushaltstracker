@@ -1,0 +1,217 @@
+{
+"id": "focused-energy",
+"name": "Focused Energy GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Darmstadt",
+"website": "www.focused-energy.co",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005299",
+"eintrag_id": 88206,
+"version": 14,
+"stand": "2026-10-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005299/88206",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/be/6b/867386/Lobbyregister-Registereintraege-Detailansicht-R005299-2026-10-30_12-43-53.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMFRT (ehemaliges BMBF)",
+"epl": null,
+"von": 1920001,
+"bis": 1930000,
+"zweck": "1. Verbundprojekt: Optische Materialien und Komponenten als Basis für effiziente Hochenergielaser für die Trägheitsfusion (PriFUSIO) - Teilvorhaben: Optische Komponenten für Trägheitsfusions-Kraftwerk-Lasersysteme 2. Verbundprojekt: Projekt zur Entwicklung einer laserbasierten Neutronenquelle für die zerstörungsfreien Prüfung von industriell relevanten Objekten (PLANET) - Teilvorhaben: Systemintegration der Laserneutronenquelle und Demonstration der Anwendbarkeit 3. Verbundprojekt: Demonstration der industriellen Fertigung einer neutronenresistenten Ersten-Wand mit maximierter Betriebsdauer (DINERWA) – Teilvorhaben: Simulation, Design und Evaluierung von einer separaten, He-gekühlten, neuartigen Ersten-Wand mit ODS-Stahl und nanoWolfram als Material 4. Verbundprojekt: Inertial Fusion Energy (IFE) Targetry HUB für die DT-Trägheitsfusion (IFE-Targetry-HUB) – Teilvorhaben: Kryogene Mikro-Targetry für die lasergetriebene DT-Trägheitsfusion",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1920001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Thomas Forner",
+"funktion": "CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005299/88206",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Markus Roth",
+"funktion": "Chief Science Officer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005299/88206",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Günter Kraft",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005299/88206",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Lukas Lehmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005299/88206",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Michael Zell",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005299/88206",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Friederike Kalweit",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005299/88206",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Bettina Stark-Watzinger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_GOVERNMENT",
+"funktion": "Bundesminister/-in",
+"stelle": "Bundesregierung",
+"beendet": true,
+"ende": "2024-11"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005299/88206",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Wandrey Julia",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2024-10"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005299/88206",
+"stand": "2026-10-30"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Bettina Stark-Watzinger",
+"funktion_person": "Bundesminister/-in, Bundesregierung, bis 2024-11",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Bettina Stark-Watzinger ist laut Lobbyregister Interessenvertretung bei Focused Energy GmbH und hatte zuvor eine öffentliche Funktion: Bundesminister/-in, Bundesregierung, bis 2024-11. Focused Energy GmbH erhielt laut Lobbyregister Mittel von: BMFRT (ehemaliges BMBF).",
+"ausschuesse": [],
+"geld_aus": [
+"BMFRT (ehemaliges BMBF)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005299/88206",
+"stand": "2026-10-30"
+}
+],
+"stand": "2026-10-30"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Wandrey Julia",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2024-10",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Wandrey Julia ist laut Lobbyregister Interessenvertretung bei Focused Energy GmbH und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2024-10. Focused Energy GmbH erhielt laut Lobbyregister Mittel von: BMFRT (ehemaliges BMBF).",
+"ausschuesse": [],
+"geld_aus": [
+"BMFRT (ehemaliges BMBF)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005299/88206",
+"stand": "2026-10-30"
+}
+],
+"stand": "2026-10-30"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 430001,
+"bis": 440000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/de/8c/867385/Focused-Energy-GmbH-Jahresabschluss-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005299/88206",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-30",
+"etikett": "Eigenangabe",
+"version": 14
+}
+]
+}

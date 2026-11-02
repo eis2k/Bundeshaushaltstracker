@@ -1,0 +1,108 @@
+{
+"id": "deutsche-gesellschaft-fuer-telemedizin",
+"name": "Deutsche Gesellschaft für Telemedizin",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://www.dgtelemed.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000494",
+"eintrag_id": 79030,
+"version": 7,
+"stand": "2026-08-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000494/79030",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/e7/3a/824837/Lobbyregister-Registereintraege-Detailansicht-R000494-2026-08-03_12-39-22.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR)",
+"epl": "30",
+"von": 30001,
+"bis": 40000,
+"zweck": "Mit dem Projekt DISTANCE (Digital Smart Hub for Advanced Connected Care) soll ein im Rahmen der Medizininformatik-Initiative (MII) des BMBF, und insbesondere des SMITH-Konsortiums (www.smith.care), entwickeltes technisches Konzept der Interoperabilität und des Data Sharing auf Einrichtungen außerhalb der Universitätsmedizin ausgedehnt und weiterentwickelt werden. Dabei sind die Pilotierung der Roll-out-Prozesse und die Abschätzung der Aufwände bei den Roll-out-Partnern wichtige Gesichtspunkte für die deutschlandweite Ausdehnung der MII auf die gesamte Gesundheitswirtschaft. Die DGTelemed ist Akademischer Partner in den Bereichen Öffentlichkeitsarbeit und der Erarbeitung eines Konzepts für Kommunikation und Information Konsortialpartner bei der Umsetzung des Projektes.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 30001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Gernot Marx",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000494/79030",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Günter van Aalst",
+"funktion": "stellvertretender Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000494/79030",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Rainer Beckers",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000494/79030",
+"stand": "2026-08-03"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 40001,
+"bis": 50000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/a3/87/824836/315177-Jahresabschluss-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000494/79030",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-03",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

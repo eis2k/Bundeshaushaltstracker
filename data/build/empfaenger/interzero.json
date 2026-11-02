@@ -1,0 +1,117 @@
+{
+"id": "interzero",
+"name": "Interzero",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Köln",
+"website": "www.interzero.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004178",
+"eintrag_id": 83870,
+"version": 8,
+"stand": "2026-08-10",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004178/83870",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/85/72/828753/Lobbyregister-Registereintraege-Detailansicht-R004178-2026-08-10_12-01-11.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesrepublik Deutschland",
+"epl": "60",
+"von": 210001,
+"bis": 220000,
+"zweck": "Aus Fördermitteln des Energie- und Klimafonds (EKF) für die Errichtung von Anlagen zur Wärmeerzeugung (Heizungstechnik) sowie Fachplanung und Baubegleitung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 210001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jan Kroker",
+"funktion": "CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004178/83870",
+"stand": "2026-08-10"
+}
+},
+{
+"name": "Claudia Wegener",
+"funktion": "CIO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004178/83870",
+"stand": "2026-08-10"
+}
+},
+{
+"name": "Yi Guo",
+"funktion": "CFO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004178/83870",
+"stand": "2026-08-10"
+}
+},
+{
+"name": "Henning Krumrey",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004178/83870",
+"stand": "2026-08-10"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 250001,
+"bis": 260000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/eb/5c/828750/Berlin-Charlottenburg-_HRA_61033_28-07-2026.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004178/83870",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-10",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

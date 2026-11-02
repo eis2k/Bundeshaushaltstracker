@@ -1,0 +1,103 @@
+{
+"id": "awesome-technologies-innovationslabor",
+"name": "Awesome Technologies Innovationslabor GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Würzburg",
+"website": "awesome-technologies.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R008000",
+"eintrag_id": 75935,
+"version": 1,
+"stand": "2026-05-17",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008000/75935",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/d2/37/737538/Lobbyregister-Registereintraege-Detailansicht-R008000-2026-05-17_12-25-29.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 10570001,
+"bis": 10580000,
+"zweck": "Verbundvorhaben: WISP - Windkraftanlagen Inspektion, Teilvorhaben: Vermessung-Payload und Bodenstation Förderkennzeichen 03EE3077B",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 40001,
+"bis": 50000,
+"zweck": "Verbundvorhaben HILDE: Haptische Interfaces für Lebendige Erfahrungen Förderkennzeichen 16SV9146",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 10610002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christoph Günther",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008000/75935",
+"stand": "2026-05-17"
+}
+},
+{
+"name": "Cornelia Kolb",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008000/75935",
+"stand": "2026-05-17"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/4b/5e/737535/Wuerzburg_HRB_13771_04-05-2026.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008000/75935",
+"abgerufen": "2026-11-02",
+"stand": "2026-05-17",
+"etikett": "Eigenangabe",
+"version": 1
+}
+]
+}

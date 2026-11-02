@@ -1,0 +1,84 @@
+{
+"id": "deutschen-volksgruppe-in-nordschleswig-daenemark",
+"name": "deutschen Volksgruppe in Nordschleswig/Dänemark",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "06-0603-68750",
+"text": "Förderung der deutschen Volksgruppe in Nordschleswig/Dänemark",
+"epl": "06",
+"epl_text": "Bundesministerium des Innern",
+"werte": {
+"2015": {
+"soll": 10738000,
+"ist": 9744000
+},
+"2016": {
+"soll": 9782000,
+"ist": 9782000
+},
+"2017": {
+"soll": 9782000,
+"ist": 9782000
+},
+"2018": {
+"soll": 9890000,
+"ist": 9890000
+},
+"2019": {
+"soll": 9999000,
+"ist": 9999000
+},
+"2020": {
+"soll": 10120000,
+"ist": 9785000
+},
+"2021": {
+"soll": 10250000,
+"ist": 10250000
+},
+"2022": {
+"soll": 10550000,
+"ist": 10550000
+},
+"2023": {
+"soll": 10550000,
+"ist": 10550000
+},
+"2024": {
+"soll": 11041000,
+"ist": 11041000
+},
+"2025": {
+"soll": 11490000,
+"ist": 11490000
+},
+"2026": {
+"soll": 11490000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

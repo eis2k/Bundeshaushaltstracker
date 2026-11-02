@@ -1,0 +1,174 @@
+{
+"id": "deutscher-chorverband",
+"name": "Deutscher Chorverband e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.deutscher-chorverband.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000348",
+"eintrag_id": 78760,
+"version": 10,
+"stand": "2026-06-26",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000348/78760",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/3f/7a/778295/Lobbyregister-Registereintraege-Detailansicht-R000348-2026-06-26_10-27-29.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesmusikverband Chor&Orchester e.V.",
+"epl": null,
+"von": 150001,
+"bis": 160000,
+"zweck": "Förderung im Rahmen des Förderprogramms \"Amateurmusikfonds\" für das Projekt \"Ab in den Chor\".",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Der Beauftragte der Bundesregierung für Kultur und Medien",
+"epl": "04",
+"von": 40001,
+"bis": 50000,
+"zweck": "Förderung der chor.com, die vom 1. bis 4. Oktober 2026 in Leipzig stattfindet. Die chor.com ist seit 2011 der Branchentreff der Vokalmusikszene. Als Fortbildungsangebot, Konzertfestival und Forum bietet sie alle zwei Jahre eine einzigartige Plattform für den Austausch aller Akteur:innen der Chorszene.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium des Innern und für Heimat / Bundesverwaltungsamt",
+"epl": "06",
+"von": 220001,
+"bis": 230000,
+"zweck": "Förderung des Projekts \"Chormusikalische Erinnerungskultur\". Das Projekt gliedert sich in zwei Aufgabenbereiche: 1. Musikpraktische Umsetzung (Arrangementwettbewerb und Entwicklung von musikalischen Vermittlungsangeboten) 2. Wissenschaftliche Studie zur Rolle und Verantwortung der deutschen Chorverbände in der NS-Zeit",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Der Beauftragte der Bundesregierung für Kultur und Medien",
+"epl": "04",
+"von": 30001,
+"bis": 40000,
+"zweck": "Förderung des Projekts \"Chormusikalische Erinnerungskultur\". Das Projekt gliedert sich in zwei Aufgabenbereiche: 1. Musikpraktische Umsetzung (Arrangementwettbewerb und Entwicklung von musikalischen Vermittlungsangeboten) und 2. Wissenschaftliche Studie zur Rolle und Verantwortung der deutschen Chorverbände in der NS-Zeit",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Der Beauftragte der Bundesregierung für Kultur und Medien",
+"epl": "04",
+"von": 120001,
+"bis": 130000,
+"zweck": "Förderung des Deutschen Chorfests 2025 in Nürnberg unter dem Motto \"Stimmen der Vielfalt\". Im Vier-Jahres-Rhythmus lädt der DCV zum Deutschen Chorfest ein, das Vokalensembles aller Genres und Besetzungen eine Bühne bietet – vom Kinderchor bis zum Männergesangverein, von der Kantorei bis zur Vocal Band. Die teilnehmenden Ensembles erhalten Auftrittsmöglichkeiten in renommierten Konzertsälen und Kirchen der jeweiligen Austragungsstadt und können zudem am Chorwettbewerb teilnehmen oder in sozialen Einrichtungen und Gottesdiensten singen.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 560005,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christian Wulff",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000348/78760",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Andreas Hauffe",
+"funktion": "Vizepräsident Finanzen",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000348/78760",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Kai Habermehl",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000348/78760",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Petra Merkel",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000348/78760",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Jörg Schmidt",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000348/78760",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Veronika Petzold",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000348/78760",
+"stand": "2026-06-26"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 410001,
+"bis": 420000
+},
+"mitgliedsbeitraege": {
+"von": 1000001,
+"bis": 1010000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/31/93/778294/2025-DCV-Jahresabschluss-Einnahmen_Ausgaben.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000348/78760",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-26",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

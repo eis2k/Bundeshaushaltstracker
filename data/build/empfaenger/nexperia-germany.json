@@ -1,0 +1,162 @@
+{
+"id": "nexperia-germany",
+"name": "Nexperia Germany GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Hamburg",
+"website": "https://www.nexperia.com/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004566",
+"eintrag_id": 79548,
+"version": 9,
+"stand": "2026-06-17",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004566/79548",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/09/47/762524/Lobbyregister-Registereintraege-Detailansicht-R004566-2026-06-17_18-30-36.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR, zuvor BMBF)",
+"epl": "30",
+"von": 10001,
+"bis": 20000,
+"zweck": "Projekt TRUST-E befasst sich mit Entwicklung, Integration und Anwendung neuer KI-basierter Ansätze, die auf dem Qualitätsdenken aus dem Automobilbereich aufbauen. Kerninnovation des Projekts ist ein grundlegend neues System für die Fertigungs- und Instandhaltungsplanung in der Halbleiterfertigung. Dieses Konzept basiert auf einer neuen Ebene der Interaktion zwischen Fachkompetenz (menschliches Expertenwissen) und KI-Methoden.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 10001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Stefan Schwantes",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004566/79548",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Andre Schulte-Bisping",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004566/79548",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Maritza Kompatzki",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004566/79548",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Hannes Van Raemdonck",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004566/79548",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Stefan Tilger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004566/79548",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Achim Kempe",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004566/79548",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Ansgar Thorns",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004566/79548",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Andreas Jantschak",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004566/79548",
+"stand": "2026-06-17"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 290001,
+"bis": 300000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/92/c3/762523/SIGNATURE-Testat-Nexperia-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004566/79548",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-17",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

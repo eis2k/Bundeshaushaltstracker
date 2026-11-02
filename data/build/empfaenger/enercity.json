@@ -1,0 +1,149 @@
+{
+"id": "enercity",
+"name": "enercity AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Hannover",
+"website": "www.enercity.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001981",
+"eintrag_id": 85253,
+"version": 32,
+"stand": "2026-08-31",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001981/85253",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/7e/91/836534/Lobbyregister-Registereintraege-Detailansicht-R001981-2026-08-31_09-55-12.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesanstalt für Wirtschaft und Ausfuhrkontrolle (BAFA)",
+"epl": null,
+"von": 320001,
+"bis": 330000,
+"zweck": "Errichtung Wärmeerzeugungsanlage (Heizungstechnik)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesanstalt für Wirtschaft und Ausfuhrkontrolle (BAFA(",
+"epl": null,
+"von": 2910001,
+"bis": 2920000,
+"zweck": "Förderung von Neu- und Ausbau von Wärmenetzen (Auszahlung durch TenneT)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 3230002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Aurélie Alemany",
+"funktion": "Vorstandsvorsitzende (ab 01.07.2024)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001981/85253",
+"stand": "2026-08-31"
+}
+},
+{
+"name": "Marc Hansmann",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001981/85253",
+"stand": "2026-08-31"
+}
+},
+{
+"name": "Eefje Pompen",
+"funktion": "Vorstand, Arbeitsdirektorin (ab 01.08.2025)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001981/85253",
+"stand": "2026-08-31"
+}
+},
+{
+"name": "Lars Velser",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001981/85253",
+"stand": "2026-08-31"
+}
+},
+{
+"name": "Thomas Pudlo",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001981/85253",
+"stand": "2026-08-31"
+}
+},
+{
+"name": "Markus Hauke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001981/85253",
+"stand": "2026-08-31"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 500001,
+"bis": 510000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/74/f4/836533/enercity-jahresabschluss-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001981/85253",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-31",
+"etikett": "Eigenangabe",
+"version": 32
+}
+]
+}

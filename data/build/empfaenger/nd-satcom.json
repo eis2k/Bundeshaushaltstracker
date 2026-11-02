@@ -1,0 +1,176 @@
+{
+"id": "nd-satcom",
+"name": "ND SatCom GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Immenstaad",
+"website": "www.ndsatcom.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R008005",
+"eintrag_id": 78395,
+"version": 2,
+"stand": "2026-06-15",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008005/78395",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/bb/0b/758072/Lobbyregister-Registereintraege-Detailansicht-R008005-2026-06-15_08-38-31.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Deutsches Zentrum für Luft- und Raumfahrt (DLR)",
+"epl": "30",
+"von": 140001,
+"bis": 150000,
+"zweck": "Performanceverbesserung von Internetprotokollen und Anwendungen für geostationäre Satellitenverbindungen (Quality of Service), Untersuchung neuer Protokolle und Technologien, Implementierung und Standardisierung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMFTR",
+"epl": "30",
+"von": 10001,
+"bis": 20000,
+"zweck": "Quantentechnologie, kompakte optische Kommunikationssysteme für quantensicheren Informationsaustausch. Förderung im Rahmen deS QuNET-Projekts zur Entwicklung sicherer und zukunftsfähiger Kommunikationsinfrastrukturen, insbesondere im Bereich quantensicherer und resilienter Datenübertragung.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 150002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Alexander Müller-Gastell",
+"funktion": "CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008005/78395",
+"stand": "2026-06-15"
+}
+},
+{
+"name": "Thomas Leonhardt",
+"funktion": "CFO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008005/78395",
+"stand": "2026-06-15"
+}
+},
+{
+"name": "Dirk Walther",
+"funktion": "Head of Business Unit Defence",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008005/78395",
+"stand": "2026-06-15"
+}
+},
+{
+"name": "Michael Heuken",
+"funktion": "Head of Business Unit Broadcast & Government",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008005/78395",
+"stand": "2026-06-15"
+}
+},
+{
+"name": "Thomas Delfs",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008005/78395",
+"stand": "2026-06-15"
+}
+},
+{
+"name": "Tobias Kellner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2023-02"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008005/78395",
+"stand": "2026-06-15"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Tobias Kellner",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-02",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Tobias Kellner ist laut Lobbyregister Interessenvertretung bei ND SatCom GmbH und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-02. ND SatCom GmbH erhielt laut Lobbyregister Mittel von: Deutsches Zentrum für Luft- und Raumfahrt (DLR); BMFTR.",
+"ausschuesse": [],
+"geld_aus": [
+"Deutsches Zentrum für Luft- und Raumfahrt (DLR)",
+"BMFTR"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008005/78395",
+"stand": "2026-06-15"
+}
+],
+"stand": "2026-06-15"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/f7/66/758071/Jahresabschluss-2024-ND-SatCom-GmbH.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008005/78395",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-15",
+"etikett": "Eigenangabe",
+"version": 2
+}
+]
+}

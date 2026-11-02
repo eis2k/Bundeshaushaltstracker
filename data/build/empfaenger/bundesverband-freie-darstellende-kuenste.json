@@ -1,0 +1,168 @@
+{
+"id": "bundesverband-freie-darstellende-kuenste",
+"name": "Bundesverband Freie Darstellende Künste e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.darstellende-kuenste.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006483",
+"eintrag_id": 58335,
+"version": 7,
+"stand": "2026-07-02",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006483/58335",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/b5/80/802832/Lobbyregister-Registereintraege-Detailansicht-R006483-2026-07-02_14-55-37.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Beauftragte der Bundesregierung für Kultur und Medien",
+"epl": "04",
+"von": 3190001,
+"bis": 3200000,
+"zweck": "Fördermittel für folgende Projekte des Bundesverbands: Koordinierungs- und Qualifizierungsstelle Verbindungen fördern Nachhaltig Produzieren",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 1550001,
+"bis": 1560000,
+"zweck": "Förderung für das mehrjährige Projekt \"tanz + theater machen stark\" im Rahmen des Programms \"Kultur macht stark\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Arbeit und Soziales",
+"epl": "11",
+"von": 20001,
+"bis": 30000,
+"zweck": "Förderung des mehrjährigen Projekts \"Vielfalt gestalten: Strategien & Strukturen für Gleichstellung und Partizipation in den Freien Darstellenden Künsten\".",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 4760003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Paul Hess",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006483/58335",
+"stand": "2026-07-02"
+}
+},
+{
+"name": "Cilgia Gadola",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006483/58335",
+"stand": "2026-07-02"
+}
+},
+{
+"name": "Ulrike Seybold",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006483/58335",
+"stand": "2026-07-02"
+}
+},
+{
+"name": "Kathrin Schremb",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006483/58335",
+"stand": "2026-07-02"
+}
+},
+{
+"name": "Corinna Preisberg",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006483/58335",
+"stand": "2026-07-02"
+}
+},
+{
+"name": "Eva-A. Maj",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006483/58335",
+"stand": "2026-07-02"
+}
+},
+{
+"name": "Nina de la Chevallerie",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006483/58335",
+"stand": "2026-07-02"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 40001,
+"bis": 50000
+},
+"lobbyausgaben": {
+"von": 100001,
+"bis": 110000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/17/23/802830/Jahresbericht-2025_FINAL.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006483/58335",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-02",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

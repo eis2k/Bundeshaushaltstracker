@@ -1,0 +1,472 @@
+{
+"id": "verbraucherzentrale-nordrhein-westfalen",
+"name": "Verbraucherzentrale Nordrhein-Westfalen e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Düsseldorf",
+"website": "www.verbraucherzentrale.nrw",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002030",
+"eintrag_id": 75298,
+"version": 11,
+"stand": "2026-07-08",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/66/e8/808999/Lobbyregister-Registereintraege-Detailansicht-R002030-2026-07-08_14-35-45.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Landwirtschaft, Ernährung und Heimat",
+"epl": "10",
+"von": 960001,
+"bis": 970000,
+"zweck": "Förderung von Projekten aus den Bereichen Ernährung bzw. Ernährungsarmut",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+"epl": "16",
+"von": 1870001,
+"bis": 1880000,
+"zweck": "Förderung von Projekten insb. aus den Bereichen wirtschaftlicher Verbraucherschutz, Verbraucherbildung, Verbraucherschutz bei Gesundheitsinformationen aus der digitalen Welt sowie nachhaltiger Konsum.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesverband der Verbraucherzentralen",
+"epl": null,
+"von": 780001,
+"bis": 790000,
+"zweck": "Weiterleitung von Projektmitteln für Energieberatung und Mittel für die inhaltliche Zusammenarbeit der Verbraucherzentralen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Sonstige Zuwendungsgeber",
+"epl": null,
+"von": 1550001,
+"bis": 1560000,
+"zweck": "Diverse Zuwendungsgeber werden hier in einer Summe zusammengefasst. Es sind nicht nur Bundesmittel.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 5160004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Wolfgang Schuldzinski",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "André Juffern",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Martin Kuhne",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Stephanie Heise-Künne",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Petra Maier",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Melanie Schliebener",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Thomas Bradler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Carina Lichtenberg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Christoph Zerhusen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Pamela Wellmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Iris van Eik",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Manuela Duda",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Susanne Voss",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Rafael Lech",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Beate Fackeldey",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Marle Kopf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Sigrun Krümmel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Martin Wulf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Rita Reichard",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Bernhard Burdick",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Kerstin Effers",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Felix Flosbach",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Marie Hartmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Silvia Monetti",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Thomas Zwingmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Christian Bala",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Iwona Husemann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Christine Steffen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Sabine Wolter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Gesa Schölgens",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Barbara Schmitz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Philip Heldt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Ingo Wagner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Kolja Ofenhammer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"stand": "2026-07-08"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 470001,
+"bis": 480000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/0f/8f/808998/Bilanz-und-GuV-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002030/75298",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-08",
+"etikett": "Eigenangabe",
+"version": 11
+}
+]
+}

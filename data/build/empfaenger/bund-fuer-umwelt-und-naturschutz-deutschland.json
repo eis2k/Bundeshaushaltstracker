@@ -1,0 +1,698 @@
+{
+"id": "bund-fuer-umwelt-und-naturschutz-deutschland",
+"name": "Bund für Umwelt und Naturschutz Deutschland e.V. (BUND)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.bund.net",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002287",
+"eintrag_id": 87619,
+"version": 38,
+"stand": "2026-10-20",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ea/24/863492/Lobbyregister-Registereintraege-Detailansicht-R002287-2026-10-20_14-15-14.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+"epl": "16",
+"von": 510001,
+"bis": 520000,
+"zweck": "1. Trilateral PFAS-free region 2. Sozial-ökologische Mobilitätswende 3. Establishment of a German-Polish-Czech network for environmentally and nature-friendly regional development in the Oder catchment area 4. Grüne Regionen: EFRE Förderung im Dialog für biologische Vielfalt und natürlichen Klimaschutz 5. Strengthening of international cooperation and civil participation in the protection of the Oder River 6. Suffizienz in Politik und Gesellschaft etablieren 7. Kompetenzen für den Wandel. Hilfestellung für Umweltbewegte. 8. Digitale Praxis und sozial-ökologische Transformation 9. Allianzen für den Umweltschutz II: Transdisziplinäre Zusammenarbeit zwischen Umwelt-/Sozialverbänden und Wissenschaft zu Fragen einer sozial gerechten Ressourcenwende 10. persistente Chemikalien im Alltag 11. Pestizidverzicht in Kommunen: unterschätzte Strahlwirkung und Potential für Artenschutz 12. Transparenz über PMT Stoffe",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Naturschutz (BfN)",
+"epl": "16",
+"von": 540001,
+"bis": 550000,
+"zweck": "1. Verbundvorhaben \"Gartenschläfer in Deutschland\", Teilprojekt \"Koordination, übergreifende Öffentlichkeitsarbeit und Evaluation\" 2. Quervernetzung des Grünen Bandes mit bestehenden Biotopachsen und naturnahen Lebensräumen im Umfeld zur besseren Integration in die Landschaft und für einen länderübergreifenden Biotopverbund 3. Wildkatzenwälder von morgen 4. Ausbau und Koordination eines Verbände-Kompetenznetzwerks \"Umweltschutz und neue Gentechniken\" 5. GAP nach 2027: Für eine grundlegende Veränderung in der Landwirtschaft - Honorierung konkreter Leistungen im Sinne des Gemeinwohls",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN)",
+"epl": "16",
+"von": 1140001,
+"bis": 1150000,
+"zweck": "1. Initiativen für Suffizienz im Umwelt- und Naturschutz: Impulse schaffen, Engagement fördern, gesellschaftliches Miteinander stärken 2. Interessenvertretung der Umweltverbände in der Normung und Umweltkennzeichnung (KNU) 3. Revierupgrade - Stärkung der Jugendbeteiligung bei Strukturwandel-Prozessen in den ostdeutschen Braunkohlerevieren 4. LCOY - Jugend-Klimakonferenz 5. we care & repair - Näh-Workshops an Schulen und au0erschulischen Einrichtungen 6. KlimaAUSbildung - Angebote für Berufsschulen zu spezifischen Projekteinheiten zum Thema Klimaschutz 7. AG Jugend und Klimaaußenpolitik 8. Handeln jetzt! Stärkung von lokalem Engagement von Jugendlichen im Bereich Schutz der Biodiversität",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ)",
+"epl": "17",
+"von": 240001,
+"bis": 250000,
+"zweck": "Blended Learning für den Durchblick: Rechtsextreme Unterwanderung im Natur-, Klima- und Umweltschutz stoppen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Migration und Flüchtlinge (BAMF)",
+"epl": "06",
+"von": 60001,
+"bis": 70000,
+"zweck": "ConnACTion - Organisation von kreativ-künstlerischen Beteiligungsformaten für Personen mit Migrationsbiografie",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 2490005,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Olaf Bandt",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Sören Janssen",
+"funktion": "Stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Susanne Gerstner",
+"funktion": "Stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Moritz Böttcher",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Ulrike Kallee",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Janine Korduan",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Janna Kuhlmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Daniela Wannemacher",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Corinna Hölzel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Jens Hilgenberg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Irmela Benz Colaço",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Juliane Dickel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Caroline Gebauer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Katrin Müller-Thalheim",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Jan Warode",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Susann Scherbarth",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Kerstin Meyer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Nicola Uhde",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Luise Körner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Marion Hasper",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "André Prescher-Spiridon",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Patrick Rohde",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Pia Voelker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Katrin Hüsken",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Iris Brunar",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Tina Löffelsend",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Gabriel Kapfinger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Christine Wenzl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Patrick Müller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Katrin Evers",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Julian Reimann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Jens Klocksin",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Referatsleitung",
+"stelle": "Bundesministerium für Verkehr (BMV) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2022-12"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Christian Hönig",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Julius Neu",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Verena Graichen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Robin Denz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Sascha Maier",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Theresa Wagner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Thomas Norgall",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Caroline Lamps",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Lina Al-Naggar",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Jonas Hessling",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Tina Mutert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Referentin",
+"stelle": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2026-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Lukas Hoffmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Isabelle Manthey",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Theresa Grabmeier",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Susanne Hammel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Johannes Becker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Jens Klocksin",
+"funktion_person": "Referatsleitung, Bundesministerium für Verkehr (BMV) oder dessen Geschäftsbereich, bis 2022-12",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Jens Klocksin ist laut Lobbyregister Interessenvertretung bei Bund für Umwelt und Naturschutz Deutschland e.V. (BUND) und hatte zuvor eine öffentliche Funktion: Referatsleitung, Bundesministerium für Verkehr (BMV) oder dessen Geschäftsbereich, bis 2022-12. Bund für Umwelt und Naturschutz Deutschland e.V. (BUND) erhielt laut Lobbyregister Mittel von: Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN); Bundesamt für Naturschutz (BfN); Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV); Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ); Bundesamt für Migration und Flüchtlinge (BAMF).",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN)",
+"Bundesamt für Naturschutz (BfN)",
+"Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+"Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ)",
+"Bundesamt für Migration und Flüchtlinge (BAMF)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+],
+"stand": "2026-10-20"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Tina Mutert",
+"funktion_person": "Referentin, Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN) oder dessen Geschäftsbereich, bis 2026-03",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Tina Mutert ist laut Lobbyregister Interessenvertretung bei Bund für Umwelt und Naturschutz Deutschland e.V. (BUND) und hatte zuvor eine öffentliche Funktion: Referentin, Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN) oder dessen Geschäftsbereich, bis 2026-03. Bund für Umwelt und Naturschutz Deutschland e.V. (BUND) erhielt laut Lobbyregister Mittel von: Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN); Bundesamt für Naturschutz (BfN); Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV); Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ); Bundesamt für Migration und Flüchtlinge (BAMF).",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN)",
+"Bundesamt für Naturschutz (BfN)",
+"Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+"Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ)",
+"Bundesamt für Migration und Flüchtlinge (BAMF)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"stand": "2026-10-20"
+}
+],
+"stand": "2026-10-20"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 15040001,
+"bis": 15050000
+},
+"mitgliedsbeitraege": {
+"von": 16270001,
+"bis": 16280000
+},
+"lobbyausgaben": {
+"von": 820001,
+"bis": 830000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/4d/9b/863489/WP_Bericht_2025_BUND_konsolidiert.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002287/87619",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-20",
+"etikett": "Eigenangabe",
+"version": 38
+}
+]
+}

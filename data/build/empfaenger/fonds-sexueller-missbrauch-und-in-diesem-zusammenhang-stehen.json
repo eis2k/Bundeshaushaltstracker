@@ -1,0 +1,84 @@
+{
+"id": "fonds-sexueller-missbrauch-und-in-diesem-zusammenhang-stehen",
+"name": "Fonds sexueller Missbrauch und in diesem Zusammenhang stehende Ausgaben",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "17-1710-68602",
+"text": "Hilfen für Betroffene von sexueller Gewalt in Kindheit und Jugend im familiären Bereich",
+"epl": "17",
+"epl_text": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"werte": {
+"2015": {
+"soll": 12500000,
+"ist": 12500000
+},
+"2016": {
+"soll": 12500000,
+"ist": 12500000
+},
+"2017": {
+"soll": 0,
+"ist": 0
+},
+"2018": {
+"soll": 20000000,
+"ist": 20000000
+},
+"2019": {
+"soll": 17000000,
+"ist": 17000000
+},
+"2020": {
+"soll": 45400000,
+"ist": 45400000
+},
+"2021": {
+"soll": 0,
+"ist": 0
+},
+"2022": {
+"soll": 0,
+"ist": 0
+},
+"2023": {
+"soll": 32000000,
+"ist": 32000000
+},
+"2024": {
+"soll": 0,
+"ist": 0
+},
+"2025": {
+"soll": 53220000,
+"ist": 27759986
+},
+"2026": {
+"soll": 53200000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

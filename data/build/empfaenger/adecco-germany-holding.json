@@ -1,0 +1,128 @@
+{
+"id": "adecco-germany-holding",
+"name": "Adecco Germany Holding",
+"art": "unternehmen",
+"rechtsform": "Kommanditgesellschaft (KG)",
+"sitz": "Düsseldorf",
+"website": "www.adeccogroup.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003465",
+"eintrag_id": 68735,
+"version": 6,
+"stand": "2026-08-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003465/68735",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/a8/7a/824565/Lobbyregister-Registereintraege-Detailansicht-R003465-2026-08-03_09-38-40.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesagentur für Arbeit",
+"epl": "11",
+"von": 1090001,
+"bis": 1100000,
+"zweck": "Zuschüsse im Rahmen von Qualifizierungs- und Chancengesetz sowie Wiedereingliederungsmaßnahmen in den Arbeitsmarkt",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1090001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Peter Blersch",
+"funktion": "Geschäftsführer / President DACH Region",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003465/68735",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Martin Heinen",
+"funktion": "Director Public Affairs",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003465/68735",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Andreas Dinges",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003465/68735",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Arne Hellmuth",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003465/68735",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Bettina Schaller Bossert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003465/68735",
+"stand": "2026-08-03"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 130001,
+"bis": 140000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/06/b5/824563/the-adecco-group-annual-report-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003465/68735",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-03",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

@@ -1,0 +1,84 @@
+{
+"id": "alba-plc-und-co",
+"name": "ALBA plc & Co. KG",
+"art": "unternehmen",
+"rechtsform": "Kommanditgesellschaft (KG)",
+"sitz": "Berlin",
+"website": "www.alba.info",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002293",
+"eintrag_id": 77571,
+"version": 9,
+"stand": "2026-06-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002293/77571",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/e3/4b/773827/Lobbyregister-Registereintraege-Detailansicht-R002293-2026-06-24_15-16-18.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Logistik und Mobilität (BMDV)",
+"epl": "12",
+"von": 480001,
+"bis": 490000,
+"zweck": "Zuschuss Ladeinfrastruktur E-Mobilität (KsNI)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 480001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Oliver Buchholz",
+"funktion": "Leiter Public Affairs",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002293/77571",
+"stand": "2026-06-24"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 140001,
+"bis": 150000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e4/a1/773825/ALBA-Konzernabschluss-2024_Unternehmensregister.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002293/77571",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-24",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

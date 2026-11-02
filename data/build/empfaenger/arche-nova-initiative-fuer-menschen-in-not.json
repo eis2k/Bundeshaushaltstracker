@@ -1,0 +1,140 @@
+{
+"id": "arche-nova-initiative-fuer-menschen-in-not",
+"name": "arche nova - Initiative für Menschen in Not e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": " Dresden",
+"website": "https://arche-nova.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001469",
+"eintrag_id": 80879,
+"version": 9,
+"stand": "2026-06-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001469/80879",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/43/ec/784112/Lobbyregister-Registereintraege-Detailansicht-R001469-2026-06-29_14-00-11.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 6820001,
+"bis": 6830000,
+"zweck": "Projektfinanzierungen in Ostafrika und der MENA-Region",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministarium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": null,
+"von": 9710001,
+"bis": 9720000,
+"zweck": "Projektfinanzierungen in Äthiopien, Somalia, Sonaliland, Kenia, Syrien und Libanon",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 16530002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Stefan Mertenskötter",
+"funktion": "Vorstandsvorsitz",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001469/80879",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Cornelia Trentzsch",
+"funktion": "Stellvertretender Vorstandsvorsitz",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001469/80879",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Tina Wünschmann",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001469/80879",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Clivia Bahrke",
+"funktion": "Schatzmeisterin, Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001469/80879",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Jens Ola",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001469/80879",
+"stand": "2026-06-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 1490001,
+"bis": 1500000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/0d/8b/784110/2025-07-30-arche-noVa_Bericht-ueber-den-Jahresabschluss-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001469/80879",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-29",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

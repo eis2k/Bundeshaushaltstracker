@@ -1,0 +1,148 @@
+{
+"id": "guttempler-in-deutschland",
+"name": "Guttempler in Deutschland e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Hamburg",
+"website": "www.guttempler.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006871",
+"eintrag_id": 70255,
+"version": 3,
+"stand": "2026-01-05",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006871/70255",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/d6/cc/677401/Lobbyregister-Registereintraege-Detailansicht-R006871-2026-01-05_14-24-57.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Deutsche Rentenversicherung Bund",
+"epl": null,
+"von": 240001,
+"bis": 250000,
+"zweck": "Fehlbedarfsfinanzierung hauptberuflicher Suchtreferenten",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "Gesetzlicher Krankenversicherungen",
+"epl": null,
+"von": 220001,
+"bis": 230000,
+"zweck": "Projekt- und Fehlbedarfsfinanzierung der Sucht-Selbsthilfe gemäß §20 SGB V",
+"geschaeftsjahr": "2023"
+}
+],
+"lobby_untergrenze_bund": 460002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Fredric Schulz",
+"funktion": "Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006871/70255",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Frithjof Axt",
+"funktion": "Bundeschatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006871/70255",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Ulrike Klahn",
+"funktion": "Stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006871/70255",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Simone Giehl",
+"funktion": "Stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006871/70255",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Angela Hebendanz",
+"funktion": "Stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006871/70255",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Abousoufiane Akka",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006871/70255",
+"stand": "2026-01-05"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 100001,
+"bis": 110000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2023",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/eb/f5/677395/Rechenschaftsbericht-2023.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006871/70255",
+"abgerufen": "2026-11-02",
+"stand": "2026-01-05",
+"etikett": "Eigenangabe",
+"version": 3
+}
+]
+}

@@ -1,0 +1,481 @@
+{
+"id": "bsw-bundesverband-solarwirtschaft",
+"name": "BSW - Bundesverband Solarwirtschaft e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.solarwirtschaft.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002438",
+"eintrag_id": 86574,
+"version": 24,
+"stand": "2026-09-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/84/d2/851111/Lobbyregister-Registereintraege-Detailansicht-R002438-2026-09-30_09-50-06.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "sequa gGmbH",
+"epl": null,
+"von": 90001,
+"bis": 100000,
+"zweck": "Kleinmaßnahme zur Förderung der Mobilität von indischen Solarfachkräften durch den Bundesverband Solarwirtschaft e. V. (BSW-Solar)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 150001,
+"bis": 160000,
+"zweck": "Entwicklungspartnerschaft mit der Wirtschaft, Kammer- und Verbndspartnerschaft zwischen dem BSW-Bundesverband Solarwirtschaft e. V. und der Solar Industry Association of Zambia sowie Renewable Energy Association of Malawi",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Auswärtige Angelegenheiten",
+"epl": null,
+"von": 100001,
+"bis": 110000,
+"zweck": "Planung und Durchführung des BETD 2025 Berlin Energy Transition Dialogue 2025 F-PF-3-Team2-230.51/-410/BETD 2025 AZ45242107",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "sequa gGmbH",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "Kammer- und Verbandspartnerschaft zwischen dem Bundesverband Erneuerbare Energie e. V. (BEE) und der South African Wind Energy Association (SAWEA), der South African Photovoltaic Industry Association (SAPVIA) sowie der Southern African Biogas Industry Association (SABIA)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 210001,
+"bis": 220000,
+"zweck": "Kammer- und Verbandspartnerschaft zwischen dem Bundesverband Solarwirtschaft e. V. (BSW-Solar) und der National Solar Energy Federation of India (NSEFI)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 570005,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Joachim Goldbeck",
+"funktion": "1. Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Moritz Ritter",
+"funktion": "2. Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Jörg Ebel",
+"funktion": "3. Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Helmut Jäger",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Oliver Koch",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Alexander Schütt",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Oliver Beckel",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Katharina David",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Oliver Schweininger",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Eric Quiring",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Joachim Krüger",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Sebastian Gatz",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Henning Lorang",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Gunter Erfurt",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Gerd Schöller",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Carl Zoellner",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Charlotte Brauns",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Christian Menke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Maria Roos",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Thomas Seltmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Andrea Liesen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Julia Dilk",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Manaljav Luvsandorj",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Judith Reichertz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Ronald Upmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Alexander Rohlf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Benedikt Fischer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Johann Sternberg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Ulrika Troost von Schele",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Henrike Inhülsen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Carsten Körnig",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "David Wedepohl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Martin Rothert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Thimo Rohlfes",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"stand": "2026-09-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 2760001,
+"bis": 2770000
+},
+"lobbyausgaben": {
+"von": 1970001,
+"bis": 1980000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/bb/16/851104/2024-Lobbyregister.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002438/86574",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-30",
+"etikett": "Eigenangabe",
+"version": 24
+}
+]
+}

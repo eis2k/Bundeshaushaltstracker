@@ -1,0 +1,306 @@
+{
+"id": "helmholtz-zentrum-muenchen-deutsches-forschungszentrum-fuer",
+"name": "Helmholtz Zentrum München Deutsches Forschungszentrum für Gesundheit und Umwelt ",
+"art": "forschung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Neuherberg",
+"website": "https://www.helmholtz-munich.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001585",
+"eintrag_id": 80769,
+"version": 17,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001585/80769",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/7a/2b/794248/Lobbyregister-Registereintraege-Detailansicht-R001585-2026-06-30_16-58-39.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Forschung Technologie und Raumfahrt",
+"epl": "30",
+"von": 239180001,
+"bis": 239190000,
+"zweck": "Institutionelle Zuwendung mit Zuwendungsbescheid für den Betrieb und die Investitionen des Helmholtz-Zentrum München - Deutsches Forschungszentrum für Gesundheit und Umwelt (HMGU). Dies beinhaltet z. B. Zuwendung für Gehälter, Verbrauchsmaterialien, Investitionen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung Technologie und Raumfahrt  / Bund gesamt",
+"epl": "30",
+"von": 22630001,
+"bis": 22640000,
+"zweck": "Drittmittel, die aufgrund von Drittmittelanträgen eingeworben werden konnten und jeweils spezifischen Forschungsprojekten dienen. Dies umfasst, Personal, Sachmittel und Investitionen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Helmholtz Gemeinschaft Deutscher Forschungszentren (HGF)",
+"epl": null,
+"von": 5330001,
+"bis": 5340000,
+"zweck": "Drittmittel, die aufgrund von Drittmittelanträgen eingeworben werden konnten und jeweils spezifischen Forschungsprojekten dienen. Dies umfasst, Personal, Sachmittel und Investitionen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Forschungsgemeinschaft (DFG)",
+"epl": null,
+"von": 8150001,
+"bis": 8160000,
+"zweck": "Drittmittel, die aufgrund von Drittmittelanträgen eingeworben werden konnten und jeweils spezifischen Forschungsprojekten dienen. Dies umfasst, Personal, Sachmittel und Investitionen.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 275290004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Martin  Hrabě de Angelis",
+"funktion": "Wissenschaftlicher Geschäftsführer (kommissarisch)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001585/80769",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Michael Frieser",
+"funktion": "Administrativer Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Abteilungsleiter Z \"Verwaltung\"",
+"stelle": "Bundesministerium für Gesundheit (BMG) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2021-08"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001585/80769",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Dietmar  Köhl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001585/80769",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Stephan Herzig",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001585/80769",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Annette Peters",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001585/80769",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Michael Sattler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001585/80769",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Carsten Schmidt-Weber",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001585/80769",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Fabian Theis",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001585/80769",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Eleftheria Zeggini",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001585/80769",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Anette-Gabriele Ziegler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001585/80769",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Erika  von Mutius",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001585/80769",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Tobias Schafmeier",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001585/80769",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Veronika Ohliger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001585/80769",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Cristina Petersen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001585/80769",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Aleksandra Berndt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001585/80769",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Frank Horlbeck",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001585/80769",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Michael Frieser",
+"funktion_person": "Abteilungsleiter Z \"Verwaltung\", Bundesministerium für Gesundheit (BMG) oder dessen Geschäftsbereich, bis 2021-08",
+"funktion_beim_empfaenger": "Administrativer Geschäftsführer",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Michael Frieser ist laut Lobbyregister Administrativer Geschäftsführer bei Helmholtz Zentrum München Deutsches Forschungszentrum für Gesundheit und Umwelt  und hatte zuvor eine öffentliche Funktion: Abteilungsleiter Z \"Verwaltung\", Bundesministerium für Gesundheit (BMG) oder dessen Geschäftsbereich, bis 2021-08. Helmholtz Zentrum München Deutsches Forschungszentrum für Gesundheit und Umwelt  erhielt laut Lobbyregister Mittel von: Bundesministerium für Forschung Technologie und Raumfahrt; Bundesministerium für Forschung Technologie und Raumfahrt  / Bund gesamt; Deutsche Forschungsgemeinschaft (DFG); Helmholtz Gemeinschaft Deutscher Forschungszentren (HGF).",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Forschung Technologie und Raumfahrt",
+"Bundesministerium für Forschung Technologie und Raumfahrt  / Bund gesamt",
+"Deutsche Forschungsgemeinschaft (DFG)",
+"Helmholtz Gemeinschaft Deutscher Forschungszentren (HGF)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001585/80769",
+"stand": "2026-06-30"
+}
+],
+"stand": "2026-06-30"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 30001,
+"bis": 40000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 90001,
+"bis": 100000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/23/40/794247/Lobby-Register-JAP-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001585/80769",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 17
+}
+]
+}

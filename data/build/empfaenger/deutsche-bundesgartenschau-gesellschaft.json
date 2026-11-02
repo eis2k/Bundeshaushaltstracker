@@ -1,0 +1,84 @@
+{
+"id": "deutsche-bundesgartenschau-gesellschaft",
+"name": "Deutsche Bundesgartenschau Gesellschaft mbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Bonn",
+"website": "www.bundesgartenschau.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006593",
+"eintrag_id": 63181,
+"version": 2,
+"stand": "2025-08-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006593/63181",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ed/f1/595798/Lobbyregister-Registereintraege-Detailansicht-R006593-2025-08-01_09-50-03.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMEL",
+"epl": "10",
+"von": 90001,
+"bis": 100000,
+"zweck": "Unterstützung i-Punkt Grün BUGA Mannheim",
+"geschaeftsjahr": "2023"
+}
+],
+"lobby_untergrenze_bund": 90001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Achim Schloemer",
+"funktion": "Deutsche Bundesgartenschau Gesellschaft mbH",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006593/63181",
+"stand": "2025-08-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2023",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/81/86/595797/DBG-Jahresabschluss-2023-Bilanz-GuV.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006593/63181",
+"abgerufen": "2026-11-02",
+"stand": "2025-08-01",
+"etikett": "Eigenangabe",
+"version": 2
+}
+]
+}

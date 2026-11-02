@@ -1,0 +1,107 @@
+{
+"id": "ift-nord-ggmbh-institut-fuer-therapie-und-gesundheitsforschu",
+"name": "IFT-Nord gGmbH, Institut für Therapie- und Gesundheitsforschung",
+"art": "verein_stiftung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Kiel",
+"website": "www.ift-nord.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006736",
+"eintrag_id": 63370,
+"version": 2,
+"stand": "2025-09-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006736/63370",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f2/1a/620762/Lobbyregister-Registereintraege-Detailansicht-R006736-2025-09-29_09-55-11.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesinstitut für öffentliche Gesundheit",
+"epl": "15",
+"von": 90001,
+"bis": 100000,
+"zweck": "Planung und Durchführung des Mitmachmonats \"Rauchfrei im Mai,",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 90001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Reiner Hanewinkel",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006736/63370",
+"stand": "2025-09-29"
+}
+},
+{
+"name": "Matthis Morgenstern",
+"funktion": "Prokurist",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006736/63370",
+"stand": "2025-09-29"
+}
+},
+{
+"name": "Barbara Isensee",
+"funktion": "Prokuristin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006736/63370",
+"stand": "2025-09-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/6c/72/620761/Taetigkeitsbericht_2023.pdf",
+"geschaeftsjahr": "2023",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006736/63370",
+"abgerufen": "2026-11-02",
+"stand": "2025-09-29",
+"etikett": "Eigenangabe",
+"version": 2
+}
+]
+}

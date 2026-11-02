@@ -1,0 +1,150 @@
+{
+"id": "borealis",
+"name": "Borealis GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Wien",
+"website": "http://www.borealisgroup.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006926",
+"eintrag_id": 78020,
+"version": 5,
+"stand": "2026-06-18",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006926/78020",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/e5/fc/763337/Lobbyregister-Registereintraege-Detailansicht-R006926-2026-06-18_11-28-32.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesregierung Deutschland",
+"epl": null,
+"von": 3490001,
+"bis": 3500000,
+"zweck": "Rückerstattung der für das Jahr 2024 entrichteten Stromsteuer",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 3490001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Stefan Doboczky",
+"funktion": "Chief Executive Officer (CEO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006926/78020",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Philippe Roodhooft",
+"funktion": "Executive Vice President",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006926/78020",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Wolfgang Krenn",
+"funktion": "Executive Vice President",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006926/78020",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Daniel Turnheim",
+"funktion": "Chief Financial Officer (CFO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006926/78020",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Andrew Craig Arnold",
+"funktion": "Executive Vice President",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006926/78020",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Benjamin Peter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006926/78020",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Michael Freutsmiedl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006926/78020",
+"stand": "2026-06-18"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 40001,
+"bis": 50000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/70/de/763333/Borealis-Group-Annual-Report-2025-DE.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006926/78020",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-18",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

@@ -1,0 +1,76 @@
+{
+"id": "cochrane-deutschland-stiftung",
+"name": "Cochrane Deutschland Stiftung",
+"art": "verein_stiftung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "15-1504-68502",
+"text": "Zuschuss an die Cochrane Deutschland Stiftung",
+"epl": "15",
+"epl_text": "Bundesministerium für Gesundheit",
+"werte": {
+"2017": {
+"soll": 1000000,
+"ist": 160000
+},
+"2018": {
+"soll": 1025000,
+"ist": 543073
+},
+"2019": {
+"soll": 1054000,
+"ist": 943680
+},
+"2020": {
+"soll": 1063000,
+"ist": 1041283
+},
+"2021": {
+"soll": 1063000,
+"ist": 883924
+},
+"2022": {
+"soll": 1063000,
+"ist": 883500
+},
+"2023": {
+"soll": 1063000,
+"ist": 1063000
+},
+"2024": {
+"soll": 1063000,
+"ist": 1063000
+},
+"2025": {
+"soll": 1063000,
+"ist": 1063000
+},
+"2026": {
+"soll": 1368000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

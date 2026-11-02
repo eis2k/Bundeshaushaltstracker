@@ -1,0 +1,116 @@
+{
+"id": "konferenz-der-landesfrauenraete",
+"name": "Konferenz der Landesfrauenräte (KLFR)",
+"art": "verein_stiftung",
+"rechtsform": "Netzwerk, Plattform oder andere Form kollektiver Tätigkeit",
+"sitz": "Magdeburg",
+"website": "https://www.landesfrauenrat.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001873",
+"eintrag_id": 69140,
+"version": 10,
+"stand": "2025-12-10",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001873/69140",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/4c/bc/652457/Lobbyregister-Registereintraege-Detailansicht-R001873-2025-12-10_09-44-38.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 1,
+"bis": 10000,
+"zweck": "Bundeszuwendung aus Kapitel 1703 Titel 68426 zur Durchführung gleichstellungspolitischer Vorhaben im Haushaltsjahr 2025",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 1,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Michelle Daniela Angeli",
+"funktion": "Vorsitzende des Landesfrauenrats Sachsen-Anhalt e.V.",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001873/69140",
+"stand": "2025-12-10"
+}
+},
+{
+"name": "Friederike Ewald",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001873/69140",
+"stand": "2025-12-10"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Michelle Daniela Angeli",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag",
+"funktion_beim_empfaenger": "Vorsitzende des Landesfrauenrats Sachsen-Anhalt e.V.",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Michelle Daniela Angeli ist laut Lobbyregister Vorsitzende des Landesfrauenrats Sachsen-Anhalt e.V. bei Konferenz der Landesfrauenräte (KLFR) und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag. Konferenz der Landesfrauenräte (KLFR) erhielt laut Lobbyregister Mittel von: Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001873/69140",
+"stand": "2025-12-10"
+}
+],
+"stand": "2025-12-10"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": null
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001873/69140",
+"abgerufen": "2026-11-02",
+"stand": "2025-12-10",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

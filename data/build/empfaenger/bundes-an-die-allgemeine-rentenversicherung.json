@@ -1,0 +1,84 @@
+{
+"id": "bundes-an-die-allgemeine-rentenversicherung",
+"name": "Bundes an die allgemeine Rentenversicherung",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "11-1102-63681",
+"text": "Zuschuss des Bundes an die allgemeine Rentenversicherung",
+"epl": "11",
+"epl_text": "Bundesministerium für Arbeit und Soziales",
+"werte": {
+"2015": {
+"soll": 31472489000,
+"ist": 31472488699
+},
+"2016": {
+"soll": 32312276000,
+"ist": 32312275912
+},
+"2017": {
+"soll": 34396272000,
+"ist": 34396271900
+},
+"2018": {
+"soll": 35035009000,
+"ist": 35035008025
+},
+"2019": {
+"soll": 36305234000,
+"ist": 36305233223
+},
+"2020": {
+"soll": 37826578000,
+"ist": 37826577359
+},
+"2021": {
+"soll": 40414325000,
+"ist": 40414324814
+},
+"2022": {
+"soll": 40835761000,
+"ist": 40835760110
+},
+"2023": {
+"soll": 42678678000,
+"ist": 42678677769
+},
+"2024": {
+"soll": 44849312000,
+"ist": 44849311806
+},
+"2025": {
+"soll": 48207871000,
+"ist": 48207870968
+},
+"2026": {
+"soll": 63935306000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

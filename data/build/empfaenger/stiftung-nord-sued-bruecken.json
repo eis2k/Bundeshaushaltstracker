@@ -1,0 +1,160 @@
+{
+"id": "stiftung-nord-sued-bruecken",
+"name": "Stiftung Nord-Süd-Brücken",
+"art": "verein_stiftung",
+"rechtsform": "Rechtsfähige Stiftung bürgerlichen Rechts",
+"sitz": "Berlin",
+"website": "https://nord-sued-bruecken.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000480",
+"eintrag_id": 79590,
+"version": 9,
+"stand": "2026-06-22",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000480/79590",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/99/07/768872/Lobbyregister-Registereintraege-Detailansicht-R000480-2026-06-22_16-54-40.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Engagement Global gGmbH im Auftrag des BMZ",
+"epl": "23",
+"von": 1690001,
+"bis": 1700000,
+"zweck": "Förderung von kleinen Projekten (bis 15 T€) im Bereich der entwicklungspolitischen Bildungsarbeit zu den SDG-Zielen in Ostdeutschland sowie die Förderung von Fachstellen zur entwicklungspolitischen Bildungsarbeit in Ostdeutschland (Weltoffen - solidarisch - dialogisch-Programm und Eine-Welt-Promotor*innenprogramm über agl e.V.)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 2110001,
+"bis": 2120000,
+"zweck": "Förderung entwicklungspolitischer Vorhaben privater deutscher Träger (gemeinnütziger Vereine aus Ostdeutschland) mit ihren Partnerorganisationen im Globalen Süden",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 3800002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Spiller Ingrid",
+"funktion": "Vorsitzende des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000480/79590",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Willy Vetter",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000480/79590",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Jürgen Varnhorn",
+"funktion": "Stellvertretender Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000480/79590",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Franziska Weiland",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000480/79590",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Wilhelm Volks",
+"funktion": "stellvertretender Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000480/79590",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Andreas Rosen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000480/79590",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Ingrid Rosenburg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000480/79590",
+"stand": "2026-06-22"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/bb/74/768869/Stiftung-Nord-Sued-Bruecken_JAP-2025-Testat_final.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000480/79590",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-22",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

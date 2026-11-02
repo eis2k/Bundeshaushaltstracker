@@ -1,0 +1,127 @@
+{
+"id": "forum-nachhaltiger-kakao",
+"name": "Forum Nachhaltiger Kakao e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.kakaoforum.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003438",
+"eintrag_id": 61624,
+"version": 10,
+"stand": "2026-06-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003438/61624",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/5f/a9/782336/Lobbyregister-Registereintraege-Detailansicht-R003438-2026-06-29_10-57-05.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 520001,
+"bis": 530000,
+"zweck": "Die Zuwendungen des Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung werden in erster Linie für Personalkosten des Forum Nachhaltiger Kakao verwendet. Ein Teil der Zuwendungen fließt in das Monitoringsystem und dessen fachliche Begleitung, sowie die Finanzierung von Reisen von Teilnehmenden aus den Kakaoproduzentenländern. Darüber hinaus werden über die Zuwendungen Moderations-, Übersetzung und Kosten für Layouts für Veröffentlichungen des Forums gedeckt.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit",
+"epl": "23",
+"von": 980001,
+"bis": 990000,
+"zweck": "PRO-PLANTEURS ist ein Gemeinschaftsprojekt des Forum Nachhaltiger Kakao e.V., des Bundesministeriums für Ernährung und Landwirtschaft (BMEL), des Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) und dem ivorischen Kaffee-Kakao-Rat (Conseil du Café-Cacao), das zum Ziel hat die Lebensbedingungen von 30.000 Kakaobauern und bäuerinnen in der Côte d'Ivoire zu verbessern. Die Projektmittel werden für Personal, Sachgüter und Trainings und Trainingsmaterialien vor Ort (in der Cote d'Ivoire) verwendet. Neben den öffentlichen Zuwendungen, kommt ein wichtiger Teil der Finanzierung aus den freiwilligen Beiträgen der Mitglieder des Forum nachhaltiger Kakao zum Projekt und dessen Umsetzung vor Ort.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1500002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Aldo Cristiano",
+"funktion": "Vorstandsvorsitzender des Forum Nachhaltiger Kakao e.V.",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003438/61624",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Florian Schütze",
+"funktion": "Stellvertretender Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003438/61624",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Evelyn Bahn",
+"funktion": "stellvertretende Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003438/61624",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Martina Gaebler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003438/61624",
+"stand": "2026-06-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 230001,
+"bis": 240000
+},
+"mitgliedsbeitraege": {
+"von": 610001,
+"bis": 620000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ea/a5/782335/Forum-Nachhaltiger-Kakao_Pruefungsbericht_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003438/61624",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-29",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

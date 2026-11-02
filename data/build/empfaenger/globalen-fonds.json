@@ -1,0 +1,84 @@
+{
+"id": "globalen-fonds",
+"name": "Globalen Fonds",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "23-2303-89607",
+"text": "Beitrag an den Globalen Fonds zur Bekämpfung von AIDS, Tuberkulose und Malaria (GFATM)",
+"epl": "23",
+"epl_text": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"werte": {
+"2015": {
+"soll": 210000000,
+"ist": 210000000
+},
+"2016": {
+"soll": 210000000,
+"ist": 210000000
+},
+"2017": {
+"soll": 230000000,
+"ist": 230000000
+},
+"2018": {
+"soll": 235000000,
+"ist": 235000000
+},
+"2019": {
+"soll": 260000000,
+"ist": 260000000
+},
+"2020": {
+"soll": 500000000,
+"ist": 500000000
+},
+"2021": {
+"soll": 350000000,
+"ist": 490000000
+},
+"2022": {
+"soll": 475000000,
+"ist": 475000000
+},
+"2023": {
+"soll": 415000000,
+"ist": 415000000
+},
+"2024": {
+"soll": 415000000,
+"ist": 415000000
+},
+"2025": {
+"soll": 370000000,
+"ist": 370000000
+},
+"2026": {
+"soll": 288000000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

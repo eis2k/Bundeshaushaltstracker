@@ -1,0 +1,88 @@
+{
+"id": "landesinnungsverband-des-niedersaechsischen-friseurhandwerks",
+"name": "Landesinnungsverband des niedersächsischen Friseurhandwerks",
+"art": "verein_stiftung",
+"rechtsform": "Andere Rechtsform nach deutschem Recht",
+"sitz": "Hannover",
+"website": "http://www.friseure-nds.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000375",
+"eintrag_id": 73042,
+"version": 5,
+"stand": "2026-02-27",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000375/73042",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/82/d0/699453/Lobbyregister-Registereintraege-Detailansicht-R000375-2026-02-27_12-21-08.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesagentur für Arbeit",
+"epl": "11",
+"von": 70001,
+"bis": 80000,
+"zweck": "Lohnkostenzuschuss zur Teilhabe am Arbeitsmarkt nach § 16e, 16i SGB II",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 70001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Manuela Härtelt-Dören",
+"funktion": "Landesinnungsmeisterin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000375/73042",
+"stand": "2026-02-27"
+}
+},
+{
+"name": "Sebastian Kunde",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000375/73042",
+"stand": "2026-02-27"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 230001,
+"bis": 240000
+},
+"lobbyausgaben": {
+"von": 90001,
+"bis": 100000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": null
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000375/73042",
+"abgerufen": "2026-11-02",
+"stand": "2026-02-27",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

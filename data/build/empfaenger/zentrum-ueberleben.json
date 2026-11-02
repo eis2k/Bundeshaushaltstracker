@@ -1,0 +1,141 @@
+{
+"id": "zentrum-ueberleben",
+"name": "Zentrum ÜBERLEBEN gGmbH",
+"art": "verein_stiftung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "https://www.ueberleben.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007664",
+"eintrag_id": 75887,
+"version": 3,
+"stand": "2026-07-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007664/75887",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c9/ca/803845/Lobbyregister-Registereintraege-Detailansicht-R007664-2026-07-03_09-32-14.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Gesundheit",
+"epl": "15",
+"von": 220001,
+"bis": 230000,
+"zweck": "Projektförderung \"Transkulturelle Öffnung in der Pflege\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 710001,
+"bis": 720000,
+"zweck": "Projektförderung für die Maßnahme \"Bundesprogramm für die Beratung und Betreuung ausländischer Flüchtlinge\" weitergeleitet von Deutsches Rotes Kreuz e.V., DRK-Generalsekretariat",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Rentenversicherung Knappschaft-Bahn-See",
+"epl": null,
+"von": 490001,
+"bis": 500000,
+"zweck": "Projektförderung \"bridge - Berliner Netzwerk für Bleiberecht: Neue Wege in Ausbildung und Beruf\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+"epl": "23",
+"von": 610001,
+"bis": 620000,
+"zweck": "Projektförderung \"Arabian Network for virtual treatment (e-health) of post-traumatic mental health problems\" weitergeleitet von Bischöfliches Hilfswerk Misereor e. V.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 90001,
+"bis": 100000,
+"zweck": "Projektförderung zivik.KP-012/25 Professionalisierung des Umgangs mit Betroffenen von kriegsbezogener sexualisierter Gewalt weitergeleitet vom Institut für Auslandsbeziehungen e.V. (ifa)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 2120005,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Reichert Kirstin",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007664/75887",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "Büttner Nicolay",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007664/75887",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "Andrea Haefner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007664/75887",
+"stand": "2026-07-03"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 360001,
+"bis": 370000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 80001,
+"bis": 90000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/07/f5/803844/65060-Zentrum-Ueberleben_2024_EB-signiert.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007664/75887",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-03",
+"etikett": "Eigenangabe",
+"version": 3
+}
+]
+}

@@ -1,0 +1,119 @@
+{
+"id": "ecpat-deutschland",
+"name": "ECPAT Deutschland e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Freiburg",
+"website": "www.ecpat.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006797",
+"eintrag_id": 75890,
+"version": 5,
+"stand": "2026-04-28",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006797/75890",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/05/ba/728517/Lobbyregister-Registereintraege-Detailansicht-R006797-2026-04-28_12-07-30.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMBFSFJ",
+"epl": "17",
+"von": 240001,
+"bis": 250000,
+"zweck": "Es handelt sich um Projekte im Rahmen Kinderschutz vor sexueller Ausbeutung und Handel mit Minderjährigen.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 240001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jessica Andrea Espinoza Trujano",
+"funktion": "1. Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006797/75890",
+"stand": "2026-04-28"
+}
+},
+{
+"name": "Antje Monshausen",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006797/75890",
+"stand": "2026-04-28"
+}
+},
+{
+"name": "Lea Peters",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006797/75890",
+"stand": "2026-04-28"
+}
+},
+{
+"name": "Nina Stephainsky",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006797/75890",
+"stand": "2026-04-28"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 30001,
+"bis": 40000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/b8/73/728516/Susa_2025_Ecpat_26_02_26.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006797/75890",
+"abgerufen": "2026-11-02",
+"stand": "2026-04-28",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

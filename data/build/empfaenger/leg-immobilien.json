@@ -1,0 +1,126 @@
+{
+"id": "leg-immobilien",
+"name": "LEG Immobilien SE",
+"art": "unternehmen",
+"rechtsform": "Europäische Aktiengesellschaft (SE)",
+"sitz": "Düsseldorf",
+"website": "www.leg-se.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002757",
+"eintrag_id": 81216,
+"version": 12,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002757/81216",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/20/87/787584/Lobbyregister-Registereintraege-Detailansicht-R002757-2026-06-30_09-16-48.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle BAFA",
+"epl": "09",
+"von": 510001,
+"bis": 520000,
+"zweck": "Förderung im Rahmen von Modernisierungsmaßnahmen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Kreditanstalt für Wiederaufbau",
+"epl": null,
+"von": 1870001,
+"bis": 1880000,
+"zweck": "Fördermittel im Rahmen von Wohnungsbau und Modernisierungsmaßnahmen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 2380002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Lars von Lackum",
+"funktion": "Vorstand (CEO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002757/81216",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Volker Wiegel",
+"funktion": "Vorstand (COO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002757/81216",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Kathrin Köhling",
+"funktion": "Vorstand (CFO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002757/81216",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Marc Bunse",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002757/81216",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 140001,
+"bis": 150000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e4/6f/787580/LEG_GB_2025_de.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002757/81216",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

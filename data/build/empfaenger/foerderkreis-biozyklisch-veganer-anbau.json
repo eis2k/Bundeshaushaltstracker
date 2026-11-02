@@ -1,0 +1,147 @@
+{
+"id": "foerderkreis-biozyklisch-veganer-anbau",
+"name": "Förderkreis Biozyklisch-Veganer Anbau e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://biozyklisch-vegan.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006617",
+"eintrag_id": 86243,
+"version": 4,
+"stand": "2026-09-22",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006617/86243",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/36/d2/846058/Lobbyregister-Registereintraege-Detailansicht-R006617-2026-09-22_19-40-34.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Umweltbundesamt",
+"epl": "16",
+"von": 40001,
+"bis": 50000,
+"zweck": "Projektförderung zur Transformation des Ernährungssystems durch Entwicklung und Erhöhung des Beitrags des biozyklisch-veganen Anbaus.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 40001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Axel Anders",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006617/86243",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Kerstin Anders",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Referentin im BMUKN",
+"stelle": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2024-02"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006617/86243",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Arne Hoops",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006617/86243",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Simon Geisenberger",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006617/86243",
+"stand": "2026-09-22"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Kerstin Anders",
+"funktion_person": "Referentin im BMUKN, Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN) oder dessen Geschäftsbereich, bis 2024-02",
+"funktion_beim_empfaenger": "Mitglied des Vorstands",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Kerstin Anders ist laut Lobbyregister Mitglied des Vorstands bei Förderkreis Biozyklisch-Veganer Anbau e.V. und hatte zuvor eine öffentliche Funktion: Referentin im BMUKN, Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN) oder dessen Geschäftsbereich, bis 2024-02. Förderkreis Biozyklisch-Veganer Anbau e.V. erhielt laut Lobbyregister Mittel von: Umweltbundesamt.",
+"ausschuesse": [],
+"geld_aus": [
+"Umweltbundesamt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006617/86243",
+"stand": "2026-09-22"
+}
+],
+"stand": "2026-09-22"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 60001,
+"bis": 70000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/8b/78/846057/Jahresbericht-2025_sg.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006617/86243",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-22",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

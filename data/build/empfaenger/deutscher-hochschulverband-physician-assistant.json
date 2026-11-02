@@ -1,0 +1,96 @@
+{
+"id": "deutscher-hochschulverband-physician-assistant",
+"name": "Deutscher Hochschulverband Physician Assistant (DHPA) e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Köln",
+"website": "www.hochschulverband-pa.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000326",
+"eintrag_id": 78345,
+"version": 12,
+"stand": "2026-06-15",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000326/78345",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/69/9d/759269/Lobbyregister-Registereintraege-Detailansicht-R000326-2026-06-15_16-38-50.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Innovationsausschuss beim Gemeinsamen Bundesausschuss",
+"epl": null,
+"von": 40001,
+"bis": 50000,
+"zweck": "Personalförderung im Projekt \"PAAM-Physician Assistants meet Allgemeinmedizin\", Projekt-ID NVF1V_2022-053",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 40001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Peter Heistermann",
+"funktion": "Generalsekretär",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000326/78345",
+"stand": "2026-06-15"
+}
+},
+{
+"name": "Cornelia Hagl",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000326/78345",
+"stand": "2026-06-15"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 20001,
+"bis": 30000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/16/c7/759268/DHPA-Einnahmenueberschussrechnung-2025-Print.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000326/78345",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-15",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

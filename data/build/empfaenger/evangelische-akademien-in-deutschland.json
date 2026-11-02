@@ -1,0 +1,145 @@
+{
+"id": "evangelische-akademien-in-deutschland",
+"name": "Evangelische Akademien in Deutschland e. V.",
+"art": "kirche_wohlfahrt",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.evangelische-akademien.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000387",
+"eintrag_id": 79985,
+"version": 12,
+"stand": "2026-06-25",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000387/79985",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/50/42/776881/Lobbyregister-Registereintraege-Detailansicht-R000387-2026-06-25_14-49-53.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend (BMFSFJ)",
+"epl": "17",
+"von": 2960001,
+"bis": 2970000,
+"zweck": "Regelförderung aus dem Kinder- und Jugendplan (KJP) des Bundes, Projektförderung Bundesprogramm \"Respekt Coaches\" und \"Neue Bündnisse, neue Wege - Kooperationsprojekt mit muslimischen Trägern der politischen Jugendbildung“; Projektförderung aus dem Bundesprogramm \"Demokratie leben!\" für das Innovationsprojekt \"Geht's noch? - Verständigungsorte in Ostdeutschland gestalten\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundeszentrale für politische Bildung (BpB)",
+"epl": "06",
+"von": 500001,
+"bis": 510000,
+"zweck": "Richtlinienförderung Modellförderung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung (BMBF)",
+"epl": "30",
+"von": 310001,
+"bis": 320000,
+"zweck": "Projektförderung, Zuwendung aus dem Bundeshaushalt, Einzelplan 30, Kapitel 03, Titel 68510",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 3770003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Udo Hahn",
+"funktion": "Vorstandsvorsitzender (vertretungsberechtigte Person 1)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000387/79985",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Sebastian Kranich",
+"funktion": "stellvertretender Vorstandsvorsitzender (vertretungsberechtigte Person 2)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000387/79985",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Hanna Lorenzen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000387/79985",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Ole Jantschek",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000387/79985",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Mark Medebach",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000387/79985",
+"stand": "2026-06-25"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 110001,
+"bis": 120000
+},
+"lobbyausgaben": {
+"von": 220001,
+"bis": 230000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/0d/0b/776878/Endfassung_JR-2024_EAD.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000387/79985",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-25",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

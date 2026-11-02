@@ -1,0 +1,217 @@
+{
+"id": "bauern-und-winzerverband-rheinland-pfalz-sued",
+"name": "Bauern- und Winzerverband Rheinland-Pfalz Süd e.V. ",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Mainz",
+"website": "https://www.bwv-rlp.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001556",
+"eintrag_id": 80624,
+"version": 12,
+"stand": "2026-07-09",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001556/80624",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/3a/64/810282/Lobbyregister-Registereintraege-Detailansicht-R001556-2026-07-09_16-06-38.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesrepublik Deutschland, über Bund Deutscher Landjugend",
+"epl": "60",
+"von": 20001,
+"bis": 30000,
+"zweck": "Förderung Bundesjugendreferent",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 20001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Eberhard Hartelt",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001556/80624",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Jens Göhring",
+"funktion": "1. Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001556/80624",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Andreas Köhr",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001556/80624",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Andrea Schneider",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001556/80624",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Sebastian Schnabel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001556/80624",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Clara Franke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001556/80624",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Dirk Gerling",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001556/80624",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Friedrich Ellerbrock",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001556/80624",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Sandra Boßung-Dommasch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001556/80624",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Franziska Stamm",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001556/80624",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Johannes Balzhäuser",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001556/80624",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Jana Beck",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001556/80624",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Ria Eitel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001556/80624",
+"stand": "2026-07-09"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 2400001,
+"bis": 2410000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/30/c7/810281/GUV-BWV-2024-fuer-Lobbyregister.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001556/80624",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-09",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

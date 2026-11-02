@@ -1,0 +1,216 @@
+{
+"id": "allgemeiner-deutscher-fahrrad-club",
+"name": "Allgemeiner Deutscher Fahrrad-Club e.V. (ADFC)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.adfc.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001598",
+"eintrag_id": 88165,
+"version": 35,
+"stand": "2026-10-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001598/88165",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/e3/e2/866863/Lobbyregister-Registereintraege-Detailansicht-R001598-2026-10-29_13-18-09.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Verkehr",
+"epl": "12",
+"von": 30001,
+"bis": 40000,
+"zweck": "Zuwendung ADFC-Fahrradklima-Test 2024",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr",
+"epl": "12",
+"von": 70001,
+"bis": 80000,
+"zweck": "Zuwendung ADFC-Fahrradklima-Test 2024",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 100002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Frank Masurat",
+"funktion": "Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001598/88165",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Sarah Holczer",
+"funktion": "Bundesvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001598/88165",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Maren Mattner",
+"funktion": "Kaufmännische Bundesgeschäftsführerin ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001598/88165",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Caroline Lodemann",
+"funktion": "Politische Bundesgeschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001598/88165",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Angela Kohls",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001598/88165",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Joachim Lohse",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001598/88165",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Christoph Schmidt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001598/88165",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Alexander Besner-Lettenbauer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001598/88165",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Jan Richter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001598/88165",
+"stand": "2026-10-29"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "abgeordneter_funktion",
+"person": "Swantje Henrike Michaelsen",
+"funktion_person": "MdB, Bündnis 90 Die Grünen",
+"funktion_beim_empfaenger": "Leiterin der Arbeitsgruppe „Mehr Frauen im ADFC“",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Swantje Henrike Michaelsen (MdB, Bündnis 90 Die Grünen) ist laut bundestag.de Leiterin der Arbeitsgruppe „Mehr Frauen im ADFC“ bei Allgemeiner Deutscher Fahrrad-Club e.V. (ADFC). Ausschüsse und Gremien im Bundestag laut bundestag.de: Verkehrsausschuss; Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit; Petitionsausschuss. Allgemeiner Deutscher Fahrrad-Club e.V. (ADFC) erhielt laut Lobbyregister Mittel von: Bundesministerium für Verkehr.",
+"ausschuesse": [
+"Verkehrsausschuss",
+"Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+"Petitionsausschuss"
+],
+"geld_aus": [
+"Bundesministerium für Verkehr"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/M/michaelsen_swantje-1046108",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 340001,
+"bis": 350000
+},
+"mitgliedsbeitraege": {
+"von": 8270001,
+"bis": 8280000
+},
+"lobbyausgaben": {
+"von": 640001,
+"bis": 650000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/0f/39/866860/ADFC-Jahresabschluss-31-12-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001598/88165",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-29",
+"etikett": "Eigenangabe",
+"version": 35
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/M/michaelsen_swantje-1046108",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

@@ -1,0 +1,170 @@
+{
+"id": "interface-tech-analysis-and-policy-ideas-for-europe",
+"name": "interface - Tech analysis and  policy ideas for Europe e.V (ehem. Stiftung Neue Verantwortung e.V.)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.interface-eu.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003722",
+"eintrag_id": 87063,
+"version": 13,
+"stand": "2026-10-05",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003722/87063",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/96/2e/856915/Lobbyregister-Registereintraege-Detailansicht-R003722-2026-10-05_15-48-27.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 260001,
+"bis": 270000,
+"zweck": "1) Zuwendung für Maßnahmen der Abrüstung, Rüstungskontrolle und Nichtverbreitungszusammenarbeit, Kapitel 0501, Titel 68727 Das Projekt wird Vorschläge erarbeiten, wie Cyberdiplomatie-Bekenntnisse (zB 11 Cyber-Normen der UN) in nationale Politik übersetzt werden können. Fokus ist, wie Staaten dazu beitragen können, die Sicherheit von Software-Lieferketten zu erhöhen inkl. der Möglichkeiten internationaler Kooperation. Auch Beob. der Entwicklungen rund um die Open-Ended Working Group (OEWG) für Cybersicherheit der UN. 2) Zuwendung, Kapitel 0501, Titel 68727 Das Projekt soll einen Beitrag zur verantwortungsvolleren Staatenpraxis und Einschätzung der VR China in Bezug auf Cyberoperationen und -kampagnen leisten.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 260001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Anna Wohlfarth",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003722/87063",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Thorsten  Wetzling",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003722/87063",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Sven Herpig",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Hospitanz",
+"stelle": "Bundesministerium des Innern, für Bau und Heimat (BMI) (19. WP) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2025-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003722/87063",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Christina Rupp",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003722/87063",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Julia Sieghardt Hess",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003722/87063",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Lena-Maria Böswald",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003722/87063",
+"stand": "2026-10-05"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Sven Herpig",
+"funktion_person": "Hospitanz, Bundesministerium des Innern, für Bau und Heimat (BMI) (19. WP) oder dessen Geschäftsbereich, bis 2025-03",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Sven Herpig ist laut Lobbyregister Interessenvertretung bei interface - Tech analysis and  policy ideas for Europe e.V (ehem. Stiftung Neue Verantwortung e.V.) und hatte zuvor eine öffentliche Funktion: Hospitanz, Bundesministerium des Innern, für Bau und Heimat (BMI) (19. WP) oder dessen Geschäftsbereich, bis 2025-03. interface - Tech analysis and  policy ideas for Europe e.V (ehem. Stiftung Neue Verantwortung e.V.) erhielt laut Lobbyregister Mittel von: Auswärtiges Amt.",
+"ausschuesse": [],
+"geld_aus": [
+"Auswärtiges Amt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003722/87063",
+"stand": "2026-10-05"
+}
+],
+"stand": "2026-10-05"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Sonstiges",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 1610001,
+"bis": 1620000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 30001,
+"bis": 40000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/83/46/856914/interface-e-V-_JA-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003722/87063",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-05",
+"etikett": "Eigenangabe",
+"version": 13
+}
+]
+}

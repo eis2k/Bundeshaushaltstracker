@@ -1,0 +1,282 @@
+{
+"id": "deutsche-afrika-stiftung",
+"name": "Deutsche Afrika Stiftung e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.deutsche-afrika-stiftung.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000344",
+"eintrag_id": 72342,
+"version": 6,
+"stand": "2026-02-23",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000344/72342",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/af/47/697750/Lobbyregister-Registereintraege-Detailansicht-R000344-2026-02-23_12-57-43.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 640001,
+"bis": 650000,
+"zweck": "Finanzielle Zuwendung zu folgendem Zweck: Die Deutsche Afrika Stiftung leistet einen Beitrag zur Festigung und Förderung der Beziehungen zwischen dem afrikanischen Kontinent und Deutschland bzw. Europa im Sinne der friedlichen Zusammenarbeit. Hierzu steht die DAS als Dialogpartner und Dienstleister für deutsche und afrikanische Personen aus Politik, Wirtschaft, Medien und Zivilgesellschaft zur Verfügung. Darüber hinaus möchte sie durch Informationen und politische Initiativen auch zur Meinungsbildung und zur Ausgestaltung der afrikapolitischen Debatte unter politischen Entscheidungsträgerinnen und --trägern in Deutschland und Europa beitragen. Ein besonderer Schwerpunkt der Stiftungsarbeit liegt auf der Vermittlung von afrikapolitischen Themen in den Deutschen Bundestag, insbesondere in den afrikapolitisch relevanten Ausschüssen und den Gruppen für parlamentarische Beziehungen zu afrikanischen Staaten.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 640001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Uschi Eid",
+"funktion": "Präsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000344/72342",
+"stand": "2026-02-23"
+}
+},
+{
+"name": "Sabine Odhiambo",
+"funktion": "Generalsekretärin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000344/72342",
+"stand": "2026-02-23"
+}
+},
+{
+"name": "Wolfgang Stefinger",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000344/72342",
+"stand": "2026-02-23"
+}
+},
+{
+"name": "Christoph Matschie",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-09"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000344/72342",
+"stand": "2026-02-23"
+}
+},
+{
+"name": "Dieter Härthe",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000344/72342",
+"stand": "2026-02-23"
+}
+},
+{
+"name": "Klaus Hess",
+"funktion": "Justiziar",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000344/72342",
+"stand": "2026-02-23"
+}
+},
+{
+"name": "Svenja Schindelwig",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000344/72342",
+"stand": "2026-02-23"
+}
+},
+{
+"name": "Larissa Valentina Pflüger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000344/72342",
+"stand": "2026-02-23"
+}
+},
+{
+"name": "Daniel Tödt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000344/72342",
+"stand": "2026-02-23"
+}
+},
+{
+"name": "Ellen Wiesbrock",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000344/72342",
+"stand": "2026-02-23"
+}
+},
+{
+"name": "Raphael Mayr",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000344/72342",
+"stand": "2026-02-23"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Wolfgang Stefinger",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag",
+"funktion_beim_empfaenger": "Vizepräsident",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Wolfgang Stefinger ist laut Lobbyregister Vizepräsident bei Deutsche Afrika Stiftung e.V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag. Deutsche Afrika Stiftung e.V. erhielt laut Lobbyregister Mittel von: Auswärtiges Amt.",
+"ausschuesse": [],
+"geld_aus": [
+"Auswärtiges Amt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000344/72342",
+"stand": "2026-02-23"
+}
+],
+"stand": "2026-02-23"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Christoph Matschie",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag, bis 2021-09",
+"funktion_beim_empfaenger": "Vizepräsident",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Christoph Matschie ist laut Lobbyregister Vizepräsident bei Deutsche Afrika Stiftung e.V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag, bis 2021-09. Deutsche Afrika Stiftung e.V. erhielt laut Lobbyregister Mittel von: Auswärtiges Amt.",
+"ausschuesse": [],
+"geld_aus": [
+"Auswärtiges Amt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000344/72342",
+"stand": "2026-02-23"
+}
+],
+"stand": "2026-02-23"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Markus Koob",
+"funktion_person": "MdB, CDU/CSU",
+"funktion_beim_empfaenger": "Beisitzer des Vorstandes, ehrenamtlich (ab 12.11.2025)",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Markus Koob (MdB, CDU/CSU) ist laut bundestag.de Beisitzer des Vorstandes, ehrenamtlich (ab 12.11.2025) bei Deutsche Afrika Stiftung e.V.. Ausschüsse und Gremien im Bundestag laut bundestag.de: Auswärtiger Ausschuss; Ausschuss für Bildung, Familie, Senioren, Frauen und Jugend; Unterausschuss Internationale Ordnung, Vereinte Nationen und internationale Organisationen. Deutsche Afrika Stiftung e.V. erhielt laut Lobbyregister Mittel von: Auswärtiges Amt.",
+"ausschuesse": [
+"Auswärtiger Ausschuss",
+"Ausschuss für Bildung, Familie, Senioren, Frauen und Jugend",
+"Unterausschuss Internationale Ordnung, Vereinte Nationen und internationale Organisationen"
+],
+"geld_aus": [
+"Auswärtiges Amt"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/K/koob_markus-1045530",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 20001,
+"bis": 30000
+},
+"lobbyausgaben": {
+"von": 670001,
+"bis": 680000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/fc/47/697748/Anlage-5_Bericht_Interne-Kassenpruefung-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000344/72342",
+"abgerufen": "2026-11-02",
+"stand": "2026-02-23",
+"etikett": "Eigenangabe",
+"version": 6
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/K/koob_markus-1045530",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

@@ -1,0 +1,48 @@
+{
+"id": "vereine",
+"name": "Vereine",
+"art": "verein_stiftung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "16-1614-68701",
+"text": "Beiträge an Vereine, Gesellschaften sowie internationale Organisationen",
+"epl": "16",
+"epl_text": "Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit",
+"werte": {
+"2015": {
+"soll": 21000,
+"ist": 19179
+},
+"2016": {
+"soll": 25000,
+"ist": 19693
+},
+"2017": {
+"soll": 25000,
+"ist": 24708
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

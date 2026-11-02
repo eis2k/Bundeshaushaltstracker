@@ -1,0 +1,115 @@
+{
+"id": "gardp-foundation",
+"name": "GARDP Foundation (Global Antibiotic Research and Development Partnership)",
+"art": "verein_stiftung",
+"rechtsform": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+"sitz": "Genf",
+"website": "https://gardp.org/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006466",
+"eintrag_id": 83387,
+"version": 7,
+"stand": "2026-07-20",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006466/83387",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/1a/e2/816503/Lobbyregister-Registereintraege-Detailansicht-R006466-2026-07-20_16-07-02.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Germany (BMFTR, formerly BMBF)",
+"epl": null,
+"von": 10190001,
+"bis": 10200000,
+"zweck": "Portfolio funding consisting of five grants covering all GARDP programmes from January 2023–December 2027 (€50 million).",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Germany, Federal Ministry of Economic Cooperation and Development (BMZ)",
+"epl": null,
+"von": 2040001,
+"bis": 2050000,
+"zweck": "Portfolio funding of €11 million for Access activities.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 12230002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Manica Balasegaram",
+"funktion": "Executive Director",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006466/83387",
+"stand": "2026-07-20"
+}
+},
+{
+"name": "Peter Beyer",
+"funktion": "Deputy Executive Director",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006466/83387",
+"stand": "2026-07-20"
+}
+},
+{
+"name": "Jeffrey Rowland",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006466/83387",
+"stand": "2026-07-20"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 50001,
+"bis": 60000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/10/fa/816502/GARDP-Financial-Report-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006466/83387",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-20",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

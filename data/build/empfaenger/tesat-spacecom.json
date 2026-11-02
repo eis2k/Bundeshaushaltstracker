@@ -1,0 +1,126 @@
+{
+"id": "tesat-spacecom",
+"name": "Tesat-Spacecom GmbH & Co. KG",
+"art": "unternehmen",
+"rechtsform": "Kommanditgesellschaft (KG)",
+"sitz": "Backnang",
+"website": "www.tesat.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002060",
+"eintrag_id": 82107,
+"version": 14,
+"stand": "2026-07-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002060/82107",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/6f/bb/804652/Lobbyregister-Registereintraege-Detailansicht-R002060-2026-07-03_17-26-41.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "DLR Deutsches Zentrum für Luft- und Raumfahrt e.V.",
+"epl": null,
+"von": 2600001,
+"bis": 2610000,
+"zweck": "Fördermittel für Verbundvorhaben und Technologieentwicklungen für Raumfahrtanwendungen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "ESA Europäische Weltraumorganisation",
+"epl": null,
+"von": 16700001,
+"bis": 16710000,
+"zweck": "Fördermittel für die Entwicklung von Hochtechnologieprodukten, die in der Raumfahrt Anwendung finden",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 19300002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Rolf Leonhardt",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002060/82107",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "Caroline Weishäupl",
+"funktion": "CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002060/82107",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "Matthias von Hayek-Boelingen",
+"funktion": "Chief Programs Officer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002060/82107",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "Christopher Busch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002060/82107",
+"stand": "2026-07-03"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 110001,
+"bis": 120000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e4/0b/804650/20260702_TESAT_JA2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002060/82107",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-03",
+"etikett": "Eigenangabe",
+"version": 14
+}
+]
+}

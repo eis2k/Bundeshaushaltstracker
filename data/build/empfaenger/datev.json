@@ -1,0 +1,208 @@
+{
+"id": "datev",
+"name": "DATEV eG",
+"art": "unternehmen",
+"rechtsform": "Eingetragene Genossenschaft (eG)",
+"sitz": "Nürnberg",
+"website": "https://www.datev.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003153",
+"eintrag_id": 84915,
+"version": 18,
+"stand": "2026-08-20",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003153/84915",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/fb/44/833086/Lobbyregister-Registereintraege-Detailansicht-R003153-2026-08-20_11-35-41.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 60001,
+"bis": 70000,
+"zweck": "Unternehmensübergreifende Analyse betriebswirtschaftlicher Daten zur Steigerung der Resilienz von Unternehmen, Branchen und Volkswirtschaften",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 1,
+"bis": 10000,
+"zweck": "Methoden zum Austausch von unternehmensbezogene Daten in treuhänderbasierten Datenökosystemen (MANDAT)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 320001,
+"bis": 330000,
+"zweck": "KI-gestütztes Rapid Supply Network: Krisensituationen überstehen durch stabile Geschäftsbeziehungen in Wertschöpfungsnetzen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 30001,
+"bis": 40000,
+"zweck": "Quantum Read-Once-Memory - Verwandlung von klassischen Daten zu Quantenzuständen (Q-ROM)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 410004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Robert Mayr",
+"funktion": "Chief Executive Officer (CEO); Chief Finance Officer (CFO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003153/84915",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Markus  Algner",
+"funktion": "Chief Markets Officer (CMO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003153/84915",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Christian Bär",
+"funktion": "Chief Technology Officer (CTO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003153/84915",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Julia Bangerth",
+"funktion": "Chief Operating Officer (COO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003153/84915",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Jens  Bizan",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003153/84915",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Torsten Wunderlich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003153/84915",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Johannes Holtz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003153/84915",
+"stand": "2026-08-20"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "abgeordneter_funktion",
+"person": "Fritz Güntzler",
+"funktion_person": "MdB, CDU/CSU",
+"funktion_beim_empfaenger": "Mitglied der Vertreterversammlung",
+"kategorie": "Funktionen in Unternehmen",
+"abgleich": "exakt",
+"satz": "Fritz Güntzler (MdB, CDU/CSU) ist laut bundestag.de Mitglied der Vertreterversammlung bei DATEV eG. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Sport und Ehrenamt; Finanzen; Ausschuss für Wirtschaft und Energie. DATEV eG erhielt laut Lobbyregister Mittel von: BMWK; Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR); BMBF.",
+"ausschuesse": [
+"Ausschuss für Sport und Ehrenamt",
+"Finanzen",
+"Ausschuss für Wirtschaft und Energie"
+],
+"geld_aus": [
+"BMWK",
+"Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"BMBF"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/G/guentzler_fritz-1044656",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 470001,
+"bis": 480000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/b1/32/833082/DATEV_Geschaeftsbericht_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003153/84915",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-20",
+"etikett": "Eigenangabe",
+"version": 18
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/G/guentzler_fritz-1044656",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

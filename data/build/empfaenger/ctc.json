@@ -1,0 +1,95 @@
+{
+"id": "ctc",
+"name": "CTC GmbH",
+"art": "forschung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Stade",
+"website": "https://ctc-composites.com/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001129",
+"eintrag_id": 82687,
+"version": 14,
+"stand": "2026-07-08",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001129/82687",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/5e/e7/808577/Lobbyregister-Registereintraege-Detailansicht-R001129-2026-07-08_10-16-32.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE) - Projektträger Jülich (PTJ)",
+"epl": "09",
+"von": 20001,
+"bis": 30000,
+"zweck": "Förderprojekt \"LeiWaco - Entwicklung eines Leichtbau-Tanks für kryogenen Wasserstoff zum Einsatz in einer modularen, container-basierten Versorgungseinheit\" über TTP-LB - Förderkennzeichen: 03E13071A",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 20001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Marc Fette",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001129/82687",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Lars Fiedler",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001129/82687",
+"stand": "2026-07-08"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/9a/61/808575/20260521_CTC_GmbH_Jahresabschluss_2025_Lagebericht_KPMG_Pruefungsbericht.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001129/82687",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-08",
+"etikett": "Eigenangabe",
+"version": 14
+}
+]
+}

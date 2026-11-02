@@ -1,0 +1,135 @@
+{
+"id": "german-institute-of-development-and-sustainability",
+"name": "German Institute of Development and Sustainability (IDOS)",
+"art": "forschung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Bonn",
+"website": "https://www.idos-research.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005217",
+"eintrag_id": 79077,
+"version": 6,
+"stand": "2026-06-23",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005217/79077",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/21/30/770469/Lobbyregister-Registereintraege-Detailansicht-R005217-2026-06-23_14-54-48.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+"epl": "23",
+"von": 7450001,
+"bis": 7460000,
+"zweck": "Das IDOS finanziert sich durch eine institutionelle Förderung durch ihre Gesellschafter BMZ (75%) und Land Nordrhein Westfalen (25%) und durch die Einwerbung von Drittmitteln von überwiegend öffentlich Mittelgebern. Bei dieser Angabe handelt es sich um die institutionelle Förderung durch den Gesellschafter Bund.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+"epl": "23",
+"von": 9160001,
+"bis": 9170000,
+"zweck": "Das IDOS finanziert sich durch eine institutionelle Förderung durch ihre Gesellschafter BMZ (75%) und Land Nordrhein Westfalen (25%) und durch die Einwerbung von Drittmitteln von überwiegend öffentlich Mittelgebern. Bei dieser Angabe handelt es sich um Projektförderungen aus dem Forschungstitel.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung (BMBF)",
+"epl": "30",
+"von": 430001,
+"bis": 440000,
+"zweck": "Das IDOS finanziert sich durch eine institutionelle Förderung durch ihre Gesellschafter BMZ (75%) und Land Nordrhein Westfalen (25%) und durch die Einwerbung von Drittmitteln von überwiegend öffentlich Mittelgebern. Bei dieser Angabe handelt es sich eine Projektförderung.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit (BMUV)",
+"epl": "16",
+"von": 150001,
+"bis": 160000,
+"zweck": "Das IDOS finanziert sich durch eine institutionelle Förderung durch ihre Gesellschafter BMZ (75%) und Land Nordrhein Westfalen (25%) und durch die Einwerbung von Drittmitteln von überwiegend öffentlich Mittelgebern. Bei dieser Angabe handelt es sich um eine Projektförderung.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Gesellschaft für internationale Zusammenarbeit (GIZ)",
+"epl": "23",
+"von": 400001,
+"bis": 410000,
+"zweck": "Das IDOS finanziert sich durch eine institutionelle Förderung durch ihre Gesellschafter BMZ (75%) und Land Nordrhein Westfalen (25%) und durch die Einwerbung von Drittmitteln von überwiegend öffentlich Mittelgebern. Bei dieser Angabe handelt es sich um eingeworbene Drittmittelförderungen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Forschungsgemeinschaft (DFG)",
+"epl": null,
+"von": 770001,
+"bis": 780000,
+"zweck": "Das IDOS finanziert sich durch eine institutionelle Förderung durch ihre Gesellschafter BMZ (75%) und Land Nordrhein Westfalen (25%) und durch die Einwerbung von Drittmitteln von überwiegend öffentlich Mittelgebern. Bei dieser Angabe handelt es sich um Projektförderung.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 18360006,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Anna-Katharina Hornidge",
+"funktion": "Direktorin und Geschäftsführerin ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005217/79077",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Axel Berger",
+"funktion": "Stellvertretender Direktor (interim)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005217/79077",
+"stand": "2026-06-23"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/01/e7/770468/IDOS-JA-2025-Testat.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005217/79077",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-23",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

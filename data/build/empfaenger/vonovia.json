@@ -1,0 +1,331 @@
+{
+"id": "vonovia",
+"name": "Vonovia SE",
+"art": "unternehmen",
+"rechtsform": "Europäische Aktiengesellschaft (SE)",
+"sitz": "Bochum",
+"website": "https://www.vonovia.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001894",
+"eintrag_id": 88147,
+"version": 100,
+"stand": "2026-10-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001894/88147",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c7/18/866752/Lobbyregister-Registereintraege-Detailansicht-R001894-2026-10-29_11-22-51.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Deutsche Post DHL Real Estate Deutschland",
+"epl": null,
+"von": 380001,
+"bis": 390000,
+"zweck": "Zuschüsse der Deutschen Post zur Deckung der laufenden Aufwendungen für geförderte Wohnungen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesanstalt für Immobilienaufgaben (BIMA)",
+"epl": null,
+"von": 150001,
+"bis": 160000,
+"zweck": "Entgelte und Aufwandsentschädigungen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 530002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Luka Mucic",
+"funktion": "Vorsitzender des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001894/88147",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Arnd Fittkau",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001894/88147",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Philip Grosse",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001894/88147",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Ruth Werhahn",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001894/88147",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Katja Wünschel",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001894/88147",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Mario Stamerra",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001894/88147",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Dirk Brunnert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001894/88147",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Frederic Neumann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001894/88147",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Sebastian Jung",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001894/88147",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Klaus Markus",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001894/88147",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Christian Gaumitz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001894/88147",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Stephen Guhr",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001894/88147",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Jörg Schindler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001894/88147",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Sven Ladeck",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001894/88147",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Anna Neumann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001894/88147",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Sebastian Krüger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001894/88147",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Timo Schisanowski",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001894/88147",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Ralf Zieren",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001894/88147",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Tim Röder",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001894/88147",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Claudia Buggenhagen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001894/88147",
+"stand": "2026-10-29"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Timo Schisanowski",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Timo Schisanowski ist laut Lobbyregister Interessenvertretung bei Vonovia SE und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03. Vonovia SE erhielt laut Lobbyregister Mittel von: Deutsche Post DHL Real Estate Deutschland; Bundesanstalt für Immobilienaufgaben (BIMA).",
+"ausschuesse": [],
+"geld_aus": [
+"Deutsche Post DHL Real Estate Deutschland",
+"Bundesanstalt für Immobilienaufgaben (BIMA)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001894/88147",
+"stand": "2026-10-29"
+}
+],
+"stand": "2026-10-29"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 770001,
+"bis": 780000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/55/cd/866748/Vonovia_SE-Geschaeftsbericht_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001894/88147",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-29",
+"etikett": "Eigenangabe",
+"version": 100
+}
+]
+}

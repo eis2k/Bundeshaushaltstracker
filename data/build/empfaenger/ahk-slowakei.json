@@ -1,0 +1,105 @@
+{
+"id": "ahk-slowakei",
+"name": "AHK Slowakei",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bratislava",
+"website": "https://slowakei.ahk.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004168",
+"eintrag_id": 76081,
+"version": 7,
+"stand": "2026-04-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004168/76081",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/19/8c/730430/Lobbyregister-Registereintraege-Detailansicht-R004168-2026-04-30_15-42-45.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz (BMWK)",
+"epl": "09",
+"von": 530001,
+"bis": 540000,
+"zweck": "Die Zuwendung dient der finanziellen Unterstützung der Kammer zur Erfüllung ihrer Aufgaben im laufenden Geschäftsjahr. Projektförderung als Anteilfinanzierung",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "BM für Ernährung und Landwirtschaft (BMEL)",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Projektförderung",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 540002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Marco Trisciuzzi",
+"funktion": "Geschäftsführendes Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004168/76081",
+"stand": "2026-04-30"
+}
+},
+{
+"name": "Pavel Lakatos",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004168/76081",
+"stand": "2026-04-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 370001,
+"bis": 380000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/6a/8d/730429/BMWK_Jahresabschluss_2024_final.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004168/76081",
+"abgerufen": "2026-11-02",
+"stand": "2026-04-30",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

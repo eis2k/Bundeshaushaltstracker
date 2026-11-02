@@ -1,0 +1,215 @@
+{
+"id": "ericsson",
+"name": "Ericsson GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Düsseldorf",
+"website": "https://www.ericsson.com/de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001102",
+"eintrag_id": 82537,
+"version": 17,
+"stand": "2026-07-13",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001102/82537",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/fc/26/812031/Lobbyregister-Registereintraege-Detailansicht-R001102-2026-07-13_14-31-10.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung (BMBF)",
+"epl": "30",
+"von": 470001,
+"bis": 480000,
+"zweck": "Im Vorhaben \"6G-ANNA Systemkonzept für Mobilfunk der 6. Generation\" sollen die Grundlagen für die nachfolgende Phase der Standardisierung von 6G gelegt werden. Zusammen mit dem Projektteam werden wir die Anforderungen von zukunftsweisenden Anwendungsfällen analysieren, unter Berücksichtigung des Bedarfs der deutschen Industrie. Aussichtsreiche Technologiebausteine werden auf ihr Potential bewertet, um einen Entwurf für ein Gesamtsystem zu entwickeln. Technologietrends wie der Einsatz von Künstlicher Intelligenz für die Automatisierung des Netzes und auch die Optimierung des Betriebs oder die Virtualisierung von Funktionalität werden aufgegriffen. Resultat wird ein Verständnis über eine geeignete und verifizierte Auswahl von Lösungen sein, z. B. welche Technologiebausteine aussichtsreich in die Standardisierung eingebracht werden können, welche Funktionen Schnittstellen bieten sollen und welche Leistungsmerkmale realistisch mit 6G erreicht werden. können.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Digitales und Verkehr",
+"epl": "12",
+"von": 30001,
+"bis": 40000,
+"zweck": "Das Gesamtziel des Projekts ist die Erforschung innovativer Netztechnologien, in dem erstmalig eine Virtualisierung des Radio Access Network (sog. Cloud RAN), sowie die Virtualisierung industrieller Anwendungen auf einer gemeinsamen Plattform umgesetzt wird. Ericsson als Hersteller von Telekommunikations-Infrastruktur arbeitet mit Hochdruck an der Einführung von virtualisierten RAN-Komponenten, um Skalierungs- und Orchestrierungsfähigkeiten von Cloud-Infrastrukturen nutzen zu können und damit eine einfachere Einführung von 5G in der Industrie zu ermöglichen. Dadurch werden auch Hemmnisse wie Komplexität der Integration in bestehende Technologien reduziert. Eine Cloud-Orchestrierung verspricht eine flexible und schnelle Einrichtung neuer Netzbereiche, sowie ein vereinfachtes Management dieser Netze. Die Skalierungsmöglichkeiten erlauben den Betrieb sowohl sehr großer Netzwerkelemente als auch den sehr kleiner, wie zum Beispiel im Industrieumfeld.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Digitales und Verkehr",
+"epl": "12",
+"von": 190001,
+"bis": 200000,
+"zweck": "Eine bedarfsgerechte Fahrgastversorgung mit Konnektivität im Gigabit-Bereich sowie die Ablösung des betrieblichen Bahnfunks GSM-R (Global System for Mobile Communications – Rail) durch das 5G basierte FRMCS (Future Railway Mobile Communication System) sind wesentliche Hebel zur Steigerung der Attraktivität der Schiene und damit zur Erreichung der Klimaziele. Basis hierfür ist eine leistungsfähige und gleichzeitig kosteneffiziente Mobilfunkinfrastruktur. Lösungskonzept ist die synergetische Nutzung einer innovativen Mobilfunkinfrastruktur am Gleis durch FRMCS und öffentliche Mobilfunknetzbetreiber: eine gemeinsame Nutzung benötigt weniger Mobilfunkmasten und spart somit ökologische und ökonomische Ressourcen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 1590001,
+"bis": 1600000,
+"zweck": "Ziel des KeeCEK Projektes ist die Entwicklung von Cloud Edge Knoten, die sowohl kritische industrielle Anwendungen ausführen können als auch die 5G/6G Funkinfrastruktur bereitstellen. Das KeeCEK Projekt ist ein voll integrieterTeil der skalierbaren Ericsson Cloud Native Infrastructure Solution (CNIS), die damit um die Cloud Edge für kritische Anwendungen erweitert wird. Das sichert die Verfügbarkeit auf kommerzieller Basis. Der Cloud Edge Knoten wird im Vorhaben entwickelt, um dann die folgenden neuen Merkmale zu unterstützen: Fähigkeit mehrere Anwendungen auszuführen, mobile Konnektivität mit niedriger Latenz, Unterstützung mehrerer Infrastrukturbetreiber, hohe Leistung, hohe Effizienz, hoch automatisierter Lebenszyklus, Orchestrierung und Management.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 220001,
+"bis": 230000,
+"zweck": "Das Vorhaben “KOMSENS-6G – Systemkonzept für Mobilfunk der 6. Generation mit integriertem Sensing“ dient der Erarbeitung der Grundlagen, wie man sinnvoll Sensing-Funktionalität in ein Mobilfunksystem der 6. Generation integrieren kann. Diese Integration erlaubt die Verwendung von Funkinfrastruktur für radarähnliche Anwendungen und bietet den Vorteil, ressourceneffizient das Funkspektrum für weitere Anwendungen zu nutzen. Darüber hinaus bedeutet dieser Ansatz, dass ganz neue Dienste von Mobilfunkbetreibern angeboten werden können. Zur erfolgreichen Umsetzung dieser Idee sind noch viele Fragestellungen zu klären. Zum Beispiel, welches Spektrum geeignet, welche Signalformen sich anbieten, wie Ressourcen-effizient sowohl Kommunikation als auch Sensing unterstützt werden kann sowie welche Sensing-Dienstgüten mit welchem Aufwand zu realisieren sind.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 2500005,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Bernd Mellinghaus",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001102/82537",
+"stand": "2026-07-13"
+}
+},
+{
+"name": "Daniel Leimbach",
+"funktion": "Vorsitzender der Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001102/82537",
+"stand": "2026-07-13"
+}
+},
+{
+"name": "Olaf Reus",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001102/82537",
+"stand": "2026-07-13"
+}
+},
+{
+"name": "Spyros Makris",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001102/82537",
+"stand": "2026-07-13"
+}
+},
+{
+"name": "Gabriele Mohsler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001102/82537",
+"stand": "2026-07-13"
+}
+},
+{
+"name": "Christian Hoymann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001102/82537",
+"stand": "2026-07-13"
+}
+},
+{
+"name": "Michael Meyer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001102/82537",
+"stand": "2026-07-13"
+}
+},
+{
+"name": "Christoph Bach",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001102/82537",
+"stand": "2026-07-13"
+}
+},
+{
+"name": "Stefanie Nohe",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001102/82537",
+"stand": "2026-07-13"
+}
+},
+{
+"name": "Stefan John",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001102/82537",
+"stand": "2026-07-13"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 450001,
+"bis": 460000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/a5/30/812021/065202039-Finales-Testatsexemplar-mit-QES.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001102/82537",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-13",
+"etikett": "Eigenangabe",
+"version": 17
+}
+]
+}

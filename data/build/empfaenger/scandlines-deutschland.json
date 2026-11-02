@@ -1,0 +1,84 @@
+{
+"id": "scandlines-deutschland",
+"name": "Scandlines Deutschland GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Hamburg",
+"website": "www.scandlines.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005782",
+"eintrag_id": 60098,
+"version": 4,
+"stand": "2025-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005782/60098",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f1/42/568553/Lobbyregister-Registereintraege-Detailansicht-R005782-2025-06-30_17-49-25.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Digitales und Verkehr",
+"epl": "12",
+"von": 3710001,
+"bis": 3720000,
+"zweck": "Zuwendungen aus dem Bundeshaushalt im Rahmen der Förderrichtlinie „Nachhaltige Modernisierung von Küstenschiffen“ (NaMKü) für die Vorhaben: Umrüstung der Küstenschiffe \"Deutschland\" und \"Schleswig-Holstein\" auf ein innovatives Energiespeichersystem mit dem Ziel, 80% des Gesamtenergiebedarfes des Schiffes durch Batteriespeicher und damit emissionsfrei zu decken. Förderkennzeichen: 19NK22005 / 19NK22005",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 3710001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Heiko Kähler",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005782/60098",
+"stand": "2025-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 80001,
+"bis": 90000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/36/a7/568552/Scandlines_AR-2024_FINAL-429BD2CF6258.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005782/60098",
+"abgerufen": "2026-11-02",
+"stand": "2025-06-30",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

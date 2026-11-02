@@ -1,0 +1,207 @@
+{
+"id": "allianz-pro-schiene",
+"name": "Allianz pro Schiene e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.allianz-pro-schiene.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000866",
+"eintrag_id": 84960,
+"version": 32,
+"stand": "2026-08-21",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000866/84960",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/a5/88/833739/Lobbyregister-Registereintraege-Detailansicht-R000866-2026-08-21_11-37-18.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Eisenbahnbundesamt / Deutsches Zentrum für Schienenverkehrsforschung",
+"epl": null,
+"von": 110001,
+"bis": 120000,
+"zweck": "Zuschuss für das vom Eisenbahnbundesamt / Deutsches Zentrum für Schienenverkehrsforschung geförderte Projekt \"WilsonShare\" Projektlaufzeit: 04/22 bis 12/25 Förderprogramm: Bundesprogramm Zukunft Schienengüterverkehr Projektleitfrage: Wie kann eine digital unterstützte unternehmensübergreifende Kooperation beim Personaleinsatz von Lokführer:innen im Schienengüterverkehr gelingen?",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Digitales und Verkehr",
+"epl": "12",
+"von": 70001,
+"bis": 80000,
+"zweck": "Der „Tag der Schiene“ (TdS) ist ein bundesweiter Tag voller Aktionen und Veranstaltungen rund um die Schiene. Die Idee für den TdS stammt aus dem Masterplan Schienenverkehr, der gemäß Schienenpakt die Grundlage für die Zukunft des Schienenverkehrs ist. Am TdS sollen regionale Angebote die Klimafreundlichkeit, Zukunftsorientierung und Vielfalt der Schiene sichtbar machen. Zum TdS rufen Bund, Länder, regionale Gebietskörperschaften sowie Verbände und Unternehmen der Schienenbranche gemeinsam auf.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Umwelt, Naturschutz, Nukleare Sicherheit und Verbraucherschutz",
+"epl": "16",
+"von": 20001,
+"bis": 30000,
+"zweck": "Zuschuss für das vom Bundesministerium für Umwelt, Naturschutz, Nukleare Sicherheit und Verbraucherschutz Projektlaufzeit: 2024-2025 Förderprogramm: Verbändeförderung Projektleitfrage Dt. Verkehrswendepreis: Welche übertragbaren Praxisbeispiele sind besonders geeignet, um die Verkehrswende bundesweit anzuschieben?",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+"epl": "16",
+"von": 30001,
+"bis": 40000,
+"zweck": "Zuschuss für das vom Umweltbundesamt / Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) geförderte Projekt \"Güterverkehr reloaded) Projektlaufzeit: 04/2025 - 03/2027 Förderprogramm: Vorhabenförderung von Umwelt- und Naturschutzverbänden (UBA) Projektleitfrage: Eine Herausforderung unserer Zeit ist es, wirtschaftliche Leistungsfähigkeit und Umweltschutz in Einklang zu bringen – auch im Transportsektor. Die Wende hin zu einer umwelt- und klimaschonenden Logistik kann jedoch nur mit einer stärkeren Verlagerung auf die Schiene gelingen. Das Projekt soll Grundlage und Anstoß sein, sowohl für einen nachhaltigen Wandel in der Branche selbst als auch für die Schaffung der notwendigen politischen Rahmenbedingen.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 230004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Martin Burkert",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2022-02"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000866/84960",
+"stand": "2026-08-21"
+}
+},
+{
+"name": "Gerhard Greiter",
+"funktion": "stellv. Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000866/84960",
+"stand": "2026-08-21"
+}
+},
+{
+"name": "Klaus-Martin Melzer",
+"funktion": "stellv. Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000866/84960",
+"stand": "2026-08-21"
+}
+},
+{
+"name": "Birgit Milius",
+"funktion": "Stellv. Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000866/84960",
+"stand": "2026-08-21"
+}
+},
+{
+"name": "Dirk Flege",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000866/84960",
+"stand": "2026-08-21"
+}
+},
+{
+"name": "Andreas Geißler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000866/84960",
+"stand": "2026-08-21"
+}
+},
+{
+"name": "Bernhard Knierim",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000866/84960",
+"stand": "2026-08-21"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Martin Burkert",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag, bis 2022-02",
+"funktion_beim_empfaenger": "Vorstandsvorsitzender",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Martin Burkert ist laut Lobbyregister Vorstandsvorsitzender bei Allianz pro Schiene e.V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag, bis 2022-02. Allianz pro Schiene e.V. erhielt laut Lobbyregister Mittel von: Eisenbahnbundesamt / Deutsches Zentrum für Schienenverkehrsforschung; Bundesministerium für Digitales und Verkehr; Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV); Bundesministerium für Umwelt, Naturschutz, Nukleare Sicherheit und Verbraucherschutz.",
+"ausschuesse": [],
+"geld_aus": [
+"Eisenbahnbundesamt / Deutsches Zentrum für Schienenverkehrsforschung",
+"Bundesministerium für Digitales und Verkehr",
+"Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+"Bundesministerium für Umwelt, Naturschutz, Nukleare Sicherheit und Verbraucherschutz"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000866/84960",
+"stand": "2026-08-21"
+}
+],
+"stand": "2026-08-21"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1030001,
+"bis": 1040000
+},
+"lobbyausgaben": {
+"von": 140001,
+"bis": 150000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/41/15/833736/einnahmen_ausgaben_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000866/84960",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-21",
+"etikett": "Eigenangabe",
+"version": 32
+}
+]
+}

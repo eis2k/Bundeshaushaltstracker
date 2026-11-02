@@ -1,0 +1,127 @@
+{
+"id": "bundesverband-behinderter-und-chronisch-kranker-eltern-bbe",
+"name": "Bundesverband behinderter und chronisch kranker Eltern - bbe e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Löhne",
+"website": "https://www.behinderte-eltern.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004863",
+"eintrag_id": 71732,
+"version": 7,
+"stand": "2026-02-04",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004863/71732",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/50/82/689326/Lobbyregister-Registereintraege-Detailansicht-R004863-2026-02-04_07-42-27.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMAS",
+"epl": "11",
+"von": 270001,
+"bis": 280000,
+"zweck": "Mittel aus dem Partizipationsfond zur Partizipation behinderter Menschen auf Bundesebene Mittel aus EUTBV für Beratung behinderter Menschen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "VdaK",
+"epl": null,
+"von": 30001,
+"bis": 40000,
+"zweck": "§20 SGB V Pauschalförderung für Selbsthilfe",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 300002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Kerstin Weiß",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004863/71732",
+"stand": "2026-02-04"
+}
+},
+{
+"name": "Heike Odenthal",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004863/71732",
+"stand": "2026-02-04"
+}
+},
+{
+"name": "Kerstin Blochberger",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004863/71732",
+"stand": "2026-02-04"
+}
+},
+{
+"name": "Lilith Fendt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004863/71732",
+"stand": "2026-02-04"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e1/da/689325/250212_bbe_Jahresabschluss_2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004863/71732",
+"abgerufen": "2026-11-02",
+"stand": "2026-02-04",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

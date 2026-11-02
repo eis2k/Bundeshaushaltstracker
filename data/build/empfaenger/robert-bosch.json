@@ -1,0 +1,568 @@
+{
+"id": "robert-bosch",
+"name": "Robert Bosch GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Gerlingen-Schillerhöhe",
+"website": "www.bosch.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000999",
+"eintrag_id": 83665,
+"version": 47,
+"stand": "2026-10-15",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ab/93/861593/Lobbyregister-Registereintraege-Detailansicht-R000999-2026-10-15_10-32-11.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMWE",
+"epl": "09",
+"von": 1882280001,
+"bis": 1882290000,
+"zweck": "Projektförderung IPCEI Mikroelektronik",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE",
+"epl": "09",
+"von": 10600001,
+"bis": 10610000,
+"zweck": "F&E-Projektförderungen gemäß Förderkatalog",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMFTR",
+"epl": "30",
+"von": 9020001,
+"bis": 9030000,
+"zweck": "F&E-Projektförderungen gemäß Förderkatalog",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMV",
+"epl": "12",
+"von": 470001,
+"bis": 480000,
+"zweck": "F&E Projektförderungen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesagentur für Arbeit",
+"epl": "11",
+"von": 130001,
+"bis": 140000,
+"zweck": "Personalkostenzuschuss gemäß Qualifizierungschancengesetz",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Ausfuhrkontrolle",
+"epl": null,
+"von": 110001,
+"bis": 120000,
+"zweck": "BAFA -Energieeffizienz in der Wirtschaft",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Nationale Agentur für Bildung",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "ERASMUS Förderung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1902630007,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christian Fischer",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "Markus Heyn",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "Markus Forschner",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "Tanja Rückert",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "Stefan Grosch",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "Frank Meyer",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "Katja von Raven",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "Christof Ehrhart",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "Nathalie Martin Hübner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "Martin Sauer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "Nick Bercio",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "Jonas Vach",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "Friederike Pischnick",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "Gefion Hven",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "Andi Winterboer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "Lisa Renner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "Stefan Joeres",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "David Schüller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "Markus Ohnmacht",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "Björn Noack",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "Jörg Tegtmeier",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "Matthias Knirsch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "Kathrin Watson",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "Matthias Ziebell",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "Antje Seitz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "Dirk Jargstorff",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "Antje Fiehn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "Julian Caligiuri",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "Sven Sautter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "Gordon Teckentrup",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "Joyce Müller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "Thomas Schulte",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "Daniel Geßner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "Heiko Jung",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "Carsten Konradi",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "Constantin Greim",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+},
+{
+"name": "Thomas Pauer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "abgeordneter_funktion",
+"person": "Dr. David Preisendanz",
+"funktion_person": "MdB, CDU/CSU",
+"funktion_beim_empfaenger": "Syndikusrechtsanwalt (bis 31.05.2025), 2025, 8.682,06 EUR, Brutto, zuzüglich 2026, 6.873,08 EUR, Brutto",
+"kategorie": "Entgeltliche Tätigkeiten neben dem Mandat",
+"abgleich": "exakt",
+"satz": "Dr. David Preisendanz (MdB, CDU/CSU) ist laut bundestag.de Syndikusrechtsanwalt (bis 31.05.2025), 2025, 8.682,06 EUR, Brutto, zuzüglich 2026, 6.873,08 EUR, Brutto bei Robert Bosch GmbH. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für die Angelegenheiten der Europäischen Union; Ausschuss für Recht und Verbraucherschutz; Innenausschuss; Unterausschuss Europarecht; Enquete-Kommission „Corona“. Robert Bosch GmbH erhielt laut Lobbyregister Mittel von: BMWE; BMFTR; BMV; Bundesagentur für Arbeit; Bundesministerium für Wirtschaft und Ausfuhrkontrolle; Nationale Agentur für Bildung.",
+"ausschuesse": [
+"Ausschuss für die Angelegenheiten der Europäischen Union",
+"Ausschuss für Recht und Verbraucherschutz",
+"Innenausschuss",
+"Unterausschuss Europarecht",
+"Enquete-Kommission „Corona“"
+],
+"geld_aus": [
+"BMWE",
+"BMFTR",
+"BMV",
+"Bundesagentur für Arbeit",
+"Bundesministerium für Wirtschaft und Ausfuhrkontrolle",
+"Nationale Agentur für Bildung"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/P/preisendanz_david-1049074",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1730001,
+"bis": 1740000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/4f/4b/861590/bosch-geschaeftsbericht-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-15",
+"etikett": "Eigenangabe",
+"version": 47
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/P/preisendanz_david-1049074",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

@@ -1,0 +1,451 @@
+{
+"id": "venro-verband-entwicklungspolitik-und-humanitaere-hilfe-deut",
+"name": "VENRO Verband Entwicklungspolitik und Humanitäre Hilfe deutscher Nichtregierungsorganisationen e.V",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.venro.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001227",
+"eintrag_id": 83691,
+"version": 18,
+"stand": "2026-07-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001227/83691",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/0f/f8/822089/Lobbyregister-Registereintraege-Detailansicht-R001227-2026-07-29_13-10-06.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Engagement Global gGmbH - im Auftrag des BMZ",
+"epl": "23",
+"von": 540001,
+"bis": 550000,
+"zweck": "Förderprogramm Private Träger in der Entwicklungszusammenarbeit - Projekt Starke Zivilgesellschaft",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Engagement Global gGmbH -  Im Auftrag des BMZ",
+"epl": "23",
+"von": 480001,
+"bis": 490000,
+"zweck": "Countdown 2030 - Globale Ziele brauchen Zivilgesellschaft",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Engagement Global gGmbH, im Auftrag des BMZ",
+"epl": "23",
+"von": 90001,
+"bis": 100000,
+"zweck": "Förderprogramm für entwicklungspolitische Bildungsarbeit, Entwicklungspolitischen Inlandsarbeit als Schlüssel für eine nachhaltige Zukunft stärken",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1110003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Michael Herbst",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001227/83691",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Asja  Hanano",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001227/83691",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Carsten Montag",
+"funktion": "Vorsitzender des Vorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001227/83691",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Christian Griebenow",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001227/83691",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Mareike Haase",
+"funktion": "Stellvertretende Vorsitzende des Vorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001227/83691",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Anica Heinlein",
+"funktion": "Vorsitzende des Vorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001227/83691",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Kayu Orellana Mardones",
+"funktion": "Stellvertretender Vorsitzender des Vorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001227/83691",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Sybille Fezer",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001227/83691",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Gifty Amo Antwi",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001227/83691",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Annette Ptassek",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001227/83691",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Lukas Goltermann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001227/83691",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Sonja Grigat",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001227/83691",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Karoline Krähling",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001227/83691",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Anke Kurat",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001227/83691",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Maya Krille",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001227/83691",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Silvan Rehfeld",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001227/83691",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Janna Völker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001227/83691",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Bodo von Borries",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001227/83691",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Jan Wenzel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001227/83691",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Almut Huss",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001227/83691",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Karla-Felicitas Braun",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001227/83691",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Sophie Knabner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001227/83691",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Marieke Fröhlich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001227/83691",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Hauke Wemheuer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001227/83691",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Åsa Månsson",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001227/83691",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Dorothee  Baldenhofer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2024-10"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001227/83691",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Dominik Drießen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001227/83691",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Betül Bahar  Tekkılıç",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001227/83691",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Erzsébet Lajos",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001227/83691",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Selvi Pabst",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001227/83691",
+"stand": "2026-07-29"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Dorothee  Baldenhofer",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2024-10",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Dorothee  Baldenhofer ist laut Lobbyregister Interessenvertretung bei VENRO Verband Entwicklungspolitik und Humanitäre Hilfe deutscher Nichtregierungsorganisationen e.V und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2024-10. VENRO Verband Entwicklungspolitik und Humanitäre Hilfe deutscher Nichtregierungsorganisationen e.V erhielt laut Lobbyregister Mittel von: Engagement Global gGmbH - im Auftrag des BMZ; Engagement Global gGmbH -  Im Auftrag des BMZ; Engagement Global gGmbH, im Auftrag des BMZ.",
+"ausschuesse": [],
+"geld_aus": [
+"Engagement Global gGmbH - im Auftrag des BMZ",
+"Engagement Global gGmbH -  Im Auftrag des BMZ",
+"Engagement Global gGmbH, im Auftrag des BMZ"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001227/83691",
+"stand": "2026-07-29"
+}
+],
+"stand": "2026-07-29"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1300001,
+"bis": 1310000
+},
+"lobbyausgaben": {
+"von": 370001,
+"bis": 380000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e2/9c/822088/210389-Bericht-final-2024-VENRO_sig_1.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001227/83691",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-29",
+"etikett": "Eigenangabe",
+"version": 18
+}
+]
+}

@@ -1,0 +1,96 @@
+{
+"id": "care-pioneers",
+"name": "care pioneers GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Oldenburg",
+"website": "www.pflegepioniere.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006472",
+"eintrag_id": 82188,
+"version": 7,
+"stand": "2026-07-02",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006472/82188",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/83/c8/802824/Lobbyregister-Registereintraege-Detailansicht-R006472-2026-07-02_14-54-15.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundeskasse Dienstort Halle (BMFTR)",
+"epl": null,
+"von": 70001,
+"bis": 80000,
+"zweck": "Hier handelt es sich um ein Drittmittelprojekt \"RessourcE\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 70001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Melanie Philip",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006472/82188",
+"stand": "2026-07-02"
+}
+},
+{
+"name": "Philipp Zell",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006472/82188",
+"stand": "2026-07-02"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/6c/8f/802823/59612-Care-Pioneers-GmbH-Jahresabschluss-2024ov.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006472/82188",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-02",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

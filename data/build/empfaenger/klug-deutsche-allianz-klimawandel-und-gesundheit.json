@@ -1,0 +1,461 @@
+{
+"id": "klug-deutsche-allianz-klimawandel-und-gesundheit",
+"name": "KLUG - Deutsche Allianz Klimawandel und Gesundheit",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://www.klimawandel-gesundheit.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001068",
+"eintrag_id": 86912,
+"version": 23,
+"stand": "2026-10-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001068/86912",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c3/98/854928/Lobbyregister-Registereintraege-Detailansicht-R001068-2026-10-01_14-51-15.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Umweltbundesamt",
+"epl": "16",
+"von": 30001,
+"bis": 40000,
+"zweck": "Förderung im Rahmen der Verbändeförderung, Förderkennzeichen 372522V437",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesgesundheitsministerium",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "Förderung des Verbundprojektes HOT-BW Hitzeaktionsplan Oeffentlicher Gesundheitsdienst Baden-Württemberg zur Stärkung des Öffentlichen Gesundheitsdienstes, Aktenzeichen ZMI5-2523SGW00U",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 130001,
+"bis": 140000,
+"zweck": "Projektförderung für das Verbundprojekt BBNE-PfleGe (Akronym): Praxisanleitende in Pflege- und Gesundheitsberufen als Schlüsselpersonen für BBNE. FKZ 66NIB11501, Programm Nachhaltig im Beruf - Umsetzungsprojekte",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Innovationsausschuss beim Gemeinsamen Bundesauschuss",
+"epl": null,
+"von": 90001,
+"bis": 100000,
+"zweck": "Durchführung des Projekts \"HIRGEV - Hitzeresiliente Gesundheitsversorgung: Integrierte Daten für die Versorgungspraxis und -planung für aktuelle und zukünftige Generationen\": HIRGEV soll die gesundheitlichen Auswirkungen von Hitzewellen auf die Bevölkerungsgesundheit und das Versorgungssystem sowohl retrospektiv als auch prospektiv bis 2100 in hoher räumlicher Auflösung modellieren, daraus aktuelle und künftige Bedarfe für Regionen und Bevölkerungsgruppen ableiten und die Ergebnisse im Kontext multipler Krisen und im Sinne der strategischen und strukturellen Vorbereitung diskutieren. Die Konsortialführung liegt bei der Universität Bayreuth, die die Mittel entsprechend der Aufgabenumsetzung an KLUG weitergibt. Weiterleitungsvertrag mit Fördermittelnehmer Universität Beyreuth unter KZ 01VSF23020",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Arbeit und Soziales",
+"epl": "11",
+"von": 300001,
+"bis": 310000,
+"zweck": "KLUG ist Konsortialpartner der gsub im Projekt \"Arbeit: Sicher und Gesund im Klimawandel\" (ASUG-Klima). Ziel ist es, auf der Basis einer Analyse gemeinsam mit Akteuren der Arbeitswelt Lösungsansätze und -wege für ein sicheres, gesundes und menschengerechtes Arbeiten im Klimawandel jetzt und in der Zukunft zu erarbeiten. Dazu gehören relevante Rahmenbedingungen vor allem im Arbeitsschutz und im Betrieblichen Gesundheitsmanagement (BGM), wie z.B. wirksame Gestaltungsstrategien und -konzepte (auch im Sinne von gute Praxisbeispiele), Gestaltung der Arbeitskultur und -organisation sowie geeignete Kommunikationsformate. Diese Lösungswege sollen interdisziplinär und dialogisch erarbeitet und in Pilotvorhaben mit ausgewählten Betrieben erprobt und evaluiert werden. https://www.arbeit-sicher-und-gesund.de/themen/klimawandel/aktivitaeten/sichere-und-gesunde-arbeit-in-zeiten-des-klimawandels",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 570005,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Eva-Maria Schwienhorst-Stich",
+"funktion": "Stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001068/86912",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Martin Herrmann",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001068/86912",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Max Bürck-Gemassmer",
+"funktion": "Stellvertreternder Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001068/86912",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Christian Schulz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001068/86912",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Sonja Schmalen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001068/86912",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Anne Hübner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001068/86912",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Matthias Albrecht",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001068/86912",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Felix Bittner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001068/86912",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Lea Dohm",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001068/86912",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Marischa Fast",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001068/86912",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Friederike von Gierke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001068/86912",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Johanna Weis",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001068/86912",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Jonas Gerke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001068/86912",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Maurizio Bär",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001068/86912",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Peter Josiger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001068/86912",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Ulrike Koch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001068/86912",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Saskia Wendt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001068/86912",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Luka Eulberg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001068/86912",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Lea Eggers",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001068/86912",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Nicola Arnold",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001068/86912",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Teresa Hollerbach",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001068/86912",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Dorothea Baltruks",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001068/86912",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Marie Jung",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001068/86912",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Stefan Kohlwes",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001068/86912",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Miriam Meschede",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001068/86912",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Nadia Sinner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001068/86912",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Nicole Stauf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001068/86912",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Lena Tischler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001068/86912",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Pia Rangnow",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001068/86912",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Thurid Dikmen-Bahr",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001068/86912",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Philine Betker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001068/86912",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Tim Nickels",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001068/86912",
+"stand": "2026-10-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 1400001,
+"bis": 1410000
+},
+"mitgliedsbeitraege": {
+"von": 180001,
+"bis": 190000
+},
+"lobbyausgaben": {
+"von": 200001,
+"bis": 210000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/b4/75/854925/R001068-Jahresabschluss-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001068/86912",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-01",
+"etikett": "Eigenangabe",
+"version": 23
+}
+]
+}

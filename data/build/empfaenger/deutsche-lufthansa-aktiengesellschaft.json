@@ -1,0 +1,738 @@
+{
+"id": "deutsche-lufthansa-aktiengesellschaft",
+"name": "Deutsche Lufthansa Aktiengesellschaft",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Köln",
+"website": "https://www.lufthansagroup.com/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001474",
+"eintrag_id": 88185,
+"version": 53,
+"stand": "2026-10-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c1/f1/867090/Lobbyregister-Registereintraege-Detailansicht-R001474-2026-10-29_16-57-17.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Verkehr",
+"epl": "12",
+"von": 20001,
+"bis": 30000,
+"zweck": "Projektzuschuss Air Traffic Management (ATM)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 20001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Carsten Spohr",
+"funktion": "Chief Executive Officer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Grazia Vittadini",
+"funktion": "Member of the Executive Board - Chief Technology Officer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Michael Niggemann",
+"funktion": "Member of the Executive Board - Chief HR & Legal Officer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Dieter Vranckx",
+"funktion": "Member of the Executive Board - Chief Commercial Officer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Till Streichert",
+"funktion": "Member of the Executive Board - Chief Financial Officer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Andreas Bartels",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Andreas Bulling",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Sandra Courant",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Jürgen Faust",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Alexander Holzrichter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Jan Körner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Stefan Kreuzpaintner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Martin Leutke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Kay Lindemann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Markus Linke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Christoph Muhle",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Jan Pechstein",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Marcel Pordomm",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Yannick Tubes",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-08"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Astrid Wallisch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Alexandra Dietzen-Zill",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Stephan Zilles",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Maximilian Kiewel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Frank Lumnitzer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Kerstin Schulz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Thrasivoulos Malliaras",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Tom Benedict",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Referent",
+"stelle": "Bundesministerium der Verteidigung (BMVg) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2022-05"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Anton Heinecke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2023-09"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Karan Singh",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Christian Schäfer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Nina Sproedt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Frank Walter Wagner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Birgit Karin Winkler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Joachim Herzog",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Henrietta Dörries",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2024-02"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Markus Holowenko",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Jim Würz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Referent",
+"stelle": "Bundesministerium für Verkehr (BMV) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2025-07"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Helene Kuchta",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Batughan Güler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Michael Hutzelmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Carsten Reichart",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Simon Rimrod",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Ruben Schuster",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Oliver Francois Simonis",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Sebastian Zurfähr",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Johannes Teyssen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Robert Appel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Nils Häusler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Yannick Tubes",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-08",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Yannick Tubes ist laut Lobbyregister Interessenvertretung bei Deutsche Lufthansa Aktiengesellschaft und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-08. Deutsche Lufthansa Aktiengesellschaft erhielt laut Lobbyregister Mittel von: Bundesministerium für Verkehr.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Verkehr"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+],
+"stand": "2026-10-29"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Tom Benedict",
+"funktion_person": "Referent, Bundesministerium der Verteidigung (BMVg) oder dessen Geschäftsbereich, bis 2022-05",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Tom Benedict ist laut Lobbyregister Interessenvertretung bei Deutsche Lufthansa Aktiengesellschaft und hatte zuvor eine öffentliche Funktion: Referent, Bundesministerium der Verteidigung (BMVg) oder dessen Geschäftsbereich, bis 2022-05. Deutsche Lufthansa Aktiengesellschaft erhielt laut Lobbyregister Mittel von: Bundesministerium für Verkehr.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Verkehr"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+],
+"stand": "2026-10-29"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Anton Heinecke",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-09",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Anton Heinecke ist laut Lobbyregister Interessenvertretung bei Deutsche Lufthansa Aktiengesellschaft und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-09. Deutsche Lufthansa Aktiengesellschaft erhielt laut Lobbyregister Mittel von: Bundesministerium für Verkehr.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Verkehr"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+],
+"stand": "2026-10-29"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Henrietta Dörries",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2024-02",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Henrietta Dörries ist laut Lobbyregister Interessenvertretung bei Deutsche Lufthansa Aktiengesellschaft und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2024-02. Deutsche Lufthansa Aktiengesellschaft erhielt laut Lobbyregister Mittel von: Bundesministerium für Verkehr.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Verkehr"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+],
+"stand": "2026-10-29"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Jim Würz",
+"funktion_person": "Referent, Bundesministerium für Verkehr (BMV) oder dessen Geschäftsbereich, bis 2025-07",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Jim Würz ist laut Lobbyregister Interessenvertretung bei Deutsche Lufthansa Aktiengesellschaft und hatte zuvor eine öffentliche Funktion: Referent, Bundesministerium für Verkehr (BMV) oder dessen Geschäftsbereich, bis 2025-07. Deutsche Lufthansa Aktiengesellschaft erhielt laut Lobbyregister Mittel von: Bundesministerium für Verkehr.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Verkehr"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"stand": "2026-10-29"
+}
+],
+"stand": "2026-10-29"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 2610001,
+"bis": 2620000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/38/50/867087/LH-JA-2025-d.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001474/88185",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-29",
+"etikett": "Eigenangabe",
+"version": 53
+}
+]
+}

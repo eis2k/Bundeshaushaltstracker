@@ -1,0 +1,119 @@
+{
+"id": "demeter",
+"name": "Demeter e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Darmstadt",
+"website": "www.demeter.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005058",
+"eintrag_id": 82675,
+"version": 6,
+"stand": "2026-07-08",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005058/82675",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c4/35/808459/Lobbyregister-Registereintraege-Detailansicht-R005058-2026-07-08_09-18-36.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesanstalt für Landwirtschaft und Ernährung (BLE)",
+"epl": "10",
+"von": 340001,
+"bis": 350000,
+"zweck": "Förderung verschiedener Forschungsprojekte wie z. B. Nutrinet, Vitifit, KleeLuzPlus, Zerti4.0, ÖKOSOWE und SENSE.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 340001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ute Rönnebeck",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005058/82675",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Nancy Schacht",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005058/82675",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Jörg Hütter",
+"funktion": "Leitung Politik, Richtlinien und Qualitätsentwicklung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005058/82675",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Lea Schuler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005058/82675",
+"stand": "2026-07-08"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 100001,
+"bis": 110000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/08/46/808458/73633-DeV-Bilanz-u-GuV-31-12-2025-Lobbyregister-mit-Deckblatt.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005058/82675",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-08",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

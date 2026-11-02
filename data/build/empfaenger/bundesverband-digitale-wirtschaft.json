@@ -1,0 +1,267 @@
+{
+"id": "bundesverband-digitale-wirtschaft",
+"name": "Bundesverband Digitale Wirtschaft (BVDW) e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.bvdw.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000257",
+"eintrag_id": 86585,
+"version": 26,
+"stand": "2026-09-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000257/86585",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/0c/1f/849831/Lobbyregister-Registereintraege-Detailansicht-R000257-2026-09-29_11-19-31.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "Zuwendung aus dem Bundeshaushalt, Einzelplan 30, Kapitel 04, Titel 68320, Haushaltsjahr 2023, für das Vorhaben Förderkennzeichen 16KIS1971. Das Forschungsprojekt „Sicher im Datenverkehr“ (SID) untersucht die Risikowahrnehmungen von Internetnutzer*innen, um auf dieser Grundlage verständlichere und somit effektivere Informationsmechanismen zu entwickeln. Nutzer*innen sollen so dazu befähigt werden, möglichst intuitiv souveräne Entscheidungen über die Verarbeitung ihrer individuellen Daten zu treffen.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 20001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Carsten Rasner",
+"funktion": "Geschäftsführender Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000257/86585",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Dirk Freytag",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000257/86585",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Moritz Holzgraefe",
+"funktion": "Vize-Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000257/86585",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Thomas Duhr",
+"funktion": "Vize-Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000257/86585",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Julian Simons",
+"funktion": "Vize-Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000257/86585",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Anke Herbener",
+"funktion": "Vize-Präsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000257/86585",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Corinna Hohenleitner",
+"funktion": "Vize-Präsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000257/86585",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Björn Kaspring",
+"funktion": "Vize-Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000257/86585",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Katharina  Czarnian",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000257/86585",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Janek Kuberzig",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000257/86585",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Katharina  Schneeberg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000257/86585",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Timo  Weigl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für eine Fraktion/Gruppe im Deutschen Bundestag",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2023-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000257/86585",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Daphne van Doorn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000257/86585",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Philipp Hagen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000257/86585",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Fabian Miller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000257/86585",
+"stand": "2026-09-29"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Timo  Weigl",
+"funktion_person": "Funktion für eine Fraktion/Gruppe im Deutschen Bundestag, Bundestag, bis 2023-03",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Timo  Weigl ist laut Lobbyregister Interessenvertretung bei Bundesverband Digitale Wirtschaft (BVDW) e.V. und hatte zuvor eine öffentliche Funktion: Funktion für eine Fraktion/Gruppe im Deutschen Bundestag, Bundestag, bis 2023-03. Bundesverband Digitale Wirtschaft (BVDW) e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Forschung, Technologie und Raumfahrt.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Forschung, Technologie und Raumfahrt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000257/86585",
+"stand": "2026-09-29"
+}
+],
+"stand": "2026-09-29"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 2450001,
+"bis": 2460000
+},
+"lobbyausgaben": {
+"von": 370001,
+"bis": 380000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/2c/ec/849827/BVDW-e-V-JA-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000257/86585",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-29",
+"etikett": "Eigenangabe",
+"version": 26
+}
+]
+}

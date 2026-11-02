@@ -1,0 +1,84 @@
+{
+"id": "ehrenamtes-im-bevoelkerungsschutz",
+"name": "Ehrenamtes im Bevölkerungsschutz",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "06-0628-68402",
+"text": "Förderung des Ehrenamtes im Bevölkerungsschutz",
+"epl": "06",
+"epl_text": "Bundesministerium des Innern",
+"werte": {
+"2015": {
+"soll": 500000,
+"ist": 498229
+},
+"2016": {
+"soll": 500000,
+"ist": 481235
+},
+"2017": {
+"soll": 500000,
+"ist": 467023
+},
+"2018": {
+"soll": 500000,
+"ist": 433504
+},
+"2019": {
+"soll": 750000,
+"ist": 724808
+},
+"2020": {
+"soll": 750000,
+"ist": 749791
+},
+"2021": {
+"soll": 750000,
+"ist": 749996
+},
+"2022": {
+"soll": 750000,
+"ist": 727551
+},
+"2023": {
+"soll": 2500000,
+"ist": 2490730
+},
+"2024": {
+"soll": 3450000,
+"ist": 3250177
+},
+"2025": {
+"soll": 3450000,
+"ist": 3440724
+},
+"2026": {
+"soll": 6450000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

@@ -1,0 +1,217 @@
+{
+"id": "inkota-netzwerk",
+"name": "INKOTA-netzwerk e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.inkota.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002331",
+"eintrag_id": 75859,
+"version": 8,
+"stand": "2026-05-12",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002331/75859",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/76/f9/735128/Lobbyregister-Registereintraege-Detailansicht-R002331-2026-05-12_09-46-20.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+"epl": "23",
+"von": 2440001,
+"bis": 2450000,
+"zweck": "Projektmittel aus dem BMZ-Titel Private Träger und dem Förderprogramm entwicklungspolitische Bildungsarbeit",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+"epl": "23",
+"von": 70001,
+"bis": 80000,
+"zweck": "Projektförderungen Lieferkette Kakao",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 2510002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Magdalena Freudenschuss",
+"funktion": "Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002331/75859",
+"stand": "2026-05-12"
+}
+},
+{
+"name": "Bernadette Albrecht",
+"funktion": "Stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002331/75859",
+"stand": "2026-05-12"
+}
+},
+{
+"name": "Emily May Büning",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002331/75859",
+"stand": "2026-05-12"
+}
+},
+{
+"name": "Arndt Gemmingen Freiherr von Massenbach",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002331/75859",
+"stand": "2026-05-12"
+}
+},
+{
+"name": "Berndt Hinzmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002331/75859",
+"stand": "2026-05-12"
+}
+},
+{
+"name": "Evelyn Bahn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002331/75859",
+"stand": "2026-05-12"
+}
+},
+{
+"name": "Isabell Nordhausen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002331/75859",
+"stand": "2026-05-12"
+}
+},
+{
+"name": "Michael Krämer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002331/75859",
+"stand": "2026-05-12"
+}
+},
+{
+"name": "Silke Bollmohr",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002331/75859",
+"stand": "2026-05-12"
+}
+},
+{
+"name": "Tina Marie Jahn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002331/75859",
+"stand": "2026-05-12"
+}
+},
+{
+"name": "Anne Neumann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002331/75859",
+"stand": "2026-05-12"
+}
+},
+{
+"name": "Mirjam Hägele",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002331/75859",
+"stand": "2026-05-12"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Sonstiges",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 280001,
+"bis": 290000
+},
+"mitgliedsbeitraege": {
+"von": 10001,
+"bis": 20000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e4/ae/735126/Finanzbericht_2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002331/75859",
+"abgerufen": "2026-11-02",
+"stand": "2026-05-12",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

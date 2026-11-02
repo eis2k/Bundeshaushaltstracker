@@ -1,0 +1,139 @@
+{
+"id": "waertsilae-deutschland",
+"name": "Wärtsilä Deutschland GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Hamburg, Germany",
+"website": "https://www.wartsila.com/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004508",
+"eintrag_id": 65388,
+"version": 5,
+"stand": "2026-07-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004508/65388",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/cd/c4/797566/Lobbyregister-Registereintraege-Detailansicht-R004508-2026-07-01_08-57-39.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Forschungszentrum Jülich GmbH",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "Verbundprojekt: Voice-to-Report - Effiziente Serviceberichterstellung durch innovative Assistenz und Generative Künstliche Intelligenz; Vorhaben: Definition, Anbindung und Pilotierung eines Demonstrators zur KI-gestützten Erstellung von intelligent verknüpften Serviceberichten",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 20001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Michael Kranz",
+"funktion": "Managing Director",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004508/65388",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Louis Strydom",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004508/65388",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Marko Vainikka",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004508/65388",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Nora Steiner-Forsberg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004508/65388",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Nils Twietmeyer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004508/65388",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Mikael Ohlström",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004508/65388",
+"stand": "2026-07-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/bd/bd/797564/Waertsilae-Deutschland-GmbH-Jahresabschluss-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004508/65388",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-01",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

@@ -1,0 +1,97 @@
+{
+"id": "deutsch-israelische-juristenvereinigung",
+"name": "Deutsch-Israelische Juristenvereinigung e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin ",
+"website": "www.dijv.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006138",
+"eintrag_id": 80433,
+"version": 5,
+"stand": "2026-06-28",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006138/80433",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/8a/71/780942/Lobbyregister-Registereintraege-Detailansicht-R006138-2026-06-28_22-45-55.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium der Justiz und für Verbraucherschutz",
+"epl": "07",
+"von": 30001,
+"bis": 40000,
+"zweck": "Zuwendungsart: Projektförderung Förderprogramm: Programm für Studenten, Referendare und junge Juristen und Juristinnen in der Hauptstadtregion Berlin-Brandenburg vom 7.9.2025 bis 14.09.2025 Rechtsgrundlage: Projektförderung im Haushaltsjahr 2025, Kapitel 0710, Titel 685 01, gemäß §§ 23 und 44 Bundeshaushaltsordnung (BHO)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 30001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Elmar  Esser",
+"funktion": "1. Vorsitzender ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006138/80433",
+"stand": "2026-06-28"
+}
+},
+{
+"name": "Zvi  Tirosh",
+"funktion": "2. Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006138/80433",
+"stand": "2026-06-28"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 70001,
+"bis": 80000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/46/9a/780941/DIJV-Kassenbericht-2023.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006138/80433",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-28",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

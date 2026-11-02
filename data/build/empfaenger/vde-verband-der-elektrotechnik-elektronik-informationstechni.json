@@ -1,0 +1,281 @@
+{
+"id": "vde-verband-der-elektrotechnik-elektronik-informationstechni",
+"name": "VDE Verband der Elektrotechnik Elektronik Informationstechnik e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Offenbach ",
+"website": "www.vde.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006792",
+"eintrag_id": 87463,
+"version": 15,
+"stand": "2026-10-12",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006792/87463",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/bd/2b/860306/Lobbyregister-Registereintraege-Detailansicht-R006792-2026-10-12_17-29-26.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 20001,
+"bis": 30000,
+"zweck": "Neue Schutzkonzepte für die sichere Energiewende - Vorhaben auf dem Gebiet des Normenwesens: Modul E19 - Neue Schutzkonzepte für die sicherer Energiewende 25-26.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 210001,
+"bis": 220000,
+"zweck": "e-Wettbewerbe 21-25 INVENT a CHIP - Umsetzung, Management und Weiterentwicklung der Wettbewerbe INVENT a CHIP, LABS for CHIPS und COSIMA - E-Wettbewerbe 21-25",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 60001,
+"bis": 70000,
+"zweck": "6G-Vernetzung im Medizinbereich, 6G Health: Verbundprojekt: Holistische Entwicklung leistungsfähiger 6G-Vernetzung für verteilte medizintechnische Systeme - 6G-Health -",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 70001,
+"bis": 80000,
+"zweck": "Digitalisierung im Energiebereich bei Gebäuden, Verbundvorhaben Wärmewende Nordwest: Digitalisierung zur Umsetzung von Wärmewende- und Mehrwertanwendungen für Gebäude, Campus, Quartiere und Kommunen im Nordwesten - Teilprojekt: Mehrwertdienste Wohnen – Normung und Standardisierung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 10001,
+"bis": 20000,
+"zweck": "IT-Sicherheitsvorfälle - CONTAIN: Verbundprojekt: Effiziente Reaktion auf IT-Sicherheitsvorfälle in transnationalen Lieferketten (CONTAIN) - Teilvorhaben: Effiziente Reaktion auf IT-Sicherheitsvorfälle durch Standardisierung und Best Practices",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 140001,
+"bis": 150000,
+"zweck": "IEC General Meeting (Veranstaltung) - Durchführung der IEC-Generalversammlung 2026 in Deutschland",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 60001,
+"bis": 70000,
+"zweck": "Verbundprojekt: BiFlex-Industrie - Bidirektionale Flexibilität durch Flottenkraftwerke in und um Unternehmen, Teilvorhaben: Normung und Standardisierung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "Verbundvorhaben: Redispatch3.0 - Demonstrationsprojekt Redispatch und Vermarktung nicht genutzter Flexibilitäten von Kleinstanlagen hinter intelligenten Messsystemen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "Verbundprojekt: safe.trAIn - Sichere KI am Beispiel fahrerloser Regionalzug; Teilvorhaben: Elektrotechnische Normung und Standardisierung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 20001,
+"bis": 30000,
+"zweck": "Verbundprojekt: DEER - Dezentraler Redispatch: Schnittstellen für die Flexibilitätsbereitstellung; Teilvorhaben: Normung und Standardisierung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 170001,
+"bis": 180000,
+"zweck": "Verbundvorhaben: NRM_H2 - Normungsroadmap Wasserstofftechnologien - Gesamtsystemintegration, Mobilität, Explosionsschutz, Brennstoffzelle, Sicherheit und Datenschnittstellen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 80001,
+"bis": 90000,
+"zweck": "GoGlobal2: Stärkung und internationale Koordinierung nationaler Industrie-4.0-Konzepte zur Umsetzung globaler, interoperabler und vertrauenswürdiger digitaler Ökosysteme",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 40001,
+"bis": 50000,
+"zweck": "Verbundvorhaben: energy-data-X - Energiedatenraum zum Datenaustausch in Gaia-X; Teilvorhaben: Normung und Standardisierung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 40001,
+"bis": 50000,
+"zweck": "Vorhaben auf dem Gebiet des Normenwesens: Modul F9 - Koordinierungsstelle zur Unterstützung des Deutschen Strategieforum/HLF",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 960014,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ansgar Hinz",
+"funktion": "Vorstandsvorsitzender (CEO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006792/87463",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Beate Mand",
+"funktion": "Stellv. Vorstandsvorsitzende (CFO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006792/87463",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Michael Teigeler",
+"funktion": "Bes.Vertreter § 30 BGB Wirkungskreis Erledigung lfd. Geschäfte im Gesch.ber. DKE; GF DKE",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006792/87463",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Wolfgang Niedziella",
+"funktion": "Bes.Vertreter § 30 BGB Wirkungskreis Erledigung lfd. Geschäfte im Gesch.ber. DKE; GF DKE",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006792/87463",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Markus Jaeger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006792/87463",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Heike Kerber",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006792/87463",
+"stand": "2026-10-12"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "abgeordneter_funktion",
+"person": "Daniel Rinkert",
+"funktion_person": "MdB, SPD",
+"funktion_beim_empfaenger": "Beratender Regionalleiter West, monatlich, 2.895,00 EUR, Brutto (bis 30.04.2025); monatlich, 2.955,67 EUR, Brutto (01.05. 2025 bis 31.01.2026); monatlich, 3.009,40 EUR, Brutto (ab 01.02.2026), zuzüglich 2025, 5.127,85 EUR, Brutto, zuzüglich 2026, 5.437,25 EUR, Brutto",
+"kategorie": "Entgeltliche Tätigkeiten neben dem Mandat",
+"abgleich": "exakt",
+"satz": "Daniel Rinkert (MdB, SPD) ist laut bundestag.de Beratender Regionalleiter West, monatlich, 2.895,00 EUR, Brutto (bis 30.04.2025); monatlich, 2.955,67 EUR, Brutto (01.05. 2025 bis 31.01.2026); monatlich, 3.009,40 EUR, Brutto (ab 01.02.2026), zuzüglich 2025, 5.127,85 EUR, Brutto, zuzüglich 2026, 5.437,25 EUR, Brutto bei VDE Verband der Elektrotechnik Elektronik Informationstechnik e.V.. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit; Ausschuss für Recht und Verbraucherschutz; Enquete-Kommission „Corona“. VDE Verband der Elektrotechnik Elektronik Informationstechnik e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Forschung, Technologie und Raumfahrt; Bundesministerium für Wirtschaft und Energie; Bundesamt für Wirtschaft und Ausfuhrkontrolle.",
+"ausschuesse": [
+"Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+"Ausschuss für Recht und Verbraucherschutz",
+"Enquete-Kommission „Corona“"
+],
+"geld_aus": [
+"Bundesministerium für Forschung, Technologie und Raumfahrt",
+"Bundesministerium für Wirtschaft und Energie",
+"Bundesamt für Wirtschaft und Ausfuhrkontrolle"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/R/rinkert_daniel-1046796",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Sonstiges",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 3000001,
+"bis": 3010000
+},
+"mitgliedsbeitraege": {
+"von": 1170001,
+"bis": 1180000
+},
+"lobbyausgaben": {
+"von": 610001,
+"bis": 620000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/2d/9f/860304/2025-GV.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006792/87463",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-12",
+"etikett": "Eigenangabe",
+"version": 15
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/R/rinkert_daniel-1046796",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

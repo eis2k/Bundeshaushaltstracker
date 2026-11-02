@@ -1,0 +1,170 @@
+{
+"id": "democ",
+"name": "democ e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://democ.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R008275",
+"eintrag_id": 86476,
+"version": 1,
+"stand": "2026-10-14",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008275/86476",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/0f/27/860990/Lobbyregister-Registereintraege-Detailansicht-R008275-2026-10-14_09-55-27.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium des Innern und für Heimat",
+"epl": "06",
+"von": 120001,
+"bis": 130000,
+"zweck": "Durchführung des Projekts \"MAAP – Monitoring und Analyse antisemitischer Protestdynamiken\" (gefördert durch den Beauftragten der Bundesregierung für jüdisches Leben in Deutschland und den Kampf gegen Antisemitismus)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 80001,
+"bis": 90000,
+"zweck": "Durchführung des Projekts \"ARAI – Analyse- und Recherche-Software zur KI-gestützten Analyse antidemokratischer Bewegungen online\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium des Innern und für Heimat",
+"epl": "06",
+"von": 60001,
+"bis": 70000,
+"zweck": "Durchführung des Projekts \"Teilhabe verteidigen - Prävention antisemitischer Online-Gefährdungen\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 260003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Linus Kebba-Pook",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008275/86476",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Grischa Stanjek",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008275/86476",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Tuija Wigard",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008275/86476",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Stephan Cleef",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008275/86476",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Puneh Abdi-Irdmoussa",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008275/86476",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Matthias Schröder",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008275/86476",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Gregor Weichbrodt",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008275/86476",
+"stand": "2026-10-14"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 10001,
+"bis": 20000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/b7/0d/860989/Jahresabschluss-2024_geschwarzt.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008275/86476",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-14",
+"etikett": "Eigenangabe",
+"version": 1
+}
+]
+}

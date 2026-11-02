@@ -1,0 +1,134 @@
+{
+"id": "rolls-royce-deutschland-ltd-und-co",
+"name": "Rolls-Royce Deutschland Ltd & Co KG",
+"art": "unternehmen",
+"rechtsform": "Sonstige Personengesellschaft",
+"sitz": "Blankenfelde-Mahlow",
+"website": "www.rolls-royce.com/country-sites/deutschland",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001826",
+"eintrag_id": 80820,
+"version": 14,
+"stand": "2026-06-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001826/80820",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c8/48/786768/Lobbyregister-Registereintraege-Detailansicht-R001826-2026-06-29_18-48-40.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 420001,
+"bis": 430000,
+"zweck": "AG-Turbo: Entwicklung von Turbomaschinen für eine erfolgreiche Energiewende durch gemeinsame Forschungsprojekte von Partnern aus Industrie, Hochschulen und Forschungszentren",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 7210001,
+"bis": 7220000,
+"zweck": "Luftfahrtforschungsprogramm: Förderung von Forschungsprojekten mit dem Ziel einer klimaneutralen, umweltverträglichen, leistungsfähigen, sichereren und passagierfreundlichen Luftfahrt, in dem die deutsche Luftfahrtindustrie dauerhaft und wesentlich zur Wertschöpfung in Deutschland beiträgt und sich zusammen mit ihren europäischen Partnern als Vorreiterin eines zukunftsorientierten und nachhaltigen Luftverkehrssystem etabliert.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 80001,
+"bis": 90000,
+"zweck": "Nationales Innovationsprogramm Wasserstoff- und Brennstoffzellentechnologie (NIP): Forschungsprojekt zur Marktvorbereitung von Wasserstoff- und Brennstoffzellentechnologien im Rahmen geltender Richtlinien für Forschung, Entwicklung und Innovation (FuEuI)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 7710003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Dirk Geisinger",
+"funktion": "Vorsitzender der Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001826/80820",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Jörg Au",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001826/80820",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "René Bernstein",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001826/80820",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Hakan Cosansu",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001826/80820",
+"stand": "2026-06-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 380001,
+"bis": 390000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/c1/b4/786767/20250910-RRD-Testatsexemplar-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001826/80820",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-29",
+"etikett": "Eigenangabe",
+"version": 14
+}
+]
+}

@@ -1,0 +1,113 @@
+{
+"id": "easymile",
+"name": "EasyMile",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "https://www.easymile.com/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006044",
+"eintrag_id": 70457,
+"version": 4,
+"stand": "2026-01-05",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006044/70457",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/71/ee/678139/Lobbyregister-Registereintraege-Detailansicht-R006044-2026-01-05_14-27-40.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Digitales und Verkehr",
+"epl": "12",
+"von": 760001,
+"bis": 770000,
+"zweck": "Einführung eines wetterunabhängigen und hochautomatisierten Ridesharing-Dienstes im Landkreis Kelheim als Ergänzung zum öffentlichen Nahverkehr",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 1,
+"bis": 10000,
+"zweck": "Aufbau und dauerhafte Betrieb eines (separierten & nicht StVO-gebundenen) Testfeldes für automatisiertes und vernetztes Fahren",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 1560001,
+"bis": 1570000,
+"zweck": "Entwicklung und Demonstration eines Gesamtsystems zum Betrieb von elektrischen Kraftfahrzeugen mit autonomen Fahrfunktionen in festgelegten Betriebsbereichen ohne Sicherheitsbegleiter.",
+"geschaeftsjahr": "2023"
+}
+],
+"lobby_untergrenze_bund": 2320003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Arwed Schmidt",
+"funktion": "Managing Director EasyMile GmbH & Director Strategic Initiatives",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006044/70457",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Gilbert Gagnaire",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006044/70457",
+"stand": "2026-01-05"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 60001,
+"bis": 70000
+},
+"geschaeftsjahr": "2023",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/5c/cd/678077/Easymile_GmbH_-_Bericht_1_mU_signed.pdf",
+"geschaeftsjahr": "2022",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006044/70457",
+"abgerufen": "2026-11-02",
+"stand": "2026-01-05",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

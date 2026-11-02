@@ -1,0 +1,95 @@
+{
+"id": "enterprise-autovermietung-deutschland-b-v-und-co",
+"name": "Enterprise Autovermietung Deutschland B.V. & Co. KG",
+"art": "unternehmen",
+"rechtsform": "Kommanditgesellschaft (KG)",
+"sitz": "Eschborn",
+"website": "https://www.enterprisemobility.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001941",
+"eintrag_id": 83361,
+"version": 12,
+"stand": "2026-07-20",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001941/83361",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/30/2d/815980/Lobbyregister-Registereintraege-Detailansicht-R001941-2026-07-20_07-39-46.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Förderprogramm für Klimaschonende Nutzfahrzeuge und Infrastruktur (KSNI)",
+"epl": null,
+"von": 7330001,
+"bis": 7340000,
+"zweck": "Zuwendungen erhalten im Geschäftsjahr 01.08.2024 bis 31.07.2025 zur Förderung von Tank- und Ladeinfrastruktur - Fördergegenstand: KsI sowie zur Förderung von leichten und schweren Nutzfahrzeugen mit alternativen, klimaschonenden Antrieben - Fördergegenstand: KsN",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 7330001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Russell Alan Willey",
+"funktion": "Geschäftsführer der Komplementärin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001941/83361",
+"stand": "2026-07-20"
+}
+},
+{
+"name": "Olaf Zinne",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001941/83361",
+"stand": "2026-07-20"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 100001,
+"bis": 110000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/83/52/815977/Enterprise-Autovermietung-D-B-V-Co-KG_JAP_31-07-2025_TE-final_signed_25-003141.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001941/83361",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-20",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

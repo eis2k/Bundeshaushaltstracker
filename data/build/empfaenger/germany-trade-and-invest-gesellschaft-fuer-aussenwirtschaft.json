@@ -1,0 +1,181 @@
+{
+"id": "germany-trade-and-invest-gesellschaft-fuer-aussenwirtschaft",
+"name": "Germany Trade and Invest - Gesellschaft für Außenwirtschaft und Standortmarketing mbH (GTAI)",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "www.gtai.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003826",
+"eintrag_id": 88087,
+"version": 11,
+"stand": "2026-10-28",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003826/88087",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/96/f8/866121/Lobbyregister-Registereintraege-Detailansicht-R003826-2026-10-28_09-10-46.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 39740001,
+"bis": 39750000,
+"zweck": "Institutionelle Zuwendungen des BMWE (Fehlbedarfsfinanzierung)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)/Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)",
+"epl": "09",
+"von": 12590001,
+"bis": 12600000,
+"zweck": "Zuweisung des BAFA-Personals auf Grundlage des Gesetzes über das Personal der Bundesagentur für Außenwirtschaft (BfAI-Personalgesetz - BfAIPG)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+"epl": "23",
+"von": 90001,
+"bis": 100000,
+"zweck": "Zuschuss für den Aufbau eines gemeinsamen Portals",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 52420003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Julia Braune",
+"funktion": "Erste Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003826/88087",
+"stand": "2026-10-28"
+}
+},
+{
+"name": "Sönke Thoms",
+"funktion": "Chief Administrative Officer (CAO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003826/88087",
+"stand": "2026-10-28"
+}
+},
+{
+"name": "Nicholas Roland",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003826/88087",
+"stand": "2026-10-28"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "abgeordneter_funktion",
+"person": "Elisabeth Kaiser",
+"funktion_person": "MdB, SPD",
+"funktion_beim_empfaenger": "Stellv. Vorsitzende des Aufsichtsrates (ab 25.06.2025)",
+"kategorie": "Funktionen in Unternehmen",
+"abgleich": "exakt",
+"satz": "Elisabeth Kaiser (MdB, SPD) ist laut bundestag.de Stellv. Vorsitzende des Aufsichtsrates (ab 25.06.2025) bei Germany Trade and Invest - Gesellschaft für Außenwirtschaft und Standortmarketing mbH (GTAI). Germany Trade and Invest - Gesellschaft für Außenwirtschaft und Standortmarketing mbH (GTAI) erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Energie (BMWE); Bundesministerium für Wirtschaft und Energie (BMWE)/Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA); Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Wirtschaft und Energie (BMWE)",
+"Bundesministerium für Wirtschaft und Energie (BMWE)/Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)",
+"Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/K/kaiser_elisabeth-1045268",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Carsten Schneider",
+"funktion_person": "MdB, SPD",
+"funktion_beim_empfaenger": "Mitglied des Aufsichtsrates, von Amts wegen (bis 25.06.2025)",
+"kategorie": "Funktionen in Unternehmen",
+"abgleich": "exakt",
+"satz": "Carsten Schneider (MdB, SPD) ist laut bundestag.de Mitglied des Aufsichtsrates, von Amts wegen (bis 25.06.2025) bei Germany Trade and Invest - Gesellschaft für Außenwirtschaft und Standortmarketing mbH (GTAI). Germany Trade and Invest - Gesellschaft für Außenwirtschaft und Standortmarketing mbH (GTAI) erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Energie (BMWE); Bundesministerium für Wirtschaft und Energie (BMWE)/Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA); Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Wirtschaft und Energie (BMWE)",
+"Bundesministerium für Wirtschaft und Energie (BMWE)/Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)",
+"Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/S/schneider_carsten-1047194",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/9d/27/866120/Endgueltiges-Testat-JAP-2025-GTAI.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003826/88087",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-28",
+"etikett": "Eigenangabe",
+"version": 11
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/K/kaiser_elisabeth-1045268",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/S/schneider_carsten-1047194",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

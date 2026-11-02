@@ -1,0 +1,107 @@
+{
+"id": "stuttgarter-strassenbahnen",
+"name": "Stuttgarter Straßenbahnen AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Stuttgart",
+"website": "ssb-ag.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007986",
+"eintrag_id": 76483,
+"version": 2,
+"stand": "2026-05-10",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007986/76483",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c1/20/734421/Lobbyregister-Registereintraege-Detailansicht-R007986-2026-05-10_16-36-40.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bund",
+"epl": "60",
+"von": 58990001,
+"bis": 59000000,
+"zweck": "Infrastrukturförderung GVFG",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 58990001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Annette Schwarz",
+"funktion": "Vorständin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007986/76483",
+"stand": "2026-05-10"
+}
+},
+{
+"name": "Mathias Hüske",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007986/76483",
+"stand": "2026-05-10"
+}
+},
+{
+"name": "Thomas Moser",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007986/76483",
+"stand": "2026-05-10"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/17/96/734420/Geschaeftsbericht_2024_SSB.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007986/76483",
+"abgerufen": "2026-11-02",
+"stand": "2026-05-10",
+"etikett": "Eigenangabe",
+"version": 2
+}
+]
+}

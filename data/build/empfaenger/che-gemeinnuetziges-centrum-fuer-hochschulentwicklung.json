@@ -1,0 +1,154 @@
+{
+"id": "che-gemeinnuetziges-centrum-fuer-hochschulentwicklung",
+"name": "CHE Gemeinnütziges Centrum für Hochschulentwicklung GmbH",
+"art": "verein_stiftung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Gütersloh",
+"website": "www.che.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004310",
+"eintrag_id": 77247,
+"version": 7,
+"stand": "2026-06-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004310/77247",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/d4/6d/783072/Lobbyregister-Registereintraege-Detailansicht-R004310-2026-06-29_12-06-21.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung (BMBF)",
+"epl": "30",
+"von": 820001,
+"bis": 830000,
+"zweck": "Zuwendung aus dem Bundeshaushalt, Einzelplan 30, Kaptil 03, Titel 68518, Haushaltsjahr 2021: \"Hochschulforum Digitalisierung 2025\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung (BMBF)",
+"epl": "30",
+"von": 60001,
+"bis": 70000,
+"zweck": "Zuwendung aus dem Bundeshaushalt, Einzelplan 30, Kapitel 03, Titel 68517, Haushaltsjahr 2022: \"TransForM - Transfer von Erkenntnissen aus der Hochschul- und Wissenschaftsforschung in das Management von Hochschulen\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung (BMBF)",
+"epl": "30",
+"von": 50001,
+"bis": 60000,
+"zweck": "Zuwendung aus dem Bundeshaushalt, Einzelplan 30, Kapitel 03, Titel 68517, Haushaltsjahr 2023: \"Verbund nsh_inno - Nicht-staatliche Hochschulen im Innovationssystem-Kontext; Teilvorhaben: Clusterung und Wissenstransfer\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "Zuwendung aus dem Bundeshaushalt, Einzelplan 30, Kapitel 03, Titel 68517, Haushaltsjahr 2025: \"Verbundprojekt: Transdisziplinäre Forschung an Hochschulen für Angewandte Wissenschaften - Status quo und Potenziale eines schlafenden Riesen - TDR4HAW; Teilvorhaben: Forschung und HAW-Landschaft in Deutschland",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 950004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Frank Ziegele",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004310/77247",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Ulrich Müller",
+"funktion": "Prokurist",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004310/77247",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Sigrun Nickel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004310/77247",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Julius Friedrich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004310/77247",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Bianca Brinkmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004310/77247",
+"stand": "2026-06-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 1890001,
+"bis": 1900000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/60/b3/783068/40076455_End_TE_JA-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004310/77247",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-29",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

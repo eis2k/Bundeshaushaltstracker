@@ -1,0 +1,107 @@
+{
+"id": "institut-fuer-angewandte-kulturforschung",
+"name": "Institut für angewandte Kulturforschung e.V. (ifak)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Göttingen",
+"website": "www.ifak-goettingen.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004286",
+"eintrag_id": 86856,
+"version": 9,
+"stand": "2026-10-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004286/86856",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/d2/95/854447/Lobbyregister-Registereintraege-Detailansicht-R004286-2026-10-01_10-36-31.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) über Engagement Global gGmbH",
+"epl": "23",
+"von": 520001,
+"bis": 530000,
+"zweck": "Durchführung eines Programms zum Globalen Lernen mit Referent:innen aus der Entwicklungszusammenarbeit und Migrant:innen aus dem Globalen Süden; Umsetzung eines Projektes zur Bekanntmachung der 17 weltweiten Nachhaltigkeitsziele; Umsetzung des Eine-Welt-Promotor:innenprogramms zur Beratung und Vernetzung entwicklungspolitischer Initiativen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Arbeit und Soziales über die Bildungsgenossenschaft Südniedersachsen eG",
+"epl": "11",
+"von": 110001,
+"bis": 120000,
+"zweck": "Kofinanzierung des ESF-Programms zur Arbeitsmarktintegration von Asylsuchenden",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 630002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Regina Begander",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004286/86856",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Bernadette Tusch",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004286/86856",
+"stand": "2026-10-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges",
+"Wirtschaftliche Tätigkeit",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/f9/bf/854446/ifak-Jahresergebnis-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004286/86856",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-01",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

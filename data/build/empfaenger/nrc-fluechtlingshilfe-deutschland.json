@@ -1,0 +1,215 @@
+{
+"id": "nrc-fluechtlingshilfe-deutschland",
+"name": "NRC Flüchtlingshilfe Deutschland gGmbH",
+"art": "verein_stiftung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "www.nrc-hilft.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000987",
+"eintrag_id": 80012,
+"version": 9,
+"stand": "2026-06-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000987/80012",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/21/44/772975/Lobbyregister-Registereintraege-Detailansicht-R000987-2026-06-24_13-18-24.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Auswärtiges Amt der Bundesrepublik Deutschland",
+"epl": "05",
+"von": 3400001,
+"bis": 3410000,
+"zweck": "Multisectoral response to meet the humanitarian needs of people affected by displacement and vulnerable host communities in Ethiopia and Sudan DEFM2404",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Auswärtiges Amt der Bundesrepublik Deutschland",
+"epl": "05",
+"von": 6020001,
+"bis": 6030000,
+"zweck": "Provision of life-saving assistance to conflict and displacement affected people Romania and the Republic of Moldova DEFM2401",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "KfW Bankengruppe",
+"epl": "09",
+"von": 6360001,
+"bis": 6370000,
+"zweck": "Libya LYFM2211 Building resilient, peaceful and inclusive communities in Libya through a holistic, rights-based and multi-sectoral programmatic approach KfW BMZ REF 2022-18410",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "KfW-NRC_BMZ 2023 40 529",
+"epl": "09",
+"von": 3310001,
+"bis": 3320000,
+"zweck": "Supporting Solutions: Strengthening the safety, dignity and resilience of conflict-affected populations in Ukraine through integrated and sustainable approaches to infrastructure, housing and education _Grant and Project Agreement_KfW-NRC_BMZ 2023 40 529 UAFM2414 UAFM2514",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Auswärtiges Amt der Bundesrepublik Deutschland",
+"epl": "05",
+"von": 2270001,
+"bis": 2280000,
+"zweck": "Provision of life-saving assistance to conflict- and displacement affected people and vulnerable communities in Ukraine and Moldova",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Auswärtiges Amt der Bundesrepublik Deutschland",
+"epl": "05",
+"von": 3470001,
+"bis": 3480000,
+"zweck": "Humanitarian assistance and support in early recovery for displaced Afghans in South Central Asia (Afghanistan and Iran) DEFM2402",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Auswärtiges Amt der Bundesrepublik Deutschland",
+"epl": "05",
+"von": 11210001,
+"bis": 11220000,
+"zweck": "WASH, Schutz, Unterkünfte und Ernährungssicherung im Libanon, in Gaza, Ägypten, Nordwest-Syrien und Nordost-Syrien DEFM2403",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "KfW Bankengruppe",
+"epl": "09",
+"von": 820001,
+"bis": 830000,
+"zweck": "Building resilient, peaceful and inclusive communities in Libya through a holistic, rights-based and multi-sectoral programmatic approach LYFM2508 RESILIENT FOUNDATIONS PHASE II BMZ 2024 18 226B",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "KfW Bankengruppe",
+"epl": "09",
+"von": 480001,
+"bis": 490000,
+"zweck": "AL-BEIT Ameliorating the Lived and Built Environment to Initiate Transformation BMZ No 2022 67 623 SDFM2421",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 37340009,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Timm Büchner",
+"funktion": "Senior Institutional Partnership Adviser Germany",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000987/80012",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Florian Mähler",
+"funktion": "Head of Finance and Admin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000987/80012",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Maike  Roettger",
+"funktion": "Geschäftsführung ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000987/80012",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Timm Büchner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000987/80012",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Sabine Sauer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000987/80012",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Damjan Vinko",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000987/80012",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Paul Hausmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000987/80012",
+"stand": "2026-06-24"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 70001,
+"bis": 80000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e0/88/772973/20260331_elektronisch-signiert_Bericht-zur-JAP-2025-der-NRC-Fluechtlingshilfe-DE-gGmbH_ES34488660_V0-4.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000987/80012",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-24",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

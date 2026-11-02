@@ -1,0 +1,121 @@
+{
+"id": "bundesverband-fuer-fachgerechten-natur-tier-und-artenschutz",
+"name": "Bundesverband für fachgerechten Natur-, Tier- und Artenschutz e.V. (BNA)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Hambrücken",
+"website": "https://bna-ev.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002989",
+"eintrag_id": 80875,
+"version": 10,
+"stand": "2026-06-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002989/80875",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/81/64/786175/Lobbyregister-Registereintraege-Detailansicht-R002989-2026-06-29_17-06-42.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Naturschutz (BfN)",
+"epl": "16",
+"von": 40001,
+"bis": 50000,
+"zweck": "Durchführung des Forschungs- und Entwicklungsprojektes \"Empfehlungen zum Einsatz von Transpondern als Kennzeichnungsmethode\" (Förderkennzeichen 3524820500 - Sch). Im Rahmen des Projekts wurden bestehende Vorgaben zur Kennzeichnung geschützter Wirbeltierarten umfassend analysiert und bewertet. Ziel war die Überprüfung aktueller Methoden unter Berücksichtigung neuer technischer Entwicklungen, wissenschaftlicher Erkenntnisse und tierschutzrechtlicher Anforderungen. Grundlage bildeten eine Literaturrecherche sowie die Auswertung praktischer Erfahrungen. Der Fokus lag auf kleineren Tierarten, für die bisherige Transponderlösungen nur eingeschränkt geeignet sind. Moderne Transponder (Micro- und Nanotechnologie) wurden hinsichtlich Eignung, Zuverlässigkeit und Auswirkungen auf das Tierwohl untersucht. Ergänzend wurden alternative Methoden wie Fotodokumentation, Mikropunkte und genetische Verfahren bewertet. Daraus wurden Empfehlungen sowie Vorschläge zur Anpassung der BArtSchV abgeleitet.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 40001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Gisela von Hegel",
+"funktion": "Präsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002989/80875",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Kurt Landes",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002989/80875",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "René Wüst",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002989/80875",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Martin Singheiser",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002989/80875",
+"stand": "2026-06-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 170001,
+"bis": 180000
+},
+"mitgliedsbeitraege": {
+"von": 60001,
+"bis": 70000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/6d/09/786172/BNA_Jahresabschluss_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002989/80875",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-29",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

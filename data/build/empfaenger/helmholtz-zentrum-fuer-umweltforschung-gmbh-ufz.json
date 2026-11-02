@@ -1,0 +1,136 @@
+{
+"id": "helmholtz-zentrum-fuer-umweltforschung-gmbh-ufz",
+"name": "Helmholtz-Zentrum für Umweltforschung GmbH - UFZ",
+"art": "forschung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Leipzig",
+"website": "www.ufz.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001124",
+"eintrag_id": 80421,
+"version": 12,
+"stand": "2026-06-25",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001124/80421",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f3/a3/777315/Lobbyregister-Registereintraege-Detailansicht-R001124-2026-06-25_16-24-49.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesrepublik Deutschland",
+"epl": "60",
+"von": 90280001,
+"bis": 90290000,
+"zweck": "Institutionelle Zuwendung mit Zuwendungsbescheid für den Betrieb und die Investitionen des UFZ sowie Projektförderungen (Personalmittel, Sachmittel und Investitionsmittel für spezifische Forschungsprojekte)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Hermann von Helmholtz-Gemeinschaft Deutscher Forschungszentren e.V.",
+"epl": null,
+"von": 3230001,
+"bis": 3240000,
+"zweck": "Projektförderungen aus dem Impuls- und Vernetzungsfonds",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Forschungsgemeinschaft e.V.",
+"epl": null,
+"von": 6560001,
+"bis": 6570000,
+"zweck": "Sachbeihilfen und Projektförderungen im Rahmen - von DFG-Schwerpunktprogrammen (SPP), - von DFG-Sonderforschungsbereichen (SFB), - von Graduiertenkollegien, - des Förderinstruments \"Aufbau internationaler Kooperationen\", - des Emmy Noether Programms, - der nationalen Forschungsdateninfrastruktur (NFDI) - eines DFG-Forschungszentrums",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Alexander von Humboldt-Stiftung",
+"epl": null,
+"von": 40001,
+"bis": 50000,
+"zweck": "Förderung von Stipendiat*innen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Leibniz-Gemeinschaft",
+"epl": null,
+"von": 40001,
+"bis": 50000,
+"zweck": "Projektförderungen; Bewilligung von Mitteln im Rahmen des Programms \"Leibniz-Kooperative Exzellenz\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsch-Polnische Wissenschaftsstiftung (DPWS)",
+"epl": null,
+"von": 30001,
+"bis": 40000,
+"zweck": "Projektförderung für ein Forschungsprojekt im Rahmen des DPWS Call 2023",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 100180006,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Sabine Matthiä",
+"funktion": "Administrative Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001124/80421",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Katrin Böhning-Gaese",
+"funktion": "Wissenschaftliche Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001124/80421",
+"stand": "2026-06-25"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 790001,
+"bis": 800000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 30001,
+"bis": 40000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/6d/3b/777313/Jahresabschluss_UFZ_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001124/80421",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-25",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

@@ -1,0 +1,85 @@
+{
+"id": "mpiriq-science-technologies",
+"name": "MPiriQ Science Technologies GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "München",
+"website": "www.mpiriq.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007791",
+"eintrag_id": 72287,
+"version": 2,
+"stand": "2026-02-11",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007791/72287",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/fe/5e/693191/Lobbyregister-Registereintraege-Detailansicht-R007791-2026-02-11_13-45-13.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "Forschungszulage",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 20001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Markus Haug",
+"funktion": "Geschäftsführer und Gründer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007791/72287",
+"stand": "2026-02-11"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/d8/e3/693190/Jahresabschluss_-final-Unterlagen-zum-Jahresabschluss-I-Accessus-Science-Technologies-NEU-2024.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007791/72287",
+"abgerufen": "2026-11-02",
+"stand": "2026-02-11",
+"etikett": "Eigenangabe",
+"version": 2
+}
+]
+}

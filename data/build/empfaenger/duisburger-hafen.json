@@ -1,0 +1,123 @@
+{
+"id": "duisburger-hafen",
+"name": "Duisburger Hafen AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Duisburg",
+"website": "www.duisport.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003218",
+"eintrag_id": 72633,
+"version": 7,
+"stand": "2026-06-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003218/72633",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/2c/cc/781740/Lobbyregister-Registereintraege-Detailansicht-R003218-2026-06-29_09-52-36.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Digitales und Verkehr (BMDV)",
+"epl": "12",
+"von": 240001,
+"bis": 250000,
+"zweck": "Forschungsförderung im Rahmen Initiative \"Innovative Hafentechnologien\" (IHATEC); Förderung im Rahmen der Initiative \"Digitale Testfelder in Häfen\" (DigiTest)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz (BMWK)",
+"epl": "09",
+"von": 280001,
+"bis": 290000,
+"zweck": "Forschungsförderung im Rahmen anwendungsorientierter nichtnukleare FuE im 7. Energieforschungsprogramm der Bundesregierung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Arbeit und Soziales (BMAS)",
+"epl": "11",
+"von": 30001,
+"bis": 40000,
+"zweck": "Forschungsförderung im Rahmen des Bundesprogrammes \"Zukunftsfähige Unternehmen und Verwaltungen im digitalen Wandel\" - EXP, Handlungsschwerpunkt Künstliche Intelligenz (KI)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 550003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Markus Bangen",
+"funktion": "Vorsitzender des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003218/72633",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Lars Nennhaus",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003218/72633",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Giordana Sperling-Doppstadt",
+"funktion": "Mitglied des Vorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003218/72633",
+"stand": "2026-06-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 30001,
+"bis": 40000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/1e/24/781739/E_11022736_2025_17940_BSV_JAP_DHAG-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003218/72633",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-29",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

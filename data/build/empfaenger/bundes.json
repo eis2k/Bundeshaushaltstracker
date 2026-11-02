@@ -1,0 +1,104 @@
+{
+"id": "bundes",
+"name": "Bundes",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "04-0405-89417",
+"text": "Zuschuss des Bundes für Investitionen an die \"Sydslesvigsk Forening\"",
+"epl": "04",
+"epl_text": "Bundeskanzlerin und Bundeskanzleramt",
+"werte": {
+"2015": {
+"soll": 150000,
+"ist": 49456
+}
+}
+},
+{
+"id": "04-0452-89417",
+"text": "Zuschuss des Bundes für Investitionen an die Sydslesvigsk Forening",
+"epl": "04",
+"epl_text": "Bundeskanzler und Bundeskanzleramt",
+"werte": {
+"2016": {
+"soll": 150000,
+"ist": 150000
+},
+"2017": {
+"soll": 150000,
+"ist": 150000
+},
+"2018": {
+"soll": 150000,
+"ist": 150000
+},
+"2019": {
+"soll": 150000,
+"ist": 150000
+},
+"2020": {
+"soll": 150000,
+"ist": 150000
+},
+"2021": {
+"soll": 150000,
+"ist": 150000
+},
+"2022": {
+"soll": 150000,
+"ist": 150000
+},
+"2023": {
+"soll": 150000,
+"ist": 150000
+},
+"2024": {
+"soll": 150000,
+"ist": 150000
+},
+"2025": {
+"soll": 150000,
+"ist": 150000
+}
+}
+},
+{
+"id": "11-1110-68502",
+"text": "Zuweisung des Bundes zur Errichtung eines Fonds zur Abmilderung von Härtefällen in der Rentenüberleitung sowie für Spätaussiedler und jüdische Zuwanderer",
+"epl": "11",
+"epl_text": "Bundesministerium für Arbeit und Soziales",
+"werte": {
+"2022": {
+"soll": 500000000,
+"ist": 500000000
+},
+"2023": {
+"soll": 0,
+"ist": 0
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

@@ -1,0 +1,175 @@
+{
+"id": "hansgrohe",
+"name": "Hansgrohe SE",
+"art": "unternehmen",
+"rechtsform": "Europäische Aktiengesellschaft (SE)",
+"sitz": "Schiltach",
+"website": "https://www.hansgrohe-group.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005487",
+"eintrag_id": 88195,
+"version": 8,
+"stand": "2026-10-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005487/88195",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/34/d2/867270/Lobbyregister-Registereintraege-Detailansicht-R005487-2026-10-30_09-30-55.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Wirtschaft und Ausführkontrolle (BAFA)",
+"epl": null,
+"von": 170001,
+"bis": 180000,
+"zweck": "Erhalt eines BAFA-Zuschusses für die Dachsanierung an einem Produktionsgebäude am Standort Offenburg",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Investitions- und Entwicklungsgesellschaft mbH (DEG)",
+"epl": null,
+"von": 40001,
+"bis": 50000,
+"zweck": "Die DEG – Deutsche Investitions- und Entwicklungsgesellschaft mbH hat durch ihren Zuschuss die Schaffung von Arbeitsplätzen in Serbien unterstützt.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMBF)",
+"epl": "30",
+"von": 40001,
+"bis": 50000,
+"zweck": "Zuwendung des BMBF im Rahmen des Projekts „DigiChrom“ zur Entwicklung und Erprobung digitaler Werkzeuge zur Optimierung von galvanischen Schichten.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "Erhalt eines BAFA-Zuschusses für die Entwicklung von Transformationskonzepten für die deutschen Produktions- und Verwaltungsstandorte",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 260004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Hans-Jürgen Kalmbach",
+"funktion": "Vorsitzender des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005487/88195",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Frank Semling",
+"funktion": "Vorstand Operations und Arbeitsdirektor",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005487/88195",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Martial Gil",
+"funktion": "Vorstand Finanzen",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005487/88195",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Christophe Gourlan",
+"funktion": "Vorstand Vertrieb",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005487/88195",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Sandra Richter",
+"funktion": "Personalvorständin und Arbeitsdirektorin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005487/88195",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Fiona Felix",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005487/88195",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Frank Wiehmeier",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005487/88195",
+"stand": "2026-10-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 170001,
+"bis": 180000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/1e/2d/867269/Stuttgart_HRB_740779_Hansgrohe-SE_Konzernlagebericht-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005487/88195",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-30",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

@@ -1,0 +1,152 @@
+{
+"id": "flughafen-berlin-brandenburg",
+"name": "Flughafen Berlin Brandenburg GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Schönefeld",
+"website": "www.berlin-airport.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006601",
+"eintrag_id": 82178,
+"version": 5,
+"stand": "2026-07-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006601/82178",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/59/1e/804357/Lobbyregister-Registereintraege-Detailansicht-R006601-2026-07-03_13-09-44.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesrepublik Deutschland über TÜV Rheinland Consulting GmbH",
+"epl": "60",
+"von": 20001,
+"bis": 30000,
+"zweck": "mFUND – Unsere Förderung für die Mobilität der Zukunft // i-NOTAM",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 870001,
+"bis": 880000,
+"zweck": "Wärmepreisbremse gemäß §§ 1 ff. EWPBG",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 60001,
+"bis": 70000,
+"zweck": "Förderung für Beleuchtungsumrüstung im Terminal 1",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr",
+"epl": "12",
+"von": 20001,
+"bis": 30000,
+"zweck": "Förderung für Ladeinfrastruktur auf der Luftseite",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 970004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Aletta von Massenbach",
+"funktion": "Vorsitzende der Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006601/82178",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "István Szabó",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006601/82178",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "Axel Eschment",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006601/82178",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "Kai Bonitz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006601/82178",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "Dominika Broich-Franz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006601/82178",
+"stand": "2026-07-03"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 270001,
+"bis": 280000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/d0/4c/804356/2025-geschaeftsbericht.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006601/82178",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-03",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

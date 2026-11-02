@@ -1,0 +1,116 @@
+{
+"id": "deutsch-ecuadorianische-industrie-und-handelskammer",
+"name": "Deutsch-Ecuadorianische Industrie- und Handelskammer (AHK Ecuador)",
+"art": "verein_stiftung",
+"rechtsform": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+"sitz": "Quito",
+"website": "https://www.ecuador.ahk.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004044",
+"eintrag_id": 58466,
+"version": 8,
+"stand": "2025-06-17",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004044/58466",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ae/0e/540553/Lobbyregister-Registereintraege-Detailansicht-R004044-2025-06-17_16-09-58.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz: BMWK",
+"epl": "09",
+"von": 490001,
+"bis": 500000,
+"zweck": "1. Plattform zur Darstellung Deutschlands und seiner Wirtschaft im Ausland 2. Kostenlose Erstberatungen und Aktivitäten zur Erschließung bi- und multilateraler Geschäftsmöglichkeiten mit besonderem Fokus auf Markteintritt und Markterweiterung für kleine und mittlere Unternehmen KMU 3. Repräsentanz von Germany Trade and Invest",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "Deutsche Gesellschaft für Internationale Zusammenarbeit: GIZ",
+"epl": "23",
+"von": 100001,
+"bis": 110000,
+"zweck": "1. Aufbau von Schulungen mit dem Ziel das Thema: Prävention von Gewalt gegen Frauen im Privatsektor zu adressieren und Unternehmen bei der Einführung einer entsprechenden Politik zu unterstützen 2. Erweiterung einer zuvor entwickelten digitalen Plattform zur Berufsorientierung (KI-basiert)",
+"geschaeftsjahr": "2023"
+}
+],
+"lobby_untergrenze_bund": 590002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Wilfried Meinlschmidt",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004044/58466",
+"stand": "2025-06-17"
+}
+},
+{
+"name": "Jörg Zehnle",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004044/58466",
+"stand": "2025-06-17"
+}
+},
+{
+"name": "Ulrike Stieler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004044/58466",
+"stand": "2025-06-17"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 120001,
+"bis": 130000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2023",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/6a/5b/540552/Jahresabschluss_AHK-Ecuador_2023.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004044/58466",
+"abgerufen": "2026-11-02",
+"stand": "2025-06-17",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

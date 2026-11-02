@@ -1,0 +1,626 @@
+{
+"id": "siemens",
+"name": "Siemens AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "München",
+"website": "https://www.siemens.com/de-de/contact",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001875",
+"eintrag_id": 87507,
+"version": 38,
+"stand": "2026-10-13",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/fa/71/860776/Lobbyregister-Registereintraege-Detailansicht-R001875-2026-10-13_15-31-12.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 7670001,
+"bis": 7680000,
+"zweck": "Forschungs- und Entwicklungsprojekte. Details können dem Förderkatalog der Bundesregierung entnommen werden: https://foerderportal.bund.de/foekat/jsp/SucheAction.do?actionMode=searchmask (Zuwendungsempfänger = Siemens Aktiengesellschaft)",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 14940001,
+"bis": 14950000,
+"zweck": "Forschungs- und Entwicklungsprojekte. Details können dem Förderkatalog der Bundesregierung entnommen werden: https://foerderportal.bund.de/foekat/jsp/SucheAction.do?actionMode=searchmask (Zuwendungsempfänger = Siemens Aktiengesellschaft)",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Projektträger Forschungszentrum Jülich GmbH",
+"epl": null,
+"von": 180001,
+"bis": 190000,
+"zweck": "Forschungs- und Entwicklungsprojekte. Details können dem Förderkatalog der Bundesregierung entnommen werden: https://foerderportal.bund.de/foekat/jsp/SucheAction.do?actionMode=searchmask (Zuwendungsempfänger = Siemens Aktiengesellschaft)",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)",
+"epl": "30",
+"von": 150001,
+"bis": 160000,
+"zweck": "Forschungs- und Entwicklungsprojekte. Details können dem Förderkatalog der Bundesregierung entnommen werden: https://foerderportal.bund.de/foekat/jsp/SucheAction.do?actionMode=searchmask (Zuwendungsempfänger = Siemens Aktiengesellschaft)",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 40001,
+"bis": 50000,
+"zweck": "Forschungs- und Entwicklungsprojekte. Details können dem Förderkatalog der Bundesregierung entnommen werden: https://foerderportal.bund.de/foekat/jsp/SucheAction.do?actionMode=searchmask (Zuwendungsempfänger = Siemens Aktiengesellschaft)",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "VDI Technologiezentrum GmbH",
+"epl": null,
+"von": 9650001,
+"bis": 9660000,
+"zweck": "Verbundprojekt: Smart Factory durch Digitale Zwillinge in der Fahrzeugindustrie (SFTwin), Bausteine für den Cloud-Edge Kick-Start in Industrie-KMUs, Energieeffiziente neue Galvanikanlage",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)",
+"epl": "09",
+"von": 230001,
+"bis": 240000,
+"zweck": "Bundesförderung für effiziente Gebäude-Einzelmaßnahmen",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundesministeriums des Innern und für Heimat (BMI)",
+"epl": null,
+"von": 240001,
+"bis": 250000,
+"zweck": "Resiliente lokale 5G Kommunikations-Plattform",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "KfW Bankengruppe",
+"epl": "09",
+"von": 3520001,
+"bis": 3530000,
+"zweck": "Zuschuss (463): Neubau Effizienzgebäude 55 & Fachplanung und Baubegleitung",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 36620009,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Roland Busch",
+"funktion": "Vorsitzender des Vorstands der Siemens AG",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Cedrik Neike",
+"funktion": "Mitglied des Vorstands der Siemens AG und CEO Digital Industries",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Matthias Rebellius",
+"funktion": "Mitglied des Vorstands der Siemens AG und CEO Smart Infrastructure",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Ralf P. Thomas",
+"funktion": "Mitglied des Vorstands der Siemens AG und Finanzvorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Judith Wiese",
+"funktion": "Mitglied des Vorstands der Siemens AG, Chief People and Sustainability Officer,  Arbeitsdirektorin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Peter Körte",
+"funktion": "Mitglied des Vorstands der Siemens AG, Chief Technology Officer und Chief Strategy Officer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Veronika  Bienert",
+"funktion": "Mitglied des Vorstands der Siemens AG und CEO von Siemens Financial Services",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Torsten Ende",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Christian Madsen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Daniel Müller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Stefan Saatmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Christian Hagemann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Shen-Wei Hwong",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Oktay Ay",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Referent",
+"stelle": "Bundesministerium der Finanzen (BMF) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2021-12"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Nils Finder",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Felicia Kamm",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Referatsleiterin in Vertretung",
+"stelle": "Bundeskanzleramt (BKAmt) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2023-08"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Benedikt Kuttenkeuler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Max Pfeifer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Sabrina Zenow",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Christian Kaeser",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Thomas Hahn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Sicco Lehman-Brauns",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Georg  Böttcher",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Gerhard Kreß",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Sebastian Stawowski",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Simon Rinas",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Kurt Hoeller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Katrin  Kamin",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Cynthia Foly",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Franziska Hilger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Christian Hoffmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Alena Profit Pachioni",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Dagmar Mundani",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Thomas Dürr",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Emilia Schuster",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Jürgen Wagner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Marcus Mayer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Sabrina  Herrmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Oktay Ay",
+"funktion_person": "Referent, Bundesministerium der Finanzen (BMF) oder dessen Geschäftsbereich, bis 2021-12",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Oktay Ay ist laut Lobbyregister Interessenvertretung bei Siemens AG und hatte zuvor eine öffentliche Funktion: Referent, Bundesministerium der Finanzen (BMF) oder dessen Geschäftsbereich, bis 2021-12. Siemens AG erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Energie (BMWE); VDI Technologiezentrum GmbH; Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR); KfW Bankengruppe; Bundesministeriums des Innern und für Heimat (BMI); Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA); Projektträger Forschungszentrum Jülich GmbH; Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR); Bundesministerium für Verkehr (BMV).",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Wirtschaft und Energie (BMWE)",
+"VDI Technologiezentrum GmbH",
+"Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"KfW Bankengruppe",
+"Bundesministeriums des Innern und für Heimat (BMI)",
+"Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)",
+"Projektträger Forschungszentrum Jülich GmbH",
+"Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)",
+"Bundesministerium für Verkehr (BMV)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+],
+"stand": "2026-10-13"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Felicia Kamm",
+"funktion_person": "Referatsleiterin in Vertretung, Bundeskanzleramt (BKAmt) oder dessen Geschäftsbereich, bis 2023-08",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Felicia Kamm ist laut Lobbyregister Interessenvertretung bei Siemens AG und hatte zuvor eine öffentliche Funktion: Referatsleiterin in Vertretung, Bundeskanzleramt (BKAmt) oder dessen Geschäftsbereich, bis 2023-08. Siemens AG erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Energie (BMWE); VDI Technologiezentrum GmbH; Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR); KfW Bankengruppe; Bundesministeriums des Innern und für Heimat (BMI); Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA); Projektträger Forschungszentrum Jülich GmbH; Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR); Bundesministerium für Verkehr (BMV).",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Wirtschaft und Energie (BMWE)",
+"VDI Technologiezentrum GmbH",
+"Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"KfW Bankengruppe",
+"Bundesministeriums des Innern und für Heimat (BMI)",
+"Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)",
+"Projektträger Forschungszentrum Jülich GmbH",
+"Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)",
+"Bundesministerium für Verkehr (BMV)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"stand": "2026-10-13"
+}
+],
+"stand": "2026-10-13"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1200001,
+"bis": 1210000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/f4/ea/860765/Siemens_Bericht_GJ2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001875/87507",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-13",
+"etikett": "Eigenangabe",
+"version": 38
+}
+]
+}

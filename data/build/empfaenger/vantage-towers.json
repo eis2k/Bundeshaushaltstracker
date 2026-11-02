@@ -1,0 +1,125 @@
+{
+"id": "vantage-towers",
+"name": "Vantage Towers AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Düsseldorf",
+"website": "https://www.vantagetowers.com/de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002472",
+"eintrag_id": 85418,
+"version": 26,
+"stand": "2026-09-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002472/85418",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/18/de/852892/Lobbyregister-Registereintraege-Detailansicht-R002472-2026-09-30_16-48-38.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Digitales und Staatsmodernisierung",
+"epl": null,
+"von": 5650001,
+"bis": 5660000,
+"zweck": "Das Bundesministerium für Digitales und Staatsmodernisierung (BMDS) unterstützt bei der Errichtung und bei dem Betrieb zusätzlicher passiver Mobilfunkinfrastrukturen in Gebieten, in denen keine leistungsfähige Mobilfunkversorgung vorhanden ist und auch nicht eigenwirtschaftlich aufgrund von Versorgungsauflagen oder vertraglichen Ausbauverpflichtungen entstehen wird. Die Förderung erfolgt für den Bau von Mobilfunkmasten und deren Anbindung und Erschließung in bislang unterversorgten Gebiete in ganz Deutschland, um eine Versorgung mit Sprach- und breitbandigen Datendiensten des öffentlichen Mobilfunks mit mindestens 4G sicherzustellen. Mit der Förderung kann eine eventuelle Wirtschaftlichkeitslücke geschlossen werden, die sich bei einem Mobilfunknetzbetreiber ergibt.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Digitales und Staatsmodernisierung",
+"epl": null,
+"von": 11570001,
+"bis": 11580000,
+"zweck": "Im Rahmen der Gigabit-Strategie der Bundesregierung fördert das Bundesministerium für Digitales und Staatsmodernisierung (BMDS) das Projekt „Gigabit Innovation Track“ (GINT). Die Projektplanung beinhaltete den Test von 5G auf den 3,6-GHz-Frequenzen von O2 Telefónica in Mecklenburg-Vorpommern. Insgesamt 13 innovative Funkmasten wurden entlang der Teststrecke aufgestellt; diese sollten für eine lückenlose Gigabit-Ausleuchtung der Strecke sorgen. Vantage Towers ist für Entwicklung und Design, Planung sowie den Auf- und Rückbau der Funkmasten und dazugehörigen Anlagen verantwortlich.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 17220002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Martin Bouchard",
+"funktion": "Chief Executive Officer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002472/85418",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Nicolas Mahler",
+"funktion": "Vorstand, Chief Financial Officer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002472/85418",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Aurélie Bladocha Coelho",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002472/85418",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Katharina Kaufmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002472/85418",
+"stand": "2026-09-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 210001,
+"bis": 220000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/77/af/852880/VTAG-Gechaeftsbericht-31-Maerz-2026-final.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002472/85418",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-30",
+"etikett": "Eigenangabe",
+"version": 26
+}
+]
+}

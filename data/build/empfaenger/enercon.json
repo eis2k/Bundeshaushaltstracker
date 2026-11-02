@@ -1,0 +1,138 @@
+{
+"id": "enercon",
+"name": "ENERCON GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Aurich",
+"website": "www.enercon.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003846",
+"eintrag_id": 75987,
+"version": 9,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003846/75987",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ba/18/793303/Lobbyregister-Registereintraege-Detailansicht-R003846-2026-06-30_15-59-03.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Projektträger Jülich GmbH i.A. des BMWi",
+"epl": "30",
+"von": 40001,
+"bis": 50000,
+"zweck": "Projektförderung, nicht rückzahlbare Zuwendung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Projektträger Jülich GmbH i.A. des BMWE",
+"epl": "30",
+"von": 1140001,
+"bis": 1150000,
+"zweck": "Projektföderung, nicht rückzahlbare Zuwendung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1180002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Udo Bauer",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003846/75987",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Michael Jaxy",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003846/75987",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Philipp Vohrer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003846/75987",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Andreas Becker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003846/75987",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Andreas Bergdoll",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003846/75987",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 570001,
+"bis": 580000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/11/2d/793296/Aurich_HRB_411_29-06-2026.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003846/75987",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

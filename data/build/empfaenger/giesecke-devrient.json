@@ -1,0 +1,254 @@
+{
+"id": "giesecke-devrient",
+"name": "Giesecke+Devrient GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "München",
+"website": "www.gi-de.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000773",
+"eintrag_id": 85528,
+"version": 28,
+"stand": "2026-09-04",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000773/85528",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/83/93/838622/Lobbyregister-Registereintraege-Detailansicht-R000773-2026-09-04_15-50-18.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMFTR",
+"epl": "30",
+"von": 110001,
+"bis": 120000,
+"zweck": "Forschungsprojekt: Quantencomputerresistente, kryptografische Verfahren in die Anwendung bringen https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/quoryptan",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 110001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ralf Wintergerst",
+"funktion": "Group CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000773/85528",
+"stand": "2026-09-04"
+}
+},
+{
+"name": "Thyen Jan",
+"funktion": "CFO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000773/85528",
+"stand": "2026-09-04"
+}
+},
+{
+"name": "Gabriel von Mitschke-Collande",
+"funktion": "CDO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000773/85528",
+"stand": "2026-09-04"
+}
+},
+{
+"name": "Benno Müchler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Auslandsmitarbeiter",
+"stelle": "Konrad-Adenauer-Stiftung e. V. (KAS)",
+"beendet": true,
+"ende": "2023-02"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000773/85528",
+"stand": "2026-09-04"
+}
+},
+{
+"name": "Anne Ausfelder",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Politische Referentin, Agentur für Innovation in der Cybersicherheit (Cyberagentur) GmbH",
+"stelle": "Bundesministerium des Innern und für Heimat (BMI) (20. WP) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2025-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000773/85528",
+"stand": "2026-09-04"
+}
+},
+{
+"name": "Tobias Müller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2023-05"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000773/85528",
+"stand": "2026-09-04"
+}
+},
+{
+"name": "Daniel Sohn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000773/85528",
+"stand": "2026-09-04"
+}
+},
+{
+"name": "Marc-David Nappert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000773/85528",
+"stand": "2026-09-04"
+}
+},
+{
+"name": "Chiara Anna Trommen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000773/85528",
+"stand": "2026-09-04"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Benno Müchler",
+"funktion_person": "Auslandsmitarbeiter, Konrad-Adenauer-Stiftung e. V. (KAS), bis 2023-02",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Benno Müchler ist laut Lobbyregister Interessenvertretung bei Giesecke+Devrient GmbH und hatte zuvor eine öffentliche Funktion: Auslandsmitarbeiter, Konrad-Adenauer-Stiftung e. V. (KAS), bis 2023-02. Giesecke+Devrient GmbH erhielt laut Lobbyregister Mittel von: BMFTR.",
+"ausschuesse": [],
+"geld_aus": [
+"BMFTR"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000773/85528",
+"stand": "2026-09-04"
+}
+],
+"stand": "2026-09-04"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Anne Ausfelder",
+"funktion_person": "Politische Referentin, Agentur für Innovation in der Cybersicherheit (Cyberagentur) GmbH, Bundesministerium des Innern und für Heimat (BMI) (20. WP) oder dessen Geschäftsbereich, bis 2025-03",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Anne Ausfelder ist laut Lobbyregister Interessenvertretung bei Giesecke+Devrient GmbH und hatte zuvor eine öffentliche Funktion: Politische Referentin, Agentur für Innovation in der Cybersicherheit (Cyberagentur) GmbH, Bundesministerium des Innern und für Heimat (BMI) (20. WP) oder dessen Geschäftsbereich, bis 2025-03. Giesecke+Devrient GmbH erhielt laut Lobbyregister Mittel von: BMFTR.",
+"ausschuesse": [],
+"geld_aus": [
+"BMFTR"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000773/85528",
+"stand": "2026-09-04"
+}
+],
+"stand": "2026-09-04"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Tobias Müller",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-05",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Tobias Müller ist laut Lobbyregister Interessenvertretung bei Giesecke+Devrient GmbH und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-05. Giesecke+Devrient GmbH erhielt laut Lobbyregister Mittel von: BMFTR.",
+"ausschuesse": [],
+"geld_aus": [
+"BMFTR"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000773/85528",
+"stand": "2026-09-04"
+}
+],
+"stand": "2026-09-04"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 460001,
+"bis": 470000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/fb/57/838621/G-D-Jahresbericht-2025_D.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000773/85528",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-04",
+"etikett": "Eigenangabe",
+"version": 28
+}
+]
+}

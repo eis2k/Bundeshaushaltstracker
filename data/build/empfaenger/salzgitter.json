@@ -1,0 +1,271 @@
+{
+"id": "salzgitter",
+"name": "Salzgitter AG (Holding) ",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Salzgitter",
+"website": "www.salzgitter-ag.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002296",
+"eintrag_id": 86734,
+"version": 21,
+"stand": "2026-09-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002296/86734",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/6d/dc/852714/Lobbyregister-Registereintraege-Detailansicht-R002296-2026-09-30_16-30-45.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministeriums für Wirtschaft und Klimaschutz",
+"epl": null,
+"von": 70001,
+"bis": 80000,
+"zweck": "FuE-Zuschuss Verbundprojekt Car2Car im Rahmen der Förderrichtlinie “Neue Fahrzeug- und Systemtechnologien“ des Bundesministeriums für Wirtschaft und Klimaschutz. Förderprojekt Car2Car entwickelt Technologien für optimiertes Recycling von Altfahrzeugen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung (BMBF.722)",
+"epl": "30",
+"von": 10001,
+"bis": 20000,
+"zweck": "FuE-Zuschuss Verbundvorhaben DRI-EOS: Energierahmenprogramm-Verbundvorhaben - DRI-EOS: Nutzung von auf DRI-Basis erzeugter EAF-Schlacke in der Zementindustrie - Teilprojekt 5 ' Materiallogistik, Schlackenuntersuchung und Projekttransfer",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung (BMBF)",
+"epl": "30",
+"von": 190001,
+"bis": 200000,
+"zweck": "FuE-Zuschuss Verbundvorhaben H2Mare_VB1: H2Wind ' Autarke Offshore-H2-Elektrolyse ' Teilvorhaben: Sichere Auslegung von Röhrenspeichern für Eigenversorgung und Flautenmanagement",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung (BMBF)",
+"epl": "30",
+"von": 210001,
+"bis": 220000,
+"zweck": "FuE-Zuschuss des Bundesministerium für Bildung und Forschung (BMBF) für das Leitprojekt TransHyDE. Ausführende Stelle: Salzgitter Mannesmann Forschung GmbH.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 261960001,
+"bis": 261970000,
+"zweck": "Zuwendung SALCOS - CO2-arme Stahlherstellung durch Wasserstoffeinsatz des Bundesministeriums für Wirtschaft und Energie. Empfänger: Salzgitter Flachstahl GmbH.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "Zuwendung für Verbundvorhaben: ORka3D - Optimierung des Ressourceneinsatzes bei Schweißkonstruktionen durch die automatisierte in-line Lebensdauerbewertung auf Basis von 3D-Scans; Teilvorhaben: Entwicklung eines anwenderunabhängigen Verfahrens zur Qualitätskontrolle für Schweißverbindungen von Rohrknoten mit 2D- u. 3D-Scans",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 20001,
+"bis": 30000,
+"zweck": "Zuwendung Verbundvorhaben: GrInHy3.0, Grüner industrieller Wasserstoff durch Hochtemperatur-Dampfelektrolyse in einer Stahlwerksumgebung; Teilvorhaben: Betrieb und Validierung einer Hochtemperatur-Dampfelektrolyse in Industrieller Umgebung. Salzgitter Flachstahl GmbH, Salzgitter, Niedersachsen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung (BMBF.722)",
+"epl": "30",
+"von": 70001,
+"bis": 80000,
+"zweck": "FuE-Zuschuss für das Begleitforschungsprojekt “BeWiSer” des Konsortiums Salzgitter AG, Fraunhofer-Instituten IKTS, ISI und UMSICHT. Das Projekt dient der weiteren Optimierung der geplanten SALCOS-Verfahrensroute (SAlzgitter Low Carbon Steelmaking). In dem Projekt wird die gesamte Prozesskette im Hinblick auf Ressourcen- und Energieeffizienz betrachtet. Die seitens der Salzgitter AG bereits begonnene bauliche Transformation der Stahlproduktion wird damit wissenschaftlich begleitet.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 50001,
+"bis": 60000,
+"zweck": "Zuwendung für Verbundvorhaben: SuSteelAG – Strategische Allianz zwischen Australien und Deutschland zur CO2-Produktion von Eisen und Stahl",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 110001,
+"bis": 120000,
+"zweck": "Zuwendung für Verbundvorhaben: Railway-X – Entwicklung von Ansätzen zum Datenaustausch innerhalb der kompletten Bahn-Wertschöpfungskette mit Fokus auf Product-Carbon-Footprint-Berechnungen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 140001,
+"bis": 150000,
+"zweck": "Zuwendung für Verbundvorhaben: Wasserstoff-Lok – Umrüstung einer konventionellen Rangierlok auf Wasserstoff-Betrieb",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 590001,
+"bis": 600000,
+"zweck": "Öffentliche Finanzierungshilfe Anteil des Bundes an die gewerbliche Wirtschaft im Rahmen der Gemeinschaftsaufgabe \"Verbesserung der regionalen Wirtschaftsstruktur\" (GRW) - Gewerbliche Wirtschaft. Zuwendungsempfänger: Ilsenburger Grobblech GmbH, Salzgitter Klöckner-Werke GmbH",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 263430012,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Gunnar Groebler",
+"funktion": "Vorsitzender des Vorstandes (CEO) ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002296/86734",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Birgit Potrafki",
+"funktion": "Mitglied des Vorstandes, Vorstand Finanzen (CFO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002296/86734",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Birgit Dietze",
+"funktion": "Mitglied des Vorstandes; Vorstand Personal (CPO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002296/86734",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Alexander Heck",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002296/86734",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Helge Langheim",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002296/86734",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Lizzie Herzog",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002296/86734",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Maximilian Lauer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002296/86734",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Philipp Tschinke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002296/86734",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Cara Bien",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002296/86734",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Volker Hille",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002296/86734",
+"stand": "2026-09-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1210001,
+"bis": 1220000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/00/32/852699/szag-gb2025-gesamt.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002296/86734",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-30",
+"etikett": "Eigenangabe",
+"version": 21
+}
+]
+}

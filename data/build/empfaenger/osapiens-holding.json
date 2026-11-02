@@ -1,0 +1,133 @@
+{
+"id": "osapiens-holding",
+"name": "osapiens Holding GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Mannheim",
+"website": "osapiens.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007017",
+"eintrag_id": 84811,
+"version": 8,
+"stand": "2026-08-18",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007017/84811",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/bc/21/831975/Lobbyregister-Registereintraege-Detailansicht-R007017-2026-08-18_09-37-19.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung (BMBF)",
+"epl": "30",
+"von": 120001,
+"bis": 130000,
+"zweck": "KI-basierte Analyse und Nutzung physikalischer Signalparameter zur Absicherung von Smart Home Systemen – PhysicalGuards",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 40001,
+"bis": 50000,
+"zweck": "HitchhikeBox - Intermodales Logistiksystem auf Basis KI-basierter Fahrtendisposition selbstorganisierender Lieferboxen; Teilvorhaben: KI-basiertes Deep-Learning-Cloudsystem",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 20001,
+"bis": 30000,
+"zweck": "NeuralPower - Ein ganzheitlicher Ansatz der Zuordnung und Prognose von Energiebedarfen sowie Steuerung des Verbrauchs unter Nutzung künstlicher Intelligenz; Teilvorhaben: Aufbau einer Cloud Plattform zum Vertrieb von Vorhersagekapazitäten",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 180003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Alberto Zamora",
+"funktion": "Geschäftsführer ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007017/84811",
+"stand": "2026-08-18"
+}
+},
+{
+"name": "Stefan Wawrzinek",
+"funktion": "Geschäftsführer ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007017/84811",
+"stand": "2026-08-18"
+}
+},
+{
+"name": "Matthias Jungblut",
+"funktion": "Geschäftsführer ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007017/84811",
+"stand": "2026-08-18"
+}
+},
+{
+"name": "Kim Hirsch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007017/84811",
+"stand": "2026-08-18"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/90/b9/831974/Mannheim_HRB_731130_Bundesanzeiger-osapiens-Holding-GmbH-Geschaftsjahr-vom-01-01-2024-bis-zum-31-12-2024_4532896498070186303.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007017/84811",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-18",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

@@ -1,0 +1,96 @@
+{
+"id": "female-vision",
+"name": "female.vision e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://female.vision/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005795",
+"eintrag_id": 61272,
+"version": 8,
+"stand": "2025-07-04",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005795/61272",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/9b/09/577814/Lobbyregister-Registereintraege-Detailansicht-R005795-2025-07-04_14-46-14.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Arbeit und Soziales",
+"epl": "11",
+"von": 250001,
+"bis": 260000,
+"zweck": "Der Verein female.vision e.V. ist als Konsortiumsmitglied am Forschungsprojekt KI im Dienste der Diversität (KIDD) beteiligt. Weitere Infos zum Projekt unter www.kidd-prozess.de",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 250001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Katja Anclam",
+"funktion": "Stellvertretende Vorsitzende des Vorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005795/61272",
+"stand": "2025-07-04"
+}
+},
+{
+"name": "Annette Gräfin von Wedel",
+"funktion": "Vorsitzende des Vorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005795/61272",
+"stand": "2025-07-04"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/35/be/577813/female-vision_e-V-_Gewinnermittlung_2023-final-Kopie.pdf",
+"geschaeftsjahr": "2023",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005795/61272",
+"abgerufen": "2026-11-02",
+"stand": "2025-07-04",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

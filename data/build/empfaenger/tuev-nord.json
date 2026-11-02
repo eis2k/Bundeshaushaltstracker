@@ -1,0 +1,249 @@
+{
+"id": "tuev-nord",
+"name": "TÜV NORD AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Berlin",
+"website": "www.tuev-nord.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003042",
+"eintrag_id": 74691,
+"version": 13,
+"stand": "2026-06-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003042/74691",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/42/8f/781161/Lobbyregister-Registereintraege-Detailansicht-R003042-2026-06-29_09-08-47.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "VDI/VDE Innovation + Technik GmbH",
+"epl": null,
+"von": 60001,
+"bis": 70000,
+"zweck": "Blueprint eines Zertifizierungs-Eco-Systems für QKD-Systeme und anwendungen QuNET+BlueCert im Rahmen der QuNet-Initiative",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Projektträger im DLR",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "\"MANTRA5G -Modular, Adaptive and iNteroperable Test fRAmework for 5G/6G; Teilvorhaben: Anforderungsanalyse und Auslegung des Testframeworks für Prüfungen nach NESAS und NESAS CCS-GI\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Projektträger Jülich",
+"epl": "30",
+"von": 80001,
+"bis": 90000,
+"zweck": "DB MISS: Das Forschungsprojekt DB MISS (Deutschlandweite BImSchG-Vorgaben/Erschütterungen) untersucht die Auswirkungen von Windkraftanlagen auf seismische Messungen und Erdbebenregistrierungen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Projektträger Karlsruhe",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "AIMON5.0 - Digital GreenTech2 - Verbundprojekt AImon5.0: Echtzeitüberwachung gravitativer Massenbewegungen zum Risikomanagement kritischer Infrastrukturen mit KI-unterstützter 3D-Metrologie, Teilprojekt 1",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Projektträger Karlsruhe",
+"epl": null,
+"von": 60001,
+"bis": 70000,
+"zweck": "AGEnT002 - Verbundprojekt: Weiterführung der Entwicklung von Ausbau von Grubenbauen für ein HAW-Endlager in Tongestein (AGEnT002), Teilprojekt B",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Projektträger Jülich",
+"epl": "30",
+"von": 100001,
+"bis": 110000,
+"zweck": "Darts - Datenbasiertes Routing von Trassen für unterirdische Energietransfer-Infrastukturen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Projektträger Jülich",
+"epl": "30",
+"von": 80001,
+"bis": 90000,
+"zweck": "Verbundvorhaben: GEOTWINS - Digitale Zwillinge von geothermischen Reservoiren zur Überwachung der seismischen Gefährdung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Projektträger Jülich",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "\"HydroNet-Klimaschutz-Modellregion Sauerland; Teilvorhaben: Sicherheitsbetrachtungen und Zertifizierung; 03EI3110M\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "TÜV Rheinland Consulting GmbH",
+"epl": null,
+"von": 40001,
+"bis": 50000,
+"zweck": "Erarbeitung von Anforderungen, Parametern und Kriterien zur Prüfung und Sicherheitsbewertung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "TÜV Rheinland Consulting GmbH",
+"epl": null,
+"von": 60001,
+"bis": 70000,
+"zweck": "Technische und gesetzliche Anforderungen für die Straßenzulassung von L4-Prototypen, FuSi",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Forschungszentrum Jülich",
+"epl": null,
+"von": 120001,
+"bis": 130000,
+"zweck": "FINO-Datenbank - Erfassung und Archivierung forschungsrelevanter ozeanographischer und meteorologischer Daten auf den FINO-Plattformen. Hier: Teilbereich meteorologische Messungen auf der Plattform FIN02",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Forschungszentrum Jülich",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Verbundvorhaben: ROSE - Remote Sensing Test Center Forschungslabor für die Entwicklung von Kalibrierungsverfahren für neue Windfernmesstechnologien und innovativen Messdienstleistungen Teilvorhaben: \"Forschungsprojekt zur LIDAR-Kalibrierung und Verifizierung sowie Betrieb eines Meteorologischen Observatoriums\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 660012,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Dirk Stenkamp",
+"funktion": "Vorsitzender des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003042/74691",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Jürgen Himmelsbach",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003042/74691",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Ringo Schmelzer",
+"funktion": "COO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003042/74691",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Inga Dransfeld-Haase",
+"funktion": "Personalvorständin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003042/74691",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Tuesday Porter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003042/74691",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "David Schimanko",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003042/74691",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Diana Sündermann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003042/74691",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Daniel Müller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003042/74691",
+"stand": "2026-06-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 630001,
+"bis": 640000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/7f/d6/781159/Testierter-Konzernabschluss-TUeV-NORD-AG-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003042/74691",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-29",
+"etikett": "Eigenangabe",
+"version": 13
+}
+]
+}

@@ -1,0 +1,117 @@
+{
+"id": "gesellschaft-zur-foerderung-angewandter-informatik",
+"name": "Gesellschaft zur Förderung angewandter Informatik e. V. (GFaI)",
+"art": "forschung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://www.gfai.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R008109",
+"eintrag_id": 84298,
+"version": 2,
+"stand": "2026-08-05",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008109/84298",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/75/d6/826736/Lobbyregister-Registereintraege-Detailansicht-R008109-2026-08-05_15-08-38.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMWE",
+"epl": "09",
+"von": 5150001,
+"bis": 5160000,
+"zweck": "Projektförderung zur Durchführung eines Forschungsvorhabens im Bereich der angewandten Informatik",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMFTR",
+"epl": "30",
+"von": 40001,
+"bis": 50000,
+"zweck": "Projektförderung zur Durchführung eines Forschungsvorhabens im Bereich der angewandten Informatik.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 5190002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Holger Schlingloff",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008109/84298",
+"stand": "2026-08-05"
+}
+},
+{
+"name": "Alfred Iwainsky",
+"funktion": "Stellvertretender Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008109/84298",
+"stand": "2026-08-05"
+}
+},
+{
+"name": "Hans-Günter Weide",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008109/84298",
+"stand": "2026-08-05"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/7f/59/826735/731860-JA-AP-JA-2025-2025-JA-Bericht-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008109/84298",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-05",
+"etikett": "Eigenangabe",
+"version": 2
+}
+]
+}

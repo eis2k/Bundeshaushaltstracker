@@ -1,0 +1,86 @@
+{
+"id": "deutsch-italienische-handelskammer",
+"name": "Deutsch-Italienische Handelskammer (AHK Italien)",
+"art": "verein_stiftung",
+"rechtsform": "Nicht rechtsfähiger Verein",
+"sitz": "20124 Milano",
+"website": "www.ahk.it",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004039",
+"eintrag_id": 77117,
+"version": 6,
+"stand": "2026-06-19",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004039/77117",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f6/e0/765360/Lobbyregister-Registereintraege-Detailansicht-R004039-2026-06-19_12-02-06.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMWE",
+"epl": "09",
+"von": 820001,
+"bis": 830000,
+"zweck": "Zuwendung des BMWK zur Anteilsfinanzierung nach Zuwendungsvertrag vom 01.12.2025",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BAFA",
+"epl": "09",
+"von": 250001,
+"bis": 260000,
+"zweck": "Geschäftsanbahnung für dt. Unternehmen aus den Bereichen Bauwirtschaft / Bahntechnik / Gesundheitswirtschaft / Agrartechnik (in Verbindung mit Beschaffungswesen der UN), Energie (Offshore-Technik)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1070002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jörg Buck",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004039/77117",
+"stand": "2026-06-19"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 680001,
+"bis": 690000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": null
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004039/77117",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-19",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

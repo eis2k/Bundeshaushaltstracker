@@ -1,0 +1,97 @@
+{
+"id": "nationale-anti-doping-agentur-deutschland",
+"name": "Nationale Anti Doping Agentur Deutschland",
+"art": "verein_stiftung",
+"rechtsform": "Rechtsfähige Stiftung bürgerlichen Rechts",
+"sitz": "Bonn",
+"website": "www.nada.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007500",
+"eintrag_id": 76043,
+"version": 3,
+"stand": "2026-05-08",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007500/76043",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/1c/3e/734300/Lobbyregister-Registereintraege-Detailansicht-R007500-2026-05-08_16-50-53.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium des Innern",
+"epl": "06",
+"von": 10150001,
+"bis": 10160000,
+"zweck": "Zuwendungen des Bundes (NADA, Analytik, Forschung)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 10150001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Lars Mortsiefer",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007500/76043",
+"stand": "2026-05-08"
+}
+},
+{
+"name": "Eva Bunthoff",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007500/76043",
+"stand": "2026-05-08"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/b6/cc/734299/NADA-Jahresabschluss-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007500/76043",
+"abgerufen": "2026-11-02",
+"stand": "2026-05-08",
+"etikett": "Eigenangabe",
+"version": 3
+}
+]
+}

@@ -1,0 +1,128 @@
+{
+"id": "arena2036-e-v-forschungscampus-des-bmbf",
+"name": "ARENA2036 e.V. Forschungscampus des BMBF",
+"art": "forschung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Stuttgart",
+"website": "www.arena2036.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005193",
+"eintrag_id": 71126,
+"version": 7,
+"stand": "2026-01-20",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005193/71126",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/81/6c/684107/Lobbyregister-Registereintraege-Detailansicht-R005193-2026-01-20_16-51-27.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 1110001,
+"bis": 1120000,
+"zweck": "Fördermittel, 2 Projekte Co-Creation auf der Forschungsplattform, um Technologien aus der Wissenschaft in die Wirtschaft zu transferieren insbesondere in den Bereichen Mobilität, Produktion, Nachhaltigkeit und Konnektivität.",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 780001,
+"bis": 790000,
+"zweck": "Fördermittel, 3 Projekte Co-Creation auf der Forschungsplattform, um Technologien aus der Wissenschaft in die Wirtschaft zu transferieren insbesondere in den Bereichen Mobilität, Produktion, Nachhaltigkeit und Konnektivität.",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 1890002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Peter Middendorf",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005193/71126",
+"stand": "2026-01-20"
+}
+},
+{
+"name": "Arno Van der Merwe",
+"funktion": "stellvertretender Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005193/71126",
+"stand": "2026-01-20"
+}
+},
+{
+"name": "Georg Schnauffer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005193/71126",
+"stand": "2026-01-20"
+}
+},
+{
+"name": "Peter Fröschle",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005193/71126",
+"stand": "2026-01-20"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 2450001,
+"bis": 2460000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/21/bd/684106/JA_31-12-2024_Bilanz_und_GuV_vom_08-07-25.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005193/71126",
+"abgerufen": "2026-11-02",
+"stand": "2026-01-20",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

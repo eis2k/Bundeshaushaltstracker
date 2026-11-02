@@ -1,0 +1,127 @@
+{
+"id": "kulturbuero-sachsen",
+"name": "Kulturbüro Sachsen e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Dresden",
+"website": "https://kulturbuero-sachsen.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006264",
+"eintrag_id": 78554,
+"version": 9,
+"stand": "2026-06-17",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006264/78554",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/d8/5c/761531/Lobbyregister-Registereintraege-Detailansicht-R006264-2026-06-17_10-38-01.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Familie und zivilgesellschaftliche Aufgaben - \"Demokratie leben!\"",
+"epl": "17",
+"von": 210001,
+"bis": 220000,
+"zweck": "Zwei Projekte im Bundesprogramm \"Demokratie leben!\" Festbetragsfinanzierung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium des Innern",
+"epl": "06",
+"von": 240001,
+"bis": 250000,
+"zweck": "Projektförderung, Festbetrag der Bundeszentrale für politische Bildung - Richtlinien zu Anerkennung und Förderung von Veranstaltungen der politischen Bildung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 450002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Michael Nattke",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006264/78554",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Ines Kuche",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006264/78554",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Matthias Klemm",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006264/78554",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Petra Schickert",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006264/78554",
+"stand": "2026-06-17"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 280001,
+"bis": 290000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ea/cd/761529/Bilanz-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006264/78554",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-17",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

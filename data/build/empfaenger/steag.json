@@ -1,0 +1,147 @@
+{
+"id": "steag",
+"name": "STEAG GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Essen",
+"website": "www.steag.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001232",
+"eintrag_id": 83910,
+"version": 34,
+"stand": "2026-07-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001232/83910",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/76/62/822229/Lobbyregister-Registereintraege-Detailansicht-R001232-2026-07-29_14-49-26.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "Projektbezogene Forschungsförderung; Fördermaßnahme: Anwendungsorientierte nichtnukleare FuE im 7. Energieforschungsprogramm der Bundesregierung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "Zuwendungen im Rahmen eines geförderten Forschungsvorhabens",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 60002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Dieter Dehlke",
+"funktion": "Mitglied der Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001232/83910",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Verena Sievers",
+"funktion": "Mitglied der Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001232/83910",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Gundolf Schweppe",
+"funktion": "Vorsitzender der Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001232/83910",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Antonio Haya",
+"funktion": "Mitglied der Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001232/83910",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Hans Wolf von Koeller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001232/83910",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Jonas Fritz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001232/83910",
+"stand": "2026-07-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 890001,
+"bis": 900000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/37/2d/822228/STEAG-GmbH_Konzernabschluss-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001232/83910",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-29",
+"etikett": "Eigenangabe",
+"version": 34
+}
+]
+}

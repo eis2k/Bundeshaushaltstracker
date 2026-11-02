@@ -1,0 +1,342 @@
+{
+"id": "vodafone",
+"name": "Vodafone GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Düsseldorf",
+"website": "www.vodafone.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001732",
+"eintrag_id": 87944,
+"version": 37,
+"stand": "2026-10-22",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001732/87944",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/b9/90/864497/Lobbyregister-Registereintraege-Detailansicht-R001732-2026-10-22_16-39-44.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMI",
+"epl": "06",
+"von": 20001,
+"bis": 30000,
+"zweck": "ADELE – Automatisierter Drohneneinsatz aus der Leitstelle Ziel des Förderprojekts ist die Integration von Drohneneinsätzen in die Standardabläufe von Behörden und Organisationen mit Sicherheitsaufgaben (BOS), insbesondere Polizei, Feuerwehr und Rettungsdienste. Drohnen wurden automatisiert und rechts- sowie datenschutzkonform direkt aus der Leitstelle zu steuern und deren Echtzeitdaten unmittelbar für die Einsatzkoordination bereitzustellen. Dabei werden moderne 5G-/MCx-Kommunikationstechnologien genutzt, um Lageinformationen bereits vor dem Eintreffen der Einsatzkräfte verfügbar zu machen und so die Einsatzplanung, Sicherheit und Reaktionsgeschwindigkeit deutlich zu verbessern.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMI",
+"epl": "06",
+"von": 40001,
+"bis": 50000,
+"zweck": "Hybrid-Eins – Hybridnetz für breitbandige MCX-Einsatzkommunikation BOS Hybrid-Eins ist ein BDBOS-gefördertes Forschungsprojekt zur Kopplung von öffentlichem 4G/5G-Mobilfunk und BOS-Digitalfunk (TETRA) für einsatzkritische Kommunikation. Gemeinsam mit Partnern wie Frequentis, Teamwire und NKMG untersucht Vodafone die Nutzung von MCx-Technologien, um die Digitalisierung und Zukunftsfähigkeit kritischer Infrastrukturen und BOS-Kommunikation voranzutreiben. Vodafone bringt seine Mobilfunkinfrastruktur, Priorisierungsmechanismen und Expertise im Bereich 3GPP-basierter MCx-Lösungen in das Projekt ein.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMDV",
+"epl": "12",
+"von": 240001,
+"bis": 250000,
+"zweck": "GINT XT GINT entwickelt und testet gemeinsam mit Bahn und Mobilfunknetzbetreibern eine 5G-basierte Infrastruktur entlang der Schiene zur Verbesserung der Fahrgastkonnektivität und zur Migration auf FRMCS.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 300003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Marcel de Groot",
+"funktion": "Vorsitzender der Geschäftsführung (CEO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001732/87944",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Michael Bird",
+"funktion": "Geschäftsführer Finanzen ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001732/87944",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Varun Krishnan",
+"funktion": "Geschäftsführer Privatkunden",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001732/87944",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Bettina Günther",
+"funktion": "Geschäftsführerin Personal",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001732/87944",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Hagen Rickmann",
+"funktion": "Geschäftsführer Firmenkunden",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001732/87944",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Fabrizio Giuseppe Rocchio",
+"funktion": "Geschäftsführer Technik",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001732/87944",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Malte Abel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001732/87944",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Magdalena Binder",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001732/87944",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Benedict Deacon",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001732/87944",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Jan Dombrowski",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001732/87944",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Dirk Ebrecht",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001732/87944",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Oliver Harzheim",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001732/87944",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Marie-Luise Horst",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001732/87944",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Michael Jungwirth",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001732/87944",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Torben Kimmel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001732/87944",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Marc Konarski",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001732/87944",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Stephan Korehnke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001732/87944",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Tanja Marek",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001732/87944",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Stephan Schneider",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001732/87944",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Maria Ewert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001732/87944",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Katharina Linner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001732/87944",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Florian Tursky",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001732/87944",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Christoph Heuer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001732/87944",
+"stand": "2026-10-22"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1160001,
+"bis": 1170000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/9c/bc/864496/Vodafone-GmbH_JAP_31-3-25_TESTAT_24-004222-250624_192442-882.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001732/87944",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-22",
+"etikett": "Eigenangabe",
+"version": 37
+}
+]
+}

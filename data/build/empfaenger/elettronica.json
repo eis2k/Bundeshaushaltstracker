@@ -1,0 +1,128 @@
+{
+"id": "elettronica",
+"name": "Elettronica GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Meckenheim",
+"website": "www.elettronica.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005512",
+"eintrag_id": 84829,
+"version": 12,
+"stand": "2026-08-18",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005512/84829",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/31/cb/832133/Lobbyregister-Registereintraege-Detailansicht-R005512-2026-08-18_13-04-54.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung (BMBF), Referat Zivile Sicherheitsforschung",
+"epl": "30",
+"von": 50001,
+"bis": 60000,
+"zweck": "Co-finanzierung des Forschungsprojektes: Innovatives Drohnenabwehrsystem (IDAS-PRO). Die BMBF-geförderten Projekte AMBOS, ArGUS, MIDRAS und ORAS haben unterschiedliche Demonstrator-Systeme zur Detektion- bzw. Abwehr von Drohnen erarbeitet. Im Herbst 2020 wurden die Ergebnisse polizeilichen Anwendern erfolgreich vorgeführt. Dabei wurden von den Anwendern in den vier Projekten die Komponenten identifiziert, deren Ausgestaltung und Leistungsfähigkeit den besten praktischen Mehrwert bieten. Ziel des Leuchtturmprojekts IDAS-PRO ist es, auf dieser Basis durch Weiterentwicklung und Integration der Komponenten ein skalierbares und automatisiert kalibrierbares System zu entwickeln und dieses anschließend intensiv unter realistischen Bedingungen zu erproben. Für die Detektion der Drohnen sollen Funk-, Radar- und optische Sensoren eingesetzt werden. Die Komponenten zur Abwehr umfassen einen Störsender und Abfangdrohnen mit Netzen.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 50001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Marcello Mariucci",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005512/84829",
+"stand": "2026-08-18"
+}
+},
+{
+"name": "Jörg Brechtefeld",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005512/84829",
+"stand": "2026-08-18"
+}
+},
+{
+"name": "Christian Baier",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005512/84829",
+"stand": "2026-08-18"
+}
+},
+{
+"name": "Reda Zemmari",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005512/84829",
+"stand": "2026-08-18"
+}
+},
+{
+"name": "Daniel Schröder",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005512/84829",
+"stand": "2026-08-18"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 40001,
+"bis": 50000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/a1/9a/832132/Elettronica-GmbH_JAP_31-12-25_BV_25-003634_HGA-merged.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005512/84829",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-18",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

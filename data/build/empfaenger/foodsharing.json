@@ -1,0 +1,162 @@
+{
+"id": "foodsharing",
+"name": "foodsharing",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Köln",
+"website": "https://foodsharing.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005277",
+"eintrag_id": 86555,
+"version": 13,
+"stand": "2026-09-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005277/86555",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c3/50/849449/Lobbyregister-Registereintraege-Detailansicht-R005277-2026-09-29_08-56-29.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Umweltbundesamt",
+"epl": "16",
+"von": 70001,
+"bis": 80000,
+"zweck": "Teilzahlung des Projekt \"Kochen kann jede:r\", finanziert über das Umweltbundesamt, Durchführung von Koch- und Ernährungsworkshops in 3 Foodsharing Bezirken",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 70001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jonas Geyer",
+"funktion": "Stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005277/86555",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Anja Westermann",
+"funktion": "Erste Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005277/86555",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Marco Heinrich",
+"funktion": "stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005277/86555",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Thorsten Zintgraf",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005277/86555",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Sophia Häußler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005277/86555",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Frank Bowinkelmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005277/86555",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Katja Scheel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005277/86555",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Jörg Schwerdtfeger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005277/86555",
+"stand": "2026-09-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 50001,
+"bis": 60000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ea/b4/849447/260504_Rechenschaftsbericht_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005277/86555",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-29",
+"etikett": "Eigenangabe",
+"version": 13
+}
+]
+}

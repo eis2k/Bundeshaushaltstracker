@@ -1,0 +1,171 @@
+{
+"id": "bildungswerk-der-bayerischen-wirtschaft",
+"name": "Bildungswerk der Bayerischen Wirtschaft e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "München",
+"website": "bbw.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001644",
+"eintrag_id": 78057,
+"version": 12,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001644/78057",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/84/5a/788454/Lobbyregister-Registereintraege-Detailansicht-R001644-2026-06-30_10-34-13.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesagentur für Arbeit",
+"epl": "11",
+"von": 60001,
+"bis": 70000,
+"zweck": "Förderung eines Projektes (Technik-Scouts\"), bei dem Schüler*innen ab der 7. Klasse sich intensiv mit einem technischen Berufsbild befassen und einen informativen, kreativen und werbewirksamen Wettbewerbsbeitrag erstellen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 330001,
+"bis": 340000,
+"zweck": "Das insoweit geförderte Modellprojekt \"#parentsonboard\" macht den Eltern die Wichtigkeit ihrer Rolle im Berufsorientierungsprozess bewusst und stärkt ihre Begleitungskompetenz. Es richtet sich an alle Eltern mit jugendlichen Kindern in Bayern in der Phase der Berufsorientierung. Mithilfe sozialer Medien erhalten Eltern Informationen über Angebote und Aktionen externer Partner (Schulen, Berufsberatung, Maßnahmen etc.) rund um das Thema Berufswahl. Projekt \"MINT-Cluster Minti\".",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 390002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jörg Plesch",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001644/78057",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Sandra Stenger",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001644/78057",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Andreas Weber",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001644/78057",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Gudrun Zollner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001644/78057",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Jobst Hagedorn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001644/78057",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Michael Mötter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001644/78057",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Ingo Küster",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001644/78057",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Hubert Schurkus",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001644/78057",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 20001,
+"bis": 30000
+},
+"mitgliedsbeitraege": {
+"von": 730001,
+"bis": 740000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/1e/46/788453/Ergebnisrechnung_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001644/78057",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

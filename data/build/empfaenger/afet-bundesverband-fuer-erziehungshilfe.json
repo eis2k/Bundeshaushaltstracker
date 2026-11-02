@@ -1,0 +1,130 @@
+{
+"id": "afet-bundesverband-fuer-erziehungshilfe",
+"name": "AFET - Bundesverband für Erziehungshilfe",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Hannover",
+"website": "www.afet-ev.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006933",
+"eintrag_id": 87215,
+"version": 10,
+"stand": "2026-10-07",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006933/87215",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/b6/fc/858202/Lobbyregister-Registereintraege-Detailansicht-R006933-2026-10-07_16-40-42.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMBFSFJ",
+"epl": "17",
+"von": 460001,
+"bis": 470000,
+"zweck": "KJP-Mittel als Rahmenvertragsfinanzierung. Hier handelt es sich um Zuwendung, die auch unter Hauptfinanzierung bereits genannt ist.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 460001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Claudia Langholz",
+"funktion": "Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006933/87215",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Claudia Völcker",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006933/87215",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Tilman Fuchs",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006933/87215",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Gunther Graßhoff",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006933/87215",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Koralia Sekler",
+"funktion": "Geschäftsführurng",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006933/87215",
+"stand": "2026-10-07"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 120001,
+"bis": 130000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/43/4d/858198/01-Einnahmen_Ausgaben_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006933/87215",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-07",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

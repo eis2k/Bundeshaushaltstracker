@@ -1,0 +1,95 @@
+{
+"id": "bauer-resources",
+"name": "BAUER Resources GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Schrobenhausen",
+"website": "https://resources.bauer.de/de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005089",
+"eintrag_id": 80660,
+"version": 11,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005089/80660",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/3c/eb/793186/Lobbyregister-Registereintraege-Detailansicht-R005089-2026-06-30_15-54-21.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Finanzamt Ingolstadt",
+"epl": null,
+"von": 70001,
+"bis": 80000,
+"zweck": "Forschungszulage gemäß Forschungszulagengesetz auf Grundlage eines Bescheids (WJ 2022) für Forschungs- und Entwicklungsprojekte",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 70001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Dirk Pförtner",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005089/80660",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "André Gebauer-Ponndorf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005089/80660",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ba/21/793181/BRE_JA_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005089/80660",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 11
+}
+]
+}

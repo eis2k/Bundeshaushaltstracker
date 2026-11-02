@@ -1,0 +1,148 @@
+{
+"id": "deutsches-zentrum-fuer-neurodegenerative-erkrankungen",
+"name": "Deutsches Zentrum für Neurodegenerative Erkrankungen e.V. (DZNE)",
+"art": "forschung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bonn",
+"website": "www.dzne.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001493",
+"eintrag_id": 77974,
+"version": 10,
+"stand": "2026-06-10",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001493/77974",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f3/7f/754690/Lobbyregister-Registereintraege-Detailansicht-R001493-2026-06-10_13-26-59.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesrepublik Deutschland",
+"epl": "60",
+"von": 92800001,
+"bis": 92810000,
+"zweck": "Institutionelle Zuwendung des Bundes entsprechend den Regelungen der Helmholtz Gemeinschaft",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung (BMBF) - jetziges BMFTR",
+"epl": "30",
+"von": 2600001,
+"bis": 2610000,
+"zweck": "Projektförderung des BMBF von wissenschaftlichen Forschungsprojekten auf dem Gebiet der Neurodegenerativen Erkrankungen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Forschungsgemeinschaft (DFG)",
+"epl": null,
+"von": 6820001,
+"bis": 6830000,
+"zweck": "Projektförderung der DFG von wissenschaflichen Forschungsprojekten auf dem Gebiet der Neurodegenerativen Erkrankungen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Gemeinsamer Bundesausschuss (G-BA)",
+"epl": null,
+"von": 250001,
+"bis": 260000,
+"zweck": "Projektförderung des G-BA von wissenschaflichen Forschungsprojekten auf dem Gebiet der Neurodegenerativen Erkrankungen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Helmholtz Impuls- und Vernetzungsfond (IuV)",
+"epl": null,
+"von": 870001,
+"bis": 880000,
+"zweck": "Projektförderung des IUV von wissenschaflichen Forschungsprojekten auf dem Gebiet der Neurodegenerativen Erkrankungen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit",
+"epl": "23",
+"von": 80001,
+"bis": 90000,
+"zweck": "Projektförderung des Bundesministeriums von wissenschaftlichen Forschungsprojekten auf dem Gebiet der Neurodegenerativen Erkrankungen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 103420006,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Joachim Schultze",
+"funktion": "Wissenschaftlicher Vorstand und Vorstandsvorsitzender (interim)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001493/77974",
+"stand": "2026-06-10"
+}
+},
+{
+"name": "Susanne Wolf",
+"funktion": "Administrative Vorständin (interim)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001493/77974",
+"stand": "2026-06-10"
+}
+},
+{
+"name": "Sabine Hoffmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001493/77974",
+"stand": "2026-06-10"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 60001,
+"bis": 70000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 220001,
+"bis": 230000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e0/4d/754689/Jahresabschluss-DZNE-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001493/77974",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-10",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

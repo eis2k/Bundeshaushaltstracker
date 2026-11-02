@@ -1,0 +1,56 @@
+{
+"id": "deutsche-stiftung-engagement-und-ehrenamt",
+"name": "Deutsche Stiftung Engagement und Ehrenamt",
+"art": "verein_stiftung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "06-0601-68513",
+"text": "Zuschuss an die Deutsche Stiftung für Engagement und Ehrenamt",
+"epl": "06",
+"epl_text": "Bundesministerium des Innern",
+"werte": {
+"2021": {
+"soll": 10000000,
+"ist": 0
+},
+"2022": {
+"soll": 10000000,
+"ist": 0
+},
+"2023": {
+"soll": 10000000,
+"ist": 0
+},
+"2024": {
+"soll": 10000000,
+"ist": 0
+},
+"2025": {
+"soll": 10000000,
+"ist": 0
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

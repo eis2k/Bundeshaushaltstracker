@@ -1,0 +1,119 @@
+{
+"id": "verband-der-historiker-und-historikerinnen-deutschlands",
+"name": "Verband der Historiker und Historikerinnen Deutschlands e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Frankfurt",
+"website": "https://www.historikerverband.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007907",
+"eintrag_id": 72071,
+"version": 1,
+"stand": "2026-03-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007907/72071",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/d7/85/709965/Lobbyregister-Registereintraege-Detailansicht-R007907-2026-03-24_10-47-46.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Deutsche Forschungsgemeinschaft",
+"epl": null,
+"von": 90001,
+"bis": 100000,
+"zweck": "Nationale Forschungsdateninfrastruktur",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 90001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Antje Flüchter",
+"funktion": "Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007907/72071",
+"stand": "2026-03-24"
+}
+},
+{
+"name": "Constantin Goschler",
+"funktion": "Stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007907/72071",
+"stand": "2026-03-24"
+}
+},
+{
+"name": "Christoph Dartmann",
+"funktion": "Schriftführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007907/72071",
+"stand": "2026-03-24"
+}
+},
+{
+"name": "Claudia Tiersch",
+"funktion": "Schatzmeisterin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007907/72071",
+"stand": "2026-03-24"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 290001,
+"bis": 300000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/90/4a/709964/EUeR-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007907/72071",
+"abgerufen": "2026-11-02",
+"stand": "2026-03-24",
+"etikett": "Eigenangabe",
+"version": 1
+}
+]
+}

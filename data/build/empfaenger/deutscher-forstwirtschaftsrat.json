@@ -1,0 +1,143 @@
+{
+"id": "deutscher-forstwirtschaftsrat",
+"name": "Deutscher Forstwirtschaftsrat e.V. (DFWR)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.dfwr.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002126",
+"eintrag_id": 77220,
+"version": 18,
+"stand": "2026-05-26",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002126/77220",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c0/20/741818/Lobbyregister-Registereintraege-Detailansicht-R002126-2026-05-26_09-26-41.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Ernährung, Landwirtschaft und Heimat (BMLEH)",
+"epl": null,
+"von": 40001,
+"bis": 50000,
+"zweck": "Die Veranstaltung mit dem Titel „Forstpolitik mit Weitblick – Im Dialog für Europas Wälder“ wird durch das Bundesministerium für Ernährung, Landwirtschaft und Heimat (BMLEH) aufgrund eines Beschlusses des Deutschen Bundestages mit 50.000 € gefördert. Im Jahr 2026 wurde ein EU-Symposium in Kooperation von Deutscher Forstwirtschaftsrat e.V. (DFWR) und Fachagentur Nachwachsende Rohstoffe e.V. (FNR) in Berlin veranstaltet. Die Tagung hat sich als zentraler Treffpunkt der europäischen Wald- und Umweltpolitik etabliert und bringt Politik, Verbände, Wissenschaft und Praxis zusammen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Ernährung, Landwirtschaft und Heimat (BMLEH)",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "Im Jahr 2025 wurde das EU-Symposium des DFWR durch das Bundesministerium für Ernährung, Landwirtschaft und Heimat (BMLEH) aufgrund eines Beschlusses des Deutschen Bundestages mit 20.600 € gefördert.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 60002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christian Haase",
+"funktion": "Präsident ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002126/77220",
+"stand": "2026-05-26"
+}
+},
+{
+"name": "Christoph Ewers",
+"funktion": "Vize-Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002126/77220",
+"stand": "2026-05-26"
+}
+},
+{
+"name": "Axel Miske",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002126/77220",
+"stand": "2026-05-26"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Christian Haase",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag",
+"funktion_beim_empfaenger": "Präsident ",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Christian Haase ist laut Lobbyregister Präsident  bei Deutscher Forstwirtschaftsrat e.V. (DFWR) und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag. Deutscher Forstwirtschaftsrat e.V. (DFWR) erhielt laut Lobbyregister Mittel von: Bundesministerium für Ernährung, Landwirtschaft und Heimat (BMLEH).",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Ernährung, Landwirtschaft und Heimat (BMLEH)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002126/77220",
+"stand": "2026-05-26"
+}
+],
+"stand": "2026-05-26"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 650001,
+"bis": 660000
+},
+"lobbyausgaben": {
+"von": 750001,
+"bis": 760000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/31/e1/741815/DFWR_Jahresabschluss_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002126/77220",
+"abgerufen": "2026-11-02",
+"stand": "2026-05-26",
+"etikett": "Eigenangabe",
+"version": 18
+}
+]
+}

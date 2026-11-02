@@ -1,0 +1,181 @@
+{
+"id": "mafianeindanke",
+"name": "mafianeindanke e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.mafianeindanke.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007971",
+"eintrag_id": 85773,
+"version": 3,
+"stand": "2026-09-11",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007971/85773",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/de/b4/841089/Lobbyregister-Registereintraege-Detailansicht-R007971-2026-09-11_18-31-53.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Deutsche Stiftung für Engagement und Ehrenamt (DSEE)",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Projekt \"Mapping the Mafia\" im Rahmen der Förderausschreibung 100xdigital. Zeitraum: 01.01.2025-31.12.2025.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 10001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Judith Eisinger",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007971/85773",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Giulia Norberti",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007971/85773",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Sandro Mattioli",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007971/85773",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Ludovica Bölting",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007971/85773",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Helena Raspe",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2024-08"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007971/85773",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Garavini Laura",
+"funktion": "Ehrenpräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007971/85773",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Michael Findeisen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007971/85773",
+"stand": "2026-09-11"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Helena Raspe",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2024-08",
+"funktion_beim_empfaenger": "Vorstandsmitglied",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Helena Raspe ist laut Lobbyregister Vorstandsmitglied bei mafianeindanke e.V. und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2024-08. mafianeindanke e.V. erhielt laut Lobbyregister Mittel von: Deutsche Stiftung für Engagement und Ehrenamt (DSEE).",
+"ausschuesse": [],
+"geld_aus": [
+"Deutsche Stiftung für Engagement und Ehrenamt (DSEE)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007971/85773",
+"stand": "2026-09-11"
+}
+],
+"stand": "2026-09-11"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 10001,
+"bis": 20000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/d6/76/841087/Finanzbericht-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007971/85773",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-11",
+"etikett": "Eigenangabe",
+"version": 3
+}
+]
+}

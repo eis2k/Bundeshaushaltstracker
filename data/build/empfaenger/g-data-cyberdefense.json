@@ -1,0 +1,140 @@
+{
+"id": "g-data-cyberdefense",
+"name": "G DATA CyberDefense AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Bochum",
+"website": "https://www.gdata.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R008261",
+"eintrag_id": 86011,
+"version": 1,
+"stand": "2026-10-06",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008261/86011",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f8/d6/857097/Lobbyregister-Registereintraege-Detailansicht-R008261-2026-10-06_09-10-38.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium der Finanzen",
+"epl": "08",
+"von": 1340001,
+"bis": 1350000,
+"zweck": "Forschungszulage nach dem Forschungszulagengesetz (FZulG)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1340001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Andreas Lüning",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008261/86011",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Kai Figge",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008261/86011",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Frank Heisler",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008261/86011",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Matthias Zuchowski",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008261/86011",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Jessika Lüning",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008261/86011",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Vera Haake",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008261/86011",
+"stand": "2026-10-06"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 160001,
+"bis": 170000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/d9/8d/857096/JA-Offenlegung-31-12-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008261/86011",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-06",
+"etikett": "Eigenangabe",
+"version": 1
+}
+]
+}

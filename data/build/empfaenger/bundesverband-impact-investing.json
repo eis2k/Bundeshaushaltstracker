@@ -1,0 +1,191 @@
+{
+"id": "bundesverband-impact-investing",
+"name": "Bundesverband Impact Investing e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://bvii.org/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004768",
+"eintrag_id": 70502,
+"version": 6,
+"stand": "2026-07-28",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004768/70502",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/29/f3/821688/Lobbyregister-Registereintraege-Detailansicht-R004768-2026-07-28_20-57-41.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 280001,
+"bis": 290000,
+"zweck": "Davon: 142.331,21 EUR Bundesmittel laut Bescheid des Jahres 2025 sowie 137.759,53 EUR aus ESF-Mitteln laut Bescheid des Jahres 2025. Für die Finanzierung junger gemeinwohlorientierter Unternehmen spielen Impact Investoren, die mit Ihren Investitionen neben einer finanziellen Rendite auch eine nachweisliche gesellschaftliche und/oder ökologische Wirkung erzielen möchten, eine immer wichtigere Rolle. Gleichzeitig fehlt es an Wissen und Transparenz über diesen Ansatz, was mitunter dazu führt, dass solche Finanzierungen nur zu einem geringen Teil erfolgreich sind. Daher möchte dieses Projekt gemeinwohlorientierten Unternehmen und wirkungsorientierten Investoren und Asset Managern über einen Online-Kurs sowie eine Online-Plattform themenspezifisches Wissen über den Impact Investing Ansatz vermitteln und zugänglich gemacht werden. Zudem soll durch ein Präsenzformat der Austausch und die Vernetzung gemeinwohlorientierter Unternehmen und Impact Investoren ermöglicht werden.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 280001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Andreas Rickert",
+"funktion": "Vorsitzender Vorstand BVII",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004768/70502",
+"stand": "2026-07-28"
+}
+},
+{
+"name": "Dina Lorentz",
+"funktion": "Geschäftsführerin BVII",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004768/70502",
+"stand": "2026-07-28"
+}
+},
+{
+"name": "Fittko Sebastian",
+"funktion": "Stellvertretender Vorsitzender Vorstand BVII",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004768/70502",
+"stand": "2026-07-28"
+}
+},
+{
+"name": "Safar Sarif",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004768/70502",
+"stand": "2026-07-28"
+}
+},
+{
+"name": "Rafael Andreas  Jaron",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004768/70502",
+"stand": "2026-07-28"
+}
+},
+{
+"name": "Christopher Matz",
+"funktion": "Finanzvorstand BVII",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004768/70502",
+"stand": "2026-07-28"
+}
+},
+{
+"name": "Christian Hassel",
+"funktion": "Vorstandsmitglied BVII",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004768/70502",
+"stand": "2026-07-28"
+}
+},
+{
+"name": "Simon Lehmann-Leo",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-04"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004768/70502",
+"stand": "2026-07-28"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Simon Lehmann-Leo",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-04",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Simon Lehmann-Leo ist laut Lobbyregister Interessenvertretung bei Bundesverband Impact Investing e.V. und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-04. Bundesverband Impact Investing e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Klimaschutz.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Wirtschaft und Klimaschutz"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004768/70502",
+"stand": "2026-07-28"
+}
+],
+"stand": "2026-07-28"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 70001,
+"bis": 80000
+},
+"mitgliedsbeitraege": {
+"von": 170001,
+"bis": 180000
+},
+"lobbyausgaben": {
+"von": 50001,
+"bis": 60000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e9/c1/821687/JA-Bilanz-2025-Bundesverband-Impact-Investing-e-V-Copy.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004768/70502",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-28",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

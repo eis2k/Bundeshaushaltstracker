@@ -1,0 +1,117 @@
+{
+"id": "vtg",
+"name": "VTG GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Hamburg",
+"website": "www.vtg.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002918",
+"eintrag_id": 81203,
+"version": 7,
+"stand": "2026-07-10",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002918/81203",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/df/ea/810817/Lobbyregister-Registereintraege-Detailansicht-R002918-2026-07-10_10-53-58.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Eisenbahn Bundesamt",
+"epl": "12",
+"von": 1260001,
+"bis": 1270000,
+"zweck": "Gegenstand des Vorhabens ist die Markteinführung eines innovativen Radsatzes zur Steigerung der Nutzlast und Reduzierung der Betriebskosten von Güterwagen.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1260001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Luca Giebeler",
+"funktion": "Head of Corporate Communications & Public Affairs",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002918/81203",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Alberto Nobis",
+"funktion": "Chief Executive Officer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002918/81203",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Thomas Jaeger",
+"funktion": "Chief Operating Officer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002918/81203",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Jessica Raguz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002918/81203",
+"stand": "2026-07-10"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 440001,
+"bis": 450000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/a5/6a/810813/VTG_GmbH_Jahresbericht_2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002918/81203",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-10",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

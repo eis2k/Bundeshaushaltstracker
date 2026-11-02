@@ -1,0 +1,134 @@
+{
+"id": "qudora-technologies",
+"name": "QUDORA Technologies GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Braunschweig",
+"website": "www.qudora.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007695",
+"eintrag_id": 81800,
+"version": 5,
+"stand": "2026-07-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007695/81800",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/1a/29/798735/Lobbyregister-Registereintraege-Detailansicht-R007695-2026-07-01_11-11-39.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Forschung Technologie und Raumfahrt",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "Das Zukunftscluster \"QVLS-iLabs\", welches der Fördermaßnahme \"Clusters4Future\" des BMFTRs zugeordnet ist, handelt es sich um ein öffentliches Förderprojekt. Das Ziel des Zukunftsclusters ist dabei die Überführung von quantentechnologischen Forschungsergebnissen in Produkte. Projektteilnehmer sind sowohl öffentliche als auch privatwirtschaftliche Partner. Die Fördermittel werden für Personal- und Matreialkosten genutzt.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung Technologie und Raumfahrt",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "Zuwendung aus dem Bundeshaushalt, für das Vorhaben: \"Verbundprojekt: Hybride Architektur für Ionenfallen-Quantenprozessoren mit integrierter CMOS-Elektronik (QuSTAC)\" sowie das Teilvorhaben: \"Design und Fabrikation von Quantenprozessoren in hybrider Architektur mit Ionenfallen- und CMOS- Technologie\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung Technologie und Raumfahrt",
+"epl": "30",
+"von": 1,
+"bis": 10000,
+"zweck": "Zuwendung aus dem Bundeshaushalt für das Vorhaben: \"Verbundprojekt: Integrierte Wellenleiter auf Saphirsubstraten für Ionenfallen Quantencomputer (SmaraQ)\" sowie das Teilvorhaben: \"Design und Charakterisierung integrierter Wellenleiter und photonischer Koppler für Ionenfallen Quantencomputer\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 40003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Amado Bautista",
+"funktion": "CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007695/81800",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Giorgio Zarantonello",
+"funktion": "CTO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007695/81800",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Jani Heikkinen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007695/81800",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Henning Hahn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007695/81800",
+"stand": "2026-07-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/43/94/798734/Jahresabschluss-Qudora-Technologies-GmbH-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007695/81800",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-01",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

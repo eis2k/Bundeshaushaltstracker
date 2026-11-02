@@ -1,0 +1,150 @@
+{
+"id": "skw-stickstoffwerke-piesteritz",
+"name": "SKW Stickstoffwerke Piesteritz GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Lutherstadt Wittenberg",
+"website": "www.skwp.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006169",
+"eintrag_id": 84632,
+"version": 7,
+"stand": "2026-08-12",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006169/84632",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/44/4c/830166/Lobbyregister-Registereintraege-Detailansicht-R006169-2026-08-12_13-50-09.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BLE (Bundesanstalt für Landwirtschaft und Ernährung)",
+"epl": "10",
+"von": 20001,
+"bis": 30000,
+"zweck": "Entwicklung und praktische Anwendung eines variablen vollautomatisierten Applikationsmanagements von Ureaseinhibitoren in freibelüfteten Ställen und Ausläufen im Spannungsfeld von Tierwohl, Klima- und Umweltschutz in der Schweinehaltung (IMPROVE)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BLE (Bundesanstalt für Landwirtschaft und Ernährung)",
+"epl": "10",
+"von": 30001,
+"bis": 40000,
+"zweck": "Nachhaltiger Winterrapsanbau durch züchterische Verbesserung der NUE und Optimierung des Anbausystems (NAWIRA)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BLE (Bundesanstalt für Landwirtschaft und Ernährung)",
+"epl": "10",
+"von": 30001,
+"bis": 40000,
+"zweck": "Verbesserung physiologischer und morphologischer N-Effizienzmerkmale in Winterweizen für eine nachhaltige Pflanzenproduktion (NEATWHEAT)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Ernährung und Landwirtschaft (BMEL)",
+"epl": "10",
+"von": 10001,
+"bis": 20000,
+"zweck": "Minderung von Stickstoffverlusten und Verbesserung der Stickstoffeffizienz in der landwirtschaftlichen Praxis, z. B. bei Wintergetreide. (StaPraxRegio)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Ernährung und Landwirtschaft (BMEL)",
+"epl": "10",
+"von": 20001,
+"bis": 30000,
+"zweck": "Einzelpflanzenspezifische Düngung zum ressourceneffizienten und bedarfsoptimierten Anbau von Raps und Mais in Gleichstandsaat (EXACT)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 110005,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Carsten Franzke",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006169/84632",
+"stand": "2026-08-12"
+}
+},
+{
+"name": "Torsten Klett",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006169/84632",
+"stand": "2026-08-12"
+}
+},
+{
+"name": "Antje Bittner",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006169/84632",
+"stand": "2026-08-12"
+}
+},
+{
+"name": "Christopher Profitlich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006169/84632",
+"stand": "2026-08-12"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 270001,
+"bis": 280000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/fe/ae/830165/Jahresbericht_2025_Testat.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006169/84632",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-12",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

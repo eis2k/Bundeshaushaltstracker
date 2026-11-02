@@ -1,0 +1,97 @@
+{
+"id": "bundesverband-der-aerztinnen-und-aerzte-des-oeffentlichen-ge",
+"name": "Bundesverband der Ärztinnen und Ärzte des öffentlichen Gesundheitsdienstes e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.bvoegd.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004037",
+"eintrag_id": 67878,
+"version": 6,
+"stand": "2026-07-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004037/67878",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/60/77/804423/Lobbyregister-Registereintraege-Detailansicht-R004037-2026-07-03_14-07-52.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesverwaltungsamt",
+"epl": "06",
+"von": 90001,
+"bis": 100000,
+"zweck": "Zuwendung im Bereich des Bundesministeriums für Gesundheit zur Förderung des Projekts 74. Wissenschaftlicher Kongress & 11. Bayerischer Kongress für den Öffentlichen Gesundheitsdienst Netzwerke im ÖGD – Gesundheit kreativ, digital und lebensnah gestalten 01.-04. April 2025 in Erlangen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 90001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Peter Schäfer",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004037/67878",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "Sophie Ruhrmann",
+"funktion": "Erste stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004037/67878",
+"stand": "2026-07-03"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 80001,
+"bis": 90000
+},
+"lobbyausgaben": {
+"von": 50001,
+"bis": 60000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/7c/cf/804422/2025-Jahresfinanzbericht-BVOEGD.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004037/67878",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-03",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

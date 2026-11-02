@@ -1,0 +1,138 @@
+{
+"id": "centre-for-humanitarian-action",
+"name": "Centre for Humanitarian Action e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://www.chaberlin.org/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002829",
+"eintrag_id": 76253,
+"version": 9,
+"stand": "2026-06-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002829/76253",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/2b/16/784414/Lobbyregister-Registereintraege-Detailansicht-R002829-2026-06-29_14-34-41.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 40001,
+"bis": 50000,
+"zweck": "Projektförderung (Fehlbedarfsfinanzierung) zum Thema \"Spannungsfeld zwischen Innovation, Effizienz und prinzipienbasierter humanitärer Hilfe\".",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+"epl": "23",
+"von": 20001,
+"bis": 30000,
+"zweck": "Wissenschaftliche Begleitung des BMZ ÜH Referats",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 60002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ralf Südhoff",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002829/76253",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Sonja Hövelmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002829/76253",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Darina Pellowska",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002829/76253",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Goda Milasiute",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002829/76253",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Jonas Schaaf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002829/76253",
+"stand": "2026-06-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 470001,
+"bis": 480000
+},
+"lobbyausgaben": {
+"von": 140001,
+"bis": 150000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/1d/57/784411/00_Gewinnermittlung-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002829/76253",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-29",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

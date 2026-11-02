@@ -1,0 +1,167 @@
+{
+"id": "flughafen-stuttgart",
+"name": "Flughafen Stuttgart",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Stuttgart",
+"website": "http://www.stuttgart-airport.com/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004639",
+"eintrag_id": 82267,
+"version": 7,
+"stand": "2026-07-07",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004639/82267",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f1/6a/808043/Lobbyregister-Registereintraege-Detailansicht-R004639-2026-07-07_16-10-54.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMDV",
+"epl": "12",
+"von": 180001,
+"bis": 190000,
+"zweck": "Förderzuschuss für das Projekt finalize! zur Elektrifizierung der Vorfeldflotte am STR. Die Flughafen Stuttgart GmbH, Skytanking und das ISEA der RWTH Aachen haben sich zusammengeschlossen, um eine innovative Lösung für die Elektrifizierung eines großen Teils der Abfertigungsflotte des Flughafens zu entwickeln. Gefördert wurde die Anschaffung von Fahrzeugen sowie mit dem Projekt verbundene Personalkosten.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 180001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ulrich Heppe",
+"funktion": "Sprecher der Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004639/82267",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Carsten Poralla",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004639/82267",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Johannes Schumm",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004639/82267",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Stelian Dumitrache",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004639/82267",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Theresa Diehl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004639/82267",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Kai Leitenberger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2022-08"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004639/82267",
+"stand": "2026-07-07"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Kai Leitenberger",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2022-08",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Kai Leitenberger ist laut Lobbyregister Interessenvertretung bei Flughafen Stuttgart und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2022-08. Flughafen Stuttgart erhielt laut Lobbyregister Mittel von: BMDV.",
+"ausschuesse": [],
+"geld_aus": [
+"BMDV"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004639/82267",
+"stand": "2026-07-07"
+}
+],
+"stand": "2026-07-07"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 70001,
+"bis": 80000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/c4/46/808042/FSG_Pruefungsbericht_K_2025_final_signiert.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004639/82267",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-07",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

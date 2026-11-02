@@ -1,0 +1,96 @@
+{
+"id": "icct-international-council-on-clean-transportation-europe-ge",
+"name": "ICCT - International Council on Clean Transportation Europe gemeinnuetzige GmbH",
+"art": "verein_stiftung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "www.theicct.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005590",
+"eintrag_id": 73202,
+"version": 6,
+"stand": "2026-03-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005590/73202",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/7b/f1/701037/Lobbyregister-Registereintraege-Detailansicht-R005590-2026-03-03_14-21-04.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Umweltbundesamt",
+"epl": "16",
+"von": 50001,
+"bis": 60000,
+"zweck": "Wissenschaftliche Forschung und analytische Arbeiten im Bereich Verkehr und Umwelt",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 50001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Peter Mock",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005590/73202",
+"stand": "2026-03-03"
+}
+},
+{
+"name": "Felipe Rodriguez Bueno",
+"funktion": "Stellvertretender Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005590/73202",
+"stand": "2026-03-03"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 6820001,
+"bis": 6830000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/f0/f8/701036/Jahresabschluss2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005590/73202",
+"abgerufen": "2026-11-02",
+"stand": "2026-03-03",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

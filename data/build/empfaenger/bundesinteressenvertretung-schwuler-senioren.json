@@ -1,0 +1,149 @@
+{
+"id": "bundesinteressenvertretung-schwuler-senioren",
+"name": "Bundesinteressenvertretung schwuler Senioren (BISS) e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Köln",
+"website": "https://schwuleundalter.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000555",
+"eintrag_id": 80983,
+"version": 13,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000555/80983",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/2c/65/793376/Lobbyregister-Registereintraege-Detailansicht-R000555-2026-06-30_16-03-16.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 190001,
+"bis": 200000,
+"zweck": "Projektförderung aus dem Bundesaltenplan zum bundesweiten Empowerment von lokalen und regionalen Strukturen der LSBTIQ*-Community, Akteur*innen der Senior*innenarbeit und der Politik zur Initiierung und Weiterentwicklung bedarfsgerechter Angebote zur Ermöglichung von aktiver gesellschaftlicher Teilhabe und politischer Partizipation älterer schwuler Männer, Menschen mit HIV und perspektivisch schwulen trans- und intergeschlechtlichen Menschen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Spitzenverband der gesetzlichen Krankenkassen im Einvernehmen mit dem Verband der Privaten Krankenversicherung e.V.",
+"epl": null,
+"von": 170001,
+"bis": 180000,
+"zweck": "Projekt zum Aufbau und zur Implementierung einer Bundesfachstelle Pflege und Altern von LSBTIQ* und Menschen mit HIV zur Stärkung der Selbsthilfe und Selbstvertretungskompetenzen pflegebedürftiger LSBTIQ*, pflegebedürftiger Menschen mit HIV sowie von deren pflegenden An- und Zugehörigen.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 360002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Andreas Kringe",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000555/80983",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Bernd Kraft",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000555/80983",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Peter Struck",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000555/80983",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Wolfgang Schwarz-Heim",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000555/80983",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Ralf Richter",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000555/80983",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Jan Bockemühl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000555/80983",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 10001,
+"bis": 20000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/6b/92/793375/BISS_Jahresabschluss_GuV-Bilanz_2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000555/80983",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 13
+}
+]
+}

@@ -1,0 +1,108 @@
+{
+"id": "deutsch-polnische-industrie-und-handelskammer",
+"name": "Deutsch-Polnische Industrie- und Handelskammer  (AHK Polen)",
+"art": "verein_stiftung",
+"rechtsform": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+"sitz": "Warszawa",
+"website": "www.ahk.pl",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007229",
+"eintrag_id": 84402,
+"version": 4,
+"stand": "2026-08-07",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007229/84402",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ef/37/827921/Lobbyregister-Registereintraege-Detailansicht-R007229-2026-08-07_09-44-54.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz (BMWK)",
+"epl": "09",
+"von": 690001,
+"bis": 700000,
+"zweck": "Finanzielle Unterstützung der AHK POLEN zur Erfüllung Ihrer Aufgaben; Young Energy Europe 2.0; Exportinitiative Energie",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 690001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Lars Gutheil",
+"funktion": "Geschäftsführendes Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007229/84402",
+"stand": "2026-08-07"
+}
+},
+{
+"name": "Joanna Pietrusewicz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007229/84402",
+"stand": "2026-08-07"
+}
+},
+{
+"name": "Agnieszka Ozubko",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007229/84402",
+"stand": "2026-08-07"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1110001,
+"bis": 1120000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/be/46/827920/Jahresabschluss2024-AHKPOLEN.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007229/84402",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-07",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

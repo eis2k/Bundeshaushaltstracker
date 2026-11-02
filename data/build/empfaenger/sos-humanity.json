@@ -1,0 +1,164 @@
+{
+"id": "sos-humanity",
+"name": "SOS Humanity ",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://sos-humanity.org/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001985",
+"eintrag_id": 82763,
+"version": 23,
+"stand": "2026-07-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001985/82763",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/77/4f/822234/Lobbyregister-Registereintraege-Detailansicht-R001985-2026-07-29_14-58-19.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Auswärtige Angelegenheiten",
+"epl": null,
+"von": 210001,
+"bis": 220000,
+"zweck": "Das Bundesamt für Auswärtige Angelegenheiten hat SOS Humanity die Gelder am 04.02.2025 und 04.03.2025 bereitgestellt. Die Gelder gehen aus einem Beschluss des Auswärtigen Amts aus dem Jahr 2022 hervor, welcher eine finanzielle Unterstützung der zivilen Seenotrettung in Höhe von zwei Millionen Euro umfasste.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 210001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Till Rummenhohl",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001985/82763",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Klaus Linsenmeier",
+"funktion": "Schatzmeister im Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001985/82763",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Johannes Remy",
+"funktion": "Stellvertretender Vorsitzender des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001985/82763",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Laura  Gorriahn",
+"funktion": "Vorsitzende des Vorstandes ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001985/82763",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Lisa Bogerts",
+"funktion": "Stellvertretende Vorsitzende des Vorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001985/82763",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Nina Geisler",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001985/82763",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Janna Sauerteig",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001985/82763",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Marie Michel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001985/82763",
+"stand": "2026-07-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 4990001,
+"bis": 5000000
+},
+"mitgliedsbeitraege": {
+"von": 10001,
+"bis": 20000
+},
+"lobbyausgaben": {
+"von": 70001,
+"bis": 80000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/5b/68/822233/SOS_HUMANITY-Jahresbericht-2025_20260630-WEB.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001985/82763",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-29",
+"etikett": "Eigenangabe",
+"version": 23
+}
+]
+}

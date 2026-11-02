@@ -1,0 +1,117 @@
+{
+"id": "verband-medizinischer-fachberufe",
+"name": "Verband medizinischer Fachberufe e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bochum",
+"website": "www.vmf-online.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000508",
+"eintrag_id": 81265,
+"version": 8,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000508/81265",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/2f/75/789176/Lobbyregister-Registereintraege-Detailansicht-R000508-2026-06-30_11-25-47.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMFTR",
+"epl": "30",
+"von": 150001,
+"bis": 160000,
+"zweck": "Zuschüsse zu Schulungsseminaren für Prüfungs- und Berufsbildungsausschussmitglieder der vertretenden Berufe i. d. R. aus dem ESF",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 150001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Stephanie Schreiber",
+"funktion": "1. Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000508/81265",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Karin Becker-Oevermann",
+"funktion": "2. Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000508/81265",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Hannelore König",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000508/81265",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Patricia Ley",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000508/81265",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 2480001,
+"bis": 2490000
+},
+"lobbyausgaben": {
+"von": 1300001,
+"bis": 1310000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/0f/51/789174/Lobbyregister-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000508/81265",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

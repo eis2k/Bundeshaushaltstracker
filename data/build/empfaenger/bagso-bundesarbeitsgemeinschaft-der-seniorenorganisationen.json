@@ -1,0 +1,206 @@
+{
+"id": "bagso-bundesarbeitsgemeinschaft-der-seniorenorganisationen",
+"name": "BAGSO - Bundesarbeitsgemeinschaft der Seniorenorganisationen e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bonn",
+"website": "www.bagso.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000859",
+"eintrag_id": 79684,
+"version": 23,
+"stand": "2026-06-18",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000859/79684",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/00/d1/764392/Lobbyregister-Registereintraege-Detailansicht-R000859-2026-06-18_16-41-51.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ)",
+"epl": "17",
+"von": 4030001,
+"bis": 4040000,
+"zweck": "Förderung der Geschäftsstelle und deren Öffentlichkeitsarbeit Projektförderung: - Geschäftsstelle Internationale Altenpolitik - Servicestelle Bildung und Lernen im Alter - Netzwerkstelle Lokale Allianzen für Menschen mit Demenz - 14. Deutscher Seniorentag 2025 - KI für ein gutes Altern - DigitalPakt Alter - Karikaturenwettbewerb \"Altersdiskriminierung\" - Neuauflage der Broschüre \"Schuldenfrei im Alter\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 4030001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Regina Görner",
+"funktion": "Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000859/79684",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Karl-Michael Griffig",
+"funktion": "stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000859/79684",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Jens-Peter Kruse",
+"funktion": "stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000859/79684",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Heike Felscher",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000859/79684",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Anna Brückner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000859/79684",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Silke Leicht",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000859/79684",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Stefanie Adler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000859/79684",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Barbara Stupp",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000859/79684",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Ina Voelcker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000859/79684",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Guido Klumpp",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000859/79684",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Simon Konermann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000859/79684",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Marion Waltersdorf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000859/79684",
+"stand": "2026-06-18"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 30001,
+"bis": 40000
+},
+"lobbyausgaben": {
+"von": 200001,
+"bis": 210000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/f2/4a/764388/Jahresrechnung_2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000859/79684",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-18",
+"etikett": "Eigenangabe",
+"version": 23
+}
+]
+}

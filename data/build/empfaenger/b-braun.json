@@ -1,0 +1,327 @@
+{
+"id": "b-braun",
+"name": "B. Braun SE",
+"art": "unternehmen",
+"rechtsform": "Europäische Aktiengesellschaft (SE)",
+"sitz": "Melsungen",
+"website": "www.bbraun.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002089",
+"eintrag_id": 86979,
+"version": 13,
+"stand": "2026-10-02",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002089/86979",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/3a/1e/855788/Lobbyregister-Registereintraege-Detailansicht-R002089-2026-10-02_14-44-25.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "Projekt REACT",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 10001,
+"bis": 20000,
+"zweck": "Projekt ROBUST",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 40001,
+"bis": 50000,
+"zweck": "Projekt MEIK",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 80001,
+"bis": 90000,
+"zweck": "Projekt Medinet",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "Projekt SEMECO",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 90001,
+"bis": 100000,
+"zweck": "Projekt XiDrain",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Fraunhofer Gesellschaft",
+"epl": null,
+"von": 70001,
+"bis": 80000,
+"zweck": "Projekt SmILE",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "Projekt Sec4loMT",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 340008,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Anna Maria Braun",
+"funktion": "Vorsitzende des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002089/86979",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Ingrun Alsleben",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002089/86979",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Markus Strotmann",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002089/86979",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Stefan Ruppert",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002089/86979",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Jens von Lackum",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002089/86979",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Jean-Claude Dubacher",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002089/86979",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Gabriela Soskuty",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002089/86979",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Christian Clarus",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002089/86979",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Denise Brecht",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002089/86979",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Frank Kirchner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002089/86979",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Klaus Dieter Pannes",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002089/86979",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Holger Seeberg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002089/86979",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Michael Lauk",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002089/86979",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Pierre Nasser",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002089/86979",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Andreas Hahn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002089/86979",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Markus Weber",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002089/86979",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Anke Tessin",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002089/86979",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Kerstin Heimel-Ventura",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002089/86979",
+"stand": "2026-10-02"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 520001,
+"bis": 530000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/3b/da/855786/2025_B_Braun_Geschaeftsbericht.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002089/86979",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-02",
+"etikett": "Eigenangabe",
+"version": 13
+}
+]
+}

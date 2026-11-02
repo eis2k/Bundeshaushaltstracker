@@ -1,0 +1,162 @@
+{
+"id": "arianegroup",
+"name": "ArianeGroup GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Taufkirchen",
+"website": "www.ariane.group/de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002792",
+"eintrag_id": 87532,
+"version": 14,
+"stand": "2026-10-13",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002792/87532",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/26/7a/860897/Lobbyregister-Registereintraege-Detailansicht-R002792-2026-10-13_19-42-48.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Deutsches Zentrum für Luft- und Raumfahrt (DLR)",
+"epl": "30",
+"von": 1960001,
+"bis": 1970000,
+"zweck": "Forschungstätigkeiten im Rahmen von Zuwendungsprojekten des DLR",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1960001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Pierre Godart",
+"funktion": "Vorsitzender der Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002792/87532",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Jens Franzeck",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002792/87532",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Jens Schröter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002792/87532",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Manuel Oesterschlink",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002792/87532",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Andreas Hoerkens",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002792/87532",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Annabel Nerlich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002792/87532",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Thorsten Ziegler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002792/87532",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Marcus Sonntag",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002792/87532",
+"stand": "2026-10-13"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 740001,
+"bis": 750000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ab/81/860896/ArianeGroup_GmbH-Jahresabschluss-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002792/87532",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-13",
+"etikett": "Eigenangabe",
+"version": 14
+}
+]
+}

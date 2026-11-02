@@ -1,0 +1,220 @@
+{
+"id": "vng",
+"name": "VNG AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Leipzig",
+"website": "www.vng.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002373",
+"eintrag_id": 86226,
+"version": 36,
+"stand": "2026-09-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002373/86226",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/52/6e/846798/Lobbyregister-Registereintraege-Detailansicht-R002373-2026-09-24_10-37-01.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Projektträger Jülich / Forschungszentrum Jülich GmbH im Auftrag des Bundesministeriums für Wirtschaft und Klimaschutz",
+"epl": "30",
+"von": 150001,
+"bis": 160000,
+"zweck": "Beschreibung: Energiepark Bad Lauchstädt - Förderung des Projekts „Energiepark Bad Lauchstädt“ als Reallabor der Energiewende zur Untersuchung der Herstellung, des Transportes, der Speicherung und des wirtschaftlichen Einsatzes von Grünem Wasserstoff im industriellen Maßstab. Beschreibung: BLWH2 - Förderung des Projekts „BLWH2“ zur Erschließung und Versorgung von Bestandsgebäuden und Neubauentwicklungen der Stadt Bad Lauchstädt mit klimaneutraler Wärme. Beschreibung: H2StoreFlex - Förderung des Projekts „Verbundvorhaben H2Store-flex-I: Effiziente und flexible Wasserstoffspeicherung in Kavernen am Energiepark Bad Lauchstädt; Teilvorhaben: Begleitende Forschung, Betriebsstrategien und Dissemination von Ergebnissen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Projektträger Jülich/ Forschungszentrum Jülich GmbH im Auftrag des Bundesministeriums für Bildung und Forschung",
+"epl": "30",
+"von": 10001,
+"bis": 20000,
+"zweck": "Beschreibung: TransHyDE - Förderung des Projekts Wasserstoffleitprojets „TransHyDE“ zur Erforschung von Transportmöglichkeiten für Wasserstoff.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 160002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ulf Heitmüller",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002373/86226",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Hans-Joachim Polk",
+"funktion": "Vorstand Infrastruktur & Technik",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002373/86226",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Bodo Rodestock",
+"funktion": "Vorstand Finanzen/Personal & IT",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002373/86226",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Bernhard Kaltefleiter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002373/86226",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "André Deichsel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002373/86226",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Oliver Friske",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002373/86226",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Melissa Bog",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2024-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002373/86226",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Claudia Hanisch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002373/86226",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Jeannine Eisenbeiser",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002373/86226",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Felix Weber",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002373/86226",
+"stand": "2026-09-24"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Melissa Bog",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2024-03",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Melissa Bog ist laut Lobbyregister Interessenvertretung bei VNG AG und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2024-03. VNG AG erhielt laut Lobbyregister Mittel von: Projektträger Jülich / Forschungszentrum Jülich GmbH im Auftrag des Bundesministeriums für Wirtschaft und Klimaschutz; Projektträger Jülich/ Forschungszentrum Jülich GmbH im Auftrag des Bundesministeriums für Bildung und Forschung.",
+"ausschuesse": [],
+"geld_aus": [
+"Projektträger Jülich / Forschungszentrum Jülich GmbH im Auftrag des Bundesministeriums für Wirtschaft und Klimaschutz",
+"Projektträger Jülich/ Forschungszentrum Jülich GmbH im Auftrag des Bundesministeriums für Bildung und Forschung"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002373/86226",
+"stand": "2026-09-24"
+}
+],
+"stand": "2026-09-24"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 210001,
+"bis": 220000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/4a/e0/846796/VNG-AG-Jahresabschluss-2025-Testat-sign.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002373/86226",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-24",
+"etikett": "Eigenangabe",
+"version": 36
+}
+]
+}

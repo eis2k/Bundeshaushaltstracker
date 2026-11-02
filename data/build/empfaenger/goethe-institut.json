@@ -1,0 +1,140 @@
+{
+"id": "goethe-institut",
+"name": "Goethe-Institut e. V.",
+"art": "verein_stiftung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": true,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "05-0504-68740",
+"text": "Goethe-Institut e. V., München - Betrieb und operative Mittel",
+"epl": "05",
+"epl_text": "Auswärtiges Amt",
+"werte": {
+"2015": {
+"soll": 215625000,
+"ist": 212746255
+},
+"2016": {
+"soll": 215625000,
+"ist": 220521040
+},
+"2017": {
+"soll": 219640000,
+"ist": 216592705
+},
+"2018": {
+"soll": 230349000,
+"ist": 227144947
+},
+"2019": {
+"soll": 233675000,
+"ist": 238669033
+},
+"2020": {
+"soll": 311736000,
+"ist": 254164788
+},
+"2021": {
+"soll": 245168000,
+"ist": 268693448
+},
+"2022": {
+"soll": 226500000,
+"ist": 236848717
+},
+"2023": {
+"soll": 235032000,
+"ist": 231757258
+},
+"2024": {
+"soll": 225800000,
+"ist": 229544458
+},
+"2025": {
+"soll": 224700000,
+"ist": 226275858
+},
+"2026": {
+"soll": 227700000,
+"ist": null
+}
+}
+},
+{
+"id": "05-0504-89340",
+"text": "Goethe-Institut e. V., München - Investitionen",
+"epl": "05",
+"epl_text": "Auswärtiges Amt",
+"werte": {
+"2015": {
+"soll": 1385000,
+"ist": 3400000
+},
+"2016": {
+"soll": 1385000,
+"ist": 1385000
+},
+"2017": {
+"soll": 1385000,
+"ist": 4100000
+},
+"2018": {
+"soll": 6625000,
+"ist": 6625000
+},
+"2019": {
+"soll": 5625000,
+"ist": 5625000
+},
+"2020": {
+"soll": 3342000,
+"ist": 3342000
+},
+"2021": {
+"soll": 3342000,
+"ist": 3342000
+},
+"2022": {
+"soll": 2771000,
+"ist": 2588114
+},
+"2023": {
+"soll": 0,
+"ist": 0
+},
+"2024": {
+"soll": 0,
+"ist": 0
+},
+"2025": {
+"soll": 0,
+"ist": 0
+},
+"2026": {
+"soll": 0,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

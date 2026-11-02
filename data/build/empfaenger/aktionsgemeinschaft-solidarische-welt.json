@@ -1,0 +1,144 @@
+{
+"id": "aktionsgemeinschaft-solidarische-welt",
+"name": "Aktionsgemeinschaft Solidarische Welt (ASW) e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.aswnet.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002079",
+"eintrag_id": 79883,
+"version": 14,
+"stand": "2026-06-22",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002079/79883",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/40/af/767570/Lobbyregister-Registereintraege-Detailansicht-R002079-2026-06-22_11-05-28.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschafliche Zusammenarbeit und Entwicklung",
+"epl": null,
+"von": 90001,
+"bis": 100000,
+"zweck": "Projekt \"Schutz der natürlichen Ressourcen des Regenwalds und Sicherung der Lebensweise als Strategie gegen die Klimakrise in Amazonien\" (Projektpartner in Brasilien: FAOR)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 60001,
+"bis": 70000,
+"zweck": "Projekt \"Förderung von ökonomischer Selbständigkeit und Selbstorganisierung junger Frauen im ruralen Kontext Burkina Fasos\" (Projektpartner in Burkina Faso: APFG)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 120001,
+"bis": 130000,
+"zweck": "Projekt \"Stärkung der Resilienz von Kleinbauern gegen die Folgen des Klimawandels durch integriertes Wasserressourcenmanagement (IWRM) und klimaresiliente Landwirtschaft (CSA) im Süden Simbabwes\" (Projektpartner in Simbabwe: Dabane Trust)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 80001,
+"bis": 90000,
+"zweck": "Projekt \"Traditionelle Völker und Agrarextraktivisten stellen sich den Klimaproblemen durch Schutz von Wäldern und Gewässern\" (Projektpartner in Brasilien: FASE))",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 350004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Marita Ecke",
+"funktion": "Stellvertretende Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002079/79883",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Joachim Kobold",
+"funktion": "Stellvertretender Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002079/79883",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Wolfram Walbrach",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002079/79883",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Michael Müller",
+"funktion": "Stellvertretender Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002079/79883",
+"stand": "2026-06-22"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 910001,
+"bis": 920000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/00/32/767569/Endgueltiges-Testat-JAP-2025-ASW.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002079/79883",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-22",
+"etikett": "Eigenangabe",
+"version": 14
+}
+]
+}

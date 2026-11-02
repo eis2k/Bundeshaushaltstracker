@@ -1,0 +1,167 @@
+{
+"id": "gesundheit-berlin-brandenburg",
+"name": "Gesundheit Berlin-Brandenburg e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.gesundheitbb.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005200",
+"eintrag_id": 82079,
+"version": 14,
+"stand": "2026-07-09",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005200/82079",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/05/2f/809728/Lobbyregister-Registereintraege-Detailansicht-R005200-2026-07-09_10-25-57.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesinstitut für Öffentliche Gesundheit (BIÖG)",
+"epl": "15",
+"von": 680001,
+"bis": 690000,
+"zweck": "Projektförderung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Nationales Zentrum frühe Hilfen (NZFH)",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "Projektförderung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Krankenkassen",
+"epl": null,
+"von": 2430001,
+"bis": 2440000,
+"zweck": "Projektförderung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 3130003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Stefan Pospiech",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005200/82079",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Danielle Dobberstein",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005200/82079",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Katharina Wiegmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005200/82079",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Stefan Bräunling",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005200/82079",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Holger Kilian",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005200/82079",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Sascha Rewald",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005200/82079",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Marion Amler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005200/82079",
+"stand": "2026-07-09"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 40001,
+"bis": 50000
+},
+"lobbyausgaben": {
+"von": 60001,
+"bis": 70000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/1e/30/809727/2024-vorlaeufige-Bilanz-und-GuV.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005200/82079",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-09",
+"etikett": "Eigenangabe",
+"version": 14
+}
+]
+}

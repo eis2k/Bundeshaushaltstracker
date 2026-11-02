@@ -1,0 +1,679 @@
+{
+"id": "volkswagen",
+"name": "Volkswagen AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Wolfsburg",
+"website": "www.volkswagenag.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001681",
+"eintrag_id": 87308,
+"version": 53,
+"stand": "2026-10-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/17/97/867290/Lobbyregister-Registereintraege-Detailansicht-R001681-2026-10-30_10-25-21.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesagentur für Arbeit",
+"epl": "11",
+"von": 1220001,
+"bis": 1230000,
+"zweck": "Qualifizierungsprogramme",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesagentur für Arbeit",
+"epl": "11",
+"von": 200001,
+"bis": 210000,
+"zweck": "Umschulungen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)",
+"epl": "09",
+"von": 190001,
+"bis": 200000,
+"zweck": "Bundesförderung für effiziente Gebäude Lichtquelle Neon gegen LED getauscht",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)",
+"epl": "09",
+"von": 420001,
+"bis": 430000,
+"zweck": "Installation von digitalen Strom- und Erdgaszählern; neue LED-Beleuchtung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)",
+"epl": "09",
+"von": 240001,
+"bis": 250000,
+"zweck": "Erneuerung der Beleuchtungstechnik",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)",
+"epl": "09",
+"von": 470001,
+"bis": 480000,
+"zweck": "Energieeffizienz und Modernisierung der Gebäudetechnik: Energetische Sanierung der Fassade inkl. Dämmung, Fenstertausch und Verschattung; Umrüstung der Hallen- und Fahrstraßenbeleuchtung auf LED",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)",
+"epl": "09",
+"von": 870001,
+"bis": 880000,
+"zweck": "Energetische Optimierung von Anlagen und Prozessen; Einsatz von Mess-, Steuer- und Regelungstechnik (MSR) sowie Energiemanagement-Software",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung (BMBF)",
+"epl": "30",
+"von": 390001,
+"bis": 400000,
+"zweck": "Reduktion von Emissionen und Ressourcenverbrauch; Innovative Materialien & Leichtbau; Digitalisierung, Sensorik & resiliente Produktionssysteme CirProTech; PI-CUBE; LCT; LiRaS; Repro",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Digitales und Verkehr",
+"epl": "12",
+"von": 30001,
+"bis": 40000,
+"zweck": "Nachhaltige Mobilität & Emissionsreduktion im Verkehrssystem SeQueRe; TyRoN",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Ernährung und Landwirtschaft (BMEL)",
+"epl": "10",
+"von": 140001,
+"bis": 150000,
+"zweck": "Biobasierte Materialien & nachhaltige Werkstoffe im Mobilitätskontext AdHoMe; Ligninschaum",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWI)",
+"epl": "09",
+"von": 1340001,
+"bis": 1350000,
+"zweck": "Digitalisierung und KI; Energieeffizienz & Elektrifizierung; CO2-Reduktion & Klimaschutz; Fertigungsprozesse; Nachhaltige Werkstoffe und Leichtbau; Kreislaufwirtschaft",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWI)",
+"epl": "09",
+"von": 130001,
+"bis": 140000,
+"zweck": "Nachhaltige Werkstoffe und Leichtbau DiMoLo; EnerClad; AGEDA; AVEL; DryHy; EPiCoat; GerMin; GePart; LaGaN; S3-Alu; SARESA; SMArtCool; SuMatHrA; TWBlock; REPLAKI; Light4Speed; DPlan KI; UrbanHeat; Industrial Computer Vision; Bi-CCS",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Rentenversicherung",
+"epl": null,
+"von": 290001,
+"bis": 300000,
+"zweck": "Lohnkostenzuschüsse",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Hauptzollamt",
+"epl": null,
+"von": 37610001,
+"bis": 37620000,
+"zweck": "Entlastung für Strom und gekoppelte Erzeugung von Kraft und Wärme",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 43540014,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Oliver Blume",
+"funktion": "Vorstandsvorsitzender der Volkswagen AG",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Arno Antlitz",
+"funktion": "Mitglied des Vorstands der Volkswagen AG, Finanzen und Operatives Geschäft",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Ralf Brandstätter",
+"funktion": "Mitglied des Vorstands der Volkswagen AG für China",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Manfred Döss",
+"funktion": "Mitglied des Vorstands der Volkswagen AG, Integrität und Recht",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Gernot Döllner",
+"funktion": "Mitglied des Vorstands der Volkwagen AG, Markengruppe ,Progressive', CEO der AUDI AG",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Thomas Schäfer",
+"funktion": "CEO der Marke Volkswagen Pkw, Mitglied des Vorstands der Volkswagen AG, Markengruppe Core",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Thomas Schmall-von Westerholt",
+"funktion": "Mitglied des Vorstands der Volkswagen AG, Technik, Vorstandsvorsitzender Volkswagen Group Components",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Hauke Stars",
+"funktion": "Mitglied des Vorstands der Volkswagen AG, IT ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Thomas Steg",
+"funktion": "Generalbevollmächtigter der Volkswagen AG und Leiter der Konzern Außenbeziehungen",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Rasch Erika",
+"funktion": "Mitglied des Konzernvorstands der Volkswagen AG, Personal",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Michael Jansen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Adrian Hennek",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Matthias Krähling",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Stefan Schmerbeck",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Michael Wolfert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Christian Kassyda",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Sebastian Krumpfe",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Daniela Cavallo",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Stavros Christidis",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Daniela Nowak",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Manfred Wulff",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Michael Heinemann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Arne Meiswinkel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Sabine Spell",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Jörn Wittmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Petra Schreiber",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Alin Stanescu",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Tina Dettmer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Christian Helms",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Torsten Briam",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Julia Probst",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Ingo Scholz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Sarah Stephan",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Sebastian Schaffer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Christian Vollmer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Eike Burmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Heiko Lossie",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Lars Nachbar",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Manfred de Vries",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Stefan Mecha",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Stefan Bernhart",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Olaf Schilgen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "abgeordneter_funktion",
+"person": "Cem Ince",
+"funktion_person": "MdB, Die Linke",
+"funktion_beim_empfaenger": "Arbeiter (bis 08.05.2025)",
+"kategorie": "Entgeltliche Tätigkeiten neben dem Mandat",
+"abgleich": "exakt",
+"satz": "Cem Ince (MdB, Die Linke) ist laut bundestag.de Arbeiter (bis 08.05.2025) bei Volkswagen AG. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Arbeit und Soziales; Ausschuss für Digitales und Staatsmodernisierung; Ausschuss für Wirtschaft und Energie. Volkswagen AG erhielt laut Lobbyregister Mittel von: Hauptzollamt; Bundesministerium für Wirtschaft und Energie (BMWI); Bundesagentur für Arbeit; Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA); Bundesministerium für Bildung und Forschung (BMBF); Deutsche Rentenversicherung; Bundesministerium für Ernährung und Landwirtschaft (BMEL); Bundesministerium für Digitales und Verkehr.",
+"ausschuesse": [
+"Ausschuss für Arbeit und Soziales",
+"Ausschuss für Digitales und Staatsmodernisierung",
+"Ausschuss für Wirtschaft und Energie"
+],
+"geld_aus": [
+"Hauptzollamt",
+"Bundesministerium für Wirtschaft und Energie (BMWI)",
+"Bundesagentur für Arbeit",
+"Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)",
+"Bundesministerium für Bildung und Forschung (BMBF)",
+"Deutsche Rentenversicherung",
+"Bundesministerium für Ernährung und Landwirtschaft (BMEL)",
+"Bundesministerium für Digitales und Verkehr"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/I/ince_cem-1045160",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 2300001,
+"bis": 2310000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/1c/42/867289/Volkswagen-AG_Geschaeftsbericht_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-30",
+"etikett": "Eigenangabe",
+"version": 53
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/I/ince_cem-1045160",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

@@ -1,0 +1,135 @@
+{
+"id": "wew",
+"name": "WEW GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Dortmund",
+"website": "https://wewhydrogen.com/de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005992",
+"eintrag_id": 87146,
+"version": 5,
+"stand": "2026-10-06",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005992/87146",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/25/de/857702/Lobbyregister-Registereintraege-Detailansicht-R005992-2026-10-06_17-04-24.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 2240001,
+"bis": 2250000,
+"zweck": "Fördermittel im Rahmen des Wasserstoffleitprojektes H2Giga.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 2240001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Wiebke Lüke",
+"funktion": "Gründerin und Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für eine Fraktion/Gruppe im Deutschen Bundestag",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005992/87146",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Gregor Polcyn",
+"funktion": "Gründer und Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005992/87146",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Lukas Lüke",
+"funktion": "Gründer und Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005992/87146",
+"stand": "2026-10-06"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Wiebke Lüke",
+"funktion_person": "Funktion für eine Fraktion/Gruppe im Deutschen Bundestag, Bundestag",
+"funktion_beim_empfaenger": "Gründerin und Geschäftsführerin",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Wiebke Lüke ist laut Lobbyregister Gründerin und Geschäftsführerin bei WEW GmbH und hatte zuvor eine öffentliche Funktion: Funktion für eine Fraktion/Gruppe im Deutschen Bundestag, Bundestag. WEW GmbH erhielt laut Lobbyregister Mittel von: Bundesministerium für Bildung und Forschung.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Bildung und Forschung"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005992/87146",
+"stand": "2026-10-06"
+}
+],
+"stand": "2026-10-06"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/c1/88/857701/260302-Digital-signierter-Jahresabschluss-2025-WEW-GmbH.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005992/87146",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-06",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

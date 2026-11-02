@@ -1,0 +1,120 @@
+{
+"id": "niedersaechsisches-landvolk-kreisverband-osterholz",
+"name": "Niedersächsisches Landvolk Kreisverband Osterholz e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Osterholz-Scharmbeck",
+"website": "www.landvolk-osterholz.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000713",
+"eintrag_id": 86905,
+"version": 14,
+"stand": "2026-10-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000713/86905",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/a1/62/854875/Lobbyregister-Registereintraege-Detailansicht-R000713-2026-10-01_14-16-24.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Fachagentur Nachwachsende Rohstoffe e. V.",
+"epl": null,
+"von": 110001,
+"bis": 120000,
+"zweck": "Verbundvorhaben: Klima- und naturschutzorientierte Nassbewirtschaftung von Moorböden mit innovativer Aufwuchsverwertung im Landkreis Osterholz",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 110001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Stephan Warnken",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000713/86905",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Tetje Meyerdierks",
+"funktion": "stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000713/86905",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Jan-Henrik Schöne",
+"funktion": "stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000713/86905",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Frank Havemeyer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000713/86905",
+"stand": "2026-10-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 350001,
+"bis": 360000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/8d/07/854872/GuV-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000713/86905",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-01",
+"etikett": "Eigenangabe",
+"version": 14
+}
+]
+}

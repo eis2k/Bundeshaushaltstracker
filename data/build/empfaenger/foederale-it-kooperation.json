@@ -1,0 +1,68 @@
+{
+"id": "foederale-it-kooperation",
+"name": "Föderale IT-Kooperation (FITKO)",
+"art": "oeffentlich",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": true,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "06-0602-68510",
+"text": "Zuschüsse an die Anstalt öffentlichen Rechts Föderale IT-Kooperation",
+"epl": "06",
+"epl_text": "Bundesministerium des Innern",
+"werte": {
+"2021": {
+"soll": 2863000,
+"ist": 2863000
+},
+"2022": {
+"soll": 9171000,
+"ist": 8314450
+},
+"2023": {
+"soll": 9604000,
+"ist": 9604000
+},
+"2024": {
+"soll": 43061000,
+"ist": 43061000
+},
+"2025": {
+"soll": 54066000,
+"ist": 51831961
+}
+}
+},
+{
+"id": "24-2402-68511",
+"text": "Zuschüsse an die Anstalt öffentlichen Rechts Föderale IT-Kooperation",
+"epl": "24",
+"epl_text": "Bundesministerium für Digitales und Staatsmodernisierung",
+"werte": {
+"2026": {
+"soll": 56606000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

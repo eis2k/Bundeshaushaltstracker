@@ -1,0 +1,127 @@
+{
+"id": "hamburger-sportbund",
+"name": "Hamburger Sportbund e.V. ",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Hamburg",
+"website": "https://www.hamburger-sportbund.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000262",
+"eintrag_id": 87762,
+"version": 17,
+"stand": "2026-10-19",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000262/87762",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f0/82/863273/Lobbyregister-Registereintraege-Detailansicht-R000262-2026-10-19_17-47-12.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BAMF / DOSB",
+"epl": "06",
+"von": 660001,
+"bis": 670000,
+"zweck": "Integration durch Sport für 2025: Davon 424.000€ vom BAMF/DOSB und 240.000€ von der FHH",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMFSFJ",
+"epl": "17",
+"von": 270001,
+"bis": 280000,
+"zweck": "FSJ und BFD für 2025",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 930002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Daniel Knoblich",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000262/87762",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Christian Poon",
+"funktion": "stellvertretender Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000262/87762",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Maarten Malczak",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000262/87762",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Pia Wilke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000262/87762",
+"stand": "2026-10-19"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 920001,
+"bis": 930000
+},
+"lobbyausgaben": {
+"von": 40001,
+"bis": 50000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/a8/e2/863271/HSB_Jahresbericht_2025_klein2.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000262/87762",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-19",
+"etikett": "Eigenangabe",
+"version": 17
+}
+]
+}

@@ -1,0 +1,236 @@
+{
+"id": "naturenergie-holding",
+"name": "naturenergie holding AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "5080 Laufenburg",
+"website": "www.naturenergie.ch",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004432",
+"eintrag_id": 77265,
+"version": 6,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004432/77265",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/a6/ea/788316/Lobbyregister-Registereintraege-Detailansicht-R004432-2026-06-30_10-20-53.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundeskasse Dienstort Halle",
+"epl": null,
+"von": 1550001,
+"bis": 1560000,
+"zweck": "Förderung Reallabor",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundeskasse",
+"epl": null,
+"von": 30001,
+"bis": 40000,
+"zweck": "BAFA VORGANG BEW-70000430",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1580002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Michel Schwery",
+"funktion": "Vorsitzender der Geschäftsleitung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004432/77265",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Thomas Kusterer",
+"funktion": "Präsident des Verwaltungsrates",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004432/77265",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Philipp Bregy",
+"funktion": "Mitglied des Verwaltungsrates",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004432/77265",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Peter Heydecker",
+"funktion": "Mitglied des Verwaltungsrates",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004432/77265",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Phyllis Scholl",
+"funktion": "Mitglied des Verwaltungsrates; Vize-Präsidentin des Verwaltungsrates",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004432/77265",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Marc Wolpensinger",
+"funktion": "Mitglied des Verwaltungsrates",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004432/77265",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Klaus  Müller",
+"funktion": "Geschäftsleitung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004432/77265",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Thomas Hoyer",
+"funktion": "Bereichsleiter Stab",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004432/77265",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Daniel Schölderle",
+"funktion": "Geschäftsleitung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004432/77265",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Diego Pfammatter",
+"funktion": "Bereichsleitung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004432/77265",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Renato Tami",
+"funktion": "Mitglied des Verwaltungsrates",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004432/77265",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Selma Lossau",
+"funktion": "Mitglied des Verwaltungsrates",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004432/77265",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Farid Safi",
+"funktion": "Mitglied des Verwaltungsrates",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004432/77265",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Rothfuß Daniel",
+"funktion": "Fachbereichsleiter",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004432/77265",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/31/90/788314/naturenergie_Geschaeftsbericht_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004432/77265",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

@@ -1,0 +1,544 @@
+{
+"id": "airbus-defence-and-space",
+"name": "Airbus Defence and Space GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Taufkirchen",
+"website": "airbus.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002323",
+"eintrag_id": 87302,
+"version": 15,
+"stand": "2026-10-13",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/01/5b/860395/Lobbyregister-Registereintraege-Detailansicht-R002323-2026-10-13_09-00-26.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Nationales Raumfahrtprogramm des DLR Raumfahrtmanagements (DLR RM)",
+"epl": null,
+"von": 950001,
+"bis": 960000,
+"zweck": "R&T Aktivitäten im Bereich Robotik, GEO Daten Systeme, Erdbeobachtung, Satellitenkommunikation, Navigationssysteme, Luft- und Raumfahrt-Medizin, astronautische Raumfahrt, planetare Exploration, Technologietransferkonzepte von Raumfahrttechnologien zur Medizin, zur Mobilität, zur Umwelttechnik und zur ökologischen Landwirtschaft.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK / BMWE",
+"epl": "09",
+"von": 690001,
+"bis": 700000,
+"zweck": "Quantentechnologien, Kollaborative Systeme und Cloudbasierte Zusammenarbeit zwischen öffentlichen Bereichen, Forschung, Entwicklung und Industrie, LuFo-Programm-Inhalte, Flugphysik, Systemauslegungsverfahren und Prozesse, Regularien für R&T Aktivitäten. Technologien für Sicherheit in der Seefahrt (Maritime zivile Sicherheitssystem) - Konzepte für System-of System für die Kooperation von Bundeseinrichtungen, Forschungs und Entwicklungs-Projektarbeiten im Bereich KI aus dem Sonderfond COVID für industrienahe Forschungsprojekte - Zuwendungen erfolgen über Projektträger (PTJ, PT DLR, BNetzAg). R&T Aktivitäten: Entwicklung von Demonstratorkapazitäten und Subsystemen zur Energiespeicherung und -verteilung sowie Schuberzeugung; Erforschung hybrid-elektrischer Antriebssysteme mit luftfahrtgerechter Leistungselektronik, Leistungsverteilung, Steuerung; Selbstverteidigende Datennetzwerke in der digital gesteuerten Flugzeugproduktion.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 1490001,
+"bis": 1500000,
+"zweck": "Förderprojekte im Bereich Mobilität, energieeffiziente Mobilität, Materialwissenschaftlicher Grundlagenanwendungen, Quantentechnologie, KI-Anwendungen, Cybersicherheit.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 3130003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Michael Schöllhorn",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Yvonne Eisele",
+"funktion": "Geschäftsführung ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Klaus Michel",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Nathalie Rau",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Madlen Dubrau",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Henrik Brethauer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Tobias Hoepfl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Alexander Renner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Florian Sodtke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Christoph Mahlert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Stephan Lösch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Jörg Plaß",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Thomas Cherdron",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Markus Ziegler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Ines  Kühnert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Martina Zok",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Stefan Schroeter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Nikolaus Faller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Marco Gumbrecht",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Claudia  Oeking",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Viggo Nicolaisen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Andrea Kolak",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Johannes Müller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Benedict Bridge",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Jean-Brice Dumont",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Andreas Hammer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Clive Schley",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Marc Steckling",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Tobias Waldhüter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Referent",
+"stelle": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2025-06"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Stefan Hartwig",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Manfred Jaumann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Michael Boss",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Oliver Frese",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Manuel Kiefer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Referatsleiter",
+"stelle": "Bundesministerium der Verteidigung (BMVg) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2025-12"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Sebastian Knogl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "André Chripunow",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Tobias Waldhüter",
+"funktion_person": "Referent, Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN) oder dessen Geschäftsbereich, bis 2025-06",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Tobias Waldhüter ist laut Lobbyregister Interessenvertretung bei Airbus Defence and Space GmbH und hatte zuvor eine öffentliche Funktion: Referent, Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN) oder dessen Geschäftsbereich, bis 2025-06. Airbus Defence and Space GmbH erhielt laut Lobbyregister Mittel von: Bundesministerium für Bildung und Forschung; Nationales Raumfahrtprogramm des DLR Raumfahrtmanagements (DLR RM); BMWK / BMWE.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Bildung und Forschung",
+"Nationales Raumfahrtprogramm des DLR Raumfahrtmanagements (DLR RM)",
+"BMWK / BMWE"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+],
+"stand": "2026-10-13"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Manuel Kiefer",
+"funktion_person": "Referatsleiter, Bundesministerium der Verteidigung (BMVg) oder dessen Geschäftsbereich, bis 2025-12",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Manuel Kiefer ist laut Lobbyregister Interessenvertretung bei Airbus Defence and Space GmbH und hatte zuvor eine öffentliche Funktion: Referatsleiter, Bundesministerium der Verteidigung (BMVg) oder dessen Geschäftsbereich, bis 2025-12. Airbus Defence and Space GmbH erhielt laut Lobbyregister Mittel von: Bundesministerium für Bildung und Forschung; Nationales Raumfahrtprogramm des DLR Raumfahrtmanagements (DLR RM); BMWK / BMWE.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Bildung und Forschung",
+"Nationales Raumfahrtprogramm des DLR Raumfahrtmanagements (DLR RM)",
+"BMWK / BMWE"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"stand": "2026-10-13"
+}
+],
+"stand": "2026-10-13"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 2960001,
+"bis": 2970000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/95/de/860393/80056464_End_PB_JA2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002323/87302",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-13",
+"etikett": "Eigenangabe",
+"version": 15
+}
+]
+}

@@ -1,0 +1,85 @@
+{
+"id": "deutsch-kroatische-industrie-und-handelskammer",
+"name": "Deutsch-Kroatische Industrie- und Handelskammer (AHK Kroatien)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "10000 Zagreb",
+"website": "https://kroatien.ahk.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005785",
+"eintrag_id": 67416,
+"version": 5,
+"stand": "2025-11-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005785/67416",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/aa/b0/635848/Lobbyregister-Registereintraege-Detailansicht-R005785-2025-11-03_13-08-04.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz (BMWK)",
+"epl": "09",
+"von": 310001,
+"bis": 320000,
+"zweck": "Förderung der deutsch-kroatischen Wirtschaftsbeziehungen.",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 310001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Timo Pleyer",
+"funktion": "Geschäftsführendes Vorstandsmitglied ab dem 15.10.2024",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005785/67416",
+"stand": "2025-11-03"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 230001,
+"bis": 240000
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/b7/7b/635847/Kroatien_gepruefter-Jahresabschluss-2024.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005785/67416",
+"abgerufen": "2026-11-02",
+"stand": "2025-11-03",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

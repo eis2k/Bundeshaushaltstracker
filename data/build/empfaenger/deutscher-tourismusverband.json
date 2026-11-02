@@ -1,0 +1,227 @@
+{
+"id": "deutscher-tourismusverband",
+"name": "Deutscher Tourismusverband e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.deutschertourismusverband.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001161",
+"eintrag_id": 78871,
+"version": 12,
+"stand": "2026-07-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001161/78871",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/a9/8d/799039/Lobbyregister-Registereintraege-Detailansicht-R001161-2026-07-01_11-45-22.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Naturschutz",
+"epl": "16",
+"von": 40001,
+"bis": 50000,
+"zweck": "Bundeswettbewerb Nachhaltige Tourismusdestinationen 2025 – 2027 Neue Impulse für eine nachhaltige Destinationsentwicklung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Digitales und Verkehr",
+"epl": "12",
+"von": 100001,
+"bis": 110000,
+"zweck": "Grundlagenuntersuchung Fahrradtourismus in Deutschland",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 90001,
+"bis": 100000,
+"zweck": "„Kennzahlen für Nachhaltigkeit im Tourismus“ auf Grundlage der Förderbekanntmachung „Leistungssteigerung und Innovationsförderung im Tourismus: Innovative Ansätze für eine zukunftsfähige Transformation der Tourismuswirtschaft im Lichte der VN-Ziele für nachhaltige Entwicklung“ (LIFT Transformation des Bundesministeriums für Wirtschaft und Klimaschutz)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Naturschutz",
+"epl": "16",
+"von": 80001,
+"bis": 90000,
+"zweck": "Praxisleitfaden - Anforderungen an eine umweltfreundliche und nachhaltige Entwicklung von Tourismusdestinationen in Deutschland",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 310004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Norbert Kunz",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001161/78871",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Reinhard Meyer",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001161/78871",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Armin Dellnitz",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001161/78871",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Heike Döll-König",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001161/78871",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Birgit Grauvogel",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001161/78871",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Sven Wolf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001161/78871",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Iris Hegemann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001161/78871",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Tim Adler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001161/78871",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Olaf Bentlage",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001161/78871",
+"stand": "2026-07-01"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Olaf Bentlage",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Olaf Bentlage ist laut Lobbyregister Interessenvertretung bei Deutscher Tourismusverband e.V. und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03. Deutscher Tourismusverband e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Digitales und Verkehr; Bundesministerium für Wirtschaft und Klimaschutz; Bundesamt für Naturschutz.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Digitales und Verkehr",
+"Bundesministerium für Wirtschaft und Klimaschutz",
+"Bundesamt für Naturschutz"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001161/78871",
+"stand": "2026-07-01"
+}
+],
+"stand": "2026-07-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 960001,
+"bis": 970000
+},
+"lobbyausgaben": {
+"von": 220001,
+"bis": 230000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/7e/ee/799028/DTVeV_2024_EUeR.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001161/78871",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-01",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

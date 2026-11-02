@@ -1,0 +1,156 @@
+{
+"id": "dfmg-deutsche-funkturm",
+"name": "DFMG Deutsche Funkturm GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Leverkusen",
+"website": "www.dfmg.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007016",
+"eintrag_id": 85276,
+"version": 8,
+"stand": "2026-08-31",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007016/85276",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/b0/f4/836715/Lobbyregister-Registereintraege-Detailansicht-R007016-2026-08-31_14-45-24.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Mobilfunkinfrastrukturgesellschaft mbH",
+"epl": null,
+"von": 2790001,
+"bis": 2800000,
+"zweck": "Förderung des Bundesministerium für Digitales und Verkehr für die Errichtung und den Betrieb einer grundstücksbezogenen passiven Mobilfunkinfrastruktur in diversen Gemeinden.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 2790001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Philipp Pohlmann",
+"funktion": "Vorsitzender der Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007016/85276",
+"stand": "2026-08-31"
+}
+},
+{
+"name": "Thomas Ried",
+"funktion": "Geschäftsführer Operations",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007016/85276",
+"stand": "2026-08-31"
+}
+},
+{
+"name": "Samuel Tomic",
+"funktion": "Geschäftsführer Produktion",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007016/85276",
+"stand": "2026-08-31"
+}
+},
+{
+"name": "Peer Kollecker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007016/85276",
+"stand": "2026-08-31"
+}
+},
+{
+"name": "Henrik Hamann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2024-07"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007016/85276",
+"stand": "2026-08-31"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Henrik Hamann",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2024-07",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Henrik Hamann ist laut Lobbyregister Interessenvertretung bei DFMG Deutsche Funkturm GmbH und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2024-07. DFMG Deutsche Funkturm GmbH erhielt laut Lobbyregister Mittel von: Mobilfunkinfrastrukturgesellschaft mbH.",
+"ausschuesse": [],
+"geld_aus": [
+"Mobilfunkinfrastrukturgesellschaft mbH"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007016/85276",
+"stand": "2026-08-31"
+}
+],
+"stand": "2026-08-31"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 300001,
+"bis": 310000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/9f/5d/836714/GD-Towers-KA-31-12-2024_Finales_Testatsexemplar_mit_QES_K.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007016/85276",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-31",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

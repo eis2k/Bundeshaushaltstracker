@@ -1,0 +1,156 @@
+{
+"id": "tk-accelis",
+"name": "tk accelis",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Essen",
+"website": "https://www.tkaccelis.com/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R008188",
+"eintrag_id": 87210,
+"version": 2,
+"stand": "2026-10-07",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008188/87210",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/6b/12/858157/Lobbyregister-Registereintraege-Detailansicht-R008188-2026-10-07_16-11-10.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMFTR",
+"epl": "30",
+"von": 40001,
+"bis": 50000,
+"zweck": "RESIPLAT - Resilienzsteigerung in metallbearbeitenden und -verarbeitenden Unternehmen",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "BMFTR",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "SMARTCHAIN Plattformentwicklung",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "BMFTR",
+"epl": "30",
+"von": 280001,
+"bis": 290000,
+"zweck": "de:karb Plattform zur CO2 Reduktion in der Lieferkette",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 340003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ilse Henne",
+"funktion": "CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008188/87210",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Daniel Wodera",
+"funktion": "CFO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008188/87210",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Jennifer Weihs",
+"funktion": "CHRO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008188/87210",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Annette Büttner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008188/87210",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Michael Paul Oscar Pühl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008188/87210",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Sebastian Szczepanski",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008188/87210",
+"stand": "2026-10-07"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 30001,
+"bis": 40000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/82/a9/858155/Geschaeftsbericht_2024_2025_der_thyssenkrupp_AG_WEB.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008188/87210",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-07",
+"etikett": "Eigenangabe",
+"version": 2
+}
+]
+}

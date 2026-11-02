@@ -1,0 +1,97 @@
+{
+"id": "biwoc-rising",
+"name": "BIWOC Rising gUG",
+"art": "verein_stiftung",
+"rechtsform": "Unternehmergesellschaft (UG) (haftungsbeschränkt)",
+"sitz": "Berlin",
+"website": "https://biwoc-rising.org/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R008011",
+"eintrag_id": 73818,
+"version": 1,
+"stand": "2026-05-20",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008011/73818",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/e0/96/739441/Lobbyregister-Registereintraege-Detailansicht-R008011-2026-05-20_13-07-15.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundeswirtschaftsministerium",
+"epl": null,
+"von": 70001,
+"bis": 80000,
+"zweck": "Fördermittel für das Projekt \"EquiNet\" im Rahmen des Bundesprogramm \"Nachhaltig wirken\".",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 70001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Nadiye Ünsal",
+"funktion": "Co-Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008011/73818",
+"stand": "2026-05-20"
+}
+},
+{
+"name": "Loubna Messaoudi",
+"funktion": "Gründerin und Co-Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008011/73818",
+"stand": "2026-05-20"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/a0/06/739440/Jahresabschluss-BIWOC-2023.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008011/73818",
+"abgerufen": "2026-11-02",
+"stand": "2026-05-20",
+"etikett": "Eigenangabe",
+"version": 1
+}
+]
+}

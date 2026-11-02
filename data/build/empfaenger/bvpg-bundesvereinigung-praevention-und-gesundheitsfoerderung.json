@@ -1,0 +1,157 @@
+{
+"id": "bvpg-bundesvereinigung-praevention-und-gesundheitsfoerderung",
+"name": "BVPG - Bundesvereinigung Prävention und Gesundheitsförderung e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bonn",
+"website": "www.bvpraevention.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002856",
+"eintrag_id": 79720,
+"version": 11,
+"stand": "2026-06-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002856/79720",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/72/c3/774708/Lobbyregister-Registereintraege-Detailansicht-R002856-2026-06-24_20-17-05.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Gesundheit",
+"epl": "15",
+"von": 450001,
+"bis": 460000,
+"zweck": "Institutionelle Förderung für die Förderung der Vernetzung staatlicher und nichtstaatlicher Organisationen zur Bündelung von Ressourcen und zur Erzielung von Synergiegewinnen; Initiierung von und Mitarbeit an Empfehlungen nationaler Ziele für Prävention und Gesundheitsförderung sowie deren Weiterentwicklung und Verbreitung; Initiierung und Mitwirkung bei der Erarbeitung, Weiterentwicklung, Festlegung und Umsetzung von Konzepten und Methoden zur Evaluation und Qualitätssicherung von Maßnahmen der Prävention und Gesundheitsförderung; Beförderung von Themen der Prävention und Gesundheitsförderung im öffentlichen und politischen Raum; Öffentlichkeitsarbeit.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 450001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Simone Borchardt",
+"funktion": "Präsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002856/79720",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Ellen Lundershausen",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002856/79720",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Ulrike Pernack",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002856/79720",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Thomas Altgeld",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002856/79720",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Gisela Nellessen-Martens",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002856/79720",
+"stand": "2026-06-24"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Simone Borchardt",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag",
+"funktion_beim_empfaenger": "Präsidentin",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Simone Borchardt ist laut Lobbyregister Präsidentin bei BVPG - Bundesvereinigung Prävention und Gesundheitsförderung e. V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag. BVPG - Bundesvereinigung Prävention und Gesundheitsförderung e. V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Gesundheit.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Gesundheit"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002856/79720",
+"stand": "2026-06-24"
+}
+],
+"stand": "2026-06-24"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 30001,
+"bis": 40000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/5a/19/774706/BVPG_Jahresabschluss_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002856/79720",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-24",
+"etikett": "Eigenangabe",
+"version": 11
+}
+]
+}

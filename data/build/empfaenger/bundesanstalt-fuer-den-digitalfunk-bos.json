@@ -1,0 +1,196 @@
+{
+"id": "bundesanstalt-fuer-den-digitalfunk-bos",
+"name": "Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben",
+"art": "oeffentlich",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": true,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "06-0602-68520",
+"text": "Zuschüsse an die Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben",
+"epl": "06",
+"epl_text": "Bundesministerium des Innern",
+"werte": {
+"2018": {
+"soll": 130545000,
+"ist": 107100000
+},
+"2019": {
+"soll": 272578000,
+"ist": 117122629
+},
+"2020": {
+"soll": 178745000,
+"ist": 140815723
+},
+"2021": {
+"soll": 197745000,
+"ist": 143678317
+},
+"2022": {
+"soll": 208445000,
+"ist": 188445000
+},
+"2023": {
+"soll": 196245000,
+"ist": 100000000
+},
+"2024": {
+"soll": 180245000,
+"ist": 173947937
+},
+"2025": {
+"soll": 297322000,
+"ist": 275322000
+},
+"2026": {
+"soll": 330245000,
+"ist": null
+}
+}
+},
+{
+"id": "06-0602-89451",
+"text": "Zuschüsse an die Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben für Investitionen zum Betrieb der Netze des Bundes",
+"epl": "06",
+"epl_text": "Bundesministerium des Innern",
+"werte": {
+"2018": {
+"soll": 0,
+"ist": 0
+},
+"2019": {
+"soll": 0,
+"ist": 14269000
+},
+"2020": {
+"soll": 15000000,
+"ist": 17800000
+},
+"2021": {
+"soll": 110000000,
+"ist": 50686094
+},
+"2022": {
+"soll": 44000000,
+"ist": 70361156
+},
+"2023": {
+"soll": 177000000,
+"ist": 100000000
+},
+"2024": {
+"soll": 147000000,
+"ist": 67000000
+},
+"2025": {
+"soll": 201697000,
+"ist": 23542000
+}
+}
+},
+{
+"id": "06-0602-68551",
+"text": "Zuschüsse an die Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben für den Betrieb der Netze des Bundes",
+"epl": "06",
+"epl_text": "Bundesministerium des Innern",
+"werte": {
+"2018": {
+"soll": 38819000,
+"ist": 11442000
+},
+"2019": {
+"soll": 97757000,
+"ist": 74724000
+},
+"2020": {
+"soll": 54295000,
+"ist": 51495000
+},
+"2021": {
+"soll": 44447000,
+"ist": 157261000
+},
+"2022": {
+"soll": 66175000,
+"ist": 128392216
+},
+"2023": {
+"soll": 198175000,
+"ist": 100677366
+},
+"2024": {
+"soll": 164263000,
+"ist": 140000000
+},
+"2025": {
+"soll": 197744000,
+"ist": 148122000
+}
+}
+},
+{
+"id": "06-0602-89420",
+"text": "Zuschüsse an die Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben für Investitionen",
+"epl": "06",
+"epl_text": "Bundesministerium des Innern",
+"werte": {
+"2018": {
+"soll": 29000000,
+"ist": 76700000
+},
+"2019": {
+"soll": 29000000,
+"ist": 211643000
+},
+"2020": {
+"soll": 132300000,
+"ist": 166400000
+},
+"2021": {
+"soll": 102300000,
+"ist": 77992000
+},
+"2022": {
+"soll": 96636000,
+"ist": 76636000
+},
+"2023": {
+"soll": 111300000,
+"ist": 60000000
+},
+"2024": {
+"soll": 103800000,
+"ist": 95585880
+},
+"2025": {
+"soll": 126300000,
+"ist": 124203702
+},
+"2026": {
+"soll": 225500000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

@@ -1,0 +1,192 @@
+{
+"id": "cariad",
+"name": "CARIAD SE",
+"art": "unternehmen",
+"rechtsform": "Europäische Aktiengesellschaft (SE)",
+"sitz": "Wolfsburg",
+"website": "cariad.technology",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006271",
+"eintrag_id": 78484,
+"version": 7,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006271/78484",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/0d/54/794428/Lobbyregister-Registereintraege-Detailansicht-R006271-2026-06-30_17-09-27.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Verkehr",
+"epl": "12",
+"von": 30001,
+"bis": 40000,
+"zweck": "Projekt KIVI: Im Rahmen des Projekts werden die Potentiale der Künstlichen Intelligenz zur multimodalen Verkehrssteuerung im urbanen Verkehr aufgezeigt und demonstriert. Dazu werden mittels KI-Verfahren neue Steuerungen entwickelt, angewendet und im bestehenden Verkehrssystem der Stadt Ingolstadt im Realbetrieb netzweit und lokal getestet.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 160001,
+"bis": 170000,
+"zweck": "Ziel des Projektes KI4BoardNet ist ein intelligentes, durch Controller mit hoher Rechenleistung gesteuertes und aus Gründen der funktionalen Sicherheit teilredundantes Zonen- bzw. Zentralkonzept, welches durch die Konzentration vieler Funktionen in leistungsfähigen Energie- und Datenverarbeitungseinheiten eine reduzierte Anzahl von Leitungsverbindungen erlaubt. Dadurch werden als Grundlage für die Realisierung höherer Grade automatisierter Fahrfunktionen (Stufen 4 und 5 gemäß VDA) mit einer neuen Architektur gleichzeitig neue Möglichkeiten für eine Sensor- und Datenfusion eröffnet.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 80001,
+"bis": 90000,
+"zweck": "Ziel des Projektes RUMBA ist die Realisierung eines positiven Nutzerlebnisses im Anwendungsfall des vollautomatisierten Fahrens durch die Entwicklung und Implementierung adaptiver Innenraum- und Interaktionskonzepte inklusive neuer Ansätze der Fahrzeugführung und -regelung. Dazu erfolgt eine kontinuierliche Evaluierung der Konzepte in Bezug auf die User und Customer Experience, insbesondere hinsichtlich Ergonomie, Raumgefühl & -wirkung, Fahrkomfort, Insassenkomfort, Wohlbefinden, Kontrollierbarkeit und Systemvertrauen. Die Einflussfaktoren und Wirkzusammenhänge werden dabei interdisziplinär und für die Fahrzeugklassen Pkw und Lkw in einem gemeinsamen Anforderungs- und Lösungsraum für Innenräume abgebildet, wodurch eine Übertragung der Konzepte ermöglicht wird.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 600001,
+"bis": 610000,
+"zweck": "Im Vorhaben STADT:up werden auf die Nutzerbedürfnisse zugeschnittene Konzepte und Pilotapplikationen des durchgängigen automatisierten Fahrens im urbanen Raum entwickelt. Schwerpunkte liegen in der Umsetzung neuer, KI-basierter Methoden und deren Demonstration in automatisierten Fahrsystemen, insbesondere bei komplexen Verkehrssituationen. Spezielle Betrachtung finden verletzliche Verkehrsteilnehmer, komplexe Knotenpunkte sowie automatisiertes Einfädeln und Umfahren von Hindernissen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 30001,
+"bis": 40000,
+"zweck": "Projekt E²Lead: Die Automobilindustrie ist das Rückgrat der europäischen Industrie und eines der wichtigsten Technologiefelder weltweit. Das Rennen um das autonome Fahren der Stufe 5 ist noch offen. Die dazu nötigen Supercomputer-Plattformen mit Rechenleistungen von 300 TOPS und mehr gibt es heute noch nicht in Automobilqualität. Ziel von e²LEAD ist es, wichtige Beiträge für das Überwinden dieser technologischen Grenzen zu leisten.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 80001,
+"bis": 90000,
+"zweck": "Projekt TwinSpace: Mittels des entwickelten, erprobten und angewendeten Green-Coding Entwicklungswerkzeugs mit optimierten Ressourcen-Management – TwinSpace – soll die SW-Entwicklung im (sicherheitsrelevanten) Massengeschäft von eingebetteten Systemen revolutioniert werden. Dabei werden sowohl ökonomische Aspekte bspw. durch effizientere Entwicklungsprozesse als auch ökologische Aspekte durch erhöhte Energieeffizienz oder die Einsparung von CO2 durch kleinere Chipflächen optimiert. Die Entwicklungen werden erprobt, angewendet und im Anschluss in die Breite getragen. Ziel von CARIAD im Projekt ist es, mit Hilfe der Projektergebnisse die eigenen Methoden der Funktionsentwicklung und Softwareintegration weiterzuentwickeln.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 50001,
+"bis": 60000,
+"zweck": "Projekt ELISA: Das Verbundprojekt ELISA ist eines von vier Projekten aus der übergeordneten Projektfamilie NovoMotive. Gesamtziel von ELISA ist die Entwicklung einer sicheren Funktionsarchitektur auf Basis eines vertrauenswürdigen Fahrzeugnetzwerks mittels Zero-Trust Ansatz, die zur sicheren Nutzung von Backend- Diensten in verschiedene IT-Backends integriert ist.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 230001,
+"bis": 240000,
+"zweck": "Projekt CeCas: Die innovativen Ansätze des Vorhabens zu leistungsfähigen Rechenarchitekturen sind ein entscheidender Baustein künftiger Fahrzeuge. Damit trägt das Projekt wesentlich zur technologischen Souveränität Deutschlands im autonomen Fahren bei. Die in MANNHEIM-CeCaS erforschten Technologien ermöglichen es den Partnern, ihre Spitzenposition im Bereich autonomer Fahrzeuge zu behaupten",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "SAFE AI Engineering: Sicherheitsargumentation befähigendes AI Engineering über den gesamten Lebenszyklus einer KI-Funktion, Teilvorhaben: Systematische ODD Erweiterung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1290009,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Peter Bosch",
+"funktion": "CEO/Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006271/78484",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Thomas Günther",
+"funktion": "CLO/Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006271/78484",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Rainer Zugehör",
+"funktion": "CPO/Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006271/78484",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "André  Stoffels",
+"funktion": "CFO/Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006271/78484",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Florian Lange",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006271/78484",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 570001,
+"bis": 580000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/93/32/794423/geschaeftsbericht-2025-volkswagen-group.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006271/78484",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

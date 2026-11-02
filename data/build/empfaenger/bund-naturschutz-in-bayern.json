@@ -1,0 +1,448 @@
+{
+"id": "bund-naturschutz-in-bayern",
+"name": "BUND Naturschutz in Bayern e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Regensburg",
+"website": "www.bund-naturschutz.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001629",
+"eintrag_id": 75615,
+"version": 30,
+"stand": "2026-06-16",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001629/75615",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/bd/24/760902/Lobbyregister-Registereintraege-Detailansicht-R001629-2026-06-16_15-52-19.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Naturschutz",
+"epl": "16",
+"von": 840001,
+"bis": 850000,
+"zweck": "Projektzuschüsse: - Tagungsreihe Nationales Naturerbe Grünes Band 2023-2025 - Quervernetzung Grünes Band mit bestehenden Biotipverbundachsen und naturnahen Lebensräumen im Umfeld zur besseren Integration in die Landschaft und für einen länderübergreifenden Biotopverbund - Systematische Untersuchung der biologischen Vielfalt des Grünes Bands Dtl. Für die Analyse der Biotopverbund- und Klimakorridorfunktion, die Ableitung eines Management- und Monitoringkonzeptes sowie für die Bewertung des Außergewöhnlichen Universellen Wertes (AUW) im Zuge der UNESCO-Welterbenominierung - Weiterentwicklung spezifischer deutscher und europäischer Fragestellungen im Hinblick auf eine Nominierung des Grünen Bandes als UNESCO Welterbe - FlussFreiRaum Klimaresiliente Bäche und Flüsse für Bayern, Teilvorhaben Kümmerer-Netzwerk, Politikarbeit, Fachstudie und Gemeindeberatung (Fokus: Energie) - Wildkatzenwälder von morgen - Naturschutzgroßprojekt Grünes Band Dreiländereck Bayern-Sachsen-Thüringen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "REGULUS-Verbundvorhaben: A-DUR - Revitalisierte Auwälder",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 860002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Martin Geilhufe",
+"funktion": "Landesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001629/75615",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Beate Rutkowski",
+"funktion": "stellvertretende Landesvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001629/75615",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Doris Tropper",
+"funktion": "stellvertretende Landesvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001629/75615",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Max Walleitner",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001629/75615",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Kai Frobel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001629/75615",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Christine Margraf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001629/75615",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Steffen Jodl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001629/75615",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Reinhard Scheuerlein",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001629/75615",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Ralf Straußberger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001629/75615",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Liana Geidezis",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001629/75615",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Melanie Kreutz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001629/75615",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Uwe Friedel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001629/75615",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Florian Kaiser",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001629/75615",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Felix Hälbich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001629/75615",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Annemarie Räder",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001629/75615",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Rita Rott",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001629/75615",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Thomas Frey",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001629/75615",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Jonas Kaufmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001629/75615",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Harald Ulmer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001629/75615",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Andreas Zahn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001629/75615",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Stefan Ossyssek",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001629/75615",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Kasimir Buhr",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001629/75615",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Julika Schreiber",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001629/75615",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Jörg  Hacker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001629/75615",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Lena Maly-Wischhof",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001629/75615",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Kathy Mühlebach-Sturm",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001629/75615",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Ruth Radl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001629/75615",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Steffen Scharrer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001629/75615",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Julian Fürholzer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001629/75615",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Hubert Weiger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001629/75615",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Moritz Höpfl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001629/75615",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Monika Nörr",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001629/75615",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Peter Rottner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001629/75615",
+"stand": "2026-06-16"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 3290001,
+"bis": 3300000
+},
+"mitgliedsbeitraege": {
+"von": 12290001,
+"bis": 12300000
+},
+"lobbyausgaben": {
+"von": 60001,
+"bis": 70000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/d7/dd/760901/Jahresabschluss_31-12-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001629/75615",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-16",
+"etikett": "Eigenangabe",
+"version": 30
+}
+]
+}

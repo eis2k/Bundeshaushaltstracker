@@ -1,0 +1,194 @@
+{
+"id": "gelsenwasser",
+"name": "GELSENWASSER AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Gelsenkirchen",
+"website": "www.gelsenwasser.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002117",
+"eintrag_id": 83551,
+"version": 9,
+"stand": "2026-09-21",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002117/83551",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/55/c7/844271/Lobbyregister-Registereintraege-Detailansicht-R002117-2026-09-21_13-23-33.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMEL Bundesministerium für Ernährung und Landwirtschaft",
+"epl": "10",
+"von": 70001,
+"bis": 80000,
+"zweck": "Klimaangepasstes Waldmanagement",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung (BMBF)",
+"epl": "30",
+"von": 10001,
+"bis": 20000,
+"zweck": "Forschungsprojekt: KIWaSuS KI basiertes Warnsystem vor Starkregen und urbanen Sturzfluten",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMZ - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 50001,
+"bis": 60000,
+"zweck": "Betreiberpartnerschaft zur Stärkung von Partnerschaften kommunaler Unternehmen weltweit - Gelsenwasser - Lukanga WSSC https://www.utility-platform.de/partnerschaften/gelsenwasser-lukanga-wssc Betreiberpartnerschaft Ukraine",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 20001,
+"bis": 30000,
+"zweck": "Forschungsprojekt: IMPROVT II, Intelligente Messverfahren zur Prozessoptimierung von Trinkwasserbereitstellung und -verteilung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung - BMBF",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "T!Raum-H2R-H2!Reallabor Castrop-Rauxel",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 170005,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Henning Deters",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002117/83551",
+"stand": "2026-09-21"
+}
+},
+{
+"name": "Dirk Waider",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002117/83551",
+"stand": "2026-09-21"
+}
+},
+{
+"name": "Agnes Janda",
+"funktion": "Vorständin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002117/83551",
+"stand": "2026-09-21"
+}
+},
+{
+"name": "Arnt Baer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002117/83551",
+"stand": "2026-09-21"
+}
+},
+{
+"name": "Gunda Röstel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002117/83551",
+"stand": "2026-09-21"
+}
+},
+{
+"name": "Lisa Minor",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002117/83551",
+"stand": "2026-09-21"
+}
+},
+{
+"name": "Julia Nepicks",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002117/83551",
+"stand": "2026-09-21"
+}
+},
+{
+"name": "Lisa Albert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002117/83551",
+"stand": "2026-09-21"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 240001,
+"bis": 250000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e1/a9/844267/jahresabschluss_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002117/83551",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-21",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

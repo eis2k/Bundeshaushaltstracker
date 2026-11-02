@@ -1,0 +1,265 @@
+{
+"id": "shell-deutschland",
+"name": "Shell Deutschland GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Hamburg",
+"website": "www.shell.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001348",
+"eintrag_id": 87255,
+"version": 57,
+"stand": "2026-10-08",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001348/87255",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/53/5e/858611/Lobbyregister-Registereintraege-Detailansicht-R001348-2026-10-08_12-04-25.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung (via PTJ)",
+"epl": "30",
+"von": 10001,
+"bis": 20000,
+"zweck": "Energieforschungsprogramm der Bundesregierung \"Innovation für die Energiewende\" nach Art. 25 der Verordnung (EU) Nr. 651/2014 - H2GIGA HYPOWER",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "DEHSt (Deutsche EmissionsHandelsStelle)",
+"epl": null,
+"von": 22120001,
+"bis": 22130000,
+"zweck": "Förderrichtlinie Beihilfen für emissionshandelsbedingte indirekte CO2-Kosten (Strompreiskompensation)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMVI (Bundesministerium für Verkehr und digitale Infrastruktur)",
+"epl": "12",
+"von": 370001,
+"bis": 380000,
+"zweck": "Projektförderung Elektromobilität: Forschung und Entwicklung - HoLa",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 22500003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Felix Faber",
+"funktion": "Vorsitzender der Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001348/87255",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Timo Lenzen",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001348/87255",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Jörn Schmidt",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001348/87255",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Petra Matzat",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001348/87255",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Florian Glattes",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001348/87255",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Jan-Peter  Groot Wassink",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001348/87255",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Philip Altong",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001348/87255",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Jörg Adolf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001348/87255",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Romana Selleske",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001348/87255",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Felix Hofmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001348/87255",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Volker Holtfrerich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001348/87255",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Patrizia Kraft",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001348/87255",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Sebastian Köpp",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001348/87255",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Ulrich Zeidler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001348/87255",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Pia Heisele",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001348/87255",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Hauke Schaack",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001348/87255",
+"stand": "2026-10-08"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1060001,
+"bis": 1070000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/1f/93/858603/Shell-Deutschland-GmbH_JAP_31-12-2024_Final_TE_24-004031.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001348/87255",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-08",
+"etikett": "Eigenangabe",
+"version": 57
+}
+]
+}

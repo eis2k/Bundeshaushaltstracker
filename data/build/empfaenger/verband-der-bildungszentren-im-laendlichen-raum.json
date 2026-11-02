@@ -1,0 +1,108 @@
+{
+"id": "verband-der-bildungszentren-im-laendlichen-raum",
+"name": "Verband der Bildungszentren im ländlichen Raum e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.lernen-im-gruenen.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004576",
+"eintrag_id": 83879,
+"version": 11,
+"stand": "2026-07-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004576/83879",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f8/ad/821934/Lobbyregister-Registereintraege-Detailansicht-R004576-2026-07-29_09-48-45.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ)",
+"epl": "17",
+"von": 990001,
+"bis": 1000000,
+"zweck": "Fördermittel auf dem Kinder- und Jugendplan des Bundes (Politische Bildung und Präventionsprogramm)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 990001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Andreas Quiring",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004576/83879",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Stephan Haase",
+"funktion": "stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004576/83879",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Peter Buhrmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004576/83879",
+"stand": "2026-07-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 130001,
+"bis": 140000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/10/ac/821933/_Verbandsbericht-2025_Mitglieder.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004576/83879",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-29",
+"etikett": "Eigenangabe",
+"version": 11
+}
+]
+}

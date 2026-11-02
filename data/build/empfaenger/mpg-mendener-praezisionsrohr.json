@@ -1,0 +1,84 @@
+{
+"id": "mpg-mendener-praezisionsrohr",
+"name": "MPG Mendener Präzisionsrohr GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Menden",
+"website": "www.mpg-tubes.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004284",
+"eintrag_id": 78502,
+"version": 9,
+"stand": "2026-06-08",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004284/78502",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/e0/3a/752677/Lobbyregister-Registereintraege-Detailansicht-R004284-2026-06-08_15-45-57.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BAFA",
+"epl": "09",
+"von": 90001,
+"bis": 100000,
+"zweck": "BAFA Fördermittel für die Realisierung von Energiesparmaßnahmen und KI Porjekt",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 90001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Andreas Gahl",
+"funktion": "Geschäftsführer (allein vertretungsberechtigt)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004284/78502",
+"stand": "2026-06-08"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/09/a5/752676/65047_65077_MPG_Konsolidierung_2025-pdf_signed.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004284/78502",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-08",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

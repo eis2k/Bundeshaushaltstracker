@@ -1,0 +1,127 @@
+{
+"id": "netzwerk-m",
+"name": "netzwerk-m e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Kassel",
+"website": "www.netzwerk-m.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002298",
+"eintrag_id": 74601,
+"version": 12,
+"stand": "2026-03-31",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002298/74601",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/6f/cb/716750/Lobbyregister-Registereintraege-Detailansicht-R002298-2026-03-31_13-21-59.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bund- und Länderzuschüsse Freiwillige Dienste",
+"epl": "60",
+"von": 1390001,
+"bis": 1400000,
+"zweck": "Bundes- und Länderzuschüsse für Freiwilligendienste (Freiwilliges Soziales Jahr, Bundesfreiwilligendienst, Internationaler Jugendfreiwilligendienst)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Arbeitsgemeinschaft der Evangelischen Jugend",
+"epl": null,
+"von": 60001,
+"bis": 70000,
+"zweck": "Zuschuss aus dem Kinder- und Jugendplan des Bundes für entsprechende Aktivitäten",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1450002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Gaetan Roy",
+"funktion": "1. Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002298/74601",
+"stand": "2026-03-31"
+}
+},
+{
+"name": "Daniel Gehring",
+"funktion": "Generalsekretär",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002298/74601",
+"stand": "2026-03-31"
+}
+},
+{
+"name": "Markus Liebold",
+"funktion": "2. Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002298/74601",
+"stand": "2026-03-31"
+}
+},
+{
+"name": "Stefan Heidorn",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002298/74601",
+"stand": "2026-03-31"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 90001,
+"bis": 100000
+},
+"mitgliedsbeitraege": {
+"von": 80001,
+"bis": 90000
+},
+"lobbyausgaben": {
+"von": 60001,
+"bis": 70000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/1c/51/716749/JA2025_netzwerk-m.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002298/74601",
+"abgerufen": "2026-11-02",
+"stand": "2026-03-31",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

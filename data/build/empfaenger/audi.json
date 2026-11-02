@@ -1,0 +1,644 @@
+{
+"id": "audi",
+"name": "AUDI AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Ingolstadt",
+"website": "www.audi.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001702",
+"eintrag_id": 86668,
+"version": 25,
+"stand": "2026-10-06",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001702/86668",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/94/98/857366/Lobbyregister-Registereintraege-Detailansicht-R001702-2026-10-06_13-41-24.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Agentur für Arbeit",
+"epl": null,
+"von": 90001,
+"bis": 100000,
+"zweck": "Teilnahme der Mitarbeitenden an der von der von der Agentur für Arbeit geförderten Maßnahme",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Agentur für Arbeit",
+"epl": null,
+"von": 110001,
+"bis": 120000,
+"zweck": "Finanzielle Förderung für Arbeitgeber, die schwerbehinderte Auszubildende ausbilden",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Agentur für Arbeit",
+"epl": null,
+"von": 130001,
+"bis": 140000,
+"zweck": "Jugendliche ohne Ausbildungsplatz, die die Berufsschulpflicht erfüllt haben. Ziel: Vorbereitung auf eine anschließende Ausbildung im Betrieb.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Agentur für Arbeit",
+"epl": null,
+"von": 50001,
+"bis": 60000,
+"zweck": "Zuschuss für 10 Teilnehmende EFK Anlagentechnik",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Agentur für Arbeit",
+"epl": null,
+"von": 30001,
+"bis": 40000,
+"zweck": "Qualifizierung von 12 Mitarbeitenden zur EFK Fzg-Technik",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Agentur für Arbeit",
+"epl": null,
+"von": 30001,
+"bis": 40000,
+"zweck": "Qualifizierung von 12 Mitarbeitenden zur EFK Fzg-Technik",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Agentur für Arbeit",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Qualifizierung von 9 Mitarbeitenden zur EFK Fahrzeugtechnik",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Agentur für Arbeit",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "Qualifizierung von 9 Mitarbeitenden zur EFK Fzg-Technik",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Agentur für Arbeit",
+"epl": null,
+"von": 110001,
+"bis": 120000,
+"zweck": "Qualifizierung von 12 Mitarbeitenden zum Kfz-Mechatroniker",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Agentur für Arbeit",
+"epl": null,
+"von": 1,
+"bis": 10000,
+"zweck": "Qualifizierung von 2 Mitarbeitenden im Themenfeld Software-Programmierung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Agentur für Arbeit",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Weiterbildung von 8 Mitarbeitenden zur EFK Fahrzeugtechnik",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Agentur für Arbeit",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Weiterbildung von 7 Personen zur EFK Fahrzeugtechnik",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Agentur für Arbeit",
+"epl": null,
+"von": 120001,
+"bis": 130000,
+"zweck": "Förderung von: - 10 Mitarbeitenden in Basisqualifizierung Funktionsentwicklung - 6 Mitarbeitenden in Zukunftsfeld Hochautomatisiertes Fahren (FAS/HAF)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Agentur für Arbeit",
+"epl": null,
+"von": 190001,
+"bis": 200000,
+"zweck": "Qualifizierung von insgesamt 9 Mitarbeitenden, davon - 6 Mitarbeitenden mit Schwerpunkt E-Mob und - 3 Mitarbeitenden mit Schwerpunkt XIL (virtuelle Entwicklung)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Agentur für Arbeit",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Qualifizierung von 5 Mitarbeitenden im Themenfeld Software-Programmierung.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Agentur für Arbeit",
+"epl": null,
+"von": 40001,
+"bis": 50000,
+"zweck": "Qualifizierung von 6 Mitarbeitenden zur EFK Anlagentechnik",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Agentur für Arbeit",
+"epl": null,
+"von": 30001,
+"bis": 40000,
+"zweck": "Qualifizierung von 8 Mitarbeitenden zur EFK Fahrzeugtechnik.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Agentur für Arbeit",
+"epl": null,
+"von": 1,
+"bis": 10000,
+"zweck": "Qualifizierung von 10 Mitarbeitenden zur EFK Fahrzeugtechnik.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Agentur für Arbeit",
+"epl": null,
+"von": 30001,
+"bis": 40000,
+"zweck": "Qualifizierung von 12 Mitarbeitenden zur EFK Fahrzeugtechnik.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BafA",
+"epl": "09",
+"von": 240001,
+"bis": 250000,
+"zweck": "Erneuerung Lüftungsanlage, Einbau von Mess-, Steuer- und Regelungstechnik und Einbau einer energieeffizienten Kälteerzeugung sowie Heizungsoptimierung.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMFTR",
+"epl": "30",
+"von": 50001,
+"bis": 60000,
+"zweck": "PEP.IN - Industrialisierung PEM-Elektrolyse-Produktion Teilvorhaben: Entwicklung großserientauglicher Stapeltechnologien",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMFTR",
+"epl": "30",
+"von": 1,
+"bis": 10000,
+"zweck": "KI-Basierte Selbstkonfiguration und Prozessdatenbankgenerierung für das Laserschweißen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMFTR",
+"epl": "30",
+"von": 1,
+"bis": 10000,
+"zweck": "Nachhaltige Konzepte für die Optimierte Wärmeableitung aus Energiespeichern von Serien-Elektrofahrzeugen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMFTR",
+"epl": "30",
+"von": 1,
+"bis": 10000,
+"zweck": "Verteilte Fertigung für neuartige und vertrauenswürdige Elektronik",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMV",
+"epl": "12",
+"von": 30001,
+"bis": 40000,
+"zweck": "Tyre Road Noise - Data-based study of effects on con-trolled and real drive noise emission",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMV",
+"epl": "12",
+"von": 1,
+"bis": 10000,
+"zweck": "Herstellung einer marktreifen automatisierte Ladetechnologie für E-Fahrzeuge, bestehend aus einem Roboter-Ladegerät zum autonomen Anschluss des Ladekabels an ein Elektrofahrzeug, einem optimierten HPC-Kabel, automatisierte Ladeklappen am Fahrzeug und Schnittstellen zwischen den Einzelteilen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMV",
+"epl": "12",
+"von": 10001,
+"bis": 20000,
+"zweck": "Funktions- und Verkehrs-Sicherheit für Automatisierte und Vernetzte Mobilität – Nutzen für die Gesellschaft und oekologische Wirkung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWi",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "Nachhaltiger und kosteneffizienter Aluminiumleichtbau für Mobilitätsanwendungen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWi",
+"epl": "09",
+"von": 50001,
+"bis": 60000,
+"zweck": "Hybrider Leichtbau bei Massivbauteilen durch reibgeschweißte Aluminium-Stahl-und Aluminium-Gusseisen Verbindungen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWi",
+"epl": "09",
+"von": 140001,
+"bis": 150000,
+"zweck": "Künstliche Intelligenz für Adaptive, Responsive und Levelkonforme Intelligenz im Fahrzeug der Zukunft",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWi",
+"epl": "09",
+"von": 20001,
+"bis": 30000,
+"zweck": "protECOlight befasst sich mit neuartigen Schutzstrukturen in Kunststoffbauweise für Fahrzeuge mit alternativen Antriebskonzepten. Zentrales Entwicklungsziel ist hierbei die Reduzierung von CO2 durch nachhaltige Kunststoffe, Leichtbau sowie eine gesteigerte Effizienz bei der Bauteilherstellung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWi",
+"epl": "09",
+"von": 1,
+"bis": 10000,
+"zweck": "Software-Designed Manufacturing für die Fahrzeug- und Zulieferindustrie",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWi",
+"epl": "09",
+"von": 60001,
+"bis": 70000,
+"zweck": "Realisierung einer positiven User Experience Mittels Benutzerfreundlicher Ausgestaltung des Innenraums für Automatisierte Fahrfunktionen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 260001,
+"bis": 270000,
+"zweck": "Smarte, adaptive und lernbare Systeme für alle Nutzer",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "Artificial Intelligence gestützte Digital Twins für die physikochemische Modellierung der Alterung zur Optimierung der Betriebsführung und Lebensdauer von Batterien für die Elektromobilität",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "Digitale flexible Montageassistenz- und Prüftechnologien auf Basis des digitalen Zwillings von Produkt und Produktionsmitteln",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 70001,
+"bis": 80000,
+"zweck": "Skalierung von Computer Vision in Industrieprozessen („Industrial Computer Vision“, ICV) – Teilvorhaben: Skalierung von Computer Vision in Industrieprozessen in der AUDI AG",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 170001,
+"bis": 180000,
+"zweck": "Entwicklung einer digitalisierten und automatisierten Wertschöpfungskette für die Entwicklung einer digitalisierten und automatisierten Wertschöpfungskette für die Next-to-OEM-Leitungssatzfertigung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 150001,
+"bis": 160000,
+"zweck": "Post Consumer Recycled Plastics for Exterior in Automotive",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 2960001,
+"bis": 2970000,
+"zweck": "Lüftungssysteme und Abluftaufbereitung (Optimierung der Zu-, Um- und Abluftsysteme, der Lackabscheidung sowie der Abluftaufbereitung)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 2860001,
+"bis": 2870000,
+"zweck": "Erneuerung gesamter Decklackbereich (alte Lackieranlagen ~ 30 Jahre) inklusive Prozessverbesserungen / Umstallung 5A auf 2010V Prozess.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Hauptzollamt",
+"epl": null,
+"von": 90001,
+"bis": 100000,
+"zweck": "Steuerentlastung gem. §54 EnergieStG für das Jahr 2017. Auszahlung ist im Jahr 2025 erfolgt.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Hauptzollamt",
+"epl": null,
+"von": 650001,
+"bis": 660000,
+"zweck": "Steuerentlastung gem. §54 EnergieStG für das Jahr 2018. Auszahlung ist im Jahr 2025 erfolgt.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Hauptzollamt",
+"epl": null,
+"von": 610001,
+"bis": 620000,
+"zweck": "Steuerentlastung gem. §54 EnergieStG für das Jahr 2019. Auszahlung ist im Jahr 2025 erfolgt.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Hauptzollamt",
+"epl": null,
+"von": 510001,
+"bis": 520000,
+"zweck": "Steuerentlastung gem. §54 EnergieStG für das Jahr 2021. Auszahlung ist im Jahr 2025 erfolgt.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Hauptzollamt",
+"epl": null,
+"von": 5500001,
+"bis": 5510000,
+"zweck": "Steuerentlastung gem. §54 EnergieStG für das Jahr 2023. Auszahlung ist im Jahr 2025 erfolgt.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Hauptzollamt",
+"epl": null,
+"von": 90001,
+"bis": 100000,
+"zweck": "Steuerentlastung gem. §53a EnergieStG für das Jahr 2023. Auszahlung ist im Jahr 2025 erfolgt.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Hauptzollamt",
+"epl": null,
+"von": 730001,
+"bis": 740000,
+"zweck": "Steuerentlastung gem. §9b StromStG für das Jahr 2024. Auszahlung ist im Jahr 2025 erfolgt.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesinstituts für Berufsbildung (BIBB)",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "Das Projekt wurde im Rahmen des europäischen Förderprogramms ERASMUS+ durchgeführt. ERASMUS+ ist ein Bildungsprogramm der Europäischen Union, das die internationale Zusammenarbeit in den Bereichen Bildung, Jugend und Sport unterstützt. Ziel ist es, Mobilität und Austausch zwischen Bildungseinrichtungen zu fördern, Kompetenzen zu stärken und Innovationen im Bildungsbereich voranzutreiben.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 16360049,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Gernot Döllner",
+"funktion": "Vorsitzender des Vorstands der AUDI AG",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001702/86668",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Javier Ros Hernández",
+"funktion": "Mitglied des Vorstands der AUDI AG, Personal",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001702/86668",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Jürgen Rittersberger",
+"funktion": "Mitglied des Vorstands der AUDI AG, Finanz, Recht und IT",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001702/86668",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Gerd Walker",
+"funktion": "Mitglied des Vorstands der AUDI AG, Produktion und Logistik",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001702/86668",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Marco Schubert",
+"funktion": "Mitglied des Vorstands der AUDI AG, Vertrieb und Marketing ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001702/86668",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Dieter Dehoorne",
+"funktion": "Mitglied des Vorstands der AUDI AG, Beschaffung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001702/86668",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Rouven Mohr",
+"funktion": "Mitglied des Vorstands der AUDI AG, Technische Entwicklung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001702/86668",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Thomas Schwarz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001702/86668",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Wolfgang Schmid",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001702/86668",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Carolin Strunz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001702/86668",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Sebastian Gramstat",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001702/86668",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Bettina Hölzle",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001702/86668",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Ralf Mattes",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001702/86668",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Alexander Reinhart",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001702/86668",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Jörg Schlagbauer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001702/86668",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Matthias Seitz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001702/86668",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Schwerdtfeger Ruth",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001702/86668",
+"stand": "2026-10-06"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 420001,
+"bis": 430000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/36/cf/857365/audi-report-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001702/86668",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-06",
+"etikett": "Eigenangabe",
+"version": 25
+}
+]
+}

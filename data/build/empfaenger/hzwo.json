@@ -1,0 +1,86 @@
+{
+"id": "hzwo",
+"name": "HZwo e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Chemnitz",
+"website": "hzwo.eu",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000409",
+"eintrag_id": 78085,
+"version": 7,
+"stand": "2026-06-04",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000409/78085",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/37/67/748746/Lobbyregister-Registereintraege-Detailansicht-R000409-2026-06-04_08-50-58.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "VDI/VDE Innovation + Technik GmbH (Projektträger)",
+"epl": null,
+"von": 260001,
+"bis": 270000,
+"zweck": "Das Transformations-Hub cH2ance ist Bestandteil der Strategie der Bundesregierung zur Transformation der deutschen Automobilindustrie und unterstützt von 2022 bis 2026 die Automobil- und Zulieferindustrie bei der Transformation in Richtung Wasserstoffmobilität.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 260001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Karl Lötsch",
+"funktion": "Gerschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000409/78085",
+"stand": "2026-06-04"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 410001,
+"bis": 420000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/b9/54/748745/HZwo-e-V-JA-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000409/78085",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-04",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

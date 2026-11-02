@@ -1,0 +1,129 @@
+{
+"id": "zukunft-klimasozial-zks",
+"name": "Zukunft KlimaSozial ZKS gGmbH",
+"art": "verein_stiftung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "https://zukunft-klimasozial.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006738",
+"eintrag_id": 88140,
+"version": 9,
+"stand": "2026-10-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006738/88140",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/4c/19/866715/Lobbyregister-Registereintraege-Detailansicht-R006738-2026-10-29_11-00-45.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Umweltbundesamt",
+"epl": "16",
+"von": 50001,
+"bis": 60000,
+"zweck": "Dr. Brigitte Knopf war bis September 2025 Mitglied des von der Bundesregierung berufenen Expertenrats für Klimafragen. Der Zuschuss betrifft die Kosten für wissenschaftliche Mitarbeiter*innen zur Unterstützung der Mitglieder des Expertenrats.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 50001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Brigitte Knopf",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006738/88140",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Michael Schulte",
+"funktion": "Kfm. Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006738/88140",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Astrid Schaffert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006738/88140",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Marie-Louise Zeller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006738/88140",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Frederik Lettow",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006738/88140",
+"stand": "2026-10-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 1110001,
+"bis": 1120000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/06/d2/866714/Zukunft-KlimaSozial-ZKS-gGmbH-Jahresabschluss-2024-web.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006738/88140",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-29",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

@@ -1,0 +1,155 @@
+{
+"id": "landessportbund-nordrhein-westfalen",
+"name": "Landessportbund Nordrhein-Westfalen e.V. ",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Duisburg",
+"website": "www.lsb.nrw",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003838",
+"eintrag_id": 65387,
+"version": 7,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003838/65387",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f5/9a/796497/Lobbyregister-Registereintraege-Detailansicht-R003838-2026-06-30_20-08-26.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 840001,
+"bis": 850000,
+"zweck": "FSJ im Sport BFD im Sport Sondermaßnahme internationale Jugendbegegnung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium des Inneren, für Bau und Heimat",
+"epl": null,
+"von": 8350001,
+"bis": 8360000,
+"zweck": "Olympiastützpunkt NRW, Betrieb und Betreuung Olympiastützpunkt NRW, Trainingsstättenförderung Zusammenhalt durch Teilhabe",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Migration und Flüchtlinge",
+"epl": "06",
+"von": 1750001,
+"bis": 1760000,
+"zweck": "Bundesprogramm \"Integration durch Sport\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutscher Olympischer Sportbund",
+"epl": null,
+"von": 350001,
+"bis": 360000,
+"zweck": "Glücksspirale (Zusatzlotterie Sieger Chance)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 11290004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christoph Niessen",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003838/65387",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Ilja Waßenhoven",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003838/65387",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Tobias Knoch",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003838/65387",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Stefan Klett",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003838/65387",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Jens Wortmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003838/65387",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges",
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 2390001,
+"bis": 2400000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/bb/62/796496/Jahresabschluss_2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003838/65387",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

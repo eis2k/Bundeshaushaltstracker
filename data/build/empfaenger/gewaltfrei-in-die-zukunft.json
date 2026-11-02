@@ -1,0 +1,96 @@
+{
+"id": "gewaltfrei-in-die-zukunft",
+"name": "Gewaltfrei in die Zukunft e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.gewaltfrei-in-die-zukunft.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R008185",
+"eintrag_id": 85465,
+"version": 2,
+"stand": "2026-09-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008185/85465",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/99/b9/838141/Lobbyregister-Registereintraege-Detailansicht-R008185-2026-09-03_15-13-33.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium des Innern",
+"epl": "06",
+"von": 940001,
+"bis": 950000,
+"zweck": "Zuwendung zur Finanzierung des Projektes „Ausbau und Rollout der geschützten App für Betroffene von geschlechtsspezifischer Gewalt im häuslichen Kontext\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 940001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Stefanie Knaab",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008185/85465",
+"stand": "2026-09-03"
+}
+},
+{
+"name": "Thomas Wied",
+"funktion": "Stellvertretende Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008185/85465",
+"stand": "2026-09-03"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 50001,
+"bis": 60000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/fa/74/838140/GfZ_Bilanz_GuV_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008185/85465",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-03",
+"etikett": "Eigenangabe",
+"version": 2
+}
+]
+}

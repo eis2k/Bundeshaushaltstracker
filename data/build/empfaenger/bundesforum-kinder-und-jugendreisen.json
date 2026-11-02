@@ -1,0 +1,119 @@
+{
+"id": "bundesforum-kinder-und-jugendreisen",
+"name": "BundesForum Kinder- und Jugendreisen e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://bundesforum.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003928",
+"eintrag_id": 60558,
+"version": 6,
+"stand": "2025-07-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003928/60558",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/62/2e/570960/Lobbyregister-Registereintraege-Detailansicht-R003928-2025-07-01_09-40-02.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMFSFJ",
+"epl": "17",
+"von": 190001,
+"bis": 200000,
+"zweck": "Institutionelle Förderung Projektförderung",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 190001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Dennis Peinze",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003928/60558",
+"stand": "2025-07-01"
+}
+},
+{
+"name": "Miriam Wolters",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003928/60558",
+"stand": "2025-07-01"
+}
+},
+{
+"name": "Knuth Gründer",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003928/60558",
+"stand": "2025-07-01"
+}
+},
+{
+"name": "Jens-Martin Krieg",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003928/60558",
+"stand": "2025-07-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/90/ad/570959/Jahresbericht-2024.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003928/60558",
+"abgerufen": "2026-11-02",
+"stand": "2025-07-01",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

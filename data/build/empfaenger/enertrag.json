@@ -1,0 +1,251 @@
+{
+"id": "enertrag",
+"name": "ENERTRAG",
+"art": "unternehmen",
+"rechtsform": "Europäische Aktiengesellschaft (SE)",
+"sitz": "Dauerthal",
+"website": "www.enertrag.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003850",
+"eintrag_id": 81796,
+"version": 21,
+"stand": "2026-09-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003850/81796",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/76/ce/850128/Lobbyregister-Registereintraege-Detailansicht-R003850-2026-09-29_13-52-49.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"epl": "12",
+"von": 3720001,
+"bis": 3730000,
+"zweck": "Errichtung eines Wasserstoffwerkes zum Einsatz von Wasserstoffbrennstoffzellenantrieben in Personenzügen der RB27 – Heidekrautbahn, betrieben mit 100 % EE-Wasserstoff",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 720001,
+"bis": 730000,
+"zweck": "ENERTRAG Elektrolysekorridor Ost Energieinfrastruktur: Großscalige Erzeugung, Speicherung und Vertrieb von grünem Wasserstoff",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 330001,
+"bis": 340000,
+"zweck": "Reallabor: RefLau – Referenzkraftwerk Lausitz; Teilvorhaben: Wasserstofferzeugung und Sektorenkopplung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"epl": "12",
+"von": 740001,
+"bis": 750000,
+"zweck": "Marktaktivierung: Bau und Betrieb eines 1000-kWElektrolyseurs in Prenzlau (beantragt: Bertikow), Brandenburg, zur Belieferung einer öffentlich zugänglichen Wasserstoff-Tankstelle für Personen- und Lastkraftwagen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "DEG Impulse gGmbH",
+"epl": null,
+"von": 130001,
+"bis": 140000,
+"zweck": "HyJo (Pre-Feasibility Study).",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"epl": "12",
+"von": 5710001,
+"bis": 5720000,
+"zweck": "Errichtung eines Wasserstoffwerkes zum Einsatz von Wasserstoffbrennstoffzellenantrieben in Personenzügen der RB27 – Heidekrautbahn, betrieben mit 100 % EE-Wasserstoff",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 2730001,
+"bis": 2740000,
+"zweck": "Energieinfrastruktur: Großscalige Erzeugung, Speicherung und Vertrieb von grünem Wasserstoff (zwei Standorte)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 10001,
+"bis": 20000,
+"zweck": "Professor*innengewinnung und Nachwuchsentwicklung zur Etablierung eines Centers of Advanced Scientific Education (CASE)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 14090008,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Gunar Hering",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003850/81796",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Simon Hagedorn",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003850/81796",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Anne Bendzulla",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003850/81796",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Nadine Kanu",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003850/81796",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Sarah Weltecke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003850/81796",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Martin Beckmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003850/81796",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Jan Thorbecke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003850/81796",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Victoria Vogt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003850/81796",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Sebastian Herlt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003850/81796",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Cheryl Joy White",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003850/81796",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Nora Schroeder",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003850/81796",
+"stand": "2026-09-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 930001,
+"bis": 940000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/07/94/850115/EAG-FY-ENERTRAG_SE_-_Jahresabschluss_und_Lagebericht_GJ_2025-2026-1.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003850/81796",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-29",
+"etikett": "Eigenangabe",
+"version": 21
+}
+]
+}

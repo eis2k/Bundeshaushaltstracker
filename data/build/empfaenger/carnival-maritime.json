@@ -1,0 +1,103 @@
+{
+"id": "carnival-maritime",
+"name": "Carnival Maritime GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Hamburg",
+"website": "www.carnival-maritime.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003011",
+"eintrag_id": 79090,
+"version": 7,
+"stand": "2026-06-15",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003011/79090",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/34/25/758361/Lobbyregister-Registereintraege-Detailansicht-R003011-2026-06-15_10-52-26.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 20001,
+"bis": 30000,
+"zweck": "Zuschüsse/Förderungen/Beträge zu/von Vebundprojekten/Forschungsprojekten der Carnival Maritime GmbH",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 30001,
+"bis": 40000,
+"zweck": "Zuschuss zum Forschungsproject - WIR! Campfire",
+"geschaeftsjahr": "2023"
+}
+],
+"lobby_untergrenze_bund": 50002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Keith Dowds",
+"funktion": "Managing Director",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003011/79090",
+"stand": "2026-06-15"
+}
+},
+{
+"name": "Christoph Schladoer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003011/79090",
+"stand": "2026-06-15"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2023",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/2d/09/758360/CMG-2023.pdf",
+"geschaeftsjahr": "2022",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003011/79090",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-15",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

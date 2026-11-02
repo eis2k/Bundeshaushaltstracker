@@ -1,0 +1,140 @@
+{
+"id": "deutsche-biomasseforschungszentrum",
+"name": "Deutsche Biomasseforschungszentrum",
+"art": "forschung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "10-1005-68621",
+"text": "Zuschuss an das Deutsche Biomasseforschungszentrum - Betrieb",
+"epl": "10",
+"epl_text": "Bundesministerium für Landwirtschaft, Ernährung und Heimat",
+"werte": {
+"2015": {
+"soll": 6558000,
+"ist": 6558000
+},
+"2016": {
+"soll": 6723000,
+"ist": 6723000
+},
+"2017": {
+"soll": 7061000,
+"ist": 7061000
+},
+"2018": {
+"soll": 7638000,
+"ist": 7278000
+},
+"2019": {
+"soll": 8406000,
+"ist": 8406000
+},
+"2020": {
+"soll": 8729000,
+"ist": 8729000
+},
+"2021": {
+"soll": 8479000,
+"ist": 8479000
+},
+"2022": {
+"soll": 9098000,
+"ist": 9350283
+},
+"2023": {
+"soll": 11036000,
+"ist": 11036000
+},
+"2024": {
+"soll": 10988000,
+"ist": 10987210
+},
+"2025": {
+"soll": 11539000,
+"ist": 11538442
+},
+"2026": {
+"soll": 12502000,
+"ist": null
+}
+}
+},
+{
+"id": "10-1005-89321",
+"text": "Zuschuss an das Deutsche Biomasseforschungszentrum - Investitionen",
+"epl": "10",
+"epl_text": "Bundesministerium für Landwirtschaft, Ernährung und Heimat",
+"werte": {
+"2015": {
+"soll": 6700000,
+"ist": 3387000
+},
+"2016": {
+"soll": 12550000,
+"ist": 4300000
+},
+"2017": {
+"soll": 12067000,
+"ist": 11671820
+},
+"2018": {
+"soll": 20509000,
+"ist": 13840000
+},
+"2019": {
+"soll": 14502000,
+"ist": 12763485
+},
+"2020": {
+"soll": 10836000,
+"ist": 10835750
+},
+"2021": {
+"soll": 4271000,
+"ist": 10886525
+},
+"2022": {
+"soll": 2368000,
+"ist": 3056214
+},
+"2023": {
+"soll": 2071000,
+"ist": 2269450
+},
+"2024": {
+"soll": 3713000,
+"ist": 3053637
+},
+"2025": {
+"soll": 2064000,
+"ist": 3192464
+},
+"2026": {
+"soll": 5053000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

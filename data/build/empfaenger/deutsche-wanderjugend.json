@@ -1,0 +1,89 @@
+{
+"id": "deutsche-wanderjugend",
+"name": "Deutsche Wanderjugend ",
+"art": "verein_stiftung",
+"rechtsform": "Nicht rechtsfähiger Verein",
+"sitz": "Kassel",
+"website": "www.wanderjugend.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004799",
+"eintrag_id": 83474,
+"version": 7,
+"stand": "2026-07-21",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004799/83474",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/89/98/817141/Lobbyregister-Registereintraege-Detailansicht-R004799-2026-07-21_13-02-45.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ)",
+"epl": "17",
+"von": 340001,
+"bis": 350000,
+"zweck": "Globalmittel Jugendverbände Kinder- und Jugendplan des Bundes (KJP)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 340001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Torsten Flader",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004799/83474",
+"stand": "2026-07-21"
+}
+},
+{
+"name": "Svenja Misamer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004799/83474",
+"stand": "2026-07-21"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 50001,
+"bis": 60000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": null
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004799/83474",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-21",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

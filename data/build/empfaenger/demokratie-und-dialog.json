@@ -1,0 +1,221 @@
+{
+"id": "demokratie-und-dialog",
+"name": "Demokratie & Dialog e.V. ",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://www.demokratie-dialog.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007753",
+"eintrag_id": 87580,
+"version": 3,
+"stand": "2026-10-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007753/87580",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/9e/91/867445/Lobbyregister-Registereintraege-Detailansicht-R007753-2026-10-30_14-36-33.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Familien, Senioren, Frauen und Jugend",
+"epl": null,
+"von": 60001,
+"bis": 70000,
+"zweck": "Zuwendungen zur Förderung der pädagogischen Begleitung im Freiwilligen Sozialen Jahr auf Grundlage der Richtlinie zur Förderung der Jugendfreiwilligendienste nach dem Jugendfreiwilligendienstegesetz sowie des Internationalen Jugendfreiwilligendienstes nach der Richtlinie des Bundesministeriums für Familie, Senioren, Frauen und Jugend zur Umsetzung des Internationalen Jugendfreiwilligendienstes",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"epl": "17",
+"von": 70001,
+"bis": 80000,
+"zweck": "Kostenerstattung für die Tätigkeit als Träger im Bundesfreiwilligendienst zum Zwecke der pädagogischen Begleitung.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Familien und zivilgesellschaftliche Aufgaben",
+"epl": null,
+"von": 60001,
+"bis": 70000,
+"zweck": "Kostenerstattung für die Zahlung des Taschengeldes an Freiwillige sowie Fahrtkosten für die FzpB im Bundesfreiwilligendienst",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 190003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Janosch Glöckner",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007753/87580",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Mariella Hettich",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007753/87580",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Janne Schweitzer",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007753/87580",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Jost Seeger",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007753/87580",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Lilian-Ruth Sasse",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für eine Fraktion/Gruppe im Deutschen Bundestag",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007753/87580",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Amelie Steffen",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007753/87580",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Clara von Starck",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007753/87580",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Paula Winkler",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007753/87580",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Fabian Wolf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007753/87580",
+"stand": "2026-10-30"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Lilian-Ruth Sasse",
+"funktion_person": "Funktion für eine Fraktion/Gruppe im Deutschen Bundestag, Bundestag",
+"funktion_beim_empfaenger": "Vorstand",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Lilian-Ruth Sasse ist laut Lobbyregister Vorstand bei Demokratie & Dialog e.V.  und hatte zuvor eine öffentliche Funktion: Funktion für eine Fraktion/Gruppe im Deutschen Bundestag, Bundestag. Demokratie & Dialog e.V.  erhielt laut Lobbyregister Mittel von: Bundesamt für Familie und zivilgesellschaftliche Aufgaben; Bundesministerium für Familien, Senioren, Frauen und Jugend; Bundesamt für Familien und zivilgesellschaftliche Aufgaben.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"Bundesministerium für Familien, Senioren, Frauen und Jugend",
+"Bundesamt für Familien und zivilgesellschaftliche Aufgaben"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007753/87580",
+"stand": "2026-10-30"
+}
+],
+"stand": "2026-10-30"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges",
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ff/be/867444/EUeR-FA-2025_final.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007753/87580",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-30",
+"etikett": "Eigenangabe",
+"version": 3
+}
+]
+}

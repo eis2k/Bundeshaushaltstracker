@@ -1,0 +1,216 @@
+{
+"id": "djo-deutsche-jugend-in-europa-bundesverband",
+"name": "djo - Deutsche Jugend in Europa, Bundesverband e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://djo.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001328",
+"eintrag_id": 80609,
+"version": 13,
+"stand": "2026-06-26",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001328/80609",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/3d/be/777830/Lobbyregister-Registereintraege-Detailansicht-R001328-2026-06-26_07-15-48.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 1550001,
+"bis": 1560000,
+"zweck": "Förderung der Jugendverbandsarbeit und der Internationalen Jugendarbeit.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BAFzA",
+"epl": "17",
+"von": 50001,
+"bis": 60000,
+"zweck": "Im vom BMFSFJ geförderten Bundesprogramm Menschen stärken Menschen, vom BAFzA administrativ als auch finanztechnisch betreut, werden durch Chancenpatenschaften Wege zu gesellschaftlicher Teilhabe aufgezeigt und gemeinsam beschritten. Im Rahmen des Programms setzen wir zusammen mit unseren bundesweiten Migrant_innenjugendselbstorganisationen (MJSO), Bundesgruppen und Landesverbänden seit Dezember 2016 Patenschaften für Kinder, Jugendliche und junge Erwachsene um.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Migration und Flüchtlinge",
+"epl": "06",
+"von": 710001,
+"bis": 720000,
+"zweck": "Das Bundesprogramm Gesellschaftlicher Zusammenhalt - Vor Ort. Vernetzt. Verbunden. zielt mit der Förderung von Projekten darauf ab, in Städten und Gemeinden ein tolerantes und wohlwollendes Miteinander zu unterstützen, indem Teilhabe- und Partizipationsmöglichkeiten von Menschen mit Migrationsgeschichte verbessert und freiwilliges Engagement gestärkt werden.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsch-Tschechischer Zukunftsfonds",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "Wir bieten eine fünftägige transkulturelle Programmwoche für 50 Jugendliche aus Deutschland und Tschechien. Es können sich 25 Schülerinnen aus verschiedenen Stufen und Klassen gemeinsam mit 2 Begleitungspersonen pro Land anmelden.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Förderprogramm zivik",
+"epl": null,
+"von": 150001,
+"bis": 160000,
+"zweck": "Förderung der Auslandsbeziehungen zwischen der deutschen und belarusischen Zivilgesellgesellschaft.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 2480005,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Evîn Sîdo",
+"funktion": "Bundesvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001328/80609",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Gesa Dreyer",
+"funktion": "Bundesvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001328/80609",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Christian Gradt",
+"funktion": "Bundesschatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001328/80609",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Frank Winkler",
+"funktion": "Stellvertretender Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001328/80609",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Silvian Ghagho-Saatlou",
+"funktion": "Stellvertretender Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001328/80609",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Mark Zinoviev",
+"funktion": "Beisitzer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001328/80609",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Catherine Knauf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001328/80609",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Sarah Hanke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001328/80609",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Marius Lüdicke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001328/80609",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Doreen Regenscheit",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001328/80609",
+"stand": "2026-06-26"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 50001,
+"bis": 60000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/20/ae/777829/Jahresabschluss-BV-2024-StB_final_verkuerzt.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001328/80609",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-26",
+"etikett": "Eigenangabe",
+"version": 13
+}
+]
+}

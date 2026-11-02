@@ -1,0 +1,129 @@
+{
+"id": "bundesausschuss-politische-bildung",
+"name": "Bundesausschuss Politische Bildung (bap) e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bonn",
+"website": "bap-politischebildung.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002463",
+"eintrag_id": 83594,
+"version": 13,
+"stand": "2026-07-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002463/83594",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/97/95/819733/Lobbyregister-Registereintraege-Detailansicht-R002463-2026-07-24_14-15-08.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ)",
+"epl": "17",
+"von": 200001,
+"bis": 210000,
+"zweck": "Mitwirkung der GEMINI am Deutschen Jugendhilfetag 2025 in Leipzig, Herausgabe des \"Journal für politische Bildung\", Beratung und Öffentlichkeitsarbeit für den Bundesausschuss Politische Bildung (bap) e.V.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 200001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Natali Rezwanian-Amiri",
+"funktion": "stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002463/83594",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Andrea Rühmann",
+"funktion": "Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002463/83594",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Ina Nottebohm",
+"funktion": "Beisitzerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002463/83594",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Konstantin Dittrich",
+"funktion": "Beisitzer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002463/83594",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Hanna Lorenzen",
+"funktion": "Beisitzerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002463/83594",
+"stand": "2026-07-24"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 30001,
+"bis": 40000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/d6/42/819730/Jahresabschluss-bap-e-V-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002463/83594",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-24",
+"etikett": "Eigenangabe",
+"version": 13
+}
+]
+}

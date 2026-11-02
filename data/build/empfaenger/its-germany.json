@@ -1,0 +1,147 @@
+{
+"id": "its-germany",
+"name": "ITS Germany e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.itsgermany.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000005",
+"eintrag_id": 83314,
+"version": 17,
+"stand": "2026-07-17",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000005/83314",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/fe/74/815503/Lobbyregister-Registereintraege-Detailansicht-R000005-2026-07-17_13-40-17.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Digitalisierung und Verkehr (BMDV)",
+"epl": null,
+"von": 740001,
+"bis": 750000,
+"zweck": "Zuwendung aus dem Bundeshaushalt, Einzelplan 12, Kapitel 1204, Titel 68613, Haushaltsjahr 2023, für das Vorhaben: \"Artificial Intelligence and Mobility/Künstliche Intelligenz und Mobilität: Realisierung ausgewählter Mobilitätsprojekte/-dienste aus den Bereichen ÖPNV, Vernetzung und Mobilitätsdaten sowie Verbund in einer datengetriebenen Integrationszone zum vereinfachten Finden und Explorieren von KI-basierten Services.\" - AIAMO",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Digitalisierung und Verkehr (BMDV)",
+"epl": null,
+"von": 610001,
+"bis": 620000,
+"zweck": "Zuwendung aus dem Bundeshaushalt, Einzelplan 12, Kapitel 1204, Titel 68613, Haushaltsjahr 2024, für das Vorhaben: \"Artificial Intelligence and Mobility/Künstliche Intelligenz und Mobilität: Realisierung ausgewählter Mobilitätsprojekte/-dienste aus den Bereichen ÖPNV, Vernetzung und Mobilitätsdaten sowie Verbund in einer datengetriebenen Integrationszone zum vereinfachten Finden und Explorieren von KI-basierten Services.\" - AIAMO",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Digitalisierung und Verkehr (BMDV)",
+"epl": null,
+"von": 1390001,
+"bis": 1400000,
+"zweck": "Zuwendung aus dem Bundeshaushalt, Einzelplan 12, Kapitel 1204, Titel 68613, Haushaltsjahr 2025, für das Vorhaben: \"Artificial Intelligence and Mobility/Künstliche Intelligenz und Mobilität: Realisierung ausgewählter Mobilitätsprojekte/-dienste aus den Bereichen ÖPNV, Vernetzung und Mobilitätsdaten sowie Verbund in einer datengetriebenen Integrationszone zum vereinfachten Finden und Explorieren von KI-basierten Services.\" – AIAMO",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 2740003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Markus Wartha",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000005/83314",
+"stand": "2026-07-17"
+}
+},
+{
+"name": "Michael Stepping",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000005/83314",
+"stand": "2026-07-17"
+}
+},
+{
+"name": "Christian Roszak",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000005/83314",
+"stand": "2026-07-17"
+}
+},
+{
+"name": "Kristian Bock",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000005/83314",
+"stand": "2026-07-17"
+}
+},
+{
+"name": "Thomas Hornig",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000005/83314",
+"stand": "2026-07-17"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 30001,
+"bis": 40000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/0c/45/815499/Erstellungsbericht_Jahresabschluss-FP-SIGN-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000005/83314",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-17",
+"etikett": "Eigenangabe",
+"version": 17
+}
+]
+}

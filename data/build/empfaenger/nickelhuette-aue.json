@@ -1,0 +1,85 @@
+{
+"id": "nickelhuette-aue",
+"name": "Nickelhütte Aue GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Aue-Bad Schlema",
+"website": "https://nha-aue.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005744",
+"eintrag_id": 68743,
+"version": 5,
+"stand": "2025-12-04",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005744/68743",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/cc/3b/648481/Lobbyregister-Registereintraege-Detailansicht-R005744-2025-12-04_11-38-05.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BAFA",
+"epl": "09",
+"von": 20001,
+"bis": 30000,
+"zweck": "Bundesförderung für Energie und Ressourceneffizient",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 20001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Bodo Alexander Henry Sobieraj",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005744/68743",
+"stand": "2025-12-04"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/8b/1c/648480/40028062-JA-30-06-2025-sig-2.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005744/68743",
+"abgerufen": "2026-11-02",
+"stand": "2025-12-04",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

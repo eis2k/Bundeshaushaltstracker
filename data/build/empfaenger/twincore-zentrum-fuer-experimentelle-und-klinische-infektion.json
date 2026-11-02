@@ -1,0 +1,94 @@
+{
+"id": "twincore-zentrum-fuer-experimentelle-und-klinische-infektion",
+"name": "Twincore, Zentrum für Experimentelle und Klinische Infektionsforschung GmbH",
+"art": "forschung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Hannover",
+"website": "https://www.twincore.de/twincore/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004358",
+"eintrag_id": 75756,
+"version": 6,
+"stand": "2026-07-09",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004358/75756",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/08/03/809525/Lobbyregister-Registereintraege-Detailansicht-R004358-2026-07-09_07-09-53.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Helmholtz-Zentrum für Infektionsforschung GmbH",
+"epl": null,
+"von": 460001,
+"bis": 470000,
+"zweck": "Institutionelle Zuwendung auf Grundlage der jährlichen Wirtschaftsplanung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsches Zentrum für Infektionsforschung e.V.",
+"epl": null,
+"von": 210001,
+"bis": 220000,
+"zweck": "Zuschuss aus Mitteln des Deutschen Zentrums für Infektionsforschung e.V. für die Projektförderung im Forschungsbereich Hepatitis",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 670002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ulrich Kalinke",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004358/75756",
+"stand": "2026-07-09"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/57/c2/809524/Jahresabschluss_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004358/75756",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-09",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

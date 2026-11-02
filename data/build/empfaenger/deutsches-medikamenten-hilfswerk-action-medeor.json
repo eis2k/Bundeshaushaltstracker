@@ -1,0 +1,160 @@
+{
+"id": "deutsches-medikamenten-hilfswerk-action-medeor",
+"name": "Deutsches Medikamenten-Hilfswerk „action medeor\" e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Tönisvorst",
+"website": "www.medeor.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000276",
+"eintrag_id": 79849,
+"version": 12,
+"stand": "2026-07-09",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000276/79849",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/a5/85/810119/Lobbyregister-Registereintraege-Detailansicht-R000276-2026-07-09_14-41-59.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+"epl": "23",
+"von": 10170001,
+"bis": 10180000,
+"zweck": "Das Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) fördert Programme der humanitären Hilfe und Entwicklungszusammenarbeit sowie Pharmazie-Projekte in Afrika, Lateinamerika und Asien.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Auswärtiges Amt (AA)",
+"epl": "05",
+"von": 6660001,
+"bis": 6670000,
+"zweck": "Das Auswärtige Amt (AA) fördert insbesondere Programme der humanitären Hilfe in Afrika, Lateinamerika und Asien.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 16830002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Sid Peruvemba",
+"funktion": "Vorstand (Vorstandssprecher)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000276/79849",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Kerstin Steuler",
+"funktion": "erweiterter Vorstand (Finanzen, IT und Personal)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000276/79849",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Zeithammer Angela",
+"funktion": "erweiterter Vorstand (Marketing und Kommunikation)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000276/79849",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Max Hoßfeld",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000276/79849",
+"stand": "2026-07-09"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "abgeordneter_funktion",
+"person": "Jan Dieren",
+"funktion_person": "MdB, SPD",
+"funktion_beim_empfaenger": "Mitglied des Beirates, ehrenamtlich (ab 28.04.2026)",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Jan Dieren (MdB, SPD) ist laut bundestag.de Mitglied des Beirates, ehrenamtlich (ab 28.04.2026) bei Deutsches Medikamenten-Hilfswerk „action medeor\" e.V.. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Arbeit und Soziales; Petitionsausschuss; Ausschuss für Recht und Verbraucherschutz. Deutsches Medikamenten-Hilfswerk „action medeor\" e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ); Auswärtiges Amt (AA).",
+"ausschuesse": [
+"Ausschuss für Arbeit und Soziales",
+"Petitionsausschuss",
+"Ausschuss für Recht und Verbraucherschutz"
+],
+"geld_aus": [
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+"Auswärtiges Amt (AA)"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/D/dieren_jan-1044048",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 14560001,
+"bis": 14570000
+},
+"mitgliedsbeitraege": {
+"von": 10001,
+"bis": 20000
+},
+"lobbyausgaben": {
+"von": 30001,
+"bis": 40000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/61/9a/810118/2025-Rechnungslegung-actionmedeor-DE.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000276/79849",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-09",
+"etikett": "Eigenangabe",
+"version": 12
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/D/dieren_jan-1044048",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

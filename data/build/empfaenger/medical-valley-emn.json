@@ -1,0 +1,105 @@
+{
+"id": "medical-valley-emn",
+"name": "Medical Valley EMN e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Erlangen",
+"website": "www.medical-valley-emn.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007244",
+"eintrag_id": 76307,
+"version": 4,
+"stand": "2026-06-12",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007244/76307",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ee/8e/756775/Lobbyregister-Registereintraege-Detailansicht-R007244-2026-06-12_09-14-26.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bayerisches Staatsministerium für Wirtschaft, Landesentwicklung und Energie (StMWi)",
+"epl": null,
+"von": 150001,
+"bis": 160000,
+"zweck": "Zuwendung für das Förderprojekt „Cluster-Offensive Bayern: Clusterplattform Medizintechnik“ aus Mitteln des Bayerischen Staatsministeriums für Wirtschaft, Landesentwicklung und Energie.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Staatsministerium f. Gesundheit, Pflege, Prävention (StMGP)",
+"epl": null,
+"von": 150001,
+"bis": 160000,
+"zweck": "Zuwendung für das Forschungsprojekt „Digitales Demenzregister Bayern (DigiDEM Bayern)\" aus Mitteln des Bayerischen Staatministerium für Gesundheit und Pflege.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 300002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Felix Winter",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007244/76307",
+"stand": "2026-06-12"
+}
+},
+{
+"name": "Marco Wendel",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007244/76307",
+"stand": "2026-06-12"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 130001,
+"bis": 140000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/b3/a8/756774/Medical-Valley-EMN-e-V-Rechnungslegung-fuer-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007244/76307",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-12",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

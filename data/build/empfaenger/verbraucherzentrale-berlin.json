@@ -1,0 +1,115 @@
+{
+"id": "verbraucherzentrale-berlin",
+"name": "Verbraucherzentrale Berlin e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://www.verbraucherzentrale-berlin.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003303",
+"eintrag_id": 68287,
+"version": 8,
+"stand": "2026-06-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003303/68287",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/7c/a6/774124/Lobbyregister-Registereintraege-Detailansicht-R003303-2026-06-24_15-50-32.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt",
+"epl": null,
+"von": 190001,
+"bis": 200000,
+"zweck": "Projekt: BEK Energie",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesanstalt für Landwirtschaft und Ernährung",
+"epl": "10",
+"von": 170001,
+"bis": 180000,
+"zweck": "Projekte: Duale Förderung Lebensmittel und Ernährung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium der Justiz und für Verbraucherschutz",
+"epl": "07",
+"von": 250001,
+"bis": 260000,
+"zweck": "Projektförderung: Duale Förderung Wirtschaftlicher Verbraucherschutz, Storytelling-Projekt",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 610003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Markus Kamrad",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003303/68287",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Britta Schautz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003303/68287",
+"stand": "2026-06-24"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 10001,
+"bis": 20000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/55/ba/774116/Bilanz-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003303/68287",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-24",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

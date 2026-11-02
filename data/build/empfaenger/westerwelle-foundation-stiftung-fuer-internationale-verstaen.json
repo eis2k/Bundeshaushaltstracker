@@ -1,0 +1,128 @@
+{
+"id": "westerwelle-foundation-stiftung-fuer-internationale-verstaen",
+"name": "Westerwelle Foundation - Stiftung für internationale Verständigung",
+"art": "verein_stiftung",
+"rechtsform": "Rechtsfähige Stiftung bürgerlichen Rechts",
+"sitz": "Berlin",
+"website": "www.westerwelle-foundation.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003625",
+"eintrag_id": 81357,
+"version": 9,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003625/81357",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c0/f3/790752/Lobbyregister-Registereintraege-Detailansicht-R003625-2026-06-30_13-18-55.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "GIZ",
+"epl": "23",
+"von": 310001,
+"bis": 320000,
+"zweck": "Zuschuss für die Durchführung von Unterstützungsprogrammen für Jungunternehmer in Afrika",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Das Auswärtige Amt",
+"epl": null,
+"von": 290001,
+"bis": 300000,
+"zweck": "Zuschuss für den Aufbau eines Innovationszentrums für Startups in Afrika sowie die Durchführung eines begleitenden Fachkongresses in Berlin.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 600002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Michael Mronz",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003625/81357",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Ralph Dommermuth",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003625/81357",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Paul Steffens",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003625/81357",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Oliver Reisner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003625/81357",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Sonstiges",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 490001,
+"bis": 500000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 40001,
+"bis": 50000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ee/7b/790751/Bericht_Westerwelle_Stiftung_2024_gesamt-1.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003625/81357",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

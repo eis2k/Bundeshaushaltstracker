@@ -1,0 +1,108 @@
+{
+"id": "netzwerk-artikel-3",
+"name": "NETZWERK ARTIKEL 3 e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.netzwerk-artikel-3.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004514",
+"eintrag_id": 58088,
+"version": 8,
+"stand": "2026-06-21",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004514/58088",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/7a/f3/766696/Lobbyregister-Registereintraege-Detailansicht-R004514-2026-06-21_15-00-00.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Partizipationsfonds des Bundesministeriums für Arbeit und Soziales",
+"epl": null,
+"von": 90001,
+"bis": 100000,
+"zweck": "Begleitung AGG-Reform: Mit dem Projekt sollen die Bemühungen um eine Reform des Allgemeinen Gleichbehandlungsgesetzes (AGG) unterstützt werden, wobei insbesondere die Diskriminierungen behinderter Menschen wirkungsvoller unterbunden und geahndet werden sollen.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 90001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Sigrid Arnade",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004514/58088",
+"stand": "2026-06-21"
+}
+},
+{
+"name": "Gisela Hermes",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004514/58088",
+"stand": "2026-06-21"
+}
+},
+{
+"name": "Thomas Künneke",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004514/58088",
+"stand": "2026-06-21"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 90001,
+"bis": 100000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/81/d7/766695/260620_Bericht_Vorstand_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004514/58088",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-21",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

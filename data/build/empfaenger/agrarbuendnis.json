@@ -1,0 +1,107 @@
+{
+"id": "agrarbuendnis",
+"name": "AgrarBündnis e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Gleichen",
+"website": "www.agrarbuendnis.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005208",
+"eintrag_id": 81441,
+"version": 17,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005208/81441",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/66/55/796373/Lobbyregister-Registereintraege-Detailansicht-R005208-2026-06-30_19-41-05.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Landwirtschaftliche Rentenbank",
+"epl": null,
+"von": 90001,
+"bis": 100000,
+"zweck": "Bei der Zuwendung handelt es sich um Fördermittel für 4 Projekte, die sich thematisch auf den Wandel und das Verständnis von Rollen und Aufgaben in der Landwirtschaft, den Chancen und Möglichkeiten nachhaltiger Agrarmärkte sowie einer klimafreundlichen Lanwirtschaft und den Erhalt einer bäuerlichen Landwirtschaft durch eine gerechte Bodenpolitik und Existenzgründungen beziehen.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 90001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Bernd Voss",
+"funktion": "Vorstandssprecher",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005208/81441",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Jenny Schlosser",
+"funktion": "Vorstandssprecherin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005208/81441",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Karin Jürgens",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005208/81441",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 10001,
+"bis": 20000
+},
+"lobbyausgaben": {
+"von": 50001,
+"bis": 60000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/00/ae/796371/AgrarBuendnis_Jahresabschluss_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005208/81441",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 17
+}
+]
+}

@@ -1,0 +1,130 @@
+{
+"id": "swissbit-germany",
+"name": "Swissbit Germany AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Berlin",
+"website": "https://www.swissbit.com/de/unternehmen/ueber-uns/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007715",
+"eintrag_id": 83082,
+"version": 4,
+"stand": "2026-07-17",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007715/83082",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/3b/dc/815408/Lobbyregister-Registereintraege-Detailansicht-R007715-2026-07-17_12-02-53.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "IPCEI ME/KT",
+"epl": null,
+"von": 990001,
+"bis": 1000000,
+"zweck": "Förderung IPCEI",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "CeCas",
+"epl": null,
+"von": 110001,
+"bis": 120000,
+"zweck": "Förderung CeCas",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "SIGN-HEP",
+"epl": null,
+"von": 120001,
+"bis": 130000,
+"zweck": "Beitrag zu Forschungsprojekt im Rahmen von DE:Sign des BMFTR",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "HyPACT",
+"epl": null,
+"von": 290001,
+"bis": 300000,
+"zweck": "Beitrag zu Xecs (EUREKA Cluster) Projekt.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1510004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Lars Lust",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007715/83082",
+"stand": "2026-07-17"
+}
+},
+{
+"name": "Chris Schwarze",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007715/83082",
+"stand": "2026-07-17"
+}
+},
+{
+"name": "Julia Schmalenberg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007715/83082",
+"stand": "2026-07-17"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/48/48/815404/10027254_End_TE_JA2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007715/83082",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-17",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

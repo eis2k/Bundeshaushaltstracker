@@ -1,0 +1,108 @@
+{
+"id": "deutsch-serbische-wirtschaftskammer",
+"name": "Deutsch-Serbische Wirtschaftskammer (AHK Serbien)",
+"art": "verein_stiftung",
+"rechtsform": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+"sitz": "Belgrad",
+"website": "https://serbien.ahk.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006224",
+"eintrag_id": 74165,
+"version": 11,
+"stand": "2026-03-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006224/74165",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/8f/f7/709855/Lobbyregister-Registereintraege-Detailansicht-R006224-2026-03-24_08-37-31.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 550001,
+"bis": 560000,
+"zweck": "Die Zuwendung dient der Unterstützung und Entwicklung der deutsch-serbischen aussenwirtschaftlichen Beziehungen",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 550001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Alexander Markus",
+"funktion": "Geschäftsführendes Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006224/74165",
+"stand": "2026-03-24"
+}
+},
+{
+"name": "Dragana Veselinović",
+"funktion": "Stellvertretende Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006224/74165",
+"stand": "2026-03-24"
+}
+},
+{
+"name": "Aleksandar Čokanović",
+"funktion": "Jurist",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006224/74165",
+"stand": "2026-03-24"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 390001,
+"bis": 400000
+},
+"lobbyausgaben": {
+"von": 60001,
+"bis": 70000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/67/50/709854/JA-AHK-Serbien-Gesamt-2024-kor.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006224/74165",
+"abgerufen": "2026-11-02",
+"stand": "2026-03-24",
+"etikett": "Eigenangabe",
+"version": 11
+}
+]
+}

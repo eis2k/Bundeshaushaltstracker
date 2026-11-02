@@ -1,0 +1,117 @@
+{
+"id": "aerodata",
+"name": "Aerodata AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Braunschweig",
+"website": "https://www.aerodata.de/de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006974",
+"eintrag_id": 81450,
+"version": 8,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006974/81450",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/b4/14/796316/Lobbyregister-Registereintraege-Detailansicht-R006974-2026-06-30_19-22-53.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 20001,
+"bis": 30000,
+"zweck": "Luftfahrtforschungsprogramm (\"Detektion und Ortung von GNSS Störern aus einem Luftfahrzeug\")",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 20001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Neset Tükenmez",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006974/81450",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Michael Bitzer",
+"funktion": "Vorstand, COO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006974/81450",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Patrick Weber",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006974/81450",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Jan Wielpütz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006974/81450",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 80001,
+"bis": 90000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/95/30/796311/2025-JA-Testat-31-12-2025-sig-Aerodata-AG.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006974/81450",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

@@ -1,0 +1,216 @@
+{
+"id": "bund-oekologische-lebensmittelwirtschaft",
+"name": "Bund Ökologische Lebensmittelwirtschaft e.V. (BÖLW)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.boelw.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001604",
+"eintrag_id": 85247,
+"version": 16,
+"stand": "2026-09-02",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001604/85247",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/3a/5e/837852/Lobbyregister-Registereintraege-Detailansicht-R001604-2026-09-02_17-28-37.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesanstalt für Landwirtschaft und Ernährung (BLE)",
+"epl": "10",
+"von": 1890001,
+"bis": 1900000,
+"zweck": "Humusaufbau in landwirtschaftlich genutzten Böden",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Naturschutz (BfN)",
+"epl": "16",
+"von": 30001,
+"bis": 40000,
+"zweck": "Umweltschutz und neue Gentechniken",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesanstalt für Landwirtschaft und Ernährung (BLE)",
+"epl": "10",
+"von": 130001,
+"bis": 140000,
+"zweck": "BioVerarbeitungStark, WSK",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesanstalt für Landwirtschaft und Ernährung (BLE)",
+"epl": "10",
+"von": 100001,
+"bis": 110000,
+"zweck": "OEKOGAIA Entwicklung eines Softwaretools zur Erhebung von Daten zu Pflanzengesunderhaltungsmaßnahmen im ökologischen Landbau für Benchmarkingzwecke",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 2150004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Peter Röhrig",
+"funktion": "geschäftsführender Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001604/85247",
+"stand": "2026-09-02"
+}
+},
+{
+"name": "Tina Andres",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001604/85247",
+"stand": "2026-09-02"
+}
+},
+{
+"name": "Matthias Sinn",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001604/85247",
+"stand": "2026-09-02"
+}
+},
+{
+"name": "Thomas Lang",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001604/85247",
+"stand": "2026-09-02"
+}
+},
+{
+"name": "Friedhelm von Mering",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001604/85247",
+"stand": "2026-09-02"
+}
+},
+{
+"name": "Tanja Barbian",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001604/85247",
+"stand": "2026-09-02"
+}
+},
+{
+"name": "Tamira Zöller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001604/85247",
+"stand": "2026-09-02"
+}
+},
+{
+"name": "Kevin Smith-Weißmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Referent",
+"stelle": "Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2026-06"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001604/85247",
+"stand": "2026-09-02"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Kevin Smith-Weißmann",
+"funktion_person": "Referent, Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH) oder dessen Geschäftsbereich, bis 2026-06",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Kevin Smith-Weißmann ist laut Lobbyregister Interessenvertretung bei Bund Ökologische Lebensmittelwirtschaft e.V. (BÖLW) und hatte zuvor eine öffentliche Funktion: Referent, Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH) oder dessen Geschäftsbereich, bis 2026-06. Bund Ökologische Lebensmittelwirtschaft e.V. (BÖLW) erhielt laut Lobbyregister Mittel von: Bundesanstalt für Landwirtschaft und Ernährung (BLE); Bundesamt für Naturschutz (BfN).",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesanstalt für Landwirtschaft und Ernährung (BLE)",
+"Bundesamt für Naturschutz (BfN)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001604/85247",
+"stand": "2026-09-02"
+}
+],
+"stand": "2026-09-02"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 630001,
+"bis": 640000
+},
+"lobbyausgaben": {
+"von": 60001,
+"bis": 70000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/3f/89/837851/Geschaeftsjahresbericht_BOeLW.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001604/85247",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-02",
+"etikett": "Eigenangabe",
+"version": 16
+}
+]
+}

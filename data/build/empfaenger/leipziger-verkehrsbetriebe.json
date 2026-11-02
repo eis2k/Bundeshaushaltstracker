@@ -1,0 +1,218 @@
+{
+"id": "leipziger-verkehrsbetriebe",
+"name": "Leipziger Verkehrsbetriebe (LVB) GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Leipzig",
+"website": "www.l.de/verkehrsbetriebe",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002239",
+"eintrag_id": 83699,
+"version": 12,
+"stand": "2026-07-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002239/83699",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/84/d4/819715/Lobbyregister-Registereintraege-Detailansicht-R002239-2026-07-24_13-56-09.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Digitales und Verkehr",
+"epl": "12",
+"von": 40001,
+"bis": 50000,
+"zweck": "Bereitstellung von Methoden, die eine wirksame und bedarfsgerechte Beschleunigung und Qualitätsverbesserung im ÖPNV ermöglichen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 320001,
+"bis": 330000,
+"zweck": "Das Innovationsprojekt ABSOLUT (Automatischer Busshuttle selbstorganisierend zwischen Leipzig und dem BMW-Terminal) schafft die Grundlagen für autonomes Fahren in Stadtrandgebieten.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Digitales und Verkehr",
+"epl": "12",
+"von": 50001,
+"bis": 60000,
+"zweck": "Einführung neuer Technologien und deren Integration in die bestehende Systemlandschaft.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Landesamt für Straßenbau und Verkehr",
+"epl": null,
+"von": 1700001,
+"bis": 1710000,
+"zweck": "Erneuerung Gleichstrom-Bahntrasse.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Landesamt für Straßenbau und Verkehr",
+"epl": null,
+"von": 11740001,
+"bis": 11750000,
+"zweck": "Erneuerung Gleisanlagen / Infrastruktur.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Digitales und Verkehr",
+"epl": "12",
+"von": 510001,
+"bis": 520000,
+"zweck": "Förderung von Projekten zur Entwicklung von Softwarelösungen für On-Demand-Verkehre sowie der Digitalisierung von Kundenbeziehungen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Landesamt für Straßenbau und Verkehr",
+"epl": null,
+"von": 2680001,
+"bis": 2690000,
+"zweck": "Modernisierung Gleichrichterunterwerke.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Landesamt für Straßenbau und Verkehr",
+"epl": null,
+"von": 400001,
+"bis": 410000,
+"zweck": "Neubau behindertengerechte Haltestelle.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 60001,
+"bis": 70000,
+"zweck": "Umrüstung von Außenbeleuchtung auf LED-Technik.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Digitales und Verkehr",
+"epl": "12",
+"von": 5760001,
+"bis": 5770000,
+"zweck": "Verbundprojekt zur Stärkung der Pendlermobilität in der Region, welches Angebotserweiterungen sowie digitale Produkte beinhaltet.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Digitales und Verkehr",
+"epl": "12",
+"von": 70001,
+"bis": 80000,
+"zweck": "Förderung innovativer ÖPNV-Projekte, welche CO2-Emissionen im Verkehrsbereich durch ein attraktives Angebot nachhaltig reduzieren.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Digitales und Verkehr",
+"epl": "12",
+"von": 280001,
+"bis": 290000,
+"zweck": "Förderung von EU-grenzübergreifenden Maßnahmen der Zusammenarbeit wie beispielsweise Infrastrukturvorhaben.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 23610012,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ulf Middelberg",
+"funktion": "Sprecher der Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002239/83699",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Katrin Lukas",
+"funktion": "Geschäftsführerin Personal, Recht und Fahrservice (Arbeitsdirektorin)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002239/83699",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Toralf Müller",
+"funktion": "Geschäftsführer Technik und Betrieb",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002239/83699",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Annette Körner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002239/83699",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Mario Nowack",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002239/83699",
+"stand": "2026-07-24"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 40001,
+"bis": 50000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/57/78/819714/Leipziger-Verkehrsbetriebe-Jahresabschluss-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002239/83699",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-24",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

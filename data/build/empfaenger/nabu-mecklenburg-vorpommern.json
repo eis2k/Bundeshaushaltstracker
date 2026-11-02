@@ -1,0 +1,130 @@
+{
+"id": "nabu-mecklenburg-vorpommern",
+"name": "NABU Mecklenburg-Vorpommern ",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Schwerin",
+"website": "www.NABU-MV.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004819",
+"eintrag_id": 79609,
+"version": 6,
+"stand": "2026-06-18",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004819/79609",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c9/63/763311/Lobbyregister-Registereintraege-Detailansicht-R004819-2026-06-18_11-18-58.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BfN",
+"epl": "16",
+"von": 440001,
+"bis": 450000,
+"zweck": "Förderungen für Projekte",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 440001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Stefan Schwill",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004819/79609",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Felix Krause",
+"funktion": "stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004819/79609",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Ait Stapelfeld",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004819/79609",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Rica Münchberger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004819/79609",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Anja Reuhl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004819/79609",
+"stand": "2026-06-18"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 30001,
+"bis": 40000
+},
+"mitgliedsbeitraege": {
+"von": 150001,
+"bis": 160000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/36/a4/763310/Kassenbericht_2025-unterschrieben.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004819/79609",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-18",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

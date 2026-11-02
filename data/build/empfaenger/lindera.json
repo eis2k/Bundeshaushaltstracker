@@ -1,0 +1,96 @@
+{
+"id": "lindera",
+"name": "LINDERA",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "www.lindera.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007077",
+"eintrag_id": 61222,
+"version": 2,
+"stand": "2025-07-04",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007077/61222",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/6b/d8/577306/Lobbyregister-Registereintraege-Detailansicht-R007077-2025-07-04_10-33-13.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 30001,
+"bis": 40000,
+"zweck": "Forschungsprogramm zu Interaktiven Technologien für Gesundheit und Lebensqualität: „Miteinander durch Innovation\" des Bundesministeriums für Bildung und Forschung (BMBF) Verbundprojekt: KIP-SDM",
+"geschaeftsjahr": "2023"
+}
+],
+"lobby_untergrenze_bund": 30001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Diana Heinrichs",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007077/61222",
+"stand": "2025-07-04"
+}
+},
+{
+"name": "Menia Ettrich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007077/61222",
+"stand": "2025-07-04"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2023",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/4b/dc/577304/Jahresabschluss_JA-Bericht_2022.pdf",
+"geschaeftsjahr": "2022",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007077/61222",
+"abgerufen": "2026-11-02",
+"stand": "2025-07-04",
+"etikett": "Eigenangabe",
+"version": 2
+}
+]
+}

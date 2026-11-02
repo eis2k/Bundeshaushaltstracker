@@ -1,0 +1,106 @@
+{
+"id": "holz-von-hier-gemeinnuetzige",
+"name": "Holz von Hier gemeinnützige GmbH",
+"art": "verein_stiftung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Creußen",
+"website": "www.holz-von-hier.eu",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005866",
+"eintrag_id": 81867,
+"version": 6,
+"stand": "2026-07-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005866/81867",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/9d/9b/799452/Lobbyregister-Registereintraege-Detailansicht-R005866-2026-07-01_12-54-19.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesumweltministerium",
+"epl": null,
+"von": 50001,
+"bis": 60000,
+"zweck": "Fördermittel für ein Klimaschutzprojekt",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 50001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Gabriele Bruckner",
+"funktion": "CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005866/81867",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Philipp Strohmeier",
+"funktion": "CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005866/81867",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Strohmeier  Philipp",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005866/81867",
+"stand": "2026-07-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/7a/9b/799451/909648-Jahresabschluss-2024-FINAL.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005866/81867",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-01",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

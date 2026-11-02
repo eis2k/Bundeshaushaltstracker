@@ -1,0 +1,211 @@
+{
+"id": "verband-der-landwirtschaftskammern",
+"name": "Verband der Landwirtschaftskammern (VLK)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "http://www.landwirtschaftskammern.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000166",
+"eintrag_id": 84907,
+"version": 32,
+"stand": "2026-08-20",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000166/84907",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/4f/7d/833005/Lobbyregister-Registereintraege-Detailansicht-R000166-2026-08-20_08-31-19.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Ernährung und Landwirtschaft",
+"epl": "10",
+"von": 110001,
+"bis": 120000,
+"zweck": "Förderung aus Bundesmitteln (Bundesprogramm Nutztierhaltung) für die Koordination im Verbund-Projekt \"Netzwerk Fokus Tierwohl\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Landwirtschaftliche Rentenbank",
+"epl": null,
+"von": 70001,
+"bis": 80000,
+"zweck": "Institutionelle Förderung aus dem Förderungsfonds",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Landwirtschaftliche Rentenbank",
+"epl": null,
+"von": 140001,
+"bis": 150000,
+"zweck": "Projektförderung aus dem Förderungsfonds",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 320003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Gerhard Schwetje",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000166/84907",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Ute Volquardsen",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000166/84907",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Oliver Beitzel",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000166/84907",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Beate Bajorat",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000166/84907",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Raimar Assmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000166/84907",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Andreas Lege",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000166/84907",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Katja Brase",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000166/84907",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Karin Ellermann-Kügler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000166/84907",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Karl-Hermann Grünewald",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000166/84907",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Viktoria Graskemper",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000166/84907",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Andrea Winterberg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000166/84907",
+"stand": "2026-08-20"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 560001,
+"bis": 570000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/18/87/833002/HHR-2025_FINAL_.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000166/84907",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-20",
+"etikett": "Eigenangabe",
+"version": 32
+}
+]
+}

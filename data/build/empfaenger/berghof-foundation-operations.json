@@ -1,0 +1,139 @@
+{
+"id": "berghof-foundation-operations",
+"name": "Berghof Foundation Operations gGmbH",
+"art": "verein_stiftung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "https://berghof-foundation.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004780",
+"eintrag_id": 84134,
+"version": 12,
+"stand": "2026-08-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004780/84134",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ba/f0/824878/Lobbyregister-Registereintraege-Detailansicht-R004780-2026-08-03_13-05-38.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 4800001,
+"bis": 4810000,
+"zweck": "Zuwendungen des AA für Projekte",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung (BMBF)",
+"epl": "30",
+"von": 120001,
+"bis": 130000,
+"zweck": "Zuwendungen des BMBF für Projekte",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+"epl": "23",
+"von": 110001,
+"bis": 120000,
+"zweck": "Zuwendungen des BMZ für Projekte",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Gesellschaft für Internationale Zusammenarbeit GmbH (GIZ)",
+"epl": "23",
+"von": 2340001,
+"bis": 2350000,
+"zweck": "Zuwendungen der GIZ für Projekte",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Ministerium für Kultus, Jugend und Sport Baden-Württemberg und die Landeszentrale für politische Bildung Baden-Württemberg (KuMi BaWü)",
+"epl": null,
+"von": 140001,
+"bis": 150000,
+"zweck": "Zuwendungen des KuMi BaWü für Projekte",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 7510005,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Chris Coulter",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004780/84134",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Gustavo Arnaudo",
+"funktion": "Head of Finance (Prokurist)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004780/84134",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Chris Coulter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004780/84134",
+"stand": "2026-08-03"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/8d/a8/824877/ETL_Testat-JAP-2025-BFO.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004780/84134",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-03",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

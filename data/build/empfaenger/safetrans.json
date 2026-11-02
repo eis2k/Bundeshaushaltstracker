@@ -1,0 +1,148 @@
+{
+"id": "safetrans",
+"name": "SafeTRANS e.V,",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Oldenburg",
+"website": "safetrans-de.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003960",
+"eintrag_id": 77988,
+"version": 11,
+"stand": "2026-06-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003960/77988",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/99/49/747798/Lobbyregister-Registereintraege-Detailansicht-R003960-2026-06-03_13-19-10.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "DLR Projektträger des BMBF",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "Projekt AutoDevSafeOps Förderkennzeichen 01I522087N",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "VDI/VDE Innovation + Technik GmbH",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Projekt ARCHIMEDES - Anteil Bund Förderkennzeichen 16MEE0325",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 30002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jürgen Niehaus",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003960/77988",
+"stand": "2026-06-03"
+}
+},
+{
+"name": "Karsten Lemmer",
+"funktion": "Vertreter des DLR eV. als 2. stellvertr. Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003960/77988",
+"stand": "2026-06-03"
+}
+},
+{
+"name": "Peter Liggesmeyer",
+"funktion": "Vertreter des Fraunhofer Verbund IuK als Mitglied im Steering Board",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003960/77988",
+"stand": "2026-06-03"
+}
+},
+{
+"name": "Philipp Slusallek",
+"funktion": "Vertreter des DFKI als Mitglied im Steering Board",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003960/77988",
+"stand": "2026-06-03"
+}
+},
+{
+"name": "Martin Georg Fränzle",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003960/77988",
+"stand": "2026-06-03"
+}
+},
+{
+"name": "Cornel Klaus Klein",
+"funktion": "Vertreter der Siemens AG als 1. stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003960/77988",
+"stand": "2026-06-03"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 70001,
+"bis": 80000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/3b/93/747797/15656-SafeTRANS-e-V-JA-2024-Original.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003960/77988",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-03",
+"etikett": "Eigenangabe",
+"version": 11
+}
+]
+}

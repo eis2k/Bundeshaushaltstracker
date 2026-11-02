@@ -1,0 +1,107 @@
+{
+"id": "verband-kath-tageseinrichtungen-fuer-kinder-bundesverband",
+"name": "Verband Kath. Tageseinrichtungen für Kinder (KTK) - Bundesverband e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Freiburg",
+"website": "www.ktk-bundesverband.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005520",
+"eintrag_id": 85006,
+"version": 10,
+"stand": "2026-08-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005520/85006",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/6d/74/834377/Lobbyregister-Registereintraege-Detailansicht-R005520-2026-08-24_15-36-30.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMFSFJ - Bundesministerium für Familie, Senioren, Frauen und Jugend über BVA",
+"epl": "17",
+"von": 70001,
+"bis": 80000,
+"zweck": "Bundeszuschuss für Projekt \"KJP-Kinder und Jugendplan des Bundes\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 70001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Mirja Wolfs",
+"funktion": "Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005520/85006",
+"stand": "2026-08-24"
+}
+},
+{
+"name": "Peter Göb",
+"funktion": "2. Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005520/85006",
+"stand": "2026-08-24"
+}
+},
+{
+"name": "Christoph Wichmann",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005520/85006",
+"stand": "2026-08-24"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1050001,
+"bis": 1060000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/18/96/834374/Verband-Katholischer-Tageseinrichtungen-fuer-Kinder-KTK-Bundesverband-e-V-Freiburg_JA-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005520/85006",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-24",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

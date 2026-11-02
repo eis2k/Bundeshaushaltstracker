@@ -1,0 +1,86 @@
+{
+"id": "bug-buero-zur-umsetzung-von-gleichbehandlung",
+"name": "BUG - Büro zur Umsetzung von Gleichbehandlung",
+"art": "unternehmen",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://www.bug-ev.org/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006872",
+"eintrag_id": 43518,
+"version": 2,
+"stand": "2025-12-15",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006872/43518",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/b9/b4/657508/Lobbyregister-Registereintraege-Detailansicht-R006872-2025-12-15_16-09-39.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Life e.V.",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Projektpartnerschaft und Übernahme von Projektmaßnahmen",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 10001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Vera Egenberger",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006872/43518",
+"stand": "2025-12-15"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Sonstiges",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/a0/ac/657507/Finanzbericht-2024.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006872/43518",
+"abgerufen": "2026-11-02",
+"stand": "2025-12-15",
+"etikett": "Eigenangabe",
+"version": 2
+}
+]
+}

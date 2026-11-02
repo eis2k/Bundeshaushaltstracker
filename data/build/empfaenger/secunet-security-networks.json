@@ -1,0 +1,169 @@
+{
+"id": "secunet-security-networks",
+"name": "secunet Security Networks AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Essen",
+"website": "www.secunet.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001612",
+"eintrag_id": 86890,
+"version": 12,
+"stand": "2026-10-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001612/86890",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f3/c7/854686/Lobbyregister-Registereintraege-Detailansicht-R001612-2026-10-01_12-35-40.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 1910001,
+"bis": 1920000,
+"zweck": "secunet edge cloud „SEC“ Im Rahmen des Projekts IPCEI-CIS secunet edge Cloud werden hochintegrierte Edge-Cloud-Module entwickelt, die sich automatisch miteinander vernetzen und ein Höchstmaß an Sicherheit bieten. Diese Nodes können zu großen Computernetzwerken verbunden werden. https://www.secunet.com/forschung-entwicklung/ipcei-cis-secunet-edge-cloud",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Sicherheit in der Informationstechnik",
+"epl": "06",
+"von": 90001,
+"bis": 100000,
+"zweck": "6G-ReS: Sichere und resiliente 5G/6G-Systeme Das Projekt zielt auf die Entwicklung und Erprobung resilienter 5G/6G-Systeme ab, die auf den bestehenden 3GPP-Standards und O-RAN-Spezifikationen aufbauen. Ein Kernaspekt ist die Integration einer vertrauenswürdigen Virtualisierungsumgebung in die Gesamtsicherheitsarchitektur. https://www.secunet.com/forschung-entwicklung/6g-res",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 110001,
+"bis": 120000,
+"zweck": "6G-CampuSens Ziel des Projekts „6G Technologien für sichere Campusnetze mit integriertem Sensing (6G-CampuSens)“ ist es, 6G-Technologie für den Einsatz in Campusnetzen zu erforschen, zu entwerfen und zu erproben. Im Fokus stehen dabei Technologien, die zukünftig eine Integration von Sensorik und Kommunikation in Campusnetzen ermöglichen. https://www.secunet.com/forschung-entwicklung/6g-campusens",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesagentur für Sprunginnovationen",
+"epl": null,
+"von": 700001,
+"bis": 710000,
+"zweck": "Development of a solution to detect deepfake images Robust detection of deepfakes with multi-detectors. https://www.sprind.org/taten/challenges/funke-deepfake",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 70001,
+"bis": 80000,
+"zweck": "Semeco Q1: Sichere und Vertrauenswürdige Systemarchitektur Secure Medical Microsystems and Communications (SEMECO) hat das übergeordnete Ziel, die Hürden für die Nutzung der aktuellen und revolutionären Möglichkeiten der Halbleitertechnologie und Mikrosystemtechnik in der Medizin deutlich zu verringern. Dazu schafft SEMECO ein akademisch-industrielles Ökosystem, das die Disziplinen Mikroelektronik, Kommunikationstechnologie, sichere Laufzeitumgebungen, Regulatorik-Ontologien und KI-getriebene Wissenssysteme interdisziplinär verbindet. Der Fokus liegt auf klaren und fortschrittlichen klinischen Anwendungsszenarien. SEMECO strebt eine umfassende Transformation der Medizintechnikindustrie an, um die wirtschaftlich sinnvolle Entwicklung spezialisierter medizinischer Mikrosysteme in größerem Umfang zu ermöglichen. https://www.secunet.com/forschung-entwicklung/semeco",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 120001,
+"bis": 130000,
+"zweck": "Semeco Q2: KI-assistierte Regulatorik für Medizin und Cybersecurity Siehe Semeco Q1.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 3000006,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Marc-Julian Siewert",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001612/86890",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Torsten Henn",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001612/86890",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Kai Martius",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001612/86890",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Christine Skropke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001612/86890",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Daniel Müller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001612/86890",
+"stand": "2026-10-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 150001,
+"bis": 160000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/17/c9/854685/Geschaeftsbericht_2025_d.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001612/86890",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-01",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

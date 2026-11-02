@@ -1,0 +1,150 @@
+{
+"id": "bas-bundesarbeitsgemeinschaft-seniorenbueros",
+"name": "BaS - Bundesarbeitsgemeinschaft Seniorenbüros e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bonn",
+"website": "www.seniorenbueros.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000758",
+"eintrag_id": 84333,
+"version": 12,
+"stand": "2026-08-06",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000758/84333",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/69/91/827129/Lobbyregister-Registereintraege-Detailansicht-R000758-2026-08-06_10-09-06.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend (BMFSFJ)",
+"epl": "17",
+"von": 230001,
+"bis": 240000,
+"zweck": "Projektförderung \"Chancenpatenschaften\" im Rahmen des Bundesprogramms \"Menschen stärken Menschen\" Projektförderung 29. BaS-Fachtagung 2025",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 230001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Franz-Ludwig Blömker",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000758/84333",
+"stand": "2026-08-06"
+}
+},
+{
+"name": "Sabine Hantzko",
+"funktion": "stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000758/84333",
+"stand": "2026-08-06"
+}
+},
+{
+"name": "Jens Bechtloff",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000758/84333",
+"stand": "2026-08-06"
+}
+},
+{
+"name": "Agnes Boeßner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000758/84333",
+"stand": "2026-08-06"
+}
+},
+{
+"name": "Caroline Kuhl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000758/84333",
+"stand": "2026-08-06"
+}
+},
+{
+"name": "Annette Scholl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000758/84333",
+"stand": "2026-08-06"
+}
+},
+{
+"name": "Ann-Kristin Hotsch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000758/84333",
+"stand": "2026-08-06"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 30001,
+"bis": 40000
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/64/3f/827128/Haushaltsplan-2025-Jahresabschluss_311225.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000758/84333",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-06",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

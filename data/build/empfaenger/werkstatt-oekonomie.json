@@ -1,0 +1,142 @@
+{
+"id": "werkstatt-oekonomie",
+"name": "Werkstatt Ökonomie",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Heidelberg",
+"website": "https://www.woek.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000104",
+"eintrag_id": 87019,
+"version": 7,
+"stand": "2026-10-05",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000104/87019",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/7e/98/856844/Lobbyregister-Registereintraege-Detailansicht-R000104-2026-10-05_13-51-18.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Engagement Global",
+"epl": "23",
+"von": 70001,
+"bis": 80000,
+"zweck": "Promotor:innen-Programm (Bundesanteil) (über DEAB) Gemeinden auf dem Weg zur Transformation (FEB)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 70001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Simone Knapp",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000104/87019",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Barbara Riek",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000104/87019",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Lothar Elsner",
+"funktion": "Vorsitzender des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000104/87019",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Maximilian Heßlein",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000104/87019",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Boniface Mabanza Bambu",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000104/87019",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Felix Roll",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000104/87019",
+"stand": "2026-10-05"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 260001,
+"bis": 270000
+},
+"mitgliedsbeitraege": {
+"von": 20001,
+"bis": 30000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/f0/86/856843/Jahresabrechnung-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000104/87019",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-05",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

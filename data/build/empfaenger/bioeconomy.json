@@ -1,0 +1,174 @@
+{
+"id": "bioeconomy",
+"name": "BioEconomy e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Leuna",
+"website": "https://www.bioeconomy.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007182",
+"eintrag_id": 82200,
+"version": 4,
+"stand": "2026-07-07",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007182/82200",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/51/cb/807547/Lobbyregister-Registereintraege-Detailansicht-R007182-2026-07-07_12-41-17.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 130001,
+"bis": 140000,
+"zweck": "Fördermittel gemäß der \"Förderrichtlinie zur Stärkung der Transformationsdynamik und Aufbruch in den Revieren und an den Kohlekraftwerkstandorten (STARK)\" zur Finanzierung des Projektes \"House of Transfer\": Wissenstransfer für technologieorientierten Strukturwandel in Mitteldeutschland.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 130001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Joachim Schulze",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007182/82200",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Gerd Unkelbach",
+"funktion": "Stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007182/82200",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Arvid Friebe",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007182/82200",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Michael Duetsch",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007182/82200",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Christof Günther",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007182/82200",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Michael Nelles",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007182/82200",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Markus Pietzsch",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007182/82200",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Annemarie Reiche",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007182/82200",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Christian Schmelzer",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007182/82200",
+"stand": "2026-07-07"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 90001,
+"bis": 100000
+},
+"lobbyausgaben": {
+"von": 190001,
+"bis": 200000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/9a/5c/807546/2025-08-19_ETL_BEV_Bilanzbericht_2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007182/82200",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-07",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

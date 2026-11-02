@@ -1,0 +1,127 @@
+{
+"id": "dachverband-lesben-und-alter",
+"name": "Dachverband Lesben und Alter e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.lesbenundalter.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002515",
+"eintrag_id": 81540,
+"version": 10,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002515/81540",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/bc/92/795441/Lobbyregister-Registereintraege-Detailansicht-R002515-2026-06-30_17-51-07.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung,Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 190001,
+"bis": 200000,
+"zweck": "Förderung des Projekts „Netzwerke und Sichtbarkeit älterer Lesben stärken, Teilhabe ermöglichen und Nachteile ausgleichen“",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung,Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 140001,
+"bis": 150000,
+"zweck": "Innovationsprojekt: Intersektionale Solidarität - Strategien und Maßnahmen für einen konstruktiven Umgang mit Viefalt und Differenz in der LSBTIQ*-Community",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 330002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Reingard Wagner",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002515/81540",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Hilke Bleeken",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002515/81540",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Ulrike Rolf",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002515/81540",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Sabine Arnolds",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002515/81540",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/3f/ef/795434/Geschaefts-Taetigkeitsbericht2024_geschwaerzt.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002515/81540",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

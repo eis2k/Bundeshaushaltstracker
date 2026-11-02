@@ -1,0 +1,149 @@
+{
+"id": "fehs-institut-fuer-baustoff-forschung",
+"name": "FEhS-Institut für Baustoff-Forschung e.V.",
+"art": "forschung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Duisburg",
+"website": "www.fehs.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001499",
+"eintrag_id": 83611,
+"version": 5,
+"stand": "2026-07-23",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001499/83611",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f4/7d/818745/Lobbyregister-Registereintraege-Detailansicht-R001499-2026-07-23_12-28-20.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundeswirtschaftsministerium",
+"epl": null,
+"von": 1070001,
+"bis": 1080000,
+"zweck": "Forschungsförderung für Projekte der Programme der industriellen Gemeinschaftsforschung, ZIM und INNOKOM des BMWE",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesforschungsministerium",
+"epl": null,
+"von": 70001,
+"bis": 80000,
+"zweck": "Forschungsförderung für Programme des Bundesforschungsministeriums",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1140002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Thomas Reiche",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001499/83611",
+"stand": "2026-07-23"
+}
+},
+{
+"name": "Hubert Helge Mees",
+"funktion": "Vorsitzender des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001499/83611",
+"stand": "2026-07-23"
+}
+},
+{
+"name": "Marc-Oliver Arnold",
+"funktion": "stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001499/83611",
+"stand": "2026-07-23"
+}
+},
+{
+"name": "Robert Liebisch",
+"funktion": "stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001499/83611",
+"stand": "2026-07-23"
+}
+},
+{
+"name": "Anna Sokol",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001499/83611",
+"stand": "2026-07-23"
+}
+},
+{
+"name": "Thomas Merkel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001499/83611",
+"stand": "2026-07-23"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 2090001,
+"bis": 2100000
+},
+"lobbyausgaben": {
+"von": 140001,
+"bis": 150000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/0a/26/818744/Zusammenfassung-GuV-FEHS-Institut-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001499/83611",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-23",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

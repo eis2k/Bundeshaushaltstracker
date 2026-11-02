@@ -1,0 +1,156 @@
+{
+"id": "deutsche-aircraft-group",
+"name": "Deutsche Aircraft Group GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Wessling",
+"website": "https://www.deutscheaircraft.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007546",
+"eintrag_id": 85661,
+"version": 8,
+"stand": "2026-09-09",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007546/85661",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/74/67/840085/Lobbyregister-Registereintraege-Detailansicht-R007546-2026-09-09_13-51-48.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 1860001,
+"bis": 1870000,
+"zweck": "Förderung Luft- und Raumfahrtforschung (LuFo)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Kreditanstalt für Wiederaufbau",
+"epl": null,
+"von": 18190001,
+"bis": 18200000,
+"zweck": "Das Programm zur Flugzeugentwicklung der D328eco™ wird von der Bundesrepublik Deutschland derzeit mittels eines Darlehens der Kreditanstalt für Wiederaufbau (KfW) unterstützt.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsches Zentrum für Luft- und Raumfahrt e.V. - Raumfahrtmanagement des DLR, im Auftrag vom Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "UpLift: Eine Forschungslandschaft zur beschleunigten Technologieentwicklung und Enabler für das klimaneutrale Fliegen. https://www.uplift-h2-aviation.de/",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 20060003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Nico Neumann",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007546/85661",
+"stand": "2026-09-09"
+}
+},
+{
+"name": "Markus Hahner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007546/85661",
+"stand": "2026-09-09"
+}
+},
+{
+"name": "Heuer Nils",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007546/85661",
+"stand": "2026-09-09"
+}
+},
+{
+"name": "Hendrik Brand",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007546/85661",
+"stand": "2026-09-09"
+}
+},
+{
+"name": "Sebastian Böhnl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007546/85661",
+"stand": "2026-09-09"
+}
+},
+{
+"name": "Wolfgang Kuhl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007546/85661",
+"stand": "2026-09-09"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 50001,
+"bis": 60000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e3/37/840084/2025_DAG_Jahresabschluss_signed.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007546/85661",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-09",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

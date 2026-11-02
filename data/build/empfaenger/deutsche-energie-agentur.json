@@ -1,0 +1,625 @@
+{
+"id": "deutsche-energie-agentur",
+"name": "Deutsche Energie-Agentur GmbH (dena)",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "www.dena.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003336",
+"eintrag_id": 86339,
+"version": 46,
+"stand": "2026-10-14",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/16/a0/861303/Lobbyregister-Registereintraege-Detailansicht-R003336-2026-10-14_16-02-30.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 1210001,
+"bis": 1220000,
+"zweck": "dena-Energiewende-Kongress & Wettbewerb Energy Efficiency Award: Im Rahmen des von der dena organisierten Energiewende-Kongresses wurden die aktuellen politischen Strategien, innovative Konzepte und wichtige Perspektiven von mehr als 1.200 Teilnehmenden diskutiert. Der Kongress ist als Ausgangspunkt für neue Impulse in der Energiewende etabliert und an die Entscheidungsträgerinnen und Entscheidungsträger sowie Expertinnen und Experten des Energiesektors aus Politik, Industrie, Wirtschaft, Wissenschaft und Forschung, Verbände, NGOs, Medien und Fachwelt adressiert. Der internationale Energieeffizienz-Wettbewerb als Teil des Gesamtprojekts der dena zeichnet private und öffentliche Unternehmen aus, die durch innovative Ansätze ihre Energieeffizienz deutlich steigern.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1210001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Corinna Enders",
+"funktion": "Vorsitzende der Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Kristina Haverkamp",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Christian Stolte",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Thomas Bründlinger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Sonja Leidner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Nicole Pillen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "René Böhm",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Tibor Fischer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Dietmar Gründig",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Philipp Richard",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Hanne May",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Friederike Louise Altgelt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Toni Reinholz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Rita Ehrig",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Robert Stüwe",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Susanne Schmelcher",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Andreas Koch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Marc Czernie",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Maximilian Hierhammer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Beatrice Kuhn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Johanna Meier",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Benedikt Pulvermüller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Eva Schmid",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Katharina Umpfenbach",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Anna Wasielewski",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Robert Westermann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Kim Malin Lakeit",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Nikias Wagner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Oliver Powalla",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Nora Kögel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Pascal Hader-Weinmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Anja Möbus",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Berdice Boudiaf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Nicolas Eschenbruch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Anja Möbus",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Anja Möbus ist laut Lobbyregister Interessenvertretung bei Deutsche Energie-Agentur GmbH (dena) und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03. Deutsche Energie-Agentur GmbH (dena) erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Energie (BMWE).",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Wirtschaft und Energie (BMWE)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14"
+}
+],
+"stand": "2026-10-14"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Michael Kellner",
+"funktion_person": "MdB, Bündnis 90 Die Grünen",
+"funktion_beim_empfaenger": "Mitglied des Beirates für marktoffensive erneuerbare Energien, ehrenamtlich (ab 25.11.2025)",
+"kategorie": "Funktionen in Unternehmen",
+"abgleich": "exakt",
+"satz": "Michael Kellner (MdB, Bündnis 90 Die Grünen) ist laut bundestag.de Mitglied des Beirates für marktoffensive erneuerbare Energien, ehrenamtlich (ab 25.11.2025) bei Deutsche Energie-Agentur GmbH (dena). Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Wirtschaft und Energie; Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit. Deutsche Energie-Agentur GmbH (dena) erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Energie (BMWE).",
+"ausschuesse": [
+"Ausschuss für Wirtschaft und Energie",
+"Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit"
+],
+"geld_aus": [
+"Bundesministerium für Wirtschaft und Energie (BMWE)"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/K/kellner_michael-1045350",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Helmut Kleebank",
+"funktion_person": "MdB, SPD",
+"funktion_beim_empfaenger": "Mitglied des Beirates für Marktoffensive Erneuerbare Energien (ab 22.08.2025)",
+"kategorie": "Funktionen in Unternehmen",
+"abgleich": "exakt",
+"satz": "Helmut Kleebank (MdB, SPD) ist laut bundestag.de Mitglied des Beirates für Marktoffensive Erneuerbare Energien (ab 22.08.2025) bei Deutsche Energie-Agentur GmbH (dena). Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit; Ausschuss für Wirtschaft und Energie; Schriftführer/in; Parlamentarischer Beirat für nachhaltige Entwicklung und Zukunftsfragen. Deutsche Energie-Agentur GmbH (dena) erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Energie (BMWE).",
+"ausschuesse": [
+"Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+"Ausschuss für Wirtschaft und Energie",
+"Schriftführer/in",
+"Parlamentarischer Beirat für nachhaltige Entwicklung und Zukunftsfragen"
+],
+"geld_aus": [
+"Bundesministerium für Wirtschaft und Energie (BMWE)"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/K/kleebank_helmut-1045402",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Claudia Müller",
+"funktion_person": "MdB, Bündnis 90 Die Grünen",
+"funktion_beim_empfaenger": "Mitglied des Aufsichtsrates, ehrenamtlich (bis 31.08.2025)",
+"kategorie": "Funktionen in Unternehmen",
+"abgleich": "exakt",
+"satz": "Claudia Müller (MdB, Bündnis 90 Die Grünen) ist laut bundestag.de Mitglied des Aufsichtsrates, ehrenamtlich (bis 31.08.2025) bei Deutsche Energie-Agentur GmbH (dena). Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung; Haushaltsausschuss; Verkehrsausschuss. Deutsche Energie-Agentur GmbH (dena) erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Energie (BMWE).",
+"ausschuesse": [
+"Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung",
+"Haushaltsausschuss",
+"Verkehrsausschuss"
+],
+"geld_aus": [
+"Bundesministerium für Wirtschaft und Energie (BMWE)"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/M/mueller_claudia-1046228",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Stefan Rouenhoff",
+"funktion_person": "MdB, CDU/CSU",
+"funktion_beim_empfaenger": "Vorsitzender des Aufsichtsrates (ab 22.09.2025)",
+"kategorie": "Funktionen in Unternehmen",
+"abgleich": "exakt",
+"satz": "Stefan Rouenhoff (MdB, CDU/CSU) ist laut bundestag.de Vorsitzender des Aufsichtsrates (ab 22.09.2025) bei Deutsche Energie-Agentur GmbH (dena). Deutsche Energie-Agentur GmbH (dena) erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Energie (BMWE).",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Wirtschaft und Energie (BMWE)"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/R/rouenhoff_stefan-1046876",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Thomas Bareiß",
+"funktion_person": "MdB, CDU/CSU",
+"funktion_beim_empfaenger": "Mitglied des Beirates der Plattform Nachhaltiger Schwerlastverkehr, ehrenamtlich",
+"kategorie": "Funktionen in Unternehmen",
+"abgleich": "exakt",
+"satz": "Thomas Bareiß (MdB, CDU/CSU) ist laut bundestag.de Mitglied des Beirates der Plattform Nachhaltiger Schwerlastverkehr, ehrenamtlich bei Deutsche Energie-Agentur GmbH (dena). Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Wirtschaft und Energie. Deutsche Energie-Agentur GmbH (dena) erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Energie (BMWE).",
+"ausschuesse": [
+"Ausschuss für Wirtschaft und Energie"
+],
+"geld_aus": [
+"Bundesministerium für Wirtschaft und Energie (BMWE)"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/B/bareiss_thomas-1048368",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 260001,
+"bis": 270000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/53/21/861292/dena_Jahresabschluss_2024-komprimiert.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-14",
+"etikett": "Eigenangabe",
+"version": 46
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/K/kellner_michael-1045350",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/K/kleebank_helmut-1045402",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/M/mueller_claudia-1046228",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/R/rouenhoff_stefan-1046876",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/B/bareiss_thomas-1048368",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

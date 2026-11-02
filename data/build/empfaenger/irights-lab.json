@@ -1,0 +1,101 @@
+{
+"id": "irights-lab",
+"name": "iRights.Lab GmbH",
+"art": "forschung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "www.irights-lab.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003972",
+"eintrag_id": 54184,
+"version": 7,
+"stand": "2026-08-19",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003972/54184",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/4d/82/832775/Lobbyregister-Registereintraege-Detailansicht-R003972-2026-08-19_15-48-08.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 540001,
+"bis": 550000,
+"zweck": "Fördermittel des Bundesministeriums für Bildung und Forschung für das Projekt „Generative KI - Innovation und Recht in Arbeitsprozessen“ mit dem Ziel, den vorhandenen Rechtsrahmen beim Einsatz generativer KI in ausgewählten Arbeitsprozessen zu erforschen und Regulierungslücken sowie Innovationspotentiale zu ermitteln.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Digitales und Verkehr",
+"epl": "12",
+"von": 150001,
+"bis": 160000,
+"zweck": "Fördermittel des Bundesministeriums für Digitales und Verkehr für das Projekt „Digitale Zwillinge für Infrastruktur, Bau, Wohnen - von Theorie und Konzeption in die Praxis“ mit dem Ziel wichtige Grundlagen für die Anwendung des Konzepts Digitaler Zwillinge zu schaffen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Stiftung Erinnerung, Verantwortung und Zukunft",
+"epl": null,
+"von": 40001,
+"bis": 50000,
+"zweck": "Fördermittel der Stiftung Erinnerung, Verantwortung und Zukunft für des Ausbau und die Verstätigung des Projekts \"Next Stage DCM - Digital Collective Memory: internationales Social Network / International Community für die digitale Erinnerungskultur\".",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 730003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Philipp Otto",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003972/54184",
+"stand": "2026-08-19"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 30001,
+"bis": 40000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ed/d3/832774/Jahresabschluss-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003972/54184",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-19",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

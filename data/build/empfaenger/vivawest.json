@@ -1,0 +1,115 @@
+{
+"id": "vivawest",
+"name": "Vivawest GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Gelsenkirchen",
+"website": "www.vivawest.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002862",
+"eintrag_id": 83369,
+"version": 9,
+"stand": "2026-07-20",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002862/83369",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f2/ba/816183/Lobbyregister-Registereintraege-Detailansicht-R002862-2026-07-20_11-51-12.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "KfW (Kreditanstalt für Wiederaufbau)",
+"epl": "09",
+"von": 53100001,
+"bis": 53110000,
+"zweck": "Fördermittel im Rahmen von Neubau- und/oder Modernisierungsmaßnahmen, Darlehensverrechnung (Tilgungszuschüsse)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BAFA (Bundesamt für Wirtschaft- und Ausfuhrkontrolle)",
+"epl": "09",
+"von": 2230001,
+"bis": 2240000,
+"zweck": "Fördermittel im Rahmen von Modernisierungsmaßnahmen wie z.B. Heizungsoptimierung, Fensteraustausch, Gebäudemanagement und Energieträgerwechsel",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 55330002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Sandra Wehrmann",
+"funktion": "Geschäftsführerin (Vorsitzende)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002862/83369",
+"stand": "2026-07-20"
+}
+},
+{
+"name": "Haluk Serhat",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002862/83369",
+"stand": "2026-07-20"
+}
+},
+{
+"name": "Karin Erhard",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002862/83369",
+"stand": "2026-07-20"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/91/94/816182/23188_Finanzbericht_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002862/83369",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-20",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

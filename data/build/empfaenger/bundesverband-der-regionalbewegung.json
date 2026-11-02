@@ -1,0 +1,135 @@
+{
+"id": "bundesverband-der-regionalbewegung",
+"name": "Bundesverband der Regionalbewegung e.V. ",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Feuchtwangen",
+"website": "www.regionalbewegung.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003821",
+"eintrag_id": 81386,
+"version": 8,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003821/81386",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/6f/2f/792840/Lobbyregister-Registereintraege-Detailansicht-R003821-2026-06-30_15-32-09.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Landwirtschaft, Ernährung und Heimat",
+"epl": "10",
+"von": 540001,
+"bis": 550000,
+"zweck": "Institutionelle Förderung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Landwirtschaftliche Rentenbank",
+"epl": null,
+"von": 120001,
+"bis": 130000,
+"zweck": "Projektfördermittel: Erzeuger-Verbraucher-Dialoge, #jungeregionale, Next Level REGIOportal + REGIOapp, REGIOtalks, REGIOkommune",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesanstalt für Landwirtschaft und Ernährung",
+"epl": "10",
+"von": 90001,
+"bis": 100000,
+"zweck": "Projektfördermittel: QC-RegioBio - Wertschöpfungskettenentwicklung (Bundesprogramm Ökologischer Landbau)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 750003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Heiner Sindel",
+"funktion": "1. Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003821/81386",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Hermann Kerler",
+"funktion": "stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003821/81386",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Ilonka Sindel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003821/81386",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Nicole Nefzger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003821/81386",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 20001,
+"bis": 30000
+},
+"lobbyausgaben": {
+"von": 40001,
+"bis": 50000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/38/dc/792838/BRB-Abschluss-2025-Einnahmen-Ausgaben-Ueberschussrechnung-final.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003821/81386",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

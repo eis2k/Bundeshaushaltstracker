@@ -1,0 +1,118 @@
+{
+"id": "katholische-frauengemeinschaft-deutschlands-bundesverband",
+"name": "Katholische Frauengemeinschaft Deutschlands (kfd) - Bundesverband e. V.",
+"art": "kirche_wohlfahrt",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Düsseldorf",
+"website": "www.kfd.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005118",
+"eintrag_id": 65551,
+"version": 8,
+"stand": "2026-07-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005118/65551",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/fc/56/822035/Lobbyregister-Registereintraege-Detailansicht-R005118-2026-07-29_11-25-42.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Verband der Deutschen Diözesen (VDD)",
+"epl": null,
+"von": 110001,
+"bis": 120000,
+"zweck": "Zuschüsse Bildungsveranstaltungen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 110001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ulrike Göken-Huismann",
+"funktion": "stellvertretende Bundesvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005118/65551",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Lucia Lagoda",
+"funktion": "stellvertretende Bundesvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005118/65551",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Jutta Flüthmann",
+"funktion": "Bundesgeschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005118/65551",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Friederike Frücht",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005118/65551",
+"stand": "2026-07-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 5190001,
+"bis": 5200000
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/87/d4/822031/2025_Bilanz_KFD-Bundesverband-e-V-D-dorf.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005118/65551",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-29",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

@@ -1,0 +1,119 @@
+{
+"id": "hint-co",
+"name": "HINT.CO GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Leipzig",
+"website": "www.hintco.eu",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007029",
+"eintrag_id": 83484,
+"version": 4,
+"stand": "2026-07-21",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007029/83484",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/35/3f/817245/Lobbyregister-Registereintraege-Detailansicht-R007029-2026-07-21_13-51-06.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMWE",
+"epl": "09",
+"von": 1240001,
+"bis": 1250000,
+"zweck": "Umsetzung des ersten H2Global Förderfensters. Rückzahlbare Zuwendung, in 2024 zurückgezahlt.",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 1240001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Timo Bollerhey",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007029/83484",
+"stand": "2026-07-21"
+}
+},
+{
+"name": "Christian Trottmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007029/83484",
+"stand": "2026-07-21"
+}
+},
+{
+"name": "Florian Geyer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007029/83484",
+"stand": "2026-07-21"
+}
+},
+{
+"name": "Markus Enke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007029/83484",
+"stand": "2026-07-21"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Sonstiges",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/2d/ef/817241/Jahresabschluss-Hint-co-GmbH-10-2024-09-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007029/83484",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-21",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

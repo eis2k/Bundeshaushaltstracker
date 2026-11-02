@@ -1,0 +1,290 @@
+{
+"id": "ford-werke",
+"name": "Ford-Werke GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Köln",
+"website": "www.ford.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001871",
+"eintrag_id": 86283,
+"version": 19,
+"stand": "2026-09-23",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001871/86283",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/6f/4d/846637/Lobbyregister-Registereintraege-Detailansicht-R001871-2026-09-23_16-11-45.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klima (BMWK)",
+"epl": null,
+"von": 1120001,
+"bis": 1130000,
+"zweck": "Trainingsförderung, Projekt: Förderung von Qualifizierungsmaßnahmen in der Batteriezellfertigung Forschungsförderung, Projekte: DMEPlusX, E-SELF, H2 ICE DEMOCAR, INNOBLECH, KARLI, KI-LAST, PEAk-Bat, RuBakaL, ULAS-EVAN, NuMA4.x",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung (BMBF)",
+"epl": "30",
+"von": 60001,
+"bis": 70000,
+"zweck": "Forschungsförderung, Verbundprojekt: Kreislauffähigkeit des Elektro-Antriebsstrangs durch intelligente Demontage und Nachverfolgung (ZirkulEA); Teilprojekt: Kreislaufwirtschaft von Batteriemodulen unter Einsatz von Lebenszyklusdaten Forschungsförderung, Projekt: HyInnoICE",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1180002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Dave Johnston",
+"funktion": "Mitglied der Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001871/86283",
+"stand": "2026-09-23"
+}
+},
+{
+"name": "Marcus Wassenberg",
+"funktion": "Mitglied der Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001871/86283",
+"stand": "2026-09-23"
+}
+},
+{
+"name": "Judith Kleinemeyer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001871/86283",
+"stand": "2026-09-23"
+}
+},
+{
+"name": "Martin Eckner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001871/86283",
+"stand": "2026-09-23"
+}
+},
+{
+"name": "Roland Schäfer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001871/86283",
+"stand": "2026-09-23"
+}
+},
+{
+"name": "Joachim Müller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001871/86283",
+"stand": "2026-09-23"
+}
+},
+{
+"name": "Elvir Vukovic",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001871/86283",
+"stand": "2026-09-23"
+}
+},
+{
+"name": "Gregor Allexi",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001871/86283",
+"stand": "2026-09-23"
+}
+},
+{
+"name": "Torsten Kosmehl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001871/86283",
+"stand": "2026-09-23"
+}
+},
+{
+"name": "Raimondo Sferco",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001871/86283",
+"stand": "2026-09-23"
+}
+},
+{
+"name": "Douwe Cunningham",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001871/86283",
+"stand": "2026-09-23"
+}
+},
+{
+"name": "Susanne Marczian",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001871/86283",
+"stand": "2026-09-23"
+}
+},
+{
+"name": "Benjamin Gruschka",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001871/86283",
+"stand": "2026-09-23"
+}
+},
+{
+"name": "Peter Geffers",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001871/86283",
+"stand": "2026-09-23"
+}
+},
+{
+"name": "Kerstin Packert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001871/86283",
+"stand": "2026-09-23"
+}
+},
+{
+"name": "Jim Baumbick",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001871/86283",
+"stand": "2026-09-23"
+}
+},
+{
+"name": "Nicola Walker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001871/86283",
+"stand": "2026-09-23"
+}
+},
+{
+"name": "Arndt Fuhrmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001871/86283",
+"stand": "2026-09-23"
+}
+},
+{
+"name": "André Kremer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001871/86283",
+"stand": "2026-09-23"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 740001,
+"bis": 750000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/45/9c/846608/Ford-Werke-JAP-2024-Testatsexemplar.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001871/86283",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-23",
+"etikett": "Eigenangabe",
+"version": 19
+}
+]
+}

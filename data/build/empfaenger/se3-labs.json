@@ -1,0 +1,147 @@
+{
+"id": "se3-labs",
+"name": "SE3 Labs GmbH ",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "München",
+"website": "https://www.se3.ai/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007657",
+"eintrag_id": 85770,
+"version": 5,
+"stand": "2026-09-11",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007657/85770",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/64/28/841071/Lobbyregister-Registereintraege-Detailansicht-R007657-2026-09-11_17-27-36.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 140001,
+"bis": 150000,
+"zweck": "EXIST-Gründungsstipendium: Existenzgründung & -festigung, Forschung & Innovation (themenoffen), Beratung EXIST-Forschungstransfer: Unterstützung herausragende forschungsbasierte Gründungsvorhaben, die mit aufwändigen und risikoreichen Entwicklungsarbeiten verbunden sind",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 140001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Lukas Koestler",
+"funktion": "CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007657/85770",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Simon Klenk",
+"funktion": "Chief Technology Officer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007657/85770",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Isabel Tahir",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Wissenschaftliche Mitarbeiterin",
+"stelle": "Bundesministerium der Verteidigung (BMVg) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2022-06"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007657/85770",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Michael Ruß",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007657/85770",
+"stand": "2026-09-11"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Isabel Tahir",
+"funktion_person": "Wissenschaftliche Mitarbeiterin, Bundesministerium der Verteidigung (BMVg) oder dessen Geschäftsbereich, bis 2022-06",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Isabel Tahir ist laut Lobbyregister Interessenvertretung bei SE3 Labs GmbH  und hatte zuvor eine öffentliche Funktion: Wissenschaftliche Mitarbeiterin, Bundesministerium der Verteidigung (BMVg) oder dessen Geschäftsbereich, bis 2022-06. SE3 Labs GmbH  erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Klimaschutz.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Wirtschaft und Klimaschutz"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007657/85770",
+"stand": "2026-09-11"
+}
+],
+"stand": "2026-09-11"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Sonstiges",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/15/58/841070/JA_SE3.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007657/85770",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-11",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

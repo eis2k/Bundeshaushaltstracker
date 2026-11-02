@@ -1,0 +1,141 @@
+{
+"id": "bundesjugendwerk-der-arbeiterwohlfahrt",
+"name": "Bundesjugendwerk der Arbeiterwohlfahrt e. V.",
+"art": "kirche_wohlfahrt",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.bundesjugendwerk.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003230",
+"eintrag_id": 79924,
+"version": 11,
+"stand": "2026-06-22",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003230/79924",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/9b/03/768247/Lobbyregister-Registereintraege-Detailansicht-R003230-2026-06-22_14-41-04.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend (BMFSFJ)",
+"epl": "17",
+"von": 440001,
+"bis": 450000,
+"zweck": "Förderung nach dem Kinder- und Jugendplan des Bundes (KJP)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 440001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Angelina Lody",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003230/79924",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Fabian Rodenwald",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003230/79924",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Cornelia Stampnik",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003230/79924",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Luisa-Sophie Thumm",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003230/79924",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Jeannette Jung",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003230/79924",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Maren Lechtenberg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003230/79924",
+"stand": "2026-06-22"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 100001,
+"bis": 110000
+},
+"mitgliedsbeitraege": {
+"von": 10001,
+"bis": 20000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/7f/f6/768245/JAB-2025-BuJW.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003230/79924",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-22",
+"etikett": "Eigenangabe",
+"version": 11
+}
+]
+}

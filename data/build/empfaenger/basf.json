@@ -1,0 +1,705 @@
+{
+"id": "basf",
+"name": "BASF SE",
+"art": "unternehmen",
+"rechtsform": "Europäische Aktiengesellschaft (SE)",
+"sitz": "Ludwigshafen am Rhein",
+"website": "https://www.basf.com/global/de.html",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002326",
+"eintrag_id": 85273,
+"version": 57,
+"stand": "2026-09-08",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002326/85273",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/bd/c7/839837/Lobbyregister-Registereintraege-Detailansicht-R002326-2026-09-08_15-56-11.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "Verbundvorhaben C2C-3-MeOH: Arbeitsinhalte der BASF SE zur Katalysatorbereitstellung bei der Zusammenarbeit/Unterstützung der Uhde GmbH in den Arbeitspaketen AP 4.2 und AP 4.3 des Themenkomplexes Methanol-Downstream „SAF“ im Teilprojekt Methanol-Synthese",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 10001,
+"bis": 20000,
+"zweck": "Von Kohlenhydraten aus sekundären Rohstoffquellen zu Chemierohstoffen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 490001,
+"bis": 500000,
+"zweck": "Harmonisierung und Etablierung von digitalen Material- und Produktpässen in der chemischen Industrie durch Einführung eines kollaborativen Daten-Ökosystems",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 190001,
+"bis": 200000,
+"zweck": "Catena-X NEXT Automotive Network",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "FU's AMS für neue Pumpen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 1240001,
+"bis": 1250000,
+"zweck": "Erforschung und Demonstration neuartiger, elektrifizierter Spaltöfen mit deutlich reduziertem CO2-Fußabdruck",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 10001,
+"bis": 20000,
+"zweck": "Einzel- und Mehrlagenorientierte Prozessintensivierung für die Elektrodenbeschichtung von Batterien mittels Schlitzdüsen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 40001,
+"bis": 50000,
+"zweck": "Aufbau eines Datenraums für die ausrüstende Industrie – die Ausrüster von Fabriken weltweit",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMDV",
+"epl": "12",
+"von": 760001,
+"bis": 770000,
+"zweck": "Anteilige Finanzierung der Betriebskosten im Einzelwagenverkehr (BK-EWV) - Förderlinie 1 (2024) (EBA)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMDV",
+"epl": "12",
+"von": 5080001,
+"bis": 5090000,
+"zweck": "Anteilige Finanzierung der Betriebskosten im Einzelwagenverkehr (BK-EWV) - Förderlinie 1 (2025) (EBA)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMDV",
+"epl": "12",
+"von": 210001,
+"bis": 220000,
+"zweck": "Anteilige Finanzierung der Betriebskosten im Einzelwagenverkehr (BK-EWV) - Förderlinie 2 (2026) (EBA)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 50001,
+"bis": 60000,
+"zweck": "A bio-based fumarate platform for sustainable detergent and polyaspartate production (\"CO2BioTech: FUMBIO - Biotechnologische Fumarat-Wertschöpfungskette - Von CO2 und Zucker bis hin zu biologisch abbaubaren Chemikalien (Teilprojekt A)\")",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMDV",
+"epl": "12",
+"von": 770001,
+"bis": 780000,
+"zweck": "Gleisanschluss Pilotprojekt Caprolactam",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 470001,
+"bis": 480000,
+"zweck": "H2Cycle - Hydrocycling - Verfahrensentwicklung eines umweltfreundlichen und energieeffizientem, rohstoffliches Altkunstoff-Recycling.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "Holistische Methode eines kombinierten daten- und modellbasierten Elektrodendesigns unterstützt durch künstliche Intelligenz",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 16220001,
+"bis": 16230000,
+"zweck": "Hydrogen for a CO2-emission free Chemistry - Electrolyzer Investment",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 980001,
+"bis": 990000,
+"zweck": "Wasserstoff für eine CO2-emissionsfreie Chemie (Einbindung einer Wasserelektrolyse in die Region und in einen chemischen Verbund)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 660001,
+"bis": 670000,
+"zweck": "Battery Materials - The Sustainable Energy Carrier from the Lausitz",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 70001,
+"bis": 80000,
+"zweck": "ETOS: Kathodische 1,5-Diol- und 2-Methyltetrahydrofuransynthese aus nachwachsenden Rohstoffen (KADIOL) - B",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMV",
+"epl": "12",
+"von": 10001,
+"bis": 20000,
+"zweck": "Nachhaltiges Kerosin aus erneuerbarem Methanol (M2SAF) (Methanol to Sustainable Aviation Fuel)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 30001,
+"bis": 40000,
+"zweck": "Verbundprojekt: Effiziente Materialsimulation auf NISQ Quantencomputern (MANIQU) - Teilvorhaben: Simulation von industrierelevanten molekularen Übergangsmetallsystemen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 450001,
+"bis": 460000,
+"zweck": "Methanpyrolyse - Vom Technikum zur Pilotanlage",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 30001,
+"bis": 40000,
+"zweck": "MEDESES: develop METIS technology at DESY initiated at ESRF",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 10001,
+"bis": 20000,
+"zweck": "Nanoskalige Kohlenstoffmembranen für Trennaufgaben zur Umsetzung einer schadstofffreien Resourceneffizienz (ehemals GraNaT)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 60001,
+"bis": 70000,
+"zweck": "Quantum-Classical Hybrid Optimization Algorithms for Logistics and Production Line Management",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 100001,
+"bis": 110000,
+"zweck": "Verbundnamen: Quantum Computing User Network - Teilvorhaben: QC-Anwendungen für die Industrie",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "Verbundvorhaben: Scoore - Synthesegas aus CO2-Recycling, ein Schlüsselbaustein für eine CO2-neutrale chemische Industrie; Teilvorhaben: Techn. Validierung der CO2-verbrauchenden POX",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 70001,
+"bis": 80000,
+"zweck": "Eignung der Natrium-Ionen-Technologie für die europäische Energie- und Mobilitätswende",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 40001,
+"bis": 50000,
+"zweck": "Spektroskopische Untersuchung des Recyclings von Kunststoffen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "UBA",
+"epl": "16",
+"von": 1110001,
+"bis": 1120000,
+"zweck": "Strompreis Kompensation",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 30001,
+"bis": 40000,
+"zweck": "Tracability of Battery Materials, Herstellung von CAM aus recycelten und neuen Rohstoffen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 10001,
+"bis": 20000,
+"zweck": "Synchronisierte und energieadaptive Produktionstechnik zur flexiblen Ausrichtung von Industrieprozessen auf eine fluktuierende Energieversorgung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 10001,
+"bis": 20000,
+"zweck": "SysBioTop-Moving",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 50001,
+"bis": 60000,
+"zweck": "Entwicklung und Validierung von in vitro Assays zur Untersuchung von Chemikalien auf die Schilddrüsenhormon-Homöostase zur regulatorischen Bewertung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 270001,
+"bis": 280000,
+"zweck": "Verbundvorhaben TransHyDe_FP3: Reforming von Ammoniak - Transport von H2 über Derivate - Teilvorhaben: Entwicklung einer nachhaltigen, CO2-freien und wirtschaftlichen Prozesstechnologie für die Gewinnung von Druckwasserstoff durch Ammoniakreformierung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 10001,
+"bis": 20000,
+"zweck": "Alternativmethoden - Verbundprojekt: ZF-AOP - Prädiktion vorgeburtlicher Entwicklungstoxizität mit dem Zebrabärblingsembryo-Modell-Nachweis von Key Events aus Adverse Outcome Pathways - Teilprojekt B",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 80001,
+"bis": 90000,
+"zweck": "KM/Gebäude H507",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "EBA",
+"epl": null,
+"von": 2880001,
+"bis": 2890000,
+"zweck": "Gleiserneuerung KVT",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "EBA",
+"epl": null,
+"von": 200001,
+"bis": 210000,
+"zweck": "Erneuerung Bahn Leit- und Bediensystem",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 31580001,
+"bis": 31590000,
+"zweck": "Strompreis Kompensation",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 64350040,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Katja Scharpwinkel",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002326/85273",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Stephan Kothrade",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002326/85273",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Markus Kamieth",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002326/85273",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Dirk Elvermann",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002326/85273",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Anup Kothari",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002326/85273",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Mary Kurian",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002326/85273",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Livio Tedeschi",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002326/85273",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Christina Gommlich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002326/85273",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Matthias Kastriotis",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002326/85273",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Jenna Schulte",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002326/85273",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Benita von Haugwitz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002326/85273",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Melanie Bausen-Wiens",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002326/85273",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Jörn-Fried Johannsen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002326/85273",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Felix Seebach",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002326/85273",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Thorsten Pinkepank",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002326/85273",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Markus Röser",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002326/85273",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Michael Wagner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002326/85273",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Robert Stiller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002326/85273",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Sandra Arndt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002326/85273",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Lucas Wippert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002326/85273",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Tassilo Galitz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002326/85273",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Klaus Kühling",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002326/85273",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Volker Wagner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002326/85273",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Jan von Herff",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002326/85273",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Marko Leist",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002326/85273",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Dorothee Funk-Weyer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002326/85273",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Saskia Orians",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002326/85273",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Sinja Klock",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002326/85273",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Katja Gehne",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002326/85273",
+"stand": "2026-09-08"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 3600001,
+"bis": 3610000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/62/c1/839834/BASF_Bericht_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002326/85273",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-08",
+"etikett": "Eigenangabe",
+"version": 57
+}
+]
+}

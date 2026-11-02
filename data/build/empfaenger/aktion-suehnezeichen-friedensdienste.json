@@ -1,0 +1,249 @@
+{
+"id": "aktion-suehnezeichen-friedensdienste",
+"name": "Aktion Sühnezeichen Friedensdienste e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.asf-ev.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004017",
+"eintrag_id": 76696,
+"version": 10,
+"stand": "2026-05-13",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004017/76696",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ea/2a/735988/Lobbyregister-Registereintraege-Detailansicht-R004017-2026-05-13_11-13-56.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"epl": "17",
+"von": 360001,
+"bis": 370000,
+"zweck": "Förderung internationaler Jugendfreiwilligendienst",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "AGDF e.V.",
+"epl": null,
+"von": 180001,
+"bis": 190000,
+"zweck": "Förderung Personalkosten im Rahmen des internationalen Kinder- und Jugendplans des Bundes",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Familie und zivilgesellschaftliche Aufgaben - Demokratie Leben",
+"epl": "17",
+"von": 450001,
+"bis": 460000,
+"zweck": "Förderung von Kompetenzzentren und Kompetenznetzwerken auf Bundesebene Projektförderung \"Historisch politisches Lernen in der Post-Migrationsgesellschaft: Sensibilisierung für Rassismus gegen Sinti und Roma in Geschichte und Gegenwart\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 990003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ilse Junkermann",
+"funktion": "Vorständin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004017/76696",
+"stand": "2026-05-13"
+}
+},
+{
+"name": "Jakob Stürmann",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004017/76696",
+"stand": "2026-05-13"
+}
+},
+{
+"name": "Andreas Kroneder",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004017/76696",
+"stand": "2026-05-13"
+}
+},
+{
+"name": "Thomas Heldt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004017/76696",
+"stand": "2026-05-13"
+}
+},
+{
+"name": "Matteo Schürenberg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004017/76696",
+"stand": "2026-05-13"
+}
+},
+{
+"name": "Henning Flad",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004017/76696",
+"stand": "2026-05-13"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "abgeordneter_funktion",
+"person": "Gitta Connemann",
+"funktion_person": "MdB, CDU/CSU",
+"funktion_beim_empfaenger": "Mitglied des Kuratoriums, ehrenamtlich (bis 05.11.2025)",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Gitta Connemann (MdB, CDU/CSU) ist laut bundestag.de Mitglied des Kuratoriums, ehrenamtlich (bis 05.11.2025) bei Aktion Sühnezeichen Friedensdienste e.V.. Aktion Sühnezeichen Friedensdienste e.V. erhielt laut Lobbyregister Mittel von: Bundesamt für Familie und zivilgesellschaftliche Aufgaben - Demokratie Leben; Bundesamt für Familie und zivilgesellschaftliche Aufgaben; AGDF e.V..",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesamt für Familie und zivilgesellschaftliche Aufgaben - Demokratie Leben",
+"Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"AGDF e.V."
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/C/connemann_gitta-1043962",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Katrin Göring-Eckardt",
+"funktion_person": "MdB, Bündnis 90 Die Grünen",
+"funktion_beim_empfaenger": "Mitglied des Kuratoriums, ehrenamtlich",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Katrin Göring-Eckardt (MdB, Bündnis 90 Die Grünen) ist laut bundestag.de Mitglied des Kuratoriums, ehrenamtlich bei Aktion Sühnezeichen Friedensdienste e.V.. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für die Angelegenheiten der Europäischen Union; Ausschuss für Kultur und Medien. Aktion Sühnezeichen Friedensdienste e.V. erhielt laut Lobbyregister Mittel von: Bundesamt für Familie und zivilgesellschaftliche Aufgaben - Demokratie Leben; Bundesamt für Familie und zivilgesellschaftliche Aufgaben; AGDF e.V..",
+"ausschuesse": [
+"Ausschuss für die Angelegenheiten der Europäischen Union",
+"Ausschuss für Kultur und Medien"
+],
+"geld_aus": [
+"Bundesamt für Familie und zivilgesellschaftliche Aufgaben - Demokratie Leben",
+"Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"AGDF e.V."
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/G/goering_eckardt_katrin-1044556",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Kerstin Griese",
+"funktion_person": "MdB, SPD",
+"funktion_beim_empfaenger": "Mitglied des Kuratoriums (ab 01.01.2026)",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Kerstin Griese (MdB, SPD) ist laut bundestag.de Mitglied des Kuratoriums (ab 01.01.2026) bei Aktion Sühnezeichen Friedensdienste e.V.. Aktion Sühnezeichen Friedensdienste e.V. erhielt laut Lobbyregister Mittel von: Bundesamt für Familie und zivilgesellschaftliche Aufgaben - Demokratie Leben; Bundesamt für Familie und zivilgesellschaftliche Aufgaben; AGDF e.V..",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesamt für Familie und zivilgesellschaftliche Aufgaben - Demokratie Leben",
+"Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"AGDF e.V."
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/G/griese_kerstin-1044602",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 1220001,
+"bis": 1230000
+},
+"mitgliedsbeitraege": {
+"von": 70001,
+"bis": 80000
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e4/df/735987/Aktion-Suehnezeichen-2025_KV-signiert.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004017/76696",
+"abgerufen": "2026-11-02",
+"stand": "2026-05-13",
+"etikett": "Eigenangabe",
+"version": 10
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/C/connemann_gitta-1043962",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/G/goering_eckardt_katrin-1044556",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/G/griese_kerstin-1044602",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

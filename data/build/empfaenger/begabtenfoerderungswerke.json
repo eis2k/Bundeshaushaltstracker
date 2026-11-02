@@ -1,0 +1,84 @@
+{
+"id": "begabtenfoerderungswerke",
+"name": "Begabtenförderungswerke",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "30-3002-68110",
+"text": "Zuschüsse an Begabtenförderungswerke",
+"epl": "30",
+"epl_text": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"werte": {
+"2015": {
+"soll": 232633000,
+"ist": 232599475
+},
+"2016": {
+"soll": 243902000,
+"ist": 243882923
+},
+"2017": {
+"soll": 266267000,
+"ist": 262057712
+},
+"2018": {
+"soll": 266267000,
+"ist": 266247492
+},
+"2019": {
+"soll": 266267000,
+"ist": 264103367
+},
+"2020": {
+"soll": 300417000,
+"ist": 286269899
+},
+"2021": {
+"soll": 307537000,
+"ist": 276705346
+},
+"2022": {
+"soll": 312877000,
+"ist": 287595207
+},
+"2023": {
+"soll": 342877000,
+"ist": 293979978
+},
+"2024": {
+"soll": 342877000,
+"ist": 311220923
+},
+"2025": {
+"soll": 342877000,
+"ist": 300610766
+},
+"2026": {
+"soll": 342877000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

@@ -1,0 +1,117 @@
+{
+"id": "uvp-gesellschaft",
+"name": "UVP-Gesellschaft e.V.",
+"art": "unternehmen",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Würzburg",
+"website": "www.uvp.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001064",
+"eintrag_id": 74250,
+"version": 9,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001064/74250",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/29/7c/787352/Lobbyregister-Registereintraege-Detailansicht-R001064-2026-06-30_08-34-09.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Umweltbundesamt",
+"epl": "16",
+"von": 20001,
+"bis": 30000,
+"zweck": "Förderung des Projekts „16. UVP-Kongress – Neue Energien für die Umweltprüfung“ im Rahmen der Verbändeförderung des Umweltbundesamtes. Gegenstand der Förderung sind die Vorbereitung, Durchführung und Nachbereitung eines bundesweiten Fachkongresses zum Austausch über aktuelle Entwicklungen der Umweltverträglichkeitsprüfung (UVP) und Strategischen Umweltprüfung (SUP) zwischen Wissenschaft, Verwaltung, Planungspraxis, Umweltverbänden und weiteren Akteuren.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 20001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Marie Luise Hanusch",
+"funktion": "2. Vorsitzende ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001064/74250",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Gesa Geißler",
+"funktion": "1. Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001064/74250",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Stefan Balla",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001064/74250",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Simone Sinner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001064/74250",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 60001,
+"bis": 70000
+},
+"lobbyausgaben": {
+"von": 70001,
+"bis": 80000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/84/5a/787351/EUeR_2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001064/74250",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

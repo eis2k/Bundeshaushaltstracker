@@ -1,0 +1,456 @@
+{
+"id": "wacker-chemie",
+"name": "Wacker Chemie AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "München",
+"website": "www.wacker.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001803",
+"eintrag_id": 77769,
+"version": 24,
+"stand": "2026-06-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001803/77769",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/aa/8e/772842/Lobbyregister-Registereintraege-Detailansicht-R001803-2026-06-24_12-56-59.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "SING: Silicone Fluid Next Generation Power Plant",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 13840001,
+"bis": 13850000,
+"zweck": "Etching Line Next: Entwicklung innovativer Fertigungsprozesse für Polysilizium für zukünftige Halbleiter-Anwendungen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 310001,
+"bis": 320000,
+"zweck": "Hyblex: Entwicklung von Silikon- und Organo-Silikon-Hybridharzen für Faser-Komposite unter extremen Umgebungsbedingungen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 110001,
+"bis": 120000,
+"zweck": "AIRMAIL: RNA-Formulierung mit Kl gestütztem Design von Lipid Nanoträgern",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 1280001,
+"bis": 1290000,
+"zweck": "H2ReallaborChemDelta /H2-Reallabor Burghausen: H2-Nutzung für die klimaneutrale Transformation der chemischen Industrie",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 60001,
+"bis": 70000,
+"zweck": "MaSSiF - Materialinnovationen für Schwefel-Silizium-Festkörperbatterien: Design, Aufbau und Bewertung von Prototypzellen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 50001,
+"bis": 60000,
+"zweck": "InProMaL - Integrierte und beschleunigte Prozessoptimierung zur Herstellung prälithiierter Elektroden für Energiespeicher mit Methoden des Maschinellen Lernens",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 60001,
+"bis": 70000,
+"zweck": "CNATM: Chemisch modifizierte Nukleoside, Nukleotide und Oligonukleotide als Therapeutika und Vakzine",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 70001,
+"bis": 80000,
+"zweck": "MOSAIC: ETOS: Modulare und skalierbare Anschwemmzellen für die Elektrokonversion von wenig löslichem L-Cystin",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 70001,
+"bis": 80000,
+"zweck": "Biofactur-e: CO2-basierte Bioproduktionsplattform für Cystein, Aspartat und Glycolat via (elektro-)enzymatischem Methanol",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 50001,
+"bis": 60000,
+"zweck": "RoX: Digitales Ökosystem für eine KI-basierte Robotik, Teilvorhaben: Entwicklung einer KI-basierten Lösung zum automatisierten heckseitigen Be- und Entladen von LKWs sowie fahrerloses Handling von Materialien in komplexen Industrieumgebungen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 90001,
+"bis": 100000,
+"zweck": "SaxoCell: Ex vivo-modifizierte Natürliche Killerzellen zur Immuntherapie von Tumoren und Autoimmunerkrankungen (NK-Alliance) - K",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 140001,
+"bis": 150000,
+"zweck": "CHEM-X: Aufbau eines Datenraums der chemischen Industrie sowie Schnittstellen der mit ihr verbundenen Wertschöpfungsketten am Beispiel des digitalen Produktpasses Teilvorhaben: Digitaler Produktpass aus Sicht eines vernetzten Chemieunternehmens mit Schwerpunkt Silicone und Polymerprodukte",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 16140013,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christian Hartel",
+"funktion": "Vorsitzender des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001803/77769",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Tobias Ohler",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001803/77769",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Christian Kirsten",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001803/77769",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Angela Wörl",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001803/77769",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Ulf Gerder",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001803/77769",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Christian Essers",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001803/77769",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Alexandra Rullen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001803/77769",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Jan Weiß",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001803/77769",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Peter von Zumbusch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001803/77769",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Tobias Brandis",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001803/77769",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Christian Westermeier",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001803/77769",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Mathias Bremer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001803/77769",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Michael Bünnig",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001803/77769",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Christoph Briehn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001803/77769",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Achim Kaiser",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001803/77769",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Thomas Koini",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001803/77769",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Guido Seidel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001803/77769",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Juliane Sarx",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001803/77769",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Anne Alber",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001803/77769",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Peter Gigler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001803/77769",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Jutta Matreux",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001803/77769",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Marina Baumgartner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001803/77769",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Stefan Henn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001803/77769",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Erk Thorsten Heyen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001803/77769",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Ursula Nießen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001803/77769",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Rüdiger Weiß",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001803/77769",
+"stand": "2026-06-24"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1060001,
+"bis": 1070000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/de/8a/772840/WACKER-Geschaeftsbericht2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001803/77769",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-24",
+"etikett": "Eigenangabe",
+"version": 24
+}
+]
+}

@@ -1,0 +1,84 @@
+{
+"id": "alexander-von-humboldt-stiftung",
+"name": "Alexander von Humboldt-Stiftung",
+"art": "verein_stiftung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": true,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "05-0504-68746",
+"text": "Alexander von Humboldt-Stiftung, Bonn - Betrieb und operative Mittel",
+"epl": "05",
+"epl_text": "Auswärtiges Amt",
+"werte": {
+"2015": {
+"soll": 36415000,
+"ist": 36368823
+},
+"2016": {
+"soll": 38850000,
+"ist": 38814854
+},
+"2017": {
+"soll": 53906000,
+"ist": 53906000
+},
+"2018": {
+"soll": 44309000,
+"ist": 44276188
+},
+"2019": {
+"soll": 54025000,
+"ist": 52990803
+},
+"2020": {
+"soll": 53714000,
+"ist": 52703672
+},
+"2021": {
+"soll": 54500000,
+"ist": 54495978
+},
+"2022": {
+"soll": 53000000,
+"ist": 52842000
+},
+"2023": {
+"soll": 56000000,
+"ist": 54832000
+},
+"2024": {
+"soll": 54300000,
+"ist": 53200000
+},
+"2025": {
+"soll": 52900000,
+"ist": 52900000
+},
+"2026": {
+"soll": 52900000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

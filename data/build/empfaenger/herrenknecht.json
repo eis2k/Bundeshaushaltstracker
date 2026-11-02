@@ -1,0 +1,117 @@
+{
+"id": "herrenknecht",
+"name": "Herrenknecht AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Schwanau",
+"website": "https://www.herrenknecht.com/de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007310",
+"eintrag_id": 62188,
+"version": 4,
+"stand": "2026-04-27",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007310/62188",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/5f/dd/727717/Lobbyregister-Registereintraege-Detailansicht-R007310-2026-04-27_09-08-48.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 770001,
+"bis": 780000,
+"zweck": "Förderung der Entwicklung eines On- Offroad Trägerfahrzeugs mit veränderbaren Eigenresonanzen für seismische Messungen.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 770001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Martin Herrenknecht",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007310/62188",
+"stand": "2026-04-27"
+}
+},
+{
+"name": "Michael Sprang",
+"funktion": "Stellvertretender Vorstandsvorsitzender und CFO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007310/62188",
+"stand": "2026-04-27"
+}
+},
+{
+"name": "Martin-Devid Herrenknecht",
+"funktion": "Mitglied des Vorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007310/62188",
+"stand": "2026-04-27"
+}
+},
+{
+"name": "Ulrich Schaffhauser",
+"funktion": "Mitglied des Vorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007310/62188",
+"stand": "2026-04-27"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 320001,
+"bis": 330000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/1d/21/727716/Jahresabschluss_Herrenknecht-AG_2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007310/62188",
+"abgerufen": "2026-11-02",
+"stand": "2026-04-27",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

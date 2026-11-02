@@ -1,0 +1,129 @@
+{
+"id": "fastned-deutschland",
+"name": "Fastned Deutschland GmbH & Co. KG",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Köln",
+"website": "fastned.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005216",
+"eintrag_id": 81112,
+"version": 12,
+"stand": "2026-07-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005216/81112",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/02/fb/804680/Lobbyregister-Registereintraege-Detailansicht-R005216-2026-07-03_18-39-58.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Verkehr",
+"epl": "12",
+"von": 2390001,
+"bis": 2400000,
+"zweck": "Fastned ist einer der elf Betreiber zum Aufbau des Deutschlandnetzes",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 2390001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Michiel Langezaal",
+"funktion": "CEO / Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005216/81112",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "Linda Boll",
+"funktion": "Prokuristin / Country Manager Deutschland",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005216/81112",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "Nicolas Siebert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005216/81112",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "Tobias Niehoff",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005216/81112",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "Jenny Wittwer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005216/81112",
+"stand": "2026-07-03"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 220001,
+"bis": 230000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/8d/cc/804679/2025-annual-report-final_compressed.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005216/81112",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-03",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

@@ -1,0 +1,162 @@
+{
+"id": "neptun-werft",
+"name": "Neptun Werft",
+"art": "unternehmen",
+"rechtsform": "Sonstige Personengesellschaft",
+"sitz": "Rostock",
+"website": "www.neptunwerft.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004334",
+"eintrag_id": 83765,
+"version": 11,
+"stand": "2026-07-27",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004334/83765",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/7b/7d/820422/Lobbyregister-Registereintraege-Detailansicht-R004334-2026-07-27_13-48-07.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 50001,
+"bis": 60000,
+"zweck": "Innovationsprojekt Direkte digitale QS Einbindung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 50001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "André Walter",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004334/83765",
+"stand": "2026-07-27"
+}
+},
+{
+"name": "Ralf Friedrich Schmitz",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004334/83765",
+"stand": "2026-07-27"
+}
+},
+{
+"name": "Stephan Andreas Happe",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004334/83765",
+"stand": "2026-07-27"
+}
+},
+{
+"name": "Lars-Gunar Klasen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004334/83765",
+"stand": "2026-07-27"
+}
+},
+{
+"name": "Claudia Klasen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004334/83765",
+"stand": "2026-07-27"
+}
+},
+{
+"name": "Oscar Ortega Ermisch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004334/83765",
+"stand": "2026-07-27"
+}
+},
+{
+"name": "Gunnar Pallutz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004334/83765",
+"stand": "2026-07-27"
+}
+},
+{
+"name": "Arthur-Hans Thellmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004334/83765",
+"stand": "2026-07-27"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/06/b3/820421/JA-NW-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004334/83765",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-27",
+"etikett": "Eigenangabe",
+"version": 11
+}
+]
+}

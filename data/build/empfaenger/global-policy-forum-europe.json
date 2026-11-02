@@ -1,0 +1,148 @@
+{
+"id": "global-policy-forum-europe",
+"name": "Global Policy Forum Europe e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Köln",
+"website": "www.globalpolicy.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000663",
+"eintrag_id": 80306,
+"version": 12,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000663/80306",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/3c/75/788058/Lobbyregister-Registereintraege-Detailansicht-R000663-2026-06-30_10-03-15.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Engagement Global gGmbH",
+"epl": "23",
+"von": 40001,
+"bis": 50000,
+"zweck": "Bildungs- und Informationsarbeit zur Umsetzung der Agenda 2030 für nachhaltige Entwicklung und der SDGs in Deutschland",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)",
+"epl": "23",
+"von": 90001,
+"bis": 100000,
+"zweck": "Monitoring und Analysen im Rahmen des Projektes Nachhaltige Entwicklungsfinanzierung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 130002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Bodo Ellmers",
+"funktion": "Geschäftsführender Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000663/80306",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Michèle Roth-Dührkoop",
+"funktion": "Schatzmeisterin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000663/80306",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Klaus Schilder",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000663/80306",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Karolin Seitz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000663/80306",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Celia Sudhoff",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000663/80306",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Sarah Ganter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000663/80306",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 310001,
+"bis": 320000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/fc/54/788052/Jahresabschluss-Global-Policy-Forum-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000663/80306",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

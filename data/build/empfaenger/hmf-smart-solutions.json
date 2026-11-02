@@ -1,0 +1,103 @@
+{
+"id": "hmf-smart-solutions",
+"name": "HMF Smart Solutions GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Bad Münder",
+"website": "https://hmf-smart-solutions.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004737",
+"eintrag_id": 59261,
+"version": 6,
+"stand": "2026-06-25",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004737/59261",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/2a/37/777187/Lobbyregister-Registereintraege-Detailansicht-R004737-2026-06-25_15-53-38.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Sicherheit in der Informationssicherheit (BSI)",
+"epl": null,
+"von": 30001,
+"bis": 40000,
+"zweck": "Zuwendung aus dem Bundeshaushalt, Einzelplan 06, Kapitel 23, Titel 68602, Haushaltsjahr 2023, für die Umsetzung des Teilvorhabens „Erkennung und Abwehr von Jamming- und Cyber-Angriffen auf die 5G-lnfrastruktur“ im Verbundprojekt „COBRA-5G - Container-basierte resiliente Architektur für 5G Campus-Netzwerken“",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministeriums für Digitales und Verkehr (BMDV)",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "Zuwendung aus dem Bundeshaushalt, Einzelplan 12, Kapitel 1204, Titel 68601, Haushaltsjahr 2023, für die Umsetzung des Teilvorhaben „HMF Smart Solutions GMBH – Erweiterung von TETRA durch Breitbandnetze der neuen Generation“ im Verbundprojekt „TETRA++ - Erweiterung von TETRA durch Breitbandnetze der neuen Generation“",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 50002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Martin Hucke",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004737/59261",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Bernhard Klinger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004737/59261",
+"stand": "2026-06-25"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 40001,
+"bis": 50000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/34/fb/777186/2026-04-30-HMF_Testatsbericht-31-12-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004737/59261",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-25",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

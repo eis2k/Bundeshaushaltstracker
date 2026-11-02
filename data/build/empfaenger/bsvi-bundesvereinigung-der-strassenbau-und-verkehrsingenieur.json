@@ -1,0 +1,128 @@
+{
+"id": "bsvi-bundesvereinigung-der-strassenbau-und-verkehrsingenieur",
+"name": "BSVI - Bundesvereinigung der Straßenbau- und Verkehrsingenieure e.V. ",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "München",
+"website": "https://www.bsvi.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003046",
+"eintrag_id": 72162,
+"version": 10,
+"stand": "2026-02-10",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003046/72162",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/5b/1e/692329/Lobbyregister-Registereintraege-Detailansicht-R003046-2026-02-10_09-02-11.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Verkehr",
+"epl": "12",
+"von": 30001,
+"bis": 40000,
+"zweck": "Fehlbetragsförderung des Bundesministeriums für Verkehr für die zweijährliche Ausrichtung des Deutschen Ingenieurpreises Straße und Verkehr",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 30001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Bernhard Knoop",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003046/72162",
+"stand": "2026-02-10"
+}
+},
+{
+"name": "Wolf Uhlig",
+"funktion": "Vize-Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003046/72162",
+"stand": "2026-02-10"
+}
+},
+{
+"name": "Rainer Hess",
+"funktion": "Vize-Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003046/72162",
+"stand": "2026-02-10"
+}
+},
+{
+"name": "Stefan Jung",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003046/72162",
+"stand": "2026-02-10"
+}
+},
+{
+"name": "Barbara Weiß",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003046/72162",
+"stand": "2026-02-10"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 140001,
+"bis": 150000
+},
+"lobbyausgaben": {
+"von": 200001,
+"bis": 210000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/26/32/692325/Bericht-31-12-25.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003046/72162",
+"abgerufen": "2026-11-02",
+"stand": "2026-02-10",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

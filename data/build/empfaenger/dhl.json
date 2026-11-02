@@ -1,0 +1,486 @@
+{
+"id": "dhl",
+"name": "DHL AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Bonn",
+"website": "group.dhl.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001114",
+"eintrag_id": 86746,
+"version": 40,
+"stand": "2026-09-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/b4/4a/852274/Lobbyregister-Registereintraege-Detailansicht-R001114-2026-09-30_14-55-10.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Logistik und Mobilität (BALM)",
+"epl": "12",
+"von": 740001,
+"bis": 750000,
+"zweck": "Förderung der Tank- und Ladeinfrastruktur.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 740001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Tobias Meyer",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Oscar de Bok",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Melanie Kreis-Wilczak",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Thomas Ogilvie",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "John Pearson",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Hendrik Venter",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Nikola Hagleitner",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Pablo Ciano",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Maike Asmussen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Oliver Röseler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "David Kutsch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-10"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Wolfgang Bodenbach",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Reinhard Fischer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Ole Nordhoff",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Andreas Tautz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Jan Sedemund",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Frank Ewald",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Bettina Brandes-Herlemann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Martin Fichtner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Hans-Christian Mennenga",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Thorn Schütt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Stephan Siekmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Gabriele Schulz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Peter Mayer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Markus Ehm",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Susanne Kaus",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Julia Collingro",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Vincent Ackermann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Achim Schröder",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Görkem Gülsen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Thomas Schneider",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Christoph Zurheide",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Felix  Blaich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Felix  Ebner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Alexander Rometsch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "David Kutsch",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-10",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "David Kutsch ist laut Lobbyregister Interessenvertretung bei DHL AG und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-10. DHL AG erhielt laut Lobbyregister Mittel von: Bundesamt für Logistik und Mobilität (BALM).",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesamt für Logistik und Mobilität (BALM)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"stand": "2026-09-30"
+}
+],
+"stand": "2026-09-30"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1630001,
+"bis": 1640000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/dd/d3/852242/DHL-Group-Geschaeftsbericht-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001114/86746",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-30",
+"etikett": "Eigenangabe",
+"version": 40
+}
+]
+}

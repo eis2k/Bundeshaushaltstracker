@@ -1,0 +1,421 @@
+{
+"id": "vdi-verein-deutscher-ingenieure",
+"name": "VDI Verein Deutscher Ingenieure e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Düsseldorf",
+"website": "www.vdi.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002392",
+"eintrag_id": 79381,
+"version": 21,
+"stand": "2026-06-25",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002392/79381",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/1d/7f/775859/Lobbyregister-Registereintraege-Detailansicht-R002392-2026-06-25_11-33-53.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMUV Bundesministerium für Umwelt, Naturschutz, Reaktorsicherheit und Verbraucherschutz",
+"epl": "16",
+"von": 1580001,
+"bis": 1590000,
+"zweck": "Die VDI/DIN-Kommission Reinhaltung der Luft (KRdL) – Normenausschuss ist eine gemeinsame Einrichtung von VDI e.V. und DIN. Die Kommission übernimmt staatsentlastende Aufgaben bei der Luftreinhaltung. Die ehren- und hauptamtlich Mitarbeitenden der KRdL setzen Standards für saubere Luft und Umweltschutz. Die Kommission arbeitet schwerpunktmäßig in vier Bereichen: Umweltschutztechnik, Umweltmeteorologie, Umweltqualität sowie Umweltmesstechnik. Die KRdL veröffentlicht mit dem VDI/DIN-Handbuch „Reinhaltung der Luft“ ein Regelwerk mit mehr als 500 VDI-Richtlinien und 140 DIN-Normen, das laufend aktualisiert wird. In Veranstaltungen stellen Expert*innen ihre Ergebnisse vor und stellen diese zur Diskussion. Seit 1990 hat die KRdL das Sekretariat des ISO/TC 146 „Air Quality“ und seit 1991 das Sekretariat des CEN/TC 264 „Air Quality“ inne. Damit liegt die Zuständigkeit für die nationale, europäische und internationale Regelsetzung im Bereich der Luftreinhaltung bei der KRdL in einer Hand",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 60001,
+"bis": 70000,
+"zweck": "Das Forschungsprojekt RIWWER wird im Konsortium von den Partnern Fraunhofer IMS, Universität Duisburg-Essen, KROHNE, Okeanos, HAST Systemtechnik, RWTH Aachen, Berliner Hochschule für Technik und Verein Deutscher Ingenieure e.V. (VDI) durchgeführt und findet im Rahmen des Förderprogramms WIPANO des Bundesministeriums für Wirtschaft und Energie (BMWE) statt. Ziel des Projekts ist die Digitalisierung wichtiger Stellen im kommunalen Abwassersystem, um anschließend mit Hilfe einer dezentralen und KI gesteuerten Verteilung die Wassermengen bei Regen/Starkregen im Kanalsystem und Regenbecken zu verteilen und damit Schadstoffeinträge in die Umwelt zu minimieren Der VDI e.V. ist in einem Teilvorhaben unter anderem zuständig für die Standardisierung der Projektergebnisse.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 160001,
+"bis": 170000,
+"zweck": "Das Forschungsprojekt Normungsroadmap Wasserstofftechnologien wird im Konsortium von den Partnern DIN, DVGW, VDE, VDA, VDMA, NWB und Verein Deutscher Ingenieure e.V. (VDI) durchgeführt und findet im Rahmen des Förderprogramms WIPANO des Bundesministeriums für Wirtschaft und Energie (BMWE) statt. Das Ziel des Projekts „Normungsroadmap Wasserstofftechnologien“ ist es, die Voraussetzungen für eine vollständige Qualitätsinfrastruktur zu schaffen, die eine elementare Basis für den erfolgreichen Markthochlauf der H2-Technologien darstellt. Der VDI e.V. ist in einem Teilvorhaben unter anderem zuständig für die Organisation von Umsetzungsprojekten.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Arbeit und Soziales",
+"epl": "11",
+"von": 230001,
+"bis": 240000,
+"zweck": "Durchführung des Teilvorhabens „Brückenmaßnahmen und Qualifizierungsbegleitung für Ingenieur*innen“ im Rahmen des Förderprogramms IQ – Integration durch Qualifizierung. Der VDI e.V. öffnet Wege zur Integration qualifizierter zugewanderter Ingenieur*innen in Arbeitswelt und Gesellschaft durch und mit seinen Regionalorganisationen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Umwelt, Klimaschutz, Reaktorsicherheit und Naturschutz",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Das Verbundprojekt BienABest „Standardisierte Erfassung von Wildbienen zur Evaluierung des Bestäuberpotenzials in der Agrarlandschaft“ hat zum Ziel, die Ökosystemleistung „Bestäubung durch Wildbienen“ zu sichern und zu steigern. Das Projekt soll neue Lebensräume für Wildbienen schaffen, Wildbienen beobachten und lebend bestimmen, die Zukunft sichern und Nachwuchs ausbilden. Der Verein Deutscher Ingenieure (VDI e. V.) koordiniert das Gesamtprojekt. Verbundpartner ist die Universität Ulm. Weiterhin wird das Projekt vom Ministerium für Umwelt, Klima und Energiewirtschaft Baden-Württemberg unterstützt.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "Das Forschungsprojekt NOREFUEGA wird im Konsortium von den Partnern Dr. Wernecke Feuchtemesstechnik GmbH, Bundesanstalt für Materialforschung und -prüfung (BAM), Deutsches Zentrum für Luft- und Raumfahrt und Verein Deutscher Ingenieure e.V. (VDI) durchgeführt und findet im Rahmen des Förderprogramms WIPANO des Bundesministeriums für Wirtschaft und Energie (BMWE) statt. Ziel des Projekts ist die Normgerechte Feuchtemessung in CO2 unter Berücksichtigung der Ablösung umweltschädlicher Gase in der Industrie. Der VDI e.V. ist in einem Teilvorhaben zuständig für die Standardisierung der Projektergebnisse.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 220001,
+"bis": 230000,
+"zweck": "Im Rahmen des „Zukunftsfonds Automobilindustrie“ fördert das BMWE den Aufbau und die Umsetzung von Transformationshubs zur Unterstützung von Transformationsprozessen der Automobilindustrie. Als einer von elf bundesweiten Hubs zur Unterstützung der vom Strukturwandel betroffenen Automobilindustrie adressiert das Projekt „MIAMy – Accelerate Market Introduction of Autonomous Mobility“ als inhaltliche Schwerpunkte das sichere automatisierte Fahren und die in enger Wechselwirkung mit dieser Technologie stehenden transformationsrelevanten Felder Fahrzeugkonzepte und Fahrzeugdigitalisierung. Hauptziel des Projektes ist die Beschleunigung der Markteinführung autonomer Fahrzeugkonzepte. Dazu werden aktuelle Forschungsergebnisse aus multidisziplinären Bereichen aufbereitet und in verschiedenen Formaten allen Akteuren innerhalb der Wertschöpfungskette angeboten. Der VDI e. V. ist als Unterauftragnehmer der TU Braunschweig für Themen wie Organisation und Durchführung von Veranstaltungen tätig.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 2290007,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Lutz Eckstein",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002392/79381",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Adrian Willig",
+"funktion": "Direktor und geschäftsführendes Präsidiumsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002392/79381",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Christoph Huß",
+"funktion": "Mitglied des Präsidiums und Vorsitzender des Finanzbeirats",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002392/79381",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Christian Krause",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002392/79381",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Uwe Groth",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002392/79381",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Klemens Gutmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002392/79381",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Torsten Habicht",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002392/79381",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Volker Stich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002392/79381",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Helmut Süßer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002392/79381",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Christian-Andreas Schumann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002392/79381",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Iris Spieß",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002392/79381",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Wolfgang Zientz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002392/79381",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Holk Traschewski",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002392/79381",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Stefan Klatt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002392/79381",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Daniel Kölle",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002392/79381",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Peter Emde",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002392/79381",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Nicola Bursac",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002392/79381",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Jan Henrik Weychardt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002392/79381",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Christian Simon",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002392/79381",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Nadine Freimuth",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002392/79381",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Martin Urban",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002392/79381",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Bita Fesidis",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002392/79381",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Jan Bavendiek",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002392/79381",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Subramaniam Nirojah",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002392/79381",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Christian Hemmers",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002392/79381",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "David Kessing",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002392/79381",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Frank Dieball",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002392/79381",
+"stand": "2026-06-25"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Sonstiges",
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 450001,
+"bis": 460000
+},
+"mitgliedsbeitraege": {
+"von": 12750001,
+"bis": 12760000
+},
+"lobbyausgaben": {
+"von": 450001,
+"bis": 460000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/0c/43/775855/2025_VDI-e-V-inkl-HHG-0000738393_10_1_FinB_QES2.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002392/79381",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-25",
+"etikett": "Eigenangabe",
+"version": 21
+}
+]
+}

@@ -1,0 +1,149 @@
+{
+"id": "norddeutsche-missions-gesellschaft",
+"name": "Norddeutsche Missions-Gesellschaft",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bremen",
+"website": "https://www.norddeutschemission.de/start",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006487",
+"eintrag_id": 59466,
+"version": 5,
+"stand": "2026-07-14",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006487/59466",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/55/70/812823/Lobbyregister-Registereintraege-Detailansicht-R006487-2026-07-14_12-47-26.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Weltwärts",
+"epl": null,
+"von": 50001,
+"bis": 60000,
+"zweck": "Unterstützung des Süd-Nord Freiwilligenprogrammes",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Engagement Global",
+"epl": "23",
+"von": 10001,
+"bis": 20000,
+"zweck": "Zuschüsse für entwicklungspolitische Bildungsarbeit",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 60002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Frank Mühring",
+"funktion": "Präses",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006487/59466",
+"stand": "2026-07-14"
+}
+},
+{
+"name": "Dirk Heuer",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006487/59466",
+"stand": "2026-07-14"
+}
+},
+{
+"name": "Bridget Ben-Naimah",
+"funktion": "Vizepräses",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006487/59466",
+"stand": "2026-07-14"
+}
+},
+{
+"name": "Heike Jakubeit",
+"funktion": "Generalsekretärin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006487/59466",
+"stand": "2026-07-14"
+}
+},
+{
+"name": "Sarah Mumo",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006487/59466",
+"stand": "2026-07-14"
+}
+},
+{
+"name": "Antje  Wodtke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006487/59466",
+"stand": "2026-07-14"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 340001,
+"bis": 350000
+},
+"mitgliedsbeitraege": {
+"von": 720001,
+"bis": 730000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/59/77/812821/endgueltiger-Bericht-Pruefung-Jahresabschluss-2025-Norddeutsche-Missions-Gesellschaft-VOLLELEKTRONISCH.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006487/59466",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-14",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

@@ -1,0 +1,96 @@
+{
+"id": "bundesvereinigung-nachhaltigkeit",
+"name": "Bundesvereinigung Nachhaltigkeit e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://nachhaltigkeit.bvng.org/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000002",
+"eintrag_id": 83245,
+"version": 8,
+"stand": "2026-07-16",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000002/83245",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/45/09/814837/Lobbyregister-Registereintraege-Detailansicht-R000002-2026-07-16_16-06-58.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesagentur für Arbeit",
+"epl": "11",
+"von": 20001,
+"bis": 30000,
+"zweck": "Förderung der Eingliederung von Langzeitarbeitslosen (§ 16e SGB II)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 20001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Martin Wittau",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000002/83245",
+"stand": "2026-07-16"
+}
+},
+{
+"name": "Cosmas Dayak Kombat Lambini",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000002/83245",
+"stand": "2026-07-16"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/c6/55/814836/BVNG-Jahresabschluss-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000002/83245",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-16",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

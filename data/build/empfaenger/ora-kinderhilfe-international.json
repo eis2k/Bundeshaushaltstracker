@@ -1,0 +1,119 @@
+{
+"id": "ora-kinderhilfe-international",
+"name": "ora Kinderhilfe international e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.ora-kinderhilfe.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006205",
+"eintrag_id": 82805,
+"version": 9,
+"stand": "2026-07-16",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006205/82805",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/a0/3e/814422/Lobbyregister-Registereintraege-Detailansicht-R006205-2026-07-16_10-23-10.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 50001,
+"bis": 60000,
+"zweck": "Projekt: P7960 „Intervention für die Achtung der Rechte und die Verbesserung der Lebensbedingungen zugunsten benachteiligter Kinder in Burundi“",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 50001,
+"bis": 60000,
+"zweck": "Projekt: P8172 „Auf dem Weg zum Lernerfolg – Verbesserung der Schreib-, Lese- und Rechenfertigkeiten in Grundschulen im Distrikt Chikwawa, Malawi\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 40001,
+"bis": 50000,
+"zweck": "Projekt: P8279 „Bright Beginnings - Förderung frühkindlicher Entwicklung und Gesundheit von Mutter und Kind”",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 40001,
+"bis": 50000,
+"zweck": "Projekt: P8322 „Starke Jugend, starke Zukunft – Gesunde und aufgeklärte Jugend in Ghana“",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Stiftung Deutsches Hilfswerk",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "„Brücken in die Nachbarschaft“",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 200005,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Carmen Schöngraf",
+"funktion": "Geschäftsführender Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006205/82805",
+"stand": "2026-07-16"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 4210001,
+"bis": 4220000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/98/de/814421/ora_Jahresbericht_A4_2025_web.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006205/82805",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-16",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

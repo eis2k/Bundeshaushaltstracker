@@ -1,0 +1,129 @@
+{
+"id": "ionos-group",
+"name": "IONOS Group SE",
+"art": "unternehmen",
+"rechtsform": "Europäische Aktiengesellschaft (SE)",
+"sitz": "Montabaur",
+"website": "https://www.ionos-group.com/de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001939",
+"eintrag_id": 80289,
+"version": 35,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001939/80289",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/65/95/794004/Lobbyregister-Registereintraege-Detailansicht-R001939-2026-06-30_16-41-00.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 3420001,
+"bis": 3430000,
+"zweck": "Zuwendungen aus Mitteln des Bundesministeriums für Wirtschaft und Energie (BMWE) für Projekte auf Basis der Förderprogramme \"Innovative und praxisnahe Anwendungen und Datenräume im digitalen Ökosystem GAIA-X\" (Projekte HEALTH-X, TELLUS, MARISPACE-X, OpenGPT-X, POSSIBLE, MERLOT), \"Quanten-Computing - Anwendungen für die Wirtschaft\" (Projekt SeQuenC) sowie \"Cloud und Edge Infrastruktur und Services im Rahmen des IPCEI-CIS\" (Projekt IPCEI-CIS-IONOS).",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 3420001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Achim Weiß",
+"funktion": "Chief Executive Officer (CEO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001939/80289",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Jens Reich",
+"funktion": "Chief Commercial Officer (CCO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001939/80289",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Patrik Heider",
+"funktion": "Chief Financial Officer (CFO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001939/80289",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Markus Noga",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001939/80289",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Andreas Nauerz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001939/80289",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 110001,
+"bis": 120000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/26/96/793992/IONOS_Group_SE_Einzelabschluss_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001939/80289",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 35
+}
+]
+}

@@ -1,0 +1,236 @@
+{
+"id": "deutscher-naturschutzring-dachverband-der-deutschen-natur-ti",
+"name": "Deutscher Naturschutzring, Dachverband der deutschen Natur-, Tier- und Umweltschutzorganisationen (DNR) e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://www.dnr.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001103",
+"eintrag_id": 86778,
+"version": 33,
+"stand": "2026-09-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001103/86778",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/2a/ad/852409/Lobbyregister-Registereintraege-Detailansicht-R001103-2026-09-30_15-33-05.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Naturschutz",
+"epl": "16",
+"von": 1860001,
+"bis": 1870000,
+"zweck": "Institutionelle Förderung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1860001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Kai Niebert",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001103/86778",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Thomas  Schröder",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001103/86778",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Heike Vesper",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001103/86778",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Adrian Johst",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001103/86778",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Elena Hofmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001103/86778",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Birthe  März",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001103/86778",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Tobias Pforte-von Randow",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001103/86778",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Svenja Schünemann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001103/86778",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Florian  Schöne",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001103/86778",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Björn Pasemann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001103/86778",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Christina Stoldt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001103/86778",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Alexander Kräß",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-12"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001103/86778",
+"stand": "2026-09-30"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Alexander Kräß",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-12",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Alexander Kräß ist laut Lobbyregister Interessenvertretung bei Deutscher Naturschutzring, Dachverband der deutschen Natur-, Tier- und Umweltschutzorganisationen (DNR) e.V. und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-12. Deutscher Naturschutzring, Dachverband der deutschen Natur-, Tier- und Umweltschutzorganisationen (DNR) e.V. erhielt laut Lobbyregister Mittel von: Bundesamt für Naturschutz.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesamt für Naturschutz"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001103/86778",
+"stand": "2026-09-30"
+}
+],
+"stand": "2026-09-30"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 190001,
+"bis": 200000
+},
+"lobbyausgaben": {
+"von": 200001,
+"bis": 210000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/89/30/852406/2026_07_20-DNR-Jahresbericht-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001103/86778",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-30",
+"etikett": "Eigenangabe",
+"version": 33
+}
+]
+}

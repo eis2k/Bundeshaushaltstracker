@@ -1,0 +1,106 @@
+{
+"id": "mynaric",
+"name": "Mynaric AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "München",
+"website": "www.mynaric.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000165",
+"eintrag_id": 82158,
+"version": 9,
+"stand": "2026-07-02",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000165/82158",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/eb/7a/802465/Lobbyregister-Registereintraege-Detailansicht-R000165-2026-07-02_13-00-57.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für F&T",
+"epl": null,
+"von": 3990001,
+"bis": 4000000,
+"zweck": "Ko-Finanzierung von hochrisikobehaftete Entwicklungen im Rahmen des nationalen QuNET / QuNET Plus Programms; hierbei wird eine entsprechende Gegenleistung gegenüber dem Zuwendungsgeber in Form von technischen Entwicklungen bis hin zu physischen Komponenten / Geräten erbracht.",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 3990001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Markus Mannl",
+"funktion": "CFO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000165/82158",
+"stand": "2026-07-02"
+}
+},
+{
+"name": "Martin Haunschild",
+"funktion": "Business Development",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000165/82158",
+"stand": "2026-07-02"
+}
+},
+{
+"name": "Joachim Horwath",
+"funktion": "CTO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000165/82158",
+"stand": "2026-07-02"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/9e/32/802464/Mynaric_Annual_Report_2023_DE_FINAL.pdf",
+"geschaeftsjahr": "2023",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000165/82158",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-02",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

@@ -1,0 +1,108 @@
+{
+"id": "hacker-school",
+"name": "Hacker School gGmbH",
+"art": "verein_stiftung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Hamburg",
+"website": "www.hacker-school.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005984",
+"eintrag_id": 79035,
+"version": 7,
+"stand": "2026-06-23",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005984/79035",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/83/13/770768/Lobbyregister-Registereintraege-Detailansicht-R005984-2026-06-23_16-02-15.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMAS",
+"epl": "11",
+"von": 60001,
+"bis": 70000,
+"zweck": "Gemeinsames Forschungsprojekt mit der Hochschule für Medien Stuttgart zur Avatarisierung von Kurs-Inhalten der Hacker School.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 60001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Julia Freudenberg",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005984/79035",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Marie Matern",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005984/79035",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Eva Drechsler-Györkös",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005984/79035",
+"stand": "2026-06-23"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/b2/b3/770767/Digitaler-Jahresabschluss-Hacker-School-gGmbH-zum-31-12-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005984/79035",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-23",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

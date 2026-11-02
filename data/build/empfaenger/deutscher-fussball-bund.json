@@ -1,0 +1,182 @@
+{
+"id": "deutscher-fussball-bund",
+"name": "Deutscher Fußball-Bund",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Frankfurt am Main",
+"website": "www.dfb.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002938",
+"eintrag_id": 77708,
+"version": 24,
+"stand": "2026-06-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002938/77708",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/a1/bd/772024/Lobbyregister-Registereintraege-Detailansicht-R002938-2026-06-24_10-29-46.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesumweltministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+"epl": null,
+"von": 270001,
+"bis": 280000,
+"zweck": "„NKI: Klimaschutz im Amateurfußball\": Mit dem Projekt des Deutschen Fußball-Bunds (DFB) sollen Amateurvereine in Deutschland zu mehr Klimaschutz bewegt werden, Treibhausgasemissionen einsparen und damit zu einer klimafreundlichen Gestaltung des Amateurfußballs in Deutschland beitragen. Durch umfassende Projekt- und Kommunikationsmaßnahmen soll gemeinsam mit den Regional- und Landesverbänden des DFB eine langfristige Etablierung des Themas im Amateurfußball erreicht werden. Insbesondere Amateurvereine sollen für das Thema Nachhaltigkeit sensibilisiert werden, damit Klimaschutz auch auf und um den Fußballplatz stattfindet.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Beauftragte des Bundes für Migration, Flüchtlinge und Integration",
+"epl": null,
+"von": 860001,
+"bis": 870000,
+"zweck": "\"Projekt zur nachhaltigen und wirksamen Antirassisrnusalbeit im deutschen Amateurfußball\": Ziel des Projektes ist es, praxisnahe und bedarfsgerechte Maßnahmen gegen Rassismus im Amateurfußball zu entwickeln und zu erproben. Das Anti-Rassismus-Projekt im Amateurfußball basiert auf zwei Säulen: einer Mitmachaktion für Fans unter dem Motto \"Fußballzeit ist die beste Zeit gegen Rassismus\" sowie einem umfassenden Maßnahmenpaket für Amateurvereine.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1130002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Holger Blask",
+"funktion": "Generalsekretär",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002938/77708",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Bernd Neuendorf",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002938/77708",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Ronny Zimmermann",
+"funktion": "1. Vizepräsident Amateure",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002938/77708",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Hans-Joachim Watzke",
+"funktion": "1. Vizepräsident DFL",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002938/77708",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Stephan Grunwald",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002938/77708",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Oliver Leki",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002938/77708",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Christina Gassner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002938/77708",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Stefan Brost",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002938/77708",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Leonore Solms",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002938/77708",
+"stand": "2026-06-24"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 320001,
+"bis": 330000
+},
+"lobbyausgaben": {
+"von": 440001,
+"bis": 450000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/f8/46/772023/DFB-Finanzbericht_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002938/77708",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-24",
+"etikett": "Eigenangabe",
+"version": 24
+}
+]
+}

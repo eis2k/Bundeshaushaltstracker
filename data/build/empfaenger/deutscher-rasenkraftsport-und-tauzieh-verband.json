@@ -1,0 +1,119 @@
+{
+"id": "deutscher-rasenkraftsport-und-tauzieh-verband",
+"name": "Deutscher Rasenkraftsport- und Tauzieh-Verband e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Forbach",
+"website": "www.drtv.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003614",
+"eintrag_id": 61156,
+"version": 9,
+"stand": "2026-06-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003614/61156",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/a4/44/785017/Lobbyregister-Registereintraege-Detailansicht-R003614-2026-06-29_15-30-07.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundeskanzleramt",
+"epl": "04",
+"von": 560001,
+"bis": 570000,
+"zweck": "Spitzensportförderung des Bundes für die Jahresplanung und Leistungssportpersonal",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 560001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Helmut Metschl",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003614/61156",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Konstantin Steinfurth",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003614/61156",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Tobias Roßner",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003614/61156",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Corsin Wörner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003614/61156",
+"stand": "2026-06-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 10001,
+"bis": 20000
+},
+"lobbyausgaben": {
+"von": 250001,
+"bis": 260000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/df/11/785016/Abschluesse-und-Vermoegen-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003614/61156",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-29",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

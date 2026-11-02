@@ -1,0 +1,161 @@
+{
+"id": "raphaelswerk",
+"name": "Raphaelswerk e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Hamburg",
+"website": "www.raphaelswerk.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005493",
+"eintrag_id": 75563,
+"version": 5,
+"stand": "2026-06-09",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005493/75563",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ea/5d/753206/Lobbyregister-Registereintraege-Detailansicht-R005493-2026-06-09_10-24-56.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 140001,
+"bis": 150000,
+"zweck": "Bundeszentrale Koordinierung der gemeinnützigen Auswanderungsberatung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 20001,
+"bis": 30000,
+"zweck": "Multiplikatorenarbeit für die Beratung und Betreuung von ausländischen Flüchtlingen bei Rücküberstellung in das Erstaufnahmeland gemäß Dublin-Abkommen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 30001,
+"bis": 40000,
+"zweck": "Multiplikatorenarbeit für die Beratung und Betreuung von ausländischen Flüchtlingen bei Weiterwanderung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 60001,
+"bis": 70000,
+"zweck": "Ausbau der gemeinnützigen Rückkehrberatung für deutsche Rückkehrwillige - Verbundprojekt mit Beratungsstellen, daher auch Mittelweiterleitung an diese Kooperationspartner (Beratungsstellen)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Asyl-, Migrations- und Integrationsfond (AMIF)",
+"epl": null,
+"von": 160001,
+"bis": 170000,
+"zweck": "DiReturn - digital streetworking in der Rückkehrberatung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 410005,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Berthold Bonekamp",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005493/75563",
+"stand": "2026-06-09"
+}
+},
+{
+"name": "Birgit Klaissle-Walk",
+"funktion": "Generalsekretärin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005493/75563",
+"stand": "2026-06-09"
+}
+},
+{
+"name": "Rainer Böck",
+"funktion": "Stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005493/75563",
+"stand": "2026-06-09"
+}
+},
+{
+"name": "Gerhard Tepe",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005493/75563",
+"stand": "2026-06-09"
+}
+},
+{
+"name": "Lukas Schreiber",
+"funktion": "Schriftführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005493/75563",
+"stand": "2026-06-09"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/0b/7e/753205/JA-Raphaelswerk-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005493/75563",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-09",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

@@ -1,0 +1,119 @@
+{
+"id": "landvolk-northeim-osterode-kreisbauernverband",
+"name": "Landvolk Northeim-Osterode Kreisbauernverband e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Einbeck",
+"website": "www.landvolk-nom-oha.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006829",
+"eintrag_id": 64438,
+"version": 2,
+"stand": "2025-12-10",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006829/64438",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/72/96/652672/Lobbyregister-Registereintraege-Detailansicht-R006829-2025-12-10_12-51-48.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BfN - Bundesamt für Naturschutz",
+"epl": "16",
+"von": 40001,
+"bis": 50000,
+"zweck": "Kooperativ Verbund-Projekt / wissenschaftliche Untersuchungen durch Universitäten Göttingen und Rostock Partizipatives Projekt zu ökologischer Wirkung, Wirtschaftlichkeit und Governance von kooperativen Agrarumweltmaßnahmen",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 40001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Claus Hartmann",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006829/64438",
+"stand": "2025-12-10"
+}
+},
+{
+"name": "Henning Meyer",
+"funktion": "stellv. Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006829/64438",
+"stand": "2025-12-10"
+}
+},
+{
+"name": "Manuel Bartens",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006829/64438",
+"stand": "2025-12-10"
+}
+},
+{
+"name": "Gerhard Rudolph",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006829/64438",
+"stand": "2025-12-10"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 440001,
+"bis": 450000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/55/ca/652671/20250827_20250620_Jahresabschluss_2024_Lobbyregister.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006829/64438",
+"abgerufen": "2026-11-02",
+"stand": "2025-12-10",
+"etikett": "Eigenangabe",
+"version": 2
+}
+]
+}

@@ -1,0 +1,96 @@
+{
+"id": "fev-europe",
+"name": "FEV Europe GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Aachen",
+"website": "https://www.fev.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004492",
+"eintrag_id": 83954,
+"version": 7,
+"stand": "2026-07-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004492/83954",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/bc/f7/822966/Lobbyregister-Registereintraege-Detailansicht-R004492-2026-07-30_14-33-17.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 260001,
+"bis": 270000,
+"zweck": "BIFOILSTACK, https://www.fev.com/en/fev-develops-sustainable-fuel-cell-propulsion-for-future-aviation/ Zuwendung bezieht sich auf die Jahre 2021 bis 2025.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 260001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Dimos Gatidis",
+"funktion": "Head of Government Relations (E-RI)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004492/83954",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Christof Schernus",
+"funktion": "Vice President Research & Innovation",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004492/83954",
+"stand": "2026-07-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/87/1b/822964/FEV-Group-GmbH_-Testat-JAP-_2025-2024.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004492/83954",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-30",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

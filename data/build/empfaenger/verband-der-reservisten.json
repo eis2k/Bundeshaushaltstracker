@@ -1,0 +1,350 @@
+{
+"id": "verband-der-reservisten",
+"name": "Verband der Reservisten der Deutschen Bundeswehr e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.reservistenverband.de",
+"stand": "2026-11-02",
+"geprueft": true,
+"lobbyregister": {
+"nummer": "R003325",
+"eintrag_id": 75196,
+"version": 10,
+"stand": "2026-06-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003325/75196",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/0f/24/773220/Lobbyregister-Registereintraege-Detailansicht-R003325-2026-06-24_13-40-36.pdf"
+},
+"haushalt": {
+"titel": [
+{
+"id": "14-1403-68501",
+"text": "Zuschuss an den Verband der Reservisten der Deutschen Bundeswehr e. V.\"\"",
+"epl": "14",
+"epl_text": "Bundesministerium der Verteidigung",
+"werte": {
+"2015": {
+"soll": 16648000,
+"ist": 15667000
+},
+"2016": {
+"soll": 17769000,
+"ist": 16540000
+},
+"2017": {
+"soll": 17511000,
+"ist": 16995000
+},
+"2018": {
+"soll": 17339000,
+"ist": 16777152
+},
+"2019": {
+"soll": 18129000,
+"ist": 17707495
+},
+"2020": {
+"soll": 18129000,
+"ist": 17810000
+},
+"2021": {
+"soll": 18900000,
+"ist": 17171875
+},
+"2022": {
+"soll": 22513000,
+"ist": 19804046
+},
+"2023": {
+"soll": 24600000,
+"ist": 20757905
+},
+"2024": {
+"soll": 26431000,
+"ist": 24306500
+},
+"2025": {
+"soll": 24766000,
+"ist": 22080000
+},
+"2026": {
+"soll": 26000000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium der Verteidigung (BMVg)",
+"epl": "14",
+"von": 24300001,
+"bis": 24310000,
+"zweck": "Der Reservistenverband ist der besonders Beauftragte für die Durchführung der Aufgaben der Reservistenarbeit außerhalb der Bundeswehr. Deshalb erhält der Reservistenverband durch das BMVg jährlich aus dem Einzelplan 14 des Bundeshaushalts eine institutionelle Förderung im Rahmen des Zuwendungszwecks in Form einer Fehlbedarfsfinanzierung.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 24300001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Bastian Ernst",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003325/75196",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Esra Limbacher",
+"funktion": "Stellvertreter des Präsidenten",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003325/75196",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Christoph Max vom Hagen",
+"funktion": "Bundesgeschäftsführer als besonderer Vertreter i.S. d. § 30 BGB",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003325/75196",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Nana Baidoo",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003325/75196",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Sascha Rahn",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003325/75196",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Uwe Nerger",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003325/75196",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Manfred Schreiber",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003325/75196",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Albert Stumm",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003325/75196",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Gerald Joswowitz",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003325/75196",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Ralph René Edelhäußer",
+"funktion": "Stellvertreter des Präsidenten",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003325/75196",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Michael Nebel",
+"funktion": "Bundesschatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003325/75196",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Sascha Roman Petar Vugrin",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003325/75196",
+"stand": "2026-06-24"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Bastian Ernst",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag",
+"funktion_beim_empfaenger": "Präsident",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Bastian Ernst ist laut Lobbyregister Präsident bei Verband der Reservisten der Deutschen Bundeswehr e. V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag. Verband der Reservisten der Deutschen Bundeswehr e. V. erhielt laut Lobbyregister Mittel von: Bundesministerium der Verteidigung (BMVg).",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium der Verteidigung (BMVg)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003325/75196",
+"stand": "2026-06-24"
+}
+],
+"stand": "2026-06-24"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Esra Limbacher",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag",
+"funktion_beim_empfaenger": "Stellvertreter des Präsidenten",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Esra Limbacher ist laut Lobbyregister Stellvertreter des Präsidenten bei Verband der Reservisten der Deutschen Bundeswehr e. V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag. Verband der Reservisten der Deutschen Bundeswehr e. V. erhielt laut Lobbyregister Mittel von: Bundesministerium der Verteidigung (BMVg).",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium der Verteidigung (BMVg)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003325/75196",
+"stand": "2026-06-24"
+}
+],
+"stand": "2026-06-24"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Ralph René Edelhäußer",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag",
+"funktion_beim_empfaenger": "Stellvertreter des Präsidenten",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Ralph René Edelhäußer ist laut Lobbyregister Stellvertreter des Präsidenten bei Verband der Reservisten der Deutschen Bundeswehr e. V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag. Verband der Reservisten der Deutschen Bundeswehr e. V. erhielt laut Lobbyregister Mittel von: Bundesministerium der Verteidigung (BMVg).",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium der Verteidigung (BMVg)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003325/75196",
+"stand": "2026-06-24"
+}
+],
+"stand": "2026-06-24"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 50001,
+"bis": 60000
+},
+"mitgliedsbeitraege": {
+"von": 3090001,
+"bis": 3100000
+},
+"lobbyausgaben": {
+"von": 60001,
+"bis": 70000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/49/2f/773218/VdRBw-Sachbericht-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003325/75196",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-24",
+"etikett": "Eigenangabe",
+"version": 10
+},
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

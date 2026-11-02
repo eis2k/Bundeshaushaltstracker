@@ -1,0 +1,141 @@
+{
+"id": "deutsche-gesellschaft-fuer-ernaehrungsmedizin",
+"name": "Deutsche Gesellschaft für Ernährungsmedizin e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.dgem.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000258",
+"eintrag_id": 78443,
+"version": 6,
+"stand": "2026-07-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000258/78443",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/be/ef/799017/Lobbyregister-Registereintraege-Detailansicht-R000258-2026-07-01_11-43-52.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Gemeinsamer Bundesausschuss Innovationsausschuss",
+"epl": null,
+"von": 60001,
+"bis": 70000,
+"zweck": "Projektförderung von Versorgungsforschung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 60001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jürgen Bauer",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000258/78443",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Gert Bischoff",
+"funktion": "1. Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000258/78443",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Diana Rubin",
+"funktion": "Schatzmeisterin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000258/78443",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Sina Christian",
+"funktion": "2. Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000258/78443",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Dresen Ellen",
+"funktion": "Schriftführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000258/78443",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Matthias Pirlich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000258/78443",
+"stand": "2026-07-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 20001,
+"bis": 30000
+},
+"mitgliedsbeitraege": {
+"von": 290001,
+"bis": 300000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/43/90/799012/EUe-Rechnung-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000258/78443",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-01",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

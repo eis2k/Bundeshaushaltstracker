@@ -1,0 +1,153 @@
+{
+"id": "rewilding-oder-delta",
+"name": "Rewilding Oder Delta",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Rothenklempenow",
+"website": "www.rewilding-oder-delta.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005401",
+"eintrag_id": 70429,
+"version": 6,
+"stand": "2026-01-05",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005401/70429",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/47/0d/678003/Lobbyregister-Registereintraege-Detailansicht-R005401-2026-01-05_14-27-16.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 180001,
+"bis": 190000,
+"zweck": "Zuwendung aus dem Bundeshaushalt für das Vorhaben BiodiWert II Erhaltung von Biodiversität und Inwertsetzung von Ökosystemleistungen durch Rewilding \"Vom Oderdelta lernen (REWILD_DE 2) Stakeholder Dialog\"",
+"geschaeftsjahr": "2023"
+}
+],
+"lobby_untergrenze_bund": 180001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Peter Torkler",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005401/70429",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Stefan Schwill",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005401/70429",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Piotr Nieznanski",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005401/70429",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Ulrich Stöcker",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005401/70429",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Frauke Bennett",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005401/70429",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Jonathan Rauhut",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005401/70429",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Frank Götz-Schlingmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005401/70429",
+"stand": "2026-01-05"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 60001,
+"bis": 70000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 50001,
+"bis": 60000
+},
+"geschaeftsjahr": "2023",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/fe/74/677985/2023_Bilanz_GuV_AV.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005401/70429",
+"abgerufen": "2026-11-02",
+"stand": "2026-01-05",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

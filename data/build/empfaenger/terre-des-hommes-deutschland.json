@@ -1,0 +1,291 @@
+{
+"id": "terre-des-hommes-deutschland",
+"name": "Terre des Hommes Deutschland e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Osnabrück",
+"website": "www.tdh.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002091",
+"eintrag_id": 83137,
+"version": 27,
+"stand": "2026-10-16",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002091/83137",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/cd/a5/862518/Lobbyregister-Registereintraege-Detailansicht-R002091-2026-10-16_15-13-18.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 11740001,
+"bis": 11750000,
+"zweck": "Terre des Hommes Deutschland e.V. setzt mit finanzieller Unterstützung des Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung Projekte in u.a. Indien, Nepal, Peru, Brasilien, Kolumbien, Nepal, Philippinen, Thailand, Burkina Faso, Mosambik, Kenia und Simbabwe um.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 3520001,
+"bis": 3530000,
+"zweck": "Humanitäre Hilfe",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Migration und Flüchtlinge",
+"epl": "06",
+"von": 220001,
+"bis": 230000,
+"zweck": "Projekt zur Unterstützung von unbegleiteten Minderjährigen in Deutschland",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Gesellschaft für Internationale Zusammenarbeit GmbH",
+"epl": "23",
+"von": 20001,
+"bis": 30000,
+"zweck": "Unterstützung eines Projekts zu den globalen Chancen und Herausforderungen zivilgesellschaftlicher Organisationen bei der Förderung und Unterstützung von Kindern und Jugendlichen mit LGBTQ+-Identität.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Bundesstiftung Umwelt",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Unterstützung eines Projekts zur Förderung wirtschaftlicher Chancen und sozialer Teilhabe von benachteiligten Jugendlichen in Burkina Faso im Bereich der erneuerbaren Energien.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 15510005,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Beat Wehrle",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002091/83137",
+"stand": "2026-10-16"
+}
+},
+{
+"name": "Larisa Machemer",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002091/83137",
+"stand": "2026-10-16"
+}
+},
+{
+"name": "Joshua Hofert",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002091/83137",
+"stand": "2026-10-16"
+}
+},
+{
+"name": "Thomas Berthold",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002091/83137",
+"stand": "2026-10-16"
+}
+},
+{
+"name": "Olivier Philippe Moliner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-05"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002091/83137",
+"stand": "2026-10-16"
+}
+},
+{
+"name": "Ralf Willinger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002091/83137",
+"stand": "2026-10-16"
+}
+},
+{
+"name": "Jonas Schubert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002091/83137",
+"stand": "2026-10-16"
+}
+},
+{
+"name": "Teresa Wilmes",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002091/83137",
+"stand": "2026-10-16"
+}
+},
+{
+"name": "Annika Schlingheider",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002091/83137",
+"stand": "2026-10-16"
+}
+},
+{
+"name": "Anna Weber",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-10"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002091/83137",
+"stand": "2026-10-16"
+}
+},
+{
+"name": "Esther Yungsung Lisa  Rüden",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002091/83137",
+"stand": "2026-10-16"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Olivier Philippe Moliner",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-05",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Olivier Philippe Moliner ist laut Lobbyregister Interessenvertretung bei Terre des Hommes Deutschland e.V. und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-05. Terre des Hommes Deutschland e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung; Auswärtiges Amt; Bundesamt für Migration und Flüchtlinge; Deutsche Gesellschaft für Internationale Zusammenarbeit GmbH; Deutsche Bundesstiftung Umwelt.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"Auswärtiges Amt",
+"Bundesamt für Migration und Flüchtlinge",
+"Deutsche Gesellschaft für Internationale Zusammenarbeit GmbH",
+"Deutsche Bundesstiftung Umwelt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002091/83137",
+"stand": "2026-10-16"
+}
+],
+"stand": "2026-10-16"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Anna Weber",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-10",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Anna Weber ist laut Lobbyregister Interessenvertretung bei Terre des Hommes Deutschland e.V. und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-10. Terre des Hommes Deutschland e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung; Auswärtiges Amt; Bundesamt für Migration und Flüchtlinge; Deutsche Gesellschaft für Internationale Zusammenarbeit GmbH; Deutsche Bundesstiftung Umwelt.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"Auswärtiges Amt",
+"Bundesamt für Migration und Flüchtlinge",
+"Deutsche Gesellschaft für Internationale Zusammenarbeit GmbH",
+"Deutsche Bundesstiftung Umwelt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002091/83137",
+"stand": "2026-10-16"
+}
+],
+"stand": "2026-10-16"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 23690001,
+"bis": 23700000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 240001,
+"bis": 250000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/56/bf/862511/TDH_Jahresbericht_2025_web.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002091/83137",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-16",
+"etikett": "Eigenangabe",
+"version": 27
+}
+]
+}

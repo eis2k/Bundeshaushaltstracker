@@ -1,0 +1,84 @@
+{
+"id": "enapter",
+"name": "Enapter GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Saerbeck",
+"website": "www.enapter.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007113",
+"eintrag_id": 62037,
+"version": 2,
+"stand": "2025-07-15",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007113/62037",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/e7/1b/584702/Lobbyregister-Registereintraege-Detailansicht-R007113-2025-07-15_10-38-58.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministeriums für Bildung und Forschung",
+"epl": null,
+"von": 1140001,
+"bis": 1150000,
+"zweck": "Zuwendung für in 2022 und 2023 erbrachten Aufwand für HY-Core-Projekt (Personalkosten, Sachkosten, Investitionen, Dienstleistungen und Reisekosten). Dies beinhaltet die Entwicklung, das Design und der Bau des ersten AEM-Elektrolyseurs der Megawattklasse.",
+"geschaeftsjahr": "2023"
+}
+],
+"lobby_untergrenze_bund": 1140001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Philip Hainbach",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007113/62037",
+"stand": "2025-07-15"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2023",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/5a/90/584701/2024-04-30-Enapter-AG_Jahresabschluss-2023.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007113/62037",
+"abgerufen": "2026-11-02",
+"stand": "2025-07-15",
+"etikett": "Eigenangabe",
+"version": 2
+}
+]
+}

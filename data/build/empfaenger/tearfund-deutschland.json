@@ -1,0 +1,93 @@
+{
+"id": "tearfund-deutschland",
+"name": "Tearfund Deutschland e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.tearfund.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004349",
+"eintrag_id": 79094,
+"version": 11,
+"stand": "2026-06-15",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004349/79094",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/59/4e/758378/Lobbyregister-Registereintraege-Detailansicht-R004349-2026-06-15_10-55-19.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMZ",
+"epl": "23",
+"von": 1680001,
+"bis": 1690000,
+"zweck": "Umsetzung von Projekten in der Entwicklungszusammenarbeit",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 500001,
+"bis": 510000,
+"zweck": "Öffentliche Fördermittel",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 2180002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Uwe Heimowski",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004349/79094",
+"stand": "2026-06-15"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1080001,
+"bis": 1090000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/8e/2f/758377/2023-Tearfund-Deutschland-Jahresabschluss-mit-Bestaetigungsvermerk_signiert.pdf",
+"geschaeftsjahr": "2023",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004349/79094",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-15",
+"etikett": "Eigenangabe",
+"version": 11
+}
+]
+}

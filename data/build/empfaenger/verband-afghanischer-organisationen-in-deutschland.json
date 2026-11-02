@@ -1,0 +1,148 @@
+{
+"id": "verband-afghanischer-organisationen-in-deutschland",
+"name": "Verband afghanischer Organisationen in Deutschland",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.vafo.ngo",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007356",
+"eintrag_id": 77982,
+"version": 5,
+"stand": "2026-08-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007356/77982",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/a2/e4/825203/Lobbyregister-Registereintraege-Detailansicht-R007356-2026-08-03_17-00-11.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Migration und Flüchtlinge (BAMF)",
+"epl": "06",
+"von": 110001,
+"bis": 120000,
+"zweck": "Im Rahmen der Strukturförderung für Migrant:innenselbstorganisationen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Migration und Flüchtlinge (BAMF)",
+"epl": "06",
+"von": 320001,
+"bis": 330000,
+"zweck": "Im Rahmen des HamWatan Projektes",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 430002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Mine Nang",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007356/77982",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Kefajat Hamidi",
+"funktion": "Stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007356/77982",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Yahya Wardak",
+"funktion": "Stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007356/77982",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Mitra Hashemi",
+"funktion": "Schatzmeisterin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007356/77982",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Negina Sana",
+"funktion": "Schriftführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007356/77982",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Malik Bromand",
+"funktion": "Stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007356/77982",
+"stand": "2026-08-03"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 40001,
+"bis": 50000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/55/8a/825201/EUeR-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007356/77982",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-03",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

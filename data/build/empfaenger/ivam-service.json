@@ -1,0 +1,93 @@
+{
+"id": "ivam-service",
+"name": "IVAM Service GmbH",
+"art": "verein_stiftung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Dortmund",
+"website": "www.ivam.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006750",
+"eintrag_id": 86686,
+"version": 5,
+"stand": "2026-10-13",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006750/86686",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f8/86/860443/Lobbyregister-Registereintraege-Detailansicht-R006750-2026-10-13_10-01-07.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "ESF Plus Bundesprogramm",
+"epl": null,
+"von": 30001,
+"bis": 40000,
+"zweck": "Das Projekt (MIND - Mikrotechnik, Interaktion, Neue Perspektiven zur Diversität) ist grundsätzlich an alle Beschäftigten in den teilnehmenden Unternehmen der Mikrotechnikbranche gerichtet, da für ein diversitätssensibles Arbeitsumfeld die Beteiligung, Sensibilisierung und Qualifizierung aller Personen relevant ist. Da es jedoch spezifische Zielgruppen gibt, deren Berücksichtigung und Förderung sich innerhalb von Unternehmen oft als nicht ausreichend gestaltet, werden Insbesondere Angebote für Frauen und Ang. marg. Grup. entwickelt, z. B. hinsichtlich Empowerment, Entdecken eigener Stärken und Erhöhung der Selbstwirksamkeit. So wird auf der einen Seite die gesamte Belegschaft für Themen der Diversität sensibilisiert, sowie auf der anderen Seite das Standing und die Potenziale der spezifischen Zielgruppen in den Unternehmen gestärkt. Darüber hinaus werden GF und HR zur Umsetzung von kulturentwickelnden Maßnahmen auf organisationaler Ebene angeregt und befähigt.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "VDE/VDI",
+"epl": null,
+"von": 50001,
+"bis": 60000,
+"zweck": "Das Ziel des Projekts \"skills4chips\" (s4c) / MicroTech Academy ist der Aufbau einer nationalen Bildungsakademie für die ME und MST, um mit innovativen Konzepten auf die Herausforderungen des wachsenden Fachkräftebedarfs in der ME und MST sowie die damit verbundenen Veränderungen am Arbeitsmarkt zu reagieren. Die Akademie bündelt Angebote entlang der gesamten Bildungskette von der Berufsorientierung über die duale Ausbildung, den Quereinstieg sowie die Fort- und Weiterbildung und macht sie möglichst vielen potenziellen Nutzer*innen zugänglich.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 80002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Tim Merforth",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006750/86686",
+"stand": "2026-10-13"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/92/28/860442/IVAM-Service-GmbH_Jahresabschluss_20251231.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006750/86686",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-13",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

@@ -1,0 +1,128 @@
+{
+"id": "diakonie-katastrophenhilfe-evangelisches-werk-fuer-diakonie",
+"name": "Diakonie Katastrophenhilfe, Evangelisches Werk für Diakonie und Entwicklung e.V.",
+"art": "kirche_wohlfahrt",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.diakonie-katastrophenhilfe.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001405",
+"eintrag_id": 82757,
+"version": 18,
+"stand": "2026-07-08",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001405/82757",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/97/c6/809178/Lobbyregister-Registereintraege-Detailansicht-R001405-2026-07-08_16-32-45.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 9820001,
+"bis": 9830000,
+"zweck": "Zuwendungen aus dem Haushaltstitel \"Humanitäre Hilfe im Ausland\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 2240001,
+"bis": 2250000,
+"zweck": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung: Haushaltstitel 68706 Krisenbewältigung und Wiederaufbau, Infrastruktur (strukturbildende Übergangshilfe, bisher „entwicklungsorientierte Struktur- und Übergangshilfe“)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 12060002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Dagmar Pruin",
+"funktion": "Präsidentin der Diakonie Katastrophenhilfe",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001405/82757",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Jörg Kruttschnitt",
+"funktion": "Vorstand Finanzen, Personal und Recht",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001405/82757",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Martin Keßler",
+"funktion": "Direktor Diakonie Katastrophenhilfe ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001405/82757",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Alexander Niessen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001405/82757",
+"stand": "2026-07-08"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Sonstiges",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 34350001,
+"bis": 34360000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 50001,
+"bis": 60000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/0b/ca/809177/DKH_JB_2025_web_2026_de-1.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001405/82757",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-08",
+"etikett": "Eigenangabe",
+"version": 18
+}
+]
+}

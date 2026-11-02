@@ -1,0 +1,399 @@
+{
+"id": "plan-international-deutschland",
+"name": "Plan International Deutschland e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Hamburg",
+"website": "www.plan.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002731",
+"eintrag_id": 87735,
+"version": 25,
+"stand": "2026-10-19",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002731/87735",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f0/4a/863072/Lobbyregister-Registereintraege-Detailansicht-R002731-2026-10-19_12-09-04.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 14870001,
+"bis": 14880000,
+"zweck": "Förderung für Projekte der Nothilfe, Übergangshilfe und Entwicklungszusammenarbeit (Referate S07 und S09)",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 4170001,
+"bis": 4180000,
+"zweck": "Förderung für entwicklungspolitische Projekte aus der Haushaltslinie Private Träger",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 90001,
+"bis": 100000,
+"zweck": "Förderung für Projekte aus Mitteln der Sonderinitiativen",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 8620001,
+"bis": 8630000,
+"zweck": "Förderung für Projekte im Rahmen der Übergangshilfe",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Deutsche Gesellschaft für Internationale Zusammenarbeit GmbH",
+"epl": "23",
+"von": 1250001,
+"bis": 1260000,
+"zweck": "Förderung für Projekte der Entwicklungszusammenarbeit",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Kreditanstalt für Wiederaufbau",
+"epl": null,
+"von": 970001,
+"bis": 980000,
+"zweck": "Förderung für Projekte der Entwicklungszusammenarbeit",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "PATRIP Foundation",
+"epl": null,
+"von": 370001,
+"bis": 380000,
+"zweck": "Förderung entwicklungspolitischer Projektarbeit",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 30340007,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Petra Susanne Berner",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002731/87735",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Frank Thomsen",
+"funktion": "Vorstand Produkte",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002731/87735",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Mustafa Özen",
+"funktion": "Vorstand Finanzen",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002731/87735",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Bastian Borregaard",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002731/87735",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Rüdiger Schöch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002731/87735",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Katharina Witkowski",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002731/87735",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Lara Biel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002731/87735",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Katharina Küsters",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002731/87735",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Alexandra Tschacher",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002731/87735",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Lara Müller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002731/87735",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Mika Pia Louisa Jartwig",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002731/87735",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Paula Janßen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002731/87735",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Romance Bassingha",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002731/87735",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Charlotte Kneffel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002731/87735",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Greta Uhlich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002731/87735",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Nathan Annalena Rieger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002731/87735",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Sabine Grüngreiff",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002731/87735",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Sascha Balasko",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002731/87735",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Marvin Mc Neil",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002731/87735",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Joshua Spieker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002731/87735",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Elisabeth Falke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002731/87735",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Vithya Wijayaratnam",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002731/87735",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Frida Petersen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002731/87735",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Justus Schneider",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002731/87735",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Marcel Georg Dreibholz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002731/87735",
+"stand": "2026-10-19"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Sonstiges",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 162590001,
+"bis": 162600000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 510001,
+"bis": 520000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/97/87/863071/Plan_Jahresbericht_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002731/87735",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-19",
+"etikett": "Eigenangabe",
+"version": 25
+}
+]
+}

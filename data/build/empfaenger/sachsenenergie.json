@@ -1,0 +1,181 @@
+{
+"id": "sachsenenergie",
+"name": "SachsenEnergie AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Dresden",
+"website": "https://www.sachsenenergie.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005643",
+"eintrag_id": 79698,
+"version": 5,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005643/79698",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/29/ec/796317/Lobbyregister-Registereintraege-Detailansicht-R005643-2026-06-30_19-23-00.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen (BMWSB)",
+"epl": "25",
+"von": 290001,
+"bis": 300000,
+"zweck": "Fördermittel aus dem Modellprojekt „Smart Cities“",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 4240001,
+"bis": 4250000,
+"zweck": "Fördermittel für die Entwicklung von Kältespeichern",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 4530002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Frank Brinkmann",
+"funktion": "Vorsitzender des Vorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005643/79698",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Axel Cunow",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005643/79698",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Lars Seiffert",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005643/79698",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Konrad Schütze-Hemingway",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005643/79698",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Ermal Ndini",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005643/79698",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Kathleen Kollewe",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005643/79698",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "abgeordneter_funktion",
+"person": "Thomas Ladzinski",
+"funktion_person": "MdB, AfD",
+"funktion_beim_empfaenger": "Mitglied des Aufsichtsrates, ehrenamtlich",
+"kategorie": "Funktionen in Unternehmen",
+"abgleich": "exakt",
+"satz": "Thomas Ladzinski (MdB, AfD) ist laut bundestag.de Mitglied des Aufsichtsrates, ehrenamtlich bei SachsenEnergie AG. Ausschüsse und Gremien im Bundestag laut bundestag.de: Haushaltsausschuss; Verteidigungsausschuss; Ausschuss für Digitales und Staatsmodernisierung; Unterausschuss Rüstungs- und Proliferationskontrolle, Nichtverbreitung und internationale Abrüstung. SachsenEnergie AG erhielt laut Lobbyregister Mittel von: Bundesamt für Wirtschaft und Ausfuhrkontrolle; Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen (BMWSB).",
+"ausschuesse": [
+"Haushaltsausschuss",
+"Verteidigungsausschuss",
+"Ausschuss für Digitales und Staatsmodernisierung",
+"Unterausschuss Rüstungs- und Proliferationskontrolle, Nichtverbreitung und internationale Abrüstung"
+],
+"geld_aus": [
+"Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen (BMWSB)"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/L/ladzinski_thomas-1045706",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 330001,
+"bis": 340000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/94/a3/796315/Jahresabschluss-SE-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005643/79698",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 5
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/L/ladzinski_thomas-1045706",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

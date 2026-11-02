@@ -1,0 +1,108 @@
+{
+"id": "landessportbund-thueringen",
+"name": "Landessportbund Thüringen e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Erfurt",
+"website": "www.thueringen-sport.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004963",
+"eintrag_id": 81133,
+"version": 7,
+"stand": "2026-06-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004963/81133",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/fb/dc/785992/Lobbyregister-Registereintraege-Detailansicht-R004963-2026-06-29_16-48-47.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bund",
+"epl": "60",
+"von": 4310001,
+"bis": 4320000,
+"zweck": "- Projektförderung Sport zeigt Gesicht - Förderungen DOSB für Projekte - Integration durch Sport - Sieger-Chance DOSB - Engagementförderung KJP DOSB - Engagementförderung Dialogformat Demokratie DOSB - JVA 215025 Flexifonds 01 DOSB - Move für all DOSB - Förderung OSP für Trainerfinanzierung und Trainingsstättenförderung - Förderung BMI für Trainer/Verbände - OSP Thüringen Betrieb 2025 BVA - Förderung der Thüringer Sportjugend für Freiwilligendienst",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 4310001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Thomas Zirkel",
+"funktion": "Hauptgeschäftsführer - vertretungsberechtigter Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004963/81133",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Nadin Czogalla",
+"funktion": "Geschäftsführerin Vereinsentwicklung und Ehrenamt",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004963/81133",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Bernd Neudert",
+"funktion": "Geschäftsführer Leistungssport und Leiter des OSP Thüringen - vertretungsberechtigter Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004963/81133",
+"stand": "2026-06-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1960001,
+"bis": 1970000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/02/c0/785991/Pruefbericht-JA-31-12-2025-LSB-Thueringen-e-V.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004963/81133",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-29",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

@@ -1,0 +1,160 @@
+{
+"id": "bundesverband-trans",
+"name": "Bundesverband Trans* e.V. (BVT)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.bv-trans.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001715",
+"eintrag_id": 88169,
+"version": 15,
+"stand": "2026-10-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001715/88169",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/18/fb/866870/Lobbyregister-Registereintraege-Detailansicht-R001715-2026-10-29_13-24-17.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "\"Demokratie leben!\" - Bundesprogramm des Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"epl": null,
+"von": 590001,
+"bis": 600000,
+"zweck": "Zuwendung im Rahmen des Bundesprogramms des Bundesministerium für Familie, Senioren, Frauen und Jugend \"Demokratie leben!\" als Teil des Projektes \"Kompetenznetzwerkes zum Abbau von Homosexuellen- und Transfeindlichkeit / BVT*. Für die Akzeptanz von sexueller und geschlechtlicher Selbstbestimmung und Vielfalt!\".",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "\"Demokratie leben!\" - Bundesprogramm des Bundesministerium für Familie, Senioren, Frauen und Jugend über Weiterleitungsvertrag IDZ Jena",
+"epl": null,
+"von": 30001,
+"bis": 40000,
+"zweck": "Projekt Trans*feindlichkeit: Kontexte, aktuelle Dynamiken und Auswirkungen Weiterleitungsvertrag des Institut für Demokratie und Zivilgesellschaft in Trägerschaft der Amadeu Antonio Stiftung, Jena",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 620002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Robin Osterkamp",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001715/88169",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Patricia Pederzani",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001715/88169",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Markus Marielle Hirtz",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001715/88169",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Frank Krüger",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001715/88169",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Chris Philipps",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001715/88169",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Kalle Hümpfner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001715/88169",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Mari Günther",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001715/88169",
+"stand": "2026-10-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 200001,
+"bis": 210000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/12/f3/866869/Tatigkeitsbericht_2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001715/88169",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-29",
+"etikett": "Eigenangabe",
+"version": 15
+}
+]
+}

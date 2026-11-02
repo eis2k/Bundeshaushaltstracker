@@ -1,0 +1,96 @@
+{
+"id": "stadtwerke-energie-jena-poessneck",
+"name": "Stadtwerke Energie Jena-Pößneck GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Jena",
+"website": "www.stadtwerke-jena.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006651",
+"eintrag_id": 78197,
+"version": 6,
+"stand": "2026-06-08",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006651/78197",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/91/31/752824/Lobbyregister-Registereintraege-Detailansicht-R006651-2026-06-08_17-11-05.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 130001,
+"bis": 140000,
+"zweck": "Förderung Reallabor der Energiewende",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 130001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Claudia Erika Budich",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006651/78197",
+"stand": "2026-06-08"
+}
+},
+{
+"name": "André Sack",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006651/78197",
+"stand": "2026-06-08"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 130001,
+"bis": 140000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e0/dd/752823/SWEJ-Testat-final.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006651/78197",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-08",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

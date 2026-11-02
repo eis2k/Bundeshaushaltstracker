@@ -1,0 +1,60 @@
+{
+"id": "beteiligung-des-bundes-an-der-stiftung-anerkennung-und-hilfe",
+"name": "Beteiligung des Bundes an der Stiftung Anerkennung und Hilfe",
+"art": "verein_stiftung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "11-1110-68501",
+"text": "Beteiligung des Bundes an der Stiftung Anerkennung und Hilfe",
+"epl": "11",
+"epl_text": "Bundesministerium für Arbeit und Soziales",
+"werte": {
+"2018": {
+"soll": 19828000,
+"ist": 19828000
+},
+"2019": {
+"soll": 33047000,
+"ist": 33046748
+},
+"2020": {
+"soll": 19829000,
+"ist": 19828030
+},
+"2021": {
+"soll": 18411000,
+"ist": 18410511
+},
+"2022": {
+"soll": 7314000,
+"ist": 0
+},
+"2023": {
+"soll": 577000,
+"ist": 0
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

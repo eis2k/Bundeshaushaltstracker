@@ -1,0 +1,188 @@
+{
+"id": "bayernwerk",
+"name": "Bayernwerk AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Regensburg",
+"website": "https://www.bayernwerk.de/de.html",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002130",
+"eintrag_id": 83681,
+"version": 14,
+"stand": "2026-07-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002130/83681",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/94/5b/819594/Lobbyregister-Registereintraege-Detailansicht-R002130-2026-07-24_11-15-46.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "Forschungsförderung für Sach- und Personalkosten im Bereich der E-Mobilität - Projekt unit-e²",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 420001,
+"bis": 430000,
+"zweck": "BDLnext Projekt: Überführung bidirektionaler Ladelösungen für Elektrofahrzeuge in den massentauglichen Realbetrieb durch die Weiterentwicklung technischer Ansätze, die Verzahnung rückspeisefähiger Fahrzeuge mit energiewirtschaftlichen Prozessen sowie das Schließen technischer, rechtlicher und prozessualer Marktlücken zur nachhaltigen Integration in das Energiesystem.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 130001,
+"bis": 140000,
+"zweck": "NExtSTeP: Network Monitoring Extension for Smart Technology Planning, Teilvorhaben: Aufbau der Teststrecken für die Evaluierung des Monitoringsystems und des innovativen Richtkopplers im Feld, sowie die Begleitung und Überwachung der Messreihen.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 560003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Egon  Westphal",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002130/83681",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Daniela  Groher",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002130/83681",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Albert  Zettl",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002130/83681",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Andreas Kießling",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002130/83681",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Katharina  Ziegler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002130/83681",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Anna Schwamberger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002130/83681",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Aaron Gottardi",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002130/83681",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Christina Graf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002130/83681",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Markus Wagenhäuser",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002130/83681",
+"stand": "2026-07-24"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 240001,
+"bis": 250000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/86/9c/819591/Regensburg_HRB_9119_15-07-2026.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002130/83681",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-24",
+"etikett": "Eigenangabe",
+"version": 14
+}
+]
+}

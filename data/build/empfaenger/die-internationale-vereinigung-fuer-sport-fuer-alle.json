@@ -1,0 +1,110 @@
+{
+"id": "die-internationale-vereinigung-fuer-sport-fuer-alle",
+"name": "Die Internationale Vereinigung für Sport für Alle e.V. (TAFISA)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Frankfurt am Main",
+"website": "www.tafisa.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007218",
+"eintrag_id": 80179,
+"version": 4,
+"stand": "2026-06-23",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007218/80179",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/57/59/770624/Lobbyregister-Registereintraege-Detailansicht-R007218-2026-06-23_15-24-31.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundeskanzleramt",
+"epl": "04",
+"von": 40001,
+"bis": 50000,
+"zweck": "Zuwendung aus Bundesmitteln zur Förderung des Sports - Bundeszuwendung zu den laufenden Kosten der Geschäftsstelle TAFISA",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 40001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Janez Sodrznik",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007218/80179",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Jean-Francois Laurent",
+"funktion": "Generalsekrätär",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007218/80179",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Keith George",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007218/80179",
+"stand": "2026-06-23"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Sonstiges",
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 490001,
+"bis": 500000
+},
+"mitgliedsbeitraege": {
+"von": 60001,
+"bis": 70000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/66/67/770622/Att06-TAFISA-financial-statement-2024-German-original.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007218/80179",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-23",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

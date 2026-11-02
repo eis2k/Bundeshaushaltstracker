@@ -1,0 +1,95 @@
+{
+"id": "german-naval-yards-kiel",
+"name": "GERMAN NAVAL YARDS Kiel GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Kiel",
+"website": "www.germannaval.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006504",
+"eintrag_id": 78974,
+"version": 7,
+"stand": "2026-07-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006504/78974",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ec/a2/800448/Lobbyregister-Registereintraege-Detailansicht-R006504-2026-07-01_15-39-55.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Wirtschaftsstabilisierungsfond",
+"epl": null,
+"von": 34990001,
+"bis": 35000000,
+"zweck": "Die durch den Wirtschaftsstabilisierungsfonds gewährten Mittel nutzt GERMAN NAVAL YARDS, um ihre Transformation zu beschleunigen. Dazu zählen Digitalisierungsprozesse wie die Harmonisierung und der Ausbau der IT-Landschaft für mehr Automatisierung im ERP-Management, die Erhöhung des Automationsgrades in der Produktion sowie die Einführung des papierlosen Büros. Zudem unterstützt das Unternehmen seine grüne Transformation zur Erreichung der Klimaneutralität bis 2050. Maßnahmen umfassen die Reduzierung des Energieverbrauchs im Rahmen des ISO-zertifizierten Energiemanagementsystems, LED-Beleuchtung, energiesparende Pumpen und Motoren, die Umstellung auf Erdgasheizgeräte, die Anschaffung von Elektro-Gabelstaplern sowie Investitionen in Umweltschutzmaßnahmen.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 34990001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Rino Brugge",
+"funktion": "CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006504/78974",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Mark Siever",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006504/78974",
+"stand": "2026-07-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 100001,
+"bis": 110000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/83/c8/800447/Comptes-consolides-Groupe-CMN-Naval-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006504/78974",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-01",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

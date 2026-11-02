@@ -1,0 +1,720 @@
+{
+"id": "stadtwerke-muenchen",
+"name": "Stadtwerke München GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "München",
+"website": "www.swm.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000611",
+"eintrag_id": 85641,
+"version": 86,
+"stand": "2026-09-21",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000611/85641",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/40/b3/844064/Lobbyregister-Registereintraege-Detailansicht-R000611-2026-09-21_09-39-12.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "DLR Projektträger",
+"epl": "30",
+"von": 200001,
+"bis": 210000,
+"zweck": "Unit-e2 (Im Projekt unIT-e² treiben 31 Unternehmen und Forschungsinstitute die optimale Integration der Elektromobilität in das Energiesystem voran. Im Rahmen von vier sogenannten \"Clustern\" finden mehrere Feldversuche sowie Laboruntersuchungen statt. Begleitet werden die Praxisvorhaben von den Teilprojekten Forschung und Grid, welche das Konsortium bei übergreifenden Themen unterstützen und mit eigenen Forschungsvorhaben begleiten.)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 40001,
+"bis": 50000,
+"zweck": "SuperLink: Im Projekt soll das Konzept für eine 12 km lange, supraleitende, 500 MVA Kabelverbindung quer durch München erarbeitet und alle wichtigen Komponenten entwickelt, getestet und Typ-geprüft werden.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Projektträger Jülich (PtJ)",
+"epl": "30",
+"von": 80001,
+"bis": 90000,
+"zweck": "F&E-Projekt VESTA - Verbundvorhaben: VESTA - Very-High-Temperature Heat Aquifer Storage; Teilvorhaben: VESTA-Malm - Hochtemperatur Speicherung im Malm & Performance-Konzepte. Das mehrjährige Forschungs- und Entwicklungsprojekt VESTA Malm untersucht die Möglichkeiten von Hochtemperatur-Aquiferwärmespeichern im geothermischen genutzten Malm-Aquifer des bayerischen Molassebeckens.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Projektträger Jülich (PtJ)",
+"epl": "30",
+"von": 1,
+"bis": 10000,
+"zweck": "Verbundvorhaben: GFK-Monitor - Entwicklung eines ganzheitlichen Monitorings mit Unterstützung der Glasfaserkabeltechnologie und Tracertechnik zur Verbesserung der Systemintegrität von Geothermieanlagen; Teilvorhaben: Entwicklungen zur Systemintegrität in der Geothermieproduktion",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 160001,
+"bis": 170000,
+"zweck": "EnEff:Wärme: En-Eff_Netzregelung Energieeffizienzbasierte Regelung von dezentral gespeisten Wärme- und Kältenetzen unter Berücksichtigung von Lebensdauereffekten; Teilvorhaben: Realisierung und Erprobung. Als Teilprojekt wird Smart Heat Grid 2.0 durchgeführt. Die Wärmeabnahme der Kunden als weitere Stellgröße ist sehr interessant für eine energieeffiziente und lebensdauerschonende Netzregelung.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Projektträger Jülich (PtJ)",
+"epl": "30",
+"von": 650001,
+"bis": 660000,
+"zweck": "Verbundvorhaben: GIGA-M - Großräumige Integrierte Gesamt-Analyse des tiefengeothermischen Potentials und seiner synergetischen Nutzung im Großraum München, Teilprojekt: SWM: Reservoirmanagement, 3Dseismische Erkundung und Interpretation, Extended Reach Drilling-Konzept, Abbau Nicht-Technischer Barrieren",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Projektträger Jülich (PtJ)",
+"epl": "30",
+"von": 50001,
+"bis": 60000,
+"zweck": "F&E-Projekt ESM-Scaling; Verbundvorhaben ESM Scaling / EvaM 2.0: EvA-M2 - Anwendung von umweltfreundlichen Inhibitoren und CO2 zur Vermeidung von Karbonatsausfällungen in der tiefen Geothermie des Bayerischen Molassebeckens; Teilverfahren: Umsetzung Verfahren im Anlagenmaßstab und In-situ Tests.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Projektträger Jülich (PtJ)",
+"epl": "30",
+"von": 1,
+"bis": 10000,
+"zweck": "Verbundvorhaben: ANtLiA – ANwendungsbezogene Weiterentwicklung von Tauchkreiselpumpen und Line Shaft Pumpen in geothermischen Anlagen; Teilvorhaben: EveBeKo - Empfehlungen für einen verbesserten Betrieb und verbesserte Komponenten von ESPs.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Fachagentur Nachwachsender Rohstoffe (eingetragener Verein)",
+"epl": null,
+"von": 130001,
+"bis": 140000,
+"zweck": "Klimaangepasstes Waldmanagement 2023 FNR (Fachagentur Nachwachsende Rohstoffe)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Projektträger Jülich (PtJ)",
+"epl": "30",
+"von": 180001,
+"bis": 190000,
+"zweck": "Projektförderung Verbundvorhaben TransHyDE_FP2: Sichere Infrastruktur – Teilvorhaben Energie Südbayern: H2Direkt (ESB)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 290001,
+"bis": 300000,
+"zweck": "Brandschutztechnische Fahrtreppenverkofferung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 1690001,
+"bis": 1700000,
+"zweck": "Erneuerung der Fernmeldestromversorgung in den U-Bahnhöfen, mittels unterbrechungsfreien Stromversorgungsanlagen (USV-Anlagen)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 190001,
+"bis": 200000,
+"zweck": "Bündel Fahrstrom (=10 Vorhaben) Erneuerung von drei U-Bahn-Gleichrichterwerken in drei U-Bahnhöfen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 220001,
+"bis": 230000,
+"zweck": "Erneuerung der Gleichstromschalter in sechs U-Bahn-Gleichrichterwerken",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 370001,
+"bis": 380000,
+"zweck": "Erneuerung der Mittelspannungsschalter in fünf U-Bahn-Gleichrichterwerken",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 160001,
+"bis": 170000,
+"zweck": "Erneuerung der Gleichrichter in drei U-Bahn Gleichrichterwerken",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 540001,
+"bis": 550000,
+"zweck": "Erneuerung der Stromversorgung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 2320001,
+"bis": 2330000,
+"zweck": "Fahrtreppenerneuerungsprogramm 2021-2026",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 1790001,
+"bis": 1800000,
+"zweck": "Ausbaustufe 1: Stellwerk Großhadern auf der Linie U6",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 590001,
+"bis": 600000,
+"zweck": "Erneuerung der Überdachung der Haltestelle Olympiazentrum",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 40001,
+"bis": 50000,
+"zweck": "Tragwerkserneuerungsmaßnahmen 2023 Dachauerstraße",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 710001,
+"bis": 720000,
+"zweck": "Erneuerung der Gleise und Weichen im Haltestellenbereich Scheidplatz",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 190001,
+"bis": 200000,
+"zweck": "Laufwegerneuerungen 2023",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 20001,
+"bis": 30000,
+"zweck": "Tragwerkserneuerungsmaßnahmen 2023 Promenadeplatz",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 1190001,
+"bis": 1200000,
+"zweck": "Gleiserneuerungen Rosenheimer Platz Osttangente Teil 1",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 990001,
+"bis": 1000000,
+"zweck": "Gleiserneuerungen Barer Straße",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 2990001,
+"bis": 3000000,
+"zweck": "Weichen und Kreuzungserneuerung am Wettersteinplatz",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 1090001,
+"bis": 1100000,
+"zweck": "Weichen und Kreuzungserneuerung am Kurfürstenplatz",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 440001,
+"bis": 450000,
+"zweck": "Laufwegeerneuerungen 2025-2026",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 440001,
+"bis": 450000,
+"zweck": "Fahrschienenwechsel 2025-2027",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 1990001,
+"bis": 2000000,
+"zweck": "Gleis- und Weichenerneuerung Maxmonument inkl. Lehel",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 990001,
+"bis": 1000000,
+"zweck": "Gleiserneuerung Stachus Nord",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 290001,
+"bis": 300000,
+"zweck": "Fahrtreppenerneuerung U6 Partnachplatz",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 2640001,
+"bis": 2650000,
+"zweck": "Grunderneuerung der Hintergleisfassaden im Münchner U-Bahnnetz",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 1910001,
+"bis": 1920000,
+"zweck": "Stromschienenerneuerung 2020 bis 2024",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 8290001,
+"bis": 8300000,
+"zweck": "Erneuerung der Tunnelröhren für die U-Bahn",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 80001,
+"bis": 90000,
+"zweck": "Erneuerung Lüftungsanlage U-Bahnhof Friedenheimerstraße",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 620001,
+"bis": 630000,
+"zweck": "Schlitzwanddeckelfugensanierung Karlsplatz und Schwanthalerhöhe",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 90001,
+"bis": 100000,
+"zweck": "Erneuerung der Hinterbahnsteigfassade am U-Bahnhof Implerstraße",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 1970001,
+"bis": 1980000,
+"zweck": "Weichenerneuerung Sendlinger Tor",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 2330001,
+"bis": 2340000,
+"zweck": "Rissverpressung und Betonerneuerung Tunnelinnenschalen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 640001,
+"bis": 650000,
+"zweck": "Fahrschienenwechsel 2024",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 390001,
+"bis": 400000,
+"zweck": "Laufwegerneuerungen 2024",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 1990001,
+"bis": 2000000,
+"zweck": "Gleiserneuerungen zwischen St.Martins-Platz und Schwanseestraße",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 1790001,
+"bis": 1800000,
+"zweck": "Gleiserneuerungen in der Arnulfstraße zwischen Romanplatz und Marsstraße",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 840001,
+"bis": 850000,
+"zweck": "Gleis- und Weichenerneuerung am Max-Weber-Platz",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 2190001,
+"bis": 2200000,
+"zweck": "Weichenerneuerung Fröttmaning",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 40001,
+"bis": 50000,
+"zweck": "Erneuerung hydraulisch betätigter Notausstiegsklappen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 690001,
+"bis": 700000,
+"zweck": "Gleissanierung Agnes-Bernauer-Straße",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 5990001,
+"bis": 6000000,
+"zweck": "Weichenerneuerung Harras-Implerstraße inkl. Stromschienenerneuerung im Bereich U6 Süd",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 1370001,
+"bis": 1380000,
+"zweck": "BSKOMI 3 - Brandschutztechnische Ertüchtigung U6 Süd",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 180001,
+"bis": 190000,
+"zweck": "Erneuerung und Erweiterung des Leitsystem ITCS für Bus und Tram - ITCS19-22",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 40001,
+"bis": 50000,
+"zweck": "Mobility Inside Plattform",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 60001,
+"bis": 70000,
+"zweck": "MoveRegioM",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 1,
+"bis": 10000,
+"zweck": "Busprojekt Tempus - Cityplatooning",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 70001,
+"bis": 80000,
+"zweck": "Einführung eines intelligenten E-Bus Telemetriesystems (IET)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 190001,
+"bis": 200000,
+"zweck": "Erweiterung der Anzahl der DFI-Anzeiger in den Haltestellen von Tram und BUs (4.FA)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 1,
+"bis": 10000,
+"zweck": "AQT - Autoreduzierte Quartiere für eine Lebenswerte Stadt (MCube)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 7940001,
+"bis": 7950000,
+"zweck": "E-Busbeschaffung 2024/25 (EBUSMUC)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 10001,
+"bis": 20000,
+"zweck": "Mi-Ready to Connect (MiRCo)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 290001,
+"bis": 300000,
+"zweck": "Autonomes Fahren (MINGA)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 30001,
+"bis": 40000,
+"zweck": "Machbarkeitsstudie 3. Busbetriebshof an der Rupert-Bodner-Straße",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 10001,
+"bis": 20000,
+"zweck": "Machbarkeitsstudie Hybridbetriebshof an der Maria-Goeppert-Mayer-Straße",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 50001,
+"bis": 60000,
+"zweck": "EZBT - Anzeigen von Fahrzeugen in der Karte (DkV)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 290001,
+"bis": 300000,
+"zweck": "Videobasierte Fahrgastauslastung FAE (DkV)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 1,
+"bis": 10000,
+"zweck": "MobiPionier - Mobilitätsbudgets und -bundles In der MetroPolregIOn München als AlternatIvE zu Regulierung (MCube Phase II)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 1,
+"bis": 10000,
+"zweck": "ASUR - Autonome & vernetzte Verknüpfung von Stadt, Umland & Regionen (MCube Phase II)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Arbeit und Soziales aus Mitteln der Europäischen Union",
+"epl": "11",
+"von": 160001,
+"bis": 170000,
+"zweck": "KIWI (Konzept zur intuitiven Wissensvermittlung)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 64200068,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Florian Bieberbach",
+"funktion": "Vorsitzender der Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000611/85641",
+"stand": "2026-09-21"
+}
+},
+{
+"name": "Gabriele  Jahn",
+"funktion": "Geschäftsführerin Personal, Immobilien und Bäder",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000611/85641",
+"stand": "2026-09-21"
+}
+},
+{
+"name": "Helge-Uve Braun",
+"funktion": "Technischer Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000611/85641",
+"stand": "2026-09-21"
+}
+},
+{
+"name": "Karin Thelen",
+"funktion": "Geschäftsführerin Regionale Energiewende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000611/85641",
+"stand": "2026-09-21"
+}
+},
+{
+"name": "Sonja Schmutzer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000611/85641",
+"stand": "2026-09-21"
+}
+},
+{
+"name": "Juliane Leinitz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000611/85641",
+"stand": "2026-09-21"
+}
+},
+{
+"name": "Verena Dany",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000611/85641",
+"stand": "2026-09-21"
+}
+},
+{
+"name": "Maria D'Amico",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000611/85641",
+"stand": "2026-09-21"
+}
+},
+{
+"name": "Jakob Nies",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000611/85641",
+"stand": "2026-09-21"
+}
+},
+{
+"name": "Hans Lerchl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000611/85641",
+"stand": "2026-09-21"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 940001,
+"bis": 950000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/78/b4/844058/swm-geschaeftsbericht.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000611/85641",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-21",
+"etikett": "Eigenangabe",
+"version": 86
+}
+]
+}

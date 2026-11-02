@@ -1,0 +1,96 @@
+{
+"id": "lissi",
+"name": "Lissi GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Frankfurt am Main",
+"website": "www.lissi.id",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006532",
+"eintrag_id": 79028,
+"version": 4,
+"stand": "2026-06-15",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006532/79028",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/23/ed/758100/Lobbyregister-Registereintraege-Detailansicht-R006532-2026-06-15_08-52-28.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 110001,
+"bis": 120000,
+"zweck": "Verbundprojekt IDunion - Aufbau eines dezentralen Identitätsökosystems",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 110001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Helge Michael",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006532/79028",
+"stand": "2026-06-15"
+}
+},
+{
+"name": "Adrian Doerk",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006532/79028",
+"stand": "2026-06-15"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/50/25/758099/JA-Lissi-GmbH-2024-final.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006532/79028",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-15",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

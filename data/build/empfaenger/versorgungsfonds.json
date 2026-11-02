@@ -1,0 +1,2712 @@
+{
+"id": "versorgungsfonds",
+"name": "Versorgungsfonds",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "01-0111-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "01",
+"epl_text": "Bundespräsident und Bundespräsidialamt",
+"werte": {
+"2015": {
+"soll": 236000,
+"ist": 370372
+},
+"2016": {
+"soll": 322000,
+"ist": 354803
+},
+"2017": {
+"soll": 357000,
+"ist": 319044
+},
+"2018": {
+"soll": 554000,
+"ist": 582565
+},
+"2019": {
+"soll": 417000,
+"ist": 527451
+},
+"2020": {
+"soll": 550000,
+"ist": 612219
+},
+"2021": {
+"soll": 550000,
+"ist": 638317
+},
+"2022": {
+"soll": 550000,
+"ist": 767621
+},
+"2023": {
+"soll": 800000,
+"ist": 855563
+},
+"2024": {
+"soll": 800000,
+"ist": 944513
+},
+"2025": {
+"soll": 1100000,
+"ist": 1082949
+},
+"2026": {
+"soll": 910000,
+"ist": null
+}
+}
+},
+{
+"id": "01-0113-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "01",
+"epl_text": "Bundespräsident und Bundespräsidialamt",
+"werte": {
+"2015": {
+"soll": 79000,
+"ist": 81916
+},
+"2016": {
+"soll": 83000,
+"ist": 98849
+},
+"2017": {
+"soll": 135000,
+"ist": 91273
+},
+"2018": {
+"soll": 135000,
+"ist": 64726
+},
+"2019": {
+"soll": 135000,
+"ist": 64291
+},
+"2020": {
+"soll": 104000,
+"ist": 62416
+},
+"2021": {
+"soll": 104000,
+"ist": 73893
+},
+"2022": {
+"soll": 161000,
+"ist": 88938
+},
+"2023": {
+"soll": 161000,
+"ist": 105383
+},
+"2024": {
+"soll": 161000,
+"ist": 104534
+},
+"2025": {
+"soll": 161000,
+"ist": -194154
+},
+"2026": {
+"soll": 161000,
+"ist": null
+}
+}
+},
+{
+"id": "02-0201-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "02",
+"epl_text": "Deutscher Bundestag",
+"werte": {
+"2015": {
+"soll": 4536000,
+"ist": 4013744
+}
+}
+},
+{
+"id": "02-0203-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "02",
+"epl_text": "Deutscher Bundestag",
+"werte": {
+"2015": {
+"soll": 160000,
+"ist": 111067
+}
+}
+},
+{
+"id": "03-0311-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "03",
+"epl_text": "Bundesrat",
+"werte": {
+"2015": {
+"soll": 88000,
+"ist": 119895
+},
+"2016": {
+"soll": 103000,
+"ist": 109174
+},
+"2017": {
+"soll": 186000,
+"ist": 138921
+},
+"2018": {
+"soll": 268000,
+"ist": 270001
+},
+"2019": {
+"soll": 298000,
+"ist": 270785
+},
+"2020": {
+"soll": 360000,
+"ist": -104165
+},
+"2021": {
+"soll": 463000,
+"ist": 777964
+},
+"2022": {
+"soll": 678000,
+"ist": 1073655
+},
+"2023": {
+"soll": 946000,
+"ist": 1011355
+},
+"2024": {
+"soll": 1342000,
+"ist": 1198775
+},
+"2025": {
+"soll": 1492000,
+"ist": 1399298
+},
+"2026": {
+"soll": 1602000,
+"ist": null
+}
+}
+},
+{
+"id": "04-0401-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "04",
+"epl_text": "Bundeskanzlerin und Bundeskanzleramt",
+"werte": {
+"2015": {
+"soll": 1460000,
+"ist": 1444702
+}
+}
+},
+{
+"id": "04-0403-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "04",
+"epl_text": "Bundeskanzlerin und Bundeskanzleramt",
+"werte": {
+"2015": {
+"soll": 799000,
+"ist": 871588
+}
+}
+},
+{
+"id": "04-0405-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "04",
+"epl_text": "Bundeskanzlerin und Bundeskanzleramt",
+"werte": {
+"2015": {
+"soll": 725000,
+"ist": 715801
+}
+}
+},
+{
+"id": "04-0406-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "04",
+"epl_text": "Bundeskanzlerin und Bundeskanzleramt",
+"werte": {
+"2015": {
+"soll": 800000,
+"ist": 722490
+}
+}
+},
+{
+"id": "04-0407-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "04",
+"epl_text": "Bundeskanzlerin und Bundeskanzleramt",
+"werte": {
+"2015": {
+"soll": 24000,
+"ist": 22587
+}
+}
+},
+{
+"id": "04-0408-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "04",
+"epl_text": "Bundeskanzlerin und Bundeskanzleramt",
+"werte": {
+"2015": {
+"soll": 995000,
+"ist": 624823
+}
+}
+},
+{
+"id": "04-0409-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "04",
+"epl_text": "Bundeskanzlerin und Bundeskanzleramt",
+"werte": {
+"2015": {
+"soll": 126000,
+"ist": 114696
+}
+}
+},
+{
+"id": "05-0511-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "05",
+"epl_text": "Auswärtiges Amt",
+"werte": {
+"2015": {
+"soll": 5369000,
+"ist": 9536228
+},
+"2016": {
+"soll": 8774000,
+"ist": 10443511
+},
+"2017": {
+"soll": 9535000,
+"ist": 13248182
+},
+"2018": {
+"soll": 9267000,
+"ist": 15682627
+},
+"2019": {
+"soll": 10192000,
+"ist": 18356036
+},
+"2020": {
+"soll": 10207000,
+"ist": 21003078
+},
+"2021": {
+"soll": 10207000,
+"ist": 23550993
+},
+"2022": {
+"soll": 22339000,
+"ist": 28337895
+},
+"2023": {
+"soll": 13585000,
+"ist": 32641387
+},
+"2024": {
+"soll": 29000000,
+"ist": 36703388
+},
+"2025": {
+"soll": 33585000,
+"ist": 44551069
+},
+"2026": {
+"soll": 33585000,
+"ist": null
+}
+}
+},
+{
+"id": "06-0611-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "06",
+"epl_text": "Bundesministerium des Innern",
+"werte": {
+"2015": {
+"soll": 56748000,
+"ist": 58178844
+},
+"2016": {
+"soll": 74064000,
+"ist": 72895054
+},
+"2017": {
+"soll": 75486000,
+"ist": 95296208
+},
+"2018": {
+"soll": 103925000,
+"ist": 115137810
+},
+"2019": {
+"soll": 219986000,
+"ist": 148740151
+},
+"2020": {
+"soll": 236111000,
+"ist": 194184620
+},
+"2021": {
+"soll": 234799000,
+"ist": 247553559
+},
+"2022": {
+"soll": 310459000,
+"ist": 297507511
+},
+"2023": {
+"soll": 395315000,
+"ist": 357268121
+},
+"2024": {
+"soll": 402831000,
+"ist": 434358862
+},
+"2025": {
+"soll": 515787000,
+"ist": 541269142
+},
+"2026": {
+"soll": 600514000,
+"ist": null
+}
+}
+},
+{
+"id": "06-0613-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "06",
+"epl_text": "Bundesministerium des Innern",
+"werte": {
+"2015": {
+"soll": 323000,
+"ist": 313391
+}
+}
+},
+{
+"id": "07-0711-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "07",
+"epl_text": "Bundesministerium der Justiz und für Verbraucherschutz",
+"werte": {
+"2015": {
+"soll": 23288000,
+"ist": 18973235
+},
+"2016": {
+"soll": 26575000,
+"ist": 27489942
+},
+"2017": {
+"soll": 28770000,
+"ist": 32018603
+},
+"2018": {
+"soll": 37982000,
+"ist": 35070463
+},
+"2019": {
+"soll": 43580000,
+"ist": 39182021
+},
+"2020": {
+"soll": 47067000,
+"ist": 44300076
+},
+"2021": {
+"soll": 53569000,
+"ist": 54741123
+},
+"2022": {
+"soll": 58973000,
+"ist": 58459502
+},
+"2023": {
+"soll": 66675000,
+"ist": 63721589
+},
+"2024": {
+"soll": 66675000,
+"ist": 72562010
+},
+"2025": {
+"soll": 66675000,
+"ist": 78389343
+},
+"2026": {
+"soll": 67699000,
+"ist": null
+}
+}
+},
+{
+"id": "08-0811-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "08",
+"epl_text": "Bundesministerium der Finanzen",
+"werte": {
+"2015": {
+"soll": 57810000,
+"ist": 53131298
+},
+"2016": {
+"soll": 66680000,
+"ist": 59862289
+},
+"2017": {
+"soll": 76578000,
+"ist": 72892046
+},
+"2018": {
+"soll": 67558000,
+"ist": 84376431
+},
+"2019": {
+"soll": 90000000,
+"ist": 101088126
+},
+"2020": {
+"soll": 100000000,
+"ist": 128965868
+},
+"2021": {
+"soll": 130000000,
+"ist": 147308328
+},
+"2022": {
+"soll": 168345000,
+"ist": 177382825
+},
+"2023": {
+"soll": 191500000,
+"ist": 205833067
+},
+"2024": {
+"soll": 212840000,
+"ist": 245425125
+},
+"2025": {
+"soll": 300000000,
+"ist": 305000376
+},
+"2026": {
+"soll": 331084000,
+"ist": null
+}
+}
+},
+{
+"id": "08-0813-63413",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "08",
+"epl_text": "Bundesministerium der Finanzen",
+"werte": {
+"2015": {
+"soll": 0,
+"ist": 0
+},
+"2016": {
+"soll": 0,
+"ist": 0
+}
+}
+},
+{
+"id": "09-0911-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "09",
+"epl_text": "Bundesministerium für Wirtschaft und Energie",
+"werte": {
+"2015": {
+"soll": 28158000,
+"ist": 22658849
+},
+"2016": {
+"soll": 25467000,
+"ist": 24673723
+},
+"2017": {
+"soll": 29491000,
+"ist": 28568088
+},
+"2018": {
+"soll": 33319000,
+"ist": 34861263
+},
+"2019": {
+"soll": 35148000,
+"ist": 40126196
+},
+"2020": {
+"soll": 39186000,
+"ist": 45444306
+},
+"2021": {
+"soll": 40489000,
+"ist": 51157442
+},
+"2022": {
+"soll": 42706000,
+"ist": 59471266
+},
+"2023": {
+"soll": 43691000,
+"ist": 66727856
+},
+"2024": {
+"soll": 65659000,
+"ist": 77520187
+},
+"2025": {
+"soll": 104752000,
+"ist": 89236496
+},
+"2026": {
+"soll": 80287000,
+"ist": null
+}
+}
+},
+{
+"id": "10-1011-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "10",
+"epl_text": "Bundesministerium für Landwirtschaft, Ernährung und Heimat",
+"werte": {
+"2015": {
+"soll": 4427000,
+"ist": 6730740
+},
+"2016": {
+"soll": 9888000,
+"ist": 7496982
+},
+"2017": {
+"soll": 10653000,
+"ist": 10377853
+},
+"2018": {
+"soll": 15762000,
+"ist": 11501516
+},
+"2019": {
+"soll": 18030000,
+"ist": 14640476
+},
+"2020": {
+"soll": 17000000,
+"ist": 16691564
+},
+"2021": {
+"soll": 19600000,
+"ist": 18521804
+},
+"2022": {
+"soll": 20534000,
+"ist": 22317580
+},
+"2023": {
+"soll": 22597000,
+"ist": 25102949
+},
+"2024": {
+"soll": 24809000,
+"ist": 28271831
+},
+"2025": {
+"soll": 27000000,
+"ist": 34501871
+},
+"2026": {
+"soll": 27163000,
+"ist": null
+}
+}
+},
+{
+"id": "11-1111-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "11",
+"epl_text": "Bundesministerium für Arbeit und Soziales",
+"werte": {
+"2015": {
+"soll": 8720000,
+"ist": 7897925
+},
+"2016": {
+"soll": 8704000,
+"ist": 9983270
+},
+"2017": {
+"soll": 10390000,
+"ist": 12188609
+},
+"2018": {
+"soll": 15626000,
+"ist": 12957020
+},
+"2019": {
+"soll": 18285000,
+"ist": 14849564
+},
+"2020": {
+"soll": 18779000,
+"ist": 17291805
+},
+"2021": {
+"soll": 19384000,
+"ist": 19577884
+},
+"2022": {
+"soll": 21372000,
+"ist": 21142281
+},
+"2023": {
+"soll": 22522000,
+"ist": 24906396
+},
+"2024": {
+"soll": 23815000,
+"ist": 26415079
+},
+"2025": {
+"soll": 32397000,
+"ist": 30942359
+},
+"2026": {
+"soll": 32299000,
+"ist": null
+}
+}
+},
+{
+"id": "12-1201-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"werte": {
+"2015": {
+"soll": 2022000,
+"ist": 2790838
+}
+}
+},
+{
+"id": "12-1203-63413",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"werte": {
+"2015": {
+"soll": 244000,
+"ist": 903002
+}
+}
+},
+{
+"id": "12-1203-63443",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"werte": {
+"2015": {
+"soll": 0,
+"ist": 0
+}
+}
+},
+{
+"id": "12-1203-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"werte": {
+"2015": {
+"soll": 1114000,
+"ist": 2618862
+}
+}
+},
+{
+"id": "12-1204-63413",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"werte": {
+"2015": {
+"soll": 0,
+"ist": 0
+}
+}
+},
+{
+"id": "12-1204-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"werte": {
+"2015": {
+"soll": 702000,
+"ist": 402482
+}
+}
+},
+{
+"id": "12-1205-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"werte": {
+"2015": {
+"soll": 807000,
+"ist": 570881
+}
+}
+},
+{
+"id": "12-1208-63423",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"werte": {
+"2015": {
+"soll": 0,
+"ist": 15058
+}
+}
+},
+{
+"id": "12-1208-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"werte": {
+"2015": {
+"soll": 713000,
+"ist": 649274
+}
+}
+},
+{
+"id": "12-1209-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"werte": {
+"2015": {
+"soll": 1640000,
+"ist": 1354868
+}
+}
+},
+{
+"id": "12-1211-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr",
+"werte": {
+"2015": {
+"soll": 770000,
+"ist": 837209
+},
+"2016": {
+"soll": 14904000,
+"ist": 17586747
+},
+"2017": {
+"soll": 22030000,
+"ist": 21751792
+},
+"2018": {
+"soll": 24989000,
+"ist": 26589732
+},
+"2019": {
+"soll": 26656000,
+"ist": 30737044
+},
+"2020": {
+"soll": 31864000,
+"ist": 27014174
+},
+"2021": {
+"soll": 32409000,
+"ist": -34333789
+},
+"2022": {
+"soll": 51084000,
+"ist": 172316529
+},
+"2023": {
+"soll": 54231000,
+"ist": 80008487
+},
+"2024": {
+"soll": 89323000,
+"ist": 84255084
+},
+"2025": {
+"soll": 95212000,
+"ist": 98771722
+},
+"2026": {
+"soll": 92539000,
+"ist": null
+}
+}
+},
+{
+"id": "12-1212-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"werte": {
+"2015": {
+"soll": 365000,
+"ist": 419608
+}
+}
+},
+{
+"id": "12-1214-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"werte": {
+"2015": {
+"soll": 3100000,
+"ist": 3263358
+}
+}
+},
+{
+"id": "12-1216-63423",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"werte": {
+"2015": {
+"soll": 0,
+"ist": 0
+}
+}
+},
+{
+"id": "12-1216-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"werte": {
+"2015": {
+"soll": 1400000,
+"ist": 1549544
+}
+}
+},
+{
+"id": "12-1216-63443",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"werte": {
+"2015": {
+"soll": 65000,
+"ist": 86801
+}
+}
+},
+{
+"id": "12-1221-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"werte": {
+"2015": {
+"soll": 686000,
+"ist": 1179133
+}
+}
+},
+{
+"id": "12-1221-63413",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr",
+"werte": {
+"2015": {
+"soll": 20000,
+"ist": 27025
+},
+"2016": {
+"soll": 0,
+"ist": 0
+},
+"2017": {
+"soll": 0,
+"ist": 0
+},
+"2018": {
+"soll": 0,
+"ist": 0
+},
+"2019": {
+"soll": 0,
+"ist": 0
+},
+"2020": {
+"soll": 0,
+"ist": 0
+},
+"2021": {
+"soll": 100000,
+"ist": 0
+},
+"2022": {
+"soll": 100000,
+"ist": 0
+},
+"2023": {
+"soll": 50000,
+"ist": 5985
+},
+"2024": {
+"soll": 100000,
+"ist": 13021
+},
+"2025": {
+"soll": 100000,
+"ist": 16099
+},
+"2026": {
+"soll": 100000,
+"ist": null
+}
+}
+},
+{
+"id": "12-1221-63423",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"werte": {
+"2015": {
+"soll": 0,
+"ist": 13233
+}
+}
+},
+{
+"id": "12-1223-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"werte": {
+"2015": {
+"soll": 460000,
+"ist": 412342
+}
+}
+},
+{
+"id": "12-1228-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"werte": {
+"2015": {
+"soll": 0,
+"ist": 0
+}
+}
+},
+{
+"id": "14-1401-63413",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "14",
+"epl_text": "Bundesministerium der Verteidigung",
+"werte": {
+"2015": {
+"soll": 0,
+"ist": 0
+}
+}
+},
+{
+"id": "14-1401-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "14",
+"epl_text": "Bundesministerium der Verteidigung",
+"werte": {
+"2015": {
+"soll": 513000,
+"ist": 1361372
+}
+}
+},
+{
+"id": "14-1403-63413",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "14",
+"epl_text": "Bundesministerium der Verteidigung",
+"werte": {
+"2015": {
+"soll": 191425000,
+"ist": 187473857
+},
+"2016": {
+"soll": 237485000,
+"ist": 225045239
+},
+"2017": {
+"soll": 286310000,
+"ist": 270942794
+},
+"2018": {
+"soll": 308514000,
+"ist": 313303688
+},
+"2019": {
+"soll": 356674000,
+"ist": 371924123
+},
+"2020": {
+"soll": 406985000,
+"ist": 425722925
+},
+"2021": {
+"soll": 453825000,
+"ist": 460278350
+},
+"2022": {
+"soll": 495757000,
+"ist": 495757000
+},
+"2023": {
+"soll": 546881000,
+"ist": 546881000
+},
+"2024": {
+"soll": 678121000,
+"ist": 637760000
+},
+"2025": {
+"soll": 701823000,
+"ist": 701823000
+},
+"2026": {
+"soll": 800282000,
+"ist": null
+}
+}
+},
+{
+"id": "14-1404-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "14",
+"epl_text": "Bundesministerium der Verteidigung",
+"werte": {
+"2015": {
+"soll": 45400000,
+"ist": 52791913
+}
+}
+},
+{
+"id": "15-1501-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "15",
+"epl_text": "Bundesministerium für Gesundheit",
+"werte": {
+"2015": {
+"soll": 1989000,
+"ist": 1888029
+}
+}
+},
+{
+"id": "15-1504-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "15",
+"epl_text": "Bundesministerium für Gesundheit",
+"werte": {
+"2015": {
+"soll": 40000,
+"ist": 76585
+}
+}
+},
+{
+"id": "15-1504-63443",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "15",
+"epl_text": "Bundesministerium für Gesundheit",
+"werte": {
+"2015": {
+"soll": 0,
+"ist": 0
+}
+}
+},
+{
+"id": "15-1505-63463",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "15",
+"epl_text": "Bundesministerium für Gesundheit",
+"werte": {
+"2015": {
+"soll": 0,
+"ist": 36678
+}
+}
+},
+{
+"id": "15-1505-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "15",
+"epl_text": "Bundesministerium für Gesundheit",
+"werte": {
+"2015": {
+"soll": 110000,
+"ist": 99847
+}
+}
+},
+{
+"id": "15-1506-63473",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "15",
+"epl_text": "Bundesministerium für Gesundheit",
+"werte": {
+"2015": {
+"soll": 0,
+"ist": 0
+}
+}
+},
+{
+"id": "15-1506-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "15",
+"epl_text": "Bundesministerium für Gesundheit",
+"werte": {
+"2015": {
+"soll": 1757000,
+"ist": 1919710
+}
+}
+},
+{
+"id": "15-1510-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "15",
+"epl_text": "Bundesministerium für Gesundheit",
+"werte": {
+"2015": {
+"soll": 1920000,
+"ist": 1883498
+}
+}
+},
+{
+"id": "15-1511-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "15",
+"epl_text": "Bundesministerium für Gesundheit",
+"werte": {
+"2015": {
+"soll": 737000,
+"ist": 1136258
+},
+"2016": {
+"soll": 6738000,
+"ist": 7326994
+},
+"2017": {
+"soll": 7317000,
+"ist": 8927677
+},
+"2018": {
+"soll": 8275000,
+"ist": 9581247
+},
+"2019": {
+"soll": 9977000,
+"ist": 10726745
+},
+"2020": {
+"soll": 9977000,
+"ist": 11926104
+},
+"2021": {
+"soll": 9977000,
+"ist": 14034795
+},
+"2022": {
+"soll": 14077000,
+"ist": 16488212
+},
+"2023": {
+"soll": 14413000,
+"ist": 17360150
+},
+"2024": {
+"soll": 14413000,
+"ist": 19839712
+},
+"2025": {
+"soll": 17913000,
+"ist": 24564548
+},
+"2026": {
+"soll": 19730000,
+"ist": null
+}
+}
+},
+{
+"id": "15-1511-63433",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "15",
+"epl_text": "Bundesministerium für Gesundheit",
+"werte": {
+"2015": {
+"soll": 0,
+"ist": 0
+}
+}
+},
+{
+"id": "16-1611-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "16",
+"epl_text": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+"werte": {
+"2015": {
+"soll": 9187000,
+"ist": 10179389
+},
+"2016": {
+"soll": 11582000,
+"ist": 10326209
+},
+"2017": {
+"soll": 13841000,
+"ist": 14323604
+},
+"2018": {
+"soll": 15086000,
+"ist": 15841544
+},
+"2019": {
+"soll": 16158000,
+"ist": 15205783
+},
+"2020": {
+"soll": 15095000,
+"ist": 17355000
+},
+"2021": {
+"soll": 18207000,
+"ist": 19773050
+},
+"2022": {
+"soll": 18407000,
+"ist": 24534307
+},
+"2023": {
+"soll": 20336000,
+"ist": 24872394
+},
+"2024": {
+"soll": 27000000,
+"ist": 32938467
+},
+"2025": {
+"soll": 29100000,
+"ist": 37347035
+},
+"2026": {
+"soll": 34018000,
+"ist": null
+}
+}
+},
+{
+"id": "16-1616-63423",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "16",
+"epl_text": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+"werte": {
+"2015": {
+"soll": 480000,
+"ist": 919207
+},
+"2016": {
+"soll": 806000,
+"ist": 871673
+},
+"2017": {
+"soll": 986000,
+"ist": 1171291
+},
+"2018": {
+"soll": 1046000,
+"ist": 1035024
+},
+"2019": {
+"soll": 1066000,
+"ist": 1086470
+},
+"2020": {
+"soll": 1086000,
+"ist": 1098671
+},
+"2021": {
+"soll": 1086000,
+"ist": 1126878
+},
+"2022": {
+"soll": 1386000,
+"ist": 1125307
+},
+"2023": {
+"soll": 1386000,
+"ist": 1152165
+},
+"2024": {
+"soll": 1386000,
+"ist": 1225074
+},
+"2025": {
+"soll": 1386000,
+"ist": 1299680
+},
+"2026": {
+"soll": 1386000,
+"ist": null
+}
+}
+},
+{
+"id": "17-1711-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "17",
+"epl_text": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"werte": {
+"2015": {
+"soll": 2083000,
+"ist": 2237341
+},
+"2016": {
+"soll": 2400000,
+"ist": 2796549
+},
+"2017": {
+"soll": 3148000,
+"ist": 3097259
+},
+"2018": {
+"soll": 3423000,
+"ist": 4546529
+},
+"2019": {
+"soll": 6272000,
+"ist": 5772930
+},
+"2020": {
+"soll": 7489000,
+"ist": 6916216
+},
+"2021": {
+"soll": 7489000,
+"ist": 8049784
+},
+"2022": {
+"soll": 8504000,
+"ist": 8899902
+},
+"2023": {
+"soll": 8275000,
+"ist": 10953495
+},
+"2024": {
+"soll": 9000000,
+"ist": 12512779
+},
+"2025": {
+"soll": 13000000,
+"ist": 14762467
+},
+"2026": {
+"soll": 17087000,
+"ist": null
+}
+}
+},
+{
+"id": "17-1715-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "17",
+"epl_text": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"werte": {
+"2015": {
+"soll": 85000,
+"ist": 201990
+},
+"2016": {
+"soll": 270000,
+"ist": 215007
+},
+"2017": {
+"soll": 270000,
+"ist": 249027
+},
+"2018": {
+"soll": 270000,
+"ist": 377857
+},
+"2019": {
+"soll": 270000,
+"ist": 474864
+}
+}
+},
+{
+"id": "19-1911-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "19",
+"epl_text": "Bundesverfassungsgericht",
+"werte": {
+"2015": {
+"soll": 1233000,
+"ist": 1099156
+},
+"2016": {
+"soll": 1430000,
+"ist": 1380886
+},
+"2017": {
+"soll": 1578000,
+"ist": 1593477
+},
+"2018": {
+"soll": 1791000,
+"ist": 1517256
+},
+"2019": {
+"soll": 2014000,
+"ist": 2313732
+},
+"2020": {
+"soll": 2208000,
+"ist": 2042216
+},
+"2021": {
+"soll": 2508000,
+"ist": 2623148
+},
+"2022": {
+"soll": 2551000,
+"ist": 2354315
+},
+"2023": {
+"soll": 2713000,
+"ist": 2221883
+},
+"2024": {
+"soll": 2863000,
+"ist": 3436195
+},
+"2025": {
+"soll": 3150000,
+"ist": 3164027
+},
+"2026": {
+"soll": 3190000,
+"ist": null
+}
+}
+},
+{
+"id": "20-2011-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "20",
+"epl_text": "Bundesrechnungshof",
+"werte": {
+"2015": {
+"soll": 3616000,
+"ist": 3419434
+},
+"2016": {
+"soll": 4787000,
+"ist": 2815450
+},
+"2017": {
+"soll": 4619000,
+"ist": 3313501
+},
+"2018": {
+"soll": 3000000,
+"ist": 4436650
+},
+"2019": {
+"soll": 4614000,
+"ist": 4586970
+},
+"2020": {
+"soll": 5378000,
+"ist": 5844236
+},
+"2021": {
+"soll": 5920000,
+"ist": 6157162
+},
+"2022": {
+"soll": 7500000,
+"ist": 6485277
+},
+"2023": {
+"soll": 8390000,
+"ist": 7767183
+},
+"2024": {
+"soll": 9472000,
+"ist": 8392401
+},
+"2025": {
+"soll": 9852000,
+"ist": 10781498
+},
+"2026": {
+"soll": 10528000,
+"ist": null
+}
+}
+},
+{
+"id": "23-2311-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "23",
+"epl_text": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"werte": {
+"2015": {
+"soll": 3415000,
+"ist": 4260278
+},
+"2016": {
+"soll": 4059000,
+"ist": 4445932
+},
+"2017": {
+"soll": 5488000,
+"ist": 5380708
+},
+"2018": {
+"soll": 6488000,
+"ist": 5754782
+},
+"2019": {
+"soll": 7488000,
+"ist": 5856379
+},
+"2020": {
+"soll": 8488000,
+"ist": 7953293
+},
+"2021": {
+"soll": 9488000,
+"ist": 9219731
+},
+"2022": {
+"soll": 9613000,
+"ist": 10374384
+},
+"2023": {
+"soll": 11975000,
+"ist": 11774269
+},
+"2024": {
+"soll": 13000000,
+"ist": 13962717
+},
+"2025": {
+"soll": 14700000,
+"ist": 15773164
+},
+"2026": {
+"soll": 17700000,
+"ist": null
+}
+}
+},
+{
+"id": "30-3003-63483",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "30",
+"epl_text": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"werte": {
+"2015": {
+"soll": 0,
+"ist": 0
+},
+"2016": {
+"soll": 0,
+"ist": 0
+},
+"2017": {
+"soll": 0,
+"ist": 0
+},
+"2018": {
+"soll": 0,
+"ist": 0
+},
+"2019": {
+"soll": 0,
+"ist": 0
+},
+"2020": {
+"soll": 0,
+"ist": 0
+},
+"2021": {
+"soll": 0,
+"ist": 0
+},
+"2022": {
+"soll": 0,
+"ist": 0
+},
+"2023": {
+"soll": 0,
+"ist": 0
+},
+"2024": {
+"soll": 0,
+"ist": 0
+},
+"2025": {
+"soll": 0,
+"ist": 0
+},
+"2026": {
+"soll": 0,
+"ist": null
+}
+}
+},
+{
+"id": "30-3011-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "30",
+"epl_text": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"werte": {
+"2015": {
+"soll": 3000000,
+"ist": 2845731
+},
+"2016": {
+"soll": 4772000,
+"ist": 3716999
+},
+"2017": {
+"soll": 6632000,
+"ist": 4523068
+},
+"2018": {
+"soll": 8440000,
+"ist": 5216576
+},
+"2019": {
+"soll": 8949000,
+"ist": 6249446
+},
+"2020": {
+"soll": 9458000,
+"ist": 6275226
+},
+"2021": {
+"soll": 9458000,
+"ist": 7214140
+},
+"2022": {
+"soll": 15097000,
+"ist": 10034604
+},
+"2023": {
+"soll": 15053000,
+"ist": 12944943
+},
+"2024": {
+"soll": 14855000,
+"ist": 14820789
+},
+"2025": {
+"soll": 15125000,
+"ist": 17217224
+},
+"2026": {
+"soll": 14495000,
+"ist": null
+}
+}
+},
+{
+"id": "10-1091-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "10",
+"epl_text": "Bundesministerium für Landwirtschaft, Ernährung und Heimat",
+"werte": {
+"2015": {
+"soll": 1507000,
+"ist": 1133378
+},
+"2023": {
+"soll": 4981000,
+"ist": null
+},
+"2024": {
+"soll": 5623000,
+"ist": null
+},
+"2025": {
+"soll": 5748000,
+"ist": 5835333
+},
+"2026": {
+"soll": 4944000,
+"ist": null
+}
+}
+},
+{
+"id": "10-1092-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "10",
+"epl_text": "Bundesministerium für Landwirtschaft, Ernährung und Heimat",
+"werte": {
+"2015": {
+"soll": 1159000,
+"ist": 1254558
+},
+"2023": {
+"soll": 2948000,
+"ist": null
+},
+"2024": {
+"soll": 3569000,
+"ist": null
+},
+"2025": {
+"soll": 3300000,
+"ist": 3785367
+},
+"2026": {
+"soll": 4318000,
+"ist": null
+}
+}
+},
+{
+"id": "02-0211-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "02",
+"epl_text": "Deutscher Bundestag",
+"werte": {
+"2016": {
+"soll": 6240000,
+"ist": 5077456
+},
+"2017": {
+"soll": 6692000,
+"ist": 5707608
+},
+"2018": {
+"soll": 7471000,
+"ist": 7304259
+},
+"2019": {
+"soll": 8432000,
+"ist": 7946718
+},
+"2020": {
+"soll": 9711000,
+"ist": 8128549
+},
+"2021": {
+"soll": 10834000,
+"ist": 11082824
+},
+"2022": {
+"soll": 12170000,
+"ist": 11010085
+},
+"2023": {
+"soll": 14380000,
+"ist": 11748328
+},
+"2024": {
+"soll": 15118000,
+"ist": 13767614
+},
+"2025": {
+"soll": 15638000,
+"ist": 16510701
+},
+"2026": {
+"soll": 17945000,
+"ist": null
+}
+}
+},
+{
+"id": "04-0412-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "04",
+"epl_text": "Bundeskanzler und Bundeskanzleramt",
+"werte": {
+"2016": {
+"soll": 1640000,
+"ist": 1804984
+},
+"2017": {
+"soll": 1820000,
+"ist": 2534962
+},
+"2018": {
+"soll": 1820000,
+"ist": 2723269
+},
+"2019": {
+"soll": 3398000,
+"ist": 3357892
+},
+"2020": {
+"soll": 4077000,
+"ist": 3911255
+},
+"2021": {
+"soll": 3993000,
+"ist": 4761452
+},
+"2022": {
+"soll": 3826000,
+"ist": 4885471
+},
+"2023": {
+"soll": 4004000,
+"ist": 5161383
+},
+"2024": {
+"soll": 5004000,
+"ist": 6132734
+},
+"2025": {
+"soll": 7074000,
+"ist": 6849244
+},
+"2026": {
+"soll": 9691000,
+"ist": null
+}
+}
+},
+{
+"id": "04-0413-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "04",
+"epl_text": "Bundeskanzler und Bundeskanzleramt",
+"werte": {
+"2016": {
+"soll": 126000,
+"ist": 100560
+},
+"2017": {
+"soll": 226000,
+"ist": 147690
+},
+"2018": {
+"soll": 226000,
+"ist": 204981
+},
+"2019": {
+"soll": 395000,
+"ist": 326975
+},
+"2020": {
+"soll": 372000,
+"ist": 537213
+},
+"2021": {
+"soll": 374000,
+"ist": 562820
+},
+"2022": {
+"soll": 374000,
+"ist": 521595
+},
+"2023": {
+"soll": 374000,
+"ist": 514513
+},
+"2024": {
+"soll": 374000,
+"ist": 717960
+}
+}
+},
+{
+"id": "04-0431-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "04",
+"epl_text": "Bundeskanzler und Bundeskanzleramt",
+"werte": {
+"2016": {
+"soll": 799000,
+"ist": 914830
+},
+"2017": {
+"soll": 1188000,
+"ist": 1246312
+},
+"2018": {
+"soll": 1188000,
+"ist": 1236712
+},
+"2019": {
+"soll": 1188000,
+"ist": 1596520
+},
+"2020": {
+"soll": 1188000,
+"ist": 1575187
+},
+"2021": {
+"soll": 1980000,
+"ist": 1754835
+},
+"2022": {
+"soll": 1980000,
+"ist": 1848323
+},
+"2023": {
+"soll": 2480000,
+"ist": 2361020
+},
+"2024": {
+"soll": 1980000,
+"ist": 2490999
+},
+"2025": {
+"soll": 2605000,
+"ist": 2801757
+},
+"2026": {
+"soll": 2736000,
+"ist": null
+}
+}
+},
+{
+"id": "04-0451-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "04",
+"epl_text": "Bundeskanzler und Bundeskanzleramt",
+"werte": {
+"2016": {
+"soll": 3020000,
+"ist": 2265435
+},
+"2017": {
+"soll": 3351000,
+"ist": 3162385
+},
+"2018": {
+"soll": 3645000,
+"ist": 3317509
+},
+"2019": {
+"soll": 4110000,
+"ist": 3974055
+},
+"2020": {
+"soll": 5010000,
+"ist": 4778903
+},
+"2021": {
+"soll": 4890000,
+"ist": 5064649
+},
+"2022": {
+"soll": 5946000,
+"ist": 7475787
+},
+"2023": {
+"soll": 4916000,
+"ist": 7357196
+},
+"2024": {
+"soll": 8288000,
+"ist": 8489857
+},
+"2025": {
+"soll": 8490000,
+"ist": 11072434
+},
+"2026": {
+"soll": 8452000,
+"ist": null
+}
+}
+},
+{
+"id": "12-1201-63423",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr",
+"werte": {
+"2016": {
+"soll": 1640000,
+"ist": 1656051
+},
+"2017": {
+"soll": 1800000,
+"ist": 1678625
+},
+"2018": {
+"soll": 2800000,
+"ist": 1852566
+},
+"2019": {
+"soll": 2800000,
+"ist": 1315800
+},
+"2020": {
+"soll": 2800000,
+"ist": 2830882
+},
+"2021": {
+"soll": 2800000,
+"ist": 2622783
+},
+"2022": {
+"soll": 4800000,
+"ist": 3305805
+},
+"2023": {
+"soll": 4800000,
+"ist": 3829782
+},
+"2024": {
+"soll": 4800000,
+"ist": 4317270
+},
+"2025": {
+"soll": 4800000,
+"ist": 5125205
+},
+"2026": {
+"soll": 4800000,
+"ist": null
+}
+}
+},
+{
+"id": "12-1201-63433",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"werte": {
+"2016": {
+"soll": 180000,
+"ist": 36668
+},
+"2017": {
+"soll": 180000,
+"ist": 110720
+},
+"2018": {
+"soll": 1400000,
+"ist": 113386
+},
+"2019": {
+"soll": 2901000,
+"ist": 134430
+},
+"2020": {
+"soll": 300000,
+"ist": 63350
+}
+}
+},
+{
+"id": "12-1222-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr",
+"werte": {
+"2016": {
+"soll": 470000,
+"ist": 426636
+},
+"2017": {
+"soll": 500000,
+"ist": 581194
+},
+"2018": {
+"soll": 525000,
+"ist": 580227
+},
+"2019": {
+"soll": 575000,
+"ist": 677187
+},
+"2020": {
+"soll": 763000,
+"ist": 701627
+},
+"2021": {
+"soll": 785000,
+"ist": 700205
+},
+"2022": {
+"soll": 805000,
+"ist": 847189
+},
+"2023": {
+"soll": 800000,
+"ist": 838004
+},
+"2024": {
+"soll": 960000,
+"ist": 1040829
+},
+"2025": {
+"soll": 800000,
+"ist": 1175375
+},
+"2026": {
+"soll": 800000,
+"ist": null
+}
+}
+},
+{
+"id": "14-1411-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "14",
+"epl_text": "Bundesministerium der Verteidigung",
+"werte": {
+"2016": {
+"soll": 52101000,
+"ist": 69285926
+},
+"2017": {
+"soll": 81998000,
+"ist": 87144080
+},
+"2018": {
+"soll": 104624000,
+"ist": 103307390
+},
+"2019": {
+"soll": 136455000,
+"ist": 126278269
+},
+"2020": {
+"soll": 164972000,
+"ist": 154231380
+},
+"2021": {
+"soll": 182513000,
+"ist": 184709117
+},
+"2022": {
+"soll": 216348000,
+"ist": 208952622
+},
+"2023": {
+"soll": 251745000,
+"ist": 233781102
+},
+"2024": {
+"soll": 301898000,
+"ist": 265868233
+},
+"2025": {
+"soll": 334324000,
+"ist": 313925685
+},
+"2026": {
+"soll": 370187000,
+"ist": null
+}
+}
+},
+{
+"id": "21-2111-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "21",
+"epl_text": "Die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit",
+"werte": {
+"2016": {
+"soll": 323000,
+"ist": 322984
+},
+"2017": {
+"soll": 323000,
+"ist": 480400
+},
+"2018": {
+"soll": 323000,
+"ist": 387600
+},
+"2019": {
+"soll": 800000,
+"ist": 927254
+},
+"2020": {
+"soll": 800000,
+"ist": 1720476
+},
+"2021": {
+"soll": 1300000,
+"ist": 2751159
+},
+"2022": {
+"soll": 4465000,
+"ist": 2567994
+},
+"2023": {
+"soll": 3000000,
+"ist": 3580104
+},
+"2024": {
+"soll": 3000000,
+"ist": 3951970
+},
+"2025": {
+"soll": 4900000,
+"ist": 4906959
+},
+"2026": {
+"soll": 4900000,
+"ist": null
+}
+}
+},
+{
+"id": "16-1615-63423",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "16",
+"epl_text": "Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit",
+"werte": {
+"2017": {
+"soll": 0,
+"ist": 0
+}
+}
+},
+{
+"id": "60-6002-61402",
+"text": "Zuweisung an den Versorgungsfonds",
+"epl": "60",
+"epl_text": "Allgemeine Finanzverwaltung",
+"werte": {
+"2017": {
+"soll": 13000000,
+"ist": 13000000
+}
+}
+},
+{
+"id": "15-1513-63413",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "15",
+"epl_text": "Bundesministerium für Gesundheit",
+"werte": {
+"2018": {
+"soll": 0,
+"ist": 0
+},
+"2019": {
+"soll": 0,
+"ist": 0
+},
+"2020": {
+"soll": 0,
+"ist": 0
+},
+"2021": {
+"soll": 0,
+"ist": 0
+},
+"2022": {
+"soll": 0,
+"ist": 0
+},
+"2023": {
+"soll": 0,
+"ist": 0
+},
+"2024": {
+"soll": 0,
+"ist": 0
+},
+"2025": {
+"soll": 0,
+"ist": 0
+}
+}
+},
+{
+"id": "15-1514-63413",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "15",
+"epl_text": "Bundesministerium für Gesundheit",
+"werte": {
+"2018": {
+"soll": 0,
+"ist": 62615
+},
+"2019": {
+"soll": 0,
+"ist": 71650
+},
+"2020": {
+"soll": 63000,
+"ist": 36293
+}
+}
+},
+{
+"id": "15-1513-63473",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "15",
+"epl_text": "Bundesministerium für Gesundheit",
+"werte": {
+"2021": {
+"soll": 0,
+"ist": 0
+},
+"2022": {
+"soll": 0,
+"ist": 0
+},
+"2023": {
+"soll": 0,
+"ist": 0
+},
+"2024": {
+"soll": 0,
+"ist": 0
+},
+"2025": {
+"soll": 0,
+"ist": 0
+},
+"2026": {
+"soll": 0,
+"ist": null
+}
+}
+},
+{
+"id": "15-1516-63453",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "15",
+"epl_text": "Bundesministerium für Gesundheit",
+"werte": {
+"2021": {
+"soll": 0,
+"ist": 21263
+},
+"2022": {
+"soll": 0,
+"ist": 57607
+},
+"2023": {
+"soll": 0,
+"ist": 57095
+},
+"2024": {
+"soll": 0,
+"ist": 74689
+},
+"2025": {
+"soll": 0,
+"ist": 71185
+},
+"2026": {
+"soll": 0,
+"ist": null
+}
+}
+},
+{
+"id": "15-1517-63443",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "15",
+"epl_text": "Bundesministerium für Gesundheit",
+"werte": {
+"2021": {
+"soll": 0,
+"ist": 0
+},
+"2022": {
+"soll": 100000,
+"ist": 0
+},
+"2023": {
+"soll": 100000,
+"ist": 0
+},
+"2024": {
+"soll": 100000,
+"ist": 52424
+},
+"2025": {
+"soll": 100000,
+"ist": 223133
+},
+"2026": {
+"soll": 100000,
+"ist": null
+}
+}
+},
+{
+"id": "22-2211-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "22",
+"epl_text": "Unabhängiger Kontrollrat",
+"werte": {
+"2021": {
+"soll": 322000,
+"ist": 120790
+},
+"2022": {
+"soll": 609000,
+"ist": 185948
+},
+"2023": {
+"soll": 609000,
+"ist": 452310
+},
+"2024": {
+"soll": 509000,
+"ist": 482919
+},
+"2025": {
+"soll": 500000,
+"ist": 526758
+},
+"2026": {
+"soll": 500000,
+"ist": null
+}
+}
+},
+{
+"id": "04-0415-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "04",
+"epl_text": "Bundeskanzler und Bundeskanzleramt",
+"werte": {
+"2022": {
+"soll": 0,
+"ist": 0
+},
+"2023": {
+"soll": 1084000,
+"ist": 319658
+},
+"2024": {
+"soll": 1084000,
+"ist": 468730
+},
+"2025": {
+"soll": 1084000,
+"ist": 616003
+}
+}
+},
+{
+"id": "15-1515-63473",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "15",
+"epl_text": "Bundesministerium für Gesundheit",
+"werte": {
+"2022": {
+"soll": 0,
+"ist": 0
+},
+"2023": {
+"soll": 0,
+"ist": 0
+},
+"2024": {
+"soll": 0,
+"ist": 0
+},
+"2025": {
+"soll": 0,
+"ist": 0
+},
+"2026": {
+"soll": 0,
+"ist": null
+}
+}
+},
+{
+"id": "25-2511-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "25",
+"epl_text": "Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+"werte": {
+"2022": {
+"soll": 2100000,
+"ist": 4587602
+},
+"2023": {
+"soll": 3625000,
+"ist": 7247226
+},
+"2024": {
+"soll": 9517000,
+"ist": 12650211
+},
+"2025": {
+"soll": 8668000,
+"ist": 13827630
+},
+"2026": {
+"soll": 14088000,
+"ist": null
+}
+}
+},
+{
+"id": "16-1613-63423",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "16",
+"epl_text": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+"werte": {
+"2023": {
+"soll": 0,
+"ist": 14774
+},
+"2024": {
+"soll": 0,
+"ist": 30899
+},
+"2025": {
+"soll": 0,
+"ist": 59874
+},
+"2026": {
+"soll": 0,
+"ist": null
+}
+}
+},
+{
+"id": "11-1117-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "11",
+"epl_text": "Bundesministerium für Arbeit und Soziales",
+"werte": {
+"2025": {
+"soll": 374000,
+"ist": 785552
+},
+"2026": {
+"soll": 374000,
+"ist": null
+}
+}
+},
+{
+"id": "24-2411-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "24",
+"epl_text": "Bundesministerium für Digitales und Staatsmodernisierung",
+"werte": {
+"2025": {
+"soll": 1440000,
+"ist": 0
+},
+"2026": {
+"soll": 9558000,
+"ist": null
+}
+}
+},
+{
+"id": "04-0416-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "04",
+"epl_text": "Bundeskanzler und Bundeskanzleramt",
+"werte": {
+"2026": {
+"soll": 0,
+"ist": null
+}
+}
+},
+{
+"id": "04-0417-63403",
+"text": "Zuweisungen an den Versorgungsfonds",
+"epl": "04",
+"epl_text": "Bundeskanzler und Bundeskanzleramt",
+"werte": {
+"2026": {
+"soll": 0,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

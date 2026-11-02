@@ -1,0 +1,250 @@
+{
+"id": "ludwig-erhard-stiftung",
+"name": "Ludwig-Erhard-Stiftung e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bonn",
+"website": "www.ludwig-erhard-stiftung.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006613",
+"eintrag_id": 79830,
+"version": 10,
+"stand": "2026-06-20",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006613/79830",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/73/d5/766365/Lobbyregister-Registereintraege-Detailansicht-R006613-2026-06-20_11-03-20.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 70001,
+"bis": 80000,
+"zweck": "Zuwendung für das Projekt \"Ludwig-Erhard-Forum für Wirtschaft und Gesellschaft\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 60001,
+"bis": 70000,
+"zweck": "Zuwendung für das Projekt \"Vordenker der Liberalen Moderne\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 130002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Roland Koch",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006613/79830",
+"stand": "2026-06-20"
+}
+},
+{
+"name": "Sarna Röser",
+"funktion": "stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006613/79830",
+"stand": "2026-06-20"
+}
+},
+{
+"name": "Joachim Seeler",
+"funktion": "stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006613/79830",
+"stand": "2026-06-20"
+}
+},
+{
+"name": "Godelieve Quisthoudt-Rowohl",
+"funktion": "stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006613/79830",
+"stand": "2026-06-20"
+}
+},
+{
+"name": "Linda Teuteberg",
+"funktion": "stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006613/79830",
+"stand": "2026-06-20"
+}
+},
+{
+"name": "Nicolaus Heinen",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Abteilungsleiter",
+"stelle": "Bundesministerium der Finanzen (BMF) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2025-05"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006613/79830",
+"stand": "2026-06-20"
+}
+},
+{
+"name": "Patrick Opdenhövel",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006613/79830",
+"stand": "2026-06-20"
+}
+},
+{
+"name": "Volker Wieland",
+"funktion": "stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006613/79830",
+"stand": "2026-06-20"
+}
+},
+{
+"name": "Stefan Kolev",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006613/79830",
+"stand": "2026-06-20"
+}
+},
+{
+"name": "Luise Schöneberg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006613/79830",
+"stand": "2026-06-20"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Linda Teuteberg",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03",
+"funktion_beim_empfaenger": "stellvertretende Vorsitzende",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Linda Teuteberg ist laut Lobbyregister stellvertretende Vorsitzende bei Ludwig-Erhard-Stiftung e.V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03. Ludwig-Erhard-Stiftung e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Forschung, Technologie und Raumfahrt.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Forschung, Technologie und Raumfahrt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006613/79830",
+"stand": "2026-06-20"
+}
+],
+"stand": "2026-06-20"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Nicolaus Heinen",
+"funktion_person": "Abteilungsleiter, Bundesministerium der Finanzen (BMF) oder dessen Geschäftsbereich, bis 2025-05",
+"funktion_beim_empfaenger": "Schatzmeister",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Nicolaus Heinen ist laut Lobbyregister Schatzmeister bei Ludwig-Erhard-Stiftung e.V. und hatte zuvor eine öffentliche Funktion: Abteilungsleiter, Bundesministerium der Finanzen (BMF) oder dessen Geschäftsbereich, bis 2025-05. Ludwig-Erhard-Stiftung e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Forschung, Technologie und Raumfahrt.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Forschung, Technologie und Raumfahrt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006613/79830",
+"stand": "2026-06-20"
+}
+],
+"stand": "2026-06-20"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Sonstiges",
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 480001,
+"bis": 490000
+},
+"mitgliedsbeitraege": {
+"von": 10001,
+"bis": 20000
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/d3/74/766364/LES_JA_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006613/79830",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-20",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

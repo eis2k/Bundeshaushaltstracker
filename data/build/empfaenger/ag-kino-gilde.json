@@ -1,0 +1,160 @@
+{
+"id": "ag-kino-gilde",
+"name": "AG Kino - Gilde",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.agkino.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001770",
+"eintrag_id": 71622,
+"version": 8,
+"stand": "2026-06-08",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001770/71622",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/b0/d2/752169/Lobbyregister-Registereintraege-Detailansicht-R001770-2026-06-08_12-17-09.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesbeauftragte für Kultur und Medien",
+"epl": "04",
+"von": 50001,
+"bis": 60000,
+"zweck": "Filmkunstmesse Leipzig Europäischer Kinotag",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Filmförderungsanstalt FFA",
+"epl": null,
+"von": 70001,
+"bis": 80000,
+"zweck": "Filmkunstmesse Leipzig Landkinonetzwerk",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 120002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christian Bräuer",
+"funktion": "Erster Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001770/71622",
+"stand": "2026-06-08"
+}
+},
+{
+"name": "Anne Kellner",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001770/71622",
+"stand": "2026-06-08"
+}
+},
+{
+"name": "Petra Rockenfeller",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001770/71622",
+"stand": "2026-06-08"
+}
+},
+{
+"name": "Christopher Bausch",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001770/71622",
+"stand": "2026-06-08"
+}
+},
+{
+"name": "Christian Pfeil",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001770/71622",
+"stand": "2026-06-08"
+}
+},
+{
+"name": "David Rezwanian",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001770/71622",
+"stand": "2026-06-08"
+}
+},
+{
+"name": "Felix Bruder",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001770/71622",
+"stand": "2026-06-08"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 250001,
+"bis": 260000
+},
+"lobbyausgaben": {
+"von": 90001,
+"bis": 100000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/d9/75/752168/157771-Jahresabschluss-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001770/71622",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-08",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

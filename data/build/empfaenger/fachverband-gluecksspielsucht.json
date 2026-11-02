@@ -1,0 +1,168 @@
+{
+"id": "fachverband-gluecksspielsucht",
+"name": "Fachverband Glücksspielsucht e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bielefeld",
+"website": "https://gluecksspielsucht.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004539",
+"eintrag_id": 80974,
+"version": 8,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004539/80974",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/9a/0c/790557/Lobbyregister-Registereintraege-Detailansicht-R004539-2026-06-30_12-56-08.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Deutsche Rentenversicherung Bund",
+"epl": null,
+"von": 90001,
+"bis": 100000,
+"zweck": "Zuwendungen nach § 31 Abs. 1 Nr. 3 SGB VI zur Verbesserung der Nachsorge Suchtkranker Referentenstelle Selbsthilfe Glücksspielsucht (Personal- und Sachkosten)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Gesundheit",
+"epl": "15",
+"von": 30001,
+"bis": 40000,
+"zweck": "Förderung Wissenschaftliche Fachtagung Glücksspielsucht",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministeriums für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+"epl": null,
+"von": 90001,
+"bis": 100000,
+"zweck": "Beratungs- und Kontaktstelle Glücksspielerschutz",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 210003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ilona Füchtenschnieder-Petry",
+"funktion": "Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004539/80974",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Ulrich Kemper",
+"funktion": "stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004539/80974",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Konrad Landgraf",
+"funktion": "stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004539/80974",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Frank Gauls",
+"funktion": "Kassenwart",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004539/80974",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Petra Hammer-Scheurer",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004539/80974",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Jan-Philipp Rock",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004539/80974",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Jan Paul Bieniek",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004539/80974",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 20001,
+"bis": 30000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/91/93/790556/EUeR-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004539/80974",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

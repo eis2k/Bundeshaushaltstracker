@@ -1,0 +1,96 @@
+{
+"id": "charging-interface-initative",
+"name": "Charging Interface Initative (CharIN) e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.charin.global ",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000533",
+"eintrag_id": 80169,
+"version": 7,
+"stand": "2026-06-26",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000533/80169",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/54/76/779732/Lobbyregister-Registereintraege-Detailansicht-R000533-2026-06-26_14-47-58.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 60001,
+"bis": 70000,
+"zweck": "Entwicklung eines Prüf- und Bewertungsansatzes zur Konformitäts und Interoperabilitätsprüfung CCS-basierter Ladeinfrastruktur und Erforschung technischer Konzepte für ein interoperables Megawatt Charging System (MCS) für Nutzfahrzeuge",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 60001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Claas Bracklo",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000533/80169",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Großmann Dirk",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000533/80169",
+"stand": "2026-06-26"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 3720001,
+"bis": 3730000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/d7/44/779730/Jahresabschlusses-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000533/80169",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-26",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

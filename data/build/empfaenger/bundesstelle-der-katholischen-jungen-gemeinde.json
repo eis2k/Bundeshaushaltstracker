@@ -1,0 +1,119 @@
+{
+"id": "bundesstelle-der-katholischen-jungen-gemeinde",
+"name": "Bundesstelle der Katholischen jungen Gemeinde e.V.",
+"art": "kirche_wohlfahrt",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Düsseldorf",
+"website": "www.kjg.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004635",
+"eintrag_id": 79325,
+"version": 10,
+"stand": "2026-06-16",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004635/79325",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/5c/0e/760590/Lobbyregister-Registereintraege-Detailansicht-R004635-2026-06-16_14-27-31.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMFSFJ",
+"epl": "17",
+"von": 360001,
+"bis": 370000,
+"zweck": "Personalkosten und Maßnahmeförderung aus dem Kinder- und Jungendplan des Bundes in den Handlungsfeldern Kinder- und Jugendarbeit sowie Internationale Jugendarbeit.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 360001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Simon Schwarzmüller",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004635/79325",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Louise Charters",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004635/79325",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Lisa Holzer",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004635/79325",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Olek Meyer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004635/79325",
+"stand": "2026-06-16"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 500001,
+"bis": 510000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/bd/a8/760585/JA-Lobbyregister-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004635/79325",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-16",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

@@ -1,0 +1,98 @@
+{
+"id": "bio-innovation-park-rheinland",
+"name": "bio innovation park Rheinland e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Rheinbach",
+"website": "www.bio-innovation.net",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006964",
+"eintrag_id": 83623,
+"version": 5,
+"stand": "2026-08-20",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006964/83623",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/a7/4b/833251/Lobbyregister-Registereintraege-Detailansicht-R006964-2026-08-20_15-36-33.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 80001,
+"bis": 90000,
+"zweck": "Forschungsprojekt zur Erforschung von nachhaltigen und energieeffizienten Pflanzenproduktionen in geschlossenen Kultursystemen. Ziel ist es hierbei zu zeigen, dass mithilfe von modernen Systemen eine energieeffiziente und regional angepasste Lebensmittelproduktion möglich ist. Dies soll steigendem Ressourcenverbrauch entgegenwirken und gleichzeitig die Ernährungssicherheit steigern.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 80001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Alexander Krings",
+"funktion": "1. Stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006964/83623",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Sophia Dohlen",
+"funktion": "2. Stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006964/83623",
+"stand": "2026-08-20"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 50001,
+"bis": 60000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/14/8a/833246/2025_Jahresabschluss_bioIP_Final_Lobbyregister.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006964/83623",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-20",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

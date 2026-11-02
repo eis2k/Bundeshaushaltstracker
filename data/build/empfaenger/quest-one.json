@@ -1,0 +1,114 @@
+{
+"id": "quest-one",
+"name": "Quest One",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Augsburg",
+"website": "www.questone.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R008007",
+"eintrag_id": 80023,
+"version": 4,
+"stand": "2026-08-20",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008007/80023",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/52/c2/833195/Lobbyregister-Registereintraege-Detailansicht-R008007-2026-08-20_15-08-42.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 2740001,
+"bis": 2750000,
+"zweck": "H2 Giga - Verbundprojekt: PEP.IN - Industrialisierung PEM-Elektrolyse-Produktion Teilvorhaben: Serienproduktion PEM",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 140001,
+"bis": 150000,
+"zweck": "Verbundvorhaben H2Giga_NG4_IRIDIOS: Ir-arme hocheffiziente MEA für PEM Elektrolysestack im MW-Bereich Ir-arme hocheffiziente MEA für PEM Elektrolysestack im MW-Bereich, Teilvorhaben Entwicklung neuer Stacks mit Iridium-armen MEA, Hochskalierung, Validierung und Demonstration in einer MW Anlage",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 2880002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Michael Alexander Meister",
+"funktion": "Geschäftsführer, CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008007/80023",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Menage Alexandre",
+"funktion": "Geschäftsführer, CTO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008007/80023",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Nima Pegemanyfar",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008007/80023",
+"stand": "2026-08-20"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/00/48/833193/geschaeftsbericht-2025-volkswagen-group.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008007/80023",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-20",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

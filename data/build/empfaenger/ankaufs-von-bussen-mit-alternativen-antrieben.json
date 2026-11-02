@@ -1,0 +1,52 @@
+{
+"id": "ankaufs-von-bussen-mit-alternativen-antrieben",
+"name": "Ankaufs von Bussen mit alternativen Antrieben",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "60-6092-89309",
+"text": "Förderung des Ankaufs von Bussen mit alternativen Antrieben",
+"epl": "60",
+"epl_text": "Allgemeine Finanzverwaltung",
+"werte": {
+"2023": {
+"soll": 471652000,
+"ist": null
+},
+"2024": {
+"soll": 459621000,
+"ist": null
+},
+"2025": {
+"soll": 462078000,
+"ist": 359111131
+},
+"2026": {
+"soll": 403378000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

@@ -1,0 +1,248 @@
+{
+"id": "der-kinderschutzbund-bundesverband",
+"name": "Der Kinderschutzbund Bundesverband e.V. ",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.kinderschutzbund.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000657",
+"eintrag_id": 77242,
+"version": 18,
+"stand": "2026-05-26",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000657/77242",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c3/b9/741972/Lobbyregister-Registereintraege-Detailansicht-R000657-2026-05-26_11-46-04.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesverwaltungsamt, Kinder- und Jugendplan des Bundes",
+"epl": "06",
+"von": 360001,
+"bis": 370000,
+"zweck": "Förderung des Kinderschutzbundes Bundesverbandes aus dem Kinder- und Jugendplan des Bundes",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 360001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Sabine Andresen",
+"funktion": "Präsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000657/77242",
+"stand": "2026-05-26"
+}
+},
+{
+"name": "Beate Naake",
+"funktion": "Schriftführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000657/77242",
+"stand": "2026-05-26"
+}
+},
+{
+"name": "Rolf Himmelsbach",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000657/77242",
+"stand": "2026-05-26"
+}
+},
+{
+"name": "Joachim Türk",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000657/77242",
+"stand": "2026-05-26"
+}
+},
+{
+"name": "Heidi Schmieding",
+"funktion": "Beisitzerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000657/77242",
+"stand": "2026-05-26"
+}
+},
+{
+"name": "Nezahat Baradari",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000657/77242",
+"stand": "2026-05-26"
+}
+},
+{
+"name": "Yvonne Bauer",
+"funktion": "Beisitzerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000657/77242",
+"stand": "2026-05-26"
+}
+},
+{
+"name": "Daniel Grein",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000657/77242",
+"stand": "2026-05-26"
+}
+},
+{
+"name": "Juliane Wlodarczak",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000657/77242",
+"stand": "2026-05-26"
+}
+},
+{
+"name": "Paula Götz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000657/77242",
+"stand": "2026-05-26"
+}
+},
+{
+"name": "Elena Frense",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000657/77242",
+"stand": "2026-05-26"
+}
+},
+{
+"name": "Konstanze Butenuth",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000657/77242",
+"stand": "2026-05-26"
+}
+},
+{
+"name": "Rebekka Schuppert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000657/77242",
+"stand": "2026-05-26"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Nezahat Baradari",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag",
+"funktion_beim_empfaenger": "Vizepräsidentin",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Nezahat Baradari ist laut Lobbyregister Vizepräsidentin bei Der Kinderschutzbund Bundesverband e.V.  und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag. Der Kinderschutzbund Bundesverband e.V.  erhielt laut Lobbyregister Mittel von: Bundesverwaltungsamt, Kinder- und Jugendplan des Bundes.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesverwaltungsamt, Kinder- und Jugendplan des Bundes"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000657/77242",
+"stand": "2026-05-26"
+}
+],
+"stand": "2026-05-26"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 300001,
+"bis": 310000
+},
+"mitgliedsbeitraege": {
+"von": 280001,
+"bis": 290000
+},
+"lobbyausgaben": {
+"von": 150001,
+"bis": 160000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/c1/52/741971/DKSB-GUV-Bilanz-25.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000657/77242",
+"abgerufen": "2026-11-02",
+"stand": "2026-05-26",
+"etikett": "Eigenangabe",
+"version": 18
+}
+]
+}

@@ -1,0 +1,134 @@
+{
+"id": "der-gruene-punkt-holding",
+"name": "Der Grüne Punkt Holding GmbH & Co. KG",
+"art": "unternehmen",
+"rechtsform": "Sonstige Personengesellschaft",
+"sitz": "Köln",
+"website": "www.gruener-punkt.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006263",
+"eintrag_id": 68234,
+"version": 12,
+"stand": "2026-01-12",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006263/68234",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/8e/b7/680661/Lobbyregister-Registereintraege-Detailansicht-R006263-2026-01-12_11-42-43.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Finanzamt",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "Bundesförderung für effiziente Gebäude (Einzelmaßnahmen)",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Finanzamt",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "Bundesförderung für Energie- und Ressourceneffizienz in der Wirtschaft",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Finanzamt",
+"epl": null,
+"von": 540001,
+"bis": 550000,
+"zweck": "Zuschuss",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 580003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Laurent Auguste",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006263/68234",
+"stand": "2026-01-12"
+}
+},
+{
+"name": "Carsten Kloes",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006263/68234",
+"stand": "2026-01-12"
+}
+},
+{
+"name": "Ursula Denison",
+"funktion": "Head of International Business Development",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006263/68234",
+"stand": "2026-01-12"
+}
+},
+{
+"name": "Alexandre Dangis",
+"funktion": "Vice-President Global Corporate Affairs",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006263/68234",
+"stand": "2026-01-12"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 140001,
+"bis": 150000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/f5/25/680655/GP-Konzern-2023-Testat.pdf",
+"geschaeftsjahr": "2023",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006263/68234",
+"abgerufen": "2026-11-02",
+"stand": "2026-01-12",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

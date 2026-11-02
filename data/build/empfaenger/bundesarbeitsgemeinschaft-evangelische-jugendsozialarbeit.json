@@ -1,0 +1,129 @@
+{
+"id": "bundesarbeitsgemeinschaft-evangelische-jugendsozialarbeit",
+"name": "Bundesarbeitsgemeinschaft Evangelische Jugendsozialarbeit e.V.",
+"art": "kirche_wohlfahrt",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Stuttgart",
+"website": "www.bagejsa.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004474",
+"eintrag_id": 87503,
+"version": 13,
+"stand": "2026-10-13",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004474/87503",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/64/21/860672/Lobbyregister-Registereintraege-Detailansicht-R004474-2026-10-13_14-59-38.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMBFSFJ",
+"epl": "17",
+"von": 20001,
+"bis": 30000,
+"zweck": "Programm Kinder- und Jugendplan des Bundes",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 20001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christiane Giersen",
+"funktion": "Vorständin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004474/87503",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Petra Densborn",
+"funktion": "Vorständin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004474/87503",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Ingo Grastorf",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004474/87503",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Christine Lohn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004474/87503",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Christiane Weidner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004474/87503",
+"stand": "2026-10-13"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 60001,
+"bis": 70000
+},
+"lobbyausgaben": {
+"von": 40001,
+"bis": 50000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ee/02/860671/GuV-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004474/87503",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-13",
+"etikett": "Eigenangabe",
+"version": 13
+}
+]
+}

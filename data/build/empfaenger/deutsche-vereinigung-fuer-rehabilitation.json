@@ -1,0 +1,150 @@
+{
+"id": "deutsche-vereinigung-fuer-rehabilitation",
+"name": "Deutsche Vereinigung für Rehabilitation e.V. (DVfR)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Heidelberg",
+"website": "www.dvfr.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003507",
+"eintrag_id": 79968,
+"version": 11,
+"stand": "2026-06-25",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003507/79968",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/e1/d7/777626/Lobbyregister-Registereintraege-Detailansicht-R003507-2026-06-25_18-13-43.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Arbeit und Soziales",
+"epl": "11",
+"von": 630001,
+"bis": 640000,
+"zweck": "Institutionelle Förderung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Arbeit und Soziales",
+"epl": "11",
+"von": 610001,
+"bis": 620000,
+"zweck": "Die DVfR ist Erstzuwendungsempfänger des Projekts \"Mit Vielfalt zum inklusiven Arbeitsmarkt - Aufgaben für das Reha- und Teilhaberecht (VinkA)\". Laufzeit von 09/2024 bis 08/2027. Der angegebene Betrag enthält auch die Weiterleitung von Mitteln an vier Projektpartner.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1240002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Matthias Schmidt-Ohlemann",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003507/79968",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Andreas Bethke",
+"funktion": "2. stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003507/79968",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Gerd Kukla",
+"funktion": "Schriftführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003507/79968",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Rolf Buschmann-Steinhage",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003507/79968",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Bernhard Greitemann",
+"funktion": "1. stellvertretender Vorsitzender ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003507/79968",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Sylvia Kurth",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003507/79968",
+"stand": "2026-06-25"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 60001,
+"bis": 70000
+},
+"lobbyausgaben": {
+"von": 40001,
+"bis": 50000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/fb/d1/777622/2025-DVfR-Jahresabschluss.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003507/79968",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-25",
+"etikett": "Eigenangabe",
+"version": 11
+}
+]
+}

@@ -1,0 +1,207 @@
+{
+"id": "das-progressive-zentrum",
+"name": "Das Progressive Zentrum e. V. ",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.progressives-zentrum.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005567",
+"eintrag_id": 85257,
+"version": 11,
+"stand": "2026-08-31",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005567/85257",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/1e/0e/836557/Lobbyregister-Registereintraege-Detailansicht-R005567-2026-08-31_10-29-05.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Presse- und Informationsamt der Bundesregierung",
+"epl": "04",
+"von": 490001,
+"bis": 500000,
+"zweck": "Förderung von Personal- und Verwaltungsausgaben zur Erfüllung der satzungsgemäßen Ziele",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Kreditanstalt für Wiederaufbau im Auftrag der deutschen Bundesregierung",
+"epl": null,
+"von": 150001,
+"bis": 160000,
+"zweck": "Projektförderung \"Transatlantic Dialogue on the Industrial Heartlands: Shaping a Just Transition\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 640002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Dominic Schwickert",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005567/85257",
+"stand": "2026-08-31"
+}
+},
+{
+"name": "Wolfgang Schroeder",
+"funktion": "Vorsitzender ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005567/85257",
+"stand": "2026-08-31"
+}
+},
+{
+"name": "Judith Siller",
+"funktion": "Zweite Vorsitzende ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Referentin",
+"stelle": "Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH) oder dessen Geschäftsbereich",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005567/85257",
+"stand": "2026-08-31"
+}
+},
+{
+"name": "Joachim Knodt",
+"funktion": "Vorstandsmitglied/Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Beamter",
+"stelle": "Auswärtiges Amt (AA) oder dessen Geschäftsbereich",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005567/85257",
+"stand": "2026-08-31"
+}
+},
+{
+"name": "Paul Jürgensen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005567/85257",
+"stand": "2026-08-31"
+}
+},
+{
+"name": "Andreas Oldenbourg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005567/85257",
+"stand": "2026-08-31"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Judith Siller",
+"funktion_person": "Referentin, Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH) oder dessen Geschäftsbereich",
+"funktion_beim_empfaenger": "Zweite Vorsitzende ",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Judith Siller ist laut Lobbyregister Zweite Vorsitzende  bei Das Progressive Zentrum e. V.  und hatte zuvor eine öffentliche Funktion: Referentin, Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH) oder dessen Geschäftsbereich. Das Progressive Zentrum e. V.  erhielt laut Lobbyregister Mittel von: Presse- und Informationsamt der Bundesregierung; Kreditanstalt für Wiederaufbau im Auftrag der deutschen Bundesregierung.",
+"ausschuesse": [],
+"geld_aus": [
+"Presse- und Informationsamt der Bundesregierung",
+"Kreditanstalt für Wiederaufbau im Auftrag der deutschen Bundesregierung"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005567/85257",
+"stand": "2026-08-31"
+}
+],
+"stand": "2026-08-31"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Joachim Knodt",
+"funktion_person": "Beamter, Auswärtiges Amt (AA) oder dessen Geschäftsbereich",
+"funktion_beim_empfaenger": "Vorstandsmitglied/Schatzmeister",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Joachim Knodt ist laut Lobbyregister Vorstandsmitglied/Schatzmeister bei Das Progressive Zentrum e. V.  und hatte zuvor eine öffentliche Funktion: Beamter, Auswärtiges Amt (AA) oder dessen Geschäftsbereich. Das Progressive Zentrum e. V.  erhielt laut Lobbyregister Mittel von: Presse- und Informationsamt der Bundesregierung; Kreditanstalt für Wiederaufbau im Auftrag der deutschen Bundesregierung.",
+"ausschuesse": [],
+"geld_aus": [
+"Presse- und Informationsamt der Bundesregierung",
+"Kreditanstalt für Wiederaufbau im Auftrag der deutschen Bundesregierung"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005567/85257",
+"stand": "2026-08-31"
+}
+],
+"stand": "2026-08-31"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 270001,
+"bis": 280000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 80001,
+"bis": 90000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/70/33/836556/JA-2024-short-DPZ.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005567/85257",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-31",
+"etikett": "Eigenangabe",
+"version": 11
+}
+]
+}

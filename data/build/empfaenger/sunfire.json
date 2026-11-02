@@ -1,0 +1,174 @@
+{
+"id": "sunfire",
+"name": "Sunfire SE",
+"art": "unternehmen",
+"rechtsform": "Europäische Aktiengesellschaft (SE)",
+"sitz": "Dresden",
+"website": "www.sunfire.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004538",
+"eintrag_id": 88235,
+"version": 11,
+"stand": "2026-11-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004538/88235",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/47/36/867669/Lobbyregister-Registereintraege-Detailansicht-R004538-2026-11-01_19-58-47.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 2890001,
+"bis": 2900000,
+"zweck": "\"Verbundvorhaben HTEL-Module - Ready for Gigawatt Teilvorhaben: Serienfertigung großskaliger HTEL-Module\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 4640001,
+"bis": 4650000,
+"zweck": "\"Verbundvorhaben AEL - Ready for Gigawatt Teilvorhaben: Serienfertigung großskaliger Alkalielektrolyseure\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE",
+"epl": "09",
+"von": 28700001,
+"bis": 28710000,
+"zweck": "Industrialisierung von AEL und SOEC Elektrolyseuren",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 90001,
+"bis": 100000,
+"zweck": "GrinHy 3.0. - Hochtempreraturelektrolyse in der Stahlerzeugung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "Integrate - Innovative alkalische Membran-Elektroden-Designs für kostengünsitgen grünen Wasserstoff im GW-Maßstab",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 110001,
+"bis": 120000,
+"zweck": "CO2-WIN – Verbundvorhaben: HTCoEl – Kompakte Sythesegaserzeugung durch Hochtemperatur-Coelektrolyse – TP1: Komponentenentwicklung und Systemtest",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 40001,
+"bis": 50000,
+"zweck": "Entwicklung einer industrialisierbaren Hochleistungs-Hochdruck-Hochtemperatur-Elektrolyse-Technologie für Power-to-Chemicals",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE",
+"epl": "09",
+"von": 20001,
+"bis": 30000,
+"zweck": "AEL für druckoptimierte Anwendungen auf basis erneuerbarer Stromerzeugung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 36510008,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Nils Aldag",
+"funktion": "CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004538/88235",
+"stand": "2026-11-01"
+}
+},
+{
+"name": "Christian Von Olshausen",
+"funktion": "CTO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004538/88235",
+"stand": "2026-11-01"
+}
+},
+{
+"name": "Christopher Frey",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004538/88235",
+"stand": "2026-11-01"
+}
+},
+{
+"name": "Samuel Suchel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004538/88235",
+"stand": "2026-11-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 120001,
+"bis": 130000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/18/21/867668/DEE00168059-1-3-SF-Konzernabschluss-Testat-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004538/88235",
+"abgerufen": "2026-11-02",
+"stand": "2026-11-01",
+"etikett": "Eigenangabe",
+"version": 11
+}
+]
+}

@@ -1,0 +1,294 @@
+{
+"id": "johanniter-unfall-hilfe",
+"name": "Johanniter-Unfall-Hilfe e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://www.johanniter.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002223",
+"eintrag_id": 85604,
+"version": 42,
+"stand": "2026-09-08",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002223/85604",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/85/ac/839731/Lobbyregister-Registereintraege-Detailansicht-R002223-2026-09-08_13-18-39.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Migration und Flüchtlinge",
+"epl": "06",
+"von": 2340001,
+"bis": 2350000,
+"zweck": "Förderung verschiedener Integrationsprojekte",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 6070001,
+"bis": 6080000,
+"zweck": "Humanitäre Projekte im In- und Ausland, MEDEVAC",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe",
+"epl": "06",
+"von": 1930001,
+"bis": 1940000,
+"zweck": "Projektförderungen Bevölkerungsschutz",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 70001,
+"bis": 80000,
+"zweck": "Förderung von Mehrgenerationenhäusern und Engagement",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft u. Ausfuhrkontrolle (BAFA)",
+"epl": null,
+"von": 80001,
+"bis": 90000,
+"zweck": "Förderung sozialer Projekte",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"epl": "17",
+"von": 230001,
+"bis": 240000,
+"zweck": "Förderung sozialer Projekte",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium des Innern",
+"epl": "06",
+"von": 70001,
+"bis": 80000,
+"zweck": "Förderung Demokratieprojekt im Programm \"Zusammenhalt durch Teilhabe\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 8010001,
+"bis": 8020000,
+"zweck": "Förderung Entwicklungszusammenarbeit",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Soziale Sicherung (BAS)",
+"epl": "11",
+"von": 70001,
+"bis": 80000,
+"zweck": "Zuwendung Pflegekassen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Arbeit und Soziales",
+"epl": "11",
+"von": 70001,
+"bis": 80000,
+"zweck": "Projekt im Bereich Führungskräfteentwicklung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundeszentrale für politische Bildung",
+"epl": "06",
+"von": 40001,
+"bis": 50000,
+"zweck": "Projekt im Bereich Vielfalt und Antidiskriminierung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 18980011,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Thomas Mähnert",
+"funktion": "Mitglied des Bundesvorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002223/85604",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Oliver Meermann",
+"funktion": "Mitglied des Bundesvorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002223/85604",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Friederike Moser von Filseck",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002223/85604",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Annegret Ernst",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002223/85604",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Kevin  Grigorian",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002223/85604",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Jens  Schwalb",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002223/85604",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Elisabeth Schott",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002223/85604",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Ralf Sick",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002223/85604",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Valeska  Keresztes-Grau",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002223/85604",
+"stand": "2026-09-08"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Valeska  Keresztes-Grau",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Valeska  Keresztes-Grau ist laut Lobbyregister Interessenvertretung bei Johanniter-Unfall-Hilfe e.V. und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03. Johanniter-Unfall-Hilfe e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung; Auswärtiges Amt; Bundesamt für Migration und Flüchtlinge; Bundesamt für Bevölkerungsschutz und Katastrophenhilfe; Bundesamt für Familie und zivilgesellschaftliche Aufgaben; Bundesamt für Wirtschaft u. Ausfuhrkontrolle (BAFA); Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend; Bundesministerium des Innern; Bundesamt für Soziale Sicherung (BAS); Bundesministerium für Arbeit und Soziales; Bundeszentrale für politische Bildung.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"Auswärtiges Amt",
+"Bundesamt für Migration und Flüchtlinge",
+"Bundesamt für Bevölkerungsschutz und Katastrophenhilfe",
+"Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"Bundesamt für Wirtschaft u. Ausfuhrkontrolle (BAFA)",
+"Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"Bundesministerium des Innern",
+"Bundesamt für Soziale Sicherung (BAS)",
+"Bundesministerium für Arbeit und Soziales",
+"Bundeszentrale für politische Bildung"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002223/85604",
+"stand": "2026-09-08"
+}
+],
+"stand": "2026-09-08"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 57840001,
+"bis": 57850000
+},
+"mitgliedsbeitraege": {
+"von": 86280001,
+"bis": 86290000
+},
+"lobbyausgaben": {
+"von": 420001,
+"bis": 430000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/19/f2/839730/JUH_JB25_Gesamt_260709_digital.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002223/85604",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-08",
+"etikett": "Eigenangabe",
+"version": 42
+}
+]
+}

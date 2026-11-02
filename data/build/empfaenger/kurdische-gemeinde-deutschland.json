@@ -1,0 +1,192 @@
+{
+"id": "kurdische-gemeinde-deutschland",
+"name": "Kurdische Gemeinde Deutschland e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Gießen",
+"website": "https://kurdische-gemeinde.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R008124",
+"eintrag_id": 84306,
+"version": 2,
+"stand": "2026-08-14",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008124/84306",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/59/46/831318/Lobbyregister-Registereintraege-Detailansicht-R008124-2026-08-14_15-20-30.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Migration und Flüchtlinge",
+"epl": "06",
+"von": 130001,
+"bis": 140000,
+"zweck": "Förderung eines Dialogprojektes zwischen Polizei und Zivilgesellschaft",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministeriums für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ)",
+"epl": null,
+"von": 240001,
+"bis": 250000,
+"zweck": "Förderung des Projektes WERTE-Was uns verbindet, ein interaktives Bildungs- und Ausstellungsprojekt für Jugendliche und Multiplikator:innen, das diskriminierungskritische Perspektiven sichtbar macht, zum Dialog einlädt und gemeinsame Werte wie Respekt, Vielfalt und Zusammenhalt ins Zentrum stellt.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesprogramm \"Zusammenhalt durch Teilhabe\" des Bundesministeriums des Innern (BMI) und der Bundeszentrale für politische Bildung (bpb)",
+"epl": null,
+"von": 50001,
+"bis": 60000,
+"zweck": "Förderung des Projektes \"Wir für Demokratie\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Migration und Flüchtlinge - BGZ Programm",
+"epl": "06",
+"von": 60001,
+"bis": 70000,
+"zweck": "Förderung des Projektes Drehkreuz Vielfalt Berlin, ein partizipatives Filmprojekt für Jugendliche und junge Erwachsene in Berlin, das darauf abzielt, das Bewusstsein für Diskriminierung zu schärfen und kreative Ausdrucksformen für mehr Miteinander zu fördern",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundeszentrale für politische Bildung",
+"epl": "06",
+"von": 10001,
+"bis": 20000,
+"zweck": "Zuschuss für Durchführung von Maßnahmen der politischen Bildung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Migration und Flüchtlinge",
+"epl": "06",
+"von": 10001,
+"bis": 20000,
+"zweck": "Durchführung von Multiplikator:innenschulungen im Bereich Professionalisierung und Digitalisierung der Verbandsarbeit",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 500006,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Toprak Ali Ertan",
+"funktion": "Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008124/84306",
+"stand": "2026-08-14"
+}
+},
+{
+"name": "Mehmet Tanriverdi",
+"funktion": "Stellv. Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008124/84306",
+"stand": "2026-08-14"
+}
+},
+{
+"name": "Cahit Basar",
+"funktion": "Generalsekretär",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008124/84306",
+"stand": "2026-08-14"
+}
+},
+{
+"name": "Diana Mela Abdullah",
+"funktion": "Kassenwartin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008124/84306",
+"stand": "2026-08-14"
+}
+},
+{
+"name": "Simel Sever",
+"funktion": "Stellv. Kassenwartin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008124/84306",
+"stand": "2026-08-14"
+}
+},
+{
+"name": "Khanda Daudi",
+"funktion": "Stellv. Generalsekretärin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008124/84306",
+"stand": "2026-08-14"
+}
+},
+{
+"name": "Armanc Agid Mihemedselim-Nerweyi",
+"funktion": "Medienbeauftragter",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008124/84306",
+"stand": "2026-08-14"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 10001,
+"bis": 20000
+},
+"mitgliedsbeitraege": {
+"von": 10001,
+"bis": 20000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/fb/0c/831317/Geschaeftsbericht-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008124/84306",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-14",
+"etikett": "Eigenangabe",
+"version": 2
+}
+]
+}

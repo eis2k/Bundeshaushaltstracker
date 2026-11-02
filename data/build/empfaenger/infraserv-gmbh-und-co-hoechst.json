@@ -1,0 +1,158 @@
+{
+"id": "infraserv-gmbh-und-co-hoechst",
+"name": "Infraserv GmbH & Co. Höchst KG",
+"art": "unternehmen",
+"rechtsform": "Kommanditgesellschaft (KG)",
+"sitz": "Frankfurt am Main",
+"website": "www.infraserv.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006724",
+"eintrag_id": 86434,
+"version": 6,
+"stand": "2026-09-25",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006724/86434",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/cb/cf/847749/Lobbyregister-Registereintraege-Detailansicht-R006724-2026-09-25_13-44-42.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "H2LogisticsOnRail entwickelt einen smarten, multimodalen 40-ft-Wasserstoff-Transportcontainer mit 500-bar-Druckspeichern, um grünen Wasserstoff insbesondere per Bahn, aber auch per Straße und perspektivisch per Schiff transportieren zu können. Ziel ist eine sichere, überwachte und emissionsärmere Logistiklösung für größere Mengen komprimierten Wasserstoffs. Infraserv Höchst übernimmt dabei vor allem die standortbezogene Umsetzung im Industriepark Höchst: Befüllung, Entnahme, Umschlag zwischen Verkehrsträgern sowie die Bereitstellung der notwendigen H2- und Schieneninfrastruktur für Versuche und Pilotbetrieb. Die gewonnenen Erkenntnisse sollen in die Projektierung von Trailerstationen, H2-Tankstellen und den Betrieb von Wasserstoffanlagen einfließen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 30001,
+"bis": 40000,
+"zweck": "Fördermittel Phosphorrecycling. RePhoR - Verbundprojekt RePhoRM (Umsetzungsphase): Regionales Phosphorrecycling im Rhein-Main-Gebiet unter Berücksichtigung industrieller und agrarischer Stoffkreisläufe.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 60002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Joachim Kreysing",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006724/86434",
+"stand": "2026-09-25"
+}
+},
+{
+"name": "Alexander Wagner",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006724/86434",
+"stand": "2026-09-25"
+}
+},
+{
+"name": "Rita Bürger",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006724/86434",
+"stand": "2026-09-25"
+}
+},
+{
+"name": "Oliver Kunzelmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006724/86434",
+"stand": "2026-09-25"
+}
+},
+{
+"name": "Michael Frank",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006724/86434",
+"stand": "2026-09-25"
+}
+},
+{
+"name": "Thomas Kaiser",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006724/86434",
+"stand": "2026-09-25"
+}
+},
+{
+"name": "Jakob Neumaier",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006724/86434",
+"stand": "2026-09-25"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 90001,
+"bis": 100000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/36/e9/847748/ISH_Testat_JAP_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006724/86434",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-25",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

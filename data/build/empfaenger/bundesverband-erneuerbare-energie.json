@@ -1,0 +1,286 @@
+{
+"id": "bundesverband-erneuerbare-energie",
+"name": "Bundesverband Erneuerbare Energie e.V. (BEE)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.bee-ev.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002168",
+"eintrag_id": 86822,
+"version": 44,
+"stand": "2026-09-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002168/86822",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ff/fb/853581/Lobbyregister-Registereintraege-Detailansicht-R002168-2026-09-30_19-09-33.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 100001,
+"bis": 110000,
+"zweck": "Konzeption, Planung, Durchführung und Nachbereitung einer internationalen Konferenz zu den zentralen energiepolitischen Fragestellung einer globalen Energiewende (Berlin Energy Transition Dialog).",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz (BMWK) im Rahmen des STARK Förderprogramms",
+"epl": "09",
+"von": 250001,
+"bis": 260000,
+"zweck": "BEE ist neben der LEAG und dem IBBF einer der Initiatoren des Qualifizierungsverbundes in der Lausitz für erneuerbare Energien [gesprochen: kle:] und entwickelt Möglichkeiten zur Qualifizierung im Bereich neuer Technologien für Unternehmen, Kommunen und Vereine in der Lausitz.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+"epl": "23",
+"von": 200001,
+"bis": 210000,
+"zweck": "Bei diesem Vorhaben handelt es sich um eine Kooperation im Rahmen des Programms der Kammer- und Verbandspartnerschaften (KVP), in dem deutsche Wirtschaftsorganisationen eigenverantwortlich mit Organisationen weltweit kooperieren. Im Fokus steht ein Wissensdialog auf Augenhöhe, um lokale Akteur*innen als Interessenvertretungen und Kompetenzzentren für ihre Mitgliedsunternehmen weiterzuentwickeln. So kann die Transformation des Energiesystems eigenständig und wirksam mitgestaltet werden. Der Bundesverband Erneuerbare Energie e.V. (BEE) koordiniert als deutsche Projektträgerin die Expertise des Bundesverband Solarwirtschaft e.V. (BSW-Solar), des Bundesverband WindEnergie e.V. (BWE) und des Fachverband Biogas e.V. (FvB). Auf südafrikanischer Seite stützt sich die Kooperation auf die drei Branchenverbände South African Wind Energy Association (SAWEA), South African Photovoltaic Industry Association (SAPVIA) und Southern African Biogas Industry Association (SABIA).",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 550003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ursula Heinen-Esser",
+"funktion": "Präsidentin und Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002168/86822",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Bärbel Heidebroek",
+"funktion": "Vize-Präsidentin und Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002168/86822",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Carsten Körnig",
+"funktion": "Vize-Präsident und Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002168/86822",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Hans-Peter Lang",
+"funktion": "Vize-Präsident und Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002168/86822",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Martin Sabel",
+"funktion": "Vize-Präsident und Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002168/86822",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Horst Seide",
+"funktion": "Vize-Präsident und Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002168/86822",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Steffen Lackmann",
+"funktion": "Vize-Präsident und Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002168/86822",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Matthias Stark",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002168/86822",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Florian Widdel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002168/86822",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Helge Beyer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002168/86822",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Paul Jannaschk",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002168/86822",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Philip Matthiessen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002168/86822",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Paula Fredrich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002168/86822",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Christine Falken-Großer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Referatsleiterin",
+"stelle": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2026-02"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002168/86822",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Michel Sunderer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002168/86822",
+"stand": "2026-09-30"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Christine Falken-Großer",
+"funktion_person": "Referatsleiterin, Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN) oder dessen Geschäftsbereich, bis 2026-02",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Christine Falken-Großer ist laut Lobbyregister Interessenvertretung bei Bundesverband Erneuerbare Energie e.V. (BEE) und hatte zuvor eine öffentliche Funktion: Referatsleiterin, Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN) oder dessen Geschäftsbereich, bis 2026-02. Bundesverband Erneuerbare Energie e.V. (BEE) erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Klimaschutz (BMWK) im Rahmen des STARK Förderprogramms; Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ); Auswärtiges Amt.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Wirtschaft und Klimaschutz (BMWK) im Rahmen des STARK Förderprogramms",
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+"Auswärtiges Amt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002168/86822",
+"stand": "2026-09-30"
+}
+],
+"stand": "2026-09-30"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 3170001,
+"bis": 3180000
+},
+"lobbyausgaben": {
+"von": 1110001,
+"bis": 1120000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/bb/3c/853571/BEE-e-V-Auszug-JA2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002168/86822",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-30",
+"etikett": "Eigenangabe",
+"version": 44
+}
+]
+}

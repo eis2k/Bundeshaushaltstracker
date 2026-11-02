@@ -1,0 +1,154 @@
+{
+"id": "netzwerk-recherche",
+"name": "Netzwerk Recherche",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://netzwerkrecherche.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003933",
+"eintrag_id": 83587,
+"version": 10,
+"stand": "2026-07-23",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003933/83587",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/bc/fc/818963/Lobbyregister-Registereintraege-Detailansicht-R003933-2026-07-23_15-37-16.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Die Beauftragte der Bundesregierung für Kultur und Medien",
+"epl": "04",
+"von": 90001,
+"bis": 100000,
+"zweck": "Förderung Projekt: Helpline",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 90001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Daniel Drepper",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003933/83587",
+"stand": "2026-07-23"
+}
+},
+{
+"name": "Annelie Naumann",
+"funktion": "2. Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003933/83587",
+"stand": "2026-07-23"
+}
+},
+{
+"name": "Christian Esser",
+"funktion": "Kassenwart",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003933/83587",
+"stand": "2026-07-23"
+}
+},
+{
+"name": "Thomas Schnedler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003933/83587",
+"stand": "2026-07-23"
+}
+},
+{
+"name": "Malte Werner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003933/83587",
+"stand": "2026-07-23"
+}
+},
+{
+"name": "Manfred Redelfs",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003933/83587",
+"stand": "2026-07-23"
+}
+},
+{
+"name": "Yann Werner Prell",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003933/83587",
+"stand": "2026-07-23"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 480001,
+"bis": 490000
+},
+"mitgliedsbeitraege": {
+"von": 210001,
+"bis": 220000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/24/4b/818961/NR-Jahresbericht-2025-web.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003933/83587",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-23",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

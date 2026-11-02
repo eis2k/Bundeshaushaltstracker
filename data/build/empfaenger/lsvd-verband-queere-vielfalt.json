@@ -1,0 +1,408 @@
+{
+"id": "lsvd-verband-queere-vielfalt",
+"name": "LSVD+ - Verband Queere Vielfalt",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Köln",
+"website": "http://lsvd.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000374",
+"eintrag_id": 81178,
+"version": 19,
+"stand": "2026-08-13",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000374/81178",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ab/a9/830885/Lobbyregister-Registereintraege-Detailansicht-R000374-2026-08-13_16-05-24.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration",
+"epl": null,
+"von": 250001,
+"bis": 260000,
+"zweck": "Projekt des Familien- und Sozialvereins des LSVD \"Fluchtgrund Queer: Queer Refugees Deutschland\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 510001,
+"bis": 520000,
+"zweck": "Projekt des Familien- und Sozialvereins des LSVD+ \"Selbstverständlich Vielfalt - Kooperationsverbund für sexuelle, romantische und geschlechtliche Selbstbestimmung (Demokratie leben)\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 140001,
+"bis": 150000,
+"zweck": "Projekt des Familien- und Sozialverein des LSVD+ \"Gewaltfrei ankommen\" (Demokratie leben)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 900003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Philipp Braun",
+"funktion": "Mitglied im Bundesvorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Referent",
+"stelle": "Bundesministerium für Wirtschaft und Energie (BMWE) oder dessen Geschäftsbereich",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000374/81178",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Patrick Dörr",
+"funktion": "Mitglied im Bundesvorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000374/81178",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Andre Lehmann",
+"funktion": "Mitglied im Bundesvorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-04"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000374/81178",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Alva Katharina Träbert",
+"funktion": "Mitglied im Bundesvorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000374/81178",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Julia Monro",
+"funktion": "Mitglied im Bundesvorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000374/81178",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Alexander Vogt",
+"funktion": "Mitglied im Bundesvorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000374/81178",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Michelle Kortz",
+"funktion": "Mitglied im Bundesvorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000374/81178",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Christian Gladel",
+"funktion": "Mitglied im Bundesvorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000374/81178",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Christina Friederike Isabel Klitzsch-Eulenburg",
+"funktion": "Mitglied im Bundesvorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000374/81178",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Angela Brigitte Hermann",
+"funktion": "Mitglied im Bundesvorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Bürosachbearbeiterin",
+"stelle": "Bundesministerium des Innern und für Heimat (BMI) (20. WP) oder dessen Geschäftsbereich",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000374/81178",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Leon Dietrich",
+"funktion": "Mitglied im Bundesvorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000374/81178",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Julia Zimmermann",
+"funktion": "Mitglied im Bundesvorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000374/81178",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Florian-Benedikt Horst Wieczorek",
+"funktion": "Mitglied im Bundesvorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000374/81178",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Klaus Jetz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000374/81178",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Kerstin Thost",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000374/81178",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Marla Mies",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Geprüfte Rechtskandidatin",
+"stelle": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2024-09"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000374/81178",
+"stand": "2026-08-13"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Philipp Braun",
+"funktion_person": "Referent, Bundesministerium für Wirtschaft und Energie (BMWE) oder dessen Geschäftsbereich",
+"funktion_beim_empfaenger": "Mitglied im Bundesvorstand",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Philipp Braun ist laut Lobbyregister Mitglied im Bundesvorstand bei LSVD+ - Verband Queere Vielfalt und hatte zuvor eine öffentliche Funktion: Referent, Bundesministerium für Wirtschaft und Energie (BMWE) oder dessen Geschäftsbereich. LSVD+ - Verband Queere Vielfalt erhielt laut Lobbyregister Mittel von: Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend; Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000374/81178",
+"stand": "2026-08-13"
+}
+],
+"stand": "2026-08-13"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Andre Lehmann",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-04",
+"funktion_beim_empfaenger": "Mitglied im Bundesvorstand",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Andre Lehmann ist laut Lobbyregister Mitglied im Bundesvorstand bei LSVD+ - Verband Queere Vielfalt und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-04. LSVD+ - Verband Queere Vielfalt erhielt laut Lobbyregister Mittel von: Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend; Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000374/81178",
+"stand": "2026-08-13"
+}
+],
+"stand": "2026-08-13"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Michelle Kortz",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag",
+"funktion_beim_empfaenger": "Mitglied im Bundesvorstand",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Michelle Kortz ist laut Lobbyregister Mitglied im Bundesvorstand bei LSVD+ - Verband Queere Vielfalt und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag. LSVD+ - Verband Queere Vielfalt erhielt laut Lobbyregister Mittel von: Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend; Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000374/81178",
+"stand": "2026-08-13"
+}
+],
+"stand": "2026-08-13"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Angela Brigitte Hermann",
+"funktion_person": "Bürosachbearbeiterin, Bundesministerium des Innern und für Heimat (BMI) (20. WP) oder dessen Geschäftsbereich",
+"funktion_beim_empfaenger": "Mitglied im Bundesvorstand",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Angela Brigitte Hermann ist laut Lobbyregister Mitglied im Bundesvorstand bei LSVD+ - Verband Queere Vielfalt und hatte zuvor eine öffentliche Funktion: Bürosachbearbeiterin, Bundesministerium des Innern und für Heimat (BMI) (20. WP) oder dessen Geschäftsbereich. LSVD+ - Verband Queere Vielfalt erhielt laut Lobbyregister Mittel von: Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend; Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000374/81178",
+"stand": "2026-08-13"
+}
+],
+"stand": "2026-08-13"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Marla Mies",
+"funktion_person": "Geprüfte Rechtskandidatin, Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ) oder dessen Geschäftsbereich, bis 2024-09",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Marla Mies ist laut Lobbyregister Interessenvertretung bei LSVD+ - Verband Queere Vielfalt und hatte zuvor eine öffentliche Funktion: Geprüfte Rechtskandidatin, Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ) oder dessen Geschäftsbereich, bis 2024-09. LSVD+ - Verband Queere Vielfalt erhielt laut Lobbyregister Mittel von: Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend; Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000374/81178",
+"stand": "2026-08-13"
+}
+],
+"stand": "2026-08-13"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 100001,
+"bis": 110000
+},
+"mitgliedsbeitraege": {
+"von": 440001,
+"bis": 450000
+},
+"lobbyausgaben": {
+"von": 50001,
+"bis": 60000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/56/61/830884/LSVD-Jahresabschluss-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000374/81178",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-13",
+"etikett": "Eigenangabe",
+"version": 19
+}
+]
+}

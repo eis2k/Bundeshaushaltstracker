@@ -1,0 +1,158 @@
+{
+"id": "edi-energie-direkt-hohenlohe",
+"name": "EDi Energie-Direkt Hohenlohe GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Öhringen",
+"website": "https://www.edi-hohenlohe.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006763",
+"eintrag_id": 63567,
+"version": 5,
+"stand": "2026-09-22",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006763/63567",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/11/df/845946/Lobbyregister-Registereintraege-Detailansicht-R006763-2026-09-22_15-39-11.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Logistik und Mobilität",
+"epl": "12",
+"von": 30001,
+"bis": 40000,
+"zweck": "Staatliche Zuwendung nach der Richtline über die Förderung des Umweltschutzes und der Sicherheit in Unternehmen des Güterkraftverkehrs mit schweren Nutzfahrzeugen vom 15.12.2015 in der Fassung der Dritten Änderung vom 17.Februar 2025 (hier Richtlinie \"Umweltschutz und Sicherheit\") Förderperiode 2025",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Kreditanstalt für Wiederaufbau (KfW)",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "Klimaschutzoffensive für Unternehmen (KMU) / Prg. Nr 293",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 50002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Roland Weissert",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006763/63567",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Friedrich Rath",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006763/63567",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Tom Streckert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006763/63567",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Günter Klaiber",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006763/63567",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Alexander Süpple",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006763/63567",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Alexandra Rottweiler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006763/63567",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Timo Menzel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006763/63567",
+"stand": "2026-09-22"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ba/45/845945/EDi-Energie-Direkt-Hohenlohe-GmbH-Pruefbericht-31-12-2025-signed-signed.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006763/63567",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-22",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

@@ -1,0 +1,224 @@
+{
+"id": "bundesverband-russischsprachiger-eltern",
+"name": "Bundesverband russischsprachiger Eltern e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Köln",
+"website": "bvre.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002493",
+"eintrag_id": 77836,
+"version": 8,
+"stand": "2026-06-09",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002493/77836",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/5a/9f/753266/Lobbyregister-Registereintraege-Detailansicht-R002493-2026-06-09_11-05-26.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Die Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration",
+"epl": null,
+"von": 470001,
+"bis": 480000,
+"zweck": "Projekt \"Dialoge gegen Rassismus für die Stärkung des gesellschaftlichen Zusammenhalts\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"epl": "17",
+"von": 420001,
+"bis": 430000,
+"zweck": "Projekt \"\"Kompetenzverbund für Vielfalt und Zusammenhalt\"\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundeszentrale für politische Bildung",
+"epl": "06",
+"von": 30001,
+"bis": 40000,
+"zweck": "Richtlinienförderung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Umweltbundesamt",
+"epl": "16",
+"von": 40001,
+"bis": 50000,
+"zweck": "Projekt \"Umweltbewusste Generation: Jugendliche für Umweltschutz und Aufklärung\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundeszentrale für politische Bildung",
+"epl": "06",
+"von": 80001,
+"bis": 90000,
+"zweck": "Projekt \"Click & Change\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Migration und Flüchtlinge (BAMF)",
+"epl": "06",
+"von": 10001,
+"bis": 20000,
+"zweck": "Multiplikatorenschulungen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1050006,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Victor Ostrovsky",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002493/77836",
+"stand": "2026-06-09"
+}
+},
+{
+"name": "Natalia Roesler",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002493/77836",
+"stand": "2026-06-09"
+}
+},
+{
+"name": "Olga Sperling",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002493/77836",
+"stand": "2026-06-09"
+}
+},
+{
+"name": "Kostiantyn Dudko",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002493/77836",
+"stand": "2026-06-09"
+}
+},
+{
+"name": "Max Gede",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002493/77836",
+"stand": "2026-06-09"
+}
+},
+{
+"name": "Liubov Mogylova",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002493/77836",
+"stand": "2026-06-09"
+}
+},
+{
+"name": "Tetiana Muntianova",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002493/77836",
+"stand": "2026-06-09"
+}
+},
+{
+"name": "Anastasia  Sudzilovskaya",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002493/77836",
+"stand": "2026-06-09"
+}
+},
+{
+"name": "Jurij Sargelis",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002493/77836",
+"stand": "2026-06-09"
+}
+},
+{
+"name": "Wladimir Weinberg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002493/77836",
+"stand": "2026-06-09"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/cc/61/753265/Jahresabschluss-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002493/77836",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-09",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

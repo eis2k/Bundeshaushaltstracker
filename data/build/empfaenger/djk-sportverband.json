@@ -1,0 +1,171 @@
+{
+"id": "djk-sportverband",
+"name": "DJK-Sportverband",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Langenfeld",
+"website": "www.djk.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000698",
+"eintrag_id": 82663,
+"version": 10,
+"stand": "2026-07-09",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000698/82663",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/98/2c/809676/Lobbyregister-Registereintraege-Detailansicht-R000698-2026-07-09_09-49-48.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium des Innern und für Heimat/Bundeskanzleramt",
+"epl": "06",
+"von": 230001,
+"bis": 240000,
+"zweck": "Sportjahresplanung, Leistungssportpersonal, Sportprojekt Bundessportfest 2026 (Haushaltsjahr 2025), (Anti-) Rassismus im organisierten Sport",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 150001,
+"bis": 160000,
+"zweck": "Kinder- und Jugendplan",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 380002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Bernd Butter",
+"funktion": "Vizepräsident Finanzen",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000698/82663",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Volker Lemken",
+"funktion": "Vizepräsident Verbandsentwicklung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000698/82663",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Stefani Groß",
+"funktion": "Vizepräsidentin Recht, Beauftragte Good Governance, Beauftragte Anti-Doping",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000698/82663",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Michael Leyendecker",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000698/82663",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Jutta Bouschen",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000698/82663",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Bernhard Martini",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000698/82663",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Andreas Kraus",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000698/82663",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Marcel Sura",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000698/82663",
+"stand": "2026-07-09"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 520001,
+"bis": 530000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e6/e4/809673/Jahresabschluss-DJK-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000698/82663",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-09",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

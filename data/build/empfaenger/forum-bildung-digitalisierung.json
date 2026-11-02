@@ -1,0 +1,86 @@
+{
+"id": "forum-bildung-digitalisierung",
+"name": "Forum Bildung Digitalisierung e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.forumbd.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004679",
+"eintrag_id": 68131,
+"version": 10,
+"stand": "2026-07-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004679/68131",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/9b/98/803718/Lobbyregister-Registereintraege-Detailansicht-R004679-2026-07-03_07-29-51.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Mitteln des Bundesministeriums für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ)",
+"epl": null,
+"von": 1190001,
+"bis": 1200000,
+"zweck": "Der Kompetenzverbund lernen:digital gestaltet den Dialog zwischen Wissenschaft und Praxis für die digitale Transformation von Schule und Lehrkräftebildung. Vier Kompetenzzentren bündeln in den Bereichen MINT, Sprachen/Gesellschaft/Wirtschaft, Musik/Kunst/Sport und Schulentwicklung die Expertise aus rund 200 länderübergreifenden Forschungs- und Entwicklungsprojekten. In den Projekten entstehen evidenzbasierte Fort- und Weiterbildungen, Materialien sowie Konzepte für die Schul- und Unterrichtsentwicklung in einer Kultur der Digitalität. Eine Transferstelle macht die Ergebnisse für Lehrkräfte sichtbar, fördert die ko-konstruktive Weiterentwicklung mit der Praxis und unterstützt den bundesweiten Transfer in die Lehrkräftebildung. Der Kompetenzverbund lernen:digital wird finanziert durch die Europäische Union – NextGenerationEU und gefördert durch das Bundesministerium für Bildung und Forschung.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1190001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ralph Müller-Eiselt",
+"funktion": "Geschäftsführender Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004679/68131",
+"stand": "2026-07-03"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1280001,
+"bis": 1290000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/68/a0/803717/Forum-Bildung-Digitalisierung-Bilanz-und-GuV-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004679/68131",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-03",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

@@ -1,0 +1,142 @@
+{
+"id": "bundesverband-deutscher-krankenhausapotheker",
+"name": "Bundesverband Deutscher Krankenhausapotheker (ADKA) e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.adka.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000445",
+"eintrag_id": 79782,
+"version": 10,
+"stand": "2026-06-19",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000445/79782",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/64/77/765950/Lobbyregister-Registereintraege-Detailansicht-R000445-2026-06-19_17-10-00.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Gemeinsamer Bundesausschuss | Innovationsfonds | DLR",
+"epl": null,
+"von": 40001,
+"bis": 50000,
+"zweck": "Konsortialpartner im PHArMKid-Projekt Titel: PHArMKid – Praxisnahe Handlungsempfehlungen zur Anwendung und Zubereitung von Medikamenten bei Kindern Förderkennzeichen: 01VSF23043 Laufzeit: 12/2023 - 11/2026 (verlängert bis 05/2027)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 40001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jochen Schnurrer",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000445/79782",
+"stand": "2026-06-19"
+}
+},
+{
+"name": "Dagmar Horn",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000445/79782",
+"stand": "2026-06-19"
+}
+},
+{
+"name": "Christopher Jürgens",
+"funktion": "Geschäftsführer (besonderer Vertreter nach § 30 BGB)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000445/79782",
+"stand": "2026-06-19"
+}
+},
+{
+"name": "Laurette Reisdörfer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000445/79782",
+"stand": "2026-06-19"
+}
+},
+{
+"name": "Max Kretzschmar",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000445/79782",
+"stand": "2026-06-19"
+}
+},
+{
+"name": "Elke Dechandt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000445/79782",
+"stand": "2026-06-19"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 470001,
+"bis": 480000
+},
+"lobbyausgaben": {
+"von": 90001,
+"bis": 100000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/a1/b5/765949/Jahresabschluss_ADKA_eV_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000445/79782",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-19",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

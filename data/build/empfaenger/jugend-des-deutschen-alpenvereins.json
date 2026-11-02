@@ -1,0 +1,195 @@
+{
+"id": "jugend-des-deutschen-alpenvereins",
+"name": "Jugend des Deutschen Alpenvereins (JDAV)",
+"art": "verein_stiftung",
+"rechtsform": "Netzwerk, Plattform oder andere Form kollektiver Tätigkeit",
+"sitz": "München",
+"website": "jdav.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001126",
+"eintrag_id": 87405,
+"version": 23,
+"stand": "2026-10-12",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001126/87405",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/5b/6c/859872/Lobbyregister-Registereintraege-Detailansicht-R001126-2026-10-12_11-23-11.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesverwaltungsamt Köln",
+"epl": "06",
+"von": 280001,
+"bis": 290000,
+"zweck": "BK Halle, JDAV Mittelabruf 2025 / KJP",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 280001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Annika Quantz",
+"funktion": "Bundesjugendleiter*in",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001126/87405",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Franziska Mayer",
+"funktion": "Stellvertrende*r Bundesjugendleiter*in",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001126/87405",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Bastian Hilbig",
+"funktion": "Stellvertrende*r Bundesjugendleiter*in",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001126/87405",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Simon Langebrake",
+"funktion": "Bundesjugendleiter*in",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001126/87405",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Ida Pinkofsky",
+"funktion": "Stellvertrende*r Bundesjugendleiter*in",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001126/87405",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Henri Meyer-Gauen",
+"funktion": "Stellvertrende*r Bundesjugendleiter*in",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001126/87405",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Valerie Reimann",
+"funktion": "Stellvertrende*r Bundesjugendleiter*in",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001126/87405",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Pia Paulsteiner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2024-05"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001126/87405",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Karin Schmidbauer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001126/87405",
+"stand": "2026-10-12"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Pia Paulsteiner",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2024-05",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Pia Paulsteiner ist laut Lobbyregister Interessenvertretung bei Jugend des Deutschen Alpenvereins (JDAV) und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2024-05. Jugend des Deutschen Alpenvereins (JDAV) erhielt laut Lobbyregister Mittel von: Bundesverwaltungsamt Köln.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesverwaltungsamt Köln"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001126/87405",
+"stand": "2026-10-12"
+}
+],
+"stand": "2026-10-12"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Sonstiges",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 2240001,
+"bis": 2250000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": null
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001126/87405",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-12",
+"etikett": "Eigenangabe",
+"version": 23
+}
+]
+}

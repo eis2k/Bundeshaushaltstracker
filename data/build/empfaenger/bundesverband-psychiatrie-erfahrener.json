@@ -1,0 +1,130 @@
+{
+"id": "bundesverband-psychiatrie-erfahrener",
+"name": "Bundesverband Psychiatrie-Erfahrener e.V. ",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bochum",
+"website": "http://www.bpe-online.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003881",
+"eintrag_id": 82576,
+"version": 8,
+"stand": "2026-10-13",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003881/82576",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/db/62/860662/Lobbyregister-Registereintraege-Detailansicht-R003881-2026-10-13_14-55-39.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMAS",
+"epl": "11",
+"von": 180001,
+"bis": 190000,
+"zweck": "Fördermittel zur Finanzierung der Ergänzenden unabhängigen Teilhabeberatung (EUTB) des BPE.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 180001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jurand Daszkowski",
+"funktion": "Geschäftsführender Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003881/82576",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Felix Freiherr von Kirchbach",
+"funktion": "Geschäftsführender Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003881/82576",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Sabine Wieg",
+"funktion": "Geschäftsführender Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003881/82576",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Matthias Seibt",
+"funktion": "Geschäftsführender Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003881/82576",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Bettina Otto-Lange",
+"funktion": "Mitglied im Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003881/82576",
+"stand": "2026-10-13"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 20001,
+"bis": 30000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/d3/52/860659/Jahresabschluss-2025_000005.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003881/82576",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-13",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

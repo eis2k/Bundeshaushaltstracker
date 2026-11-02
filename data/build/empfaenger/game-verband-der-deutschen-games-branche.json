@@ -1,0 +1,251 @@
+{
+"id": "game-verband-der-deutschen-games-branche",
+"name": "game - Verband der deutschen Games-Branche",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.game.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002096",
+"eintrag_id": 85844,
+"version": 31,
+"stand": "2026-09-15",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002096/85844",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/0d/54/842076/Lobbyregister-Registereintraege-Detailansicht-R002096-2026-09-15_11-30-10.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Beauftragte der Bundesregierung für Kultur und Medien (BKM)",
+"epl": "04",
+"von": 940001,
+"bis": 950000,
+"zweck": "Bei dem Gründungsstipendium handelt es sich um die Projektförderung der Beauftragten der Bundesregierung für Kultur und Medien (BKM) für das Programm „Press Start“, welche der game in Zusammenarbeit mit der Stiftung Digitale Spielekultur gGmbH durchführt.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 940001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Lars Janssen",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002096/85844",
+"stand": "2026-09-15"
+}
+},
+{
+"name": "Maxi Gräff",
+"funktion": "Stellvertretende Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002096/85844",
+"stand": "2026-09-15"
+}
+},
+{
+"name": "Sandro Heuberger",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002096/85844",
+"stand": "2026-09-15"
+}
+},
+{
+"name": "Benedikt Grindel",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002096/85844",
+"stand": "2026-09-15"
+}
+},
+{
+"name": "Clemens Mayer-Wegelin",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002096/85844",
+"stand": "2026-09-15"
+}
+},
+{
+"name": "Felix Falk",
+"funktion": "Besonderer Vertreter gem. § 30 BGB für die Geschäfte der laufenden Verwaltung des Vereins",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002096/85844",
+"stand": "2026-09-15"
+}
+},
+{
+"name": "Maren Raabe",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002096/85844",
+"stand": "2026-09-15"
+}
+},
+{
+"name": "Henner Hentsch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002096/85844",
+"stand": "2026-09-15"
+}
+},
+{
+"name": "Clara Janning",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2024-06"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002096/85844",
+"stand": "2026-09-15"
+}
+},
+{
+"name": "Vanessa Zeuch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002096/85844",
+"stand": "2026-09-15"
+}
+},
+{
+"name": "Tom Schweiger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-09"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002096/85844",
+"stand": "2026-09-15"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Clara Janning",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2024-06",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Clara Janning ist laut Lobbyregister Interessenvertretung bei game - Verband der deutschen Games-Branche und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2024-06. game - Verband der deutschen Games-Branche erhielt laut Lobbyregister Mittel von: Beauftragte der Bundesregierung für Kultur und Medien (BKM).",
+"ausschuesse": [],
+"geld_aus": [
+"Beauftragte der Bundesregierung für Kultur und Medien (BKM)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002096/85844",
+"stand": "2026-09-15"
+}
+],
+"stand": "2026-09-15"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Tom Schweiger",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-09",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Tom Schweiger ist laut Lobbyregister Interessenvertretung bei game - Verband der deutschen Games-Branche und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-09. game - Verband der deutschen Games-Branche erhielt laut Lobbyregister Mittel von: Beauftragte der Bundesregierung für Kultur und Medien (BKM).",
+"ausschuesse": [],
+"geld_aus": [
+"Beauftragte der Bundesregierung für Kultur und Medien (BKM)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002096/85844",
+"stand": "2026-09-15"
+}
+],
+"stand": "2026-09-15"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1490001,
+"bis": 1500000
+},
+"lobbyausgaben": {
+"von": 850001,
+"bis": 860000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/49/c1/842072/Rechenschaftsbericht-game-fuer-das-Lobbyregister-2025_2026.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002096/85844",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-15",
+"etikett": "Eigenangabe",
+"version": 31
+}
+]
+}

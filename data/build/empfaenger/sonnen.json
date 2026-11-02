@@ -1,0 +1,139 @@
+{
+"id": "sonnen",
+"name": "sonnen GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Wildpoldsried",
+"website": "www.sonnen.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002274",
+"eintrag_id": 66092,
+"version": 12,
+"stand": "2025-09-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002274/66092",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/bb/f5/623696/Lobbyregister-Registereintraege-Detailansicht-R002274-2025-09-30_17-20-19.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Forschungszentrum Jülich Forschungszentrum",
+"epl": null,
+"von": 50001,
+"bis": 60000,
+"zweck": "Forschungsförderung Batteriespeicher",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 50001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Oliver Koch",
+"funktion": "CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002274/66092",
+"stand": "2025-09-30"
+}
+},
+{
+"name": "Bianca Swanston",
+"funktion": "CFO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002274/66092",
+"stand": "2025-09-30"
+}
+},
+{
+"name": "Ralf Plieninger",
+"funktion": "CTO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002274/66092",
+"stand": "2025-09-30"
+}
+},
+{
+"name": "Andreas Plenk",
+"funktion": "CRO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002274/66092",
+"stand": "2025-09-30"
+}
+},
+{
+"name": "Felix Dembski",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002274/66092",
+"stand": "2025-09-30"
+}
+},
+{
+"name": "Marie  Garstecki",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002274/66092",
+"stand": "2025-09-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 130001,
+"bis": 140000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ad/39/623695/SBG_Bilanz_2024_DRAFT_250703-kombiniert.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002274/66092",
+"abgerufen": "2026-11-02",
+"stand": "2025-09-30",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

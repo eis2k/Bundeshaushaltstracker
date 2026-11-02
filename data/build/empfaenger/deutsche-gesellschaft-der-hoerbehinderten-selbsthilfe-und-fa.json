@@ -1,0 +1,127 @@
+{
+"id": "deutsche-gesellschaft-der-hoerbehinderten-selbsthilfe-und-fa",
+"name": "Deutsche Gesellschaft der Hörbehinderten -  Selbsthilfe und Fachverbände e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "München",
+"website": "www.deutsche-gesellschaft.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007995",
+"eintrag_id": 78383,
+"version": 3,
+"stand": "2026-06-17",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007995/78383",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/1b/f0/761624/Lobbyregister-Registereintraege-Detailansicht-R007995-2026-06-17_10-56-27.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung, Familie, Frauen, Senioren und Jugend",
+"epl": null,
+"von": 150001,
+"bis": 160000,
+"zweck": "Förderung aus dem Kinder- und Jugendplan des BMBFSFJ",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Arbeit und Soziales",
+"epl": "11",
+"von": 10001,
+"bis": 20000,
+"zweck": "Partizipationsfonds",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 160002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Bernd Schneider",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007995/78383",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Ines Helke",
+"funktion": "stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007995/78383",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Paul Heeg",
+"funktion": "stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007995/78383",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Roberta Sessel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007995/78383",
+"stand": "2026-06-17"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 10001,
+"bis": 20000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/82/d1/761623/2025_Kassenbericht.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007995/78383",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-17",
+"etikett": "Eigenangabe",
+"version": 3
+}
+]
+}

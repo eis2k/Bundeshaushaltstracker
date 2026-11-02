@@ -1,0 +1,109 @@
+{
+"id": "deutscher-familienverband",
+"name": "Deutscher Familienverband",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.deutscher-familienverband.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007211",
+"eintrag_id": 62181,
+"version": 2,
+"stand": "2025-07-16",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007211/62181",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/9b/be/586186/Lobbyregister-Registereintraege-Detailansicht-R007211-2025-07-16_20-36-52.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMFSFJ",
+"epl": "17",
+"von": 330001,
+"bis": 340000,
+"zweck": "Personalkostenzuschuss",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 330001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Klaus Zeh",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007211/62181",
+"stand": "2025-07-16"
+}
+},
+{
+"name": "Sebastian Heimann",
+"funktion": "Bundesgeschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007211/62181",
+"stand": "2025-07-16"
+}
+},
+{
+"name": "Iris Emmelmann",
+"funktion": "Grundlagenreferentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007211/62181",
+"stand": "2025-07-16"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 20001,
+"bis": 30000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/cc/05/586185/Wirtschaftliche_Verhaltnisse_2023_PDF.pdf",
+"geschaeftsjahr": "2023",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007211/62181",
+"abgerufen": "2026-11-02",
+"stand": "2025-07-16",
+"etikett": "Eigenangabe",
+"version": 2
+}
+]
+}

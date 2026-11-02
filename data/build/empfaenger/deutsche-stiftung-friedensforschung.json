@@ -1,0 +1,159 @@
+{
+"id": "deutsche-stiftung-friedensforschung",
+"name": "Deutsche Stiftung Friedensforschung",
+"art": "verein_stiftung",
+"rechtsform": "Rechtsfähige Stiftung bürgerlichen Rechts",
+"sitz": "Osnabrück",
+"website": "https://bundesstiftung-friedensforschung.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004852",
+"eintrag_id": 78026,
+"version": 7,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004852/78026",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/72/a0/790288/Lobbyregister-Registereintraege-Detailansicht-R004852-2026-06-30_12-37-06.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 450001,
+"bis": 460000,
+"zweck": "Um auf aktuelle Entwicklungen im Forschungsfeld zu reagieren und Impulse in der Friedens- und Konfliktforschung zu setzen erhält die Deutsche Stiftung Friedensforschung (DSF) finanzielle Unterstützung in ihrem Förderbereich 3: Thematische Förderlinie. Zu spezifischen Themenfeldern, wie Digitalisierung, Klimawandel o.ä. können zusätzliche Forschungs- und Tagungsprojekte beantragt werden. Die ausgeschriebenen Mittel stellen die tatsächlich abgerufene Summe dar.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 1990001,
+"bis": 2000000,
+"zweck": "Die Zustiftung aus dem Bundeshaushalt ist ein wichtiger Beitrag zur strategischen Weiterentwicklung der DSF als Einrichtung der Forschungsförderung für die Friedens- und Konfliktforschung, wie sie vom Wissenschaftsrat empfohlen wurde. Sie ermöglicht der Stiftung eine solide mittelfristige Finanzplanung für ihre Förderleistungen. Diese sind darauf ausgerichtet, die Innovationsfähigkeit des Forschungsfeldes zu stärken, Wissensbestände zusammenzuführen und die Ergebnisse für den Austausch mit Gesellschaft und Politik aufzubereiten.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 2440002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Malte Göttsche",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004852/78026",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Tobias Pietz",
+"funktion": "Stellvertretender Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004852/78026",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Paulina Starski-Lutoborski",
+"funktion": " Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004852/78026",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Sandra Destradi",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004852/78026",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Jana Hönke",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004852/78026",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Thomas Held",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004852/78026",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Franziska Kassing",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004852/78026",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/df/69/790287/Jahresbericht-2024_DSF.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004852/78026",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

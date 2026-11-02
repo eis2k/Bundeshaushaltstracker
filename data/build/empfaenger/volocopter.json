@@ -1,0 +1,213 @@
+{
+"id": "volocopter",
+"name": "Volocopter GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Bruchsal",
+"website": "https://www.volocopter.com/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005536",
+"eintrag_id": 70349,
+"version": 8,
+"stand": "2026-01-05",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005536/70349",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/2e/49/677734/Lobbyregister-Registereintraege-Detailansicht-R005536-2026-01-05_14-26-12.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Deutsches Zentrum für Luft- und Raumfahrt e.V. - Raumfahrtmanagement des DLR, im Auftrag vom Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": null,
+"von": 60001,
+"bis": 70000,
+"zweck": "Zuwendung für das Verbundvorhaben \"C2 Land Phase 2\"; Förderprogramm: DLR Raumfahrtmanagement; Förderkennzeichen: 50NA2018",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "Deutsches Zentrum für Luft- und Raumfahrt e.V. - Projektträger Luftfahrtforschung, im Auftrag vom Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": null,
+"von": 50001,
+"bis": 60000,
+"zweck": "Zuwendung für das Verbundvorhaben \"Electra\"; Förderprogramm: Luftfahrtforschungsprogramm VI; Förderkennzeichen: 20W1912B",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "Deutsches Zentrum für Luft- und Raumfahrt e.V. - Projektträger Luftfahrtforschung, im Auftrag vom Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": null,
+"von": 40001,
+"bis": 50000,
+"zweck": "Zuwendung für das Verbundvorhaben \"VoloStream\"; Förderprogramm: Luftfahrtforschungsprogramm VI; Förderkennzeichen: 20Q1963A",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "Deutsches Zentrum für Luft- und Raumfahrt e.V. - Raumfahrtmanagement des DLR, im Auftrag vom Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": null,
+"von": 80001,
+"bis": 90000,
+"zweck": "Zuwendung für das Verbundvorhaben \"C2 Land Phase 2\"; Förderprogramm: DLR Raumfahrtmanagement; Förderkennzeichen: 50NA2018",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "Deutsches Zentrum für Luft- und Raumfahrt e.V. - Projektträger Luftfahrtforschung, im Auftrag vom Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Zuwendung für das Verbundvorhaben \"CNS-Alpha\"; Förderprogramm: Luftfahrtforschungsprogramm VI; Förderkennzeichen: 20V1904C",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "Deutsches Zentrum für Luft- und Raumfahrt e.V. - Projektträger Luftfahrtforschung, im Auftrag vom Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "Zuwendung für das Verbundvorhaben \"VoloStream\"; Förderprogramm: Luftfahrtforschungsprogramm VI; Förderkennzeichen: 20Q1963A",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "Deutsches Zentrum für Luft- und Raumfahrt e.V. - Projektträger Luftfahrtforschung, im Auftrag vom Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": null,
+"von": 1,
+"bis": 10000,
+"zweck": "Zuwendung für das Verbundvorhaben \"Volare\"; Förderprogramm: Luftfahrtforschungsprogramm VI; Förderkennzeichen: 20Q1954A",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "Deutsches Zentrum für Luft- und Raumfahrt e.V. - Raumfahrtmanagement des DLR, im Auftrag vom Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": null,
+"von": 30001,
+"bis": 40000,
+"zweck": "Zuwendung für das Verbundvorhaben \"C2 Land Phase 2\"; Förderprogramm: DLR Raumfahrtmanagement; Förderkennzeichen: 50NA2018",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "Deutsches Zentrum für Luft- und Raumfahrt e.V. - Projektträger Luftfahrtforschung, im Auftrag vom Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "Zuwendung für das Verbundvorhaben \"CNS-Alpha\"; Förderprogramm: Luftfahrtforschungsprogramm VI; Förderkennzeichen: 20V1904C",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "Deutsches Zentrum für Luft- und Raumfahrt e.V. - Projektträger Luftfahrtforschung, im Auftrag vom Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": null,
+"von": 90001,
+"bis": 100000,
+"zweck": "Zuwendung für das Verbundvorhaben \"Electra\"; Förderprogramm: Luftfahrtforschungsprogramm VI; Förderkennzeichen: 20W1912B",
+"geschaeftsjahr": "2023"
+}
+],
+"lobby_untergrenze_bund": 400010,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Dirk Hoke",
+"funktion": "CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005536/70349",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Christian Bauer",
+"funktion": "CCO/CFO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005536/70349",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Stefan Klocke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005536/70349",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Oliver Reinhardt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005536/70349",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Katharina Agüera",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005536/70349",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Rohit Wariyar",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005536/70349",
+"stand": "2026-01-05"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2023",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/86/46/677676/Draft-Jahresabschluss-2022-und-2023.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005536/70349",
+"abgerufen": "2026-11-02",
+"stand": "2026-01-05",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

@@ -1,0 +1,209 @@
+{
+"id": "ineratec",
+"name": "INERATEC",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Karlsruhe",
+"website": "www.ineratec.de ",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004989",
+"eintrag_id": 77507,
+"version": 11,
+"stand": "2026-06-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004989/77507",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/65/48/785556/Lobbyregister-Registereintraege-Detailansicht-R004989-2026-06-29_16-06-46.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Projektträger Jülich - Forschungszentrum Jülich GmbH",
+"epl": "30",
+"von": 40001,
+"bis": 50000,
+"zweck": "Deutsches Verbundvorhaben Power2X (Kopernikus II) Weiterentwicklung, Skalierung und Validierung der Power-to-X-Technologie aus der Verbund-Prozesskette (Kopernikus I) zur Erzeugung synthetischer normgerechter Kraftstoffe (e-Benzin/e-Diesel/e-Kerosin) und Demonstration im Prozessmaßstab. Förderung des Bundesministeriums für Bildung und Forschung (BMBF) im Rahmen der Kopernikus-Projekte der Bundesregierung (Förderkennzeichen 03SFK2D1-2)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Projektträger Jülich - Forschungszentrum Jülich GmbH",
+"epl": "30",
+"von": 200001,
+"bis": 210000,
+"zweck": "Verbundvorhaben H2Mare_VB2 PtX-Wind – Offshore Power-to-X-Prozesse – Teilvorhaben: Entwicklung von Konzepten für die Integration der Fischer-Tropsch- und Methanol-Synthese in die Offshore-Lösung; Integration der Wasserströme; digitale Zwillinge der Anlagen; autonome Anlagensteuerung Förderung des Bundesministeriums für Bildung und Forschung (BMBF) im Rahmen des 7. Energieforschungsprogramms der Bundesregierung \"\"Innovationen für die Energiewende\"\" (Förderkennzeichen 03HY302K)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "VDI/VDE Innovation + Technik GmbH",
+"epl": null,
+"von": 80001,
+"bis": 90000,
+"zweck": "Deutsches Verbundvorhaben RePoSe Real time Power Supply for e-fuels - PtL-Produktion bei variabler Stromverfügbarkeit (RePoSe) Förderung des Bundesministeriums für Digitales und Verkehr (BMDV) im Rahmen von Maßnahmen zur Entwicklung regenerativer Kraftstoffe (Förderkennzeichen 16RK14007C)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Projektträger Jülich - Forschungszentrum Jülich GmbH",
+"epl": "30",
+"von": 50001,
+"bis": 60000,
+"zweck": "Deutsches Verbundvorhaben CARE-o-SENE Katalysatorforschung für nachhaltige Flugzeugtreibstoffe; Teilvorhaben: Validierung in mikrostrukturierten Reaktoren Förderung des Bundesministeriums für Bildung und Forschung (BMBF) im Rahmen des 7. Energieforschungsprogramms der Bundesregierung \"\"Innovationen für die Energiewende\"\" (Förderkennzeichen 03SF0673E)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Projektträger Jülich - Forschungszentrum Jülich GmbH",
+"epl": "30",
+"von": 920001,
+"bis": 930000,
+"zweck": "Deutsches Verbundvorhaben P2X-3 (Kopernikus 3) Erforschung, Validierung und Implementierung von \"\"Power-to-X\"\" Konzepten – P2Fuels: Entwicklung und Betrieb FT-Crude-Refiningmodul im industriellen Maßstab Förderung des Bundesministeriums für Bildung und Forschung (BMBF) im Rahmen des 7. Energieforschungsprogramms der Bundesregierung \"\"Innovationen für die Energiewende\"\" (Förderkennzeichen 03SFK2D1-3)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "VDI/VDE Innovation + Technik GmbH",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "Deutsches Verbundvorhaben Ref4FU Erneuerbare Kraftstoffe aus Grünen Raffinerien der Zukunft; Teilvorhaben 8 Förderung des Bundesministeriums für Digitales und Verkehr (BMDV) im Rahmen von Maßnahmen zur Entwicklung regenerativer Kraftstoffe (Förderkennzeichen 16RK24001H)\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1310006,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Tim Böltken",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004989/77507",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Caspar Schuchmann",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004989/77507",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Gerard de Nazelle",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004989/77507",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Martin Maximilian Backhaus",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004989/77507",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Mariano Berkenwald",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004989/77507",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Anuscha Amelie Berggold",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2024-09"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004989/77507",
+"stand": "2026-06-29"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Anuscha Amelie Berggold",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2024-09",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Anuscha Amelie Berggold ist laut Lobbyregister Interessenvertretung bei INERATEC und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2024-09. INERATEC erhielt laut Lobbyregister Mittel von: Projektträger Jülich - Forschungszentrum Jülich GmbH; VDI/VDE Innovation + Technik GmbH.",
+"ausschuesse": [],
+"geld_aus": [
+"Projektträger Jülich - Forschungszentrum Jülich GmbH",
+"VDI/VDE Innovation + Technik GmbH"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004989/77507",
+"stand": "2026-06-29"
+}
+],
+"stand": "2026-06-29"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/0e/4d/785555/4529_26483_2024_Jahresabschluss-INERATEC-GmbH-zum-31-12-2024-vom-03-04-2025.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004989/77507",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-29",
+"etikett": "Eigenangabe",
+"version": 11
+}
+]
+}

@@ -1,0 +1,84 @@
+{
+"id": "postbeamtenversorgungskasse",
+"name": "Postbeamtenversorgungskasse",
+"art": "oeffentlich",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": true,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "60-6002-68501",
+"text": "Zuschuss an die Postbeamtenversorgungskasse",
+"epl": "60",
+"epl_text": "Allgemeine Finanzverwaltung",
+"werte": {
+"2015": {
+"soll": 7481700000,
+"ist": 7400500000
+},
+"2016": {
+"soll": 7657000000,
+"ist": 7461900000
+},
+"2017": {
+"soll": 8131500000,
+"ist": 7885000000
+},
+"2018": {
+"soll": 8229000000,
+"ist": 8129500000
+},
+"2019": {
+"soll": 8485500000,
+"ist": 8384000000
+},
+"2020": {
+"soll": 8910600000,
+"ist": 8468100000
+},
+"2021": {
+"soll": 9148100000,
+"ist": 8696400000
+},
+"2022": {
+"soll": 9046400000,
+"ist": 8865300000
+},
+"2023": {
+"soll": 9293600000,
+"ist": 9318500000
+},
+"2024": {
+"soll": 9852200000,
+"ist": 9712700000
+},
+"2025": {
+"soll": 10103500000,
+"ist": 10000100000
+},
+"2026": {
+"soll": 10338100000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

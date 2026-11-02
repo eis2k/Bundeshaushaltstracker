@@ -1,0 +1,106 @@
+{
+"id": "deutsch-tunesische-industrie-und-handelskammer-chambre-tunis",
+"name": "Deutsch-Tunesische Industrie- und Handelskammer - Chambre Tuniso-Allemande de l'Industrie et du Commerce ",
+"art": "verein_stiftung",
+"rechtsform": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+"sitz": "Tunis",
+"website": "https://tunesien.ahk.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004735",
+"eintrag_id": 80709,
+"version": 9,
+"stand": "2026-06-26",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004735/80709",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/81/99/779041/Lobbyregister-Registereintraege-Detailansicht-R004735-2026-06-26_12-39-32.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 800001,
+"bis": 810000,
+"zweck": "Die Zuwendung dient der finanziellen Unterstützung der AHK Tunesien zur Erfüllung Ihrer Aufgaben.",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "GIZ",
+"epl": "23",
+"von": 330001,
+"bis": 340000,
+"zweck": "Die Zuwendungen dienen der Durchführung von Projekten im Rahmen der deutsch-tunesischen Zusammenarbeit.",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 1130002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jörn Bousselmi",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004735/80709",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Ghazi El Biche",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004735/80709",
+"stand": "2026-06-26"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 250001,
+"bis": 260000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/23/cf/779040/Les-Etats-Financiers-2024.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004735/80709",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-26",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

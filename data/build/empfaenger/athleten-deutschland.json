@@ -1,0 +1,131 @@
+{
+"id": "athleten-deutschland",
+"name": "Athleten Deutschland e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.athleten-deutschland.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002333",
+"eintrag_id": 77960,
+"version": 13,
+"stand": "2026-07-10",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002333/77960",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/aa/13/811068/Lobbyregister-Registereintraege-Detailansicht-R002333-2026-07-10_12-49-10.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium des Innern und für Heimat / Bundeskanzleramt",
+"epl": "06",
+"von": 760001,
+"bis": 770000,
+"zweck": "Zuwendung aus Bundesmitteln zur Förderung des Sports, Haushaltsperiode 2025",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 760001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Pia Greiten",
+"funktion": "Präsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002333/77960",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Léa Krüger",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002333/77960",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Johannes Herber",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002333/77960",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Tarek Julian Elias",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002333/77960",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Fabian Funke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002333/77960",
+"stand": "2026-07-10"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 180001,
+"bis": 190000
+},
+"mitgliedsbeitraege": {
+"von": 20001,
+"bis": 30000
+},
+"lobbyausgaben": {
+"von": 130001,
+"bis": 140000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/33/97/811043/Athleten-Deutschland_Jahresabschluss-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002333/77960",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-10",
+"etikett": "Eigenangabe",
+"version": 13
+}
+]
+}

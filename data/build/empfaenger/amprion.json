@@ -1,0 +1,908 @@
+{
+"id": "amprion",
+"name": "Amprion GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Dortmund",
+"website": "https://www.amprion.net/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002477",
+"eintrag_id": 87098,
+"version": 46,
+"stand": "2026-10-06",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/bb/88/857167/Lobbyregister-Registereintraege-Detailansicht-R002477-2026-10-06_10-42-56.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMWE",
+"epl": "09",
+"von": 40001,
+"bis": 50000,
+"zweck": "Das Konsortialvorhaben energy data-X baut einen Datenraum auf Basis der Gaia-X-Architektur auf, der künftig den souveränen Datenaustausch in digitalen Wertschöpfungsnetzwerken ermöglichen soll. Die Daten werden dezentral bereitgestellt und dezentral verwaltet, jedoch über den föderierten Datenraum als virtueller Zugangsweg erschließbar gemacht. Der Fokus in diesem Teilvorhaben liegt auf der Umsetzung von zwei Anwendungsfällen der Energiewirtschaft: zum einen schwerpunktmäßig auf der Integration intelligenter Messsysteme mit ihren Stamm- und Bewegungsdaten und im weiteren auf der Bereitstellung von Kleinflexibilitäten durch automatisierte Prozesse",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE",
+"epl": "09",
+"von": 60001,
+"bis": 70000,
+"zweck": "Das Gesamtvorhaben ProMetheUs verfolgt das Ziel, die Herausforderungen im Betrieb der Übertragungsnetze infolge der Energiewende und des massiven Ausbaus erneuerbarer Energien zu bewältigen. Durch den steigenden Anteil erneuerbarer Energien und die zu-nehmende Komplexität des Stromsystems entstehen Unsicherheiten im Netzbetrieb, die die Planungsprozesse erschweren und die Sicherheit der Netze ohne geeignete Gegenmaßnahmen beeinträchtigen können. Gleichzeitig besteht die Notwendigkeit, den Ausbau der erneuerbaren Energien durch eine höhere Auslastung der bestehenden Netzbetriebsmittel besser in die Netze zu integrieren.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE",
+"epl": "09",
+"von": 40001,
+"bis": 50000,
+"zweck": "InnOpTEM: Die Planung und der Betrieb des Übertragungsnetzes sind durch Unsicherheiten geprägt, die unter anderem auf den steigenden Anteil an Einspeisung aus dargebotsabhängigen Anlagen zurückzuführen sind. Zur Beherrschung dieser Unsicherheiten haben die Übertragungsnetzbetreiber zeitlich gestaffelte Prozesse implementiert, in denen zur Gewährleistung der Systemsicherheit geeignete Maßnahmen aktiviert werden. Rechnergestützte Optimierungsverfahren sind in diesen Prozessen unerlässlich. Durch die Anpassung der Netztopologie ist es möglich, Leistungsflüsse im Übertragungsnetzbetrieb zu steuern und gegebenenfalls Netzengpässe zu reduzieren. Hierdurch können kostenintensive Redispatchmaßnahmen reduziert werden.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "Ziel des Forschungsvorhabens \"SysStab2030\" ist die beschleunigte Einführung der erforderlichen Systemdienstleistungen durch Erzeugungsanlagen und Verbraucher zur Erhaltung der Systemstabilität. Essenziell ist bei der Erarbeitung die Einbindung von Vertretern aller entscheidenden Stakeholder, um bereits im Rahmen dieses Vorhabens einen Branchenkonsens zu erzielen. Diesem primären Ziel vorangestellt ist die Notwendigkeit gemeinsam mit dem Konsortium die Bedarfe und Herausforderungen des Stromnetzes 2030 und daraus abgeleitet die notwendigen Systemdienstleistungen zu identifizieren und zu bestätigen. Dabei sollen Methoden zur Ermittlung von Systembedarfen (weiter)entwickelt und eingesetzt werden. Das Projekt wurde 2024 gestartet und hat eine Laufzeit von 30 Monaten.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE",
+"epl": "09",
+"von": 20001,
+"bis": 30000,
+"zweck": "DysrupSys: Disruptive Funktionen und Technologie für den winkelbasierten Verbundnetzbetrieb in Umrichter dominierten Energiesystemen mit überwiegend regenerativer Einspeisung.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 190005,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christoph Müller",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Hendrik Neumann",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Peter Rüth",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Katrin Hilmer",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Martin Scheufen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Ralph Pfeiffer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Kay Hübner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Klaus Wewering",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Jörn Koch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Ingo Jürgens",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Guido Hermeier",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Thomas Wiede",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Marco Stoltefuß",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Lukas Schuchardt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Carsten Lehmköster",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Lars Rößing",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Thomas Dederichs",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Henning Medert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Johannes Thies",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Armin Braun",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Benjamin Winter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Melina Groß",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Henry Hoffmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Andreas Walczuch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Harm-Berend Wiegmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Bianca Barth",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Clemens Weiß",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-05"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Moritz Mittelstaedt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Tobias Hennig",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Stephan Morgenschweis",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Andreas Maaz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Peter Lopion",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Christoph Schneiders",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Christine Sauerwald",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Helbig Stephan",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Christoph Blank",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Jan Teuwsen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Gian-Luca Dietz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Christopher Lawniczak",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2026-02"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Claire Heuter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Detlef Kober",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "David Franzmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Henrike Jansen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Lucas Croé",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Frederik Paul Sapp",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Peter Edel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Lena Molinari",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Frank Robin Müller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Dominik Stunder",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Marius Hombücher",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Thorsten Schlüter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Thomas Christian Küpper",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Thomas Ammon",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Eric Zieschang",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Marcel Gallus",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Johannes Klindworth",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Hannah Kristin Schürmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Denise Ring",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Dennis Faber",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Andre Hoffrichter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Vincent Protard",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Lisa Beuger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Nina Sehovic",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Oliver John",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Katrin Protard",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Woldemar Schulz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Jan Borkenstein",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Rainer Bause",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Clemens Weiß",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-05",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Clemens Weiß ist laut Lobbyregister Interessenvertretung bei Amprion GmbH und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-05. Amprion GmbH erhielt laut Lobbyregister Mittel von: BMWE.",
+"ausschuesse": [],
+"geld_aus": [
+"BMWE"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+],
+"stand": "2026-10-06"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Christopher Lawniczak",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2026-02",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Christopher Lawniczak ist laut Lobbyregister Interessenvertretung bei Amprion GmbH und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2026-02. Amprion GmbH erhielt laut Lobbyregister Mittel von: BMWE.",
+"ausschuesse": [],
+"geld_aus": [
+"BMWE"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"stand": "2026-10-06"
+}
+],
+"stand": "2026-10-06"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1700001,
+"bis": 1710000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/f5/91/857164/Amprion_Finanzbericht-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002477/87098",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-06",
+"etikett": "Eigenangabe",
+"version": 46
+}
+]
+}

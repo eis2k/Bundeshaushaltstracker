@@ -1,0 +1,161 @@
+{
+"id": "kurve-wustrow-bildungs-und-begegnungsstaette-fuer-gewaltfrei",
+"name": "KURVE Wustrow - Bildungs- und Begegnungsstätte für gewaltfreie Aktion e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Wustrow",
+"website": "www.kurvewustrow.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001247",
+"eintrag_id": 81403,
+"version": 9,
+"stand": "2026-08-04",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001247/81403",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/19/5c/825805/Lobbyregister-Registereintraege-Detailansicht-R001247-2026-08-04_14-08-25.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 7440001,
+"bis": 7450000,
+"zweck": "Ziviler Friedensdienst",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusmmenarbeit & Entwicklung",
+"epl": null,
+"von": 40001,
+"bis": 50000,
+"zweck": "Förderprogramm Entwicklungspolitische Bildung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 7480002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Clara Friedrich",
+"funktion": "ehrenamtlicher Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001247/81403",
+"stand": "2026-08-04"
+}
+},
+{
+"name": "Chris Hartmann",
+"funktion": "ehrenamtlicher Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001247/81403",
+"stand": "2026-08-04"
+}
+},
+{
+"name": "Hanno Himmel",
+"funktion": "ehrenamtlicher Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001247/81403",
+"stand": "2026-08-04"
+}
+},
+{
+"name": "Johanna Sell",
+"funktion": "ehrenamtlicher Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001247/81403",
+"stand": "2026-08-04"
+}
+},
+{
+"name": "Anja Petz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001247/81403",
+"stand": "2026-08-04"
+}
+},
+{
+"name": "John Preuss",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001247/81403",
+"stand": "2026-08-04"
+}
+},
+{
+"name": "Ursula Treffer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001247/81403",
+"stand": "2026-08-04"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 110001,
+"bis": 120000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/59/6a/825804/KURVE_Jahresbilanz_2025_ut.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001247/81403",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-04",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

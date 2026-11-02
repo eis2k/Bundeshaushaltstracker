@@ -1,0 +1,177 @@
+{
+"id": "zukunftsforum-familie",
+"name": "Zukunftsforum Familie e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.zukunftsforum-familie.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000582",
+"eintrag_id": 72368,
+"version": 10,
+"stand": "2026-07-07",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000582/72368",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/cf/15/807623/Lobbyregister-Registereintraege-Detailansicht-R000582-2026-07-07_12-59-50.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 300001,
+"bis": 310000,
+"zweck": "Zuwendung aus dem Bundeshaushalt, Kapitel 17 03, Titel: 684 21 im Rahmen der Familienförderung des BMFSFJ für das Haushaltsjahr 2025 Förderung: Personalausgaben der Geschäftsstelle des ZFF",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 10001,
+"bis": 20000,
+"zweck": "Zuwendungen im Bereich des Bundesministeriums für Familie, Senioren, Frauen und Jugend aus Kapitel 17 03, Titel: 684 21 im Haushaltsjahr 2025 Förderung der ZFF – Fachtagung „Care, Arbeit, Zukunft: Wer kümmert sich morgen und wie wird es gerecht?\" am 22. Mai 2025",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 310002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Britta Altenkamp",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000582/72368",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Birgit Merkel",
+"funktion": "stellv. Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000582/72368",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Manuel Becker",
+"funktion": "stellv. Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000582/72368",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Sophie Schwab",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2022-12"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000582/72368",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Nikola Schopp",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000582/72368",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Lilly Schön",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000582/72368",
+"stand": "2026-07-07"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Sophie Schwab",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2022-12",
+"funktion_beim_empfaenger": "Geschäftsführerin",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Sophie Schwab ist laut Lobbyregister Geschäftsführerin bei Zukunftsforum Familie e.V. und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2022-12. Zukunftsforum Familie e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Familie, Senioren, Frauen und Jugend.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Familie, Senioren, Frauen und Jugend"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000582/72368",
+"stand": "2026-07-07"
+}
+],
+"stand": "2026-07-07"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 20001,
+"bis": 30000
+},
+"mitgliedsbeitraege": {
+"von": 110001,
+"bis": 120000
+},
+"lobbyausgaben": {
+"von": 30001,
+"bis": 40000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/c6/c3/807600/Jahresabschluss-2025_Siegelexemplar.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000582/72368",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-07",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

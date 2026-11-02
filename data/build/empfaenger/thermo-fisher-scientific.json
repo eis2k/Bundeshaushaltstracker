@@ -1,0 +1,116 @@
+{
+"id": "thermo-fisher-scientific",
+"name": "Thermo Fisher Scientific",
+"art": "unternehmen",
+"rechtsform": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+"sitz": "Karlsruhe",
+"website": "www.thermofisher.com ",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002047",
+"eintrag_id": 85930,
+"version": 23,
+"stand": "2026-09-16",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002047/85930",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/d6/8d/842642/Lobbyregister-Registereintraege-Detailansicht-R002047-2026-09-16_15-18-19.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Forschung und Technologie und Raumfahrt",
+"epl": null,
+"von": 80001,
+"bis": 90000,
+"zweck": "Forschungsmittel für das Cluster Nucleic Acid Therapeutics Munic (CNATM) Teil des Clusters4Future",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Projekträger Jülich Forschungszentrum",
+"epl": null,
+"von": 110001,
+"bis": 120000,
+"zweck": "Entwicklung eines trockenen Misch-und Beschichtungsverfahren mit ausgewählten Binderkomponenten zur Herstellung von Batterelektroden Projekt:Trombibat 78.012 EUR SilKompas: Silizium-basierte Kompositanoden zur Anwendung in sulfidischen Feststoffbatterien (35.610,-)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 190002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Piet van der Zande",
+"funktion": "Direktor",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002047/85930",
+"stand": "2026-09-16"
+}
+},
+{
+"name": "Elli Neu",
+"funktion": "Direktor",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002047/85930",
+"stand": "2026-09-16"
+}
+},
+{
+"name": "Christiane Landsberg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002047/85930",
+"stand": "2026-09-16"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 220001,
+"bis": 230000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/9c/31/842641/2025-annual-report.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002047/85930",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-16",
+"etikett": "Eigenangabe",
+"version": 23
+}
+]
+}

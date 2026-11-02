@@ -1,0 +1,137 @@
+{
+"id": "apetito-catering-bv-und-co",
+"name": "apetito catering BV & Co KG",
+"art": "unternehmen",
+"rechtsform": "Kommanditgesellschaft (KG)",
+"sitz": "Rheine",
+"website": "www.apetito-catering.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007122",
+"eintrag_id": 85166,
+"version": 3,
+"stand": "2026-08-27",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007122/85166",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/26/7e/835817/Lobbyregister-Registereintraege-Detailansicht-R007122-2026-08-27_15-53-26.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Arbeitsamt",
+"epl": null,
+"von": 450001,
+"bis": 460000,
+"zweck": "Eingliederungszuschüsse der zuständigen Arbeitsämter nach SGB III",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Arbeitsamt",
+"epl": null,
+"von": 100001,
+"bis": 110000,
+"zweck": "Eingliederungszuschüsse der Arbeitsämter nach SGB III",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 550002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Andreas Oellerich",
+"funktion": "Geschäftsführer ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007122/85166",
+"stand": "2026-08-27"
+}
+},
+{
+"name": "Sarah von Behren",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007122/85166",
+"stand": "2026-08-27"
+}
+},
+{
+"name": "Thorsten Garbers",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007122/85166",
+"stand": "2026-08-27"
+}
+},
+{
+"name": "Hanna Helmig",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007122/85166",
+"stand": "2026-08-27"
+}
+},
+{
+"name": "Markus Lang",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007122/85166",
+"stand": "2026-08-27"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/98/7f/835816/SKK-Testatsexemplar-JA-ac-2025-sig.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007122/85166",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-27",
+"etikett": "Eigenangabe",
+"version": 3
+}
+]
+}

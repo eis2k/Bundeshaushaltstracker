@@ -1,0 +1,130 @@
+{
+"id": "rohde-und-schwarz-cybersecurity",
+"name": "Rohde & Schwarz Cybersecurity GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "München",
+"website": "www.rohde-schwarz.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006404",
+"eintrag_id": 86001,
+"version": 9,
+"stand": "2026-09-18",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006404/86001",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/1b/56/843327/Lobbyregister-Registereintraege-Detailansicht-R006404-2026-09-18_10-30-37.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 100001,
+"bis": 110000,
+"zweck": "Verbundprojekt: Anwendungsorientierte Demonstration von Quantenkommunikation in DeuTschland - DemoQuanDT - Teilvorhaben: Sicherheit und Integration von Verschlüsslern und Key Management Systemen",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 10001,
+"bis": 20000,
+"zweck": "Verbundprojekt: Entwicklungszentrierte Werkzeuge für Seitenkanal-Analysen - DevToSCA -; Teilvorhaben: Integration von Seitenkanal-Test-Werkzeugen in Testumgebungen Kryptographischer Bibliotheken",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 40001,
+"bis": 50000,
+"zweck": "Verbundprojekt: Interoperables sicheres Quantenschlüssel Management System - QuNET+ISQKMS",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 100001,
+"bis": 110000,
+"zweck": "Verbundvorhaben: KRITIS3M – KRITIS Scalable Safe and Secure Modules; Teilvorhaben: Systemverschlüsselung unter Verwendung von Secure Elements auf Ressourcen-beschränkten Plattformen",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 250004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ralf Koenzen",
+"funktion": "CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006404/86001",
+"stand": "2026-09-18"
+}
+},
+{
+"name": "Constantin von Reden",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006404/86001",
+"stand": "2026-09-18"
+}
+},
+{
+"name": "Robert Mallinson",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006404/86001",
+"stand": "2026-09-18"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 30001,
+"bis": 40000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/8c/63/843326/RS-Konzern-2025_Testat_BER_1010001.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006404/86001",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-18",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

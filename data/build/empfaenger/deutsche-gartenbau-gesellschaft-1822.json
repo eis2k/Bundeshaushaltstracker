@@ -1,0 +1,107 @@
+{
+"id": "deutsche-gartenbau-gesellschaft-1822",
+"name": "Deutsche Gartenbau-Gesellschaft 1822 e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.dgg1822.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003652",
+"eintrag_id": 81779,
+"version": 8,
+"stand": "2026-07-02",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003652/81779",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/40/5a/801856/Lobbyregister-Registereintraege-Detailansicht-R003652-2026-07-02_10-28-55.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+"epl": "16",
+"von": 160001,
+"bis": 170000,
+"zweck": "Förderung des Projektes Tausende Gärten - Tausende Arten für 2025",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 160001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Möring Karsten",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003652/81779",
+"stand": "2026-07-02"
+}
+},
+{
+"name": "Bettina de la Chevallerie",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003652/81779",
+"stand": "2026-07-02"
+}
+},
+{
+"name": "Tino Heidecke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003652/81779",
+"stand": "2026-07-02"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 30001,
+"bis": 40000
+},
+"mitgliedsbeitraege": {
+"von": 40001,
+"bis": 50000
+},
+"lobbyausgaben": {
+"von": 190001,
+"bis": 200000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/be/7c/801855/Jahresabschluss-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003652/81779",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-02",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

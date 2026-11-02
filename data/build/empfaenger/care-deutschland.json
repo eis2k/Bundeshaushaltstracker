@@ -1,0 +1,162 @@
+{
+"id": "care-deutschland",
+"name": "CARE Deutschland e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bonn",
+"website": "www.care.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002577",
+"eintrag_id": 87139,
+"version": 26,
+"stand": "2026-10-06",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002577/87139",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/09/55/857518/Lobbyregister-Registereintraege-Detailansicht-R002577-2026-10-06_15-40-00.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 14570001,
+"bis": 14580000,
+"zweck": "Zuschüsse zu Projekten der humanitären Hilfe",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+"epl": "23",
+"von": 8300001,
+"bis": 8310000,
+"zweck": "Zuschüsse zu Projekten der Entwicklungszusammenarbeit (BMZ und Engagement Global)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Gesellschaft für Internationale Zusammenarbeit (giz)",
+"epl": "23",
+"von": 2710001,
+"bis": 2720000,
+"zweck": "Zuschüsse für Projektförderung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+"epl": "16",
+"von": 3140001,
+"bis": 3150000,
+"zweck": "Zuschüsse für Klimaprojekte",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Migration und Flüchtlinge (BAMF)",
+"epl": "06",
+"von": 1220001,
+"bis": 1230000,
+"zweck": "Zuschüsse für Projekte im Inland",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 29940005,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Karl-Otto Zentel",
+"funktion": "Generalsekretär",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002577/87139",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Stefan Ewers",
+"funktion": "Stellvertretender Generalsekretär",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002577/87139",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Carla Dietzel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002577/87139",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Robin Faißt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002577/87139",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Anica Heinlein",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002577/87139",
+"stand": "2026-10-06"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 21820001,
+"bis": 21830000
+},
+"mitgliedsbeitraege": {
+"von": 10001,
+"bis": 20000
+},
+"lobbyausgaben": {
+"von": 210001,
+"bis": 220000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/00/ef/857516/WP-PruefungsberichtCARE_Testat_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002577/87139",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-06",
+"etikett": "Eigenangabe",
+"version": 26
+}
+]
+}

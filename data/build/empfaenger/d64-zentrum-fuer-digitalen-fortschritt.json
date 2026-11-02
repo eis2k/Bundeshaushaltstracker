@@ -1,0 +1,284 @@
+{
+"id": "d64-zentrum-fuer-digitalen-fortschritt",
+"name": "D64 - Zentrum für digitalen Fortschritt e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://d-64.org/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000251",
+"eintrag_id": 85478,
+"version": 23,
+"stand": "2026-09-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000251/85478",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/af/55/838216/Lobbyregister-Registereintraege-Detailansicht-R000251-2026-09-03_16-29-53.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 240001,
+"bis": 250000,
+"zweck": "Im April 2024 haben wir das Projekt „Code of Conduct Demokratische KI“ gestartet, in dem wir gemeinsam mit anderen gemeinwohlorientierten Organisationen eine Selbstverpflichtung für den verantwortungsvollen Einsatz von künstlicher Intelligenz in der Zivilgesellschaft erarbeiten. Das Projekt wird bis Ende 2025 durchgeführt und wird vom Bundesministerium für Familien, Senioren, Frauen und Jugend gefördert. Im Rahmen des Projektes entstand unter anderem das White Paper „Freiheit als zentraler Wert für den Einsatz von KI in der Zivilgesellschaft“. Das White Paper führt mit dem „KI-Wertekompass“ ein praxisnahes Tool ein, das Organisationen dabei unterstützt, ihre ethischen Prioritäten beim Einsatz von KI zu definieren.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Stiftung für Engagement und Ehrenamt",
+"epl": null,
+"von": 70001,
+"bis": 80000,
+"zweck": "Der Verein lebt vom Engagement unserer Mitglieder, weshalb uns die Förderung von digitalem Ehrenamt und Engagement wichtig ist. Im Juli 2024 haben wir das Projekt „Vernetzung Neu Denken: Aufbau einer Community von HumHub-Nutzenden in der Zivilgesellschaft“ gestartet. Im Projekt bauen wir eine gemeinwohlorientierte HumHub-Community auf, koordinieren den fachlichen Austausch zu Barrierefreiheit und Open-Source-Ökosystemen und initiieren die Umsetzung von HumHub-Schlüsselfunktionen. Das Projekt wird bis Ende 2025 durchgeführt und wird von der Deutschen Stiftung Engagement und Ehrenamt (DSEE) gefördert.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 310002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Svea Windwehr",
+"funktion": "Co-Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000251/85478",
+"stand": "2026-09-03"
+}
+},
+{
+"name": "Marlene Straub",
+"funktion": "Beisitzerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Referentin",
+"stelle": "Bundesministerium für Digitalisierung und Staatsmodernisierung (BMDS) oder dessen Geschäftsbereich",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000251/85478",
+"stand": "2026-09-03"
+}
+},
+{
+"name": "Erik Tuchtfeld",
+"funktion": "Co-Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000251/85478",
+"stand": "2026-09-03"
+}
+},
+{
+"name": "Dirk Schoemakers",
+"funktion": "Beisitzer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000251/85478",
+"stand": "2026-09-03"
+}
+},
+{
+"name": "Kathrin Kloppe",
+"funktion": "Schatzmeisterin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Referentin",
+"stelle": "Bundesministerium für Wirtschaft und Energie (BMWE) oder dessen Geschäftsbereich",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000251/85478",
+"stand": "2026-09-03"
+}
+},
+{
+"name": "Bendix Sältz",
+"funktion": "Beisitzer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000251/85478",
+"stand": "2026-09-03"
+}
+},
+{
+"name": "Monika Ilves",
+"funktion": "Beisitzerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000251/85478",
+"stand": "2026-09-03"
+}
+},
+{
+"name": "Anna Lob",
+"funktion": "Beisitzerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000251/85478",
+"stand": "2026-09-03"
+}
+},
+{
+"name": "Yannick Müller",
+"funktion": "Beisitzer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000251/85478",
+"stand": "2026-09-03"
+}
+},
+{
+"name": "Ulrich Berger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000251/85478",
+"stand": "2026-09-03"
+}
+},
+{
+"name": "Johann Lensing",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000251/85478",
+"stand": "2026-09-03"
+}
+},
+{
+"name": "Raewyn Leipold-Olszówka",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000251/85478",
+"stand": "2026-09-03"
+}
+},
+{
+"name": "Natalia Giraldo Noack",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000251/85478",
+"stand": "2026-09-03"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Marlene Straub",
+"funktion_person": "Referentin, Bundesministerium für Digitalisierung und Staatsmodernisierung (BMDS) oder dessen Geschäftsbereich",
+"funktion_beim_empfaenger": "Beisitzerin",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Marlene Straub ist laut Lobbyregister Beisitzerin bei D64 - Zentrum für digitalen Fortschritt e.V. und hatte zuvor eine öffentliche Funktion: Referentin, Bundesministerium für Digitalisierung und Staatsmodernisierung (BMDS) oder dessen Geschäftsbereich. D64 - Zentrum für digitalen Fortschritt e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Familie, Senioren, Frauen und Jugend; Deutsche Stiftung für Engagement und Ehrenamt.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"Deutsche Stiftung für Engagement und Ehrenamt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000251/85478",
+"stand": "2026-09-03"
+}
+],
+"stand": "2026-09-03"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Kathrin Kloppe",
+"funktion_person": "Referentin, Bundesministerium für Wirtschaft und Energie (BMWE) oder dessen Geschäftsbereich",
+"funktion_beim_empfaenger": "Schatzmeisterin",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Kathrin Kloppe ist laut Lobbyregister Schatzmeisterin bei D64 - Zentrum für digitalen Fortschritt e.V. und hatte zuvor eine öffentliche Funktion: Referentin, Bundesministerium für Wirtschaft und Energie (BMWE) oder dessen Geschäftsbereich. D64 - Zentrum für digitalen Fortschritt e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Familie, Senioren, Frauen und Jugend; Deutsche Stiftung für Engagement und Ehrenamt.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"Deutsche Stiftung für Engagement und Ehrenamt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000251/85478",
+"stand": "2026-09-03"
+}
+],
+"stand": "2026-09-03"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 140001,
+"bis": 150000
+},
+"mitgliedsbeitraege": {
+"von": 80001,
+"bis": 90000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/c5/7d/838215/D64-Jahresabschluss-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000251/85478",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-03",
+"etikett": "Eigenangabe",
+"version": 23
+}
+]
+}

@@ -1,0 +1,84 @@
+{
+"id": "internationale-organisationen-und",
+"name": "internationale Organisationen und",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "03-0312-68701",
+"text": "Beiträge an internationale Organisationen und für parlamentarische und interparlamentarische Vereinigungen",
+"epl": "03",
+"epl_text": "Bundesrat",
+"werte": {
+"2015": {
+"soll": 200000,
+"ist": 180489
+},
+"2016": {
+"soll": 200000,
+"ist": 183116
+},
+"2017": {
+"soll": 206000,
+"ist": 186054
+},
+"2018": {
+"soll": 206000,
+"ist": 192206
+},
+"2019": {
+"soll": 206000,
+"ist": 197014
+},
+"2020": {
+"soll": 215000,
+"ist": 199521
+},
+"2021": {
+"soll": 236000,
+"ist": 220507
+},
+"2022": {
+"soll": 236000,
+"ist": 220931
+},
+"2023": {
+"soll": 236000,
+"ist": 245066
+},
+"2024": {
+"soll": 272000,
+"ist": 255045
+},
+"2025": {
+"soll": 267000,
+"ist": 257761
+},
+"2026": {
+"soll": 272000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

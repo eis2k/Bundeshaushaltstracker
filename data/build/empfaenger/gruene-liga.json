@@ -1,0 +1,161 @@
+{
+"id": "gruene-liga",
+"name": "GRÜNE LIGA e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.grueneliga.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002537",
+"eintrag_id": 77784,
+"version": 18,
+"stand": "2026-06-02",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002537/77784",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/48/b3/746573/Lobbyregister-Registereintraege-Detailansicht-R002537-2026-06-02_18-36-22.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Umweltbundesamt",
+"epl": "16",
+"von": 10001,
+"bis": 20000,
+"zweck": "Projekt im Rahmen der Verbändeförderung des UBA: Wohnfläche nutzen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Umweltbundesamt",
+"epl": "16",
+"von": 50001,
+"bis": 60000,
+"zweck": "Projekt im Rahmen der Verbändeförderung des UBA: Win-Win im Bestand",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 60002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Thomas Tennhardt",
+"funktion": "Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002537/77784",
+"stand": "2026-06-02"
+}
+},
+{
+"name": "Steffen Schorcht",
+"funktion": "stellvertretender Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002537/77784",
+"stand": "2026-06-02"
+}
+},
+{
+"name": "Josephine Sahner",
+"funktion": "Bundesschatzmeisterin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002537/77784",
+"stand": "2026-06-02"
+}
+},
+{
+"name": "Daniel Griffon",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002537/77784",
+"stand": "2026-06-02"
+}
+},
+{
+"name": "Michael Bender",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002537/77784",
+"stand": "2026-06-02"
+}
+},
+{
+"name": "Arthur Nelson Haus",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002537/77784",
+"stand": "2026-06-02"
+}
+},
+{
+"name": "René Schuster",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002537/77784",
+"stand": "2026-06-02"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ae/b7/746553/2025_Rechenschaftsbericht_GRUENE-LIGA.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002537/77784",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-02",
+"etikett": "Eigenangabe",
+"version": 18
+}
+]
+}

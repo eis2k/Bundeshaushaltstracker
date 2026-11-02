@@ -1,0 +1,105 @@
+{
+"id": "leibniz-institut-fuer-analytische-wissenschaften-isas",
+"name": "Leibniz-Institut für Analytische Wissenschaften -ISAS- e. V.",
+"art": "forschung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Dortmund",
+"website": "www.isas.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006491",
+"eintrag_id": 82463,
+"version": 6,
+"stand": "2026-07-06",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006491/82463",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/33/a8/806093/Lobbyregister-Registereintraege-Detailansicht-R006491-2026-07-06_13-17-22.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesrepublik Deutschland, Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "60",
+"von": 970001,
+"bis": 980000,
+"zweck": "Zuschüsse zu Durchführung von Forschungsprojekten",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Forschungsgemeinschaft",
+"epl": null,
+"von": 700001,
+"bis": 710000,
+"zweck": "Zuschüsse zur Durchführung von Forschungsprojekten",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1670002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Albert Sickmann",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006491/82463",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Dorit Günther",
+"funktion": "Kaufmännische Vorständin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006491/82463",
+"stand": "2026-07-06"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 20001,
+"bis": 30000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/af/9e/806092/ISAS_Pruefbericht_Jahresabschluss_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006491/82463",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-06",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

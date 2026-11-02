@@ -1,0 +1,157 @@
+{
+"id": "frauenhauskoordinierung",
+"name": "Frauenhauskoordinierung e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "frauenhauskoordinierung.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002211",
+"eintrag_id": 85707,
+"version": 27,
+"stand": "2026-09-10",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002211/85707",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/00/b1/840423/Lobbyregister-Registereintraege-Detailansicht-R002211-2026-09-10_14-20-42.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ)/Bundesverwaltungsamt (BVA)",
+"epl": "17",
+"von": 400001,
+"bis": 410000,
+"zweck": "Förderung der Frauenhauskoordinierung e.V. (Geschäftsstelle)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBFSFJ/BVA",
+"epl": "17",
+"von": 350001,
+"bis": 360000,
+"zweck": "Digitaler Gewalt im Frauenhaus handlungssicher begegnen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBFSFJ/Demokratie leben!",
+"epl": "17",
+"von": 160001,
+"bis": 170000,
+"zweck": "Intersektionalität im Frauenhaus begegnen, Demokratie leben!",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 910003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Stefanie Leich",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002211/85707",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Katharina van Elten",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002211/85707",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Katrin Frank",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002211/85707",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Sina Küster",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002211/85707",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Dorothea Hecht",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002211/85707",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Sibylle Schreiber",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002211/85707",
+"stand": "2026-09-10"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 420001,
+"bis": 430000
+},
+"mitgliedsbeitraege": {
+"von": 50001,
+"bis": 60000
+},
+"lobbyausgaben": {
+"von": 90001,
+"bis": 100000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/00/e1/840416/Sachbericht_Verein_2024_alle_Projekte_final_Inhaltsverzeichnis.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002211/85707",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-10",
+"etikett": "Eigenangabe",
+"version": 27
+}
+]
+}

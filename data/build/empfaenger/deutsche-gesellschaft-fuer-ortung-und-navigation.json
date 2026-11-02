@@ -1,0 +1,108 @@
+{
+"id": "deutsche-gesellschaft-fuer-ortung-und-navigation",
+"name": "Deutsche Gesellschaft für Ortung und Navigation e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bonn",
+"website": "www.dgon.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007199",
+"eintrag_id": 86377,
+"version": 4,
+"stand": "2026-09-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007199/86377",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ef/93/847135/Lobbyregister-Registereintraege-Detailansicht-R007199-2026-09-24_16-24-55.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Digitales und Verkehr (BMDV)",
+"epl": "12",
+"von": 20001,
+"bis": 30000,
+"zweck": "Institutioneller Zuschuss zur Förderung der satzungsgemäßen Aufgaben der Deutschen Gesellschaft für Ortung und Navigation (DGON) im Bereich Wissenschaft, Forschung, Information und fachlicher Vernetzung.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 20001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Carlos Jahn",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007199/86377",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Uwe Plank-Wiedenbeck",
+"funktion": "Schatzmeister als zweiter Stellvertreter",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007199/86377",
+"stand": "2026-09-24"
+}
+},
+{
+"name": "Frank Zimmermann",
+"funktion": "stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007199/86377",
+"stand": "2026-09-24"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 30001,
+"bis": 40000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/05/bb/847134/12060020-44175-EUeR-31-12-2025-002.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007199/86377",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-24",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

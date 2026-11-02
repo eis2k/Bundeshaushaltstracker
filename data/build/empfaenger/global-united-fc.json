@@ -1,0 +1,86 @@
+{
+"id": "global-united-fc",
+"name": "Global United FC e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Landshut",
+"website": "www.globalunitedfc.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005639",
+"eintrag_id": 68802,
+"version": 3,
+"stand": "2025-12-12",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005639/68802",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/b3/77/655662/Lobbyregister-Registereintraege-Detailansicht-R005639-2025-12-12_14-43-57.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Deutsche Botschaft Südafrika",
+"epl": null,
+"von": 1,
+"bis": 10000,
+"zweck": "Zuschuss für den Greenwich in Südafrika",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 1,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Rainer  Hahn",
+"funktion": "Generalsekretär",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005639/68802",
+"stand": "2025-12-12"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/4d/2c/655661/241128_Gee_Om_JB_Bericht_2024_01.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005639/68802",
+"abgerufen": "2026-11-02",
+"stand": "2025-12-12",
+"etikett": "Eigenangabe",
+"version": 3
+}
+]
+}

@@ -1,0 +1,128 @@
+{
+"id": "thyssengas",
+"name": "Thyssengas GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Dortmund",
+"website": "https://thyssengas.com/de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001461",
+"eintrag_id": 77293,
+"version": 11,
+"stand": "2026-07-13",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001461/77293",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/25/e7/812214/Lobbyregister-Registereintraege-Detailansicht-R001461-2026-07-13_16-44-30.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 900001,
+"bis": 910000,
+"zweck": "Für die Thyssengas H2 GmbH im Rahmen IPCEI",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 900001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Thomas Becker",
+"funktion": "Kaufmännischer Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001461/77293",
+"stand": "2026-07-13"
+}
+},
+{
+"name": "Stefanie Kesting",
+"funktion": "Vorsitzende der Geschäftsführung (CEO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001461/77293",
+"stand": "2026-07-13"
+}
+},
+{
+"name": "Peter Alexewicz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001461/77293",
+"stand": "2026-07-13"
+}
+},
+{
+"name": "Oliver Kasper",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001461/77293",
+"stand": "2026-07-13"
+}
+},
+{
+"name": "Gregor Seidewinkel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001461/77293",
+"stand": "2026-07-13"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 230001,
+"bis": 240000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/f5/ef/812205/TG-Testat-31-12-2025-002.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001461/77293",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-13",
+"etikett": "Eigenangabe",
+"version": 11
+}
+]
+}

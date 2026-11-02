@@ -1,0 +1,138 @@
+{
+"id": "deutscher-kegler-und-bowlingbund",
+"name": "Deutscher Kegler- und Bowlingbund e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.kegelnundbowling.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004567",
+"eintrag_id": 78603,
+"version": 7,
+"stand": "2026-06-11",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004567/78603",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/6c/53/755646/Lobbyregister-Registereintraege-Detailansicht-R004567-2026-06-11_11-09-58.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium des Innern und für Heimat",
+"epl": "06",
+"von": 160001,
+"bis": 170000,
+"zweck": "Spitzensportförderung des Bundes für Leistungssportpersonal und die Jahresplanung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 20001,
+"bis": 30000,
+"zweck": "Kinder- und Jugendplan des Bundes",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 180002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Uwe Oldenburg",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004567/78603",
+"stand": "2026-06-11"
+}
+},
+{
+"name": "Michael Teschner",
+"funktion": "Vizepräsident Sport/Verbandsentwicklung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004567/78603",
+"stand": "2026-06-11"
+}
+},
+{
+"name": "Holger Zurek",
+"funktion": "Vizepräsident Finanzen",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004567/78603",
+"stand": "2026-06-11"
+}
+},
+{
+"name": "Hans-Herbert Hain",
+"funktion": "Vizepräsident Jugend",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004567/78603",
+"stand": "2026-06-11"
+}
+},
+{
+"name": "Simone Eggebrecht",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004567/78603",
+"stand": "2026-06-11"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 200001,
+"bis": 210000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/45/ae/755645/DKB-Jahresabschluss-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004567/78603",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-11",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

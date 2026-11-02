@@ -1,0 +1,117 @@
+{
+"id": "xenion-psychosoziale-hilfen-fuer-politisch-verfolgte",
+"name": "XENION PSYCHOSOZIALE HILFEN FÜR POLITISCH VERFOLGTE e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "xenion.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007289",
+"eintrag_id": 80574,
+"version": 2,
+"stand": "2026-07-09",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007289/80574",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/89/d4/809716/Lobbyregister-Registereintraege-Detailansicht-R007289-2026-07-09_10-16-34.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMFSFJ",
+"epl": "17",
+"von": 80001,
+"bis": 90000,
+"zweck": "Psychosoziale Beratung f. traumatisierte Geflüchtete",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BAMF",
+"epl": "06",
+"von": 730001,
+"bis": 740000,
+"zweck": "AMIF (EU) - psychosoziale Versorgung von besonders vulnerablen Geflüchteten, Schwerpunkt Opfer von Genderspezifischer Gewalt",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 810002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jonas Stocker",
+"funktion": "Co-Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007289/80574",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Janina Meyeringh",
+"funktion": "Co-Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007289/80574",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Anne Marie Benzing",
+"funktion": "Co-Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007289/80574",
+"stand": "2026-07-09"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 10001,
+"bis": 20000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/17/39/809715/Jahresabschlussbericht-2024-final.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007289/80574",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-09",
+"etikett": "Eigenangabe",
+"version": 2
+}
+]
+}

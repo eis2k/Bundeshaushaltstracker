@@ -1,0 +1,230 @@
+{
+"id": "deutsche-lebens-rettungs-gesellschaft",
+"name": "Deutsche Lebens-Rettungs-Gesellschaft e.V. (DLRG)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bad Nenndorf",
+"website": "www.dlrg.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001536",
+"eintrag_id": 78936,
+"version": 22,
+"stand": "2026-06-22",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001536/78936",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/2e/13/767014/Lobbyregister-Registereintraege-Detailansicht-R001536-2026-06-22_09-37-53.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BAFzA - Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"epl": "17",
+"von": 660001,
+"bis": 670000,
+"zweck": "Zuschüsse Bundesfreiwilligendienst",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium des Inneren ( BMI)",
+"epl": null,
+"von": 520001,
+"bis": 530000,
+"zweck": "Projektfinanzierung EU-Modul Flood rescue using boats",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMFSFJ - Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 350001,
+"bis": 360000,
+"zweck": "DLRG-Jugend: Förderung aus dem Kinder - und Jugendplan des Bundes im Handlungsfeld I \" Kinder- und Jugendarbeit\" als Projektförderung (Kurse und Arbeitstagungen, Personal, Projekte, internationale Jugendarbeit etc.)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BBK - Bundesamt für Bevölkerungsschutz und Katastrophenhilfe",
+"epl": "06",
+"von": 140001,
+"bis": 150000,
+"zweck": "Bundeszuwendung für die Ausbildungsmodule Erster Hilfe mit Selbstschutzinhalten",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1670004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ute Vogt",
+"funktion": "Präsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-10"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001536/78936",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Dirk Bissinger",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001536/78936",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Jörn Linnertz",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001536/78936",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Anika Flöte",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001536/78936",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Dorothee Dill",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001536/78936",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Alexander Paffrath",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001536/78936",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Andreas Bläse",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001536/78936",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Tanja Larsson",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001536/78936",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Carolin Lambotte",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001536/78936",
+"stand": "2026-06-22"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Ute Vogt",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag, bis 2021-10",
+"funktion_beim_empfaenger": "Präsidentin",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Ute Vogt ist laut Lobbyregister Präsidentin bei Deutsche Lebens-Rettungs-Gesellschaft e.V. (DLRG) und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag, bis 2021-10. Deutsche Lebens-Rettungs-Gesellschaft e.V. (DLRG) erhielt laut Lobbyregister Mittel von: BAFzA - Bundesamt für Familie und zivilgesellschaftliche Aufgaben; Bundesministerium des Inneren ( BMI); BMFSFJ - Bundesministerium für Familie, Senioren, Frauen und Jugend; BBK - Bundesamt für Bevölkerungsschutz und Katastrophenhilfe.",
+"ausschuesse": [],
+"geld_aus": [
+"BAFzA - Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"Bundesministerium des Inneren ( BMI)",
+"BMFSFJ - Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"BBK - Bundesamt für Bevölkerungsschutz und Katastrophenhilfe"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001536/78936",
+"stand": "2026-06-22"
+}
+],
+"stand": "2026-06-22"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 39770001,
+"bis": 39780000
+},
+"mitgliedsbeitraege": {
+"von": 3450001,
+"bis": 3460000
+},
+"lobbyausgaben": {
+"von": 30001,
+"bis": 40000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/75/c8/767011/213270_Offenlegung-DLRG.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001536/78936",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-22",
+"etikett": "Eigenangabe",
+"version": 22
+}
+]
+}

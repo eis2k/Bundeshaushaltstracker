@@ -1,0 +1,97 @@
+{
+"id": "deutscher-rugby-verband",
+"name": "Deutscher Rugby-Verband e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Heidelberg",
+"website": "rugbydeutschland.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005280",
+"eintrag_id": 70389,
+"version": 6,
+"stand": "2026-01-05",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005280/70389",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/fd/40/677868/Lobbyregister-Registereintraege-Detailansicht-R005280-2026-01-05_14-26-44.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Spitzensportförderung",
+"epl": null,
+"von": 1190001,
+"bis": 1200000,
+"zweck": "Leistungen aus dem Bundeshaushalt im Zusammenhang mit der Spitzensportförderung des Bundes und des DOSB",
+"geschaeftsjahr": "2023"
+}
+],
+"lobby_untergrenze_bund": 1190001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Florian Hartmann",
+"funktion": "Vorstand Struktur und Entwicklung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005280/70389",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Stefan Decker",
+"funktion": "Vorstand Finanzen",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005280/70389",
+"stand": "2026-01-05"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 190001,
+"bis": 200000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2023",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/44/2f/677841/pdf24_zusammengefugt-2.pdf",
+"geschaeftsjahr": "2022",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005280/70389",
+"abgerufen": "2026-11-02",
+"stand": "2026-01-05",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

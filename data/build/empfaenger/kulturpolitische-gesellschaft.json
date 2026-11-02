@@ -1,0 +1,92 @@
+{
+"id": "kulturpolitische-gesellschaft",
+"name": "Kulturpolitische Gesellschaft",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "04-0405-68516",
+"text": "Zuschuss an die Kulturpolitische Gesellschaft",
+"epl": "04",
+"epl_text": "Bundeskanzlerin und Bundeskanzleramt",
+"werte": {
+"2015": {
+"soll": 490000,
+"ist": 558420
+}
+}
+},
+{
+"id": "04-0452-68516",
+"text": "Zuschuss an die Kulturpolitische Gesellschaft",
+"epl": "04",
+"epl_text": "Bundeskanzler und Bundeskanzleramt",
+"werte": {
+"2016": {
+"soll": 500000,
+"ist": 510000
+},
+"2017": {
+"soll": 738000,
+"ist": 674150
+},
+"2018": {
+"soll": 641000,
+"ist": 641000
+},
+"2019": {
+"soll": 898000,
+"ist": 896000
+},
+"2020": {
+"soll": 955000,
+"ist": 1010000
+},
+"2021": {
+"soll": 1050000,
+"ist": 1044500
+},
+"2022": {
+"soll": 1040000,
+"ist": 1021000
+},
+"2023": {
+"soll": 984000,
+"ist": 984000
+},
+"2024": {
+"soll": 1609000,
+"ist": 1447100
+},
+"2025": {
+"soll": 563000,
+"ist": 597000
+},
+"2026": {
+"soll": 908000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

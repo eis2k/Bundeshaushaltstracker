@@ -1,0 +1,107 @@
+{
+"id": "radlogistik-verband-deutschland",
+"name": "Radlogistik Verband Deutschland e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://rlvd.bike/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002365",
+"eintrag_id": 87306,
+"version": 13,
+"stand": "2026-10-09",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002365/87306",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/48/3e/858990/Lobbyregister-Registereintraege-Detailansicht-R002365-2026-10-09_09-19-44.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Logistik und Mobilität",
+"epl": "12",
+"von": 50001,
+"bis": 60000,
+"zweck": "Radverkehrsförderung für das Vorhaben „iKnowRadlogistik“ – Erstellung einer deutschlandweiten Wissenslandkarte , die verschiedenen Stakeholdern Informationen und Kenntnisse zur ganzheitlichen Umsetzung von Radlogistik-Projekten vermittelt und zur Verfügung stellt. Mittel der Radverkehrsförderung für das Vorhaben „CCB4U - Entwicklung eines modularen, digitalen Anwendungssystem zur operativen, strategischen und organisatorischen Bewertung und Integration von gewerblichen Lastenrädern bei mittelständischen Logistikdienstleistern“ Mittel der Radverkehrsförderung für das Vorhaben „RadiW – Das Rad im Wirtschaftsverkehr: Vom Konzept zur Anwendung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 50001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ernst Brust",
+"funktion": "Erster Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002365/87306",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Helge Neubauer",
+"funktion": "Zweiter Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002365/87306",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Laurin Neusch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002365/87306",
+"stand": "2026-10-09"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 20001,
+"bis": 30000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/8e/a3/858987/RLVD-2025-EUeR-1.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002365/87306",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-09",
+"etikett": "Eigenangabe",
+"version": 13
+}
+]
+}

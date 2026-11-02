@@ -1,0 +1,128 @@
+{
+"id": "lohmann-und-rauscher",
+"name": "Lohmann & Rauscher GmbH & Co. KG",
+"art": "unternehmen",
+"rechtsform": "Sonstige Personengesellschaft",
+"sitz": "Neuwied",
+"website": "https://www.lohmann-rauscher.com/de-de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002798",
+"eintrag_id": 84286,
+"version": 11,
+"stand": "2026-08-05",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002798/84286",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/fc/14/826548/Lobbyregister-Registereintraege-Detailansicht-R002798-2026-08-05_13-31-19.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "KOMATRA Konsortium - Kompetenzzentrum Arbeitsforschung",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "KOMATRA ist ein öffentlich gefördertes Kompetenzzentrum, das u.a. Unternehmen der Medizintechnik bei nachhaltiger Transformation, Arbeitsgestaltung und Nachhaltigkeitsthemen unterstützt. Das konkrete Forschungs- und Entwicklungsprojekt wird durch das Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR) im Programm „Zukunft der Wertschöpfung – Forschung zu Produktion, Dienstleistung und Arbeit“ gefördert und vom Projektträger Karlsruhe (PTKA) betreut. Als Unternehmenspartner im Projekt KOMATRA waren wir im Projektjahr 2025 an folgenden allgemeinen Projektergebnissen beteiligt: Teilnahme an Interviews „use case journeys”, zur vertieften Erforschung der unternehmerischen Transformationspfade, umfangreiche Maßnahmeerprobungen im Bereich werteorientiertes Arbeiten (Konzeption der Maßnahmen – Durchführung in use cases) sowie Teilnahme am Fachkongress in Koblenz und verschiedenen Workshopreihen mit dem Ziel, die Erkenntnisse in operative Strukturen zu integrieren.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 10001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Thomas Menitz",
+"funktion": "President, CEO & COO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002798/84286",
+"stand": "2026-08-05"
+}
+},
+{
+"name": "Holger Mägdefrau",
+"funktion": "Senior Executive Vice President, CFO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002798/84286",
+"stand": "2026-08-05"
+}
+},
+{
+"name": "Klemens Schulz",
+"funktion": "CPO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002798/84286",
+"stand": "2026-08-05"
+}
+},
+{
+"name": "Fabio Cortesi",
+"funktion": "CCO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002798/84286",
+"stand": "2026-08-05"
+}
+},
+{
+"name": "Mark Jalaß",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002798/84286",
+"stand": "2026-08-05"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/82/72/826547/Testatsexemplar-Lohmann-Rauscher-GmbH-Co-KG-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002798/84286",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-05",
+"etikett": "Eigenangabe",
+"version": 11
+}
+]
+}

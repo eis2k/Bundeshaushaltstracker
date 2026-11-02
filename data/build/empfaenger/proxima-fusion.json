@@ -1,0 +1,252 @@
+{
+"id": "proxima-fusion",
+"name": "Proxima Fusion",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "München",
+"website": "www.proximafusion.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006269",
+"eintrag_id": 85460,
+"version": 10,
+"stand": "2026-09-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006269/85460",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/b4/92/838099/Lobbyregister-Registereintraege-Detailansicht-R006269-2026-09-03_13-56-02.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMFTR - Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 1740001,
+"bis": 1750000,
+"zweck": "Förderprojekt \"Bearbeitung grundlegender Themen der Magnetfusion auf dem Weg zum Fusionskraftwerk\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMFTR - Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 650001,
+"bis": 660000,
+"zweck": "Programm zum Aufbau einer KI-betriebenen Simulationsplattform zum Design von Stellarator-Komponenten",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 2390002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Francesco Sciortino",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006269/85460",
+"stand": "2026-09-03"
+}
+},
+{
+"name": "Lucio Milanese",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006269/85460",
+"stand": "2026-09-03"
+}
+},
+{
+"name": "Johannes Schwemmer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006269/85460",
+"stand": "2026-09-03"
+}
+},
+{
+"name": "Eszter Kantor",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006269/85460",
+"stand": "2026-09-03"
+}
+},
+{
+"name": "Yannik Meffert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-09"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006269/85460",
+"stand": "2026-09-03"
+}
+},
+{
+"name": "Armin Reinartz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Abteilungsleiter Internationales",
+"stelle": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2025-05"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006269/85460",
+"stand": "2026-09-03"
+}
+},
+{
+"name": "Maria Dantz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006269/85460",
+"stand": "2026-09-03"
+}
+},
+{
+"name": "Paula Möbius",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für eine Fraktion/Gruppe im Deutschen Bundestag",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-05"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006269/85460",
+"stand": "2026-09-03"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Yannik Meffert",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-09",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Yannik Meffert ist laut Lobbyregister Interessenvertretung bei Proxima Fusion und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-09. Proxima Fusion erhielt laut Lobbyregister Mittel von: BMFTR - Bundesministerium für Forschung, Technologie und Raumfahrt.",
+"ausschuesse": [],
+"geld_aus": [
+"BMFTR - Bundesministerium für Forschung, Technologie und Raumfahrt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006269/85460",
+"stand": "2026-09-03"
+}
+],
+"stand": "2026-09-03"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Armin Reinartz",
+"funktion_person": "Abteilungsleiter Internationales, Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR) oder dessen Geschäftsbereich, bis 2025-05",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Armin Reinartz ist laut Lobbyregister Interessenvertretung bei Proxima Fusion und hatte zuvor eine öffentliche Funktion: Abteilungsleiter Internationales, Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR) oder dessen Geschäftsbereich, bis 2025-05. Proxima Fusion erhielt laut Lobbyregister Mittel von: BMFTR - Bundesministerium für Forschung, Technologie und Raumfahrt.",
+"ausschuesse": [],
+"geld_aus": [
+"BMFTR - Bundesministerium für Forschung, Technologie und Raumfahrt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006269/85460",
+"stand": "2026-09-03"
+}
+],
+"stand": "2026-09-03"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Paula Möbius",
+"funktion_person": "Funktion für eine Fraktion/Gruppe im Deutschen Bundestag, Bundestag, bis 2025-05",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Paula Möbius ist laut Lobbyregister Interessenvertretung bei Proxima Fusion und hatte zuvor eine öffentliche Funktion: Funktion für eine Fraktion/Gruppe im Deutschen Bundestag, Bundestag, bis 2025-05. Proxima Fusion erhielt laut Lobbyregister Mittel von: BMFTR - Bundesministerium für Forschung, Technologie und Raumfahrt.",
+"ausschuesse": [],
+"geld_aus": [
+"BMFTR - Bundesministerium für Forschung, Technologie und Raumfahrt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006269/85460",
+"stand": "2026-09-03"
+}
+],
+"stand": "2026-09-03"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 60001,
+"bis": 70000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/99/4d/838098/80056062_End_TE_JA2024-3.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006269/85460",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-03",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

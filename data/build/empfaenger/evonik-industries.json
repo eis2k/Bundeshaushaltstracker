@@ -1,0 +1,525 @@
+{
+"id": "evonik-industries",
+"name": "Evonik Industries AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Essen",
+"website": "www.evonik.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002081",
+"eintrag_id": 86938,
+"version": 52,
+"stand": "2026-10-02",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002081/86938",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/07/34/855821/Lobbyregister-Registereintraege-Detailansicht-R002081-2026-10-02_15-24-37.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMFTR Berlin",
+"epl": "30",
+"von": 30001,
+"bis": 40000,
+"zweck": "Zuschuss zum Forschungsprojekt reKultI4Food 31B1206D",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMFTR Berlin",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "Zuschuss zum Forschungsprojekt 03EW0008A TP L IV",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE Berlin",
+"epl": "09",
+"von": 60001,
+"bis": 70000,
+"zweck": "Zuschuss zum Forschungsprojekt INGE 03EN2062A",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE Berlin",
+"epl": "09",
+"von": 120001,
+"bis": 130000,
+"zweck": "Zuschuss zum Forschungsprojekt 03EN2065A 3D-Process",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMFTR Berlin",
+"epl": "30",
+"von": 80001,
+"bis": 90000,
+"zweck": "PuRes Implant Zuschuss zum Forschungsprojekt WerkBio 003",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMFTR Berlin",
+"epl": "30",
+"von": 10001,
+"bis": 20000,
+"zweck": "Zuschuss zum Forschungsprojekt 13XP5108B PEEKurious",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE Berlin",
+"epl": "09",
+"von": 50001,
+"bis": 60000,
+"zweck": "Zuschuss zum Forschungsprojekt CHEPHREN 03EN4005D",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE Berlin",
+"epl": "09",
+"von": 40001,
+"bis": 50000,
+"zweck": "CHEPHREN II Zuschuss zum Forschungsprojekt 03EN4029D",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE Berlin",
+"epl": "09",
+"von": 60001,
+"bis": 70000,
+"zweck": "Zuschuss zum Forschungsprojekt 03EI5430B PtG-Mem",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE Berlin",
+"epl": "09",
+"von": 110001,
+"bis": 120000,
+"zweck": "Zuschuss zum Forschungsprojekt FSCM 19S22005b",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE Berlin",
+"epl": "09",
+"von": 280001,
+"bis": 290000,
+"zweck": "Zuschuss zum Forschungsprojekt EaRLi 16BZF305C",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMLEH Berlin",
+"epl": "10",
+"von": 140001,
+"bis": 150000,
+"zweck": "Zuschuss zum Forschungsprojekt 281C402A21 ChiSYN",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMFTR Berlin",
+"epl": "30",
+"von": 60001,
+"bis": 70000,
+"zweck": "Zuschuss zum Forschungsprojekt KIOptiPack 033KI105",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE Berlin",
+"epl": "09",
+"von": 190001,
+"bis": 200000,
+"zweck": "Zuschuss zum Forschungsprojekt 16LP401005 BASE-Lipid",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE Berlin",
+"epl": "09",
+"von": 360001,
+"bis": 370000,
+"zweck": "Zuschuss zum Forschungsprojekt 03EN4060B LowCarbDry",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMFTR Berlin",
+"epl": "30",
+"von": 30001,
+"bis": 40000,
+"zweck": "Zuschuss zum Forschungsprojekt E-CACAO 03ZU1205FB",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE Berlin",
+"epl": "09",
+"von": 20001,
+"bis": 30000,
+"zweck": "Zuschuss zum Forschungsprojekt HotWalls 03EN4088A",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE Berlin",
+"epl": "09",
+"von": 80001,
+"bis": 90000,
+"zweck": "Zuschuss zum Forschungsprojekt 03EN211FC WinPro",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMFTR Berlin",
+"epl": "30",
+"von": 310001,
+"bis": 320000,
+"zweck": "Zuschuss zum Forschungsprojekt AEM-Direkt 03HY130E",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMFTR Berlin",
+"epl": "30",
+"von": 60001,
+"bis": 70000,
+"zweck": "Zuschuss zum Forschungsprojekt SIB:DE 03XP0627N",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMLEH Berlin",
+"epl": "10",
+"von": 20001,
+"bis": 30000,
+"zweck": "Zuschuss zum Forschungsprojekt 2222NR036A Circular-Bio-Hybrids",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE Berlin",
+"epl": "09",
+"von": 90001,
+"bis": 100000,
+"zweck": "Zuschuss zum Forschungsprojekt IndHP2Chem 03EN4091A",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF Berlin",
+"epl": "30",
+"von": 100001,
+"bis": 110000,
+"zweck": "Zuschuss zum Forschungsprojekt 03XP0599A BETA",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMFTR Berlin",
+"epl": "30",
+"von": 210001,
+"bis": 220000,
+"zweck": "Zuschuss zum Forschungsprojekt P2VC 03SFK2S5A",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMFTR Berlin",
+"epl": "30",
+"von": 130001,
+"bis": 140000,
+"zweck": "Zuschuss zum Forschungsprojekt 03XP0609A COBRA",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMF Berlin",
+"epl": "08",
+"von": 210001,
+"bis": 220000,
+"zweck": "Zuschuss zum Forschungsprojekt 932-021-573/2021-1/1 GAA",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMF Berlin",
+"epl": "08",
+"von": 140001,
+"bis": 150000,
+"zweck": "Zuschuss zum Forschungsprojekt 932-021-573/2024-1 LysMax",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMF Berlin",
+"epl": "08",
+"von": 30001,
+"bis": 40000,
+"zweck": "Zuschuss zum Forschungsprojekt IPN 932-021-573/2025-4/8",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMF Berlin",
+"epl": "08",
+"von": 430001,
+"bis": 440000,
+"zweck": "Zuschuss zum Forschungsprojekt 932-021-573/2021-1/2 Mecarb",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMFTR Berlin",
+"epl": "30",
+"von": 950001,
+"bis": 960000,
+"zweck": "Zuschuss zum Investitionsprojekt 03HY131B H2annibal",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 4420030,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christian Kullmann",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002081/86938",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Thomas Wessel",
+"funktion": "Personalvorstand und Arbeitsdirektor",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002081/86938",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Claudine Mollenkopf",
+"funktion": "Chief Operating Officer Advanced Technologies",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002081/86938",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Lauren Kjeldsen",
+"funktion": "Chief Operating Officer Custom Solutions",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002081/86938",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Michael Rauch",
+"funktion": "Finanzvorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002081/86938",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Claus Rettig",
+"funktion": "Stellvertretender Vorstandsvorsitzender ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002081/86938",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Norbert Neß",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002081/86938",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Artur Müller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002081/86938",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Barbara Fiala",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002081/86938",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Renée Röske",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002081/86938",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Ariane Kohlmeier",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002081/86938",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Gesa-Marie Zienert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002081/86938",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Silke Linneweber",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002081/86938",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Katharina Fraune",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002081/86938",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Arndt Selbach",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002081/86938",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Kerstin Oberhaus",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002081/86938",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Thomas Basten",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002081/86938",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Jörg Falkenberg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002081/86938",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Olaf Breuer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002081/86938",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Bernd Amrhein",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002081/86938",
+"stand": "2026-10-02"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 2220001,
+"bis": 2230000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ef/c4/855817/Evonik_Finanz_und_Nachhaltigkeitsbericht_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002081/86938",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-02",
+"etikett": "Eigenangabe",
+"version": 52
+}
+]
+}

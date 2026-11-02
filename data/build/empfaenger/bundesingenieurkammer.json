@@ -1,0 +1,227 @@
+{
+"id": "bundesingenieurkammer",
+"name": "Bundesingenieurkammer",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.bingk.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001466",
+"eintrag_id": 79389,
+"version": 12,
+"stand": "2026-06-17",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001466/79389",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c3/09/761336/Lobbyregister-Registereintraege-Detailansicht-R001466-2026-06-17_08-42-25.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMWSB: Projektförderung/Fehlbedarfsfinanzierung",
+"epl": "25",
+"von": 30001,
+"bis": 40000,
+"zweck": "Historische Wahrzeichen der Ingnieurbaukunst (25.000 Euro) Schülerwettbewerb Junior.ING (10.000 Euro)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 30001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Heinrich Bökamp",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001466/79389",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Ingolf Kluge",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001466/79389",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Sylvia Reyer-Rohde",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001466/79389",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Ulrich Scholz",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001466/79389",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Helmut Schmeitzner",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001466/79389",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Christoph Schröder",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001466/79389",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Wilhelmina Katzschmann",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001466/79389",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Martin Falenski",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001466/79389",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Markus Balkow",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001466/79389",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Marcel Kaupmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001466/79389",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Martin Böhme",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001466/79389",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Eva Hämmerle",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001466/79389",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Marcus von Amsberg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001466/79389",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Fabian Becker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001466/79389",
+"stand": "2026-06-17"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1580001,
+"bis": 1590000
+},
+"lobbyausgaben": {
+"von": 210001,
+"bis": 220000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/43/b8/761335/ct-Kassenbericht-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001466/79389",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-17",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

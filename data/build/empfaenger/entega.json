@@ -1,0 +1,185 @@
+{
+"id": "entega",
+"name": "ENTEGA AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Darmstadt",
+"website": "www.entega.ag",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002954",
+"eintrag_id": 85826,
+"version": 28,
+"stand": "2026-09-16",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002954/85826",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/5f/c5/842495/Lobbyregister-Registereintraege-Detailansicht-R002954-2026-09-16_11-50-39.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)",
+"epl": "09",
+"von": 130001,
+"bis": 140000,
+"zweck": "Förderung Transformationsplan gem. BEW (Bundesförderprogramm effiziente Wärmenetze) als Teil der ENTEGA Wärmestrategie. Separate Förderbewilligungen zur Erstellung eines Transformationsplans im Sinne des BEW (Bundesförderprogramm effiziente Wärmenetze) für die Darmstädter Fernwärmenetze Nord, Arheilgen-Kranichstein, TZ-Gelände, Lincoln und Eberstadt.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 1030001,
+"bis": 1040000,
+"zweck": "Bundesförderung Reallabor der Energiewende, Projekt DELTA - Effiziente und flexible Energieversorgungssysteme (Entwicklung und Erprobung, Umsetzung und Demonstration). Im Rahmen des Reallabors DELTA werden verschiedene Standorte im Stadtgebiet Darmstadt sowie dessen unmittelbarem Umfeld ausgewählt und verschiedenste technologische Innovationen in einem realen Maßstab erprobt.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)",
+"epl": "09",
+"von": 370001,
+"bis": 380000,
+"zweck": "Förderung nach der „Bundesförderung für effiziente Gebäude“ (BEG) für neues Bürogebäude Neubau Grossogelände.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1530003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Albrecht Förster",
+"funktion": "Vorstand Finanzen",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002954/85826",
+"stand": "2026-09-16"
+}
+},
+{
+"name": "Julia Klinger",
+"funktion": "Vorstand Personal und Infrastruktur",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002954/85826",
+"stand": "2026-09-16"
+}
+},
+{
+"name": "Thomas Schmidt",
+"funktion": "Vorsitzender des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002954/85826",
+"stand": "2026-09-16"
+}
+},
+{
+"name": "Jan Helmrich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002954/85826",
+"stand": "2026-09-16"
+}
+},
+{
+"name": "Philip Krämer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002954/85826",
+"stand": "2026-09-16"
+}
+},
+{
+"name": "Marcel Wolsing",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002954/85826",
+"stand": "2026-09-16"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Philip Krämer",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Philip Krämer ist laut Lobbyregister Interessenvertretung bei ENTEGA AG und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03. ENTEGA AG erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Energie (BMWE); Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA).",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Wirtschaft und Energie (BMWE)",
+"Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002954/85826",
+"stand": "2026-09-16"
+}
+],
+"stand": "2026-09-16"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 390001,
+"bis": 400000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/44/74/842494/Testatsexemplar_ENTEGA_AG_JAP_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002954/85826",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-16",
+"etikett": "Eigenangabe",
+"version": 28
+}
+]
+}

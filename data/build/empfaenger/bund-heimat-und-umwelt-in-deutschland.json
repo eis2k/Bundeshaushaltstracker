@@ -1,0 +1,64 @@
+{
+"id": "bund-heimat-und-umwelt-in-deutschland",
+"name": "Bund Heimat und Umwelt in Deutschland (BHU)",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "06-0601-68413",
+"text": "Zuschuss an den Bund Heimat und Umwelt in Deutschland (BHU)",
+"epl": "06",
+"epl_text": "Bundesministerium des Innern",
+"werte": {
+"2019": {
+"soll": 370000,
+"ist": 370000
+},
+"2020": {
+"soll": 370000,
+"ist": 370000
+},
+"2021": {
+"soll": 450000,
+"ist": 450000
+},
+"2022": {
+"soll": 450000,
+"ist": 450000
+},
+"2023": {
+"soll": 370000,
+"ist": 370000
+},
+"2024": {
+"soll": 450000,
+"ist": 450000
+},
+"2025": {
+"soll": 450000,
+"ist": 450000
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

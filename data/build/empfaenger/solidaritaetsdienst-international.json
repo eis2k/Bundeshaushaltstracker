@@ -1,0 +1,119 @@
+{
+"id": "solidaritaetsdienst-international",
+"name": "Solidaritätsdienst International (SODI) e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.SODI.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002850",
+"eintrag_id": 81276,
+"version": 9,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002850/81276",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/a8/df/788643/Lobbyregister-Registereintraege-Detailansicht-R002850-2026-06-30_10-47-33.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+"epl": "23",
+"von": 2320001,
+"bis": 2330000,
+"zweck": "Durchführung von Projekten der Entwicklungszusammenarbeit in Ländern Afrikas, Asiens sowie Südosteuropa",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 2320001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Rolf Sukowski",
+"funktion": "Vorsitzender des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002850/81276",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Sylvia Werther",
+"funktion": "Stellv. Vorsitzende des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002850/81276",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Uwe Jaenicke",
+"funktion": "Stellv. Vorsitzender des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002850/81276",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Carola Gast",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002850/81276",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 1690001,
+"bis": 1700000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ad/b0/788640/SODI_KV-2025_unterzeichnet.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002850/81276",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

@@ -1,0 +1,453 @@
+{
+"id": "schutzgemeinschaft-deutscher-wald-bund-zur-foerderung-der-la",
+"name": "Schutzgemeinschaft Deutscher Wald - Bund zur Förderung der Landespflege und des Naturschutzes - Bundesverband e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bonn",
+"website": "www.sdw.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003103",
+"eintrag_id": 72140,
+"version": 21,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003103/72140",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/fb/99/792969/Lobbyregister-Registereintraege-Detailansicht-R003103-2026-06-30_15-41-40.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Landwirtschaft, Ernährung und Heimat",
+"epl": "10",
+"von": 850001,
+"bis": 860000,
+"zweck": "Institutionelle Förderung Die Förderung des Bundesministeriums für Landwirtschaft, Ernährung und Heimat bildet das finanzielle Fundament der SDW und ermöglicht so die Öffentlichkeitsarbeit sowie die Bildungsarbeit für den Wald bundesweit.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "FNR e. V.",
+"epl": null,
+"von": 380001,
+"bis": 390000,
+"zweck": "Über das Förderprogramm Nachwachsende Rohstoffe konnten die mehrjährigen Projekte Kollektiv Wald, Springschool (Jugenddialog Wald) und PopUp-Werkstatt Wald gestartet bzw. fortgeführt werden.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Natuschutz",
+"epl": null,
+"von": 30001,
+"bis": 40000,
+"zweck": "Dank der Förderung konnte Mitte des Jahres das Projekt \"Deine Schule. Euer Wald\" starten.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Landwirtschaftliche Rentenbank",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Dank der Unterstützung konnte in 2025 die Konferenz \"Wald vernetzt - Konferenz für waldbezogene Jugendarbeit\" durchgeführt werden.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1270004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Kerstin Radomski",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003103/72140",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Henrik Lindner",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003103/72140",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Ursula Heinen-Esser",
+"funktion": "Präsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003103/72140",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Christoph Rullmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003103/72140",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Ulrike Schuth",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003103/72140",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Edward Olson",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003103/72140",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Noemi Loi",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003103/72140",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Annika Lapp",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003103/72140",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Christiane Lange",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003103/72140",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Isabel Mackensen-Geis",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003103/72140",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Nikolai Kalinke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003103/72140",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Rüdiger Kruse",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-09"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003103/72140",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Alexandra Bieneck",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003103/72140",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Tim Niereisel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003103/72140",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Niklas Wagener",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003103/72140",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Matthias  Wierlacher",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003103/72140",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Alexander Zeihe",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003103/72140",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Manfred Schölch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003103/72140",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Georg Leefken",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003103/72140",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Lena Arens",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003103/72140",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Stefanie Steinebach",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003103/72140",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Kerstin Radomski",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag",
+"funktion_beim_empfaenger": "Vizepräsidentin",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Kerstin Radomski ist laut Lobbyregister Vizepräsidentin bei Schutzgemeinschaft Deutscher Wald - Bund zur Förderung der Landespflege und des Naturschutzes - Bundesverband e.V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag. Schutzgemeinschaft Deutscher Wald - Bund zur Förderung der Landespflege und des Naturschutzes - Bundesverband e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Landwirtschaft, Ernährung und Heimat; FNR e. V.; Bundesamt für Natuschutz; Landwirtschaftliche Rentenbank.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Landwirtschaft, Ernährung und Heimat",
+"FNR e. V.",
+"Bundesamt für Natuschutz",
+"Landwirtschaftliche Rentenbank"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003103/72140",
+"stand": "2026-06-30"
+}
+],
+"stand": "2026-06-30"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Isabel Mackensen-Geis",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Isabel Mackensen-Geis ist laut Lobbyregister Interessenvertretung bei Schutzgemeinschaft Deutscher Wald - Bund zur Förderung der Landespflege und des Naturschutzes - Bundesverband e.V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag. Schutzgemeinschaft Deutscher Wald - Bund zur Förderung der Landespflege und des Naturschutzes - Bundesverband e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Landwirtschaft, Ernährung und Heimat; FNR e. V.; Bundesamt für Natuschutz; Landwirtschaftliche Rentenbank.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Landwirtschaft, Ernährung und Heimat",
+"FNR e. V.",
+"Bundesamt für Natuschutz",
+"Landwirtschaftliche Rentenbank"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003103/72140",
+"stand": "2026-06-30"
+}
+],
+"stand": "2026-06-30"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Rüdiger Kruse",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag, bis 2021-09",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Rüdiger Kruse ist laut Lobbyregister Interessenvertretung bei Schutzgemeinschaft Deutscher Wald - Bund zur Förderung der Landespflege und des Naturschutzes - Bundesverband e.V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag, bis 2021-09. Schutzgemeinschaft Deutscher Wald - Bund zur Förderung der Landespflege und des Naturschutzes - Bundesverband e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Landwirtschaft, Ernährung und Heimat; FNR e. V.; Bundesamt für Natuschutz; Landwirtschaftliche Rentenbank.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Landwirtschaft, Ernährung und Heimat",
+"FNR e. V.",
+"Bundesamt für Natuschutz",
+"Landwirtschaftliche Rentenbank"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003103/72140",
+"stand": "2026-06-30"
+}
+],
+"stand": "2026-06-30"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Niklas Wagener",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Niklas Wagener ist laut Lobbyregister Interessenvertretung bei Schutzgemeinschaft Deutscher Wald - Bund zur Förderung der Landespflege und des Naturschutzes - Bundesverband e.V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag. Schutzgemeinschaft Deutscher Wald - Bund zur Förderung der Landespflege und des Naturschutzes - Bundesverband e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Landwirtschaft, Ernährung und Heimat; FNR e. V.; Bundesamt für Natuschutz; Landwirtschaftliche Rentenbank.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Landwirtschaft, Ernährung und Heimat",
+"FNR e. V.",
+"Bundesamt für Natuschutz",
+"Landwirtschaftliche Rentenbank"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003103/72140",
+"stand": "2026-06-30"
+}
+],
+"stand": "2026-06-30"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 480001,
+"bis": 490000
+},
+"mitgliedsbeitraege": {
+"von": 20001,
+"bis": 30000
+},
+"lobbyausgaben": {
+"von": 70001,
+"bis": 80000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/3a/46/792966/Sachbericht-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003103/72140",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 21
+}
+]
+}

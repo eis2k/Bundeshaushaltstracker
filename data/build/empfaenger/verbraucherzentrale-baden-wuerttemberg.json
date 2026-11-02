@@ -1,0 +1,179 @@
+{
+"id": "verbraucherzentrale-baden-wuerttemberg",
+"name": "Verbraucherzentrale Baden-Württemberg e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Stuttgart",
+"website": "https://www.verbraucherzentrale-bawue.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005787",
+"eintrag_id": 83871,
+"version": 7,
+"stand": "2026-07-28",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005787/83871",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/a8/d9/821645/Lobbyregister-Registereintraege-Detailansicht-R005787-2026-07-28_17-52-04.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium Wirtschaft und Energie",
+"epl": null,
+"von": 790001,
+"bis": 800000,
+"zweck": "Projekt Energieeinsparberatung (Weiterleitungsvertrag)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Ernährung und Landwirtschaft",
+"epl": "10",
+"von": 430001,
+"bis": 440000,
+"zweck": "Projekt Information der Verbraucherinnen und Verbraucher auf dem Gebiet der Ernährung; Projekt Gesund und nachhaltig essen mi kleinem Budget",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium der Justiz und für Verbraucherschutz",
+"epl": "07",
+"von": 270001,
+"bis": 280000,
+"zweck": "Projekt Informationen für Verbraucherinnen und Verbraucher in den Themen des wirtschaftlichen Verbraucherschutzes",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1490003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Cornelia Tausch",
+"funktion": "Geschäftsführende Vorständin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005787/83871",
+"stand": "2026-07-28"
+}
+},
+{
+"name": "Gabriele Bernhardt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005787/83871",
+"stand": "2026-07-28"
+}
+},
+{
+"name": "Eckhardt Benner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005787/83871",
+"stand": "2026-07-28"
+}
+},
+{
+"name": "Niels Nauhauser",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005787/83871",
+"stand": "2026-07-28"
+}
+},
+{
+"name": "Oliver Buttler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005787/83871",
+"stand": "2026-07-28"
+}
+},
+{
+"name": "Matthias Bauer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005787/83871",
+"stand": "2026-07-28"
+}
+},
+{
+"name": "Peter Grieble",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005787/83871",
+"stand": "2026-07-28"
+}
+},
+{
+"name": "Heike Silber",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005787/83871",
+"stand": "2026-07-28"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 50001,
+"bis": 60000
+},
+"lobbyausgaben": {
+"von": 40001,
+"bis": 50000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/25/5e/821642/2025-VZBW-Geschaeftsbericht.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005787/83871",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-28",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

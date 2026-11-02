@@ -1,0 +1,170 @@
+{
+"id": "meyer-werft",
+"name": "MEYER WERFT ",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Papenburg",
+"website": "www.meyerwerft.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004104",
+"eintrag_id": 83762,
+"version": 15,
+"stand": "2026-07-27",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004104/83762",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f7/32/820407/Lobbyregister-Registereintraege-Detailansicht-R004104-2026-07-27_13-43-18.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BAFA / BMWK und Land Niedersachsen",
+"epl": "09",
+"von": 15520001,
+"bis": 15530000,
+"zweck": "Innovationsförderung und Forschungsförderung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 11010001,
+"bis": 11020000,
+"zweck": "Forschungs- und Innovationsförderung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 26530002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "André Walter",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004104/83762",
+"stand": "2026-07-27"
+}
+},
+{
+"name": "Ralf Schmitz",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004104/83762",
+"stand": "2026-07-27"
+}
+},
+{
+"name": "Jörg Heidelberg",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004104/83762",
+"stand": "2026-07-27"
+}
+},
+{
+"name": "Thomas Hebbelmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004104/83762",
+"stand": "2026-07-27"
+}
+},
+{
+"name": "Oscar Ortega Ermisch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004104/83762",
+"stand": "2026-07-27"
+}
+},
+{
+"name": "Thomas Weigend",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004104/83762",
+"stand": "2026-07-27"
+}
+},
+{
+"name": "Nadja Schlopko",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004104/83762",
+"stand": "2026-07-27"
+}
+},
+{
+"name": "Arthur-Hans Thellmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004104/83762",
+"stand": "2026-07-27"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 110001,
+"bis": 120000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ef/be/820406/JA-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004104/83762",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-27",
+"etikett": "Eigenangabe",
+"version": 15
+}
+]
+}

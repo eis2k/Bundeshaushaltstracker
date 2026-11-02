@@ -1,0 +1,145 @@
+{
+"id": "arbeitsgemeinschaft-der-dt-familienorganisationen",
+"name": "Arbeitsgemeinschaft der dt. Familienorganisationen",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://ag-famiie.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006392",
+"eintrag_id": 86129,
+"version": 4,
+"stand": "2026-09-21",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006392/86129",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/e3/4a/845091/Lobbyregister-Registereintraege-Detailansicht-R006392-2026-09-21_19-36-41.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMBFSFJ",
+"epl": "17",
+"von": 370001,
+"bis": 380000,
+"zweck": "Zuwendungen für Personal- und Sachkosten sowie für Projekte, Maßnahmen und Internationalen Erfahrungsaustausch",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 370001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Martin Bujard",
+"funktion": "1. Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006392/86129",
+"stand": "2026-09-21"
+}
+},
+{
+"name": "Sven Iversen",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006392/86129",
+"stand": "2026-09-21"
+}
+},
+{
+"name": "Petra Nicolaisen",
+"funktion": "2. Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006392/86129",
+"stand": "2026-09-21"
+}
+},
+{
+"name": "Holger Adolph",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006392/86129",
+"stand": "2026-09-21"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Petra Nicolaisen",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03",
+"funktion_beim_empfaenger": "2. Vorsitzende",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Petra Nicolaisen ist laut Lobbyregister 2. Vorsitzende bei Arbeitsgemeinschaft der dt. Familienorganisationen und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03. Arbeitsgemeinschaft der dt. Familienorganisationen erhielt laut Lobbyregister Mittel von: BMBFSFJ.",
+"ausschuesse": [],
+"geld_aus": [
+"BMBFSFJ"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006392/86129",
+"stand": "2026-09-21"
+}
+],
+"stand": "2026-09-21"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 40001,
+"bis": 50000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/5a/d1/845086/GuV_AGF_25.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006392/86129",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-21",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

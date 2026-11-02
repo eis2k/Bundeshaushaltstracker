@@ -1,0 +1,111 @@
+{
+"id": "bundeselternrat",
+"name": "Bundeselternrat",
+"art": "verein_stiftung",
+"rechtsform": "Nicht rechtsfähiger Verein",
+"sitz": "Berlin",
+"website": "https://www.bundeselternrat.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007198",
+"eintrag_id": 78994,
+"version": 6,
+"stand": "2026-06-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007198/78994",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/8a/73/781044/Lobbyregister-Registereintraege-Detailansicht-R007198-2026-06-29_08-28-25.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 190001,
+"bis": 200000,
+"zweck": "Projektgelder für fünf Projekte im Jahr",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 190001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Norman Heise",
+"funktion": "Vorsitzender ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007198/78994",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Aline Sommer-Noack",
+"funktion": "stellvertretende Vorsitzende ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007198/78994",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Annett Hertel",
+"funktion": "stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007198/78994",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Eileen Schulz",
+"funktion": "stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007198/78994",
+"stand": "2026-06-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 10001,
+"bis": 20000
+},
+"lobbyausgaben": {
+"von": 240001,
+"bis": 250000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": null
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007198/78994",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-29",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

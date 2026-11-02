@@ -1,0 +1,183 @@
+{
+"id": "statefree",
+"name": "Statefree e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "München",
+"website": "www.statefree.world",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005540",
+"eintrag_id": 72045,
+"version": 7,
+"stand": "2026-04-07",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005540/72045",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c1/a8/720069/Lobbyregister-Registereintraege-Detailansicht-R005540-2026-04-07_08-59-39.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Deutsche Stiftung für Engagement und Ehrenamt",
+"epl": null,
+"von": 60001,
+"bis": 70000,
+"zweck": "Deckung von Personalkosten sowie Honorarausgaben zur Erfüllung des Vereinszweck",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Asyl-, Migrations- und Integrationsfonds (AMIF) , Bundesministerium für Migration und Flüchtlinge",
+"epl": null,
+"von": 290001,
+"bis": 300000,
+"zweck": "Entwicklung eines digitalen Programms zur Anwendung eines Verfahrens zur Feststellung von Staatenlosigkeit",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 350002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christiana Bukalo",
+"funktion": "1. Vorsitzende des Vorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005540/72045",
+"stand": "2026-04-07"
+}
+},
+{
+"name": "Hannah Reuter",
+"funktion": "2. Vorsitzende des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005540/72045",
+"stand": "2026-04-07"
+}
+},
+{
+"name": "Charlotte  Arnold",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005540/72045",
+"stand": "2026-04-07"
+}
+},
+{
+"name": "Margarida Muralha Schweikert Farinha",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005540/72045",
+"stand": "2026-04-07"
+}
+},
+{
+"name": "Denis Neselovskyi",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005540/72045",
+"stand": "2026-04-07"
+}
+},
+{
+"name": "Gunter Miegel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005540/72045",
+"stand": "2026-04-07"
+}
+},
+{
+"name": "Dave Schmidtke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005540/72045",
+"stand": "2026-04-07"
+}
+},
+{
+"name": "Miriam Kugland",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005540/72045",
+"stand": "2026-04-07"
+}
+},
+{
+"name": "Aleksandra Semeriak",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005540/72045",
+"stand": "2026-04-07"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 110001,
+"bis": 120000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 180001,
+"bis": 190000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/57/61/720066/EUR-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005540/72045",
+"abgerufen": "2026-11-02",
+"stand": "2026-04-07",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

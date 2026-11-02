@@ -1,0 +1,116 @@
+{
+"id": "whs-foundation",
+"name": "WHS Foundation GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "www.worldhealthsummit.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005114",
+"eintrag_id": 76653,
+"version": 9,
+"stand": "2026-05-12",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005114/76653",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/27/36/735588/Lobbyregister-Registereintraege-Detailansicht-R005114-2026-05-12_16-23-30.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Gesundheit (BMG)",
+"epl": "15",
+"von": 990001,
+"bis": 1000000,
+"zweck": "Zuwendung zur Durchführung des World Health Summit 2025.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 990001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Carsten Schicker",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005114/76653",
+"stand": "2026-05-12"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "abgeordneter_funktion",
+"person": "Dr. Kirsten Kappert-Gonther",
+"funktion_person": "MdB, Bündnis 90 Die Grünen",
+"funktion_beim_empfaenger": "Mitglied des World Health Summit Council, ehrenamtlich (ab 24.02.2026)",
+"kategorie": "Funktionen in Unternehmen",
+"abgleich": "exakt",
+"satz": "Dr. Kirsten Kappert-Gonther (MdB, Bündnis 90 Die Grünen) ist laut bundestag.de Mitglied des World Health Summit Council, ehrenamtlich (ab 24.02.2026) bei WHS Foundation GmbH. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Gesundheit. WHS Foundation GmbH erhielt laut Lobbyregister Mittel von: Bundesministerium für Gesundheit (BMG).",
+"ausschuesse": [
+"Ausschuss für Gesundheit"
+],
+"geld_aus": [
+"Bundesministerium für Gesundheit (BMG)"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/K/kappert_gonther_kirsten-1045310",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 200001,
+"bis": 210000
+},
+"lobbyausgaben": {
+"von": 100001,
+"bis": 110000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/d5/2c/735587/Jahresabschluss-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005114/76653",
+"abgerufen": "2026-11-02",
+"stand": "2026-05-12",
+"etikett": "Eigenangabe",
+"version": 9
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/K/kappert_gonther_kirsten-1045310",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

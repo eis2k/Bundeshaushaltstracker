@@ -1,0 +1,213 @@
+{
+"id": "pro-musik-verband-freier-musikschaffender",
+"name": "Pro Musik - Verband freier Musikschaffender e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Köln",
+"website": "www.promusikverband.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004702",
+"eintrag_id": 78371,
+"version": 12,
+"stand": "2026-06-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004702/78371",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/05/6d/781269/Lobbyregister-Registereintraege-Detailansicht-R004702-2026-06-29_09-15-23.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Initiative Musik gGmbH",
+"epl": null,
+"von": 100001,
+"bis": 110000,
+"zweck": "Strukturförderung - Bundesweite Projekte Umsetzung von fünf Modulen Modul I: Erstberatung + Bedarfsanalyse für Musikschaffende (Schwerpunkt Wissensmanagement) Modul II: Ausbau Juristische Expertise + Steuerberatung (mit spezialisierten Partner*innen) Modul III: Reichweite + Netzwerke ausbauen durch gezielte Kooperationen bei regionalen Events (PRO MUSIK_connect) Modul IV: Ausbau von Kooperationen mit Musikhochschulen (6 gezielte Kooperationen mit Popakademien, Studierendenschaften und Career Center) Modul V: Recherchearbeit zur Entwicklung eines Leitfadens zur Elternschaft nach dem Vorbild des Starterkit Selbständigkeit",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 100001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ella Rohwer",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004702/78371",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Christopher Annen",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004702/78371",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Nina Graf",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004702/78371",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Wolf Simon",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004702/78371",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "David Trautmann",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004702/78371",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Alice Francis",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004702/78371",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Saskia Worf",
+"funktion": "Schriftführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004702/78371",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Demian Kappenstein",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004702/78371",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Keshav Sathya Walter  Purushotham",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004702/78371",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Mario Graute",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2023-12"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004702/78371",
+"stand": "2026-06-29"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Mario Graute",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-12",
+"funktion_beim_empfaenger": "Geschäftsführer",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Mario Graute ist laut Lobbyregister Geschäftsführer bei Pro Musik - Verband freier Musikschaffender e.V. und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-12. Pro Musik - Verband freier Musikschaffender e.V. erhielt laut Lobbyregister Mittel von: Initiative Musik gGmbH.",
+"ausschuesse": [],
+"geld_aus": [
+"Initiative Musik gGmbH"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004702/78371",
+"stand": "2026-06-29"
+}
+],
+"stand": "2026-06-29"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 70001,
+"bis": 80000
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/35/bf/781261/PM_Finanzen_zusammengefasst_korrigiert_-_detailliert_zur_MG-Versammlung_150426_2-0.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004702/78371",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-29",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

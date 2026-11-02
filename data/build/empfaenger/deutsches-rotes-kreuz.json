@@ -1,0 +1,608 @@
+{
+"id": "deutsches-rotes-kreuz",
+"name": "Deutsches Rotes Kreuz e.V.",
+"art": "kirche_wohlfahrt",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.drk.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001476",
+"eintrag_id": 87035,
+"version": 38,
+"stand": "2026-10-05",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001476/87035",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/07/46/856720/Lobbyregister-Registereintraege-Detailansicht-R001476-2026-10-05_11-51-48.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe",
+"epl": "06",
+"von": 5080001,
+"bis": 5090000,
+"zweck": "Bevölkerungsschutz: Erste Hilfe mit Selbstschutzinhalten, Erste Hilfe Multiplikatorenschulungen, Flüchtlingshilfe, \"Labor 5.000\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 80001,
+"bis": 90000,
+"zweck": "Forschungs- und Innovationsprojekte Bevölkerungsschutz",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium des Innern",
+"epl": "06",
+"von": 11930001,
+"bis": 11940000,
+"zweck": "Der Bund trägt aufgrund der Suchdienstvereinbarung mit dem Deutschen Roten Kreuz (DRK) die Kosten für den DRK-Suchdienst und das Amtliche Auskunftsbüro. Es handelt sich um eine institutionelle Förderung sowie Zuschüsse an Einrichtungen gemäß § 26 Abs. 3 BHO. Die Zuwendung durch das Bundesministerium des Innern ist im Bundeshaushaltsplan 2025 enthalten.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"epl": "17",
+"von": 24290001,
+"bis": 24300000,
+"zweck": "Zivilgesellschaftliche Aufgaben, Jugend und Wohlfahrtspflege, Digitalisierung, Freiwilliges Soziales Jahr, \"Demokratie leben\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Migration und Flüchtlinge",
+"epl": "06",
+"von": 9680001,
+"bis": 9690000,
+"zweck": "Unterstützung und Beratung von Menschen mit Flucht- und Migrationshintergrund",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesverwaltungsamt",
+"epl": "06",
+"von": 760001,
+"bis": 770000,
+"zweck": "Kinder- und Jugendhilfe, Familienbildung, Digitalisierungsprojekte",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 29870001,
+"bis": 29880000,
+"zweck": "Globalprojekt I & II",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 8760001,
+"bis": 8770000,
+"zweck": "Strukturbildende Übergangshilfe und Sozialstrukturförderung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Rentenversicherung Knappschaft-Bahn-See",
+"epl": null,
+"von": 250001,
+"bis": 260000,
+"zweck": "ESF-Rückenwind",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit",
+"epl": "16",
+"von": 100001,
+"bis": 110000,
+"zweck": "Klimaanpassung Pflege",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 270001,
+"bis": 280000,
+"zweck": "Medium Grants Förderung aus der Internationalen Klimaschutzinitiative (IKI) mit einer Laufzeit von 01.09.2022-30.04.2026 in Höhe von 800.000 EUR (Zuwendung)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Rentenversicherung",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "DHS Stiftung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 91090012,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christian Reuter",
+"funktion": "Generalsekretär",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001476/87035",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Christof Johnen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001476/87035",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Marc-André Souvignier",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001476/87035",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Kerstin Funck",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001476/87035",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Clara-Sophie Cantagrel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001476/87035",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Heike Spieker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001476/87035",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Annabelle Behnke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001476/87035",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Clemens Pott",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001476/87035",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Martin von Langenthal",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001476/87035",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Philipp Wiesener",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001476/87035",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Sabrina Bagus",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001476/87035",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Nadja Saborowski",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001476/87035",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Benjamin Fehrecke-Harpke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001476/87035",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Karolina Molter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001476/87035",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Sabine Urban",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001476/87035",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Christian Hener",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001476/87035",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Verena Werthmüller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001476/87035",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Katja Plume",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001476/87035",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Amelie Gudorf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001476/87035",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Hermann  Gröhe",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001476/87035",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Marc Nellen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Abteilungsleiter",
+"stelle": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2025-06"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001476/87035",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Tobias Pietsch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001476/87035",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Julia Meixner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001476/87035",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Stefanie  Orankan",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001476/87035",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Alexander  Gnädinger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001476/87035",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Hannah  Sausen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001476/87035",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Catrin  Braun",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001476/87035",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Jeanette  Höpping",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001476/87035",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Laurin Ahnert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001476/87035",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Elisabeth  Köhne",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001476/87035",
+"stand": "2026-10-05"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Amelie Gudorf",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Amelie Gudorf ist laut Lobbyregister Interessenvertretung bei Deutsches Rotes Kreuz e.V. und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03. Deutsches Rotes Kreuz e.V. erhielt laut Lobbyregister Mittel von: Auswärtiges Amt; Bundesamt für Familie und zivilgesellschaftliche Aufgaben; Bundesministerium des Innern; Bundesamt für Migration und Flüchtlinge; Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung; Bundesamt für Bevölkerungsschutz und Katastrophenhilfe; Bundesverwaltungsamt; Bundesministerium für Wirtschaft und Klimaschutz; Deutsche Rentenversicherung Knappschaft-Bahn-See; Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit; Bundesministerium für Bildung und Forschung; Deutsche Rentenversicherung.",
+"ausschuesse": [],
+"geld_aus": [
+"Auswärtiges Amt",
+"Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"Bundesministerium des Innern",
+"Bundesamt für Migration und Flüchtlinge",
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"Bundesamt für Bevölkerungsschutz und Katastrophenhilfe",
+"Bundesverwaltungsamt",
+"Bundesministerium für Wirtschaft und Klimaschutz",
+"Deutsche Rentenversicherung Knappschaft-Bahn-See",
+"Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit",
+"Bundesministerium für Bildung und Forschung",
+"Deutsche Rentenversicherung"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001476/87035",
+"stand": "2026-10-05"
+}
+],
+"stand": "2026-10-05"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Hermann  Gröhe",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Hermann  Gröhe ist laut Lobbyregister Interessenvertretung bei Deutsches Rotes Kreuz e.V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03. Deutsches Rotes Kreuz e.V. erhielt laut Lobbyregister Mittel von: Auswärtiges Amt; Bundesamt für Familie und zivilgesellschaftliche Aufgaben; Bundesministerium des Innern; Bundesamt für Migration und Flüchtlinge; Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung; Bundesamt für Bevölkerungsschutz und Katastrophenhilfe; Bundesverwaltungsamt; Bundesministerium für Wirtschaft und Klimaschutz; Deutsche Rentenversicherung Knappschaft-Bahn-See; Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit; Bundesministerium für Bildung und Forschung; Deutsche Rentenversicherung.",
+"ausschuesse": [],
+"geld_aus": [
+"Auswärtiges Amt",
+"Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"Bundesministerium des Innern",
+"Bundesamt für Migration und Flüchtlinge",
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"Bundesamt für Bevölkerungsschutz und Katastrophenhilfe",
+"Bundesverwaltungsamt",
+"Bundesministerium für Wirtschaft und Klimaschutz",
+"Deutsche Rentenversicherung Knappschaft-Bahn-See",
+"Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit",
+"Bundesministerium für Bildung und Forschung",
+"Deutsche Rentenversicherung"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001476/87035",
+"stand": "2026-10-05"
+}
+],
+"stand": "2026-10-05"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Marc Nellen",
+"funktion_person": "Abteilungsleiter, Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ) oder dessen Geschäftsbereich, bis 2025-06",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Marc Nellen ist laut Lobbyregister Interessenvertretung bei Deutsches Rotes Kreuz e.V. und hatte zuvor eine öffentliche Funktion: Abteilungsleiter, Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ) oder dessen Geschäftsbereich, bis 2025-06. Deutsches Rotes Kreuz e.V. erhielt laut Lobbyregister Mittel von: Auswärtiges Amt; Bundesamt für Familie und zivilgesellschaftliche Aufgaben; Bundesministerium des Innern; Bundesamt für Migration und Flüchtlinge; Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung; Bundesamt für Bevölkerungsschutz und Katastrophenhilfe; Bundesverwaltungsamt; Bundesministerium für Wirtschaft und Klimaschutz; Deutsche Rentenversicherung Knappschaft-Bahn-See; Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit; Bundesministerium für Bildung und Forschung; Deutsche Rentenversicherung.",
+"ausschuesse": [],
+"geld_aus": [
+"Auswärtiges Amt",
+"Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"Bundesministerium des Innern",
+"Bundesamt für Migration und Flüchtlinge",
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"Bundesamt für Bevölkerungsschutz und Katastrophenhilfe",
+"Bundesverwaltungsamt",
+"Bundesministerium für Wirtschaft und Klimaschutz",
+"Deutsche Rentenversicherung Knappschaft-Bahn-See",
+"Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit",
+"Bundesministerium für Bildung und Forschung",
+"Deutsche Rentenversicherung"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001476/87035",
+"stand": "2026-10-05"
+}
+],
+"stand": "2026-10-05"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 46670001,
+"bis": 46680000
+},
+"mitgliedsbeitraege": {
+"von": 4030001,
+"bis": 4040000
+},
+"lobbyausgaben": {
+"von": 1200001,
+"bis": 1210000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/b2/d2/856719/Deutsches-Rotes-Kreuz-e-V-_2025_EB-signiert.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001476/87035",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-05",
+"etikett": "Eigenangabe",
+"version": 38
+}
+]
+}

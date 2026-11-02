@@ -1,0 +1,113 @@
+{
+"id": "stiftung-schueler-helfen-leben",
+"name": "Stiftung Schüler Helfen Leben",
+"art": "verein_stiftung",
+"rechtsform": "Rechtsfähige Stiftung bürgerlichen Rechts",
+"sitz": "Berlin",
+"website": "https://www.schueler-helfen-leben.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004817",
+"eintrag_id": 70272,
+"version": 4,
+"stand": "2026-01-05",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004817/70272",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/98/71/677442/Lobbyregister-Registereintraege-Detailansicht-R004817-2026-01-05_14-25-09.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"epl": "17",
+"von": 40001,
+"bis": 50000,
+"zweck": "Zuschuss für Bundesfreiwilligendienst",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "ENGAGEMENT GLOBAL gGmbH",
+"epl": "23",
+"von": 20001,
+"bis": 30000,
+"zweck": "Zuschuss für Freiwilligendienst im Ausland",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "Deutsche Stiftung für Engagement und Ehrenamt",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "Projektförderung",
+"geschaeftsjahr": "2023"
+}
+],
+"lobby_untergrenze_bund": 80003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Patrick Hoemke",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004817/70272",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Christian Samuel Kirschenmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004817/70272",
+"stand": "2026-01-05"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 2000001,
+"bis": 2010000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2023",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/8b/16/677439/Jahresabschluss-SHL-2023.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004817/70272",
+"abgerufen": "2026-11-02",
+"stand": "2026-01-05",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

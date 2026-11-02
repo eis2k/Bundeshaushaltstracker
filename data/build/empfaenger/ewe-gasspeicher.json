@@ -1,0 +1,173 @@
+{
+"id": "ewe-gasspeicher",
+"name": "EWE GASSPEICHER GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Oldenburg",
+"website": "www.ewe-gasspeicher.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002040",
+"eintrag_id": 72278,
+"version": 13,
+"stand": "2026-06-25",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002040/72278",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/39/89/777537/Lobbyregister-Registereintraege-Detailansicht-R002040-2026-06-25_17-17-29.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMWE - Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 3530001,
+"bis": 3540000,
+"zweck": "Bundesförderung der IPCEI-Wasserstoffprojekte. Hier: Projekt Clean Hydrogen Coastline (CHC)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 3530001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Peter Schmidt",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002040/72278",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Geert Tjarks",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002040/72278",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Tobias Moldenhauer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002040/72278",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Paul Schneider",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002040/72278",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Alexander Malchus",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002040/72278",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Eva Stede",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002040/72278",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Jonas Höckner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002040/72278",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Andre Janssen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002040/72278",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Johanna Friese",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002040/72278",
+"stand": "2026-06-25"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 150001,
+"bis": 160000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/5d/68/777524/Bericht_EWE_GASSPEICHER_2025_AT-Testat.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002040/72278",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-25",
+"etikett": "Eigenangabe",
+"version": 13
+}
+]
+}

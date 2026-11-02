@@ -1,0 +1,173 @@
+{
+"id": "cvjm-gesamtverband-in-deutschland",
+"name": "CVJM - Gesamtverband in Deutschland e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Kassel",
+"website": "www.cvjm.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001421",
+"eintrag_id": 84192,
+"version": 20,
+"stand": "2026-08-04",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001421/84192",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/b7/f7/825472/Lobbyregister-Registereintraege-Detailansicht-R001421-2026-08-04_09-10-35.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend / BAFzA",
+"epl": "17",
+"von": 1150001,
+"bis": 1160000,
+"zweck": "Mittel aus dem Kinder- und Jugendplan des Bundes für Maßnahmen, Personal, Infrastruktur; Zuschüsse, Förderung nationale und internationale Freiwilligendienste (FSJ, IJFD, IJAB und BFD); Politische Bildung;",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 250001,
+"bis": 260000,
+"zweck": "Zuschüsse, Förderung Internationaler Freiwilligendienst (Weltwärts); Förderung Engagement Global, Entwicklungshilfeprojekt CVJM-Hoffnungszeichen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1400002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Steffen Waldminghaus",
+"funktion": "Präses",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001421/84192",
+"stand": "2026-08-04"
+}
+},
+{
+"name": "Dorothee Pfrommer",
+"funktion": "stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001421/84192",
+"stand": "2026-08-04"
+}
+},
+{
+"name": "Sascha Alpers",
+"funktion": "stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001421/84192",
+"stand": "2026-08-04"
+}
+},
+{
+"name": "Ulrich Hanfstein",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001421/84192",
+"stand": "2026-08-04"
+}
+},
+{
+"name": "Carsten Korinth",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001421/84192",
+"stand": "2026-08-04"
+}
+},
+{
+"name": "Hansjörg Kopp",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001421/84192",
+"stand": "2026-08-04"
+}
+},
+{
+"name": "Gerhard Wiebe",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001421/84192",
+"stand": "2026-08-04"
+}
+},
+{
+"name": "Lina Kathrin Haase",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001421/84192",
+"stand": "2026-08-04"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Sonstiges",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 1760001,
+"bis": 1770000
+},
+"mitgliedsbeitraege": {
+"von": 300001,
+"bis": 310000
+},
+"lobbyausgaben": {
+"von": 30001,
+"bis": 40000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/39/93/825471/Jahresabschluss-2025_CVJM-Gesamtverband-in-Deutschland_e-V.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001421/84192",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-04",
+"etikett": "Eigenangabe",
+"version": 20
+}
+]
+}

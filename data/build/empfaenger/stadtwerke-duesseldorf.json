@@ -1,0 +1,123 @@
+{
+"id": "stadtwerke-duesseldorf",
+"name": "Stadtwerke Düsseldorf AG",
+"art": "sonstige",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Düsseldorf",
+"website": "www.swd-ag.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005537",
+"eintrag_id": 86466,
+"version": 12,
+"stand": "2026-09-28",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005537/86466",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/01/3e/848434/Lobbyregister-Registereintraege-Detailansicht-R005537-2026-09-28_07-55-37.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 10001,
+"bis": 20000,
+"zweck": "iMolch; Förderung von Forschungs- und Entwicklungsaktivitäten zur Identifizierung von Qualitätsparametern für Grundwasser als nicht rückzahlbarer Zuschuss auf Basis der Richtlinie zur Förderung von Forschungs- und Entwicklungsvorhaben zum Thema „Nachhaltige Grundwasserbewirtschaftung“ (LURCH).",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"epl": "12",
+"von": 1100001,
+"bis": 1110000,
+"zweck": "SWDhydrogenium; Förderung der Errichtung einer Elektrolyseanlage als nicht rückzahlbarer Zuschuss auf Basis der Förderrichtlinie für Maßnahmen der Forschung, Entwicklung und Innovation im Rahmen des Nationalen Innovationsprogramms Wasserstoff- und Brennstoffzellentechnologie Phase II.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "Bundesförderung für effiziente Gebäude – Einzelmaßnahmen (BEG EM); Förderung der Errichtung von Anlagen zur Wärmeerzeugung als nicht rückzahlbarer Zuschuss auf Basis der Richtlinie für die Bundesförderung für effiziente Gebäude – Einzelmaßnahmen (BEG EM).",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1140003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Julien Mounier",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005537/86466",
+"stand": "2026-09-28"
+}
+},
+{
+"name": "Jan Huth",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005537/86466",
+"stand": "2026-09-28"
+}
+},
+{
+"name": "Susanne Stark",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005537/86466",
+"stand": "2026-09-28"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 220001,
+"bis": 230000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e3/de/848433/Geschaeftsbericht-2025_Stadtwerke-Duesseldorf.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005537/86466",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-28",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

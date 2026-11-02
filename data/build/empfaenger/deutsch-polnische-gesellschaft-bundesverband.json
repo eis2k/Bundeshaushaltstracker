@@ -1,0 +1,124 @@
+{
+"id": "deutsch-polnische-gesellschaft-bundesverband",
+"name": "Deutsch-Polnische Gesellschaft Bundesverband e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://www.dpg-bundesverband.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000329",
+"eintrag_id": 81965,
+"version": 9,
+"stand": "2026-07-06",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000329/81965",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f0/3e/806113/Lobbyregister-Registereintraege-Detailansicht-R000329-2026-07-06_13-26-32.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 490001,
+"bis": 500000,
+"zweck": "Herausgabe des deutsch-polnischen Magazins \"Dialog\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 490001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Simona Koß",
+"funktion": "Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2024-02"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000329/81965",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Jakob Reinhold",
+"funktion": "Stellvertretender Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000329/81965",
+"stand": "2026-07-06"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Simona Koß",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag, bis 2024-02",
+"funktion_beim_empfaenger": "Vorsitzende",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Simona Koß ist laut Lobbyregister Vorsitzende bei Deutsch-Polnische Gesellschaft Bundesverband e.V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag, bis 2024-02. Deutsch-Polnische Gesellschaft Bundesverband e.V. erhielt laut Lobbyregister Mittel von: Auswärtiges Amt.",
+"ausschuesse": [],
+"geld_aus": [
+"Auswärtiges Amt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000329/81965",
+"stand": "2026-07-06"
+}
+],
+"stand": "2026-07-06"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 10001,
+"bis": 20000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/4a/bc/806112/EAUeR_2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000329/81965",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-06",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

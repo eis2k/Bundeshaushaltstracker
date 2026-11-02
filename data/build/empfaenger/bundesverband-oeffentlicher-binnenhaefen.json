@@ -1,0 +1,191 @@
+{
+"id": "bundesverband-oeffentlicher-binnenhaefen",
+"name": "Bundesverband Öffentlicher Binnenhäfen",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.binnenhafen.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000256",
+"eintrag_id": 60015,
+"version": 12,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000256/60015",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f7/6d/790907/Lobbyregister-Registereintraege-Detailansicht-R000256-2026-06-30_13-28-12.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"epl": "12",
+"von": 70001,
+"bis": 80000,
+"zweck": "Im Vorhaben RAIN werden notwendige und geeignete Reaktions- und Vorbereitungsmöglichkeiten im Sinne einer hafenzentrierten Betrachtung herausgearbeitet. Die dabei entstehenden Ergebnisse und Handlungsempfehlungen werden in einem Kompendium zusammengeführt und in einem durch das Vorhaben veranstalteten Symposium, mit einem möglichst prominenten und repräsentativen Kreis von Teilnehmenden, diskutiert. Es werden inhaltlich kohärente Automatisierungsszenarien erstellt, welche Aussagen zu erforderlichen Anpassungen innerhalb der hafenseitigen Handlungsfeldern ermöglichen sollen. Die Ergebnisse der Studie sollen eine bislang fehlende Entscheidungsunterstützung für Hafenwirtschaft, Schifffahrtsgewerbe, Gesetz- und Verordnungsgeber und weitere Stakeholder darstellen. Diese können dadurch unter anderem ihre jeweiligen Anpassungsmaßnahmen, etwa hinsichtlich Investitionen, Aus- und Weiterbildung oder Geschäftsmodellinnovation, ableiten.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 70001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Joachim Zimmermann",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000256/60015",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Jens Hohls",
+"funktion": "Präsidiumsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000256/60015",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Carsten Strähle",
+"funktion": "Präsidiumsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000256/60015",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Bettina Brennenstuhl",
+"funktion": "Präsidiumsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000256/60015",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Uwe Köhn",
+"funktion": "Präsidiumsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000256/60015",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Marcel Lohbeck",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000256/60015",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Magnus Bünning",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-05"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000256/60015",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Theresa Klein",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000256/60015",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Magnus Bünning",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-05",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Magnus Bünning ist laut Lobbyregister Interessenvertretung bei Bundesverband Öffentlicher Binnenhäfen und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-05. Bundesverband Öffentlicher Binnenhäfen erhielt laut Lobbyregister Mittel von: Bundesministerium für Verkehr und digitale Infrastruktur.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Verkehr und digitale Infrastruktur"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000256/60015",
+"stand": "2026-06-30"
+}
+],
+"stand": "2026-06-30"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 500001,
+"bis": 510000
+},
+"lobbyausgaben": {
+"von": 300001,
+"bis": 310000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/d2/e9/790897/Bilanz-und-GuV-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000256/60015",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

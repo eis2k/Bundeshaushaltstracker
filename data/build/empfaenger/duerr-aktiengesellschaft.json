@@ -1,0 +1,119 @@
+{
+"id": "duerr-aktiengesellschaft",
+"name": "Dürr Aktiengesellschaft ",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Bietigheim-Bissingen",
+"website": "https://www.durr-group.com/de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007588",
+"eintrag_id": 82677,
+"version": 2,
+"stand": "2026-07-28",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007588/82677",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/db/af/821400/Lobbyregister-Registereintraege-Detailansicht-R007588-2026-07-28_13-33-58.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Forschungszentrum Jülich GmbH",
+"epl": null,
+"von": 350001,
+"bis": 360000,
+"zweck": "Elektrische Batterieverschaltung - innovativ, flexibel, schnell und günstig; Teilvorhaben: Entwicklung einer flexiblen Batterieverschaltungsanlagehungszentrum",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "VDI Technologiezentrum GmbH für das Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": null,
+"von": 210001,
+"bis": 220000,
+"zweck": "Digitales Ökosystem für KI-basierte Robotik (RoX)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "VDI Technologiezentrum GmbH, Düsseldorf als Projektträger des Bundesministeriums für Wirtschaft und Energie",
+"epl": null,
+"von": 160001,
+"bis": 170000,
+"zweck": "Verbundprojekt: „Software-Defined Manufacturing für die Fahrzeug- und Zulieferindustrie (SDM4FZI)“ – Teilvorhaben: „Digitaler Zwilling für qualitativ höherwertige und schneller adaptierbare Maschinen“",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 60001,
+"bis": 70000,
+"zweck": "Zuwendung Förderung Austausch Beleuchtung, Heizung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 780004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jochen  Weyrauch",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007588/82677",
+"stand": "2026-07-28"
+}
+},
+{
+"name": "Tobias  Mühlbayer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007588/82677",
+"stand": "2026-07-28"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/58/21/821398/2-_074554125_Finales_Testatsexemplar_mit_QES.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007588/82677",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-28",
+"etikett": "Eigenangabe",
+"version": 2
+}
+]
+}

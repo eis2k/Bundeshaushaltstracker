@@ -1,0 +1,154 @@
+{
+"id": "hydrogenious-lohc-technologies",
+"name": "Hydrogenious LOHC Technologies GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Erlangen",
+"website": "www.hydrogenious.net",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002915",
+"eintrag_id": 86600,
+"version": 12,
+"stand": "2026-10-06",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002915/86600",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f4/1b/857248/Lobbyregister-Registereintraege-Detailansicht-R002915-2026-10-06_11-56-00.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 240001,
+"bis": 250000,
+"zweck": "Projektträger: PT-J Zuwendung aus dem Bundeshaushalt, Einzelplan 09, Kapitel 03, Titel 68301, Haushaltsjahr 2019",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 390001,
+"bis": 400000,
+"zweck": "Projektträger: PT-J Zuwendung aus dem Sondervermögen Energie- und Klimafonds, Einzelplan 60, Kapitel 6092, Titel 68502, Haushaltsjahr 2021",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 1,
+"bis": 10000,
+"zweck": "Zuwendung aus dem Bundeshaushalt, Einzelplan 09, Kapitel 03, Titel 68301, Haushaltsjahr 2021 Projektträger: PT-J",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 10001,
+"bis": 20000,
+"zweck": "Zuwendung aus dem Bundeshaushalt, Einzelplan 30, Kapitel 3004, Titel 68541, Haushaltsjahr 2023 Projektträger: PT-J",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 640004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Andreas Lehmann",
+"funktion": "Chief Executive Officer ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002915/86600",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Caspar Paetz",
+"funktion": " Chief Technology Officer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002915/86600",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Stefan Bürkle",
+"funktion": "Chief Operating Officer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002915/86600",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Ulrike Schönfelder-Walther",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002915/86600",
+"stand": "2026-10-06"
+}
+},
+{
+"name": "Daniel Teichmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002915/86600",
+"stand": "2026-10-06"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 90001,
+"bis": 100000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/31/85/857247/Jahresabschluss-2024-Hydrogenious-LOHC-Technologies-GmbH.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002915/86600",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-06",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

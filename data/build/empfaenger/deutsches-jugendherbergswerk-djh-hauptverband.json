@@ -1,0 +1,192 @@
+{
+"id": "deutsches-jugendherbergswerk-djh-hauptverband",
+"name": "Deutsches Jugendherbergswerk - DJH Hauptverband",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Detmold",
+"website": "www.jugendherberge.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004560",
+"eintrag_id": 84019,
+"version": 12,
+"stand": "2026-07-31",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004560/84019",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/5d/85/823660/Lobbyregister-Registereintraege-Detailansicht-R004560-2026-07-31_15-27-49.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 340001,
+"bis": 350000,
+"zweck": "Kinder- und Jugendplan des Bundes - Förderung im Rahmen einer Rahmenvereinbarung (Aus- und Fortbildung, Internationale Jugendarbeit) sowie Sondermittel für den Deutsch-Chinesischen Jungend- und Fachkräfteaustausch",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Familie und zivilgesellschaftliche Aufgaben (BAFzA)",
+"epl": "17",
+"von": 210001,
+"bis": 220000,
+"zweck": "Zuschuss im Bereich Bundesfreiwilligendienst für die pädagogische Begleitung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "ConAct - Koordinierungszentrum Deutsch-Israelischer Jugendaustausch",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Fördermittel für Aktivitäten im Deutsch-Israelischen Jugendaustausch",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 560003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Günther Schneider",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004560/84019",
+"stand": "2026-07-31"
+}
+},
+{
+"name": "Karl-Heinz Binus",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004560/84019",
+"stand": "2026-07-31"
+}
+},
+{
+"name": "Uwe Böhm",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004560/84019",
+"stand": "2026-07-31"
+}
+},
+{
+"name": "Matthias Fack",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004560/84019",
+"stand": "2026-07-31"
+}
+},
+{
+"name": "Burkhard Fieber",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004560/84019",
+"stand": "2026-07-31"
+}
+},
+{
+"name": "Jana Radant",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004560/84019",
+"stand": "2026-07-31"
+}
+},
+{
+"name": "Oliver Peters",
+"funktion": "Hauptgeschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004560/84019",
+"stand": "2026-07-31"
+}
+},
+{
+"name": "Gunnar Borg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004560/84019",
+"stand": "2026-07-31"
+}
+},
+{
+"name": "Miriam Wolters",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004560/84019",
+"stand": "2026-07-31"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 10001,
+"bis": 20000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 50001,
+"bis": 60000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/d7/82/823659/G-V_2024_DJH-Hauptverband_endgueltig_2026-01-16-Scan_VER.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004560/84019",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-31",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

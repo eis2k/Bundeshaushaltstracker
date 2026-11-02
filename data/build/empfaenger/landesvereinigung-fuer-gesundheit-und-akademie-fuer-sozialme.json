@@ -1,0 +1,122 @@
+{
+"id": "landesvereinigung-fuer-gesundheit-und-akademie-fuer-sozialme",
+"name": "Landesvereinigung für Gesundheit und Akademie für Sozialmedizin Niedersachsen Bremen e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Hannover",
+"website": "www.gesundheit-nds-hb.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007114",
+"eintrag_id": 84501,
+"version": 4,
+"stand": "2026-08-10",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007114/84501",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/59/6f/828889/Lobbyregister-Registereintraege-Detailansicht-R007114-2026-08-10_15-05-59.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesinstitut für Öffentliche Gesundheit",
+"epl": "15",
+"von": 10001,
+"bis": 20000,
+"zweck": "Projektförderung Koordinierungsstelle Gesundheitliche Chancengleichheit Niedersachsen \"Health in All Policies\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesinstitut für Öffentliche Gesundheit",
+"epl": "15",
+"von": 10001,
+"bis": 20000,
+"zweck": "Projektförderung Koordinierungsstelle Gesundheitliche Chancengleichheit Bremen \"Health in All Policies\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "VDI Technologiezentrum GmbH, Düsseldorf für Bundesministerium für Bildung und Forschung",
+"epl": null,
+"von": 120001,
+"bis": 130000,
+"zweck": "Verbundprojekt: Lebensrettung in flut- und energiekritischen Gefährdungssituationen durch Realisierung von Insellösungen im Rahmen der Daseinsversorgung (LifeGRID) - Teilvorhaben: Regionale und überregionale Resilienzförderung und Qualifizierung von Bevölkerung, Pflege und Gesundheitswesen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 60001,
+"bis": 70000,
+"zweck": "Das Verbundprojekt „InnovationsCommunity Urban Health“ (ICUH) setzt sich für gesunde, faire und umweltgerechte Lebensbedingungen in Städten ein – unabhängig vom sozialen Status der Bevölkerung. Der Fokus liegt dabei vor allem auf altindustriellen Regionen wie dem Ruhrgebiet sowie Bremen und Bremerhaven. Zentrales Anliegen ist die Überwindung von sogenannten Implementationslücken: Wissenschaftliche Erkenntnisse und Nachhaltigkeitskonzepte sollen durch ein starkes Netzwerk aus Wissenschaft, Praxis und diversen Communities direkt in die Praxis übertragen werden. In Realexperimenten erproben die Beteiligten innovative Lösungsansätze für die Stadtentwicklung – etwa in den Bereichen aktive Mobilität, Hitze- und Hochwasserschutz. Ziel ist es, Hürden wie starre rechtliche Rahmenbedingungen abzubauen und eine sozial-ökologische Transformation im urbanen Raum voranzutreiben. Die LVG & AFS ist an der Umsetzung in Bremen beteiligt.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 200004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Thomas Altgeld",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007114/84501",
+"stand": "2026-08-10"
+}
+},
+{
+"name": "Janine Sterner",
+"funktion": "Stellv. Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007114/84501",
+"stand": "2026-08-10"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 40001,
+"bis": 50000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/3e/f3/828888/jahresbericht-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007114/84501",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-10",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

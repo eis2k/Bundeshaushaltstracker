@@ -1,0 +1,95 @@
+{
+"id": "wemag",
+"name": "WEMAG AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Schwerin",
+"website": "www.wemag.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006089",
+"eintrag_id": 77640,
+"version": 6,
+"stand": "2026-06-16",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006089/77640",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/d5/c4/759681/Lobbyregister-Registereintraege-Detailansicht-R006089-2026-06-16_08-47-16.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Digitales und Verkehr",
+"epl": "12",
+"von": 70001,
+"bis": 80000,
+"zweck": "Zuwendung aus dem Sondervermögen \"Energie und Klimafonds\", Einzelplan 60, Kapital 92, Titel 68304, Haushaltsjahr 2020",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 70001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Caspar Baumgart",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006089/77640",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Thomas Murche",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006089/77640",
+"stand": "2026-06-16"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 50001,
+"bis": 60000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/73/bf/759680/05-0_Mdt_WEMAG_AG_Testat_JAP_2025_Final_qual-sign.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006089/77640",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-16",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

@@ -1,0 +1,84 @@
+{
+"id": "deutscher-akademischer-austauschdienst",
+"name": "Deutscher Akademischer Austauschdienst e. V.",
+"art": "verein_stiftung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "05-0504-68748",
+"text": "Deutscher Akademischer Austauschdienst e. V., Bonn - Betrieb und operative Mittel",
+"epl": "05",
+"epl_text": "Auswärtiges Amt",
+"werte": {
+"2015": {
+"soll": 170377000,
+"ist": 170377000
+},
+"2016": {
+"soll": 167002000,
+"ist": 167633000
+},
+"2017": {
+"soll": 183509000,
+"ist": 183509000
+},
+"2018": {
+"soll": 182599000,
+"ist": 182599000
+},
+"2019": {
+"soll": 183547000,
+"ist": 182547000
+},
+"2020": {
+"soll": 192141000,
+"ist": 190141000
+},
+"2021": {
+"soll": 201500000,
+"ist": 201500000
+},
+"2022": {
+"soll": 193800000,
+"ist": 193461173
+},
+"2023": {
+"soll": 222032000,
+"ist": 219292000
+},
+"2024": {
+"soll": 215305000,
+"ist": 210574000
+},
+"2025": {
+"soll": 208000000,
+"ist": 208000000
+},
+"2026": {
+"soll": 207945000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

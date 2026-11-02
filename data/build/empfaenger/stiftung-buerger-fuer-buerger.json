@@ -1,0 +1,210 @@
+{
+"id": "stiftung-buerger-fuer-buerger",
+"name": "Stiftung Bürger für Bürger",
+"art": "verein_stiftung",
+"rechtsform": "Rechtsfähige Stiftung bürgerlichen Rechts",
+"sitz": "Halle (Saale)",
+"website": "www.buerger-fuer-buerger.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001624",
+"eintrag_id": 78145,
+"version": 6,
+"stand": "2026-06-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001624/78145",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c3/62/783364/Lobbyregister-Registereintraege-Detailansicht-R001624-2026-06-29_12-34-18.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"epl": "17",
+"von": 280001,
+"bis": 290000,
+"zweck": "Zuwendung für das Modellprojekt \"Jugendstil - Teilhabe und Mitgestaltung junger Migranten in Ostdeutschland\" im Rahmen des Bundesprogramms \"Demokratie leben!\", Ko-Finanzierung von der Bundesintegrationsbeauftragten",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Stiftung für Engagement und Ehrenamt",
+"epl": null,
+"von": 130001,
+"bis": 140000,
+"zweck": "Zuwendungen für die Projekte \"WirkungsWege Ost – Engagement verstehen, fördern, zukunftsfest gestalten\", \"Zukunftswege Ost - Neue Kooperationsnetzwerke entwickeln\" und \"Zukunftswege Ost – Neue Allianzen für Engagement und Zusammenhalt in Ostdeutschland\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Der Ostbeauftgte der Bundesregierung - BAFA",
+"epl": null,
+"von": 110001,
+"bis": 120000,
+"zweck": "Projektförderung \"Entwicklung, Aufbau und Erprobung eines Gemeinschaftsfonds zur Stärkung des zivilgesellschaftlichen Engagements in Ostdeutschland\" (Projektzeitraum 15.04.2024 bis 14.10.2025)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 520003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Olaf Ebert",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001624/78145",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Lilian Schwalb",
+"funktion": "Stellvertretende Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001624/78145",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Susanne Rindt",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001624/78145",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Michael Marquardt",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001624/78145",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Karamba Diaby",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-02"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001624/78145",
+"stand": "2026-06-29"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Karamba Diaby",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag, bis 2025-02",
+"funktion_beim_empfaenger": "Vorstandsmitglied",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Karamba Diaby ist laut Lobbyregister Vorstandsmitglied bei Stiftung Bürger für Bürger und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag, bis 2025-02. Stiftung Bürger für Bürger erhielt laut Lobbyregister Mittel von: Bundesamt für Familie und zivilgesellschaftliche Aufgaben; Deutsche Stiftung für Engagement und Ehrenamt; Der Ostbeauftgte der Bundesregierung - BAFA.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"Deutsche Stiftung für Engagement und Ehrenamt",
+"Der Ostbeauftgte der Bundesregierung - BAFA"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001624/78145",
+"stand": "2026-06-29"
+}
+],
+"stand": "2026-06-29"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Anna Aeikens",
+"funktion_person": "MdB, CDU/CSU",
+"funktion_beim_empfaenger": "Mitglied des Kuratoriums, ehrenamtlich (ab 13.02.2026)",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Anna Aeikens (MdB, CDU/CSU) ist laut bundestag.de Mitglied des Kuratoriums, ehrenamtlich (ab 13.02.2026) bei Stiftung Bürger für Bürger. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit; Ausschuss für Landwirtschaft, Ernährung und Heimat; Schriftführer/in; Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen; Parlamentarischer Beirat für nachhaltige Entwicklung und Zukunftsfragen. Stiftung Bürger für Bürger erhielt laut Lobbyregister Mittel von: Bundesamt für Familie und zivilgesellschaftliche Aufgaben; Deutsche Stiftung für Engagement und Ehrenamt; Der Ostbeauftgte der Bundesregierung - BAFA.",
+"ausschuesse": [
+"Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+"Ausschuss für Landwirtschaft, Ernährung und Heimat",
+"Schriftführer/in",
+"Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen",
+"Parlamentarischer Beirat für nachhaltige Entwicklung und Zukunftsfragen"
+],
+"geld_aus": [
+"Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"Deutsche Stiftung für Engagement und Ehrenamt",
+"Der Ostbeauftgte der Bundesregierung - BAFA"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/A/aeikens_anna-1043358",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1290001,
+"bis": 1300000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 80001,
+"bis": 90000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/70/b8/783362/2026_03_20_Jahrsbericht_StBfB_2025_HP_klein-1.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001624/78145",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-29",
+"etikett": "Eigenangabe",
+"version": 6
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/A/aeikens_anna-1043358",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

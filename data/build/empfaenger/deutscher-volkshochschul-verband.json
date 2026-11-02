@@ -1,0 +1,421 @@
+{
+"id": "deutscher-volkshochschul-verband",
+"name": "Deutscher Volkshochschul-Verband",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.volkshochschule.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002443",
+"eintrag_id": 88162,
+"version": 27,
+"stand": "2026-10-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002443/88162",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/3a/c8/866850/Lobbyregister-Registereintraege-Detailansicht-R002443-2026-10-29_13-00-09.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 5580001,
+"bis": 5590000,
+"zweck": "\"Kultur macht stark. Bündnisse für Bildung\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung, Frauen, Senioren, Frauen und Jugend",
+"epl": null,
+"von": 3980001,
+"bis": 3990000,
+"zweck": "diverse Projektförderung im Bereich Alphabetisierung und Grundbildung Lernen und Professionalisierung online: Redaktioneller Content, Tutoring, Apps, Lernstandszertifizierung (LernPORTAL) Alphabetisierung und Grundbildung - Neue Einsatzfelder für das Ehrenamt vhs-Lerntreffs im Quartier",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 970001,
+"bis": 980000,
+"zweck": "Zentralstelle im Kinder- und Jugendplan Prävention und gesellschaftlicher Zusammenhalt",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 1640001,
+"bis": 1650000,
+"zweck": "diverse Projektförderungen des Auswärtigen Amtes (2025)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 16730001,
+"bis": 16740000,
+"zweck": "diverse Projektförderung auf Grundlage der Richtlinien für die Förderung von Maßnahmen der Gesellschafts- und Sozialstrukturpolitik aus Kapitel 2302 Titel 687 03, 687 04 und 687 12",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Engagement Global",
+"epl": "23",
+"von": 300001,
+"bis": 310000,
+"zweck": "Projektförderung im Rahmen des Förderprogramms für Entwicklungspolitische Bildung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Gesellschaft für Integration und Zusammenarbeit",
+"epl": null,
+"von": 920001,
+"bis": 930000,
+"zweck": "diverse Projektförderungen der Gesellschaft für Integration und Zusammenarbeit",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 40001,
+"bis": 50000,
+"zweck": "Projektförderung im Rahmen der Nationalen Bildungsplattform: EVA-NBP II",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 30160008,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Martin Rabanus",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002443/88162",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Susanne Deß",
+"funktion": "stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002443/88162",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Winfried Krüger",
+"funktion": "stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002443/88162",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Esther Hirsch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002443/88162",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Friedrich Meyer zu Schwabedissen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002443/88162",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Sascha Rex",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002443/88162",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Annegret Kramp-Karrenbauer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_GOVERNMENT",
+"funktion": "Bundesminister/-in",
+"stelle": "Bundesregierung",
+"beendet": true,
+"ende": "2021-12"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002443/88162",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Ernst Dieter Rossmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-10"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002443/88162",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Julia von Westerholt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002443/88162",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Katinka Bartl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002443/88162",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Christina Bellmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002443/88162",
+"stand": "2026-10-29"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Martin Rabanus",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag",
+"funktion_beim_empfaenger": "Vorsitzender",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Martin Rabanus ist laut Lobbyregister Vorsitzender bei Deutscher Volkshochschul-Verband und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag. Deutscher Volkshochschul-Verband erhielt laut Lobbyregister Mittel von: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung; Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend; Bundesministerium für Bildung, Frauen, Senioren, Frauen und Jugend; Auswärtiges Amt; Gesellschaft für Integration und Zusammenarbeit; Engagement Global.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"Bundesministerium für Bildung, Frauen, Senioren, Frauen und Jugend",
+"Auswärtiges Amt",
+"Gesellschaft für Integration und Zusammenarbeit",
+"Engagement Global"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002443/88162",
+"stand": "2026-10-29"
+}
+],
+"stand": "2026-10-29"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Annegret Kramp-Karrenbauer",
+"funktion_person": "Bundesminister/-in, Bundesregierung, bis 2021-12",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Annegret Kramp-Karrenbauer ist laut Lobbyregister Interessenvertretung bei Deutscher Volkshochschul-Verband und hatte zuvor eine öffentliche Funktion: Bundesminister/-in, Bundesregierung, bis 2021-12. Deutscher Volkshochschul-Verband erhielt laut Lobbyregister Mittel von: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung; Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend; Bundesministerium für Bildung, Frauen, Senioren, Frauen und Jugend; Auswärtiges Amt; Gesellschaft für Integration und Zusammenarbeit; Engagement Global.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"Bundesministerium für Bildung, Frauen, Senioren, Frauen und Jugend",
+"Auswärtiges Amt",
+"Gesellschaft für Integration und Zusammenarbeit",
+"Engagement Global"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002443/88162",
+"stand": "2026-10-29"
+}
+],
+"stand": "2026-10-29"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Ernst Dieter Rossmann",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag, bis 2021-10",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Ernst Dieter Rossmann ist laut Lobbyregister Interessenvertretung bei Deutscher Volkshochschul-Verband und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag, bis 2021-10. Deutscher Volkshochschul-Verband erhielt laut Lobbyregister Mittel von: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung; Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend; Bundesministerium für Bildung, Frauen, Senioren, Frauen und Jugend; Auswärtiges Amt; Gesellschaft für Integration und Zusammenarbeit; Engagement Global.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"Bundesministerium für Bildung, Frauen, Senioren, Frauen und Jugend",
+"Auswärtiges Amt",
+"Gesellschaft für Integration und Zusammenarbeit",
+"Engagement Global"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002443/88162",
+"stand": "2026-10-29"
+}
+],
+"stand": "2026-10-29"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Nicole Gohlke",
+"funktion_person": "MdB, Die Linke",
+"funktion_beim_empfaenger": "Mitglied des Beirates für Weiterbildung (bis 31.12.2025)",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Nicole Gohlke (MdB, Die Linke) ist laut bundestag.de Mitglied des Beirates für Weiterbildung (bis 31.12.2025) bei Deutscher Volkshochschul-Verband. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung; Ausschuss für Bildung, Familie, Senioren, Frauen und Jugend. Deutscher Volkshochschul-Verband erhielt laut Lobbyregister Mittel von: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung; Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend; Bundesministerium für Bildung, Frauen, Senioren, Frauen und Jugend; Auswärtiges Amt; Gesellschaft für Integration und Zusammenarbeit; Engagement Global.",
+"ausschuesse": [
+"Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung",
+"Ausschuss für Bildung, Familie, Senioren, Frauen und Jugend"
+],
+"geld_aus": [
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"Bundesministerium für Bildung, Frauen, Senioren, Frauen und Jugend",
+"Auswärtiges Amt",
+"Gesellschaft für Integration und Zusammenarbeit",
+"Engagement Global"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/G/gohlke_nicole-1044540",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Dr. Anja Reinalter",
+"funktion_person": "MdB, Bündnis 90 Die Grünen",
+"funktion_beim_empfaenger": "Mitglied des Beirates für Weiterbildung",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Dr. Anja Reinalter (MdB, Bündnis 90 Die Grünen) ist laut bundestag.de Mitglied des Beirates für Weiterbildung bei Deutscher Volkshochschul-Verband. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Bildung, Familie, Senioren, Frauen und Jugend; Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung; Der Ältestenrat. Deutscher Volkshochschul-Verband erhielt laut Lobbyregister Mittel von: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung; Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend; Bundesministerium für Bildung, Frauen, Senioren, Frauen und Jugend; Auswärtiges Amt; Gesellschaft für Integration und Zusammenarbeit; Engagement Global.",
+"ausschuesse": [
+"Ausschuss für Bildung, Familie, Senioren, Frauen und Jugend",
+"Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung",
+"Der Ältestenrat"
+],
+"geld_aus": [
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"Bundesministerium für Bildung, Frauen, Senioren, Frauen und Jugend",
+"Auswärtiges Amt",
+"Gesellschaft für Integration und Zusammenarbeit",
+"Engagement Global"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/R/reinalter_anja-1046726",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 630001,
+"bis": 640000
+},
+"lobbyausgaben": {
+"von": 500001,
+"bis": 510000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/2d/6d/866847/DVV-Jahresbericht-2024-web.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002443/88162",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-29",
+"etikett": "Eigenangabe",
+"version": 27
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/G/gohlke_nicole-1044540",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/R/reinalter_anja-1046726",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

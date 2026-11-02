@@ -1,0 +1,117 @@
+{
+"id": "ubitricity",
+"name": "ubitricity GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "www.ubitricity.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002728",
+"eintrag_id": 85267,
+"version": 12,
+"stand": "2026-09-08",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002728/85267",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/1a/18/839706/Lobbyregister-Registereintraege-Detailansicht-R002728-2026-09-08_12-02-11.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundeskasse Dienstort Halle",
+"epl": null,
+"von": 30001,
+"bis": 40000,
+"zweck": "Förderung zur Errichtung von 38 Ladepunkten (19 Ladestationen) durch ubitricity in der Landeshauptstadt Düsseldorf im öffentlichen Raum zur flächendeckenden Unterstützung der urbanen Antriebswende.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 30001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Alexander Reinhardt",
+"funktion": "CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002728/85267",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Anton Ohm",
+"funktion": "CFO ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002728/85267",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Philipp Sindberg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002728/85267",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "David Heinz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002728/85267",
+"stand": "2026-09-08"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/b2/9e/839704/ubitricity_JAP_31122025_Offenlegung_komprimiert.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002728/85267",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-08",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

@@ -1,0 +1,132 @@
+{
+"id": "medizinischer-fakultaetentag-der-bundesrepublik-deutschland",
+"name": "Medizinischer Fakultätentag der Bundesrepublik Deutschland e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://medizinische-fakultaeten.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001595",
+"eintrag_id": 87536,
+"version": 13,
+"stand": "2026-10-14",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001595/87536",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f9/ab/860952/Lobbyregister-Registereintraege-Detailansicht-R001595-2026-10-14_08-57-29.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMBF Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 80001,
+"bis": 90000,
+"zweck": "Zuwendungen für das Haushaltsjahr 2025, für das Vorhaben: \"Medizininformatik Koordinationsstelle, Bereich: Lehre und Ausbildung\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 80001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Frank Wissing",
+"funktion": "Generalsekretär",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001595/87536",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Martina Kadmon",
+"funktion": "Präsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001595/87536",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Bernd  Weber",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001595/87536",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Roland  Frankenberger",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001595/87536",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Richard Blomberg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001595/87536",
+"stand": "2026-10-14"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Sonstiges",
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 130001,
+"bis": 140000
+},
+"mitgliedsbeitraege": {
+"von": 1600001,
+"bis": 1610000
+},
+"lobbyausgaben": {
+"von": 180001,
+"bis": 190000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/5e/28/860949/MFT-GuV-20260625.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001595/87536",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-14",
+"etikett": "Eigenangabe",
+"version": 13
+}
+]
+}

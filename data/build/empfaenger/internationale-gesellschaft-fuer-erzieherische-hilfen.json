@@ -1,0 +1,130 @@
+{
+"id": "internationale-gesellschaft-fuer-erzieherische-hilfen",
+"name": "Internationale Gesellschaft für erzieherische Hilfen (IGfH)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Frankfurt am Main",
+"website": "www.igfh.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007166",
+"eintrag_id": 81720,
+"version": 4,
+"stand": "2026-09-15",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007166/81720",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/90/eb/842157/Lobbyregister-Registereintraege-Detailansicht-R007166-2026-09-15_13-41-06.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMBFSFJ",
+"epl": "17",
+"von": 530001,
+"bis": 540000,
+"zweck": "KJP Förderung.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 530001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Nicole Knuth",
+"funktion": "Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007166/81720",
+"stand": "2026-09-15"
+}
+},
+{
+"name": "Hans-Ullrich Krause",
+"funktion": "stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007166/81720",
+"stand": "2026-09-15"
+}
+},
+{
+"name": "Melanie Overbeck",
+"funktion": "stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007166/81720",
+"stand": "2026-09-15"
+}
+},
+{
+"name": "Stefan Wedermann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007166/81720",
+"stand": "2026-09-15"
+}
+},
+{
+"name": "Katja Albrecht",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007166/81720",
+"stand": "2026-09-15"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 220001,
+"bis": 230000
+},
+"lobbyausgaben": {
+"von": 90001,
+"bis": 100000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/b4/0d/842150/Gewinn-Verlust_2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007166/81720",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-15",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

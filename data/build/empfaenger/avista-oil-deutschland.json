@@ -1,0 +1,95 @@
+{
+"id": "avista-oil-deutschland",
+"name": "AVISTA OIL Deutschland GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Uetze",
+"website": "https://www.avista-oil.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002163",
+"eintrag_id": 82748,
+"version": 10,
+"stand": "2026-07-08",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002163/82748",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/67/81/809089/Lobbyregister-Registereintraege-Detailansicht-R002163-2026-07-08_15-28-38.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundeskasse Dienstort Halle",
+"epl": null,
+"von": 260001,
+"bis": 270000,
+"zweck": "Strompreiskompensation / auszahlende Stelle Bundeskasse Dienstort Halle",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 260001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Birgit Fahlteich",
+"funktion": "Geschäfstführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002163/82748",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Benedikt Fuhlrott",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002163/82748",
+"stand": "2026-07-08"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/6e/b0/809088/20040983_End_TE_JA2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002163/82748",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-08",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

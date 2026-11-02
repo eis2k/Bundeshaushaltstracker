@@ -1,0 +1,144 @@
+{
+"id": "femnet-e-v-feministische-perspektiven-auf-wirtschaft-politik",
+"name": "FEMNET e.V. - feministische Perspektiven auf Wirtschaft, Politik und Gesellschaft",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bonn",
+"website": "https://www.femnet.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001953",
+"eintrag_id": 82340,
+"version": 11,
+"stand": "2026-07-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001953/82340",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f6/13/804519/Lobbyregister-Registereintraege-Detailansicht-R001953-2026-07-03_14-56-56.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Engagement Global gGmbH: Service für Entwicklungsinitiativen",
+"epl": "23",
+"von": 940001,
+"bis": 950000,
+"zweck": "Zuwendungen des Bundes aus Mitteln des Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung für Multi-Akteurs-Partnerschaftsprojekte im In- und Ausland sowie entwicklungspolitische Bildungs- und Beratungsarbeit und faire öffentliche Beschaffung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Gesellschaft für Internationale Zusammenarbeit",
+"epl": "23",
+"von": 120001,
+"bis": 130000,
+"zweck": "Fördermittel für Projektabwicklung in Südindien, Auftrag für ein Trainingseinsatz im Ausland (Ghana)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Rosa-Luxemburg-Stiftung",
+"epl": null,
+"von": 30001,
+"bis": 40000,
+"zweck": "Förderung eines Projektes und Konferenz zum Lieferkettengesetz",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Norddeutsche Stiftung für Umwelt und Entwicklung",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Förderung eines Projektes zur Nachhaltigen Beschaffung bei der Stadt Hamburg",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1100004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Gisela Burckhardt",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001953/82340",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "Sabine Hartig",
+"funktion": "Stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001953/82340",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "Johanna Thomas-Hergt",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001953/82340",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "Michaela Reithinger",
+"funktion": "Stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001953/82340",
+"stand": "2026-07-03"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Sonstiges",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 120001,
+"bis": 130000
+},
+"mitgliedsbeitraege": {
+"von": 10001,
+"bis": 20000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/21/f3/804518/FEMNET-Jahresbericht-2025-final.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001953/82340",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-03",
+"etikett": "Eigenangabe",
+"version": 11
+}
+]
+}

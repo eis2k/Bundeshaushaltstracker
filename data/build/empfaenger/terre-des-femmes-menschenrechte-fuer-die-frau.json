@@ -1,0 +1,356 @@
+{
+"id": "terre-des-femmes-menschenrechte-fuer-die-frau",
+"name": "TERRE DES FEMMES - Menschenrechte für die Frau e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.frauenrechte.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002052",
+"eintrag_id": 87562,
+"version": 16,
+"stand": "2026-10-19",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002052/87562",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/30/80/863248/Lobbyregister-Registereintraege-Detailansicht-R002052-2026-10-19_16-18-47.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+"epl": "23",
+"von": 120001,
+"bis": 130000,
+"zweck": "Förderung entwicklungpolitscher Vorhaben privater deutscher Träger in Entwicklungsländern (Kapitel 2302, Titel 687 76) durch Engagement Global mit Geldern des BMZ für unser Projekt MIRIAM in Nicaragua.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+"epl": "23",
+"von": 20001,
+"bis": 30000,
+"zweck": "BMZ Gelder aus dem Förderprogramm Entwicklungspolitische Bildung durch Engagement Global für unser Filmfest FrauenWelten 2025.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Institut für Auslandsbeziehungen: Elisabeth Selbert Initiative",
+"epl": "05",
+"von": 10001,
+"bis": 20000,
+"zweck": "Zuwendung aus Mitteln des Auswärtigen Amtes zur Durchführung eines Schutzaufenthalts für eine Menschenrechtsverteidigerin.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+"epl": "23",
+"von": 20001,
+"bis": 30000,
+"zweck": "BMZ Gelder aus dem Föderprogramm Entwicklungspolitische Bildung durch Engagement Global für das Projekt \"Interaktive entwicklungspolitische Bildungsarbeit mit digitalem Schwerpunkt zu den Menschenrechten der Frau auf Gewaltfreiheit und Bildung\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+"epl": "23",
+"von": 50001,
+"bis": 60000,
+"zweck": "Förderung entwicklungpolitscher Vorhaben privater deutscher Träger in Entwicklungsländern (Kapitel 2302, Titel 687 76) durch Engagement Global mit Geldern des BMZ für unser Partnerprojekt in Burkina Faso.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Demokratie leben!",
+"epl": null,
+"von": 70001,
+"bis": 80000,
+"zweck": "Förderung eines Sondervorhabens mit denen geflüchtete und von geschlechtsspezifischer Gewalt betroffene bzw. bedrohte Frauen und Mädchen in GU erreicht werden sollen, mit dem Ziel, durch niedrigschwellige und selbstaktivierende Begegnungsformate und Methoden den interkulturellen Austausch und die Selbstorganisation und aktive Partizipation in den Unterkünften zu fördern sowie Wissen über Rechte, Gewaltschutz (Fokus: GBV, insbes. FGM/EFM) und Selbstbestimmung u.a. zu vermitteln, um Befähigung und nachhaltige Teilhabe zu ermöglichen.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 290006,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Theresa Fuchs",
+"funktion": "Vorständin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002052/87562",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Sanata Doumbia-Milkereit",
+"funktion": "Vorständin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002052/87562",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Gesa Birkmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002052/87562",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Sina Tonk",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002052/87562",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Myria Böhmecke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002052/87562",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Birgitta Hahn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002052/87562",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Elisabeth Gernhardt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Sachbearbeiterin",
+"stelle": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2021-06"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002052/87562",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Susanna Keim",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002052/87562",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Sabrina Kürzinger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002052/87562",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Lena Henke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002052/87562",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Stephanie Walter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002052/87562",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Mina Johanna König",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002052/87562",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Petra Kappler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002052/87562",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Lisa Kaiser",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002052/87562",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Sophia Katharina Dykmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002052/87562",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Nadja Baron",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002052/87562",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Maria Schrammen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002052/87562",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Gina Krebs",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002052/87562",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Johanna Gabert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002052/87562",
+"stand": "2026-10-19"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Elisabeth Gernhardt",
+"funktion_person": "Sachbearbeiterin, Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ) oder dessen Geschäftsbereich, bis 2021-06",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Elisabeth Gernhardt ist laut Lobbyregister Interessenvertretung bei TERRE DES FEMMES - Menschenrechte für die Frau e.V. und hatte zuvor eine öffentliche Funktion: Sachbearbeiterin, Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ) oder dessen Geschäftsbereich, bis 2021-06. TERRE DES FEMMES - Menschenrechte für die Frau e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ); Demokratie leben!; Institut für Auslandsbeziehungen: Elisabeth Selbert Initiative.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+"Demokratie leben!",
+"Institut für Auslandsbeziehungen: Elisabeth Selbert Initiative"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002052/87562",
+"stand": "2026-10-19"
+}
+],
+"stand": "2026-10-19"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 1410001,
+"bis": 1420000
+},
+"mitgliedsbeitraege": {
+"von": 230001,
+"bis": 240000
+},
+"lobbyausgaben": {
+"von": 130001,
+"bis": 140000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/3b/33/863247/2025_Bestatigungsvermerk_WP.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002052/87562",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-19",
+"etikett": "Eigenangabe",
+"version": 16
+}
+]
+}

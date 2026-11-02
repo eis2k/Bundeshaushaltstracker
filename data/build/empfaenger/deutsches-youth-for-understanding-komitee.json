@@ -1,0 +1,114 @@
+{
+"id": "deutsches-youth-for-understanding-komitee",
+"name": "Deutsches Youth For Understanding Komitee e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Hamburg",
+"website": "https://www.yfu.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006231",
+"eintrag_id": 69147,
+"version": 7,
+"stand": "2026-06-26",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006231/69147",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/21/bc/779471/Lobbyregister-Registereintraege-Detailansicht-R006231-2026-06-26_14-10-51.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Deutscher Bundestag",
+"epl": null,
+"von": 670001,
+"bis": 680000,
+"zweck": "Zuwendung zur Durchführung des Parlamentarischen Patenschafts-Programm (PPP). Das PPP ist ein Stipendienprogramm des Deutschen Bundestages und des Kongresses der USA, mit dem seit 1983 der transatlantische Jugendaustausch gefördert wird. Deutschlandweit sind fünf Austauschorganisationen mit der Organisation des Auslandsjahres für die PPP-Stipendiatinnen und -Stipendiaten beauftragt, auch YFU ist dabei und für einen Teil der Stipendien zuständig.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBFSFJ",
+"epl": "17",
+"von": 70001,
+"bis": 80000,
+"zweck": "Förderung eines Projekts, das interkulturelle Bildung u.a. durch die Vernetzung von Schulen mit Partnern der außerschulischen Jugendarbeit nachhaltig im Schulalltag verankert.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE",
+"epl": "09",
+"von": 70001,
+"bis": 80000,
+"zweck": "Fördermittel zur Durchführung des Kurzaustauschprogramms \"Germany for you\" für Jugendliche aus den USA, die bisher wenig Zugang zu Austauschprogrammen haben.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 810003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Mareike von Raepke",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006231/69147",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Jantje Theege",
+"funktion": "Stellvertretende Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006231/69147",
+"stand": "2026-06-26"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 910001,
+"bis": 920000
+},
+"mitgliedsbeitraege": {
+"von": 240001,
+"bis": 250000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/eb/61/779467/YFU-Jahresbericht-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006231/69147",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-26",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

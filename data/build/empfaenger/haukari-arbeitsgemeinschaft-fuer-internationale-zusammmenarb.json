@@ -1,0 +1,119 @@
+{
+"id": "haukari-arbeitsgemeinschaft-fuer-internationale-zusammmenarb",
+"name": "HAUKARI - Arbeitsgemeinschaft für internationale Zusammmenarbeit (HAUKARI e.V.)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.haukari.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003349",
+"eintrag_id": 78703,
+"version": 8,
+"stand": "2026-06-10",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003349/78703",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/83/66/754431/Lobbyregister-Registereintraege-Detailansicht-R003349-2026-06-10_11-02-29.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit (BMZ)",
+"epl": "23",
+"von": 280001,
+"bis": 290000,
+"zweck": "Zuschuss zur Förderung entwicklungspolitischer Projekte im Irak",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 280001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Karin Dorsch",
+"funktion": "Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003349/78703",
+"stand": "2026-06-10"
+}
+},
+{
+"name": "Karin Mlodoch",
+"funktion": "Mitglied im Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003349/78703",
+"stand": "2026-06-10"
+}
+},
+{
+"name": "Ernst Meyer",
+"funktion": "stellv. Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003349/78703",
+"stand": "2026-06-10"
+}
+},
+{
+"name": "Claudia Kipp-Cötok",
+"funktion": "Mitglied im Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003349/78703",
+"stand": "2026-06-10"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 50001,
+"bis": 60000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/83/25/754430/Jahresbericht-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003349/78703",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-10",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

@@ -1,0 +1,138 @@
+{
+"id": "deutscher-beton-und-bautechnik-verein",
+"name": "Deutscher Beton- und Bautechnik-Verein E.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.betonverein.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000856",
+"eintrag_id": 82634,
+"version": 9,
+"stand": "2026-07-13",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000856/82634",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/cc/80/811882/Lobbyregister-Registereintraege-Detailansicht-R000856-2026-07-13_11-54-45.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 40001,
+"bis": 50000,
+"zweck": "Förderung der 3 Forschungsprojekte: \"Strukturoptimierte Leichtbauwerke durch Additive Fertigung im Pulverbett, Teilvorhaben: Erarbeitung und Validierung eines Bemessungskonzeptes für strukturoptimierte Bauteile\" Förderung des Forschungsprojekts: „Reversibles ressourcenoptimiertes Fertigteildeckensystem“",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 1,
+"bis": 10000,
+"zweck": "Digitale Prozessabläufe und Standadisierung beim Beton-3D-Druck",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 40002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Matthias Jacob",
+"funktion": "gesetzlicher Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000856/82634",
+"stand": "2026-07-13"
+}
+},
+{
+"name": "Markus Landgraf",
+"funktion": "gesetzlicher Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000856/82634",
+"stand": "2026-07-13"
+}
+},
+{
+"name": "Kämpf Ken",
+"funktion": "gesetzlicher Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000856/82634",
+"stand": "2026-07-13"
+}
+},
+{
+"name": "Lars Meyer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000856/82634",
+"stand": "2026-07-13"
+}
+},
+{
+"name": "Anja Muschelknautz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000856/82634",
+"stand": "2026-07-13"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 2620001,
+"bis": 2630000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/d2/c2/811881/GuV_DBV_2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000856/82634",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-13",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

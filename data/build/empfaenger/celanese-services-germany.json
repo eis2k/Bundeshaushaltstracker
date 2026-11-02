@@ -1,0 +1,92 @@
+{
+"id": "celanese-services-germany",
+"name": "Celanese Services Germany GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Sulzbach",
+"website": "www.celanese.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007530",
+"eintrag_id": 79079,
+"version": 3,
+"stand": "2026-06-16",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007530/79079",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/7a/e8/760677/Lobbyregister-Registereintraege-Detailansicht-R007530-2026-06-16_14-52-53.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesrepublik Deutschland, über das Bundesministerium der Finanzen / Forschungszulagengesetz",
+"epl": "60",
+"von": 0,
+"bis": 0,
+"zweck": "Im Rahmen des Forschungszulagengesetzes (FZulG) wurden für mehrere Projekte aus den Jahren 2020 bis 2024 Anträge auf steuerliche Forschungsförderung gestellt bzw. sind diese als genehmigt oder genehmigungsfähig bestätigt worden. Eine tatsächliche steuerliche Anrechnung der Forschungszulage ist im Berichtsjahr 2024 noch nicht erfolgt. Die steuerliche Wirkung wird voraussichtlich im Rahmen der Steuerveranlagung 2025 eintreten. Eine Meldung des Förderbetrags erfolgt nach tatsächlichem Zufluss.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Kreditanstalt für Wiederaufbau (KfW)",
+"epl": null,
+"von": 0,
+"bis": 0,
+"zweck": "Im Berichtsjahr lag eine fortbestehende Kreditzusage der KfW im aus dem Programm KfW-Bundesförderung für Energie- und Ressourceneffizient in der Wirtschaft vor. Eine tatsächliche Auszahlung von Fördermitteln oder Tilgungszuschüssen hat im Berichtszeitraum jedoch nicht stattgefunden. Sobald ein Tilgungszuschuss aus öffentlichen Mitteln zugeht und den Schwellenwert von zehntausend Euro übersteigt, erfolgt die Angabe im jeweiligen Berichtsjahr.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jens Kurth",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007530/79079",
+"stand": "2026-06-16"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 30001,
+"bis": 40000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/91/da/760675/60034565_End_Te_JA2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007530/79079",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-16",
+"etikett": "Eigenangabe",
+"version": 3
+}
+]
+}

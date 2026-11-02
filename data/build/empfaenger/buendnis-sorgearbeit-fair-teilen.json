@@ -1,0 +1,170 @@
+{
+"id": "buendnis-sorgearbeit-fair-teilen",
+"name": "Bündnis Sorgearbeit fair teilen",
+"art": "verein_stiftung",
+"rechtsform": "Netzwerk, Plattform oder andere Form kollektiver Tätigkeit",
+"sitz": "Berlin",
+"website": "https://www.sorgearbeit-fair-teilen.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002692",
+"eintrag_id": 73259,
+"version": 12,
+"stand": "2026-07-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002692/73259",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/8c/da/803940/Lobbyregister-Registereintraege-Detailansicht-R002692-2026-07-03_10-15-02.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMBFSFJ",
+"epl": "17",
+"von": 200001,
+"bis": 210000,
+"zweck": "Projektförderung für die Koordinierungsstelle des Bündnis Sorgearbeit fair teilen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 200001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Beate von Miquel",
+"funktion": "Vorsitzende des Deutschen Frauenrat e.V.",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002692/73259",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "Anja Weusthoff",
+"funktion": "Stellvertretende Vorsitzende des Deutschen Frauenrat e.V.",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002692/73259",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "Claudia Altwasser",
+"funktion": "Stellvertretende Vorsitzende Deutscher Frauenrat e.V.",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002692/73259",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "Judith Rahner",
+"funktion": "Geschäftsführerin Trägerorganisation",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002692/73259",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "Stephanie Schlitt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002692/73259",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "Franziska Weck",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002692/73259",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "Saša Gavrić",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002692/73259",
+"stand": "2026-07-03"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Stephanie Schlitt",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Stephanie Schlitt ist laut Lobbyregister Interessenvertretung bei Bündnis Sorgearbeit fair teilen und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03. Bündnis Sorgearbeit fair teilen erhielt laut Lobbyregister Mittel von: BMBFSFJ.",
+"ausschuesse": [],
+"geld_aus": [
+"BMBFSFJ"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002692/73259",
+"stand": "2026-07-03"
+}
+],
+"stand": "2026-07-03"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": null
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002692/73259",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-03",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

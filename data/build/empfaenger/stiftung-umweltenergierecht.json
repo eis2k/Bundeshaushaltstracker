@@ -1,0 +1,56 @@
+{
+"id": "stiftung-umweltenergierecht",
+"name": "Stiftung Umweltenergierecht",
+"art": "verein_stiftung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "09-0903-68690",
+"text": "Stiftung Umweltenergierecht",
+"epl": "09",
+"epl_text": "Bundesministerium für Wirtschaft und Energie",
+"werte": {
+"2022": {
+"soll": 451000,
+"ist": 0
+},
+"2023": {
+"soll": 4963000,
+"ist": 0
+},
+"2024": {
+"soll": 4400000,
+"ist": 2783432
+},
+"2025": {
+"soll": 4998000,
+"ist": 3390000
+},
+"2026": {
+"soll": 5198000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

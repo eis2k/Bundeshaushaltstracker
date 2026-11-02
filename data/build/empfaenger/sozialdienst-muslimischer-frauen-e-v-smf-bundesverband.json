@@ -1,0 +1,124 @@
+{
+"id": "sozialdienst-muslimischer-frauen-e-v-smf-bundesverband",
+"name": "Sozialdienst muslimischer Frauen e.V. / SmF-Bundesverband",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Köln",
+"website": "https://muslimischewohlfahrt.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007402",
+"eintrag_id": 82940,
+"version": 4,
+"stand": "2026-07-16",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007402/82940",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/74/a7/814875/Lobbyregister-Registereintraege-Detailansicht-R007402-2026-07-16_16-27-05.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Familien, Senioren, Frauen und Jugend",
+"epl": null,
+"von": 1420001,
+"bis": 1430000,
+"zweck": "Zweckgebundene Projektförderung in drei Projekten, umgesetzt in 17 Standorten",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Die Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration; Die Bundesbeauftragte der Bundesregierung für Antirassismus",
+"epl": null,
+"von": 490001,
+"bis": 500000,
+"zweck": "Zweckgebundene Projektförderung im Bereich Prävention gegen Extremismus, umgesetzt in 8 Standorten",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium des Inneren im Rahmen der Deutschen Islam Konferenz",
+"epl": null,
+"von": 1290001,
+"bis": 1300000,
+"zweck": "Zweckgebundene Projektförderung im Rahmen der Deutschen Islam Konferenz zur Förderung des interreligiösen Dialogs durchgeführt an 10 Standorten",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 3200003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ayten Kılıçarslan",
+"funktion": "Geschäftsführende Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007402/82940",
+"stand": "2026-07-16"
+}
+},
+{
+"name": "Halide Özkurt",
+"funktion": "Stellv. Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007402/82940",
+"stand": "2026-07-16"
+}
+},
+{
+"name": "Hatice Koçak",
+"funktion": "Stellv. Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007402/82940",
+"stand": "2026-07-16"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/b2/f9/814872/Bilanz-2025-SmF-BV__.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007402/82940",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-16",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

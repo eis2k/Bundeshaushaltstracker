@@ -1,0 +1,149 @@
+{
+"id": "agfk-deutschland",
+"name": "AGFK Deutschland",
+"art": "verein_stiftung",
+"rechtsform": "Netzwerk, Plattform oder andere Form kollektiver Tätigkeit",
+"sitz": "Krefeld",
+"website": "www.agfk-deutschland.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007817",
+"eintrag_id": 78514,
+"version": 5,
+"stand": "2026-08-04",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007817/78514",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/44/4e/825936/Lobbyregister-Registereintraege-Detailansicht-R007817-2026-08-04_15-30-43.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Logistik und Mobilität",
+"epl": "12",
+"von": 80001,
+"bis": 90000,
+"zweck": "Förderprogramm im Auftrag des Bundesministerium für Verkehr: \"Nichtinvestive Fördermittel zur Umsetzung des Nationalen Radverkehrsplan vom 7. September 2022\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 80001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christine Fuchs",
+"funktion": "Sprecherin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007817/78514",
+"stand": "2026-08-04"
+}
+},
+{
+"name": "Frank Kutzner",
+"funktion": "1.stellvertretender Sprecher",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007817/78514",
+"stand": "2026-08-04"
+}
+},
+{
+"name": "Anna Hussinger",
+"funktion": "2. stellvertretende Sprecherin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007817/78514",
+"stand": "2026-08-04"
+}
+},
+{
+"name": "Benjamin Wührl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007817/78514",
+"stand": "2026-08-04"
+}
+},
+{
+"name": "Tobias Thrun",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-09"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007817/78514",
+"stand": "2026-08-04"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Tobias Thrun",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-09",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Tobias Thrun ist laut Lobbyregister Interessenvertretung bei AGFK Deutschland und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-09. AGFK Deutschland erhielt laut Lobbyregister Mittel von: Bundesamt für Logistik und Mobilität.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesamt für Logistik und Mobilität"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007817/78514",
+"stand": "2026-08-04"
+}
+],
+"stand": "2026-08-04"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 20001,
+"bis": 30000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": null
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007817/78514",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-04",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

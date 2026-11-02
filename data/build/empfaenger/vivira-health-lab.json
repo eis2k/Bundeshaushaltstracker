@@ -1,0 +1,95 @@
+{
+"id": "vivira-health-lab",
+"name": "Vivira Health Lab",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "www.vivira.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007197",
+"eintrag_id": 82751,
+"version": 3,
+"stand": "2026-09-17",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007197/82751",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/0f/df/842906/Lobbyregister-Registereintraege-Detailansicht-R007197-2026-09-17_11-50-24.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "GBA Dekode Forschungsprojekt",
+"epl": null,
+"von": 90001,
+"bis": 100000,
+"zweck": "Im Projekt DEKODE wird offiziell erforscht, wie stark Faktoren wie Bedienfreundlichkeit, Vertrauen und ärztliche Aufklärung die Therapietreue (Adhärenz) von Patienten bei der Nutzung digitaler Gesundheitsanwendungen beeinflussen. Ziel ist es, politische Handlungsempfehlungen zu geben und digitale Therapien wirksamer zu machen. Das Konsortium führt im Rahmen des Projekts folgende offizielle Kernaktivitäten durch: 1. Datenbasierte Ursachenforschung (Evidenzgenerierung) 2. Entwicklung des „Adhärenz-Toolkits“ 3. Formulierung politischer Handlungsempfehlungen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 90001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Philip Heimann",
+"funktion": "Gründer und Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007197/82751",
+"stand": "2026-09-17"
+}
+},
+{
+"name": "Benning Leo",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007197/82751",
+"stand": "2026-09-17"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/76/40/842905/Prufungsbericht-Vivira-Health-Lab-GmbH-2025-de.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007197/82751",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-17",
+"etikett": "Eigenangabe",
+"version": 3
+}
+]
+}

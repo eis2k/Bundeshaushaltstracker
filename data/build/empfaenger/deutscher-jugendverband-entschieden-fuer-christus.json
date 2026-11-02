@@ -1,0 +1,131 @@
+{
+"id": "deutscher-jugendverband-entschieden-fuer-christus",
+"name": "Deutscher Jugendverband \"Entschieden für Christus\" (EC) e.V. ",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Kassel",
+"website": "www.ec.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004923",
+"eintrag_id": 77488,
+"version": 8,
+"stand": "2026-06-18",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004923/77488",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/1b/55/763637/Lobbyregister-Registereintraege-Detailansicht-R004923-2026-06-18_12-50-25.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 420001,
+"bis": 430000,
+"zweck": "Mittel aus dem Kinder- und Jugendplan des Bundes (KJP)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 420001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Julian Schröder",
+"funktion": "Stv. Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004923/77488",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Klaus Göttler",
+"funktion": "Generalsekretär",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004923/77488",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Simon Schuh",
+"funktion": "Bundesgeschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004923/77488",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Ulrich Mang",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004923/77488",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Christian Petersen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004923/77488",
+"stand": "2026-06-18"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 2340001,
+"bis": 2350000
+},
+"mitgliedsbeitraege": {
+"von": 100001,
+"bis": 110000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/b7/8d/763636/Abschluss-Bescheinigung-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004923/77488",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-18",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

@@ -1,0 +1,203 @@
+{
+"id": "naturfreundejugend-deutschlands",
+"name": "Naturfreundejugend Deutschlands",
+"art": "verein_stiftung",
+"rechtsform": "Netzwerk, Plattform oder andere Form kollektiver Tätigkeit",
+"sitz": "Berlin",
+"website": "www.naturfreundejugend.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001568",
+"eintrag_id": 61294,
+"version": 7,
+"stand": "2025-07-31",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001568/61294",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/50/0c/595506/Lobbyregister-Registereintraege-Detailansicht-R001568-2025-07-31_23-38-42.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend (BMFSFJ)",
+"epl": "17",
+"von": 500001,
+"bis": 510000,
+"zweck": "Kinder- und Jugendplan des Bundes (KJP)",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+"epl": "16",
+"von": 1250001,
+"bis": 1260000,
+"zweck": "Bundeszuwendung Verbändeförderungen und Projektarbeit (inkl. UBA und BfN)",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Deutsch-Französisches Jugendwerk (DFJW)",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "Förderung des deutsch-französischen Jugendaustausches; Erstellung von Bildungsmaterialien",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Koordinierungszentrum Deutsch-Israelischer Jugendaustausch (ConAct)",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "Deutsch-Israelischer Jugendaustausch",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Koordinierungszentrum Deutsch - Tschechischer Jugendaustausch (Tandem)",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Deutsch-Tschechischer Jugendaustausch",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 60001,
+"bis": 70000,
+"zweck": "Projektförderung im Bereich der Nationalen Klimaschutzinitiative",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundeszentrale für Politische Bildung",
+"epl": "06",
+"von": 180001,
+"bis": 190000,
+"zweck": "Projektförderung im Bereich Demokratiebildung",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 2040007,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Wendelin Haag",
+"funktion": "Politischer Bundesgeschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001568/61294",
+"stand": "2025-07-31"
+}
+},
+{
+"name": "Frank Hoppe",
+"funktion": "Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001568/61294",
+"stand": "2025-07-31"
+}
+},
+{
+"name": "Tim Flinspach",
+"funktion": "Mitglied des Bundesvorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001568/61294",
+"stand": "2025-07-31"
+}
+},
+{
+"name": "Kilian Harras",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001568/61294",
+"stand": "2025-07-31"
+}
+},
+{
+"name": "Ole Pellmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001568/61294",
+"stand": "2025-07-31"
+}
+},
+{
+"name": "Sine Rehmer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001568/61294",
+"stand": "2025-07-31"
+}
+},
+{
+"name": "Lukas Leon Lindemann-Bülow",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001568/61294",
+"stand": "2025-07-31"
+}
+},
+{
+"name": "Lukas Nicolaisen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001568/61294",
+"stand": "2025-07-31"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 60001,
+"bis": 70000
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": null
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001568/61294",
+"abgerufen": "2026-11-02",
+"stand": "2025-07-31",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

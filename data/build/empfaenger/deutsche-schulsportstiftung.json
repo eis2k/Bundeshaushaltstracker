@@ -1,0 +1,129 @@
+{
+"id": "deutsche-schulsportstiftung",
+"name": "Deutsche Schulsportstiftung",
+"art": "verein_stiftung",
+"rechtsform": "Rechtsfähige Stiftung bürgerlichen Rechts",
+"sitz": "Berlin",
+"website": "www.deutscheschulsportstiftung.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007770",
+"eintrag_id": 80873,
+"version": 5,
+"stand": "2026-06-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007770/80873",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/e6/87/781677/Lobbyregister-Registereintraege-Detailansicht-R007770-2026-06-29_09-41-16.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bund",
+"epl": "60",
+"von": 1490001,
+"bis": 1500000,
+"zweck": "Zuwendung des Bundes für die Durchführung der Bundesfinals von Jugend trainiert für Olympia & Paralympics",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1490001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Martin Schönwandt",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007770/80873",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Friederike Sowislo",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007770/80873",
+"stand": "2026-06-29"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "abgeordneter_funktion",
+"person": "Jasmina Hostert",
+"funktion_person": "MdB, SPD",
+"funktion_beim_empfaenger": "Mitglied der Stiftungsversammlung",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Jasmina Hostert (MdB, SPD) ist laut bundestag.de Mitglied der Stiftungsversammlung bei Deutsche Schulsportstiftung. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Bildung, Familie, Senioren, Frauen und Jugend; Ausschuss für die Angelegenheiten der Europäischen Union; Innenausschuss. Deutsche Schulsportstiftung erhielt laut Lobbyregister Mittel von: Bund.",
+"ausschuesse": [
+"Ausschuss für Bildung, Familie, Senioren, Frauen und Jugend",
+"Ausschuss für die Angelegenheiten der Europäischen Union",
+"Innenausschuss"
+],
+"geld_aus": [
+"Bund"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/H/hostert_jasmina-1045108",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/bc/9f/781676/PDF-Dokument-44456-Jahresabschluss-2024_V2_28-04-2025-28-04-2025-08-Uhr-57-Min.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007770/80873",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-29",
+"etikett": "Eigenangabe",
+"version": 5
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/H/hostert_jasmina-1045108",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

@@ -1,0 +1,554 @@
+{
+"id": "brot-fuer-die-welt-evangelisches-werk-fuer-diakonie-und-entw",
+"name": "Brot für die Welt, Evangelisches Werk für Diakonie und Entwicklung e.V. ",
+"art": "kirche_wohlfahrt",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.brot-fuer-die-welt.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001414",
+"eintrag_id": 87716,
+"version": 57,
+"stand": "2026-10-19",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001414/87716",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c1/90/862933/Lobbyregister-Registereintraege-Detailansicht-R001414-2026-10-19_08-37-39.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Auswärtiges  Amt",
+"epl": "05",
+"von": 590001,
+"bis": 600000,
+"zweck": "Zuwendung aus dem Sonderprogramm des AA Referat 604 - Stipendien für Studierende aus Ost- und Südosteuropa sowie aus Entwicklungsländern und Begleitmaßnahmen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium des Inneren",
+"epl": null,
+"von": 1380001,
+"bis": 1390000,
+"zweck": "Zuwendung des BMI aus Kapitel 0603 Titel 68432 Hilfen für die deutsche Minderheit in Rumänien",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung /Engagement Global Service für Entwicklungsinitiativen",
+"epl": "23",
+"von": 9860001,
+"bis": 9870000,
+"zweck": "Zuwendung des BMZ aus dem HH-Titel 687-72-023 / 896 32-023 für das Programm Ziviler Friedensdienst",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung /Engagement Global Service für Entwicklungsinitiativen",
+"epl": "23",
+"von": 6510001,
+"bis": 6520000,
+"zweck": "Zuwendungen des BMZ aus dem Einzelplan 23 des Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung/Titel 687 74 023 \"Entwicklungspolitischer Austausch und Freiwilligendienst\" (mittelbar zugeflossen über Evang. Zentralstelle für Entwicklungshilfe e.V., EZE)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 152280001,
+"bis": 152290000,
+"zweck": "Zuwendungen aus dem Haushaltstitel 89604 des BMZ Förderung entwicklungswichtiger Vorhaben der Kirchen (mittelbar zugeflossen über Evang. Zentralstelle für Entwicklungshilfe e.V., EZE)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 5860001,
+"bis": 5870000,
+"zweck": "Zuwendungen aus den Sonderinitiativtiteln (89631, 89632, 89633, 68701) des BMZ (mittelbar zugeflossen über Evang. Zentralstelle für Entwicklungshilfe e.V., EZE)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Ernährung und Landwirtschaft",
+"epl": "10",
+"von": 260001,
+"bis": 270000,
+"zweck": "Zuwendung des Bundesministeriums für Ernährung und Landwirtschaft aus dem Titel 68702",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz//Internationale Klimaschutzinitiative",
+"epl": "09",
+"von": 250001,
+"bis": 260000,
+"zweck": "Zuwendung aus Titel 89641 für Jugend für den Klimaschutz in El Salvador",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz//Internationale Klimaschutzinitiative",
+"epl": "09",
+"von": 130001,
+"bis": 140000,
+"zweck": "Zuwendung aus Kapitel 0903 Titel 896 41 Projekt zur Förderung inklusiver Klimaresilienz in Fidschi und gesamtgesellschaftlichen Ansatzes für wirksame Klimaanpassungsmaßnahmen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 177120009,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Dagmar Pruin",
+"funktion": "Präsidentin Brot für die Welt und Diakonie Katastrophenhilfe",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001414/87716",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Jörg Kruttschnitt",
+"funktion": "Vorstand Finanzen, Personal und Recht",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001414/87716",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Rüdiger Schuch",
+"funktion": "Präsident Diakonie Deutschland",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001414/87716",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Andreas Grünewald",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-09"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001414/87716",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Mareike Haase",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001414/87716",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Johannes Icking",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001414/87716",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Francisco  Marí Lopez",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001414/87716",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Silke Pfeiffer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001414/87716",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Stig Tanzmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001414/87716",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Sabine Minninger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001414/87716",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Julia Stoffner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Expertin für Kommunikation und Key Account Managerin",
+"stelle": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+"beendet": true,
+"ende": "2021-06"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001414/87716",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Ingrid Jacobsen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001414/87716",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Jörn Grävingholt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "wissenschaftlicher Mitarbeiter",
+"stelle": "Deutsches Institut für Entwicklung und Nachhaltigkeit (IDOS)",
+"beendet": true,
+"ende": "2023-05"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001414/87716",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Anja Esch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001414/87716",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Farina Hoffmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001414/87716",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Nicola Wiebe",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001414/87716",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Christine Meissler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001414/87716",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Thilo Hoppe",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001414/87716",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Till Bender",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Referent für internationale Politik im Zentrum für Internationalen Dialog und Zusammenarbeit",
+"stelle": "Rosa-Luxemburg-Stiftung - Gesellschaftsanalyse und Politische Bildung e. V. (RLS)",
+"beendet": true,
+"ende": "2024-12"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001414/87716",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Stier Kristina",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001414/87716",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Amelie Overmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2023-12"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001414/87716",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Caroline Kruckow",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001414/87716",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Kathrin Strobel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001414/87716",
+"stand": "2026-10-19"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Andreas Grünewald",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-09",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Andreas Grünewald ist laut Lobbyregister Interessenvertretung bei Brot für die Welt, Evangelisches Werk für Diakonie und Entwicklung e.V.  und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-09. Brot für die Welt, Evangelisches Werk für Diakonie und Entwicklung e.V.  erhielt laut Lobbyregister Mittel von: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung; Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung /Engagement Global Service für Entwicklungsinitiativen; Bundesministerium des Inneren; Auswärtiges  Amt; Bundesministerium für Ernährung und Landwirtschaft; Bundesministerium für Wirtschaft und Klimaschutz//Internationale Klimaschutzinitiative.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung /Engagement Global Service für Entwicklungsinitiativen",
+"Bundesministerium des Inneren",
+"Auswärtiges  Amt",
+"Bundesministerium für Ernährung und Landwirtschaft",
+"Bundesministerium für Wirtschaft und Klimaschutz//Internationale Klimaschutzinitiative"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001414/87716",
+"stand": "2026-10-19"
+}
+],
+"stand": "2026-10-19"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Julia Stoffner",
+"funktion_person": "Expertin für Kommunikation und Key Account Managerin, Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH, bis 2021-06",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Julia Stoffner ist laut Lobbyregister Interessenvertretung bei Brot für die Welt, Evangelisches Werk für Diakonie und Entwicklung e.V.  und hatte zuvor eine öffentliche Funktion: Expertin für Kommunikation und Key Account Managerin, Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH, bis 2021-06. Brot für die Welt, Evangelisches Werk für Diakonie und Entwicklung e.V.  erhielt laut Lobbyregister Mittel von: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung; Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung /Engagement Global Service für Entwicklungsinitiativen; Bundesministerium des Inneren; Auswärtiges  Amt; Bundesministerium für Ernährung und Landwirtschaft; Bundesministerium für Wirtschaft und Klimaschutz//Internationale Klimaschutzinitiative.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung /Engagement Global Service für Entwicklungsinitiativen",
+"Bundesministerium des Inneren",
+"Auswärtiges  Amt",
+"Bundesministerium für Ernährung und Landwirtschaft",
+"Bundesministerium für Wirtschaft und Klimaschutz//Internationale Klimaschutzinitiative"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001414/87716",
+"stand": "2026-10-19"
+}
+],
+"stand": "2026-10-19"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Jörn Grävingholt",
+"funktion_person": "wissenschaftlicher Mitarbeiter, Deutsches Institut für Entwicklung und Nachhaltigkeit (IDOS), bis 2023-05",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Jörn Grävingholt ist laut Lobbyregister Interessenvertretung bei Brot für die Welt, Evangelisches Werk für Diakonie und Entwicklung e.V.  und hatte zuvor eine öffentliche Funktion: wissenschaftlicher Mitarbeiter, Deutsches Institut für Entwicklung und Nachhaltigkeit (IDOS), bis 2023-05. Brot für die Welt, Evangelisches Werk für Diakonie und Entwicklung e.V.  erhielt laut Lobbyregister Mittel von: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung; Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung /Engagement Global Service für Entwicklungsinitiativen; Bundesministerium des Inneren; Auswärtiges  Amt; Bundesministerium für Ernährung und Landwirtschaft; Bundesministerium für Wirtschaft und Klimaschutz//Internationale Klimaschutzinitiative.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung /Engagement Global Service für Entwicklungsinitiativen",
+"Bundesministerium des Inneren",
+"Auswärtiges  Amt",
+"Bundesministerium für Ernährung und Landwirtschaft",
+"Bundesministerium für Wirtschaft und Klimaschutz//Internationale Klimaschutzinitiative"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001414/87716",
+"stand": "2026-10-19"
+}
+],
+"stand": "2026-10-19"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Till Bender",
+"funktion_person": "Referent für internationale Politik im Zentrum für Internationalen Dialog und Zusammenarbeit, Rosa-Luxemburg-Stiftung - Gesellschaftsanalyse und Politische Bildung e. V. (RLS), bis 2024-12",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Till Bender ist laut Lobbyregister Interessenvertretung bei Brot für die Welt, Evangelisches Werk für Diakonie und Entwicklung e.V.  und hatte zuvor eine öffentliche Funktion: Referent für internationale Politik im Zentrum für Internationalen Dialog und Zusammenarbeit, Rosa-Luxemburg-Stiftung - Gesellschaftsanalyse und Politische Bildung e. V. (RLS), bis 2024-12. Brot für die Welt, Evangelisches Werk für Diakonie und Entwicklung e.V.  erhielt laut Lobbyregister Mittel von: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung; Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung /Engagement Global Service für Entwicklungsinitiativen; Bundesministerium des Inneren; Auswärtiges  Amt; Bundesministerium für Ernährung und Landwirtschaft; Bundesministerium für Wirtschaft und Klimaschutz//Internationale Klimaschutzinitiative.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung /Engagement Global Service für Entwicklungsinitiativen",
+"Bundesministerium des Inneren",
+"Auswärtiges  Amt",
+"Bundesministerium für Ernährung und Landwirtschaft",
+"Bundesministerium für Wirtschaft und Klimaschutz//Internationale Klimaschutzinitiative"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001414/87716",
+"stand": "2026-10-19"
+}
+],
+"stand": "2026-10-19"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Amelie Overmann",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-12",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Amelie Overmann ist laut Lobbyregister Interessenvertretung bei Brot für die Welt, Evangelisches Werk für Diakonie und Entwicklung e.V.  und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-12. Brot für die Welt, Evangelisches Werk für Diakonie und Entwicklung e.V.  erhielt laut Lobbyregister Mittel von: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung; Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung /Engagement Global Service für Entwicklungsinitiativen; Bundesministerium des Inneren; Auswärtiges  Amt; Bundesministerium für Ernährung und Landwirtschaft; Bundesministerium für Wirtschaft und Klimaschutz//Internationale Klimaschutzinitiative.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung /Engagement Global Service für Entwicklungsinitiativen",
+"Bundesministerium des Inneren",
+"Auswärtiges  Amt",
+"Bundesministerium für Ernährung und Landwirtschaft",
+"Bundesministerium für Wirtschaft und Klimaschutz//Internationale Klimaschutzinitiative"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001414/87716",
+"stand": "2026-10-19"
+}
+],
+"stand": "2026-10-19"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Sonstiges",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 72580001,
+"bis": 72590000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 430001,
+"bis": 440000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ee/db/862930/BfdW_Jahresbericht_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001414/87716",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-19",
+"etikett": "Eigenangabe",
+"version": 57
+}
+]
+}

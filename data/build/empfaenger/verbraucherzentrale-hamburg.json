@@ -1,0 +1,97 @@
+{
+"id": "verbraucherzentrale-hamburg",
+"name": "Verbraucherzentrale Hamburg e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Hamburg",
+"website": "www.vzhh.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002777",
+"eintrag_id": 60708,
+"version": 11,
+"stand": "2026-06-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002777/60708",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/73/65/781975/Lobbyregister-Registereintraege-Detailansicht-R002777-2026-06-29_10-24-43.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bund",
+"epl": "60",
+"von": 700001,
+"bis": 710000,
+"zweck": "Zuwendung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 700001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Michael Knobloch",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002777/60708",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Jochen Sunken",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002777/60708",
+"stand": "2026-06-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/a8/33/781974/jahresbericht_vzhh_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002777/60708",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-29",
+"etikett": "Eigenangabe",
+"version": 11
+}
+]
+}

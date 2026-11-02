@@ -1,0 +1,84 @@
+{
+"id": "endo-health",
+"name": "Endo Health GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Chemnitz",
+"website": "www.endometriose.app",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007337",
+"eintrag_id": 76455,
+"version": 2,
+"stand": "2026-07-22",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007337/76455",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/cd/3a/817817/Lobbyregister-Registereintraege-Detailansicht-R007337-2026-07-22_10-12-03.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesrepublik Deutschland",
+"epl": "60",
+"von": 530001,
+"bis": 540000,
+"zweck": "Festgesetzte Forschungszulage nach dem Forschungszulagengesetz (FZulG) für die Wirtschaftsjahre 2022, 2023 und 2024 zur Förderung von Forschung und Entwicklung.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 530001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Nadine Rohloff",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007337/76455",
+"stand": "2026-07-22"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/8d/0f/817816/Jahresabschluss-2025_Endo-Health_final.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007337/76455",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-22",
+"etikett": "Eigenangabe",
+"version": 2
+}
+]
+}

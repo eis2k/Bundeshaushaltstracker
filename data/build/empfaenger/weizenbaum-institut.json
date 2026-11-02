@@ -1,0 +1,156 @@
+{
+"id": "weizenbaum-institut",
+"name": "Weizenbaum-Institut e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://www.weizenbaum-institut.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003857",
+"eintrag_id": 83358,
+"version": 13,
+"stand": "2026-08-04",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003857/83358",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/b7/5d/825666/Lobbyregister-Registereintraege-Detailansicht-R003857-2026-08-04_11-55-54.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 7250001,
+"bis": 7260000,
+"zweck": "Förderung, Aufbau und Etablierung des Weizenbaum-Instituts (Verbundprojekt: Weizenbaum-Institut für die vernetzte Gesellschaft - Teilvorhaben: Weizenbaum-Institut e.V.)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 7250001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christoph Neuberger",
+"funktion": "geschäftsführender Direktor",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003857/83358",
+"stand": "2026-08-04"
+}
+},
+{
+"name": "Ricarda Opitz",
+"funktion": "Administrative Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003857/83358",
+"stand": "2026-08-04"
+}
+},
+{
+"name": "Johanna Hampf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003857/83358",
+"stand": "2026-08-04"
+}
+},
+{
+"name": "Charlotte Mysegades",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Rechtsreferendarin im Staats- und Verwaltungsrecht (Abteilung 505)",
+"stelle": "Auswärtiges Amt (AA) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2022-05"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003857/83358",
+"stand": "2026-08-04"
+}
+},
+{
+"name": "Sina Born",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003857/83358",
+"stand": "2026-08-04"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Charlotte Mysegades",
+"funktion_person": "Rechtsreferendarin im Staats- und Verwaltungsrecht (Abteilung 505), Auswärtiges Amt (AA) oder dessen Geschäftsbereich, bis 2022-05",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Charlotte Mysegades ist laut Lobbyregister Interessenvertretung bei Weizenbaum-Institut e.V. und hatte zuvor eine öffentliche Funktion: Rechtsreferendarin im Staats- und Verwaltungsrecht (Abteilung 505), Auswärtiges Amt (AA) oder dessen Geschäftsbereich, bis 2022-05. Weizenbaum-Institut e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Bildung und Forschung.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Bildung und Forschung"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003857/83358",
+"stand": "2026-08-04"
+}
+],
+"stand": "2026-08-04"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 110001,
+"bis": 120000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/21/12/825665/Testat_Weizenbaum-Institut_JAP2025_Sig.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003857/83358",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-04",
+"etikett": "Eigenangabe",
+"version": 13
+}
+]
+}

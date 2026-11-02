@@ -1,0 +1,167 @@
+{
+"id": "iav-gmbh-ingenieurgesellschaft-auto-und-verkehr",
+"name": "IAV GmbH Ingenieurgesellschaft Auto und Verkehr",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "https://www.iav.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006124",
+"eintrag_id": 78173,
+"version": 10,
+"stand": "2026-06-19",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006124/78173",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/9d/84/765511/Lobbyregister-Registereintraege-Detailansicht-R006124-2026-06-19_12-55-46.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "TÜV Rheinland",
+"epl": null,
+"von": 30001,
+"bis": 40000,
+"zweck": "Automated Train",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "VDI/VDE Innovation+Technik",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "DI-SIGN-HEP",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "TÜV Rheinland",
+"epl": null,
+"von": 140001,
+"bis": 150000,
+"zweck": "GAIA-X 4 AGEDA",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "DLR Dt. Luft- und Raumfahrt",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "AutoQML",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "VDI/VDE Innovation+Technik",
+"epl": null,
+"von": 40001,
+"bis": 50000,
+"zweck": "HEP",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "TÜV Rheinland",
+"epl": null,
+"von": 50001,
+"bis": 60000,
+"zweck": "SIC-Mobil",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "TÜV Rheinland",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "KoFeMo",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 320007,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Frauke Esser",
+"funktion": "CFO und Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006124/78173",
+"stand": "2026-06-19"
+}
+},
+{
+"name": "Jörg Astalosch",
+"funktion": "CEO und Vorsitzender der Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006124/78173",
+"stand": "2026-06-19"
+}
+},
+{
+"name": "Jens Nikolaus Pfitzinger",
+"funktion": "CHRO und Arbeitsdirektor",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006124/78173",
+"stand": "2026-06-19"
+}
+},
+{
+"name": "Eric Voss",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006124/78173",
+"stand": "2026-06-19"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/95/82/765510/IAV-GmbH-Finaler-Bericht-JAP-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006124/78173",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-19",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

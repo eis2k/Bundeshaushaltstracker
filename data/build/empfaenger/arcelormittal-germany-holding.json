@@ -1,0 +1,122 @@
+{
+"id": "arcelormittal-germany-holding",
+"name": "ArcelorMittal Germany Holding GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Hamburg",
+"website": "https://germany.arcelormittal.com/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005175",
+"eintrag_id": 75990,
+"version": 8,
+"stand": "2026-06-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005175/75990",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/7b/28/784721/Lobbyregister-Registereintraege-Detailansicht-R005175-2026-06-29_15-05-16.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 5010001,
+"bis": 5020000,
+"zweck": "1) Hamburg: Industrielle Abwärmenutzung zur Lieferung von außerbetrieblichen Fernwärme 2) Bremen: Austausch des vorhandenen Verdichters für den HO2 gegen einen hocheffizienten Verdichter 3) Bremen: Installation einer Thermobox im Brammenlager zur Reduzierung von Wärmenverlusten 4) Bremen: CONLED - LED Beleuchtung 5) Bremen: Installation einer Mess- und Probennahmestation hinter KV1 6) Bremen: Installation einer Mess- und Probennahmestation hinter KV2 7) Bremen: Automatisierung und Optimierung der Prozesse Gießbühne der Stranggußanlage",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesagentur für Arbeit (Bremen/Niedersachsen)",
+"epl": "11",
+"von": 510001,
+"bis": 520000,
+"zweck": "Förderung beschäftigter Arbeitnehmerinnen und Arbeitnehmer, ohne oder fachfremden Berufsabschluss. Ziel ist der Abschluss eines Berufsabschluss",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Land Brandenburg: Ministerium für Wirtschaft, Energie, Klimaschutz und Europa (MWEKE) und Ministerium für Wissenschaft, Forschung und Kultur (MWFK)",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "Förderung von Weiterbildungsmaßnahmen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 5540003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "André Körner",
+"funktion": "Geschäftsführer ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005175/75990",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Rainer Böse",
+"funktion": "Geschäftsführer ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005175/75990",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Matthias Günther",
+"funktion": "Geschäftsführer ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005175/75990",
+"stand": "2026-06-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 730001,
+"bis": 740000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/1d/5e/784720/2023-Jahresabschluss-ArcelorMittal-Germany-Holding-GmbH_JAP_31-12-23.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005175/75990",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-29",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

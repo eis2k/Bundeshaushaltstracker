@@ -1,0 +1,147 @@
+{
+"id": "ksb-se-und-co",
+"name": "KSB SE & Co. KGaA",
+"art": "unternehmen",
+"rechtsform": "Kommanditgesellschaft auf Aktien (KGaA)",
+"sitz": "Frankenthal",
+"website": "www.ksb.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002014",
+"eintrag_id": 79397,
+"version": 10,
+"stand": "2026-07-22",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002014/79397",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/34/b6/817838/Lobbyregister-Registereintraege-Detailansicht-R002014-2026-07-22_10-31-29.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 1960001,
+"bis": 1970000,
+"zweck": "Im Rahmen des 7. Energieforschungsprogramms der Bundesregierung finanziert das Bundesministerium für Wirtschaft anteilig Forschungs- und Entwicklungsprojekte der KSB SE & Co. KGaA für Pumpensysteme bestehend aus Pumpen, ihren elektrischen Antrieben und ihren elektronischen Regelungssystemen. Anwendungszielgebiete dieser F+E-Vorhaben sind Pumpenanwendungen für die Energieerzeugung, für die Energiespeicherung, für den Energietransport und den Energie-Endverbrauch in der Kraftwerkstechnik, der Wasserversorgung und Abwasserbehandlung, der chemischen und der verfahrenstechnischen Industrie sowie in Gebäudeanwendungen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 670001,
+"bis": 680000,
+"zweck": "Im Rahmen seiner Programme für Ressourceneffizienz, für Digitalisierung und IT-Sicherheit sowie für Grundlagenentwicklungen (Strömungsmechanik, Materialwissenschaft etc.) finanziert das Bundesministerium für Bildung und Forschung anteilig Forschungs- und Entwicklungsprojekte der KSB SE & Co. KGaA für Pumpensysteme bestehend aus Pumpen, ihren elektrischen Antrieben und ihren elektronischen Regelungssystemen. Anwendungszielgebiete dieser F+E-Vorhaben sind Pumpenanwendungen für die Energieerzeugung, für die Energiespeicherung, für den Energietransport und den Energie-Endverbrauch in der Kraftwerkstechnik, der Wasserversorgung und Abwasserbehandlung, der chemischen und der verfahrenstechnischen Industrie sowie in Gebäudeanwendungen.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 2630002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Stephan-Jörg Timmermann",
+"funktion": "Sprecher der Geschäftsleitung (CEO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002014/79397",
+"stand": "2026-07-22"
+}
+},
+{
+"name": "Stephan Bross",
+"funktion": "Mitglied der Geschäftsleitung (CTO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002014/79397",
+"stand": "2026-07-22"
+}
+},
+{
+"name": "Matthias Schmitz",
+"funktion": "Mitglied der Geschäftsleitung (CFO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002014/79397",
+"stand": "2026-07-22"
+}
+},
+{
+"name": "Ralf Kannefass",
+"funktion": "Mitglied der Geschäftsleitung (CSO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002014/79397",
+"stand": "2026-07-22"
+}
+},
+{
+"name": "Michael Könen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002014/79397",
+"stand": "2026-07-22"
+}
+},
+{
+"name": "Christopher Lange",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002014/79397",
+"stand": "2026-07-22"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 190001,
+"bis": 200000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/30/25/817836/ksb-gb25-jahresabschluss-de.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002014/79397",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-22",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

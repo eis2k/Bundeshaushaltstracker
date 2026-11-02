@@ -1,0 +1,152 @@
+{
+"id": "bundesverband-kommunale-filmarbeit",
+"name": "Bundesverband kommunale Filmarbeit e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Frankfurt am Main",
+"website": "www.kommunale-kinos.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006465",
+"eintrag_id": 73661,
+"version": 7,
+"stand": "2026-03-12",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006465/73661",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/93/61/704997/Lobbyregister-Registereintraege-Detailansicht-R006465-2026-03-12_10-07-05.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BKM",
+"epl": "04",
+"von": 10001,
+"bis": 20000,
+"zweck": "Projektbezogene Zuschüsse: 10.000 € Bundeskongress 2025 10.000 € Projekt Kinema Kommunal",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 10001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Neriman Bayram",
+"funktion": "stellv. Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006465/73661",
+"stand": "2026-03-12"
+}
+},
+{
+"name": "Fabian Liebenow",
+"funktion": "Kassierer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006465/73661",
+"stand": "2026-03-12"
+}
+},
+{
+"name": "Andreas Heidenreich",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006465/73661",
+"stand": "2026-03-12"
+}
+},
+{
+"name": "Christiane Schleindl",
+"funktion": "stellv. Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006465/73661",
+"stand": "2026-03-12"
+}
+},
+{
+"name": "Janis Kuhnert",
+"funktion": "stellv. Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006465/73661",
+"stand": "2026-03-12"
+}
+},
+{
+"name": "Johannes Litschel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006465/73661",
+"stand": "2026-03-12"
+}
+},
+{
+"name": "Frieder Brehm",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006465/73661",
+"stand": "2026-03-12"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 40001,
+"bis": 50000
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/3e/70/704996/Jahresabschluss-2025-Lobbyregister.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006465/73661",
+"abgerufen": "2026-11-02",
+"stand": "2026-03-12",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

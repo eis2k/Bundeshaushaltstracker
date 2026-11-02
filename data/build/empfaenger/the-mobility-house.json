@@ -1,0 +1,146 @@
+{
+"id": "the-mobility-house",
+"name": "The Mobility House",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "München",
+"website": "https://www.mobilityhouse.com/de_de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004883",
+"eintrag_id": 70359,
+"version": 4,
+"stand": "2026-01-05",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004883/70359",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/77/6f/677794/Lobbyregister-Registereintraege-Detailansicht-R004883-2026-01-05_14-26-19.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 230001,
+"bis": 240000,
+"zweck": "Fördermittel im Rahmen des Verbundprojekts: unIT-e2 - Reallabor für verNETZte E-Mobilität (https://unit-e2.de)",
+"geschaeftsjahr": "2023"
+}
+],
+"lobby_untergrenze_bund": 230001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Marcus Fendt",
+"funktion": "Geschäftsführer / CSO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004883/70359",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Thomas Moskal",
+"funktion": "Manager Strategie & Regulatorik",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2020-04"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004883/70359",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Herbert Diess",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004883/70359",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Alexander Landia",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004883/70359",
+"stand": "2026-01-05"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Thomas Moskal",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2020-04",
+"funktion_beim_empfaenger": "Manager Strategie & Regulatorik",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Thomas Moskal ist laut Lobbyregister Manager Strategie & Regulatorik bei The Mobility House und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2020-04. The Mobility House erhielt laut Lobbyregister Mittel von: BMWK.",
+"ausschuesse": [],
+"geld_aus": [
+"BMWK"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004883/70359",
+"stand": "2026-01-05"
+}
+],
+"stand": "2026-01-05"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2023",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/cc/79/677717/TMH-M-Erstellungsbericht-inkl-Lagebericht_signed.pdf",
+"geschaeftsjahr": "2022",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004883/70359",
+"abgerufen": "2026-11-02",
+"stand": "2026-01-05",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

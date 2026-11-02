@@ -1,0 +1,119 @@
+{
+"id": "ecovin-bundesverband-oekologischer-weinbau",
+"name": "ECOVIN Bundesverband ökologischer Weinbau e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Oppenheim",
+"website": "www.ecovin.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000236",
+"eintrag_id": 77838,
+"version": 8,
+"stand": "2026-06-16",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000236/77838",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/43/80/760049/Lobbyregister-Registereintraege-Detailansicht-R000236-2026-06-16_11-30-48.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BLE",
+"epl": "10",
+"von": 70001,
+"bis": 80000,
+"zweck": "Messeförderung Projektförderung Wissenstransfer Projekte",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 70001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ralph Dejas",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000236/77838",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Paulin Köpfer",
+"funktion": "Beisitzer im Bundesvorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000236/77838",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Georg Forster",
+"funktion": "Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000236/77838",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Hanneke Schönhals",
+"funktion": "Mitglied des Bundesvorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000236/77838",
+"stand": "2026-06-16"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 90001,
+"bis": 100000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ea/c3/760048/Ecovin-Bundesverband_Bilanz_2025.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000236/77838",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-16",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

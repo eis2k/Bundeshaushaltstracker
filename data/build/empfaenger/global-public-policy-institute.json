@@ -1,0 +1,441 @@
+{
+"id": "global-public-policy-institute",
+"name": "Global Public Policy Institute e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://www.gppi.net/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003217",
+"eintrag_id": 67190,
+"version": 12,
+"stand": "2025-10-28",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003217/67190",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/d8/d8/633939/Lobbyregister-Registereintraege-Detailansicht-R003217-2025-10-28_09-27-41.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 470001,
+"bis": 480000,
+"zweck": "Zweckgebundene Zuwendungen für Forschungs- bzw. Dialogprojekte im öffentlichen Interesse",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundesministerium des Innern und für Heimat",
+"epl": "06",
+"von": 150001,
+"bis": 160000,
+"zweck": "Zweckgebundene Zuwendung von einem Forschungs- bzw. Dialogprojekt im öffentlichen Interesse",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 620002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jan Martin Witte",
+"funktion": "Stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003217/67190",
+"stand": "2025-10-28"
+}
+},
+{
+"name": "Thorsten Benner",
+"funktion": "Stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003217/67190",
+"stand": "2025-10-28"
+}
+},
+{
+"name": "Wolfgang Reinicke",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003217/67190",
+"stand": "2025-10-28"
+}
+},
+{
+"name": "Julia Steets",
+"funktion": "stellvertretende Vorsitzende/Schatzmeisterin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003217/67190",
+"stand": "2025-10-28"
+}
+},
+{
+"name": "Andrea Binder",
+"funktion": "stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003217/67190",
+"stand": "2025-10-28"
+}
+},
+{
+"name": "Claudia Meier",
+"funktion": "stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003217/67190",
+"stand": "2025-10-28"
+}
+},
+{
+"name": "Philipp Rotmann",
+"funktion": "stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003217/67190",
+"stand": "2025-10-28"
+}
+},
+{
+"name": "Wade  Hoxtell",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003217/67190",
+"stand": "2025-10-28"
+}
+},
+{
+"name": "Sarah Bressan",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003217/67190",
+"stand": "2025-10-28"
+}
+},
+{
+"name": "Julia Friedrich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003217/67190",
+"stand": "2025-10-28"
+}
+},
+{
+"name": "Alexander Gaus",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003217/67190",
+"stand": "2025-10-28"
+}
+},
+{
+"name": "Julian Lehmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003217/67190",
+"stand": "2025-10-28"
+}
+},
+{
+"name": "Melissa Li",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003217/67190",
+"stand": "2025-10-28"
+}
+},
+{
+"name": "Amanda Pridmore",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003217/67190",
+"stand": "2025-10-28"
+}
+},
+{
+"name": "Joel Sandhu",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003217/67190",
+"stand": "2025-10-28"
+}
+},
+{
+"name": "Tobias Schneider",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003217/67190",
+"stand": "2025-10-28"
+}
+},
+{
+"name": "Kristina Teicke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003217/67190",
+"stand": "2025-10-28"
+}
+},
+{
+"name": "Abigail Watson",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003217/67190",
+"stand": "2025-10-28"
+}
+},
+{
+"name": "Jakob Hensing",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003217/67190",
+"stand": "2025-10-28"
+}
+},
+{
+"name": "Nikolas Balbon",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003217/67190",
+"stand": "2025-10-28"
+}
+},
+{
+"name": "Gelila Enbaye",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003217/67190",
+"stand": "2025-10-28"
+}
+},
+{
+"name": "Zoë Johnson",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003217/67190",
+"stand": "2025-10-28"
+}
+},
+{
+"name": "Paul Flachenecker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003217/67190",
+"stand": "2025-10-28"
+}
+},
+{
+"name": "Andreas Heinemann-Grüder",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003217/67190",
+"stand": "2025-10-28"
+}
+},
+{
+"name": "Oliver Jung",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003217/67190",
+"stand": "2025-10-28"
+}
+},
+{
+"name": "Florian Klumpp",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003217/67190",
+"stand": "2025-10-28"
+}
+},
+{
+"name": "Karla Kröner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003217/67190",
+"stand": "2025-10-28"
+}
+},
+{
+"name": "Sofie Lilli Stoffel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Referentin",
+"stelle": "Bundesministerium der Verteidigung (BMVg) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2024-11"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003217/67190",
+"stand": "2025-10-28"
+}
+},
+{
+"name": "Zsófia  Ágota Heidrich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003217/67190",
+"stand": "2025-10-28"
+}
+},
+{
+"name": "Caroline Rübe",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003217/67190",
+"stand": "2025-10-28"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Sofie Lilli Stoffel",
+"funktion_person": "Referentin, Bundesministerium der Verteidigung (BMVg) oder dessen Geschäftsbereich, bis 2024-11",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Sofie Lilli Stoffel ist laut Lobbyregister Interessenvertretung bei Global Public Policy Institute e.V. und hatte zuvor eine öffentliche Funktion: Referentin, Bundesministerium der Verteidigung (BMVg) oder dessen Geschäftsbereich, bis 2024-11. Global Public Policy Institute e.V. erhielt laut Lobbyregister Mittel von: Auswärtiges Amt; Bundesministerium des Innern und für Heimat.",
+"ausschuesse": [],
+"geld_aus": [
+"Auswärtiges Amt",
+"Bundesministerium des Innern und für Heimat"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003217/67190",
+"stand": "2025-10-28"
+}
+],
+"stand": "2025-10-28"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 40001,
+"bis": 50000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/a3/1e/633938/JA-2023.pdf",
+"geschaeftsjahr": "2023",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003217/67190",
+"abgerufen": "2026-11-02",
+"stand": "2025-10-28",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

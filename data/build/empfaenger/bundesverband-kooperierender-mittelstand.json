@@ -1,0 +1,283 @@
+{
+"id": "bundesverband-kooperierender-mittelstand",
+"name": "Bundesverband Kooperierender Mittelstand e.V. (BKM)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.bkm-verband.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001283",
+"eintrag_id": 85681,
+"version": 48,
+"stand": "2026-09-10",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001283/85681",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/6e/09/840259/Lobbyregister-Registereintraege-Detailansicht-R001283-2026-09-10_09-36-26.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 120001,
+"bis": 130000,
+"zweck": "Das \"Mittelstand-Digital Zentrum Smarte Kreisläufe\" wird getragen vom Gesamtverband textil+mode, den Deutschen Instituten für Textil- und Faserforschung Denkendorf (DITF), dem Institut für Textiltechnik der RWTH Aachen University (ITA), dem Sächsischen Textilforschungsinstitut (STFI) und dem Bundesverband Kooperierender Mittelstand e.V. (BKM; vormals: DER MITTELSTANDSVERBUND - ZGV e.V.). Es unterstützt kleine und mittlere Unternehmen bei der Einführung zukunftsrelevanter digitaler Technologien. Der BKM ist dabei Schnittstelle zwischen den einzelnen Wertschöpfungsstufen und gleichzeitig Kommunikator in den mittelständischen Handels- und Dienstleistungssektor. Mit dem Netzwerk Mittelstand-Digital stellt das BMWE über den Projektträger DLR Fördermittel für die Digitalisierung in kleinen und mittleren Unternehmen bereit.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 120001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Günter Althaus",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001283/85681",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Julia Graeber",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001283/85681",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Stefan Müller",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001283/85681",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Andreas Trautwein",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001283/85681",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Henning Bergmann",
+"funktion": "Hauptgeschäftsführer; Vertreter nach § 30 BGB",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001283/85681",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Tim Geier",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001283/85681",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Jörg Glaser",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001283/85681",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Marc Zgaga",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001283/85681",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Marius Müller-Böge",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001283/85681",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Juliane Wehr-Ibold",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001283/85681",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Carsten Lier",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Praktikant",
+"stelle": "Auswärtiges Amt (AA) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2024-02"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001283/85681",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Michaela Steinhauser",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001283/85681",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Bastian Prinz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001283/85681",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Christian Noebel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Referent",
+"stelle": "Bundesministerium der Finanzen (BMF) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2025-12"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001283/85681",
+"stand": "2026-09-10"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Carsten Lier",
+"funktion_person": "Praktikant, Auswärtiges Amt (AA) oder dessen Geschäftsbereich, bis 2024-02",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Carsten Lier ist laut Lobbyregister Interessenvertretung bei Bundesverband Kooperierender Mittelstand e.V. (BKM) und hatte zuvor eine öffentliche Funktion: Praktikant, Auswärtiges Amt (AA) oder dessen Geschäftsbereich, bis 2024-02. Bundesverband Kooperierender Mittelstand e.V. (BKM) erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Energie (BMWE).",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Wirtschaft und Energie (BMWE)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001283/85681",
+"stand": "2026-09-10"
+}
+],
+"stand": "2026-09-10"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Christian Noebel",
+"funktion_person": "Referent, Bundesministerium der Finanzen (BMF) oder dessen Geschäftsbereich, bis 2025-12",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Christian Noebel ist laut Lobbyregister Interessenvertretung bei Bundesverband Kooperierender Mittelstand e.V. (BKM) und hatte zuvor eine öffentliche Funktion: Referent, Bundesministerium der Finanzen (BMF) oder dessen Geschäftsbereich, bis 2025-12. Bundesverband Kooperierender Mittelstand e.V. (BKM) erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Energie (BMWE).",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Wirtschaft und Energie (BMWE)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001283/85681",
+"stand": "2026-09-10"
+}
+],
+"stand": "2026-09-10"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1800001,
+"bis": 1810000
+},
+"lobbyausgaben": {
+"von": 440001,
+"bis": 450000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/29/98/840255/Jahresrechnung-2025_BKM.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001283/85681",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-10",
+"etikett": "Eigenangabe",
+"version": 48
+}
+]
+}

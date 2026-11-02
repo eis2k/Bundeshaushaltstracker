@@ -1,0 +1,108 @@
+{
+"id": "naturfreunde-deutschlands-landesverband-sachsen",
+"name": "NaturFreunde Deutschlands, Landesverband Sachsen e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Dresden",
+"website": "www.die-naturfreunde-sachsen.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007453",
+"eintrag_id": 56281,
+"version": 1,
+"stand": "2025-07-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007453/56281",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f8/0b/573729/Lobbyregister-Registereintraege-Detailansicht-R007453-2025-07-01_20-47-54.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium des Innern",
+"epl": "06",
+"von": 100001,
+"bis": 110000,
+"zweck": "Finanzierung Projekt „Stärkenberatung – Demokratie erleben“",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 100001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Almut Thomas",
+"funktion": "Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007453/56281",
+"stand": "2025-07-01"
+}
+},
+{
+"name": "Michael Ebert",
+"funktion": "stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007453/56281",
+"stand": "2025-07-01"
+}
+},
+{
+"name": "Johannes Kirchner",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007453/56281",
+"stand": "2025-07-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 10001,
+"bis": 20000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e0/10/573728/2023_Jahresabschluss_NFSn_Finanzen.pdf",
+"geschaeftsjahr": "2023",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007453/56281",
+"abgerufen": "2026-11-02",
+"stand": "2025-07-01",
+"etikett": "Eigenangabe",
+"version": 1
+}
+]
+}

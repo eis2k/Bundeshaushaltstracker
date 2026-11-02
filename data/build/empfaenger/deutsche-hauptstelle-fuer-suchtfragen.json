@@ -1,0 +1,130 @@
+{
+"id": "deutsche-hauptstelle-fuer-suchtfragen",
+"name": "Deutsche Hauptstelle für Suchtfragen e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Hamm",
+"website": "www.dhs.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002345",
+"eintrag_id": 86256,
+"version": 18,
+"stand": "2026-09-23",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002345/86256",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/13/cf/846171/Lobbyregister-Registereintraege-Detailansicht-R002345-2026-09-23_09-33-51.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMG",
+"epl": "15",
+"von": 970001,
+"bis": 980000,
+"zweck": "Institutionelle Förderung, Projektförderung (SuWoKo) sowie Förderung von Tagungen (DHS Fachkonferenz)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 970001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Norbert Scherbaum",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002345/86256",
+"stand": "2026-09-23"
+}
+},
+{
+"name": "Corinna Mäder-Linke",
+"funktion": "Stellvertretende Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002345/86256",
+"stand": "2026-09-23"
+}
+},
+{
+"name": "Eva Egartner",
+"funktion": "Stellvertretende Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002345/86256",
+"stand": "2026-09-23"
+}
+},
+{
+"name": "Christina Rummel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002345/86256",
+"stand": "2026-09-23"
+}
+},
+{
+"name": "Peter Raiser",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002345/86256",
+"stand": "2026-09-23"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 20001,
+"bis": 30000
+},
+"lobbyausgaben": {
+"von": 340001,
+"bis": 350000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/7e/77/846168/DHS-2025-Nachweis-Lobbyregister.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002345/86256",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-23",
+"etikett": "Eigenangabe",
+"version": 18
+}
+]
+}

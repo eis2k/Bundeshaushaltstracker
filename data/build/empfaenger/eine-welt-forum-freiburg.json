@@ -1,0 +1,119 @@
+{
+"id": "eine-welt-forum-freiburg",
+"name": "Eine Welt Forum Freiburg e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Freiburg",
+"website": "https://ewf-freiburg.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003350",
+"eintrag_id": 82322,
+"version": 10,
+"stand": "2026-07-06",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003350/82322",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f2/3d/805778/Lobbyregister-Registereintraege-Detailansicht-R003350-2026-07-06_11-37-08.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMZ",
+"epl": "23",
+"von": 80001,
+"bis": 90000,
+"zweck": "1. Förderprogramm Entwicklungspolitische Bildung (FEB) bei Engagement Global. 2. Zuschuss für Projekt \"Regionalpromotor\": über Dachverband Entwicklungspolitik Baden-Württemberg e.V. (DEAB) - das Programm wird getragen von der Arbeitsgemeinschaft der Eine Welt Landesnetzwerke e.V. (agl) über Engagement Global",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 80001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ana Maria Sanchez",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003350/82322",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Ronny Müller",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003350/82322",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Annette Brox",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003350/82322",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Petra Müller-Stolz",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003350/82322",
+"stand": "2026-07-06"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 20001,
+"bis": 30000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/96/70/805775/Anlage-1-Finanzbericht-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003350/82322",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-06",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

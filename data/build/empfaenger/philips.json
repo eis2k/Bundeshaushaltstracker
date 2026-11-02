@@ -1,0 +1,298 @@
+{
+"id": "philips",
+"name": "Philips GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Hamburg",
+"website": "www.philips.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000803",
+"eintrag_id": 87458,
+"version": 40,
+"stand": "2026-10-12",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000803/87458",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/11/7e/860287/Lobbyregister-Registereintraege-Detailansicht-R000803-2026-10-12_17-04-58.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung (BMBF)",
+"epl": "30",
+"von": 1,
+"bis": 10000,
+"zweck": "Forschungsprojekt TRANSACT (DE) Im Projekt TRANSACT werden ein universell anwendbares Lösungsarchitekturkonzept, Framework und Methodik für die Transformation von sicherheitskritischen cyber-physische Systeme (CPS) in verteilte sicherheitskritische CPS-Lösungen entwickelt. Das TRANSACT-Architekturkonzept bringt CPS-Geräte am Rande des Netzwerks mit mehreren Edge-Geräten und Cloud-Computing-Einrichtungen zusammen, die mehrere Anwendungen mit unterschiedlichen Kritikalitäten hosten. Ein Schlüsselelement des TRANSACT-Konzepts ist, dass die Edge- und Cloud-Infrastrukturen anwendungsübergreifend, geräteübergreifend, mandantenfähig, skalierbar und interoperabel sind und nicht-funktionale Qualitätseigenschaften wie z. B. Performance, technische Betriebssicherheit und Datensicherheit garantieren.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung (BMBF)",
+"epl": "30",
+"von": 1,
+"bis": 10000,
+"zweck": "Forschungsprojekt MR-HIFU Pankreas Das BMBF-Projekt MR-HIFU-Pankreas zielt darauf ab, MR-gesteuertes HIFU zur Behandlung von Bauchspeicheldrüsenkrebs zu entwickeln. Das Projekt umfasst eine vorklinische Sicherheitsstudie an Schweinen, gefolgt von einer klinischen Studie mit einer ersten Studie am Menschen mit 30 Patienten.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt, früher BMBF",
+"epl": "30",
+"von": 1,
+"bis": 10000,
+"zweck": "Elektronisches Sensorsystem zur Überwachung der Gesundheit von Müttern und Baby. Im Projekt NewLife werden neue nicht-invasive Fernüberwachungslösungen entwickelt, um die Gesundheit von Müttern und Babys vor und nach der Geburt sicherzustellen. Das Ziel ist die Entwicklung neuer nicht-invasiver Methoden und Geräte zum Sammeln von Vitaldaten, die mit fortschrittliche KI/ML-Methoden analysiert werden, um das Leben in seiner verwundbarsten Phase zu bewachen.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 3,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Mikko Vasama",
+"funktion": "Vorsitzender der Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000803/87458",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Henning In Wolde-Lübke",
+"funktion": "Mitglied der Geschäftsführung und Head of Finance DACH",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000803/87458",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Stefan Zeipert",
+"funktion": "Mitglied der Geschäftsführung und Arbeitsdirektor ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000803/87458",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Torsten Sekol",
+"funktion": "Mitglied der Geschäftsführung und Head of Governmental & Public Affairs DACH",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000803/87458",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Kay von der Heyde",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000803/87458",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Berndt Unnasch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000803/87458",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Monika Huber",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000803/87458",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Thomas Liebscher",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000803/87458",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Timo Paulus",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000803/87458",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Gisela Hostenkamp",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000803/87458",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Annette Halstrick",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000803/87458",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Robert Deisz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000803/87458",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Anke Ellingen-Rottsahl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000803/87458",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Dieter Haase",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000803/87458",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Günter Gegner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000803/87458",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Dieter Dude",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000803/87458",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Justus von Richthofen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000803/87458",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Thomas Schönen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000803/87458",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Nina Petersmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000803/87458",
+"stand": "2026-10-12"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 650001,
+"bis": 660000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/55/ec/860285/Geschaeftsbericht-Philips-GmbH-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000803/87458",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-12",
+"etikett": "Eigenangabe",
+"version": 40
+}
+]
+}

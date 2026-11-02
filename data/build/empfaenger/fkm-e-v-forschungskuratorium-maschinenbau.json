@@ -1,0 +1,96 @@
+{
+"id": "fkm-e-v-forschungskuratorium-maschinenbau",
+"name": "FKM e.V. - Forschungskuratorium Maschinenbau e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Frankfurt",
+"website": "www.fkm-net.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002084",
+"eintrag_id": 59775,
+"version": 8,
+"stand": "2025-06-27",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002084/59775",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/98/84/556385/Lobbyregister-Registereintraege-Detailansicht-R002084-2025-06-27_11-13-48.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 930001,
+"bis": 940000,
+"zweck": "Projekt: Interoperable Interfaces for Intelligent Production (II4IP). Das Ziel von II4IP ist die Sicherstellung branchenübergreifender Konsistenz von domänenorientierten OPC UA Companion Specifications. Der Verein erhält projektbezogene Fördermittel des BMWK's, nachdem das Bundesministerium für Wirtschaft und Klimaschutz das vorgeschlagene Projekt genehmigt hat. Die Mittelverwendung unterliegt der Kontrolle des Bundesrechnungshofs, des VDI und des Bundesministeriums für Wirtschaft und Klimaschutz.",
+"geschaeftsjahr": "2023"
+}
+],
+"lobby_untergrenze_bund": 930001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Hartmut Rauen",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002084/59775",
+"stand": "2025-06-27"
+}
+},
+{
+"name": "Christoph Singrün",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002084/59775",
+"stand": "2025-06-27"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 1180001,
+"bis": 1190000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2023",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/8e/a1/556384/FKM-Lobbyregister.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002084/59775",
+"abgerufen": "2026-11-02",
+"stand": "2025-06-27",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

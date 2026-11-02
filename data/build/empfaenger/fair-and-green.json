@@ -1,0 +1,148 @@
+{
+"id": "fair-and-green",
+"name": "FAIR and GREEN e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bonn",
+"website": "www.fairandgreen.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003128",
+"eintrag_id": 85076,
+"version": 14,
+"stand": "2026-08-25",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003128/85076",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/b3/88/834780/Lobbyregister-Registereintraege-Detailansicht-R003128-2026-08-25_11-32-06.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Naturschutz",
+"epl": "16",
+"von": 520001,
+"bis": 530000,
+"zweck": "Projekt AmBiTo: Entwicklung und Anwendung eines modularen Biodiversitäts-Toolkits für den Weinbau in Deutschland. Teilvorhaben Entwicklung und Umsetzung des Toolkits.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesanstalt für Ernährung und Landwirtschaft",
+"epl": null,
+"von": 270001,
+"bis": 280000,
+"zweck": "Projekt CarboVino",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 790002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Keith Ulrich",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003128/85076",
+"stand": "2026-08-25"
+}
+},
+{
+"name": "Philipp Kuhn",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003128/85076",
+"stand": "2026-08-25"
+}
+},
+{
+"name": "Monica Hasler",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003128/85076",
+"stand": "2026-08-25"
+}
+},
+{
+"name": "Andrea Wirsching",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003128/85076",
+"stand": "2026-08-25"
+}
+},
+{
+"name": "Saskia Wörthwein",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003128/85076",
+"stand": "2026-08-25"
+}
+},
+{
+"name": "Guido Walter",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003128/85076",
+"stand": "2026-08-25"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 220001,
+"bis": 230000
+},
+"lobbyausgaben": {
+"von": 50001,
+"bis": 60000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/c0/47/834779/Jahresabschluss-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003128/85076",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-25",
+"etikett": "Eigenangabe",
+"version": 14
+}
+]
+}

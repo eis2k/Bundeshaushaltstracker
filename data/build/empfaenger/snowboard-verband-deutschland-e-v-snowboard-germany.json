@@ -1,0 +1,166 @@
+{
+"id": "snowboard-verband-deutschland-e-v-snowboard-germany",
+"name": "Snowboard Verband Deutschland e.V. / Snowboard Germany",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Planegg",
+"website": "https://www.snowboardgermany.com/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004033",
+"eintrag_id": 84324,
+"version": 12,
+"stand": "2026-08-10",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004033/84324",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/76/63/828635/Lobbyregister-Registereintraege-Detailansicht-R004033-2026-08-10_10-44-51.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundeskanzleramt",
+"epl": "04",
+"von": 1620001,
+"bis": 1630000,
+"zweck": "Zuwendung aus Bundesmitteln zur Förderung des Sports Jahresplanung 2026",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundeskanzleramt",
+"epl": "04",
+"von": 1510001,
+"bis": 1520000,
+"zweck": "Zuwendung aus Bundesmitteln zur Förderung des Sports; Leistungssportpersonal 2026",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundeskanzleramt",
+"epl": "04",
+"von": 30001,
+"bis": 40000,
+"zweck": "Zuwendung aus Bundesmitteln zur Förderung des Sports; Bundesstützpunktleiter 2026",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundeskanzleramt",
+"epl": "04",
+"von": 10001,
+"bis": 20000,
+"zweck": "Zuwendung für die Betriebskostenumlage an der Trainerakademie 2026",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 3170004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Hanns Michael Hölz",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004033/84324",
+"stand": "2026-08-10"
+}
+},
+{
+"name": "Andreas Scheid",
+"funktion": "Direktor Sport",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004033/84324",
+"stand": "2026-08-10"
+}
+},
+{
+"name": "Hans Jürgen Niehaus",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004033/84324",
+"stand": "2026-08-10"
+}
+},
+{
+"name": "Herbert John",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004033/84324",
+"stand": "2026-08-10"
+}
+},
+{
+"name": "Stefan Ermisch",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004033/84324",
+"stand": "2026-08-10"
+}
+},
+{
+"name": "Konstantin Schad",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004033/84324",
+"stand": "2026-08-10"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 170001,
+"bis": 180000
+},
+"mitgliedsbeitraege": {
+"von": 30001,
+"bis": 40000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/f6/c8/828634/JA-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004033/84324",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-10",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

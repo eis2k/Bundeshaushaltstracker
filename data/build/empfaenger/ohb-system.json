@@ -1,0 +1,191 @@
+{
+"id": "ohb-system",
+"name": "OHB System AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Bremen",
+"website": "www.ohb.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000907",
+"eintrag_id": 73715,
+"version": 16,
+"stand": "2026-04-15",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000907/73715",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c6/eb/722856/Lobbyregister-Registereintraege-Detailansicht-R000907-2026-04-15_12-23-04.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Forschung, Technik und Raumfahrt (BMFTR)",
+"epl": null,
+"von": 670001,
+"bis": 680000,
+"zweck": "Extraktion von Anforderungen aus natürlichsprachigem Text (EXTANT), Programm für Weltraum und Innovation, betreut durch DLR; Quantenschlüsselübertragung von einem CubeSat zum Boden (QUBE II), betreut durch VDI/VDE-IT; Collaborative Processes and Services for Aeronautics and Space (COOPERANTS), Initiative zur Erarbeitung von innovativen und praxisnahen Anwendungen und Datenräumen im digitalen Ökosystem Gaia-X unter der Konsortialführung des DLR; Spaceborne Monitoring of GNSS Signal Interference (MOGSI), betreut durch DLR; Keramische Optische Systeme (KeOpS) Teilvorhaben System Design, Analyse und Verifikation; Machbarkeitsstudie hinsichtlich der nationalen Anwendungen eines kommerziellen Dienstes für Logistik, Automatisierung und Mobilität für die Mondoberfläche; Hyperspectral Products for Agricultural Practice (HyLap), betreut durch DLR; Verbundsprojekt Interoperables sicheres Quantenschlüssel-Management-System (QuNET+ISQKMS), betreut durch VDI/VDE-IT; Vibra Void, P.607134.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 280001,
+"bis": 290000,
+"zweck": "Offshore Spaceport, Lösungsfindung und Infrastrukturentwicklung für Orbitale Starts (OSLIOS), betreut durch DLR; Optical Tamper Protection für PRS Security Module (OTP-2), nationales Programm zur Förderung des Galileo Public Regulated Service.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 950002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Sabine Freifrau von der Recke",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000907/73715",
+"stand": "2026-04-15"
+}
+},
+{
+"name": "Kurt Melching",
+"funktion": "Vorstand (CFO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000907/73715",
+"stand": "2026-04-15"
+}
+},
+{
+"name": "Chiara Pedersoli",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000907/73715",
+"stand": "2026-04-15"
+}
+},
+{
+"name": "Gianaldo Mantovani",
+"funktion": "Vorstand ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000907/73715",
+"stand": "2026-04-15"
+}
+},
+{
+"name": "Rüdiger Schönfeld",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000907/73715",
+"stand": "2026-04-15"
+}
+},
+{
+"name": "Joseph Duncan",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000907/73715",
+"stand": "2026-04-15"
+}
+},
+{
+"name": "Tim  Tecklenburg",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000907/73715",
+"stand": "2026-04-15"
+}
+},
+{
+"name": "Edip Uzun",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000907/73715",
+"stand": "2026-04-15"
+}
+},
+{
+"name": "Will Katharina",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000907/73715",
+"stand": "2026-04-15"
+}
+},
+{
+"name": "Fuchs Marco",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000907/73715",
+"stand": "2026-04-15"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 330001,
+"bis": 340000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/fc/d4/722854/DEE00165333-1-1-Bericht_OHB-System-AG_2025_v1_AT-1.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000907/73715",
+"abgerufen": "2026-11-02",
+"stand": "2026-04-15",
+"etikett": "Eigenangabe",
+"version": 16
+}
+]
+}

@@ -1,0 +1,115 @@
+{
+"id": "bbe-geschaeftsstelle",
+"name": "BBE Geschäftsstelle gGmbH",
+"art": "verein_stiftung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "www.b-b-e.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002178",
+"eintrag_id": 74141,
+"version": 9,
+"stand": "2026-03-25",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002178/74141",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/fd/86/710878/Lobbyregister-Registereintraege-Detailansicht-R002178-2026-03-25_11-56-15.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 1740001,
+"bis": 1750000,
+"zweck": "1. Projektförderung \"Bundesnetzwerk für Engagementförderung und Engagementpolitik - Geschäftsstelle des Bundesnetzwerks Bürgerschaftliches Engagement\" Zielsetzungen des Projektes: - Verbesserung der Rahmenbedingungen für bürgerschaftliches Engagement in der ganzen Breite - Nachhaltige Sicherung der Leistungsfähigkeit des BBE als Engagement förderndes Netzwerk. (820.000€ - 830.000€) 2. Projektförderung der Mitmach-Kampagne \"Woche des bürgerschaftlichen Engagement\" mit dem Ziel, die Vielfalt und Bedeutung von Engagement sichtbar zu machen. (270.000 - 280.000€) 3. Projektförderung im Rahmen des Programms Menschen stärken Menschen: \"Pat*innen, Mentor*innen, Lots*innen: Engagement stärken - gesellschaftlichen Zusammenhalt unterstützen\" (190.000€ - 200.000€) 4. Projektförderung des Programmbüros Engagierte Stadt, über das lokale Kooperationen vor Ort gefördert werden, um lokales Engagement zu stärken sowie aktiv die Stadtgesellschaft zu gestalten. (440.000€ - 450.000€)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Stiftung für Engagement und Ehrenamt",
+"epl": null,
+"von": 380001,
+"bis": 390000,
+"zweck": "1. Projektförderung \"Engagiertes Land\" (240.000€ - 250.000€) Förderung lokaler Kooperationen vor Ort, um lokales Engagement zu stärken sowie aktiv die Landgesellschaft zu gestalten in strukturschwachen ländlichen Gebieten. 2. \"Prozessbegleitung für den lokalen Netzwerkaufbau, Regionale und überregionale Vernetzung\": (130.000€ - 140.000€) Modul zur Verbindung der Programme Engagiertes Land & Engagierte Stadt",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 2120002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Lilian Schwalb",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002178/74141",
+"stand": "2026-03-25"
+}
+},
+{
+"name": "Behzad Förstl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002178/74141",
+"stand": "2026-03-25"
+}
+},
+{
+"name": "Falk Stratenwerth",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002178/74141",
+"stand": "2026-03-25"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 730001,
+"bis": 740000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/8d/4e/710877/BBE-gGmbH_2024-EB-Jahresabschluss-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002178/74141",
+"abgerufen": "2026-11-02",
+"stand": "2026-03-25",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

@@ -1,0 +1,193 @@
+{
+"id": "sozialhelden",
+"name": "Sozialhelden e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://sozialhelden.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003920",
+"eintrag_id": 83961,
+"version": 19,
+"stand": "2026-07-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003920/83961",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ae/7a/823047/Lobbyregister-Registereintraege-Detailansicht-R003920-2026-07-30_15-31-30.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"epl": "12",
+"von": 230001,
+"bis": 240000,
+"zweck": "Das Vorhaben soll es ermöglichen, dass interessierte Stakeholder*innen wie z.B. Poliker*innen und Journalist*innen einen schnellen Überblick über den Barrierefreiheits-Status einer Region erhalten können. Die Auswertung richtet sich nach einer selbst ausgewählten geografischen Region: sei es ein Stadtteil, eine ländliche Region, eine Metropole, ein Landkreis, ein Bundesland oder ein ganzes Land. Zusätzlich sollen mehrere Regionen miteinander vergleichbar gemacht werden können, z.B. Stadtviertel oder internationale Städtepartner.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Arbeit und Soziales - Ausgleichsfond",
+"epl": "11",
+"von": 130001,
+"bis": 140000,
+"zweck": "Zuwendung aus dem Ausgleichsfonds für überregionale Vorhaben zur Teilhabe Schwerbehinderter Menschen am Arbeitsleben (§ 161 SGB IX), Wirtschaftsplan des Ausgleichsfonds Kapitel 2, Titel 685 71 (Zuschüsse für Modellvorhaben zur Weiterentwicklung der Förderung zur Teilhabe Schwerbehinderter Menschen am Arbeitsleben - § 41 Abs. 1 Nr. 4 SchwbAV) für das Projekt: „Neue Impulse für WfbMs zur Förderung der Vermittlung von Menschen mit Behinderung auf den allgemeinen Arbeitsmarkt“",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 360002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Raúl Aguayo-Krauthausen",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003920/83961",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Holger Dieterich",
+"funktion": "Geschäftsleitung nach § 30 BGB",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003920/83961",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Adina Hermann",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003920/83961",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Marie Lampe",
+"funktion": "Vorständin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003920/83961",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Sabine Würkner",
+"funktion": "Geschäftsleitung nach § 30 BGB",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003920/83961",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Jonas Deister",
+"funktion": "Geschäftsleitung nach § 30 BGB",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003920/83961",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Anne Gersdorff",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003920/83961",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Constantin Valentin Grosch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003920/83961",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Joshua Reh",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003920/83961",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Sebastian Felix Zappe",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003920/83961",
+"stand": "2026-07-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 60001,
+"bis": 70000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/1f/f8/823046/EUeR24_final_SozialheldeneV-1.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003920/83961",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-30",
+"etikett": "Eigenangabe",
+"version": 19
+}
+]
+}

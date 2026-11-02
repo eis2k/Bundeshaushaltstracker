@@ -1,0 +1,116 @@
+{
+"id": "freunde-und-foerderer-des-leo-baeck-instituts",
+"name": "Freunde und Förderer des Leo Baeck Instituts e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.fuf-leobaeck.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003712",
+"eintrag_id": 80383,
+"version": 10,
+"stand": "2026-06-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003712/80383",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/25/ec/774044/Lobbyregister-Registereintraege-Detailansicht-R003712-2026-06-24_15-34-56.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium des Innern und für Heimat",
+"epl": "06",
+"von": 1260001,
+"bis": 1270000,
+"zweck": "Förderung der Programmarbeit der Arbeitszentren des Leo Baeck Instituts Jerusalem, London und New York. Die Erforschung und Dokumentation der Geschichte der deutschsprachigen Juden in Europa ist die zentrale Aufgabe des Leo Baeck Instituts. Aktuelle Kernthemen dabei sind u.a. Antisemitismus, Flucht und Verfolgung, Ideen des Nationalen, Mehrsprachigkeit, Minderheitenrechte, Religion und Integration und Erinnerungspolitik.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Stiftung Erinnerung, Verantwortung und Zukunft (EVZ)",
+"epl": null,
+"von": 1,
+"bis": 10000,
+"zweck": "Projekt Library of Lost Books zur Rettung einer deutsch-jüdischen Bibliothek",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1260002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Shimon Stein",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003712/80383",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Sigalit Meidler-Waks",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003712/80383",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Jakob Kroneck",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003712/80383",
+"stand": "2026-06-24"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 10001,
+"bis": 20000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/2b/1f/774027/FuF-Leo-Baeck-Institut-e-V-2025_EB-signiert.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003712/80383",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-24",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

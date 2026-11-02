@@ -1,0 +1,169 @@
+{
+"id": "bjoern-steiger-stiftung",
+"name": "Björn Steiger Stiftung",
+"art": "verein_stiftung",
+"rechtsform": "Rechtsfähige Stiftung bürgerlichen Rechts",
+"sitz": "Winnenden",
+"website": "www.steiger-stiftung.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004897",
+"eintrag_id": 63166,
+"version": 7,
+"stand": "2025-10-02",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004897/63166",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/92/57/625414/Lobbyregister-Registereintraege-Detailansicht-R004897-2025-10-02_13-44-46.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMVI - Bundesministerium für Verkehr und digitale Infrastruktur",
+"epl": "12",
+"von": 10001,
+"bis": 20000,
+"zweck": "Nicht rückzahlbare Zuwendung zum Vorhaben \"Einsatz von dezentral stationierten Drohnen\" (\"Unmanned Aircraft Systems\", UAS) zur Unterstützung bei der Wasserrettung in schwer zugänglichen und weitflächigen Gebieten (innovative Anwendungsfälle). Landkreis/Bundesland übergreifende Prävention und Rettung mit Hilfe von Drohnen in der Lausitz - RescueFly.",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "BMDV - Bundesministerium für Digitales und Verkehr",
+"epl": "12",
+"von": 90001,
+"bis": 100000,
+"zweck": "Nicht rückzahlbare Zuwendung von 90% zum Vorhaben \"Verbundprojekt: Artificial Intelligence in Rescue Chains - AIRCIS - Stärkung der Rettungskette unter Extremwettereinflüssen durch den Einsatz von Künstlicher Intelligenz am Beispiel Lausitz\".",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "BMDV - Bundesministerium für Digitales und Verkehr",
+"epl": "12",
+"von": 20001,
+"bis": 30000,
+"zweck": "Nicht rückzahlbare Zuwendung von 90% zum Vorhaben \"Verbundprojekt: Mobilitätswende im Rettungsdienst, in der Feuerwehr und im Katastrophenschutz der Lausitz - Power2Rescue\".",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 120003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Pierre-Enric Steiger",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004897/63166",
+"stand": "2025-10-02"
+}
+},
+{
+"name": "Noemi-Victoria Steiger",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004897/63166",
+"stand": "2025-10-02"
+}
+},
+{
+"name": "Dirk Grabowski",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004897/63166",
+"stand": "2025-10-02"
+}
+},
+{
+"name": "Joachim von Beesten",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004897/63166",
+"stand": "2025-10-02"
+}
+},
+{
+"name": "Christof Constantin Chwojka",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004897/63166",
+"stand": "2025-10-02"
+}
+},
+{
+"name": "Siegfried Brockmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004897/63166",
+"stand": "2025-10-02"
+}
+},
+{
+"name": "Nicole Adrienne Steiger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004897/63166",
+"stand": "2025-10-02"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 13990001,
+"bis": 14000000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/d8/cd/625413/Bjoern-Steiger-Stiftung-Leseexemplar-2023.pdf",
+"geschaeftsjahr": "2023",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004897/63166",
+"abgerufen": "2026-11-02",
+"stand": "2025-10-02",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

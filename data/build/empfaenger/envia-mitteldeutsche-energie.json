@@ -1,0 +1,137 @@
+{
+"id": "envia-mitteldeutsche-energie",
+"name": "envia Mitteldeutsche Energie AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Chemnitz",
+"website": "https://www.enviam-gruppe.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002247",
+"eintrag_id": 84004,
+"version": 20,
+"stand": "2026-07-31",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002247/84004",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/eb/84/823542/Lobbyregister-Registereintraege-Detailansicht-R002247-2026-07-31_13-24-12.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "Zuschuss: Bundesförderung für effiziente Wärmenetze (BEW); Zuschuss: Förderung der Errichtung von Anlagen der Wärmeerzeugung (BEG EM)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 50001,
+"bis": 60000,
+"zweck": "Anwendungsorientierte nichtnukleare FuE im 8. Energieforschungsprogramm - BL WH2 Verbundvorhaben: EnEf:Stadt: BLWH2 — Erschließung und Versorgung von Bestandsgebäuden und Neubauentwicklungen der Stadt Bad Lauchstädt mit klimaneutraler Wärme/ Abwärme. Anwendungsorientierte nichtnukleare FuE im 7. Energieforschungsprogramm - H2-Infrastruktur. Anwendungsorientierte nichtnukleare FuE im 8. Energieforschungsprogramm - OptiQU Optimierte Q-U-Regelung durch intelligente Steuerung von regelbaren Ortsnetztransformatoren und steuerbaren Verbrauchs- und Erzeugungseinrichtungen in Mittel- und Niederspannungsnetzen. Anwendungsorientierte nichtnukleare FuE im 8. Energieforschungsprogramm - BL WH2 Verbundvorhaben: EnEf:Stadt: BLWH2",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 80002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Stephan Lowis",
+"funktion": "Vorsitzender des Vorstandes und Vorstand Finanzen (CEO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002247/84004",
+"stand": "2026-07-31"
+}
+},
+{
+"name": "Sigrid Nagl",
+"funktion": "Vorständin Personal und IT/ Arbeitsdirektorin (CHO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002247/84004",
+"stand": "2026-07-31"
+}
+},
+{
+"name": "Wolfgang Wirtnik",
+"funktion": "Vorstand Vertrieb und Erzeugung (CSO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002247/84004",
+"stand": "2026-07-31"
+}
+},
+{
+"name": "Christoph Eger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002247/84004",
+"stand": "2026-07-31"
+}
+},
+{
+"name": "Johannes Alexander Näumann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002247/84004",
+"stand": "2026-07-31"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 150001,
+"bis": 160000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/d6/e0/823538/enviam_gb2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002247/84004",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-31",
+"etikett": "Eigenangabe",
+"version": 20
+}
+]
+}

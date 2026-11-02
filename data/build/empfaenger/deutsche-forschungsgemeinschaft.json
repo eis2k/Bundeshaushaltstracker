@@ -1,0 +1,233 @@
+{
+"id": "deutsche-forschungsgemeinschaft",
+"name": "Deutsche Forschungsgemeinschaft e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bonn",
+"website": "www.dfg.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002059",
+"eintrag_id": 87471,
+"version": 31,
+"stand": "2026-10-13",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002059/87471",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/a8/0b/860414/Lobbyregister-Registereintraege-Detailansicht-R002059-2026-10-13_09-23-35.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 2608750001,
+"bis": 2608760000,
+"zweck": "Zuwendungen des Bundes für die institutionelle Förderung, Programmpauschale und zur Projektförderung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 2608750001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Katja Becker",
+"funktion": "Präsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002059/87471",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Heide Ahrens",
+"funktion": "Generalsekretärin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002059/87471",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Ina Sauer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002059/87471",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Hai Ha Tran",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-09"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002059/87471",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Axel Brakhage",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002059/87471",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Britta Siegmund",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002059/87471",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Brigitte Vollmar",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002059/87471",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Markus Fischer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002059/87471",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Ingrid Ohlert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002059/87471",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Doris Vetterlein",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002059/87471",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Andreas F. Werner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002059/87471",
+"stand": "2026-10-13"
+}
+},
+{
+"name": "Johanna Kowol-Santen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002059/87471",
+"stand": "2026-10-13"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Hai Ha Tran",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-09",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Hai Ha Tran ist laut Lobbyregister Interessenvertretung bei Deutsche Forschungsgemeinschaft e.V. und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-09. Deutsche Forschungsgemeinschaft e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Forschung, Technologie und Raumfahrt.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Forschung, Technologie und Raumfahrt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002059/87471",
+"stand": "2026-10-13"
+}
+],
+"stand": "2026-10-13"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 660001,
+"bis": 670000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 410001,
+"bis": 420000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/44/84/860411/dfg-jb2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002059/87471",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-13",
+"etikett": "Eigenangabe",
+"version": 31
+}
+]
+}

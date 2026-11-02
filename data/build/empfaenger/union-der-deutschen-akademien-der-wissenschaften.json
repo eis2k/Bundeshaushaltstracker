@@ -1,0 +1,140 @@
+{
+"id": "union-der-deutschen-akademien-der-wissenschaften",
+"name": "Union der deutschen Akademien der Wissenschaften e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Mainz",
+"website": "www.akademienunion.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005780",
+"eintrag_id": 74190,
+"version": 5,
+"stand": "2026-04-20",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005780/74190",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ec/e5/724689/Lobbyregister-Registereintraege-Detailansicht-R005780-2026-04-20_15-45-16.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 39850001,
+"bis": 39860000,
+"zweck": "Akademienprogramm 2025",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 39850001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christoph Markschies",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005780/74190",
+"stand": "2026-04-20"
+}
+},
+{
+"name": "Andrea Rapp",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005780/74190",
+"stand": "2026-04-20"
+}
+},
+{
+"name": "Hans-Georg Kräusslich",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005780/74190",
+"stand": "2026-04-20"
+}
+},
+{
+"name": "Irene Dingel",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005780/74190",
+"stand": "2026-04-20"
+}
+},
+{
+"name": "Mirko Schadewald",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005780/74190",
+"stand": "2026-04-20"
+}
+},
+{
+"name": "Lea Holtmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005780/74190",
+"stand": "2026-04-20"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/bf/89/724688/Rechnungsabschluss-2025-AH-GH.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005780/74190",
+"abgerufen": "2026-11-02",
+"stand": "2026-04-20",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

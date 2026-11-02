@@ -1,0 +1,170 @@
+{
+"id": "atlantik-bruecke",
+"name": "Atlantik-Brücke e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.atlantik-bruecke.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002357",
+"eintrag_id": 77213,
+"version": 8,
+"stand": "2026-06-12",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002357/77213",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ad/57/757589/Lobbyregister-Registereintraege-Detailansicht-R002357-2026-06-12_20-48-38.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz (BMWK)",
+"epl": "09",
+"von": 100001,
+"bis": 110000,
+"zweck": "New Bridge Program",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 100001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Sigmar Gabriel",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002357/77213",
+"stand": "2026-06-12"
+}
+},
+{
+"name": "Julia Friedlander",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002357/77213",
+"stand": "2026-06-12"
+}
+},
+{
+"name": "Anahita  Thoms",
+"funktion": "Schatzmeisterin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002357/77213",
+"stand": "2026-06-12"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "abgeordneter_funktion",
+"person": "Metin Hakverdi",
+"funktion_person": "MdB, SPD",
+"funktion_beim_empfaenger": "Mitglied des Vorstandes, ehrenamtlich",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Metin Hakverdi (MdB, SPD) ist laut bundestag.de Mitglied des Vorstandes, ehrenamtlich bei Atlantik-Brücke e.V.. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für die Angelegenheiten der Europäischen Union; Auswärtiger Ausschuss; Finanzen; Haushaltsausschuss. Atlantik-Brücke e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Klimaschutz (BMWK).",
+"ausschuesse": [
+"Ausschuss für die Angelegenheiten der Europäischen Union",
+"Auswärtiger Ausschuss",
+"Finanzen",
+"Haushaltsausschuss"
+],
+"geld_aus": [
+"Bundesministerium für Wirtschaft und Klimaschutz (BMWK)"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/H/hakverdi_metin-1044714",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Omid Nouripour",
+"funktion_person": "MdB, Bündnis 90 Die Grünen",
+"funktion_beim_empfaenger": "Mitglied des Vorstandes, ehrenamtlich",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Omid Nouripour (MdB, Bündnis 90 Die Grünen) ist laut bundestag.de Mitglied des Vorstandes, ehrenamtlich bei Atlantik-Brücke e.V.. Ausschüsse und Gremien im Bundestag laut bundestag.de: Der Ältestenrat; Auswärtiger Ausschuss. Atlantik-Brücke e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Klimaschutz (BMWK).",
+"ausschuesse": [
+"Der Ältestenrat",
+"Auswärtiger Ausschuss"
+],
+"geld_aus": [
+"Bundesministerium für Wirtschaft und Klimaschutz (BMWK)"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/N/nouripour_omid-1046368",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 2240001,
+"bis": 2250000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/b8/a1/757588/AB_JB-2425_INHALT_SCREEN_DS.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002357/77213",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-12",
+"etikett": "Eigenangabe",
+"version": 8
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/H/hakverdi_metin-1044714",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/N/nouripour_omid-1046368",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

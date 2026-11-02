@@ -1,0 +1,331 @@
+{
+"id": "deutsche-landwirtschafts-gesellschaft",
+"name": "Deutsche Landwirtschafts-Gesellschaft e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Frankfurt am Main",
+"website": "www.dlg.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004830",
+"eintrag_id": 75081,
+"version": 8,
+"stand": "2026-05-22",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004830/75081",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/11/17/741276/Lobbyregister-Registereintraege-Detailansicht-R004830-2026-05-22_15-10-03.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Deutsches Zentrum für Luft- und Raumfahrt e.V.",
+"epl": "30",
+"von": 360001,
+"bis": 370000,
+"zweck": "Kollektive Modelle zur Förderung der Biodiversität / Bundesprogramm Biologische Vielfalt (KoMBI), Teilvorhaben: Kommunikation in der Praxis",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BLE",
+"epl": "10",
+"von": 240001,
+"bis": 250000,
+"zweck": "Smart Transformation Labs als virtuelle Zukunftsbetriebe für die Region Mitteldeutschland zur Begleitung von betrieblichen digitalen Transformationsprozessen für eine moderne und nachhaltige Landbewirtschaftung/TRANSFORM",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BLE",
+"epl": "10",
+"von": 490001,
+"bis": 500000,
+"zweck": "Körnerleguminosen und andere Sommerungen für klimaangepasste und nachhaltige Fruchtfolgen aus und für Forschung und Praxis (RotaKlim) im Rahmen der \"Ackerbaustrategie 2035\" des BMEL",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Bundesstiftung Umwelt",
+"epl": null,
+"von": 90001,
+"bis": 100000,
+"zweck": "Entwicklung einer praxistauglichen Methodik zur ganzheitlichen und systematischen Nachhaltigkeitsbewertung von Lebensmittelverpackungen zur Optimierung der Nachhaltigkeit von Verpackungen entlang der Wertschöpfungskette",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMEL",
+"epl": "10",
+"von": 80001,
+"bis": 90000,
+"zweck": "StronGER: Stressreduktion durch (teil-)mobile Schlachtung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BfN",
+"epl": "16",
+"von": 610001,
+"bis": 620000,
+"zweck": "KoMBi: Kollektive Modelle zur Förderung der Biodiversität",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BLE",
+"epl": "10",
+"von": 250001,
+"bis": 260000,
+"zweck": "Verbundprojekt: Mobile Hofschlachtung von Schweinen durch Einsatz einer vollmobilen Schlachteinheit in modularer Bauweise (Moho-Schwein) – Teilprojekt A; Fördermittel beziehen sich aus die gesamte Laufzeit des Projektes 10/2024 - 12/2027",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BLE / BMEL",
+"epl": "10",
+"von": 30001,
+"bis": 40000,
+"zweck": "Veranstaltungsreihe Landtechnikmärkte Südostasien",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BLE",
+"epl": "10",
+"von": 70001,
+"bis": 80000,
+"zweck": "Verbundprojekt: Entwicklung eines abgestimmten Mindestkriteriensets für die Bewertung nachhaltigen Handelns landwirtschaftlicher Unternehmen bedeutender Betriebszweige (MinKriSet) - Teilprojekt B",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Landwirtschaft, Ernähung und Heimat (BMLEH)",
+"epl": null,
+"von": 90001,
+"bis": 100000,
+"zweck": "PIONEER Innovationsnetzwerk für alternative Proteine. PIONEER vernetzt insg. 27 Forschungs- und Entwicklungsprojekte zu alternativen Proteinquellen. Ziel ist es, Innovationen entlang der gesamten Wertschöpfungskette zu bündeln und schneller in die Praxis zu übertragen. Die DLG übernimmt dabei u.a. die Koordination und den Wissenstranfer Richtung Praxis.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Naturschutz (BfN)",
+"epl": "16",
+"von": 70001,
+"bis": 80000,
+"zweck": "IWANA - Das Projekt untersucht, wie Ackerwildkräuter in intensive landwirtschaftliche Produktionssysteme integriert werden können. Ziel ist es, Biodiversität zu fördern, ohne die Wirtschaftlichkeit landwirtschaftlicher Betriebe wesentlich zu beeinträchtigen. Dazu werden praxisnahe Anbausysteme und deren Auswirkungen auf Ertrag, Pflanzenschutz und Ökologie getestet.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 2380011,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Hubertus Paetow",
+"funktion": "Präsident und Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004830/75081",
+"stand": "2026-05-22"
+}
+},
+{
+"name": "Lothar Hövelmann",
+"funktion": "Hauptgeschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004830/75081",
+"stand": "2026-05-22"
+}
+},
+{
+"name": "Katharina Riehn",
+"funktion": "Vizepräsidentin und stellvertretende Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004830/75081",
+"stand": "2026-05-22"
+}
+},
+{
+"name": "Till Meinel",
+"funktion": "Vizepräsident und stellvertretender Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004830/75081",
+"stand": "2026-05-22"
+}
+},
+{
+"name": "Philipp Schulze Esking",
+"funktion": "Vizepräsident und stellvertretender Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004830/75081",
+"stand": "2026-05-22"
+}
+},
+{
+"name": "Anna Catharina Voges",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004830/75081",
+"stand": "2026-05-22"
+}
+},
+{
+"name": "Ulrich Westrup",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004830/75081",
+"stand": "2026-05-22"
+}
+},
+{
+"name": "Erik Guttulsröd",
+"funktion": "Besonderer Vertreter i.S.d. § 30 BGB",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004830/75081",
+"stand": "2026-05-22"
+}
+},
+{
+"name": "Simone Poppe",
+"funktion": "Vizepräsidentin und stellvertretende Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004830/75081",
+"stand": "2026-05-22"
+}
+},
+{
+"name": "Stefan Zwoll",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004830/75081",
+"stand": "2026-05-22"
+}
+},
+{
+"name": "Tobias Eichberg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004830/75081",
+"stand": "2026-05-22"
+}
+},
+{
+"name": "Jens Kremer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004830/75081",
+"stand": "2026-05-22"
+}
+},
+{
+"name": "Nils Borchard",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004830/75081",
+"stand": "2026-05-22"
+}
+},
+{
+"name": "Freya von Czettritz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004830/75081",
+"stand": "2026-05-22"
+}
+},
+{
+"name": "Rudolf Hepp",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004830/75081",
+"stand": "2026-05-22"
+}
+},
+{
+"name": "Ines Rathke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004830/75081",
+"stand": "2026-05-22"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 2580001,
+"bis": 2590000
+},
+"lobbyausgaben": {
+"von": 310001,
+"bis": 320000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/c9/13/741274/document.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004830/75081",
+"abgerufen": "2026-11-02",
+"stand": "2026-05-22",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

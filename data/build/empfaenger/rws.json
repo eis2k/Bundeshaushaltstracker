@@ -1,0 +1,103 @@
+{
+"id": "rws",
+"name": "RWS GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Fuerth",
+"website": "https://www.rws-technology.com/de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007930",
+"eintrag_id": 86633,
+"version": 3,
+"stand": "2026-09-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007930/86633",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/84/ce/850264/Lobbyregister-Registereintraege-Detailansicht-R007930-2026-09-29_14-32-37.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 120001,
+"bis": 130000,
+"zweck": "Förderung von Entwicklungskosten",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 280001,
+"bis": 290000,
+"zweck": "Förderung Produktionsanlage",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 400002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Dirk Prehn",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007930/86633",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Wolfgang Kudoke",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007930/86633",
+"stand": "2026-09-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/8f/1f/850263/260415_Testierter_Abschluss_RWS-GmbH_31-12-2024_oA.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007930/86633",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-29",
+"etikett": "Eigenangabe",
+"version": 3
+}
+]
+}

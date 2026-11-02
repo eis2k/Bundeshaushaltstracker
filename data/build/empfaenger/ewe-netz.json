@@ -1,0 +1,180 @@
+{
+"id": "ewe-netz",
+"name": "EWE NETZ GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Oldenburg",
+"website": "https://www.ewe-netz.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001660",
+"eintrag_id": 87268,
+"version": 10,
+"stand": "2026-10-16",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001660/87268",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/0d/70/862282/Lobbyregister-Registereintraege-Detailansicht-R001660-2026-10-16_09-58-30.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 170001,
+"bis": 180000,
+"zweck": "1. Verbundprojekt: unIT-e² - Reallabor für verNETZte E-Mobilität; Koordinierte Nutzung von Flexibilitäten im Verteilnetz 2. WARAN - Wärme anbinden und netzdienlich nutzen / Koordinierte Nutzung von Flexibilitäten im Verteilnetz 3. Redispatch 3.0: Demonstrationsprojekt Redispatch 4. Opti-VNL - Optimierte Verfahren zur Prognose vertikaler Netzlast unter Nutzung von maschinellem Lernen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 40001,
+"bis": 50000,
+"zweck": "1. WärmewendeNordwest - Digitalisierung zur Umsetzung von Wärmewende- und Mehrwertanwendungen für Gebäude, Campus, Quartiere und Kommunen im Nordwesten 2. aqua3 - Technische Ausgestaltung und digital gestützte Bewirtschaftung von 3 qualitätsgesicherten Wasserkreisläufen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 210002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Torsten Maus",
+"funktion": "Vorsitzender der Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001660/87268",
+"stand": "2026-10-16"
+}
+},
+{
+"name": "Jörn Machheit",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001660/87268",
+"stand": "2026-10-16"
+}
+},
+{
+"name": "Michael Westerburg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001660/87268",
+"stand": "2026-10-16"
+}
+},
+{
+"name": "Andreas Rixgens",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001660/87268",
+"stand": "2026-10-16"
+}
+},
+{
+"name": "Holger Gerdes",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001660/87268",
+"stand": "2026-10-16"
+}
+},
+{
+"name": "Tjark Melchert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001660/87268",
+"stand": "2026-10-16"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "abgeordneter_funktion",
+"person": "Dr. Alaa Alhamwi",
+"funktion_person": "MdB, Bündnis 90 Die Grünen",
+"funktion_beim_empfaenger": "Mitglied des Beirates (bis 30.06.2025)",
+"kategorie": "Funktionen in Unternehmen",
+"abgleich": "exakt",
+"satz": "Dr. Alaa Alhamwi (MdB, Bündnis 90 Die Grünen) ist laut bundestag.de Mitglied des Beirates (bis 30.06.2025) bei EWE NETZ GmbH. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Wirtschaft und Energie; Schriftführer/in; Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen. EWE NETZ GmbH erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Energie; Bundesministerium für Bildung und Forschung.",
+"ausschuesse": [
+"Ausschuss für Wirtschaft und Energie",
+"Schriftführer/in",
+"Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen"
+],
+"geld_aus": [
+"Bundesministerium für Wirtschaft und Energie",
+"Bundesministerium für Bildung und Forschung"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/A/alhamwi_alaa-1043402",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 280001,
+"bis": 290000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/cc/95/862279/EWE-Finanzbericht-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001660/87268",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-16",
+"etikett": "Eigenangabe",
+"version": 10
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/A/alhamwi_alaa-1043402",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

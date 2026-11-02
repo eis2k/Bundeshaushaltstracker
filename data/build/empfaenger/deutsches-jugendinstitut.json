@@ -1,0 +1,84 @@
+{
+"id": "deutsches-jugendinstitut",
+"name": "Deutsches Jugendinstitut e. V.",
+"art": "forschung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": true,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "17-1702-68604",
+"text": "Zuschuss an das Deutsche Jugendinstitut e. V., München",
+"epl": "17",
+"epl_text": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"werte": {
+"2015": {
+"soll": 9080000,
+"ist": 8804997
+},
+"2016": {
+"soll": 9106000,
+"ist": 8960212
+},
+"2017": {
+"soll": 11534000,
+"ist": 11140574
+},
+"2018": {
+"soll": 11684000,
+"ist": 11744000
+},
+"2019": {
+"soll": 14062000,
+"ist": 13684662
+},
+"2020": {
+"soll": 15101000,
+"ist": 12580000
+},
+"2021": {
+"soll": 15101000,
+"ist": 13301000
+},
+"2022": {
+"soll": 15646000,
+"ist": 15376000
+},
+"2023": {
+"soll": 15191000,
+"ist": 14491000
+},
+"2024": {
+"soll": 15191000,
+"ist": 14360137
+},
+"2025": {
+"soll": 15191000,
+"ist": 15345000
+},
+"2026": {
+"soll": 16201000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

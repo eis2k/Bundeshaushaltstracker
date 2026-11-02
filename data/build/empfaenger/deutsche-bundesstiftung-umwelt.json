@@ -1,0 +1,621 @@
+{
+"id": "deutsche-bundesstiftung-umwelt",
+"name": "Deutsche Bundesstiftung Umwelt",
+"art": "verein_stiftung",
+"rechtsform": "Rechtsfähige Stiftung bürgerlichen Rechts",
+"sitz": "Osnabrück",
+"website": "www.dbu.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001532",
+"eintrag_id": 79214,
+"version": 15,
+"stand": "2026-06-18",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001532/79214",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/00/36/762775/Lobbyregister-Registereintraege-Detailansicht-R001532-2026-06-18_08-11-03.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Stiftung „Zukunft des Kohlenstoffmarktes“ in Liquidation",
+"epl": null,
+"von": 420001,
+"bis": 430000,
+"zweck": "Es handelt sich um eine Zuwendung aus der Liquidation der Stiftung „Zukunft des Kohlenstoffmarktes“ entsprechend der Satzung der Stiftung „Zukunft des Kohlenstoffmarktes“.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 420001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Alexander Bonde",
+"funktion": "Generalsekretär",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001532/79214",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Antje Boetius",
+"funktion": "Kuratoriumsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001532/79214",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Christiane Hipp",
+"funktion": "Kuratoriumsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001532/79214",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Kai Niebert",
+"funktion": "Kuratoriumsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001532/79214",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Harald Ebner",
+"funktion": "Kuratoriumsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001532/79214",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Christian Meyer",
+"funktion": "Kuratoriumsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001532/79214",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Sabine Mauderer",
+"funktion": "Kuratoriumsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Vorstandsmitglied",
+"stelle": "Deutsche Bundesbank (BBk)",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001532/79214",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Wilhelm Mauß",
+"funktion": "Kuratoriumsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001532/79214",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Katharina Reuter",
+"funktion": "Kuratoriumsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001532/79214",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Christoph Schmitz-Dethlefsen",
+"funktion": "Kuratoriumsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001532/79214",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Karsten Wesche",
+"funktion": "Kuratoriumsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001532/79214",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Beate Baron",
+"funktion": "Kuratoriumsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Abteilungsleiterin",
+"stelle": "Bundesministerium für Wirtschaft und Energie (BMWE) oder dessen Geschäftsbereich",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001532/79214",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Jakob Blankenburg",
+"funktion": "Kuratoriumsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001532/79214",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Silke Launert",
+"funktion": "Kuratoriumsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_GOVERNMENT",
+"funktion": "Parlamentarische/-r Staatssekretär/-in",
+"stelle": "Bundesregierung",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001532/79214",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Carsten Müller",
+"funktion": "Kuratoriumsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001532/79214",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Dennis Rohde",
+"funktion": "Kuratoriumsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_GOVERNMENT",
+"funktion": "Parlamentarische/-r Staatssekretär/-in",
+"stelle": "Bundesregierung",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001532/79214",
+"stand": "2026-06-18"
+}
+},
+{
+"name": "Christine Wilcken",
+"funktion": "Kuratoriumsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Abteilungsleiterin",
+"stelle": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN) oder dessen Geschäftsbereich",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001532/79214",
+"stand": "2026-06-18"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Harald Ebner",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag",
+"funktion_beim_empfaenger": "Kuratoriumsmitglied",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Harald Ebner ist laut Lobbyregister Kuratoriumsmitglied bei Deutsche Bundesstiftung Umwelt und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag. Deutsche Bundesstiftung Umwelt erhielt laut Lobbyregister Mittel von: Stiftung „Zukunft des Kohlenstoffmarktes“ in Liquidation.",
+"ausschuesse": [],
+"geld_aus": [
+"Stiftung „Zukunft des Kohlenstoffmarktes“ in Liquidation"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001532/79214",
+"stand": "2026-06-18"
+}
+],
+"stand": "2026-06-18"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Sabine Mauderer",
+"funktion_person": "Vorstandsmitglied, Deutsche Bundesbank (BBk)",
+"funktion_beim_empfaenger": "Kuratoriumsmitglied",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Sabine Mauderer ist laut Lobbyregister Kuratoriumsmitglied bei Deutsche Bundesstiftung Umwelt und hatte zuvor eine öffentliche Funktion: Vorstandsmitglied, Deutsche Bundesbank (BBk). Deutsche Bundesstiftung Umwelt erhielt laut Lobbyregister Mittel von: Stiftung „Zukunft des Kohlenstoffmarktes“ in Liquidation.",
+"ausschuesse": [],
+"geld_aus": [
+"Stiftung „Zukunft des Kohlenstoffmarktes“ in Liquidation"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001532/79214",
+"stand": "2026-06-18"
+}
+],
+"stand": "2026-06-18"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Beate Baron",
+"funktion_person": "Abteilungsleiterin, Bundesministerium für Wirtschaft und Energie (BMWE) oder dessen Geschäftsbereich",
+"funktion_beim_empfaenger": "Kuratoriumsmitglied",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Beate Baron ist laut Lobbyregister Kuratoriumsmitglied bei Deutsche Bundesstiftung Umwelt und hatte zuvor eine öffentliche Funktion: Abteilungsleiterin, Bundesministerium für Wirtschaft und Energie (BMWE) oder dessen Geschäftsbereich. Deutsche Bundesstiftung Umwelt erhielt laut Lobbyregister Mittel von: Stiftung „Zukunft des Kohlenstoffmarktes“ in Liquidation.",
+"ausschuesse": [],
+"geld_aus": [
+"Stiftung „Zukunft des Kohlenstoffmarktes“ in Liquidation"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001532/79214",
+"stand": "2026-06-18"
+}
+],
+"stand": "2026-06-18"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Jakob Blankenburg",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag",
+"funktion_beim_empfaenger": "Kuratoriumsmitglied",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Jakob Blankenburg ist laut Lobbyregister Kuratoriumsmitglied bei Deutsche Bundesstiftung Umwelt und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag. Deutsche Bundesstiftung Umwelt erhielt laut Lobbyregister Mittel von: Stiftung „Zukunft des Kohlenstoffmarktes“ in Liquidation.",
+"ausschuesse": [],
+"geld_aus": [
+"Stiftung „Zukunft des Kohlenstoffmarktes“ in Liquidation"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001532/79214",
+"stand": "2026-06-18"
+}
+],
+"stand": "2026-06-18"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Silke Launert",
+"funktion_person": "Parlamentarische/-r Staatssekretär/-in, Bundesregierung",
+"funktion_beim_empfaenger": "Kuratoriumsmitglied",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Silke Launert ist laut Lobbyregister Kuratoriumsmitglied bei Deutsche Bundesstiftung Umwelt und hatte zuvor eine öffentliche Funktion: Parlamentarische/-r Staatssekretär/-in, Bundesregierung. Deutsche Bundesstiftung Umwelt erhielt laut Lobbyregister Mittel von: Stiftung „Zukunft des Kohlenstoffmarktes“ in Liquidation.",
+"ausschuesse": [],
+"geld_aus": [
+"Stiftung „Zukunft des Kohlenstoffmarktes“ in Liquidation"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001532/79214",
+"stand": "2026-06-18"
+}
+],
+"stand": "2026-06-18"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Carsten Müller",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag",
+"funktion_beim_empfaenger": "Kuratoriumsmitglied",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Carsten Müller ist laut Lobbyregister Kuratoriumsmitglied bei Deutsche Bundesstiftung Umwelt und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag. Deutsche Bundesstiftung Umwelt erhielt laut Lobbyregister Mittel von: Stiftung „Zukunft des Kohlenstoffmarktes“ in Liquidation.",
+"ausschuesse": [],
+"geld_aus": [
+"Stiftung „Zukunft des Kohlenstoffmarktes“ in Liquidation"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001532/79214",
+"stand": "2026-06-18"
+}
+],
+"stand": "2026-06-18"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Dennis Rohde",
+"funktion_person": "Parlamentarische/-r Staatssekretär/-in, Bundesregierung",
+"funktion_beim_empfaenger": "Kuratoriumsmitglied",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Dennis Rohde ist laut Lobbyregister Kuratoriumsmitglied bei Deutsche Bundesstiftung Umwelt und hatte zuvor eine öffentliche Funktion: Parlamentarische/-r Staatssekretär/-in, Bundesregierung. Deutsche Bundesstiftung Umwelt erhielt laut Lobbyregister Mittel von: Stiftung „Zukunft des Kohlenstoffmarktes“ in Liquidation.",
+"ausschuesse": [],
+"geld_aus": [
+"Stiftung „Zukunft des Kohlenstoffmarktes“ in Liquidation"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001532/79214",
+"stand": "2026-06-18"
+}
+],
+"stand": "2026-06-18"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Christine Wilcken",
+"funktion_person": "Abteilungsleiterin, Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN) oder dessen Geschäftsbereich",
+"funktion_beim_empfaenger": "Kuratoriumsmitglied",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Christine Wilcken ist laut Lobbyregister Kuratoriumsmitglied bei Deutsche Bundesstiftung Umwelt und hatte zuvor eine öffentliche Funktion: Abteilungsleiterin, Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN) oder dessen Geschäftsbereich. Deutsche Bundesstiftung Umwelt erhielt laut Lobbyregister Mittel von: Stiftung „Zukunft des Kohlenstoffmarktes“ in Liquidation.",
+"ausschuesse": [],
+"geld_aus": [
+"Stiftung „Zukunft des Kohlenstoffmarktes“ in Liquidation"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001532/79214",
+"stand": "2026-06-18"
+}
+],
+"stand": "2026-06-18"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Jakob Blankenburg",
+"funktion_person": "MdB, SPD",
+"funktion_beim_empfaenger": "Mitglied des Kuratoriums (ab 21.05.2026)",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Jakob Blankenburg (MdB, SPD) ist laut bundestag.de Mitglied des Kuratoriums (ab 21.05.2026) bei Deutsche Bundesstiftung Umwelt. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit. Deutsche Bundesstiftung Umwelt erhielt laut Lobbyregister Mittel von: Stiftung „Zukunft des Kohlenstoffmarktes“ in Liquidation.",
+"ausschuesse": [
+"Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit"
+],
+"geld_aus": [
+"Stiftung „Zukunft des Kohlenstoffmarktes“ in Liquidation"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/B/blankenburg_jakob-1043716",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Harald Ebner",
+"funktion_person": "MdB, Bündnis 90 Die Grünen",
+"funktion_beim_empfaenger": "Mitglied des Kuratoriums",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Harald Ebner (MdB, Bündnis 90 Die Grünen) ist laut bundestag.de Mitglied des Kuratoriums bei Deutsche Bundesstiftung Umwelt. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit; Ausschuss für Landwirtschaft, Ernährung und Heimat. Deutsche Bundesstiftung Umwelt erhielt laut Lobbyregister Mittel von: Stiftung „Zukunft des Kohlenstoffmarktes“ in Liquidation.",
+"ausschuesse": [
+"Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+"Ausschuss für Landwirtschaft, Ernährung und Heimat"
+],
+"geld_aus": [
+"Stiftung „Zukunft des Kohlenstoffmarktes“ in Liquidation"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/E/ebner_harald-1044140",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Elisabeth Kaiser",
+"funktion_person": "MdB, SPD",
+"funktion_beim_empfaenger": "Mitglied des Kuratoriums, von Amts wegen (bis 06.05.2025)",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Elisabeth Kaiser (MdB, SPD) ist laut bundestag.de Mitglied des Kuratoriums, von Amts wegen (bis 06.05.2025) bei Deutsche Bundesstiftung Umwelt. Deutsche Bundesstiftung Umwelt erhielt laut Lobbyregister Mittel von: Stiftung „Zukunft des Kohlenstoffmarktes“ in Liquidation.",
+"ausschuesse": [],
+"geld_aus": [
+"Stiftung „Zukunft des Kohlenstoffmarktes“ in Liquidation"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/K/kaiser_elisabeth-1045268",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Dennis Rohde",
+"funktion_person": "MdB, SPD",
+"funktion_beim_empfaenger": "Mitglied des Kuratoriums, ehrenamtlich (ab 21.05.2026)",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Dennis Rohde (MdB, SPD) ist laut bundestag.de Mitglied des Kuratoriums, ehrenamtlich (ab 21.05.2026) bei Deutsche Bundesstiftung Umwelt. Deutsche Bundesstiftung Umwelt erhielt laut Lobbyregister Mittel von: Stiftung „Zukunft des Kohlenstoffmarktes“ in Liquidation.",
+"ausschuesse": [],
+"geld_aus": [
+"Stiftung „Zukunft des Kohlenstoffmarktes“ in Liquidation"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/R/rohde_dennis-1046814",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Steffen Bilger",
+"funktion_person": "MdB, CDU/CSU",
+"funktion_beim_empfaenger": "Mitglied des Kuratoriums (bis 20.05.2026)",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Steffen Bilger (MdB, CDU/CSU) ist laut bundestag.de Mitglied des Kuratoriums (bis 20.05.2026) bei Deutsche Bundesstiftung Umwelt. Ausschüsse und Gremien im Bundestag laut bundestag.de: Wahlausschuss. Deutsche Bundesstiftung Umwelt erhielt laut Lobbyregister Mittel von: Stiftung „Zukunft des Kohlenstoffmarktes“ in Liquidation.",
+"ausschuesse": [
+"Wahlausschuss"
+],
+"geld_aus": [
+"Stiftung „Zukunft des Kohlenstoffmarktes“ in Liquidation"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/B/bilger_steffen-1048434",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 40001,
+"bis": 50000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/07/2d/762774/2025-DBU-Jahresabschluss-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001532/79214",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-18",
+"etikett": "Eigenangabe",
+"version": 15
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/B/blankenburg_jakob-1043716",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/E/ebner_harald-1044140",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/K/kaiser_elisabeth-1045268",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/R/rohde_dennis-1046814",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/B/bilger_steffen-1048434",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

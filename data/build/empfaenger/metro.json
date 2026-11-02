@@ -1,0 +1,213 @@
+{
+"id": "metro",
+"name": "METRO AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Düsseldorf",
+"website": "https://politik.metroag.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002142",
+"eintrag_id": 86866,
+"version": 17,
+"stand": "2026-10-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002142/86866",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/fa/de/854690/Lobbyregister-Registereintraege-Detailansicht-R002142-2026-10-01_12-44-44.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA)",
+"epl": null,
+"von": 160001,
+"bis": 170000,
+"zweck": "Fördergelder für die Investitionen in energiesparende Kälte- und Klimaanlagen und Gebäudeleittechnik an verschiedenen Standorten der METRO, inklusive Dortmund, Dresden, Hamm, Oldenburg.",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 160001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Eric  Riegger",
+"funktion": "Vorsitzender des Vorstands und Finanzvorstand ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002142/86866",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Christiane  Giesen",
+"funktion": "Chief Operating Officer und Arbeitsdirektorin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002142/86866",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Guillaume Deruyter",
+"funktion": "Chief Customer and Merchandise Officer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002142/86866",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Ivonne Bollow",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002142/86866",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Illa  Brockmeyer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002142/86866",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Olaf Schulze",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002142/86866",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Martin Behle",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002142/86866",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Julia Thielicke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002142/86866",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Schlinge Volker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002142/86866",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Dominik Staus",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2026-04"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002142/86866",
+"stand": "2026-10-01"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Dominik Staus",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2026-04",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Dominik Staus ist laut Lobbyregister Interessenvertretung bei METRO AG und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2026-04. METRO AG erhielt laut Lobbyregister Mittel von: Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA).",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002142/86866",
+"stand": "2026-10-01"
+}
+],
+"stand": "2026-10-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 400001,
+"bis": 410000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/3e/cb/854689/2024-25-metro-geschaeftsbericht-de.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002142/86866",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-01",
+"etikett": "Eigenangabe",
+"version": 17
+}
+]
+}

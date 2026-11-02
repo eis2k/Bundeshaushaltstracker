@@ -1,0 +1,204 @@
+{
+"id": "kindernothilfe",
+"name": "Kindernothilfe e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Duisburg",
+"website": "www.kindernothilfe.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001156",
+"eintrag_id": 82549,
+"version": 9,
+"stand": "2026-07-07",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001156/82549",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/82/c7/808187/Lobbyregister-Registereintraege-Detailansicht-R001156-2026-07-07_17-26-37.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMZ",
+"epl": "23",
+"von": 10890001,
+"bis": 10900000,
+"zweck": "Drittmittel für Entwicklungsprojekte mit Eigenanteil.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 2690001,
+"bis": 2700000,
+"zweck": "Zuwendung mit Eigenanteil",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 13580002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Katrin Weidemann",
+"funktion": "CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001156/82549",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Carsten Montag",
+"funktion": "CPO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001156/82549",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Timo Pauler",
+"funktion": "CFO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001156/82549",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Frank Mischo-Düngen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001156/82549",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Malte Pfau",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001156/82549",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Christiane Mohr",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001156/82549",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Judith Striek",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001156/82549",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Elias Dehnen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001156/82549",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Saskia Metz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001156/82549",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Laura Goldschmitt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001156/82549",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Cinthia-Yaroslawa Herrera-Myronyuk",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001156/82549",
+"stand": "2026-07-07"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 53310001,
+"bis": 53320000
+},
+"mitgliedsbeitraege": {
+"von": 10001,
+"bis": 20000
+},
+"lobbyausgaben": {
+"von": 70001,
+"bis": 80000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/77/df/808186/Jahresbericht-Kindernothilfe-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001156/82549",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-07",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

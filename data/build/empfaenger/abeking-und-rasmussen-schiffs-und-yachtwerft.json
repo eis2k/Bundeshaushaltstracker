@@ -1,0 +1,156 @@
+{
+"id": "abeking-und-rasmussen-schiffs-und-yachtwerft",
+"name": "ABEKING & RASMUSSEN Schiffs- und Yachtwerft SE",
+"art": "unternehmen",
+"rechtsform": "Europäische Aktiengesellschaft (SE)",
+"sitz": "Lemwerder",
+"website": "www.abeking.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002102",
+"eintrag_id": 81381,
+"version": 10,
+"stand": "2026-07-08",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002102/81381",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c5/14/808660/Lobbyregister-Registereintraege-Detailansicht-R002102-2026-07-08_10-58-01.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMWi",
+"epl": "09",
+"von": 80001,
+"bis": 90000,
+"zweck": "Zuwendung Förderprogramm \"Innovativer Schiffbau sichert wettbewerbsfähige Arbeitsplätze\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWi",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "Zuwendung Nationales Förderprogramm betreut durch das PTJ",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWi",
+"epl": "09",
+"von": 230001,
+"bis": 240000,
+"zweck": "Zuwendung Nationales Förderprogramm betreut durch das PTJ",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 340003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Matthias Hellmann",
+"funktion": "Vorstand (CEO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002102/81381",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Björn Schlüter",
+"funktion": "Vorstand (COO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002102/81381",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Christoph Arndt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002102/81381",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Christian Hansjoachim Peters",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002102/81381",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Thomas Alexander Sperling",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002102/81381",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Toralf Zimmermann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002102/81381",
+"stand": "2026-07-08"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 70001,
+"bis": 80000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/b2/18/808659/AuR-Werft-KAP-24-BE-LESE-_edit.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002102/81381",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-08",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

@@ -1,0 +1,225 @@
+{
+"id": "linde",
+"name": "Linde GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Pullach",
+"website": "www.linde.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002782",
+"eintrag_id": 83414,
+"version": 20,
+"stand": "2026-07-20",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002782/83414",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/e9/37/816410/Lobbyregister-Registereintraege-Detailansicht-R002782-2026-07-20_14-54-47.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Verkehr",
+"epl": "12",
+"von": 420001,
+"bis": 430000,
+"zweck": "Fördermittel EffHycient (Werkstoffleichtbau von mobilem LH2-Equipment)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 320001,
+"bis": 330000,
+"zweck": "Fördermittel SINEWAVE (Grundlagenforschung Elektrolyse)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 130001,
+"bis": 140000,
+"zweck": "Fördermittel AppLHy (LH2 Forschung)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 50001,
+"bis": 60000,
+"zweck": "Fördermittel SynERGIE 3 (Innovative Verfahrenstechnik)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "Fördermittel Carbon2Chem Phase2 (Wertvolle Vorprodukte aus Hüttengasen der Stahlproduktion)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 430001,
+"bis": 440000,
+"zweck": "Fördermittel PRETACA (Vermeidung on klimarelevanten Emissionen in der Grundstoffchemie)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "Fördermitel SuperLink (Kühltechnik für supraleitende Kabel)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 260001,
+"bis": 270000,
+"zweck": "Fördermittel PYCRA (Steamcracking von Pyrolyseölen aus Kunststoffabfällen )",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 300001,
+"bis": 310000,
+"zweck": "Fördermittel HyPAC (Ammonia Cracking)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 20001,
+"bis": 30000,
+"zweck": "Fördermitte Praezisions-LDS (Automatisierte und KI-übrwachte Herstellung Thermisch gespritzter Offshore-Beschichtungen)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "Fördermittel HyQ2Ra (Messtechnische Erfassung der H2-Reinheit an Tankstellen)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 1300001,
+"bis": 1310000,
+"zweck": "Fördermittel IntegH2ate (Forschung Großelektrolyseure)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr",
+"epl": "12",
+"von": 90001,
+"bis": 100000,
+"zweck": "Fördermittel \"Energiepark Mainz\" (Grüner Wasserstoff für kommunale Anwendungen)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 3380013,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Oliver  Pfann",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002782/83414",
+"stand": "2026-07-20"
+}
+},
+{
+"name": "Matthias von Plotho",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002782/83414",
+"stand": "2026-07-20"
+}
+},
+{
+"name": "Stefano  Innocenzi",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002782/83414",
+"stand": "2026-07-20"
+}
+},
+{
+"name": "Jan Swoboda",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002782/83414",
+"stand": "2026-07-20"
+}
+},
+{
+"name": "Jan-Philipp  Bedford",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002782/83414",
+"stand": "2026-07-20"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 300001,
+"bis": 310000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/be/a3/816399/2025-annual-report-to-shareholders.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002782/83414",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-20",
+"etikett": "Eigenangabe",
+"version": 20
+}
+]
+}

@@ -1,0 +1,172 @@
+{
+"id": "dmsb",
+"name": "DMSB e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Frankfurt am Main",
+"website": "www.dmsb.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004894",
+"eintrag_id": 82068,
+"version": 7,
+"stand": "2026-07-20",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004894/82068",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/12/93/816271/Lobbyregister-Registereintraege-Detailansicht-R004894-2026-07-20_13-29-33.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministeriums für Familie, Senioren, Frauen und Jugend (BMFSFJ)",
+"epl": null,
+"von": 80001,
+"bis": 90000,
+"zweck": "Personalkostenzuschüsse und Maßnahmenzuschüsse über die dsj",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Familie und Zivilgesellschaftliche Aufgaben",
+"epl": "17",
+"von": 1,
+"bis": 10000,
+"zweck": "Zuschuss BFD",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 80002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Julia Walter",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004894/82068",
+"stand": "2026-07-20"
+}
+},
+{
+"name": "Silke Langhorst",
+"funktion": "Stellvertretende Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004894/82068",
+"stand": "2026-07-20"
+}
+},
+{
+"name": "Robin   Strycek",
+"funktion": "Vorstand Sport",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004894/82068",
+"stand": "2026-07-20"
+}
+},
+{
+"name": "Wolfgang Wagner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004894/82068",
+"stand": "2026-07-20"
+}
+},
+{
+"name": "Nowack Andreas",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004894/82068",
+"stand": "2026-07-20"
+}
+},
+{
+"name": "Hans-Gerd Ennser",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004894/82068",
+"stand": "2026-07-20"
+}
+},
+{
+"name": "Maja Maurer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004894/82068",
+"stand": "2026-07-20"
+}
+},
+{
+"name": "Jürgen Hieke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004894/82068",
+"stand": "2026-07-20"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 30001,
+"bis": 40000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/a7/68/816270/DMSB-Mitgliederversammlung-2026-Ergebnis-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004894/82068",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-20",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

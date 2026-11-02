@@ -1,0 +1,97 @@
+{
+"id": "ahk-malaysia-malaysian-german-chamber-of-commerce-and-indust",
+"name": "AHK Malaysia / Malaysian German Chamber of Commerce and Industry",
+"art": "verein_stiftung",
+"rechtsform": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+"sitz": "50250 Kuala Lumpur",
+"website": "https://www.malaysia.ahk.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006086",
+"eintrag_id": 62816,
+"version": 6,
+"stand": "2025-07-28",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006086/62816",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/6c/31/592459/Lobbyregister-Registereintraege-Detailansicht-R006086-2025-07-28_09-24-31.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BWME ueber die Deutsche Industrie- und Handelskammer",
+"epl": null,
+"von": 840001,
+"bis": 850000,
+"zweck": "Bundeszuwendung des Jahres 2024 für den Betrieb der Auslandshandelskammer, über einen Beschluss des Bundestages im Haushalt des Bundeswirtschaftsministeriums, Position Außenwirtschaftsförderung.",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 840001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jan Noether",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006086/62816",
+"stand": "2025-07-28"
+}
+},
+{
+"name": "Tara Meite",
+"funktion": "Stellvertretende Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006086/62816",
+"stand": "2025-07-28"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 260001,
+"bis": 270000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/cd/d0/592458/MGCC-Audited-Report-2024.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006086/62816",
+"abgerufen": "2026-11-02",
+"stand": "2025-07-28",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

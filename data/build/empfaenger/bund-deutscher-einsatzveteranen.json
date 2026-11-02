@@ -1,0 +1,121 @@
+{
+"id": "bund-deutscher-einsatzveteranen",
+"name": "Bund Deutscher EinsatzVeteranen e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.veteranenverband.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002610",
+"eintrag_id": 75042,
+"version": 10,
+"stand": "2026-04-20",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002610/75042",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/cf/d2/724716/Lobbyregister-Registereintraege-Detailansicht-R002610-2026-04-20_16-04-02.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Verteidigung, EBU III 5",
+"epl": null,
+"von": 570001,
+"bis": 580000,
+"zweck": "Das Projekt „Kompetenznetzwerk psycho-soziale Veteranen- und Familienhilfe“ verfolgt den Aufbau eines bundesweiten, qualifizierten Erste-Hilfe-Systems auf Basis des bestehenden Ehrenamts im Verband. Es bietet außerhalb der Dienstzeiten erreichbare, niedrigschwellige und mobile Anlaufstellen, die betroffenen Veteranen und ihren Familien eine persönliche Kontaktaufnahme binnen 48 Stunden ermöglichen. Ziel ist eine kameradschaftliche, semi-professionelle bis professionelle Begleitung bis zum Greifen staatlicher und systemischer Hilfen. Das Netzwerk soll bundesweit – insbesondere in strukturschwachen und garnisonsarmen Regionen – aktiv sein, und durch persönliche Beratung, Alltagshilfe, soziale Gruppenangebote sowie Veranstaltungen zur sozialen Anbindung beitragen. Dazu zählen u.a.Familieninteraktionswochenenden, pferdegestützte Seminare, Selbsthilfegruppen und Auszeiten. Die ehrenamtlichen Kräfte werden durch Präsenz- und Onlineformate rechtlich und sozialpädagogisch weitergebildet.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 570001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "David Hallbauer",
+"funktion": "Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002610/75042",
+"stand": "2026-04-20"
+}
+},
+{
+"name": "Andreas Eggert",
+"funktion": "Stellvertretender Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002610/75042",
+"stand": "2026-04-20"
+}
+},
+{
+"name": "Tilo Dehne",
+"funktion": "Finanzvorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002610/75042",
+"stand": "2026-04-20"
+}
+},
+{
+"name": "Michael Bartscher",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002610/75042",
+"stand": "2026-04-20"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 240001,
+"bis": 250000
+},
+"mitgliedsbeitraege": {
+"von": 70001,
+"bis": 80000
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/14/0b/724714/Tatigkeitsbericht-Lobbyregister-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002610/75042",
+"abgerufen": "2026-11-02",
+"stand": "2026-04-20",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

@@ -1,0 +1,176 @@
+{
+"id": "wismut",
+"name": "Wismut GmbH",
+"art": "unternehmen",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "09-0903-68211",
+"text": "Zuwendungen an die Wismut GmbH - Betrieb",
+"epl": "09",
+"epl_text": "Bundesministerium für Wirtschaft und Energie",
+"werte": {
+"2015": {
+"soll": 118411000,
+"ist": 121511000
+},
+"2016": {
+"soll": 123400000,
+"ist": 129800000
+},
+"2017": {
+"soll": 118500000,
+"ist": 115900000
+},
+"2018": {
+"soll": 115000000,
+"ist": 111800000
+},
+"2019": {
+"soll": 110200000,
+"ist": 110700000
+},
+"2020": {
+"soll": 105500000,
+"ist": 101800000
+},
+"2021": {
+"soll": 106750000,
+"ist": 105400000
+},
+"2022": {
+"soll": 112150000,
+"ist": 113650000
+},
+"2023": {
+"soll": 110300000,
+"ist": 115350000
+},
+"2024": {
+"soll": 126500000,
+"ist": 126500000
+},
+"2025": {
+"soll": 126500000,
+"ist": 120900000
+},
+"2026": {
+"soll": 128500000,
+"ist": null
+}
+}
+},
+{
+"id": "09-0903-89111",
+"text": "Zuwendungen an die Wismut GmbH - Investitionen",
+"epl": "09",
+"epl_text": "Bundesministerium für Wirtschaft und Energie",
+"werte": {
+"2015": {
+"soll": 9000000,
+"ist": 9000000
+},
+"2016": {
+"soll": 12600000,
+"ist": 12600000
+},
+"2017": {
+"soll": 13500000,
+"ist": 13500000
+},
+"2018": {
+"soll": 14000000,
+"ist": 14000000
+},
+"2019": {
+"soll": 17000000,
+"ist": 16100000
+},
+"2020": {
+"soll": 14500000,
+"ist": 14500000
+},
+"2021": {
+"soll": 14000000,
+"ist": 10600000
+},
+"2022": {
+"soll": 13000000,
+"ist": 9500000
+},
+"2023": {
+"soll": 11000000,
+"ist": 11000000
+},
+"2024": {
+"soll": 10000000,
+"ist": 11500000
+},
+"2025": {
+"soll": 10000000,
+"ist": 10000000
+},
+"2026": {
+"soll": 10000000,
+"ist": null
+}
+}
+},
+{
+"id": "09-0903-68611",
+"text": "Zuwendungen an die Wismut GmbH - Beitrag zur Berufsgenossenschaft",
+"epl": "09",
+"epl_text": "Bundesministerium für Wirtschaft und Klimaschutz",
+"werte": {
+"2017": {
+"soll": 84000000,
+"ist": 89200000
+},
+"2018": {
+"soll": 37000000,
+"ist": 24457315
+},
+"2019": {
+"soll": 30800000,
+"ist": -85953243
+},
+"2020": {
+"soll": 26750000,
+"ist": 16209625
+},
+"2021": {
+"soll": 18000000,
+"ist": 15584721
+},
+"2022": {
+"soll": 18000000,
+"ist": 11633753
+},
+"2023": {
+"soll": 16750000,
+"ist": 10965106
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

@@ -1,0 +1,187 @@
+{
+"id": "koehler-paper",
+"name": "Koehler Paper SE",
+"art": "unternehmen",
+"rechtsform": "Europäische Aktiengesellschaft (SE)",
+"sitz": "Oberkirch",
+"website": "www.koehlerpaper.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007451",
+"eintrag_id": 61430,
+"version": 2,
+"stand": "2025-08-12",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007451/61430",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/2b/2f/601216/Lobbyregister-Registereintraege-Detailansicht-R007451-2025-08-12_16-55-04.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "KfW",
+"epl": "09",
+"von": 2290001,
+"bis": 2300000,
+"zweck": "Papiermaschine Oberkirch",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "KfW",
+"epl": "09",
+"von": 1990001,
+"bis": 2000000,
+"zweck": "Hallenbau Rollmaschine",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "KfW",
+"epl": "09",
+"von": 450001,
+"bis": 460000,
+"zweck": "Laborgebäude",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "KfW",
+"epl": "09",
+"von": 880001,
+"bis": 890000,
+"zweck": "BEG Gebäude",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "KfW",
+"epl": "09",
+"von": 1530001,
+"bis": 1540000,
+"zweck": "PM4 Oberkirch",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "KfW",
+"epl": "09",
+"von": 1230001,
+"bis": 1240000,
+"zweck": "Vakuumpumpe Turbair",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "KfW",
+"epl": "09",
+"von": 1100001,
+"bis": 1110000,
+"zweck": "Schuhpresse",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 9470007,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Stefan Karrer",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007451/61430",
+"stand": "2025-08-12"
+}
+},
+{
+"name": "Frank Lendowski",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007451/61430",
+"stand": "2025-08-12"
+}
+},
+{
+"name": "Kai Furler",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007451/61430",
+"stand": "2025-08-12"
+}
+},
+{
+"name": "Sven Korndörffer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007451/61430",
+"stand": "2025-08-12"
+}
+},
+{
+"name": "Rainer Sontowski",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007451/61430",
+"stand": "2025-08-12"
+}
+},
+{
+"name": "Kathrin Degmair",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007451/61430",
+"stand": "2025-08-12"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/1e/d4/601213/Paper-SE_KAP-2024_Testat_eK.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007451/61430",
+"abgerufen": "2026-11-02",
+"stand": "2025-08-12",
+"etikett": "Eigenangabe",
+"version": 2
+}
+]
+}

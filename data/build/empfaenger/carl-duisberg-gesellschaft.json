@@ -1,0 +1,96 @@
+{
+"id": "carl-duisberg-gesellschaft",
+"name": "Carl Duisberg Gesellschaft e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Langenhagen / Hannover",
+"website": "www.cdg-carlduisberg.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006925",
+"eintrag_id": 84375,
+"version": 6,
+"stand": "2026-08-06",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006925/84375",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/a0/cc/827645/Lobbyregister-Registereintraege-Detailansicht-R006925-2026-08-06_16-44-56.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "GIZ",
+"epl": "23",
+"von": 1,
+"bis": 10000,
+"zweck": "Zuschuss für eine Veranstaltung in Nairobi zum Thema Rethinking Authonomy in Eastern Africa",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Bernhard  Longin",
+"funktion": "Vorsitzender des Vorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006925/84375",
+"stand": "2026-08-06"
+}
+},
+{
+"name": "Frank Tetzel",
+"funktion": "Geschäftsführender Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006925/84375",
+"stand": "2026-08-06"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/8a/4c/827644/10097euer2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006925/84375",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-06",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

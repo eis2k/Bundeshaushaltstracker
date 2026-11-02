@@ -1,0 +1,114 @@
+{
+"id": "coroplast-fritz-mueller",
+"name": "Coroplast Fritz Müller GmbH & Co. KG",
+"art": "unternehmen",
+"rechtsform": "Kommanditgesellschaft (KG)",
+"sitz": "Wuppertal",
+"website": "https://www.coroplast-group.com/de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007000",
+"eintrag_id": 80810,
+"version": 5,
+"stand": "2026-07-17",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007000/80810",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/0b/9b/815695/Lobbyregister-Registereintraege-Detailansicht-R007000-2026-07-17_16-39-02.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz (BMWK)",
+"epl": "09",
+"von": 60001,
+"bis": 70000,
+"zweck": "Förderung im Rahmes des Projekts \"Verwaltungsschale für den Leitungssatz\" (VWS4LS)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz (BMWK)",
+"epl": "09",
+"von": 80001,
+"bis": 90000,
+"zweck": "Förderung im Rahmen der Projekte für Material- und Reparaturinnovationen für Offshore Leading-Edge-Protection Systeme (MARiLEP und EnKIReWa)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 140002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Natalie Mekelburger",
+"funktion": "CEO und Vorsitzende der Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007000/80810",
+"stand": "2026-07-17"
+}
+},
+{
+"name": "Marcus Söhngen",
+"funktion": "Stellvertretender Vorsitzender der Geschäftsführung und COO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007000/80810",
+"stand": "2026-07-17"
+}
+},
+{
+"name": "Torben Kämmerer",
+"funktion": "Geschäftsführer und CFO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007000/80810",
+"stand": "2026-07-17"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e5/93/815694/KA_2024_Coroplast.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007000/80810",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-17",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

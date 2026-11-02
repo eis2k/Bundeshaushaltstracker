@@ -1,0 +1,211 @@
+{
+"id": "trumpf-se-co",
+"name": "TRUMPF SE + Co. KG (Holding)",
+"art": "unternehmen",
+"rechtsform": "Kommanditgesellschaft (KG)",
+"sitz": "Ditzingen",
+"website": "https://www.trumpf.com/de_DE/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000697",
+"eintrag_id": 72356,
+"version": 17,
+"stand": "2026-05-28",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000697/72356",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/e8/79/743976/Lobbyregister-Registereintraege-Detailansicht-R000697-2026-05-28_14-04-26.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "PTKA Projektträger Karlsruhe",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "Verbundprojekt: Resilienz durch agile Wertschöpfungsnetzwerke (Re_KI_lienz); Teilprojekt: Resiliente und agile Vorleistungsketten für Hightech-Investitionsgüter",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 20001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Nicola Leibinger-Kammüller",
+"funktion": "Vorstandsvorsitzende; Chief Executive Officer (CEO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000697/72356",
+"stand": "2026-05-28"
+}
+},
+{
+"name": "Mathias Kammüller",
+"funktion": "Mitglied des Vorstands; Chief Digital Officer (CDO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000697/72356",
+"stand": "2026-05-28"
+}
+},
+{
+"name": "Lars Grünert",
+"funktion": "Mitglied des Vorstands; Chief Financial Officer (CFO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000697/72356",
+"stand": "2026-05-28"
+}
+},
+{
+"name": "Oliver Maassen",
+"funktion": "Mitglied des Vorstands; Chief Human Resources Officer (CHRO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000697/72356",
+"stand": "2026-05-28"
+}
+},
+{
+"name": "Hagen Zimer",
+"funktion": "Mitglied des Vorstands; Chief Executive Officer Laser Technology (CEO LT)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000697/72356",
+"stand": "2026-05-28"
+}
+},
+{
+"name": "Stephan Mayer",
+"funktion": "Mitglied des Vorstands; Chief Executive Officer Machine Tools (CEO MT)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000697/72356",
+"stand": "2026-05-28"
+}
+},
+{
+"name": "Berthold Schmidt",
+"funktion": "Mitglied des Vorstands, Chief Technology Officer (CTO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000697/72356",
+"stand": "2026-05-28"
+}
+},
+{
+"name": "Andreas Möller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000697/72356",
+"stand": "2026-05-28"
+}
+},
+{
+"name": "Kristin Furtenbach",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-10"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000697/72356",
+"stand": "2026-05-28"
+}
+},
+{
+"name": "Christoph Schmid",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000697/72356",
+"stand": "2026-05-28"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Kristin Furtenbach",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-10",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Kristin Furtenbach ist laut Lobbyregister Interessenvertretung bei TRUMPF SE + Co. KG (Holding) und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-10. TRUMPF SE + Co. KG (Holding) erhielt laut Lobbyregister Mittel von: PTKA Projektträger Karlsruhe.",
+"ausschuesse": [],
+"geld_aus": [
+"PTKA Projektträger Karlsruhe"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000697/72356",
+"stand": "2026-05-28"
+}
+],
+"stand": "2026-05-28"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 220001,
+"bis": 230000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/82/07/743975/TRUMPF-Geschaeftsbericht-2024-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000697/72356",
+"abgerufen": "2026-11-02",
+"stand": "2026-05-28",
+"etikett": "Eigenangabe",
+"version": 17
+}
+]
+}

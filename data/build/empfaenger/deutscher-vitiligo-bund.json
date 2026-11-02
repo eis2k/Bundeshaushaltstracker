@@ -1,0 +1,105 @@
+{
+"id": "deutscher-vitiligo-bund",
+"name": "Deutscher Vitiligo-Bund e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Adelsdorf",
+"website": "www.vitiligo-bund.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006435",
+"eintrag_id": 80434,
+"version": 6,
+"stand": "2026-06-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006435/80434",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/7d/4a/774804/Lobbyregister-Registereintraege-Detailansicht-R006435-2026-06-24_23-16-08.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "GKV-Gemeinschaftsförderung c/o vdek",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Selbsthilfeförderung nach §20h SGB V (Pauschalförderung)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "AOK Bundesverband",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Selbsthilfeförderung nach §20h SGBV Projektförderung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 20002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Georg Pliszewski",
+"funktion": "1. Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006435/80434",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Klaus Ferber",
+"funktion": "2. Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006435/80434",
+"stand": "2026-06-24"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/10/b7/774803/2025-EUeR.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006435/80434",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-24",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

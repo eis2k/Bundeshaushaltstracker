@@ -1,0 +1,139 @@
+{
+"id": "stiftung-entwicklung-und-frieden",
+"name": "Stiftung Entwicklung und Frieden (sef:)",
+"art": "verein_stiftung",
+"rechtsform": "Rechtsfähige Stiftung bürgerlichen Rechts",
+"sitz": "BONN",
+"website": "sef-bonn.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003648",
+"eintrag_id": 78727,
+"version": 8,
+"stand": "2026-07-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003648/78727",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/d8/88/797539/Lobbyregister-Registereintraege-Detailansicht-R003648-2026-07-01_08-53-33.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+"epl": null,
+"von": 100001,
+"bis": 110000,
+"zweck": "Potsdamer Afrikagespräche 2025 und Berliner Sommerdialog 2025",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 100001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Oliver Krauß MdL",
+"funktion": "Vorsitzender des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003648/78727",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Ulrich Beyer",
+"funktion": "Stv. Vorsitzender des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003648/78727",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Martin Gorholt",
+"funktion": "Stv. Vorsitzender des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003648/78727",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Randa Kourieh-Ranarivelo",
+"funktion": "Schatzmeisterin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003648/78727",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Christof Hartmann",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003648/78727",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Nora Witt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003648/78727",
+"stand": "2026-07-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/be/ac/797537/JA-2025_sef-Jahresabschluss_2026-06-10.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003648/78727",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-01",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

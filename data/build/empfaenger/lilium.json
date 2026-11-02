@@ -1,0 +1,115 @@
+{
+"id": "lilium",
+"name": "Lilium GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Gauting",
+"website": "https://lilium.com/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000775",
+"eintrag_id": 70401,
+"version": 4,
+"stand": "2026-01-05",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000775/70401",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/d9/bc/677902/Lobbyregister-Registereintraege-Detailansicht-R000775-2026-01-05_14-26-53.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 1220001,
+"bis": 1230000,
+"zweck": "Forschung und Entwicklung eines innovativen, elektrischen Propulsion-Antriebs sowie eines Energy-Management-Systems für ein senkrechtstartendes Fluggerät (eVTOL)",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 40001,
+"bis": 50000,
+"zweck": "Neuartige Navigationslösung für urbane Luftmobilität",
+"geschaeftsjahr": "2023"
+}
+],
+"lobby_untergrenze_bund": 1260002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Klaus Röwe",
+"funktion": "CEO, Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000775/70401",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Johan Malmqvist",
+"funktion": "CFO, Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000775/70401",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Saskia Horsch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000775/70401",
+"stand": "2026-01-05"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 270001,
+"bis": 280000
+},
+"geschaeftsjahr": "2023",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/c1/e5/677877/0001410578-24-000206.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000775/70401",
+"abgerufen": "2026-11-02",
+"stand": "2026-01-05",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

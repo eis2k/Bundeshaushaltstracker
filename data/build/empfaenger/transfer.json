@@ -1,0 +1,140 @@
+{
+"id": "transfer",
+"name": "transfer e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Köln ",
+"website": "Www.transfer-ev.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005476",
+"eintrag_id": 72064,
+"version": 7,
+"stand": "2026-03-10",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005476/72064",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/38/28/703806/Lobbyregister-Registereintraege-Detailansicht-R005476-2026-03-10_10-26-23.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMFSFJ",
+"epl": "17",
+"von": 130001,
+"bis": 140000,
+"zweck": "Projektförderung internationale Jugendarbeit",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 130001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Oliver Schmitz",
+"funktion": "Geschäftsführer ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005476/72064",
+"stand": "2026-03-10"
+}
+},
+{
+"name": "Birgit Hägemann",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005476/72064",
+"stand": "2026-03-10"
+}
+},
+{
+"name": "Jana Pieper",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005476/72064",
+"stand": "2026-03-10"
+}
+},
+{
+"name": "Judith Feldhoff-Schäfer",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005476/72064",
+"stand": "2026-03-10"
+}
+},
+{
+"name": "Lisa Mindthoff",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005476/72064",
+"stand": "2026-03-10"
+}
+},
+{
+"name": "Andreas Rosellen",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005476/72064",
+"stand": "2026-03-10"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/5e/56/703805/Jahresabschluss-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005476/72064",
+"abgerufen": "2026-11-02",
+"stand": "2026-03-10",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

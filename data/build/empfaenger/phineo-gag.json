@@ -1,0 +1,138 @@
+{
+"id": "phineo-gag",
+"name": "PHINEO gAG",
+"art": "verein_stiftung",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Berlin",
+"website": "https://www.phineo.org/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003758",
+"eintrag_id": 68370,
+"version": 7,
+"stand": "2026-07-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003758/68370",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/d0/8a/800893/Lobbyregister-Registereintraege-Detailansicht-R003758-2026-07-01_17-49-35.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend (heute: BMBFSFJ), sowie Bundesamt für Familie und zivilgesellschaftliche Aufgaben (BAFzA)",
+"epl": "17",
+"von": 340001,
+"bis": 350000,
+"zweck": "Zuwendungsbescheid: Zuwendung des Bundes als Projektförderung für die Maßnahme: \"Gemeinsam für eine krisenfeste Zivilgesellschaft in Zeiten globaler Herausforderungen“, Kapitel/Titel: 1703/684 12, Förderkennzeichen (FKZ): 3923406PHI",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Stiftung für Engagement und Ehrenamt",
+"epl": null,
+"von": 60001,
+"bis": 70000,
+"zweck": "Organisation und Umsetzung der Viel-Gut-Tour als niedrigschwelliges Begegnungsformat in zehn Bundesländern, u.a. auf Wochenmärkten. Durch enge Kooperationen mit lokalen Vereinen, Kommunen und Organisationen wurde Engagement sichtbar gemacht. Interaktive Gespräche förderten Teilhabe und Dialog – auch zu kontroversen Themen. Ergebnis: Wir konnten dazu beitragen, dass lokales Ehrenamt sicht- und erlebbar wurde, neue Mitmach-Impulse entstanden, mutmachende Ansätze aus Zivilgesellschaft & Wirtschaft wurden konstruktiv diskutiert, neue Kontakte geknüpft und Bürger*innen für das Freiwilligenengagement gewonnen. Die Herausforderung konnte erfolgreich adressiert werden und mit dem Projekt ein signifikanter Beitrag zum gesellschaftlichen Zusammenhalt geleistet werden.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 400002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Andreas Rickert",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003758/68370",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Juliane Hagedorn",
+"funktion": "Vorständin, COO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003758/68370",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Johannes Schultze",
+"funktion": "Leitung Finanzen & Controlling, Prokurist",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003758/68370",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Anna Herrhausen",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003758/68370",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Felix Daub",
+"funktion": "Vorstand, CFO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003758/68370",
+"stand": "2026-07-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 5930001,
+"bis": 5940000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 140001,
+"bis": 150000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/93/1c/800892/Phineo-gAG_2025_Testatsexemplar.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003758/68370",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-01",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

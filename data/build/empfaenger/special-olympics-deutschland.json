@@ -1,0 +1,129 @@
+{
+"id": "special-olympics-deutschland",
+"name": "Special Olympics Deutschland e.V. ",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin ",
+"website": "https://specialolympics.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004885",
+"eintrag_id": 85739,
+"version": 7,
+"stand": "2026-09-21",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004885/85739",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/37/d0/845283/Lobbyregister-Registereintraege-Detailansicht-R004885-2026-09-21_23-36-04.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium des Innern/Bundeskanzleramt",
+"epl": "06",
+"von": 1940001,
+"bis": 1950000,
+"zweck": "- Förderung Leistungssportpersonal (982.000) - Sportjahresplanung (885.000) - Entsendekosten (78.000)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Arbeit und Soziales",
+"epl": "11",
+"von": 480001,
+"bis": 490000,
+"zweck": "Personalförderung Barrierefreiheit, Partizipation und Inklusion (100.000) Projektförderung All-In (325.000) Projektförderung BETA (57.000)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 2420002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christiane Krajewski",
+"funktion": "Präsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004885/85739",
+"stand": "2026-09-21"
+}
+},
+{
+"name": "Andreas Silbersack",
+"funktion": "1. Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004885/85739",
+"stand": "2026-09-21"
+}
+},
+{
+"name": "Britta Ernst",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004885/85739",
+"stand": "2026-09-21"
+}
+},
+{
+"name": "Bettina Schilling",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004885/85739",
+"stand": "2026-09-21"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 190001,
+"bis": 200000
+},
+"mitgliedsbeitraege": {
+"von": 90001,
+"bis": 100000
+},
+"lobbyausgaben": {
+"von": 40001,
+"bis": 50000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/c8/14/845282/SOD-2025-JA-vor-Pruefung.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004885/85739",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-21",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

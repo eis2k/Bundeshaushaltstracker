@@ -1,0 +1,834 @@
+{
+"id": "transnetbw",
+"name": "TransnetBW GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Stuttgart",
+"website": "www.transnetbw.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003033",
+"eintrag_id": 87069,
+"version": 34,
+"stand": "2026-10-05",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/60/24/856996/Lobbyregister-Registereintraege-Detailansicht-R003033-2026-10-05_17-03-04.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 210001,
+"bis": 220000,
+"zweck": "Projekt BANULA: Das BANULA-Konzept ist ein ganzheitlicher Ansatz, um energiewirtschaftliche Prozesse im Rahmen der Strombilanzierung mit den kaufmännischen Prozessen rund um Roaming und der Belieferung von ladenden Elektromobilisten zu verbinden und zu Gunsten der Endkunden und der Strommarktrollen effizienter zu gestalten. Unser Ansatz ermöglicht eine bilanziell korrekte Trennung zwischen den Rollen Verteilnetzbetreiber, Ladeinfrastrukturbetreiber und Mobilitätsanbieter.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 60001,
+"bis": 70000,
+"zweck": "Projekt PROGRESS: Im Projekt PROGRESS werden kurative Maßnahmen zur Entlastung in Höchst- und Hochspannungsnetzen (HöS / HS) erprobt. Unter Beteiligung eines Leitsystemherstellers, Übertragungs- und Verteilnetzbetreibern sowie akademischen Partnern wird die Umsetzung kurativer Maßnahmen innerhalb von Feldtestvorhaben in realen Leitsystemumgebungen erprobt.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 20001,
+"bis": 30000,
+"zweck": "Das Forschungsprojekt RESILIENT zielt darauf ab, die Energiesystemplanung widerstandsfähiger gegen Unsicherheiten zu gestalten. TransnetBW entwickelt ein Planungswerkzeug, das nachhaltige und robuste Energieinfrastrukturen ermöglicht, indem das Energiesystemmodell PyPSA-Eur zu einer stochastischen Optimierung weiterentwickelt wird. Dies soll sicherstellen, dass das Energiesystem für verschiedene mögliche Entwicklungen optimal gerüstet ist. Das Projekt wird vom Fachbereich Digitaler Wandel in Energiesystemen der TU Berlin geleitet und durch das Bundesministerium für Wirtschaft und Klimaschutz sowie die CET Partnership Initiative der EU gefördert. Ziel ist es, internationale Maßstäbe in der Energiesystemplanung zu setzen und einen wesentlichen Beitrag zu einem sicheren, klimaneutralen Stromsystem zu leisten.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "Das Forschungsprojekt SysStab 2030 befasst sich mit den zunehmenden Herausforderungen der elektrischen Systemstabilität in einem sich grundlegend wandelnden Stromsystem. Vor dem Hintergrund steigender Transite, höherer Netzauslastung und eines wachsenden Anteils stromrichterbasierter Erzeuger untersucht das Projekt die Auswirkungen auf zentrale Stabilitätsaspekte wie Spannungs‑, Frequenz‑ und transiente Stabilität sowie Reglerinteraktionen. Ziel ist es, zukünftige Systembedarfe systematisch zu analysieren und Optionen zur Bereitstellung notwendiger stabilisierender Beiträge durch Erzeugungs‑, Verbraucher‑, Speicher‑ und Netzbetriebsmittel zu identifizieren. Dabei werden sowohl technische Mindestanforderungen als auch marktliche Beschaffungsansätze betrachtet. Ein besonderer Fokus liegt auf dem Einsatz netzbildender Anlagen, die künftig mehrere Systemfunktionen bündeln und einen wesentlichen Beitrag zur sicheren Integration eines vollständig erneuerbaren Stromsystems leisten können.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 110001,
+"bis": 120000,
+"zweck": "Das Forschungsprojekt DataFleX untersucht die digitale und marktliche Integration dezentraler Flexibilitäten aus den Sektoren Strom, Wärme und Verkehr in das Energiesystem. Ziel ist es, durch einen sektorenübergreifenden Datenaustausch bislang getrennte Datenökosysteme zu verknüpfen und dezentrale Verbraucher und Speicher wie Elektrofahrzeuge, Wärmepumpen und Heimspeicher systemrelevant nutzbar zu machen. Im Mittelpunkt stehen die Entwicklung und Erprobung geeigneter Marktmechanismen zur wirtschaftlichen Aktivierung dieser Flexibilitäten sowie deren Einsatz zur Netzstabilisierung, insbesondere im Redispatch. Die Ansätze werden in Modellregionen innerhalb der Regelzonen von TransnetBW und TenneT Germany unter realen Bedingungen erprobt und vom Bundesministerium für Wirtschaft und Energie gefördert.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 410005,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Werner Götz",
+"funktion": "Geschäftsführung (Vorsitzender)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Michael Jesberger",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Oliver Strangfeld",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Stefan Zeltner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Florian Reuter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Marina Schmid",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Michael Heihsel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2022-12"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Franz Pöter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Benjamin Bijlsma",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Ana Burghi",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Henning Buschbaum",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Bernd Michael Jauch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Bernd Lang",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Olaf Sener",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Philipp Sittaro",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Alanna Weigel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Christoph Dolderer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Carolin Walzok",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Emmanuelle Darracq Paries",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Marcel Gebele",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Ansgar Geiger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Thomas Pollithy",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Katharina Seiter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Tobias Egeler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Jens Langbecker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Peter Scheerer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Michael Salzinger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Jens Ohr",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Ulrike Abert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Jochen Bammert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Kay Wiedemann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Sandra Torras Ortiz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Sebastian Schleich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Pavel Zolotarev",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Sören Anders",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Dominik Schlipf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Tobias Weißbach",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Mirjam König",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Christian Schorn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Simeon Ackermann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Michael Gutzeit",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Alexandra Schwerdorf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Jonas Hertenberger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Madeleine Mitschke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Christopher Göpfert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Heidi Reichegger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Markus Fürst",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Julien Blaß",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Tobias Hoeft",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Johanna Scheffbuch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-04"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Henning Schlüter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Hans Dieter Bley",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Jasmin Reinsch-Wagner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Simon Schubert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Steven Rohde",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Ruth Hauber",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Boris Gaillardon",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Olaf Brenneisen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Marie Wettingfeld",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Julian Kühnel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Leandra Scharnhorst",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Michael Heihsel",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2022-12",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Michael Heihsel ist laut Lobbyregister Interessenvertretung bei TransnetBW GmbH und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2022-12. TransnetBW GmbH erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Klimaschutz; Bundesministerium für Wirtschaft und Energie.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Wirtschaft und Klimaschutz",
+"Bundesministerium für Wirtschaft und Energie"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+],
+"stand": "2026-10-05"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Johanna Scheffbuch",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-04",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Johanna Scheffbuch ist laut Lobbyregister Interessenvertretung bei TransnetBW GmbH und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-04. TransnetBW GmbH erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Klimaschutz; Bundesministerium für Wirtschaft und Energie.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Wirtschaft und Klimaschutz",
+"Bundesministerium für Wirtschaft und Energie"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"stand": "2026-10-05"
+}
+],
+"stand": "2026-10-05"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 600001,
+"bis": 610000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/8b/67/856993/Veroeffentlichung-JA-25.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003033/87069",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-05",
+"etikett": "Eigenangabe",
+"version": 34
+}
+]
+}

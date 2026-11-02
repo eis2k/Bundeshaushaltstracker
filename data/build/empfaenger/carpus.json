@@ -1,0 +1,118 @@
+{
+"id": "carpus",
+"name": "Carpus e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Cottbus",
+"website": "www.carpus.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001600",
+"eintrag_id": 81410,
+"version": 5,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001600/81410",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c1/4f/791940/Lobbyregister-Registereintraege-Detailansicht-R001600-2026-06-30_14-30-08.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Engagement Global gGmbH",
+"epl": "23",
+"von": 200001,
+"bis": 210000,
+"zweck": "Fördermittel des BMZ für entwicklungspolitische Inlands- und Auslandsarbeit.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 200001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Uwe Berger",
+"funktion": "Vorsitz",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001600/81410",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Fransziska Krohn",
+"funktion": "Schatzmeisterin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001600/81410",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Daniel Eckert",
+"funktion": "Schriftführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001600/81410",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Joy Seidl",
+"funktion": "Öffentlichkeitsarbeit",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001600/81410",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 90001,
+"bis": 100000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/0a/b5/791939/2025-Jahresabschluss.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001600/81410",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

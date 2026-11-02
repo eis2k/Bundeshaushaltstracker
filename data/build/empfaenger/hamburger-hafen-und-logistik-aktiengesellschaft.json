@@ -1,0 +1,234 @@
+{
+"id": "hamburger-hafen-und-logistik-aktiengesellschaft",
+"name": "Hamburger Hafen und Logistik Aktiengesellschaft (HHLA)",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Hamburg",
+"website": "https://hhla.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004944",
+"eintrag_id": 76329,
+"version": 10,
+"stand": "2026-06-15",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004944/76329",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/cd/32/759329/Lobbyregister-Registereintraege-Detailansicht-R004944-2026-06-15_17-00-20.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Verkehr",
+"epl": "12",
+"von": 160001,
+"bis": 170000,
+"zweck": "Unter dem Dach des Hafennetzwerks e4ports erprobt das Innovationcluster Clean Port & Logistics (CPL) emissionsfreie Geräte für den Hafenumschlag und den Schwerlastverkehr. Das Clustermanagement liegt bei der Hamburger Hafen und Logistik AG (HHLA). Das CPL wird im Rahmen des Nationalen Innovationsprogramms Wasserstoff- und Brennstoffzellentechnologie (NIP) durch das Bundesministerium für Digitales und Verkehr gefördert. Die NOW GmbH koordiniert die Clusteraktivitäten mit anderen relevanten NIP Aktivitäten im Hafen- und Logistikbereich.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr",
+"epl": "12",
+"von": 50001,
+"bis": 60000,
+"zweck": "Die Hamburger Hafen und Logistik AG (HHLA) hat ein Testfeld für wasserstoffbetriebene Hafenlogistik und die dazugehörige Wasserstofftankstelle im Hamburger Hafen gebaut. Das Testfeld am Container Terminal Tollerort (CTT) bildet einen wichtigen Meilenstein in der Dekarbonisierung der Logistik. Gemeinsam mit ihren Partnerunternehmen im Clean Port & Logistics Cluster (CPL) testet die HHLA nun im operativen Betrieb, wie Wasserstoff verlässlich zur Versorgung von Schwerlastfahrzeugen eingesetzt werden kann.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr",
+"epl": "12",
+"von": 20001,
+"bis": 30000,
+"zweck": "Das Verbundprojekt KILOG möchte mit Hilfe von Künstlicher Intelligenz (KI) Logistikoptimierungen in deutschen Häfen vorantreiben.Dazu werden KI-basierte Prognosemodelle für Containerströme erforscht, um die Effizienz und Nachhaltigkeit im Terminalbetrieb in Hamburg zu steigern. Als Grundlage gilt es präzise Prognosen für die einzelnen Verkehrsträger Schiff, Bahn und Lkw zu entwickeln. Das Verbundprojekt wird von der Hamburger Hafen und Logistik Aktiengesellschaft federführend verantwortet. Weiterer Partner ist das Fraunhofer-Center für Maritime Logistik und Dienstleistungen (CML).",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr",
+"epl": "12",
+"von": 10001,
+"bis": 20000,
+"zweck": "Entwicklung eines LH2-Containerprojekt Lösungen für den internationalen Transport von Wasserstoff. Diese Initiativen stärken unsere Kompetenz im Bereich der Dekarbonisierung durch Wasserstoff und schaffen die Grundlage für eine langfristig nachhaltige Hafenlogistik.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr",
+"epl": "12",
+"von": 1,
+"bis": 10000,
+"zweck": "Das Projekt „Pin-Handling-mR“ ist ein erfolgreiches Forschungsprojekt der HHLA und des Fraunhofer CML, das im Frühjahr 2025 abgeschlossen wurde. Ziel war die Entwicklung eines autonomen Roboters, der das bislang manuelle, gefährliche und zeitaufwendige Umlegen der Arretierungszapfen (Pins) auf Containertragwagen automatisiert und so die Sicherheit und Produktivität in der Bahnabfertigung maßgeblich steigert.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr",
+"epl": "12",
+"von": 30001,
+"bis": 40000,
+"zweck": "Die zunehmende Digitalisierung und Automatisierung der deutschen Hafenbetriebe ist von zentraler Bedeutung, um im internationalen Vergleich wettbewerbsfähig zu bleiben. Die technologischen Entwicklungen sowie der hohe Marktdruck stellen die Betriebe der deutschen Hafenwirtschaft, vor neue Herausforderungen und führen zu einem Wandel der Hafenarbeit. Durch Veränderungen in den Arbeitsprozessen und -inhalten sowie Formen der Zusammenarbeit werden zukünftig neue Kenntnisse und Fähigkeiten für die Tätigkeiten im Hafenumschlag erforderlich sein. Genau dort setzt das IHATEC-geförderte Verbundprojekt „PortSkill 4.0“ an, das zusammen mit Unternehmen der deutschen Hafenwirtschaft und den Sozialpartnern der maritimen Wirtschaft auf den Weg gebracht wurde und erstmals den Menschen mit dem Thema Aus- und Weiterbildung in den Fokus stellt. Gemeinsam wollen wir zukünftige Anforderungen identifizieren und die Beschäftigten durch passgenaue Qualifizierungsmaßnahmen fit für die Zukunft machen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für. Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 250001,
+"bis": 260000,
+"zweck": "Im TransHyDE-Projekt Mukran entwickeln sechs Partnerinstitutionen aus Wirtschaft und Wissenschaft neue Wasserstoff-Kugelspeicher. Das Projekt ist Teil der vom Bundesministerium für Bildung und Forschung (BMBF) geförderten Wasserstoff-Leitprojekte.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Eisenbahnbundesamt",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Das Eisenbahn-Bundesamt (EBA) fördert regelmäßig HHLA-Projekte (Hamburger Hafen und Logistik AG) im Rahmen der bundesweiten Richtlinie zur Förderung von Investitionen in Umschlaganlagen des Kombinierten Verkehrs. Der Bund beteiligt sich dabei anteilig an den Kosten für den Neu- und Ausbau von Gleisanlagen sowie Kranbahnen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr",
+"epl": "12",
+"von": 70001,
+"bis": 80000,
+"zweck": "Das AKIDU-Projekt (Automatische, durch KI-integrierte Disposition für Universalterminals) war ein Forschungsprojekt der HHLA-Tochter Unikai am Hamburger O'Swaldkai, das im Sommer 2025 erfolgreich abgeschlossen wurde. Ziel war es, den Umschlag von nicht standardisierter Rollender Ladung (RoRo) und Schwergut durch Künstliche Intelligenz und Sensorik zu digitalisieren und zu automatisieren.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr",
+"epl": "12",
+"von": 40001,
+"bis": 50000,
+"zweck": "Das Projekt TEDIMO (Testfeld für Digitale MOdalmix-Optimierung) ist eine Initiative der HHLA zur Errichtung einer hybriden Lakehouse-Dateninfrastruktur, die Cloud-Technologien und Rechenzentren kombiniert. Es dient als digitaler Erprobungsraum, um Daten aus Seehafen-Terminals, der Schienenlogistik und digitalen Plattformen zu harmonisieren",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 640010,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jeroen Eijsink",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004944/76329",
+"stand": "2026-06-15"
+}
+},
+{
+"name": "Jens Hansen",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004944/76329",
+"stand": "2026-06-15"
+}
+},
+{
+"name": "Torben Seebold",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004944/76329",
+"stand": "2026-06-15"
+}
+},
+{
+"name": "Annette Geiß",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004944/76329",
+"stand": "2026-06-15"
+}
+},
+{
+"name": "Lars Anke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004944/76329",
+"stand": "2026-06-15"
+}
+},
+{
+"name": "Johannes Berg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004944/76329",
+"stand": "2026-06-15"
+}
+},
+{
+"name": "Carolin Flemming",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004944/76329",
+"stand": "2026-06-15"
+}
+},
+{
+"name": "Lars Neumann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004944/76329",
+"stand": "2026-06-15"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 250001,
+"bis": 260000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/7c/b1/759327/HHLA_2025_Geschaeftsbericht.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004944/76329",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-15",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

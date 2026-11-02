@@ -1,0 +1,149 @@
+{
+"id": "off-road-kids-stiftung",
+"name": "Off Road Kids Stiftung",
+"art": "verein_stiftung",
+"rechtsform": "Rechtsfähige Stiftung bürgerlichen Rechts",
+"sitz": "Bad Dürrheim",
+"website": "https://offroadkids.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006371",
+"eintrag_id": 71877,
+"version": 6,
+"stand": "2026-06-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006371/71877",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/5b/0a/747057/Lobbyregister-Registereintraege-Detailansicht-R006371-2026-06-03_09-34-12.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 1990001,
+"bis": 2000000,
+"zweck": "Förderung virtueller Jugendsozialarbeit für von Obdachlosigkeit bedrohte Jugendliche und junge Volljährige „sofahopper.de 4.0“",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Referat 406 - Nationale Zuwendungen II",
+"epl": null,
+"von": 240001,
+"bis": 250000,
+"zweck": "LICHT-BOT Licht im Zuständigkeits-Dschungel - Kl-Chatbot-Lotse für entkoppelte Jugendliche Kinder- und Jugendförderung: 38.000 junge Menschen zwischen 14 und 27 Jahren sind in Deutschtand laut Bundeswohnungslosenbericht von Obdachlosigkeit betroffen. Maximal 10.000 können die Sozialarbeitenden von Off Road Kids jährlich mithilfe der Internet Streetwork-Station ,sofahopper.de' persönlich beraten. Mit LICHT-BOT soll ein Kl-basiertes Voice-ZChatbot-Beratungs- und Lotsensystem samt öffentlich zugänglicher Civic Data-Sammlung geschaffen werden.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 2230002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Markus Seidel",
+"funktion": "Mitglied des Stiftungsvorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006371/71877",
+"stand": "2026-06-03"
+}
+},
+{
+"name": "Christoph Ehlers",
+"funktion": "Mitglied des Stiftungsvorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006371/71877",
+"stand": "2026-06-03"
+}
+},
+{
+"name": "Andreas Schwara",
+"funktion": "Mitglied des Stiftungsvorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006371/71877",
+"stand": "2026-06-03"
+}
+},
+{
+"name": "Regina Wiechens-Schwake",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006371/71877",
+"stand": "2026-06-03"
+}
+},
+{
+"name": "Tomi Czech",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006371/71877",
+"stand": "2026-06-03"
+}
+},
+{
+"name": "Susanne Nann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006371/71877",
+"stand": "2026-06-03"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 260001,
+"bis": 270000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/f0/e0/747056/ORK-Stiftung_Jahresabschluss_2024_unterschrieben.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006371/71877",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-03",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

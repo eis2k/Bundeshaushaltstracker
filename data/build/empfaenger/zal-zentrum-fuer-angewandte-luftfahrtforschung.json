@@ -1,0 +1,109 @@
+{
+"id": "zal-zentrum-fuer-angewandte-luftfahrtforschung",
+"name": "ZAL Zentrum für Angewandte Luftfahrtforschung GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Hamburg",
+"website": "zal.aero",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001394",
+"eintrag_id": 78037,
+"version": 7,
+"stand": "2026-06-25",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001394/78037",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/61/60/776160/Lobbyregister-Registereintraege-Detailansicht-R001394-2026-06-25_12-41-17.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 170001,
+"bis": 180000,
+"zweck": "SEA-basierte Analyse, Optimierung und Qualifizierung von Unsicherheiten für den vibroakustischen Entwurf von VIP-Flugzeugkabinen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 150001,
+"bis": 160000,
+"zweck": "Verbundprojekt GreenCode: Plattform zur Entwicklung, Optimierung und Evaluierung energieeffizienter Software und Algorithmen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr",
+"epl": "12",
+"von": 150001,
+"bis": 160000,
+"zweck": "Aufbau und Inbetriebnahme einer Forschungsinfrastruktur für die Erforschung von Brennstoffzellensystemen sowie kryogenen Systemen unter sensiblen, luftfahrttauglichen Bedingungen zur Umsetzung des ITZ Nord am Standort Hamburg",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 690001,
+"bis": 700000,
+"zweck": "Erhöhung der Effizienz einer nachhaltigen, smarten Fertigung, der Digitalisierung entlang der Wertschöpfungskette und künstlicher Intelligenz Modulare Plattformtechnologien für verteilte Systeme zum ressourceneffizienten Betrieb von zukünftigen Flugzeugkabinen Ecosystem for an efficient and sustainable Aerospace Supply Chain – Teilvorhaben: KMU-Digitalisierungs-Anlauf Cockpit Systementwicklung sowie Integration und Test eines Wasserstoff-Brennstoffzellen Antriebs für ein Luftfahrtzeug Hochautomatisierte Drohneninfrastruktur für den autonomen UAS-Betrieb",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1160004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Roland Gerhards",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001394/78037",
+"stand": "2026-06-25"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/df/8d/776159/2026_01_13_Veroeffentlichung-Unternehmensregister-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001394/78037",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-25",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

@@ -1,0 +1,117 @@
+{
+"id": "united-parcel-service-deutschland-s-r-l-und-co",
+"name": "United Parcel Service Deutschland S.à r.l. & Co. OHG",
+"art": "unternehmen",
+"rechtsform": "Sonstige Personengesellschaft",
+"sitz": "Neuss",
+"website": "https://www.ups.com/de/de/Home.page",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003007",
+"eintrag_id": 79106,
+"version": 13,
+"stand": "2026-06-22",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003007/79106",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/2b/ac/766820/Lobbyregister-Registereintraege-Detailansicht-R003007-2026-06-22_07-41-38.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Logistik und Mobilität (BALM)",
+"epl": "12",
+"von": 1710001,
+"bis": 1720000,
+"zweck": "In 2025 erhaltene Fördermittel, wesentlich aus der Förderung von leichten und schweren Nutzfahrzeugen mit alternativen, klimaschonenden Antrieben (Bundesamt für Logistik und Mobilität) gemäß der Richtlinie „KsNI“ durch das BALM zur Errichtung betrieblicher Ladeinfrastruktur sowie Mittel aus der Richtlinie zur Förderung von E-Lastenfahrrädern durch das BAFA und Erstattung von Personalaufwänden aus der Anwendungsforschung gefördert durch das Bundesministerium für Verkehr.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1710001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Andrew Sleiman",
+"funktion": "Generalbevollmächtigter der persönlich haftenden Gesellschafterin UPS Deutschland Management LLC",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003007/79106",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Lars Purkarthofer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003007/79106",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Jan Heitmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003007/79106",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Petra Bratova",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003007/79106",
+"stand": "2026-06-22"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 570001,
+"bis": 580000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/d6/51/766819/UPS-Deutschland-Sarl-Co-OHG-2024-Jahresabschluss.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003007/79106",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-22",
+"etikett": "Eigenangabe",
+"version": 13
+}
+]
+}

@@ -1,0 +1,98 @@
+{
+"id": "deutscher-musikrat",
+"name": "Deutscher Musikrat",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.musikrat.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003675",
+"eintrag_id": 86279,
+"version": 15,
+"stand": "2026-09-23",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003675/86279",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/2a/fd/846359/Lobbyregister-Registereintraege-Detailansicht-R003675-2026-09-23_11-37-46.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Der Beauftragte der Bundesregierung für Kultur und Medien",
+"epl": "04",
+"von": 500001,
+"bis": 510000,
+"zweck": "Interessensvertretung im Musikbereich im kontinuierlichen Dialog mit den Mitgliedern aus allen Bereichen des Musiklebens; Kompetenzzentrum für Politik, Verbände und Gesellschaft; Hierfür u.a. kulturpolitische Beratung, Durchführung von Gremiensitzungen wie den Bundesfachausschüssen, Arbeitsgruppen, Musikforum, Mitgliederversammlung; Diskussion und Erarbeitung von Stellungnahmen, Positionspapieren und Publikationen; Sichtbarmachung von musikpolitischen Fragen und Positionen durch Maßnahmen der Öffentlichkeitsarbeit.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 500001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Lydia Grün",
+"funktion": "Präsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003675/86279",
+"stand": "2026-09-23"
+}
+},
+{
+"name": "Antje Valentin",
+"funktion": "Generalsekretärin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003675/86279",
+"stand": "2026-09-23"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 90001,
+"bis": 100000
+},
+"lobbyausgaben": {
+"von": 160001,
+"bis": 170000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/d3/de/846358/DMR-Lobbyregister-Dt-Bundestag-Jahresabschluss-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003675/86279",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-23",
+"etikett": "Eigenangabe",
+"version": 15
+}
+]
+}

@@ -1,0 +1,136 @@
+{
+"id": "deutsch-britische-gesellschaft",
+"name": "Deutsch-Britische Gesellschaft e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.debrige.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005494",
+"eintrag_id": 87325,
+"version": 6,
+"stand": "2026-10-09",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005494/87325",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f8/d7/859095/Lobbyregister-Registereintraege-Detailansicht-R005494-2026-10-09_11-45-45.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 30001,
+"bis": 40000,
+"zweck": "Fehlbedarfsfinanzierung für Ausrichtung der 65. Jung Königswinter Konferenz 2025",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 30001,
+"bis": 40000,
+"zweck": "Fehlbedarfsfinanzierung für Ausrichtung der 75. Königswinter Konferenz 2025",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 1,
+"bis": 10000,
+"zweck": "Fehlbedarfsfinanzierung zur Ausrichtung des New Königswinter Future Labs 2025",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 60003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Anne Ruth Herkes",
+"funktion": "Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005494/87325",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "John Kampfner",
+"funktion": "Stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005494/87325",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Mari  Mittelhaus",
+"funktion": "Schriftführerin & Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005494/87325",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Sven Janssen",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005494/87325",
+"stand": "2026-10-09"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 10001,
+"bis": 20000
+},
+"mitgliedsbeitraege": {
+"von": 30001,
+"bis": 40000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/b8/3f/859094/ber_S0353_Jahresbericht_2025_Entwurf.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005494/87325",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-09",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

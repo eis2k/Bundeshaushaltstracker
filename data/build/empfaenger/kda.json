@@ -1,0 +1,94 @@
+{
+"id": "kda",
+"name": "KDA",
+"art": "oeffentlich",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "www.kda.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003621",
+"eintrag_id": 87966,
+"version": 14,
+"stand": "2026-10-23",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003621/87966",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/2a/09/864719/Lobbyregister-Registereintraege-Detailansicht-R003621-2026-10-23_11-27-31.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für soziale Sicherung",
+"epl": "11",
+"von": 870001,
+"bis": 880000,
+"zweck": "Projektmittel für 3 Projekte im Altenhilfe- und Pflegebereich",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Gesundheit",
+"epl": "15",
+"von": 1120001,
+"bis": 1130000,
+"zweck": "Projektmittel für 2 Projekte für internationale Fachkräfte in den Gesundheits- und Pflegeberufen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1990002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Alexia Zurkuhlen",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003621/87966",
+"stand": "2026-10-23"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/d2/dc/864718/E_11036171_2025-003141_Testat_KDA-gGmbH_JAP-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003621/87966",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-23",
+"etikett": "Eigenangabe",
+"version": 14
+}
+]
+}

@@ -1,0 +1,253 @@
+{
+"id": "europa-union-deutschland",
+"name": "Europa-Union Deutschland e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.europa-union.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002271",
+"eintrag_id": 80945,
+"version": 12,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002271/80945",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/12/02/796246/Lobbyregister-Registereintraege-Detailansicht-R002271-2026-06-30_19-01-54.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Presse- und Informationsamt der Bundesregierung",
+"epl": "04",
+"von": 490001,
+"bis": 500000,
+"zweck": "Institutionelle Förderung (Fehlbedarfsfinanzierung)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 490001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Andrea Wechsler",
+"funktion": "Präsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002271/80945",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Gabriele Bischoff",
+"funktion": "Vize-Präsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002271/80945",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Patrick Sensburg",
+"funktion": "Vize-Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-10"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002271/80945",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Chantal Kopf",
+"funktion": "Vize-Präsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002271/80945",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Alexander Kulitz",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-10"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002271/80945",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Christian Moos",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002271/80945",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Patrick Sensburg",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag, bis 2021-10",
+"funktion_beim_empfaenger": "Vize-Präsident",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Patrick Sensburg ist laut Lobbyregister Vize-Präsident bei Europa-Union Deutschland e.V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag, bis 2021-10. Europa-Union Deutschland e.V. erhielt laut Lobbyregister Mittel von: Presse- und Informationsamt der Bundesregierung.",
+"ausschuesse": [],
+"geld_aus": [
+"Presse- und Informationsamt der Bundesregierung"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002271/80945",
+"stand": "2026-06-30"
+}
+],
+"stand": "2026-06-30"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Chantal Kopf",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag",
+"funktion_beim_empfaenger": "Vize-Präsidentin",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Chantal Kopf ist laut Lobbyregister Vize-Präsidentin bei Europa-Union Deutschland e.V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag. Europa-Union Deutschland e.V. erhielt laut Lobbyregister Mittel von: Presse- und Informationsamt der Bundesregierung.",
+"ausschuesse": [],
+"geld_aus": [
+"Presse- und Informationsamt der Bundesregierung"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002271/80945",
+"stand": "2026-06-30"
+}
+],
+"stand": "2026-06-30"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Alexander Kulitz",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag, bis 2021-10",
+"funktion_beim_empfaenger": "Schatzmeister",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Alexander Kulitz ist laut Lobbyregister Schatzmeister bei Europa-Union Deutschland e.V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag, bis 2021-10. Europa-Union Deutschland e.V. erhielt laut Lobbyregister Mittel von: Presse- und Informationsamt der Bundesregierung.",
+"ausschuesse": [],
+"geld_aus": [
+"Presse- und Informationsamt der Bundesregierung"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002271/80945",
+"stand": "2026-06-30"
+}
+],
+"stand": "2026-06-30"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Dr. Anton Hofreiter",
+"funktion_person": "MdB, Bündnis 90 Die Grünen",
+"funktion_beim_empfaenger": "Mitglied des Präsidiums (ab 12.10.2025)",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Dr. Anton Hofreiter (MdB, Bündnis 90 Die Grünen) ist laut bundestag.de Mitglied des Präsidiums (ab 12.10.2025) bei Europa-Union Deutschland e.V.. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für die Angelegenheiten der Europäischen Union. Europa-Union Deutschland e.V. erhielt laut Lobbyregister Mittel von: Presse- und Informationsamt der Bundesregierung.",
+"ausschuesse": [
+"Ausschuss für die Angelegenheiten der Europäischen Union"
+],
+"geld_aus": [
+"Presse- und Informationsamt der Bundesregierung"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/H/hofreiter_anton-1045040",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 30001,
+"bis": 40000
+},
+"mitgliedsbeitraege": {
+"von": 190001,
+"bis": 200000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/05/12/796232/Europa-Union-Deutschland-Bilanz-sowie-Gewinn-und-Verlustrechung-2025_FINAL.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002271/80945",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 12
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/H/hofreiter_anton-1045040",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

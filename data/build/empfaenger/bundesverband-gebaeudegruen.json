@@ -1,0 +1,120 @@
+{
+"id": "bundesverband-gebaeudegruen",
+"name": "Bundesverband GebäudeGrün e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.gebaeudegruen.info",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004400",
+"eintrag_id": 81195,
+"version": 6,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004400/81195",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/42/99/789348/Lobbyregister-Registereintraege-Detailansicht-R004400-2026-06-30_11-40-54.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesinstitut für Bau-, Stadt- und Raumforschung (BBSR)",
+"epl": "25",
+"von": 20001,
+"bis": 30000,
+"zweck": "Das Projekt „Best Practice und Wissenstransfer Gebäudegrün Deutschland“ zielt darauf ab, eine interaktive Deutschlandkarte mit Praxisbeispielen zur Dach- und Fassadenbegrünung zu erstellen. Diese Karte soll etwa 500 Best Practice Beispiele enthalten, die verschiedene Kategorien und Grundlagendaten wie Erstellungs- und Pflegekosten, Aufbausystematik und Wasserrückhaltung abdecken. Im Projekt sollen zudem mögliche Informationszentren in den Hauptstädten der Bundesländer identifiziert und aufgebaut werden. Ein weiterer Schwerpunkt liegt auf der Entwicklung einer Methode zur Ermittlung der jährlich neu hinzugekommenen Flächen von Dach- und Fassadenbegrünungen, um die Datenaufnahme aktuell zu halten. Mit der Arbeit sollen belastbare Kostenwerte für zukünftige Kosten-Nutzen-Betrachtungen bereitgestellt werden, um Kostensicherheit für Bauende und Planende zu gewährleisten.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 20001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Gunter Mann",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004400/81195",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Gerd Vogt",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004400/81195",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Carsten Henselek",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004400/81195",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Sylvia van  Meegen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004400/81195",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 100001,
+"bis": 110000
+},
+"mitgliedsbeitraege": {
+"von": 300001,
+"bis": 310000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ad/8a/789347/vorlaeufiger_JAB_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004400/81195",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

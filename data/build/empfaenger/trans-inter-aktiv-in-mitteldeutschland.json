@@ -1,0 +1,119 @@
+{
+"id": "trans-inter-aktiv-in-mitteldeutschland",
+"name": "Trans-Inter-Aktiv in Mitteldeutschland e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Zwickau",
+"website": "www.trans-inter-aktiv.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003899",
+"eintrag_id": 71631,
+"version": 8,
+"stand": "2026-02-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003899/71631",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/60/b7/688945/Lobbyregister-Registereintraege-Detailansicht-R003899-2026-02-03_13-10-10.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ)",
+"epl": "17",
+"von": 240001,
+"bis": 250000,
+"zweck": "Projektförderung im Bundesprogramm \"Demokratie leben!\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 240001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Silvia Rentzsch",
+"funktion": "Vorstandsvorsitz",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003899/71631",
+"stand": "2026-02-03"
+}
+},
+{
+"name": "Johanna Rödenbeck",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003899/71631",
+"stand": "2026-02-03"
+}
+},
+{
+"name": "Nick Heinz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003899/71631",
+"stand": "2026-02-03"
+}
+},
+{
+"name": "Krüger Frank",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003899/71631",
+"stand": "2026-02-03"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/76/be/688943/SACBERICHT-2025.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003899/71631",
+"abgerufen": "2026-11-02",
+"stand": "2026-02-03",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

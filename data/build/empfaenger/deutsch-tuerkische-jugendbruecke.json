@@ -1,0 +1,93 @@
+{
+"id": "deutsch-tuerkische-jugendbruecke",
+"name": "Deutsch-Türkische Jugendbrücke gGmbH",
+"art": "verein_stiftung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Düsseldorf",
+"website": "https://www.jugendbruecke.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006820",
+"eintrag_id": 71643,
+"version": 4,
+"stand": "2026-02-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006820/71643",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/04/57/688941/Lobbyregister-Registereintraege-Detailansicht-R006820-2026-02-03_13-06-33.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 560001,
+"bis": 570000,
+"zweck": "Institutionelle Förderung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundeszentrale für politische Bildung",
+"epl": "06",
+"von": 40001,
+"bis": 50000,
+"zweck": "Projektförderung „Perspektivwechsel – Symposium zur Stärkung von Demokratie und Inklusion in deutsch-türkischen Schüler*innenund Jugendbegegnungen“",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 600002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Daniel Grütjen",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006820/71643",
+"stand": "2026-02-03"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 830001,
+"bis": 840000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 110001,
+"bis": 120000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/c4/cb/688940/DTJB-Bilanz-und-G-V-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006820/71643",
+"abgerufen": "2026-11-02",
+"stand": "2026-02-03",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

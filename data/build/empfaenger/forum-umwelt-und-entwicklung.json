@@ -1,0 +1,215 @@
+{
+"id": "forum-umwelt-und-entwicklung",
+"name": "Forum Umwelt und Entwicklung",
+"art": "verein_stiftung",
+"rechtsform": "Netzwerk, Plattform oder andere Form kollektiver Tätigkeit",
+"sitz": "Berlin",
+"website": "https://www.forumue.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001390",
+"eintrag_id": 64491,
+"version": 13,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001390/64491",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/1b/f1/792845/Lobbyregister-Registereintraege-Detailansicht-R001390-2026-06-30_15-33-06.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesumweltministerium",
+"epl": null,
+"von": 410001,
+"bis": 420000,
+"zweck": "Institutionelle Förderung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Naturschutz",
+"epl": "16",
+"von": 1,
+"bis": 10000,
+"zweck": "Walddialog im Zusammenspiel von Biodiversität, Klimaschutz und Holzwirtschaft Im Rahmen des Walddialogs werden zentrale Akteure zusammengebracht, um eine ausgewogene Waldnutzung zu fördern, die die Aspekte Biodiversität, Klimaschutz und Holzwirtschaft vereint. Das Ziel besteht darin, resiliente Waldökosysteme zu stärken und den Nutzungsdruck nachhaltig zu reduzieren.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Umweltbundesamt",
+"epl": "16",
+"von": 70001,
+"bis": 80000,
+"zweck": "Begleitung der Umsetzung und Weiterentwicklung der internationalen Chemikalienpolitik, sowie Vernetzung und Koordinierung der deutschen Zivilgesellschaft, die zu chemikalienpolitischen Prozessen auf verschiedenen Ebenen arbeitet.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Umweltbundesamt",
+"epl": "16",
+"von": 10001,
+"bis": 20000,
+"zweck": "Projekt Nachhaltigkeitsziele",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "GIZ",
+"epl": "23",
+"von": 20001,
+"bis": 30000,
+"zweck": "EITI",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "GIZ",
+"epl": "23",
+"von": 60001,
+"bis": 70000,
+"zweck": "Nachhaltige Finanzpolitik",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 570006,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Wolfgang Obenland",
+"funktion": "Leitung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001390/64491",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Marie-Luise Abshagen-Hartwig",
+"funktion": "Leitung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001390/64491",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Josephine Koch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001390/64491",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Tom Kurz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001390/64491",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "László Maráz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001390/64491",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Sara Phung",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001390/64491",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Hannah Fürstenwerth",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001390/64491",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Hannah Fürstenwerth",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Hannah Fürstenwerth ist laut Lobbyregister Interessenvertretung bei Forum Umwelt und Entwicklung und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03. Forum Umwelt und Entwicklung erhielt laut Lobbyregister Mittel von: Bundesumweltministerium; Umweltbundesamt; GIZ; Bundesamt für Naturschutz.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesumweltministerium",
+"Umweltbundesamt",
+"GIZ",
+"Bundesamt für Naturschutz"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001390/64491",
+"stand": "2026-06-30"
+}
+],
+"stand": "2026-06-30"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 40001,
+"bis": 50000
+},
+"lobbyausgaben": {
+"von": 30001,
+"bis": 40000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": null
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001390/64491",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 13
+}
+]
+}

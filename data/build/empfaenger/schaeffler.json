@@ -1,0 +1,475 @@
+{
+"id": "schaeffler",
+"name": "Schaeffler AG ",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Herzogenaurach",
+"website": "https://www.schaeffler.de/de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001155",
+"eintrag_id": 77251,
+"version": 17,
+"stand": "2026-06-26",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001155/77251",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/0a/61/778408/Lobbyregister-Registereintraege-Detailansicht-R001155-2026-06-26_10-55-12.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 40001,
+"bis": 50000,
+"zweck": "F&E Projektförderung \"Ecoframe Arena2036\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "F&E Projektförderung \"DiSteEL\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 880001,
+"bis": 890000,
+"zweck": "F&E Projektförderung \"StacIE\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 30001,
+"bis": 40000,
+"zweck": "F&E Projektförderung \"Synergie\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 2130001,
+"bis": 2140000,
+"zweck": "F&E Projektförderung \"Agilo-Drive\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 90001,
+"bis": 100000,
+"zweck": "F&E Projektförderung \"S-Ray\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 20001,
+"bis": 30000,
+"zweck": "F&E Projektförderung \"GenAI4Future Factory\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 40001,
+"bis": 50000,
+"zweck": "F&E Projektförderung \"FlexSbus-LR\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "F&E Projektförderung \"H2SkaProMo\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "F&E Projektförderung \"GearOil-LOOP\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "F&E Projektförderung \"KIZAM KI\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "F&E Projektförderung \"ProStroM\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "F&E Projektförderung \"ELAN\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 180001,
+"bis": 190000,
+"zweck": "F&E Projektförderung \"H2-OptiLifeCycle\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 200001,
+"bis": 210000,
+"zweck": "F&E Projektförderung \"CX-NEXT\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "F&E Projektförderung \"EIN-KLICK-ROBI\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 190001,
+"bis": 200000,
+"zweck": "F&E Projektförderung \"FAST\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 130001,
+"bis": 140000,
+"zweck": "F&E Projektförderung \"Opt4E\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 460001,
+"bis": 470000,
+"zweck": "F&E Projektförderung \"REASSERT\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 10001,
+"bis": 20000,
+"zweck": "F&E Projektförderung \"KupferDigital2\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 50001,
+"bis": 60000,
+"zweck": "F&E Projektförderung \"KIMBA\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "F&E Projektförderung \"KI-MUSIK 4.0!\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 10001,
+"bis": 20000,
+"zweck": "F&E Projektförderung \"DIAMOND\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 90001,
+"bis": 100000,
+"zweck": "F&E Projektförderung Digital Green Tech, erhalten für Vitesco Technologies",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 30001,
+"bis": 40000,
+"zweck": "F&E Projektförderung Electrochemical Materials and Processes for Green Hydrogen and Green Chemistry (ECCM), erhalten für Vitesco Technologies",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 700001,
+"bis": 710000,
+"zweck": "F&E Projektförderung Elektro Mobil - Förderaufruf F&E für eine erfolgreiche Transformation zur Elektromobilität und Systemintegration, erhalten für Vitesco Technologies",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 40001,
+"bis": 50000,
+"zweck": "Fördermaßnahme angewandte nichtnukleare Forschungsförderung im 7. Energieforschungsprogramm der Bundesregierung ,,lnnovationen für die Energiewende\", erhalten für Vitesco Technologies",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 430001,
+"bis": 440000,
+"zweck": "Fördermaßnahme Neue Fahrzeug- und Systemtechnologien, erhalten für Vitesco Technologies",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "Fördermaßnahme Zukunft der Arbeit: Regionale Kompetenzzentren der Arbeitsforschung, erhalten für Vitesco Technologies",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "Projektförderung \"Post-Quanten-Kryptografie in die Anwendungen bringen\", erhalten für Vitesco Technologies",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 70001,
+"bis": 80000,
+"zweck": "Richtlinie zu einer gemeinsamen Förderinitiative zur Förderung von Forschung und Entwicklung im Bereich der Elektromobilität, erhalten für Vitesco Technologies",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 30001,
+"bis": 40000,
+"zweck": "Richtlinie zur Förderung von Forschung zur „Elektronik und Softwareentwicklungsmethoden für die Digitalisierung der Automobilität (MANNHEIM)“, erhalten für Vitesco Technologies",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 6020032,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Klaus Rosenfeld",
+"funktion": "Vorsitzender des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001155/77251",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Thomas Stierle",
+"funktion": "Vorstand E-Mobility",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001155/77251",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Jochen Schröder",
+"funktion": "Vorstand Produktion, Supply Chain Management und Einkauf",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001155/77251",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Astrid Fontaine",
+"funktion": "Vorstand Personal und Arbeitsdirektorin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001155/77251",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Jens Schüler",
+"funktion": "Vorstand Vehicle Lifetime Solutions",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001155/77251",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Uwe Wagner",
+"funktion": "Vorstand Forschung und Entwicklung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001155/77251",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Matthias Zink",
+"funktion": "Vorstand Powertrain & Chassis",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001155/77251",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Sascha Zaps",
+"funktion": "Vorstand Bearings & Industrial Solutions",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001155/77251",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Christophe Hannequin",
+"funktion": "Vorstand Finanzen und IT",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001155/77251",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Eike Christian  Todsen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001155/77251",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Till Bullmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001155/77251",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Maximilian Steiner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001155/77251",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Matthias Baumbach",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001155/77251",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Susanne Finkenzeller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001155/77251",
+"stand": "2026-06-26"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 360001,
+"bis": 370000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/06/4a/778403/2025_schaeffler_annual_report.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001155/77251",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-26",
+"etikett": "Eigenangabe",
+"version": 17
+}
+]
+}

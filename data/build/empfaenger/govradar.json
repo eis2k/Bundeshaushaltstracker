@@ -1,0 +1,155 @@
+{
+"id": "govradar",
+"name": "GovRadar GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "München",
+"website": "www.govradar.net",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007442",
+"eintrag_id": 78668,
+"version": 4,
+"stand": "2026-06-09",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007442/78668",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/bb/1c/754013/Lobbyregister-Registereintraege-Detailansicht-R007442-2026-06-09_18-24-31.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 60001,
+"bis": 70000,
+"zweck": "Förderprogramm des Bundesministeriums für Wirtschaft und Klimaschutz „Zentrales Innovationsprogramm Mittelstand\" (ZIM) Das Zentrale Innovationsprogramm Mittelstand (ZIM) ist ein bundesweites, technologie- und branchenoffenes Förderprogramm. Mit dem ZIM sollen die Innovationskraft und damit die Wettbewerbsfähigkeit mittelständischer Unternehmen, einschließlich junger und kleiner Unternehmen, des Handwerks sowie der unternehmerisch tätigen freien Berufe, nachhaltig gestärkt werden. Es soll zum volkswirtschaftlichen Wachstum beitragen, insbesondere durch die Erschließung von Wertschöpfungspotenzialen und die Hebung des Niveaus anwendungsnahen Wissens. Quelle: https://www.zim.de/ZIM/Navigation/DE/Infothek/UeberZIM/ueber-zim.html",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 1,
+"bis": 10000,
+"zweck": "Förderprogramm des Bundesministeriums für Wirtschaft und Energie „Zentrales Innovationsprogramm Mittelstand\" (ZIM) Das Zentrale Innovationsprogramm Mittelstand (ZIM) ist ein bundesweites, technologie- und branchenoffenes Förderprogramm. Mit dem ZIM sollen die Innovationskraft und damit die Wettbewerbsfähigkeit mittelständischer Unternehmen, einschließlich junger und kleiner Unternehmen, des Handwerks sowie der unternehmerisch tätigen freien Berufe, nachhaltig gestärkt werden. Es soll zum volkswirtschaftlichen Wachstum beitragen, insbesondere durch die Erschließung von Wertschöpfungspotenzialen und die Hebung des Niveaus anwendungsnahen Wissens. Quelle: https://www.zim.de/ZIM/Navigation/DE/Infothek/UeberZIM/ueber-zim.html",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 60002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Sascha Soyk",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Spiegel Stv. BtlKdr GebJgBtl 231 - Beorderter Reservist",
+"stelle": "Bundesministerium der Verteidigung (BMVg) oder dessen Geschäftsbereich",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007442/78668",
+"stand": "2026-06-09"
+}
+},
+{
+"name": "Charlotte Stollmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007442/78668",
+"stand": "2026-06-09"
+}
+},
+{
+"name": "Marius Voigt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007442/78668",
+"stand": "2026-06-09"
+}
+},
+{
+"name": "Thomas Rother",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007442/78668",
+"stand": "2026-06-09"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Sascha Soyk",
+"funktion_person": "Spiegel Stv. BtlKdr GebJgBtl 231 - Beorderter Reservist, Bundesministerium der Verteidigung (BMVg) oder dessen Geschäftsbereich",
+"funktion_beim_empfaenger": "Geschäftsführer",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Sascha Soyk ist laut Lobbyregister Geschäftsführer bei GovRadar GmbH und hatte zuvor eine öffentliche Funktion: Spiegel Stv. BtlKdr GebJgBtl 231 - Beorderter Reservist, Bundesministerium der Verteidigung (BMVg) oder dessen Geschäftsbereich. GovRadar GmbH erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Klimaschutz; Bundesministerium für Wirtschaft und Energie.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Wirtschaft und Klimaschutz",
+"Bundesministerium für Wirtschaft und Energie"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007442/78668",
+"stand": "2026-06-09"
+}
+],
+"stand": "2026-06-09"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/a6/87/754012/2025-11-25-GovRadar-GmbH-Jahresabschluss-2024-short.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007442/78668",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-09",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

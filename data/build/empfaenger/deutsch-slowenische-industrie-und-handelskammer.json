@@ -1,0 +1,116 @@
+{
+"id": "deutsch-slowenische-industrie-und-handelskammer",
+"name": "Deutsch-Slowenische Industrie- und Handelskammer",
+"art": "verein_stiftung",
+"rechtsform": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+"sitz": "Ljubljana",
+"website": "https://slowenien.ahk.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004616",
+"eintrag_id": 61825,
+"version": 4,
+"stand": "2025-07-11",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004616/61825",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/2a/e0/582735/Lobbyregister-Registereintraege-Detailansicht-R004616-2025-07-11_09-34-26.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 480001,
+"bis": 490000,
+"zweck": "Förderung der deutsch-slowenischen Wirtschaftsbeziehungen",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 50001,
+"bis": 60000,
+"zweck": "Projekt Exportinitive Energie 2023",
+"geschaeftsjahr": "2023"
+}
+],
+"lobby_untergrenze_bund": 530002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Dagmar von Bohnstein",
+"funktion": "Geschäftsführende Vorsitzende des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004616/61825",
+"stand": "2025-07-11"
+}
+},
+{
+"name": "Katja Stadler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004616/61825",
+"stand": "2025-07-11"
+}
+},
+{
+"name": "Tina Drolc",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004616/61825",
+"stand": "2025-07-11"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 200001,
+"bis": 210000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2023",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/37/be/582734/Jahresabschluss-2023-Slowenien.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004616/61825",
+"abgerufen": "2026-11-02",
+"stand": "2025-07-11",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

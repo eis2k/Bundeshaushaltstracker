@@ -1,0 +1,445 @@
+{
+"id": "medico-international",
+"name": "medico international",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Frankfurt am Main",
+"website": "www.medico.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001976",
+"eintrag_id": 62633,
+"version": 8,
+"stand": "2026-06-16",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001976/62633",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/48/13/759852/Lobbyregister-Registereintraege-Detailansicht-R001976-2026-06-16_10-12-44.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+"epl": "23",
+"von": 170001,
+"bis": 180000,
+"zweck": "BMZ Zuschuss zu einem Auslandsprojekt in Sri Lanka (Kultur d. Respekts zw. tamil., singhal. und muslim. Gemeinden) Phase 2",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMZ - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 310001,
+"bis": 320000,
+"zweck": "BMZ - Zuschuss zu einem Auslandsprojekt in Mittelamerika (Stärkung psychosozialer Ressourcen von Menschenrechtsverteidiger:innen) .",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMZ - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 110001,
+"bis": 120000,
+"zweck": "BMZ Auslandsprojektförderung in Kenia / Somalia (Ernährungssicherheit u. Einkommenssteigerung von Kleinbauern)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMZ - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 240001,
+"bis": 250000,
+"zweck": "BMZ Auslandsprojektförderung in Südafrika (Div. Partner, Basisgesundheitsbewegung)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMZ - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 990001,
+"bis": 1000000,
+"zweck": "BMZ Auslandsprojekt in Palästina (Stärkung der Resilienz von Gesundheitsdiensten und Verbesserung der Ernährungssicherheit)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMZ - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 30001,
+"bis": 40000,
+"zweck": "BMZ Auslandsprojekt Zuschuss für ein Projekt in Pakistan (Stärkung ländlicher Gemeinden inmitten multipler Krisen: Sektorübergreifende Entwicklungsansätze zur Verbesserung der Lebensbedingungen in Sanghar)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMZ - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 1290001,
+"bis": 1300000,
+"zweck": "BMZ Auslandsprojekt Zuschuss zu einem Projekt im Libanon (Nexus Projekt; Gesamtvolumen inkl. Patientengebühren; \"Stärkung der Resilienz von öffentlichen Gesundheitsdiensten im Libanon durch Verbesserung der Kapazitäten von Gesundheitszentren, Flüchtlingen und vulnerablen Gemeinden)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMZ - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 170001,
+"bis": 180000,
+"zweck": "BMZ-Auslandsprojekt Zuschuss für ein Projekt im Libanon (Nashet, Folgeprojekt: Etablierung einer alternativen, ökologischen und nachhaltigen urbanen Landwirtschaft in Ein el Hilweh)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "AA - Auswärtiges Amt / Humanitäre Hilfe",
+"epl": "05",
+"von": 1990001,
+"bis": 2000000,
+"zweck": "AA-Auslandsprojekt Zuschuss für ein Projekt im Libanon (AMEL Nexus Projekt: Strengthening access to health services for Syrian refugees and host communities in Beirut, Mount Libanon, Bekaa and Baalbeck)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "AA - Auswärtiges Amt",
+"epl": "05",
+"von": 1020001,
+"bis": 1030000,
+"zweck": "AA-Auslandsprojekt - Zuschuss für ein Auslandsprojekt in Syrien",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 6320010,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Anne Blum",
+"funktion": "Vorstand (Vorsitzende)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001976/62633",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Helga Riebe",
+"funktion": "Vorstand (stellv. Vorsitzende)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001976/62633",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Rainer Burkert",
+"funktion": "Vorstand (stellv. Vorsitzender)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001976/62633",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Andreas Wulf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001976/62633",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Moritz Krawinkel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001976/62633",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Anne Jung",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001976/62633",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Hendrik Slusarenka",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001976/62633",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Sabine Eckart",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001976/62633",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Kerem Schamberger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001976/62633",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Jan Schikora",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001976/62633",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Karoline Schaefer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001976/62633",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Eva Bitterlich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001976/62633",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Anita Starosta",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001976/62633",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Riad Othmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001976/62633",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Julia Manek",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001976/62633",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Mario Neumann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001976/62633",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Rachide Tennin",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001976/62633",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Tsafrir Cohen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001976/62633",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Sönke Widderich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001976/62633",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Felix Litschauer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001976/62633",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Tim Mulhanga",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001976/62633",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Imad Mustafa",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001976/62633",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Dorsch Timo",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001976/62633",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Valeria Hänsel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001976/62633",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Karin Zennig",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001976/62633",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Hannah Kentouche",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001976/62633",
+"stand": "2026-06-16"
+}
+},
+{
+"name": "Frauke Heller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001976/62633",
+"stand": "2026-06-16"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Sonstiges",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 12260001,
+"bis": 12270000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 30001,
+"bis": 40000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ce/71/759851/Jahresbericht-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001976/62633",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-16",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

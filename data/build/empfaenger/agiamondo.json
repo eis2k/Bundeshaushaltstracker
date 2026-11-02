@@ -1,0 +1,160 @@
+{
+"id": "agiamondo",
+"name": "AGIAMONDO e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Köln",
+"website": "www.agiamondo.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001829",
+"eintrag_id": 83425,
+"version": 5,
+"stand": "2026-07-22",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001829/83425",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/8f/67/818283/Lobbyregister-Registereintraege-Detailansicht-R001829-2026-07-22_17-50-46.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Engagement Global gGmbH, Service für Entwicklungsinitiativen",
+"epl": "23",
+"von": 14130001,
+"bis": 14140000,
+"zweck": "Die Zuwendungen umfassen Mittel, die von Engagement Global für die Durchführung der Programme ZFD, SIGA, LAVIS und FEB an AGIAMONDO e. V. gezahlt wurden.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Katholische Zentralstelle für Globale Entwicklung e. V. (KZE)",
+"epl": null,
+"von": 5120001,
+"bis": 5130000,
+"zweck": "Zuwendungen für die Projekte Vorbereitung, PV-Fachkräfte und BAZ",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 19250002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Markus Demele",
+"funktion": "Vorsitzender des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001829/83425",
+"stand": "2026-07-22"
+}
+},
+{
+"name": "Claudia Lücking-Michel",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001829/83425",
+"stand": "2026-07-22"
+}
+},
+{
+"name": "Bernd Bornhorst",
+"funktion": "Stellvertretender Vorsitzender des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001829/83425",
+"stand": "2026-07-22"
+}
+},
+{
+"name": "Barbara Kerime",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001829/83425",
+"stand": "2026-07-22"
+}
+},
+{
+"name": "Jörg Hilgers",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001829/83425",
+"stand": "2026-07-22"
+}
+},
+{
+"name": "Irene Mukasa-Erben",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001829/83425",
+"stand": "2026-07-22"
+}
+},
+{
+"name": "Clara Braungart",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001829/83425",
+"stand": "2026-07-22"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 10001,
+"bis": 20000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/3a/1f/818282/AGIAMONDO_Jahresbericht_2025_RZ.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001829/83425",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-22",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

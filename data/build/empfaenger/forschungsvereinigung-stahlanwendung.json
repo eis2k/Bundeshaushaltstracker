@@ -1,0 +1,119 @@
+{
+"id": "forschungsvereinigung-stahlanwendung",
+"name": "Forschungsvereinigung Stahlanwendung e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Düsseldorf",
+"website": "www.stahlforschung.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005282",
+"eintrag_id": 81662,
+"version": 10,
+"stand": "2026-07-02",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005282/81662",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/17/5c/801571/Lobbyregister-Registereintraege-Detailansicht-R005282-2026-07-02_09-26-45.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 20001,
+"bis": 30000,
+"zweck": "Koordinationspauschalen im Programm der Industriellen Gemeinschaftsforschung der BMWE in den Varianten CORNET und Leittechnologien.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 20001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Marc-Oliver Arnold",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005282/81662",
+"stand": "2026-07-02"
+}
+},
+{
+"name": "Karina Schuck",
+"funktion": "Stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005282/81662",
+"stand": "2026-07-02"
+}
+},
+{
+"name": "Rainer Salomon",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005282/81662",
+"stand": "2026-07-02"
+}
+},
+{
+"name": "Gregor Nüsse",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005282/81662",
+"stand": "2026-07-02"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 1000001,
+"bis": 1010000
+},
+"mitgliedsbeitraege": {
+"von": 760001,
+"bis": 770000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/3a/27/801569/2024-FOSTA-Jahresabschluss-Lobbyregister.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005282/81662",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-02",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

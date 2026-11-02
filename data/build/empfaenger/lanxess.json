@@ -1,0 +1,202 @@
+{
+"id": "lanxess",
+"name": "LANXESS AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Köln",
+"website": "http://www.lanxess.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002571",
+"eintrag_id": 82573,
+"version": 16,
+"stand": "2026-07-07",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002571/82573",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/0c/d6/807452/Lobbyregister-Registereintraege-Detailansicht-R002571-2026-07-07_12-14-53.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung - BMBF",
+"epl": "30",
+"von": 580001,
+"bis": 590000,
+"zweck": "Förderprojekt LIB-EU: 513.000 € Förderprojekt ReMAOlution: 67.654 €",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz - BMWK",
+"epl": "09",
+"von": 170001,
+"bis": 180000,
+"zweck": "Förderprojekt LiFe cycle",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 750002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Matthias Zachert",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002571/82573",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Hubert Fink",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002571/82573",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Oliver Stratmann",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002571/82573",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Frederique van Baarle",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002571/82573",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Benjamin Simonic",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002571/82573",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Klaus Schüler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002571/82573",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Axel Vaßen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002571/82573",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Claus Zemke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002571/82573",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Georg Walter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002571/82573",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Thoralf Küchler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002571/82573",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Ulrike Schmülling",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002571/82573",
+"stand": "2026-07-07"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 710001,
+"bis": 720000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/56/68/807447/2025-GB-LXS.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002571/82573",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-07",
+"etikett": "Eigenangabe",
+"version": 16
+}
+]
+}

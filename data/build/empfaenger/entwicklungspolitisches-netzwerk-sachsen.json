@@ -1,0 +1,120 @@
+{
+"id": "entwicklungspolitisches-netzwerk-sachsen",
+"name": "Entwicklungspolitisches Netzwerk Sachsen e.V. (ENS)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Dresden",
+"website": "www.einewelt-sachsen.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003992",
+"eintrag_id": 84162,
+"version": 8,
+"stand": "2026-08-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003992/84162",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/22/b8/825133/Lobbyregister-Registereintraege-Detailansicht-R003992-2026-08-03_15-29-54.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Engagement Global gGmbH im Auftrag des BMZ",
+"epl": "23",
+"von": 260001,
+"bis": 270000,
+"zweck": "Entwicklungspolitische Bildungsarbeit \"Wirtschaft und Menschenrechte\" und \"Migration und Eine Welt\" (FEB), Eine Welt-Promotor*innenprogramm, SKEW - Nachhaltige Beschaffung in sächsischen Kommunen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 260001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Barbara Irmer",
+"funktion": "1. Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003992/84162",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Martin Finke",
+"funktion": "2. Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003992/84162",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Camila Febres",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003992/84162",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Willy Vetter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003992/84162",
+"stand": "2026-08-03"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ba/e0/825131/2025-Jahresabschluss-ENS.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003992/84162",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-03",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

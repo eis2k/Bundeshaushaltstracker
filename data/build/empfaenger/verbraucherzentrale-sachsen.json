@@ -1,0 +1,148 @@
+{
+"id": "verbraucherzentrale-sachsen",
+"name": "Verbraucherzentrale Sachsen e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Leipzig",
+"website": "www.verbraucherzentrale-sachsen.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002275",
+"eintrag_id": 81876,
+"version": 16,
+"stand": "2026-07-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002275/81876",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/64/61/799560/Lobbyregister-Registereintraege-Detailansicht-R002275-2026-07-01_13-08-20.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Ernährung und Landwirtschaft",
+"epl": "10",
+"von": 200001,
+"bis": 210000,
+"zweck": "Zuwendung für das Vorhaben: Information der Verbraucherinnen und Verbraucher auf dem Gebiet der Ernährung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerin für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+"epl": null,
+"von": 170001,
+"bis": 180000,
+"zweck": "Zuwendungen des Bundesministerin für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz Projekt \"\"Maßnahmen zur Information der Verbraucherinnen und Verbraucher im Bereich des wirtschaftlichen Verbraucherschutzes durch die Verbraucherzentralen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Verbraucherzentrale Nordrhein-Westfalen",
+"epl": null,
+"von": 220001,
+"bis": 230000,
+"zweck": "Gesellschaftsvertrag der Gesellschaft bürgerlichen Rechts mit dem Nahmen \"\"Bietergemeinschaft der Verbraucherzentralen zur qualifizierten Datenlieferung im Rahmen der Marktbeobachtung GbR\"\" Weiterleitung einer Zuwendung des Bundesministeriums der Justiz und für Verbraucherschutz (BMJV)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 130001,
+"bis": 140000,
+"zweck": "Weiterleitungsvertrag Projekt: Förderung der unabhängigen Beratung privater Verbraucher über Möglichkeiten der Energieeinsparung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Ernährung und Landwirtschaft",
+"epl": "10",
+"von": 80001,
+"bis": 90000,
+"zweck": "Zuwendungen für das Projekt \"Gesund und nachhaltig essen mit kleinem Budget - gemeinsam Ernährungsarmut begegnen\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 70001,
+"bis": 80000,
+"zweck": "Verbundprojekt Simplication",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 870006,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Michael Hummel",
+"funktion": "geschäftsführender Vorstand ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002275/81876",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Kerstin Schultz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002275/81876",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Anne Wiesemann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002275/81876",
+"stand": "2026-07-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/71/2b/799559/TOP-4-Anlage-2025-09-30-WP_Bericht-VZS2024-3D-final.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002275/81876",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-01",
+"etikett": "Eigenangabe",
+"version": 16
+}
+]
+}

@@ -1,0 +1,119 @@
+{
+"id": "arbeitskreis-deutscher-bildungsstaetten",
+"name": "Arbeitskreis deutscher Bildungsstätten e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.adb.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001165",
+"eintrag_id": 82797,
+"version": 16,
+"stand": "2026-07-09",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001165/82797",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/b0/3c/809834/Lobbyregister-Registereintraege-Detailansicht-R001165-2026-07-09_11-38-24.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMBFSFJ",
+"epl": "17",
+"von": 4140001,
+"bis": 4150000,
+"zweck": "Regelförderung aus dem Kinder- und Jugendplan (KJP) des Bundes, verschiedene Projekte auf Basis des KJP des Bundes Projekte aus dem Förderbereich \"Demokratie leben!\" internationale Maßnahmenförderung (BMBFSFJ/Jugendförderwerke)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 4140001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Karin  Pritzel",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001165/82797",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Anne Dwertmann",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001165/82797",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Ina Bielenberg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001165/82797",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Sebastian Bock",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001165/82797",
+"stand": "2026-07-09"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 40001,
+"bis": 50000
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/cb/35/809830/JA-2024-Steuerrecht-gez-Exemplar.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001165/82797",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-09",
+"etikett": "Eigenangabe",
+"version": 16
+}
+]
+}

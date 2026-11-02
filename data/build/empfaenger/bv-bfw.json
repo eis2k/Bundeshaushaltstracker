@@ -1,0 +1,184 @@
+{
+"id": "bv-bfw",
+"name": "BV BFW",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.bv-bfw.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003868",
+"eintrag_id": 81700,
+"version": 10,
+"stand": "2026-07-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003868/81700",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/50/99/799565/Lobbyregister-Registereintraege-Detailansicht-R003868-2026-07-01_13-08-52.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Arbeit und Soziales aus Mitteln des Ausgleichsfonds",
+"epl": "11",
+"von": 240001,
+"bis": 250000,
+"zweck": "öffentliche gefördertes Projekt KI-Kompass Inklusiv",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 240001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Susanne Juliane Gebauer",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003868/81700",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Kerstin Kölzner",
+"funktion": "stellvertretende Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003868/81700",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Alice Melchior",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003868/81700",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Ellen Krüger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003868/81700",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Kathrin Jackel-Neusser",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003868/81700",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Barbara Lippa",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003868/81700",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Anne Meinelt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003868/81700",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Manuel Menke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003868/81700",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Christian Wolff",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003868/81700",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Stefan Weitzel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003868/81700",
+"stand": "2026-07-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 790001,
+"bis": 800000
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/44/53/799561/Jahresabschluss-zum-31-12-2025_final_geschwaerzt_Lobbyregister.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003868/81700",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-01",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

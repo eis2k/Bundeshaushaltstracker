@@ -1,0 +1,104 @@
+{
+"id": "ferroelectric-memory",
+"name": "Ferroelectric Memory GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Dresden",
+"website": "https://ferroelectric-memory.com/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007479",
+"eintrag_id": 84720,
+"version": 4,
+"stand": "2026-08-14",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007479/84720",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/51/4a/831130/Lobbyregister-Registereintraege-Detailansicht-R007479-2026-08-14_10-08-37.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMWE",
+"epl": "09",
+"von": 2240001,
+"bis": 2250000,
+"zweck": "Entwicklung einer nicht flüchtigen, standalone DRAM-Technologie mit externen Entwicklungspartnern, Entwicklung weiterer nicht flüchtiger Memory-Technologien.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMFTR",
+"epl": "30",
+"von": 490001,
+"bis": 500000,
+"zweck": "Neuartiger ferroelektrischer Speicher für die Entwicklung des Autonomen Fahrens – grundlegende Zuverlässigkeitsmechanismen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 2730002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Thomas Rueckes",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007479/84720",
+"stand": "2026-08-14"
+}
+},
+{
+"name": "Sabine Kolodinski",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007479/84720",
+"stand": "2026-08-14"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 30001,
+"bis": 40000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/24/01/831129/FMC_Testat-JAP-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007479/84720",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-14",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

@@ -1,0 +1,221 @@
+{
+"id": "rheinenergie",
+"name": "RheinEnergie AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Köln",
+"website": "https://www.rheinenergie.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003052",
+"eintrag_id": 87288,
+"version": 27,
+"stand": "2026-10-08",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003052/87288",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/35/07/858795/Lobbyregister-Registereintraege-Detailansicht-R003052-2026-10-08_17-29-49.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klima",
+"epl": null,
+"von": 220001,
+"bis": 230000,
+"zweck": "WATT IS (Projektträger Jülich)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klima;",
+"epl": null,
+"von": 50001,
+"bis": 60000,
+"zweck": "WATT IS (Projektträger Jülich)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)",
+"epl": "09",
+"von": 100001,
+"bis": 110000,
+"zweck": "Werkhallenbeleuchtung Parkgürtel",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)",
+"epl": "09",
+"von": 300001,
+"bis": 310000,
+"zweck": "Toyota Gazoo Kälteanlage",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)",
+"epl": "09",
+"von": 140001,
+"bis": 150000,
+"zweck": "Transformation Netz Innenstadt I (GWP Niehl)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)",
+"epl": "09",
+"von": 20001,
+"bis": 30000,
+"zweck": "sechsmal Umweltbonus E-Mobilität (E-Auto Förderung)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 830006,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Andreas Feicht",
+"funktion": "Vorsitzender des Vorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Staatssekretär",
+"stelle": "Bundesministerium für Wirtschaft und Energie (BMWE) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2021-12"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003052/87288",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Susanne Fabry",
+"funktion": "Mitglied des Vorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003052/87288",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Birgit Maria Lichtenstein",
+"funktion": "Mitglied des Vorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003052/87288",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Stephan Segbers",
+"funktion": "Mitglied des Vorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003052/87288",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Michael Paul",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003052/87288",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Annika Müller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003052/87288",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Laura Emmermacher",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003052/87288",
+"stand": "2026-10-08"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Andreas Feicht",
+"funktion_person": "Staatssekretär, Bundesministerium für Wirtschaft und Energie (BMWE) oder dessen Geschäftsbereich, bis 2021-12",
+"funktion_beim_empfaenger": "Vorsitzender des Vorstandes",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Andreas Feicht ist laut Lobbyregister Vorsitzender des Vorstandes bei RheinEnergie AG und hatte zuvor eine öffentliche Funktion: Staatssekretär, Bundesministerium für Wirtschaft und Energie (BMWE) oder dessen Geschäftsbereich, bis 2021-12. RheinEnergie AG erhielt laut Lobbyregister Mittel von: Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA); Bundesministerium für Wirtschaft und Klima; Bundesministerium für Wirtschaft und Klima;.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)",
+"Bundesministerium für Wirtschaft und Klima",
+"Bundesministerium für Wirtschaft und Klima;"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003052/87288",
+"stand": "2026-10-08"
+}
+],
+"stand": "2026-10-08"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 260001,
+"bis": 270000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/96/18/858791/geschaeftsbericht-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003052/87288",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-08",
+"etikett": "Eigenangabe",
+"version": 27
+}
+]
+}

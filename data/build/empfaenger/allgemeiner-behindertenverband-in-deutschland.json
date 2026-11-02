@@ -1,0 +1,119 @@
+{
+"id": "allgemeiner-behindertenverband-in-deutschland",
+"name": "Allgemeiner Behindertenverband in Deutschland e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.abid-ev.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003142",
+"eintrag_id": 82286,
+"version": 12,
+"stand": "2026-07-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003142/82286",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/00/b6/804103/Lobbyregister-Registereintraege-Detailansicht-R003142-2026-07-03_11-22-44.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "GKV",
+"epl": null,
+"von": 30001,
+"bis": 40000,
+"zweck": "Zuschuss für die Vereinsarbeit",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 30001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Marcus Graubner",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003142/82286",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "Klaus Heidrich",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003142/82286",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "Peter Halle",
+"funktion": "Stellvertreter",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003142/82286",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "Thomas Schirmer",
+"funktion": "Stellvertreter",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003142/82286",
+"stand": "2026-07-03"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/bc/03/804102/Taetigkeitsbericht-ABiD-e-V.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003142/82286",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-03",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

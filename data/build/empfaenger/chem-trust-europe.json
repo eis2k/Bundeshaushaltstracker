@@ -1,0 +1,108 @@
+{
+"id": "chem-trust-europe",
+"name": "CHEM Trust Europe e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Hamburg",
+"website": "https:www.chemtrust.org/de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007075",
+"eintrag_id": 83634,
+"version": 9,
+"stand": "2026-07-23",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007075/83634",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/d6/22/818996/Lobbyregister-Registereintraege-Detailansicht-R007075-2026-07-23_15-40-24.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Umweltbundesamt",
+"epl": "16",
+"von": 30001,
+"bis": 40000,
+"zweck": "Verbändeförderung des Umweltbundesamtes: Projektmittel zur Verbesserung der Nutzung von Daten über Chemikalienbelastungen aus dem Humanbiomonitoring zur Information der Öffentlichkeit. Im Rahmen des Projektes wurde die Arbeit des EU-Projektes HBM4EU kritisch begleitet, eine Broschüre, Webartikel und Social Media Posts über Chemikalienbelastungen wurden erstellt und veröffentlicht.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 30001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ninja Reineke",
+"funktion": "Vorsitzende des Vereins; Wissenschaftliche Leitung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007075/83634",
+"stand": "2026-07-23"
+}
+},
+{
+"name": "Michael Warhurst",
+"funktion": "Vorsitzender des Vereins",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007075/83634",
+"stand": "2026-07-23"
+}
+},
+{
+"name": "Antonia Reihlen",
+"funktion": "Schatzmeisterin, Wissenschaftliche Referentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007075/83634",
+"stand": "2026-07-23"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 130001,
+"bis": 140000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/07/8f/818991/CHEMTrust-Einnahmen_Ausgaben-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007075/83634",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-23",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

@@ -1,0 +1,144 @@
+{
+"id": "stiftung-preussischer-kulturbesitz",
+"name": "Stiftung Preußischer Kulturbesitz",
+"art": "oeffentlich",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": true,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "04-0452-68531",
+"text": "Beitrag an die Stiftung Preußischer Kulturbesitz",
+"epl": "04",
+"epl_text": "Bundeskanzler und Bundeskanzleramt",
+"werte": {
+"2016": {
+"soll": 106307000,
+"ist": 106223352
+},
+"2017": {
+"soll": 125915000,
+"ist": 126443151
+},
+"2018": {
+"soll": 128515000,
+"ist": 128475021
+},
+"2019": {
+"soll": 137517000,
+"ist": 137483912
+},
+"2020": {
+"soll": 137819000,
+"ist": 144284049
+},
+"2021": {
+"soll": 159479000,
+"ist": 178988216
+},
+"2022": {
+"soll": 162505000,
+"ist": 162197953
+},
+"2023": {
+"soll": 150115000,
+"ist": 155015000
+},
+"2024": {
+"soll": 154085000,
+"ist": 162893000
+},
+"2025": {
+"soll": 186985000,
+"ist": 202526000
+},
+"2026": {
+"soll": 180085000,
+"ist": null
+}
+}
+},
+{
+"id": "04-0452-89432",
+"text": "Zuschüsse für Baumaßnahmen der Stiftung Preußischer Kulturbesitz",
+"epl": "04",
+"epl_text": "Bundeskanzler und Bundeskanzleramt",
+"werte": {
+"2016": {
+"soll": 106208000,
+"ist": 106208000
+},
+"2017": {
+"soll": 136208000,
+"ist": 135679849
+},
+"2018": {
+"soll": 126208000,
+"ist": 126242257
+},
+"2019": {
+"soll": 126208000,
+"ist": 126241088
+},
+"2020": {
+"soll": 106208000,
+"ist": 106240051
+},
+"2021": {
+"soll": 106208000,
+"ist": 106236877
+},
+"2022": {
+"soll": 106208000,
+"ist": 106235047
+},
+"2023": {
+"soll": 114208000,
+"ist": 114208000
+},
+"2024": {
+"soll": 106208000,
+"ist": 106208000
+},
+"2025": {
+"soll": 115138000,
+"ist": 132138000
+},
+"2026": {
+"soll": 107508000,
+"ist": null
+}
+}
+},
+{
+"id": "04-0405-68531",
+"text": "Beitrag an die Stiftung Preußischer Kulturbesitz",
+"epl": "04",
+"epl_text": "Bundeskanzlerin und Bundeskanzleramt",
+"werte": {
+"2015": {
+"soll": 103604000,
+"ist": 101575273
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

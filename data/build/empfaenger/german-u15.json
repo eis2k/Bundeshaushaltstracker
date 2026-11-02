@@ -1,0 +1,172 @@
+{
+"id": "german-u15",
+"name": "German U15 e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.german-u15.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001482",
+"eintrag_id": 85579,
+"version": 18,
+"stand": "2026-09-07",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001482/85579",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/07/8b/839340/Lobbyregister-Registereintraege-Detailansicht-R001482-2026-09-07_15-31-01.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Stiftung Innovation in der Hochschullehre in Trägerschaft der Toepfer Stiftung gGmbH",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "Die TURN Conference ist eine von der Stiftung Innovation in der Hochschullehre (StIL) initiierte Tagungsreihe, die 2022 in Kiel ihren Auftakt bestritten hat. Sie ist ein jährlicher Austauschort zum Lehren und Lernen an Hochschulen. TURN steht dabei für Perspektivwechsel, Mut zur Veränderung, Offenheit und Aufbruch. Die TURN Conference ist offen für verschiedene Fachrichtungen und Hochschultypen, sie richtet sich an Fachwissenschaftler, Lehrende, an Hochschuldidaktik, -management und -verwaltung, an Hochschulleitungen und Studierende. Gegenstand der Förderung ist die Vollfinanzierung des Projekts \"Ausrichtung TURN Conference 2024\" im November 2024 in Berlin und deren Nachbereitung im Jahr 2025.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 20001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Eva Inés Obergfell",
+"funktion": "Stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001482/85579",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Michael  Hoch",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001482/85579",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Karla Pollmann",
+"funktion": "Stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001482/85579",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Juliane Henska",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001482/85579",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Yannick Bauer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001482/85579",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Erik Becker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001482/85579",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Katharina Gotzler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001482/85579",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Karin Kutter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001482/85579",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Friederike Schröder",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001482/85579",
+"stand": "2026-09-07"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 670001,
+"bis": 680000
+},
+"lobbyausgaben": {
+"von": 240001,
+"bis": 250000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/f1/9e/839339/JA24_GuV_Bilanz.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001482/85579",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-07",
+"etikett": "Eigenangabe",
+"version": 18
+}
+]
+}

@@ -1,0 +1,187 @@
+{
+"id": "mainova",
+"name": "Mainova AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Frankfurt am Main ",
+"website": "www.mainova.de ",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002450",
+"eintrag_id": 85587,
+"version": 19,
+"stand": "2026-09-07",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002450/85587",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/8a/23/839410/Lobbyregister-Registereintraege-Detailansicht-R002450-2026-09-07_16-53-40.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 590001,
+"bis": 600000,
+"zweck": "Wärmenetzsysteme 4.0, Bundesförderung für effiziente Wärmenetze",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesanstalt für Verwaltungsdienstleistungen",
+"epl": null,
+"von": 80001,
+"bis": 90000,
+"zweck": "Errichtung öffentlicher Ladeinfrastruktur für E-Fahrzeuge",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 670002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Michael Maxelon",
+"funktion": "Vorsitzender des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002450/85587",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Peter Arnold",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002450/85587",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Martin Giehl",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002450/85587",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Swen Klingelhöfer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002450/85587",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Kai Jörn Vollbrecht",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002450/85587",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Adrian Bellingen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002450/85587",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Sebastian Widmuch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Referent",
+"stelle": "Bundesministerium für Wirtschaft und Energie (BMWE) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2023-12"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002450/85587",
+"stand": "2026-09-07"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Sebastian Widmuch",
+"funktion_person": "Referent, Bundesministerium für Wirtschaft und Energie (BMWE) oder dessen Geschäftsbereich, bis 2023-12",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Sebastian Widmuch ist laut Lobbyregister Interessenvertretung bei Mainova AG und hatte zuvor eine öffentliche Funktion: Referent, Bundesministerium für Wirtschaft und Energie (BMWE) oder dessen Geschäftsbereich, bis 2023-12. Mainova AG erhielt laut Lobbyregister Mittel von: Bundesamt für Wirtschaft und Ausfuhrkontrolle; Bundesanstalt für Verwaltungsdienstleistungen.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"Bundesanstalt für Verwaltungsdienstleistungen"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002450/85587",
+"stand": "2026-09-07"
+}
+],
+"stand": "2026-09-07"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 330001,
+"bis": 340000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ca/a5/839405/hv-jahresabschluss-2025-data.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002450/85587",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-07",
+"etikett": "Eigenangabe",
+"version": 19
+}
+]
+}

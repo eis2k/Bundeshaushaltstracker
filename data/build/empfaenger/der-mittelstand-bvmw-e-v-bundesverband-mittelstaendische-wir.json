@@ -1,0 +1,414 @@
+{
+"id": "der-mittelstand-bvmw-e-v-bundesverband-mittelstaendische-wir",
+"name": "Der Mittelstand, BVMW e.V. Bundesverband mittelständische Wirtschaft",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.bvmw.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001657",
+"eintrag_id": 83700,
+"version": 21,
+"stand": "2026-07-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001657/83700",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/a4/58/819819/Lobbyregister-Registereintraege-Detailansicht-R001657-2026-07-24_15-04-05.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft/Klimaschutz",
+"epl": null,
+"von": 330001,
+"bis": 340000,
+"zweck": "Mittelstands-Digital-Zentrum: Unterstützung des Mittelstandes bei der Digitalisierung. Das Mittelstand-Digital Zentrum Berlin unterstützt kleine und mittlere Unternehmen in Berlin-Brandenburg und bundesweit dabei, die Potenziale der Künstlichen Intelligenz (KI) zu erschließen und ihre Wettbewerbsfähigkeit zu steigern. Im Fokus des Zentrums steht die Vermittlung von praxisnahem Wissen über KI und die Förderung der sogenannten KI-Readiness, also der Bereitschaft und Fähigkeit, KI-Technologien effektiv in Geschäftsprozesse zu integrieren.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft/Klimaschutz",
+"epl": null,
+"von": 200001,
+"bis": 210000,
+"zweck": "Das Mittelstand-Digital Zentrum Tourismus wird vom Bundesministerium für Wirtschaft und Klimaschutz für 36 Monate gefördert. Die Technische Universität Berlin übernimmt die Leitung, weitere Partner neben Der Mittelstand.BVMW sind das Fraunhofer Institut für Bauphysik und die RWTH Aachen. Damit ist der BVMW nun in einem weiteren der 29 deutschlandweiten Mittelstand-Digital Zentren beteiligt. Das Mittelstand-Digital Netzwerk bietet mit den Mittelstand-Digital Zentren, der Initiative IT-Sicherheit in der Wirtschaft und Digital Jetzt umfassende Unterstützung bei der Digitalisierung. Kleine und mittlere Unternehmen profitieren von Praxisbeispielen und passgenauen, anbieterneutralen Angeboten zur Qualifikation und IT-Sicherheit. Das Bundesministerium für Wirtschaft und Klimaschutz ermöglicht die kostenfreie Nutzung und stellt finanzielle Zuschüsse bereit.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft/Klimaschutz",
+"epl": null,
+"von": 790001,
+"bis": 800000,
+"zweck": "Die Transferstelle Cybersicherheit im Mittelstand unterstützt kleine und mittlere Unternehmen, Handwerksbetriebe und Start-ups kostenfrei bei Prävention, Detektion und Reaktion auf Cyberangriffe. Das Projekt ist im Juli 2023 gestartet und wird durch das Bundesministerium für Wirtschaft und Klimaschutz in der Initiative IT-Sicherheit in der Wirtschaft gefördert. Es baut auf den Arbeiten der bisherigen Transferstelle IT-Sicherheit im Mittelstand auf und entwickelt ausgewählte Angebote weiter.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium Arbeit/Soziales",
+"epl": null,
+"von": 130001,
+"bis": 140000,
+"zweck": "FairFuture bietet Unternehmen praxisorientierte Unterstützung, um Geschlechtergerechtigkeit in Ihrem Unternehmen voranzubringen. Durch interaktive Workshops, individuelle Sprechstunden und eine enge Zusammenarbeit mit dem Projektteam und anderen Unternehmen entwickelt das Projekt Lösungen, die wirken. FairFuture wird im Rahmen des Förderprogramms „Wandel der Arbeit sozialpartnerschaftlich gestalten: weiter bilden und Gleichstellung fördern“ durch den Bundesverband Der Mittelstand. BVMW e.V. durchgeführt.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1450004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Andreas Jahn",
+"funktion": "Bundesgeschäftsleiter internationale Politik und Außenwirtschaft",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001657/83700",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Christoph Ahlhaus",
+"funktion": "Vorsitzender der BVMW-Bundesgeschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001657/83700",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Sebastian Krauß",
+"funktion": "Bundesgeschäftsleiter Politik Inland",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001657/83700",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Hans-Jürgen Völz",
+"funktion": "Bundesgeschäftsleiter Volkswirtschaft",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001657/83700",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Johannes Kreft",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001657/83700",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Anna Kalucki",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001657/83700",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Martin Holderied",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001657/83700",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Patricia Sekora",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001657/83700",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Maximilian Stahl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001657/83700",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Zahra Kalaf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001657/83700",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Jasper Lüke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001657/83700",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Karla Steinecke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001657/83700",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Dirk Howe",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001657/83700",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Roger Heidmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001657/83700",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Martin Viehöver",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001657/83700",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Guido Körber",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001657/83700",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Mansoor Said",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001657/83700",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Nico Lüdemann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001657/83700",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Matthias Brucke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001657/83700",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Sonja Stockhausen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001657/83700",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Kai Mütze",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001657/83700",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Frank-Grischa Feitsch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001657/83700",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Thomas Hey",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001657/83700",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Thiemo Fojkar",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001657/83700",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Sarah Braatz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001657/83700",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Christoph Wiedenroth",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001657/83700",
+"stand": "2026-07-24"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Andreas Jahn",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag",
+"funktion_beim_empfaenger": "Bundesgeschäftsleiter internationale Politik und Außenwirtschaft",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Andreas Jahn ist laut Lobbyregister Bundesgeschäftsleiter internationale Politik und Außenwirtschaft bei Der Mittelstand, BVMW e.V. Bundesverband mittelständische Wirtschaft und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag. Der Mittelstand, BVMW e.V. Bundesverband mittelständische Wirtschaft erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft/Klimaschutz; Bundesministerium Arbeit/Soziales.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Wirtschaft/Klimaschutz",
+"Bundesministerium Arbeit/Soziales"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001657/83700",
+"stand": "2026-07-24"
+}
+],
+"stand": "2026-07-24"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 20610001,
+"bis": 20620000
+},
+"lobbyausgaben": {
+"von": 1320001,
+"bis": 1330000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/b0/eb/819800/64031-Jahresabschluss-2024-unterschrieben.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001657/83700",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-24",
+"etikett": "Eigenangabe",
+"version": 21
+}
+]
+}

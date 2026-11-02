@@ -1,0 +1,324 @@
+{
+"id": "powershift",
+"name": "PowerShift e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "power-shift.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000353",
+"eintrag_id": 84922,
+"version": 16,
+"stand": "2026-08-20",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000353/84922",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ef/40/833156/Lobbyregister-Registereintraege-Detailansicht-R000353-2026-08-20_13-33-17.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Engagement Global gGmbH",
+"epl": "23",
+"von": 60001,
+"bis": 70000,
+"zweck": "Projektförderung für ein Projekt im Bereich handels- und rohstoffpolitischen Bildung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Umweltbundesamt",
+"epl": "16",
+"von": 10001,
+"bis": 20000,
+"zweck": "Förderung eines Projekts im Bereich Umwelt und Rohstoffe",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Stiftung für Ehrenamt und Engagement",
+"epl": null,
+"von": 40001,
+"bis": 50000,
+"zweck": "Projektförderung für klimapolitische Bildung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+"epl": "16",
+"von": 70001,
+"bis": 80000,
+"zweck": "Projektförderung für ein rohstoffpolitisches Projekt",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Arbeit und Soziales",
+"epl": "11",
+"von": 70001,
+"bis": 80000,
+"zweck": "Förderung eines rohstoffpolitischen Projekts",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 250005,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Bernd Brouns",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für eine Fraktion/Gruppe im Deutschen Bundestag",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-12"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000353/84922",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Tine Laufer",
+"funktion": "geschäftsführender Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000353/84922",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Merle Groneweg",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000353/84922",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Nelly Grotefendt",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000353/84922",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Alessa Hartmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000353/84922",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Michael Reckordt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000353/84922",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Fabian Flues",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000353/84922",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Constantin Bittner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000353/84922",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Bettina Müller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000353/84922",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Hendrik Schnittker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000353/84922",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Thomas Fritz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000353/84922",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Neelke Wagner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für eine Fraktion/Gruppe im Deutschen Bundestag",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-10"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000353/84922",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Vanessa Fischer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000353/84922",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Hannah Pilgrim",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000353/84922",
+"stand": "2026-08-20"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Bernd Brouns",
+"funktion_person": "Funktion für eine Fraktion/Gruppe im Deutschen Bundestag, Bundestag, bis 2021-12",
+"funktion_beim_empfaenger": "Vorstand",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Bernd Brouns ist laut Lobbyregister Vorstand bei PowerShift e.V. und hatte zuvor eine öffentliche Funktion: Funktion für eine Fraktion/Gruppe im Deutschen Bundestag, Bundestag, bis 2021-12. PowerShift e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit; Bundesministerium für Arbeit und Soziales; Engagement Global gGmbH; Deutsche Stiftung für Ehrenamt und Engagement; Umweltbundesamt.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+"Bundesministerium für Arbeit und Soziales",
+"Engagement Global gGmbH",
+"Deutsche Stiftung für Ehrenamt und Engagement",
+"Umweltbundesamt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000353/84922",
+"stand": "2026-08-20"
+}
+],
+"stand": "2026-08-20"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Neelke Wagner",
+"funktion_person": "Funktion für eine Fraktion/Gruppe im Deutschen Bundestag, Bundestag, bis 2021-10",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Neelke Wagner ist laut Lobbyregister Interessenvertretung bei PowerShift e.V. und hatte zuvor eine öffentliche Funktion: Funktion für eine Fraktion/Gruppe im Deutschen Bundestag, Bundestag, bis 2021-10. PowerShift e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit; Bundesministerium für Arbeit und Soziales; Engagement Global gGmbH; Deutsche Stiftung für Ehrenamt und Engagement; Umweltbundesamt.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+"Bundesministerium für Arbeit und Soziales",
+"Engagement Global gGmbH",
+"Deutsche Stiftung für Ehrenamt und Engagement",
+"Umweltbundesamt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000353/84922",
+"stand": "2026-08-20"
+}
+],
+"stand": "2026-08-20"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/df/5b/833155/Bilanz-GuV-2025-ohne-Namen-final.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000353/84922",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-20",
+"etikett": "Eigenangabe",
+"version": 16
+}
+]
+}

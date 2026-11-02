@@ -1,0 +1,149 @@
+{
+"id": "landesverband-der-kita-und-schulfoerdervereine-berlin-brande",
+"name": "Landesverband der Kita- und Schulfördervereine Berlin-Brandenburg e.V. (lsfb)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://www.lsfb.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000883",
+"eintrag_id": 81352,
+"version": 8,
+"stand": "2026-07-02",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000883/81352",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/e1/c2/803190/Lobbyregister-Registereintraege-Detailansicht-R000883-2026-07-02_17-12-57.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Stiftung Bildung / Bundesfamilienministerium",
+"epl": null,
+"von": 60001,
+"bis": 70000,
+"zweck": "Fehlbedarfsfinanzierung im Rahmen des Bundesprogramms \"Menschen stärken Menschen\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Stiftung Bildung / Bundesfamilienministerium",
+"epl": null,
+"von": 60001,
+"bis": 70000,
+"zweck": "Festbetragsfinanzierung zur Umsetzung der Chancenpatenschaften zwischen Kindern und Jugendlichen von 4 bis 27 Jahren im Rahmen des Programms \"Menschen stärken Menschen\". Die Fördergelder gehen zu 100% in die Projekte, in denen die Kinder und Jugendlichen mitwirken.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 120002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Claudia Nickel",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000883/81352",
+"stand": "2026-07-02"
+}
+},
+{
+"name": "Jochen Fest",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000883/81352",
+"stand": "2026-07-02"
+}
+},
+{
+"name": "Thomas Schramm",
+"funktion": "Stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000883/81352",
+"stand": "2026-07-02"
+}
+},
+{
+"name": "Frank Hoyer",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000883/81352",
+"stand": "2026-07-02"
+}
+},
+{
+"name": "Andreas Kessel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000883/81352",
+"stand": "2026-07-02"
+}
+},
+{
+"name": "Annnekatrin Richter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000883/81352",
+"stand": "2026-07-02"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 50001,
+"bis": 60000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/59/03/803189/Taetigkeitsbericht_2025_FINAL.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000883/81352",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-02",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

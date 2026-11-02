@@ -1,0 +1,111 @@
+{
+"id": "health-and-environment-justice-support",
+"name": "Health and Environment Justice Support",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Dachau",
+"website": "www.hej-support.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006526",
+"eintrag_id": 82716,
+"version": 7,
+"stand": "2026-07-08",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006526/82716",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/3f/0c/808867/Lobbyregister-Registereintraege-Detailansicht-R006526-2026-07-08_12-53-33.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Umweltbundesamt / BMUV",
+"epl": "16",
+"von": 60001,
+"bis": 70000,
+"zweck": "Projekt \"Bewusstsein zu Endokrinen Disruptoren (EDCs) stärken\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Umweltbundesamt / BMUV",
+"epl": "16",
+"von": 40001,
+"bis": 50000,
+"zweck": "Projekt \"Textilien: Umweltschutz und nachhaltigen Konsum stärken\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Engagement Global gGmbH",
+"epl": "23",
+"von": 80001,
+"bis": 90000,
+"zweck": "Projekt „Multi-Akteurs-Partnerschaft zur verbesserten Sorgfaltspflichtenumsetzung im Textilsektor über Worker- und Community-based Monitoring.“",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 180003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Alexandra Caterbow",
+"funktion": "Co-Direktorin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006526/82716",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Olga Speranskaya",
+"funktion": "Co-Direktorin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006526/82716",
+"stand": "2026-07-08"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/db/21/808866/HEJSupport-Finanzbericht-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006526/82716",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-08",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

@@ -1,0 +1,167 @@
+{
+"id": "freiwilligen-agentur-halle",
+"name": "Freiwilligen-Agentur Halle (Saale) e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Halle",
+"website": "https://www.freiwilligenagentur-halle.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004615",
+"eintrag_id": 83578,
+"version": 10,
+"stand": "2026-08-05",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004615/83578",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/33/90/826243/Lobbyregister-Registereintraege-Detailansicht-R004615-2026-08-05_10-13-34.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für zivilgesellschaftliche Aufgaben, Regiestelle Demokratie leben!",
+"epl": null,
+"von": 50001,
+"bis": 60000,
+"zweck": "- HALLIANZ für Vielfalt (Partnerschaften für Demokratie)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"epl": "17",
+"von": 90001,
+"bis": 100000,
+"zweck": "Förderung Taschengeld und pädagogische Begleitung Bundesfreiwilligendienst",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesprogramm Menschen stärken Menschen (über Bundesarbeitsgemeinschaft der Freiwilligenagenturen)",
+"epl": null,
+"von": 30001,
+"bis": 40000,
+"zweck": "- Projektförderung Impulspatenschaften (Weiterleitung Bundesmittel Bafza)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+"epl": "25",
+"von": 30001,
+"bis": 40000,
+"zweck": "Projektförderung Bundesprogramm BIWAQ",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 200004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Sven Weise",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004615/83578",
+"stand": "2026-08-05"
+}
+},
+{
+"name": "Angela Papenburg",
+"funktion": "stellvertretende Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004615/83578",
+"stand": "2026-08-05"
+}
+},
+{
+"name": "Olaf Ebert",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004615/83578",
+"stand": "2026-08-05"
+}
+},
+{
+"name": "Ute Haupt",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004615/83578",
+"stand": "2026-08-05"
+}
+},
+{
+"name": "Katja Pähle",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004615/83578",
+"stand": "2026-08-05"
+}
+},
+{
+"name": "Sattler Christine",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004615/83578",
+"stand": "2026-08-05"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 430001,
+"bis": 440000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/2b/05/826240/vorlaeufige-EUeR-2025-Abgrenzung.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004615/83578",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-05",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

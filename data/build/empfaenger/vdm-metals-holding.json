@@ -1,0 +1,175 @@
+{
+"id": "vdm-metals-holding",
+"name": "VDM Metals Holding GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Werdohl",
+"website": "https://www.vdm-metals.com/de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004633",
+"eintrag_id": 60968,
+"version": 5,
+"stand": "2025-07-02",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004633/60968",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/02/9f/574624/Lobbyregister-Registereintraege-Detailansicht-R004633-2025-07-02_13-32-50.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle BAFA",
+"epl": "09",
+"von": 100001,
+"bis": 110000,
+"zweck": "Förderungen für diverse Projekte, unter anderem Förderung im Zusammenhang mit einem neuen Dampfkessel im Werk von VDM Metals in Unna.",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "Deutsche Emissionshandelsstelle, DEHSt",
+"epl": null,
+"von": 2380001,
+"bis": 2390000,
+"zweck": "Zuteilung der kostenlosen Zertifikate",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "Deutsche Emissionshandelsstelle, DEHSt",
+"epl": null,
+"von": 3330001,
+"bis": 3340000,
+"zweck": "SPK - Strompreiskompensation - Beilhilfe",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "Deutsche Emissionshandelsstelle, DEHSt",
+"epl": null,
+"von": 260001,
+"bis": 270000,
+"zweck": "BEHG-Carbon-Leakage-Verordnung (BECV) - Beilhilfe",
+"geschaeftsjahr": "2023"
+}
+],
+"lobby_untergrenze_bund": 6070004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Niclas Müller",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004633/60968",
+"stand": "2025-07-02"
+}
+},
+{
+"name": "Frank Morris",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004633/60968",
+"stand": "2025-07-02"
+}
+},
+{
+"name": "Holger Arnold",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004633/60968",
+"stand": "2025-07-02"
+}
+},
+{
+"name": "Tobias Coerschulte",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004633/60968",
+"stand": "2025-07-02"
+}
+},
+{
+"name": "Matthias Möhle",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004633/60968",
+"stand": "2025-07-02"
+}
+},
+{
+"name": "Philipp Verbnik",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004633/60968",
+"stand": "2025-07-02"
+}
+},
+{
+"name": "Thomas Hahn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004633/60968",
+"stand": "2025-07-02"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 210001,
+"bis": 220000
+},
+"geschaeftsjahr": "2023",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/22/a5/574622/Acerinox_Jahresabschluss-2023.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004633/60968",
+"abgerufen": "2026-11-02",
+"stand": "2025-07-02",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

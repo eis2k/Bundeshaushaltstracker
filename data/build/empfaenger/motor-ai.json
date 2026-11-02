@@ -1,0 +1,136 @@
+{
+"id": "motor-ai",
+"name": "MOTOR Ai GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "https://www.motor-ai.com/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007935",
+"eintrag_id": 77446,
+"version": 5,
+"stand": "2026-05-28",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007935/77446",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/64/b8/743703/Lobbyregister-Registereintraege-Detailansicht-R007935-2026-05-28_10-41-13.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Verkehr",
+"epl": "12",
+"von": 4530001,
+"bis": 4540000,
+"zweck": "Das vom Bundesverkehrsministerium geförderte Projekt IMoGer kombiniert erstmals ÖPNV und KEP-Logistik zu einem ganzheitlichen Mobilitätsansatz auf der letzten Meile. Im Mittelpunkt steht ein modulares, autonomes Elektro-Fahrzeug in das die MOTOR Ai GmbH ihren “Autonomen Fahrer” integriert. IMoGer ein Vorreiter für automatisierte, modulare Mobilitätsangebote Made in Germany und schafft die Grundlage für innovative Verkehrssysteme.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 4530001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Roy Uhlmann",
+"funktion": "CEO & Co-Founder",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007935/77446",
+"stand": "2026-05-28"
+}
+},
+{
+"name": "Adam Bahlke",
+"funktion": "CTO & Co-Founder",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007935/77446",
+"stand": "2026-05-28"
+}
+},
+{
+"name": "Constance Wendrich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-12"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007935/77446",
+"stand": "2026-05-28"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Constance Wendrich",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-12",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Constance Wendrich ist laut Lobbyregister Interessenvertretung bei MOTOR Ai GmbH und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-12. MOTOR Ai GmbH erhielt laut Lobbyregister Mittel von: Bundesministerium für Verkehr.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Verkehr"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007935/77446",
+"stand": "2026-05-28"
+}
+],
+"stand": "2026-05-28"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/91/ef/743702/Jahresabschluss-zum-Geschaeftsjahr-vom-01-01-2024-bis-zum-31-12-2024_Unternehmensregister.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007935/77446",
+"abgerufen": "2026-11-02",
+"stand": "2026-05-28",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

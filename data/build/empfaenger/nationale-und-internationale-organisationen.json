@@ -1,0 +1,84 @@
+{
+"id": "nationale-und-internationale-organisationen",
+"name": "nationale und internationale Organisationen",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "10-1006-68705",
+"text": "Beiträge an nationale und internationale Organisationen",
+"epl": "10",
+"epl_text": "Bundesministerium für Landwirtschaft, Ernährung und Heimat",
+"werte": {
+"2015": {
+"soll": 29040000,
+"ist": 32028526
+},
+"2016": {
+"soll": 34290000,
+"ist": 33316566
+},
+"2017": {
+"soll": 33801000,
+"ist": 32090537
+},
+"2018": {
+"soll": 28517000,
+"ist": 28086275
+},
+"2019": {
+"soll": 28830000,
+"ist": 29779333
+},
+"2020": {
+"soll": 30342000,
+"ist": 28848742
+},
+"2021": {
+"soll": 28076000,
+"ist": 26855730
+},
+"2022": {
+"soll": 28622000,
+"ist": 30460316
+},
+"2023": {
+"soll": 31076000,
+"ist": 28698439
+},
+"2024": {
+"soll": 31474000,
+"ist": 30381184
+},
+"2025": {
+"soll": 29985000,
+"ist": 29323930
+},
+"2026": {
+"soll": 29531000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

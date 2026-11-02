@@ -1,0 +1,96 @@
+{
+"id": "stichting-european-climate-foundation",
+"name": "Stichting European Climate Foundation",
+"art": "sonstige",
+"rechtsform": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+"sitz": "The Hague",
+"website": "www.europeanclimate.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003779",
+"eintrag_id": 78530,
+"version": 8,
+"stand": "2026-07-06",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003779/78530",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/17/00/805244/Lobbyregister-Registereintraege-Detailansicht-R003779-2026-07-06_08-24-29.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit und Verbraucherschutz",
+"epl": null,
+"von": 660001,
+"bis": 670000,
+"zweck": "International Climate Protection",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 660001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Laurence Tubiana",
+"funktion": "CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003779/78530",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Elias Perabo",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003779/78530",
+"stand": "2026-07-06"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 256990001,
+"bis": 257000000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 90001,
+"bis": 100000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/86/bd/805243/ECF-Annual-Report-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003779/78530",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-06",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

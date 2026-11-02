@@ -1,0 +1,93 @@
+{
+"id": "europaeische-akademie-berlin",
+"name": "Europäische Akademie Berlin",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.eab-berlin.eu",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006599",
+"eintrag_id": 87601,
+"version": 5,
+"stand": "2026-10-15",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006599/87601",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/85/36/861586/Lobbyregister-Registereintraege-Detailansicht-R006599-2026-10-15_10-26-06.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "bpb Bundeszentrale für politische Bildung",
+"epl": "06",
+"von": 20001,
+"bis": 30000,
+"zweck": "Teilfinanzierung für Projekte der politischen Bildung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 70001,
+"bis": 80000,
+"zweck": "Fehlbedarfsfinanzierung im Bereich der Projektförderung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 90002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christian Johann",
+"funktion": "Direktor",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006599/87601",
+"stand": "2026-10-15"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/4b/db/861585/Europaeische-Akademie-Berlin-2025_KV-signiert.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006599/87601",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-15",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

@@ -1,0 +1,148 @@
+{
+"id": "westlake-germany",
+"name": "Westlake Germany GmbH & Co. KG",
+"art": "unternehmen",
+"rechtsform": "Sonstige Personengesellschaft",
+"sitz": "Ismaning",
+"website": "www.westlake.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007184",
+"eintrag_id": 83553,
+"version": 3,
+"stand": "2026-08-04",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007184/83553",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/34/70/825817/Lobbyregister-Registereintraege-Detailansicht-R007184-2026-08-04_14-15-53.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 340001,
+"bis": 350000,
+"zweck": "Förderung im Bereich Nachhaltigkeit/Energie Das übergeordnete Ziel des H2-Reallabors Burghausen / ChemDelta Bavaria ist die Transformation der industriellen chemischen Wertschöpfung hin zu einer nachhaltigen Wasserstoff-basierten Chemie mit funktionierender Kreislaufwirtschaft.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 50001,
+"bis": 60000,
+"zweck": "Technologietransfer-Programm Leichtbau CO2-Einsparung durch Ressourceneffizienz und Substitution",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 390002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Albert Yuan Chao",
+"funktion": "Executive Chairman of the Board bei Westlake Corporation; Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007184/83553",
+"stand": "2026-08-04"
+}
+},
+{
+"name": "Jean-Marc Gilson",
+"funktion": "President und Chief Executive Officer bei Westlake Corporation; Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007184/83553",
+"stand": "2026-08-04"
+}
+},
+{
+"name": "Jeffrey Adam Holy",
+"funktion": "Vice President und Chief Accounting Officer bei Westlake Corporation; Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007184/83553",
+"stand": "2026-08-04"
+}
+},
+{
+"name": "Karl-Martin Schellerer",
+"funktion": "Senior Vice President Europa und Asien bei Westlake Corporation; Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007184/83553",
+"stand": "2026-08-04"
+}
+},
+{
+"name": "Oliver Mieden",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007184/83553",
+"stand": "2026-08-04"
+}
+},
+{
+"name": "Lukas Piller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007184/83553",
+"stand": "2026-08-04"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 150001,
+"bis": 160000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/00/96/825810/Westlake-Germany-GmbH-Co-KG_2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007184/83553",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-04",
+"etikett": "Eigenangabe",
+"version": 3
+}
+]
+}

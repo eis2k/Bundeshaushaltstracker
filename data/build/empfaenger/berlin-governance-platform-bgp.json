@@ -1,0 +1,95 @@
+{
+"id": "berlin-governance-platform-bgp",
+"name": "Berlin Governance Platform - BGP gGmbh",
+"art": "verein_stiftung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "https://www.governance-platform.org/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006815",
+"eintrag_id": 70409,
+"version": 4,
+"stand": "2026-01-05",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006815/70409",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/82/44/677947/Lobbyregister-Registereintraege-Detailansicht-R006815-2026-01-05_14-27-01.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMU - Bumdesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+"epl": "16",
+"von": 110001,
+"bis": 120000,
+"zweck": "Klimatransparenz - Aktivitäten in sechs G20-Ländern. Zu den wichtigsten Aktivitäten gehörten die Entwicklung der jährlichen Bewertung der Klimaleistung der G20-Länder - „The Climate Transparency Report“, die Präsentation der wichtigsten Ergebnisse des Berichts vor Ministerien in den Ländern, in denen der Bericht umgesetzt wird, sowie bei wichtigen internationalen Veranstaltungen wie der COP, die sektorale Arbeit an „Deep Dives Policy Papers“ und von den Länderpartnern organisierte Workshops. Darüber hinaus wurden internationale und nationale Medienarbeit betrieben und verschiedene Kanäle genutzt, um Zielgruppen und die breite Öffentlichkeit über die Arbeit zu informieren.",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "Bundeszentrale für politische Bildung",
+"epl": "06",
+"von": 250001,
+"bis": 260000,
+"zweck": "Im Modellprojekt „Gemeinsam vor Ort Zukunft gestalten!“ führte die Berlin Governance Platform von Januar 2022 bis Januar 2024 vier Kommunale Entwicklungsbeiräte durch. Gemeinsam mit den Partnerkommunen aus Baden-Württemberg und Nordrhein-Westfalen, Sachsen und Sachsen-Anhalt wurde das Beteiligungsformat erstmalig vollumfänglich pilotiert und konkrete Handlungsempfehlungen für die jeweiligen Themen der Kommune erarbeitet. Der Schwerpunkt des Projekts lag auf der Durchführung des Formats in ländlichen Räumen und der konzeptionellen und inhaltlichen Schärfung. Das Modellprojekt wurde gefördert durch die Regiestelle Zusammenhalt durch Teilhabe der Bundeszentrale für politische Bildung. [14:02] Giulia Fellin amaziing johannes",
+"geschaeftsjahr": "2023"
+}
+],
+"lobby_untergrenze_bund": 360002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Daphne Büllesbach",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006815/70409",
+"stand": "2026-01-05"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Sonstiges",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2023",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/d4/76/677905/734398-Jahresabschluss-2022-incl-Ergebnisvewendung.pdf",
+"geschaeftsjahr": "2022",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006815/70409",
+"abgerufen": "2026-11-02",
+"stand": "2026-01-05",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

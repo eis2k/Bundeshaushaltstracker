@@ -1,0 +1,166 @@
+{
+"id": "foederation-tuerkischer-elternvereine-in-deutschland",
+"name": "Föderation Türkischer Elternvereine in Deutschland (FÖTED) e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.tuerkische-elternfoederation.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004265",
+"eintrag_id": 87822,
+"version": 8,
+"stand": "2026-10-20",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004265/87822",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/d4/6a/863594/Lobbyregister-Registereintraege-Detailansicht-R004265-2026-10-20_16-36-39.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 70001,
+"bis": 80000,
+"zweck": "Finanzierung Projekt \"Gemeinsam.Schaffen\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundeszentrale für politische Bildung",
+"epl": "06",
+"von": 60001,
+"bis": 70000,
+"zweck": "Förderung des Projekts \"Deine Stimme zählt\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Migrationund Flüchtlinge (BAMF)",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Förderung von Multiplikatorenschulungen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 140003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Aysun Aydemir",
+"funktion": "Bundesvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004265/87822",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Kemal Ülker",
+"funktion": "Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004265/87822",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Mahmut Pervaneli",
+"funktion": "Stellvertretender Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004265/87822",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Dr. Mehmet Alpbek",
+"funktion": "Stellvertretender Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004265/87822",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Turgut Hüner",
+"funktion": "Kassenwart",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004265/87822",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Şenol Erdem",
+"funktion": "stellvertretender Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004265/87822",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Emre Türen",
+"funktion": "stellv. Bundesvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004265/87822",
+"stand": "2026-10-20"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/b0/b6/863593/Lobbyregister_Foeted_Finanzbericht_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004265/87822",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-20",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

@@ -1,0 +1,149 @@
+{
+"id": "mehrwegverband-deutschland",
+"name": "Mehrwegverband Deutschland e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Hamburg",
+"website": "www.mehrwegverband.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005974",
+"eintrag_id": 82912,
+"version": 6,
+"stand": "2026-07-10",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005974/82912",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/74/b8/811082/Lobbyregister-Registereintraege-Detailansicht-R005974-2026-07-10_12-57-01.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Umweltbundesamt (UBA)",
+"epl": "16",
+"von": 20001,
+"bis": 30000,
+"zweck": "Stärkung von Mehrwegverpackungen für vorverpackte Lebensmittel im Handel - Wissensbasis und Handlungsempfehlungen für den Umstieg",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 60001,
+"bis": 70000,
+"zweck": "Die Innovationscommunity Mehrweg fördert Mehrwegsysteme als zentrales Element der Circular Economy in Deutschland. Im Fokus stehen eCommerce, vorverpackte Lebensmittel, Außer-Haus- und Vor-Ort-Verzehr sowie Drogerien. Ziel ist es, Mehrweg über bereits etablierte Bereiche wie Getränke- und Transportverpackungen hinaus in weiteren Anwendungsfeldern zu verankern. Die Community vernetzt Wirtschaft, Wissenschaft und Zivilgesellschaft, fördert Wissenstransfer und gemeinsame Umsetzungsexperimente und bündelt bestehende Initiativen, Pilotprojekte und Forschung. Grundlage ist ein Netzwerk von über 100 Unternehmen, Start-ups, NGOs und Forschungseinrichtungen. Geleitet wird die Innovationscommunity vom Wuppertal Institut, dem Mehrwegverband Deutschland e.V., der Kühne Logistics University und der Leuphana Universität, die gemeinsam die nachhaltige Transformation des Verpackungssektors vorantreiben.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 80002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "André Pietzke",
+"funktion": "Vorsitzender des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005974/82912",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "André Lang-Herfurth",
+"funktion": "Vorstandsmitglied (Beisitzer)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005974/82912",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Monica Harting Pfeifer",
+"funktion": "stellvertretende Vorsitzende des Vorstands ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005974/82912",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Can Lewandowski",
+"funktion": "Vorstandsmitglied (Beisitzer)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005974/82912",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Mathias Gerspacher",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005974/82912",
+"stand": "2026-07-10"
+}
+},
+{
+"name": "Julia Klein",
+"funktion": "Schatzmeisterin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005974/82912",
+"stand": "2026-07-10"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 10001,
+"bis": 20000
+},
+"mitgliedsbeitraege": {
+"von": 60001,
+"bis": 70000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/75/29/811081/2025_12_31_Rechenschaftsbericht-Mehrwegverband-Deutschland-e-V.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005974/82912",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-10",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

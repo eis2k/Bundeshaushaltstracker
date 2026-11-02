@@ -1,0 +1,96 @@
+{
+"id": "infinite-roots",
+"name": "Infinite Roots (Mushlabs GmbH)",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Hamburg",
+"website": "https://www.infiniteroots.com/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007008",
+"eintrag_id": 86620,
+"version": 8,
+"stand": "2026-09-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007008/86620",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/a0/9a/850556/Lobbyregister-Registereintraege-Detailansicht-R007008-2026-09-29_16-00-26.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMEL",
+"epl": "10",
+"von": 230001,
+"bis": 240000,
+"zweck": "Verbundprojekt: Alternative Molkereiprodukte durch Fermentation von Molkerei-Reststoffströmen und Produkte aus Fermentations-Überschuss-Medium (MolkProtMush) Das Vorhaben umfasst die Verarbeitung von Reststoffströmen aus der Molkereiwirtschaft, welche als Substrat für die Kultivierung von essbaren Pilzmyzel in Fermentern dienen und somit als alternative Molkereiprodukte in die Lebensmittelversorgungskette wieder eingeführt werden können. Das innovative Projekt entspricht der Förderung von F&E-Vorhaben zur Erschließung alternativer Proteinquellen für die menschliche Ernährung. Die hier entwickelten proteinhaltigen Produkte zielen auf die aktuellen Bedürfnisse von Konsumenten ab, welche gut schmeckende, wenig prozessierte, sowie nachhaltige und gesunde Lebensprodukte konsumieren wollen. Diese Bedürfnisse werden von unseren Produkten alle erfüllt.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 230001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Mazen Rizk",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007008/86620",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Till Hohmann",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007008/86620",
+"stand": "2026-09-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/6a/74/850547/Digitale_Kopie_Mushlabs_GmbH_EJA_2024-Mazars.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007008/86620",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-29",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

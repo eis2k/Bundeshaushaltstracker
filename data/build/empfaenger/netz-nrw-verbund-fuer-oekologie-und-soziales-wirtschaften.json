@@ -1,0 +1,116 @@
+{
+"id": "netz-nrw-verbund-fuer-oekologie-und-soziales-wirtschaften",
+"name": "netz NRW - Verbund für Ökologie und soziales Wirtschaften e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Dortmund",
+"website": "www.netz-nrw.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002721",
+"eintrag_id": 86113,
+"version": 7,
+"stand": "2026-09-21",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002721/86113",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/0b/a8/844848/Lobbyregister-Registereintraege-Detailansicht-R002721-2026-09-21_16-39-37.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Nachhaltig Wirtschaften - Verbund Koop. Wirtschaften e.V.",
+"epl": null,
+"von": 1,
+"bis": 10000,
+"zweck": "Projekt Nachhaltigwirtschaften in Kooperation mit dem Verbund Koop. Wirtschaften e.V.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "INQA-Förderung",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Förderung der Netzwerkarbeit durch INQA",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 10002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Svenja Noltemeyer",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002721/86113",
+"stand": "2026-09-21"
+}
+},
+{
+"name": "Hans-Gerd Nottenbohm",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002721/86113",
+"stand": "2026-09-21"
+}
+},
+{
+"name": "Stephan Gudewer",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002721/86113",
+"stand": "2026-09-21"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 50001,
+"bis": 60000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/6b/78/844845/Finanzbericht_Bilanz-GuV2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002721/86113",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-21",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

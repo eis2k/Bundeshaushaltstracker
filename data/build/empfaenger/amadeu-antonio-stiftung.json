@@ -1,0 +1,144 @@
+{
+"id": "amadeu-antonio-stiftung",
+"name": "Amadeu Antonio Stiftung",
+"art": "verein_stiftung",
+"rechtsform": "Rechtsfähige Stiftung bürgerlichen Rechts",
+"sitz": "Berlin",
+"website": "www.amadeu-antonio-stiftung.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004511",
+"eintrag_id": 82516,
+"version": 12,
+"stand": "2026-09-02",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004511/82516",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/24/de/837711/Lobbyregister-Registereintraege-Detailansicht-R004511-2026-09-02_14-31-58.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 1040001,
+"bis": 1050000,
+"zweck": "Förderung der Projekte 'Kompetenznetzwerk Rechtsextremismusprävention', 'Good Gaming - Well Played Democracy', 'Weiterentwicklung der Prävention von sowie Beratung zu Verschwörungsdenken in Zusammenhang mit extremistischen Einstellungen', 'Regionalstudie Sömmerda', 'Regionalstudie Ilmkreis'",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 580001,
+"bis": 590000,
+"zweck": "Förderung des 'Forschungsinstituts Gesellschaftlicher Zusammenhalt (FGZ), Teilinstitut Jena', des 'Verbundvorhabens: Wissensnetzwerk Rechtsextremismusforschung, Teilvorhaben: Kommunikation zwischen Rechtsextremismusforschung und Zivilgesellschaft durch die \"Plattform Transfer\"', des Verbundprojekts 'Muster und Dynamiken von Verschwörungstheorien und rechtsextremen Ideologien in Krisenzeiten (NEOVEX) - Teilvorhaben: Die Politik digitaler Plattformen im Kontext rechtsextremer und verschwörungsideologischer Mobilisierung', 'Demokratie unter Druck - Fachtagung - Zwischen Gefährdung und Emanzipation -', 'Community Data Sprint'",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium des Innern und für Heimat",
+"epl": "06",
+"von": 710001,
+"bis": 720000,
+"zweck": "Förderung des Projekts 'Aktionswochen gegen Antisemitismus', 'PrEval 2: Evaluation und Qualitätssicherung in der Extremismusprävention, Demokratieförderung und politischen Bildung', Teilprojekt 'Innerbehördliche Auseinandersetzung mit Rassismus im Rahmen des Verbundprojekts 'Rassismus als Gefährdung des gesellschaftlichen Zusammenhalts (InRa-Studie)', 'ZADA Pilotprojekt in Sachsen (Das Deutsche Zentrum für eine Gesellschaft ohne Antisemitismus, Diskriminierung und Ausgrenzung'",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundeszentrale für politische Bildung",
+"epl": "06",
+"von": 170001,
+"bis": 180000,
+"zweck": "Förderung von Veranstaltungen im Rahmen der Richtlinienförderung und der Projekte 'Entschwörung vor Ort, 'Visualising Democracy'; 'pre:bunk - Digital Streetwork im Videoformat', 'Heilige Allianzen: Die gemeinsame Online-Agitation von extremen Rechten und konservativen Christ*innen gegen pluralistische Geschlechter- und Sexualidentitäten', 'Thüringen diskutiert'",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration und Beauftragte der Bundesregierung für Antirassismus",
+"epl": null,
+"von": 1050001,
+"bis": 1060000,
+"zweck": "Förderung des Projekts 'Selbstbestimmt vernetzen, erinnern und bilden'",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Der Beauftragte der Bundesregierung für Kultur und Medien",
+"epl": "04",
+"von": 40001,
+"bis": 50000,
+"zweck": "Zuwendung für das Archiv- und Vermittlungsprojekt 'Antisemitismus als Kulturtechnik",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Stiftung für Engagement und Ehrenamt DSEE",
+"epl": null,
+"von": 80001,
+"bis": 90000,
+"zweck": "Unterstützung des Projekts 'Diversitätsorientierte Demokratiearbeit im ländlichen Raum Thüringens'",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 3670007,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Timo Reinfrank",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004511/82516",
+"stand": "2026-09-02"
+}
+},
+{
+"name": "Tahera Ameer",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004511/82516",
+"stand": "2026-09-02"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 4190001,
+"bis": 4200000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/2b/d6/837710/Jahresabschluss-2024-Amadeu-Antonio-Stiftung-Web.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004511/82516",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-02",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

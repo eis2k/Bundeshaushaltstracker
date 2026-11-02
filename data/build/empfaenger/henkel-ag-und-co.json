@@ -1,0 +1,181 @@
+{
+"id": "henkel-ag-und-co",
+"name": "Henkel AG & Co. KGaA",
+"art": "unternehmen",
+"rechtsform": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+"sitz": "Düsseldorf",
+"website": "www.henkel.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001301",
+"eintrag_id": 81551,
+"version": 7,
+"stand": "2026-07-08",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001301/81551",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/6a/a7/808561/Lobbyregister-Registereintraege-Detailansicht-R001301-2026-07-08_10-08-44.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 2610001,
+"bis": 2620000,
+"zweck": "* Modellregion Bioökonomie im Rheinischen Revier * Zukunftstechnologien für die industrielle Bioökonomie * Forschungszulage gemäß FZulG * Industrie 4.0",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 1430001,
+"bis": 1440000,
+"zweck": "* Manufacturing-X * Luftfahrtforschungsprogramm * 7. Energieforschungsprogramm der Bundesregierung * Technologietransfer - Programm Leichtbau * Gemeinschaftsaufgabe Verbesserung der regionalen Wirtschaftsstruktur (GRW) * KI-Anwendungshub Kunststoffverpackungen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 4040002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Carsten  Knobel",
+"funktion": "Vorstandsvorsitzender ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001301/81551",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Sylvie Nicol",
+"funktion": "Vorstand ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001301/81551",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Wolfgang König",
+"funktion": "Vorstand ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001301/81551",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Marco Swoboda",
+"funktion": "Vorstand ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001301/81551",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Mark Dorn",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001301/81551",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Christian Thiere",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001301/81551",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Daniela Selhorst",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001301/81551",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Steffen Hünker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001301/81551",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Tim Arnold de Almeida",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001301/81551",
+"stand": "2026-07-08"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 250001,
+"bis": 260000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/c8/f1/808560/2025-geschaeftsbericht.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001301/81551",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-08",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

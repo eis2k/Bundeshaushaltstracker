@@ -1,0 +1,103 @@
+{
+"id": "leibniz-institut-dsmz-deutsche-sammlung-von-mikroorganismen",
+"name": "Leibniz-Institut DSMZ-Deutsche Sammlung von Mikroorganismen und Zellkulturen GmbH",
+"art": "forschung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Braunschweig",
+"website": "https://www.dsmz.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003110",
+"eintrag_id": 83308,
+"version": 14,
+"stand": "2026-07-17",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003110/83308",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/5a/03/815436/Lobbyregister-Registereintraege-Detailansicht-R003110-2026-07-17_12-31-30.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bund",
+"epl": "60",
+"von": 6530001,
+"bis": 6540000,
+"zweck": "Institutionelle Mittel",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bund/Land/EU/DFG und andere",
+"epl": "60",
+"von": 3780001,
+"bis": 3790000,
+"zweck": "Drittmittel inkl. Bund-Land",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 10310002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Yvonne Mast",
+"funktion": "Wissenschaftlicher Direktorin (interimsweise)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003110/83308",
+"stand": "2026-07-17"
+}
+},
+{
+"name": "Bettina Fischer",
+"funktion": "Administrative Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003110/83308",
+"stand": "2026-07-17"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ee/e2/815435/Jahresabschluss_DSMZ_2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003110/83308",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-17",
+"etikett": "Eigenangabe",
+"version": 14
+}
+]
+}

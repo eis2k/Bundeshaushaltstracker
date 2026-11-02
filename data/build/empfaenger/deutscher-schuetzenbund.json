@@ -1,0 +1,236 @@
+{
+"id": "deutscher-schuetzenbund",
+"name": "Deutscher Schützenbund",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Wiesbaden",
+"website": "www.dsb.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003260",
+"eintrag_id": 72944,
+"version": 13,
+"stand": "2026-03-27",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003260/72944",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/6d/6b/713568/Lobbyregister-Registereintraege-Detailansicht-R003260-2026-03-27_15-05-34.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium des Innern und für Heimat",
+"epl": "06",
+"von": 4650001,
+"bis": 4660000,
+"zweck": "Die Gesamtsumme setzt sich zusammen aus Zuschüssen - für die Förderung des Olympischen Sports - für die Förderung des Nicht Olympischen Sports - für die Trainingsstättenförderung - für die Finanzierung des Leistungssportpersonals",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 110001,
+"bis": 120000,
+"zweck": "Zuschuss wurde gezahlt zur Finanzierung des Kinder- und Jugendplans im Bundesverband.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 4760002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Hans-Heinrich Von Schönfels",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003260/72944",
+"stand": "2026-03-27"
+}
+},
+{
+"name": "Lars Bathke",
+"funktion": "1. Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003260/72944",
+"stand": "2026-03-27"
+}
+},
+{
+"name": "Walter Wolpert",
+"funktion": "Vizepräsident Recht",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003260/72944",
+"stand": "2026-03-27"
+}
+},
+{
+"name": "Gerd Hamm",
+"funktion": "Vizepräsident Finanzen",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003260/72944",
+"stand": "2026-03-27"
+}
+},
+{
+"name": "Evi Benner-Bittihn",
+"funktion": "Vizepräsidentin Öffentlichkeitsarbeit",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003260/72944",
+"stand": "2026-03-27"
+}
+},
+{
+"name": "Dieter Vierlbeck",
+"funktion": "Vizepräsident Bildung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003260/72944",
+"stand": "2026-03-27"
+}
+},
+{
+"name": "Willfried Ritzke",
+"funktion": "Vizepräsident Schützentradition & Brauchtum",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003260/72944",
+"stand": "2026-03-27"
+}
+},
+{
+"name": "Stefan Rinke",
+"funktion": "Vizepräsident Jugend",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003260/72944",
+"stand": "2026-03-27"
+}
+},
+{
+"name": "Volker Kächele",
+"funktion": "Vizepräsident Sport",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003260/72944",
+"stand": "2026-03-27"
+}
+},
+{
+"name": "Hans Hainthaler",
+"funktion": "Vizepräsident Verbandsentwicklung / Ethik",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003260/72944",
+"stand": "2026-03-27"
+}
+},
+{
+"name": "Andreas Friedrich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003260/72944",
+"stand": "2026-03-27"
+}
+},
+{
+"name": "Robert Garmeister",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003260/72944",
+"stand": "2026-03-27"
+}
+},
+{
+"name": "Thilo von Hagen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003260/72944",
+"stand": "2026-03-27"
+}
+},
+{
+"name": "Jörg Brokamp",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003260/72944",
+"stand": "2026-03-27"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 5710001,
+"bis": 5720000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/39/02/713567/Bericht-der-Rechnungsprufer-Haushaltsjahr-2024.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003260/72944",
+"abgerufen": "2026-11-02",
+"stand": "2026-03-27",
+"etikett": "Eigenangabe",
+"version": 13
+}
+]
+}

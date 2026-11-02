@@ -1,0 +1,52 @@
+{
+"id": "internationalen-waehrungsfonds",
+"name": "Internationalen Währungsfonds",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "60-6002-66601",
+"text": "Beitrag an den Internationalen Währungsfonds zur Ablösung der Zahlungsrückstände Somalias",
+"epl": "60",
+"epl_text": "Allgemeine Finanzverwaltung",
+"werte": {
+"2021": {
+"soll": 30000000,
+"ist": 29358411
+}
+}
+},
+{
+"id": "60-6002-66602",
+"text": "Beitrag an den Internationalen Währungsfonds zur Ablösung der Zahlungsrückstände des Sudans",
+"epl": "60",
+"epl_text": "Allgemeine Finanzverwaltung",
+"werte": {
+"2022": {
+"soll": 90000000,
+"ist": 0
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

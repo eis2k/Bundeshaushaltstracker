@@ -1,0 +1,84 @@
+{
+"id": "entwicklungspolitischen-bildung",
+"name": "entwicklungspolitischen Bildung",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "23-2302-68471",
+"text": "Förderung der entwicklungspolitischen Bildung",
+"epl": "23",
+"epl_text": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"werte": {
+"2015": {
+"soll": 25000000,
+"ist": 23924683
+},
+"2016": {
+"soll": 35000000,
+"ist": 31581905
+},
+"2017": {
+"soll": 35000000,
+"ist": 32104608
+},
+"2018": {
+"soll": 40000000,
+"ist": 37096612
+},
+"2019": {
+"soll": 49900000,
+"ist": 48437997
+},
+"2020": {
+"soll": 45000000,
+"ist": 39944850
+},
+"2021": {
+"soll": 45000000,
+"ist": 40108588
+},
+"2022": {
+"soll": 45000000,
+"ist": 37936226
+},
+"2023": {
+"soll": 43000000,
+"ist": 42355061
+},
+"2024": {
+"soll": 44458000,
+"ist": 43756509
+},
+"2025": {
+"soll": 44000000,
+"ist": 43710938
+},
+"2026": {
+"soll": 44000000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

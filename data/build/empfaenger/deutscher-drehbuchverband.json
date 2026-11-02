@@ -1,0 +1,162 @@
+{
+"id": "deutscher-drehbuchverband",
+"name": "Deutscher Drehbuchverband",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.drehbuchverband.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006971",
+"eintrag_id": 86543,
+"version": 5,
+"stand": "2026-09-28",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006971/86543",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/00/a3/849137/Lobbyregister-Registereintraege-Detailansicht-R006971-2026-09-28_17-47-27.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BKM",
+"epl": "04",
+"von": 10001,
+"bis": 20000,
+"zweck": "Projektmittel Deutscher Drehbuchpreis 2025",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 10001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christian Lex",
+"funktion": "geschäftsführender Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006971/86543",
+"stand": "2026-09-28"
+}
+},
+{
+"name": "Gerrit Hermans",
+"funktion": "geschäftsführender Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006971/86543",
+"stand": "2026-09-28"
+}
+},
+{
+"name": "Simon M. Schulz",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006971/86543",
+"stand": "2026-09-28"
+}
+},
+{
+"name": "Johannes Betz",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006971/86543",
+"stand": "2026-09-28"
+}
+},
+{
+"name": "Melina Natale",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006971/86543",
+"stand": "2026-09-28"
+}
+},
+{
+"name": "Agnes Schruf",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006971/86543",
+"stand": "2026-09-28"
+}
+},
+{
+"name": "Stefanie Eisenschenk",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006971/86543",
+"stand": "2026-09-28"
+}
+},
+{
+"name": "Jan P. Herchenröder",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006971/86543",
+"stand": "2026-09-28"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 320001,
+"bis": 330000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/9a/d3/849136/Rechenschaftsbericht-DDV-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006971/86543",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-28",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

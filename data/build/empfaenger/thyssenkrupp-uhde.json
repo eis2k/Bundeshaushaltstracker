@@ -1,0 +1,161 @@
+{
+"id": "thyssenkrupp-uhde",
+"name": "thyssenkrupp Uhde GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Dortmund",
+"website": "thyssenkrupp-uhde.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006245",
+"eintrag_id": 73785,
+"version": 9,
+"stand": "2026-03-19",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006245/73785",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/57/53/708139/Lobbyregister-Registereintraege-Detailansicht-R006245-2026-03-19_14-54-09.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 110001,
+"bis": 120000,
+"zweck": "Projekt CemRoCap: CO2 Abtrennung bei Industrieprozessen",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 120001,
+"bis": 130000,
+"zweck": "Verbundvorhaben H2Mare (Grundlagenforschung Energie)",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "BMDV",
+"epl": "12",
+"von": 170001,
+"bis": 180000,
+"zweck": "M2SAF: Entwicklung regenerativer Kraftstoffe (Strombasierte Erzeugung von Kraftstoffen)",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "AmmoniaValid - Wasserstoffgewinnung aus Ammoniak in einem direkt strombeheizten Katalysatorbett mit Validierungsproduktion. Anwendungsorientierte nichtnukleare FuE im 7. Energieforschungsprogramm der Bundesregierung.",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 60001,
+"bis": 70000,
+"zweck": "SuNiPro - Verbesserte Nachhaltigkeit und Energieeffizienz der Salpetersäureproduktion durch Optimierung der Materialeigenschaften des Katalysators, Reaktors und von Prozessbedingungen. Sustainable Nitrates Production. Anwendungsorientierte nichtnukleare FuE im 7. Energieforschungsprogramm der Bundesregierung.",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 490005,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Nadja Hakansson",
+"funktion": "Geschäftsführer CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006245/73785",
+"stand": "2026-03-19"
+}
+},
+{
+"name": "Misa Djenic",
+"funktion": "Mitglied der Geschäftsführung CFO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006245/73785",
+"stand": "2026-03-19"
+}
+},
+{
+"name": "Richard Hampson",
+"funktion": "Mitglied der Geschäftsführung COO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006245/73785",
+"stand": "2026-03-19"
+}
+},
+{
+"name": "Ralph Kleinschmidt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006245/73785",
+"stand": "2026-03-19"
+}
+},
+{
+"name": "Martin Eckert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006245/73785",
+"stand": "2026-03-19"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 190001,
+"bis": 200000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/8c/64/708137/Geschaeftsbericht_2024_2025_der_thyssenkrupp_AG_WEB-1.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006245/73785",
+"abgerufen": "2026-11-02",
+"stand": "2026-03-19",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

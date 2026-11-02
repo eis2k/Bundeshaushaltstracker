@@ -1,0 +1,119 @@
+{
+"id": "zwh-dienstleistungs",
+"name": "ZWH Dienstleistungs-GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Düsseldorf",
+"website": "https://zwh.de/dienstleistungen/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004984",
+"eintrag_id": 74520,
+"version": 12,
+"stand": "2026-05-12",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004984/74520",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/5a/fa/735232/Lobbyregister-Registereintraege-Detailansicht-R004984-2026-05-12_11-06-17.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Arbeit und Soziales",
+"epl": "11",
+"von": 1440001,
+"bis": 1450000,
+"zweck": "Dienstleister Netzwerkmanagement / INQA-Netzwerkbüro",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1440001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Sebastian Knobloch",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004984/74520",
+"stand": "2026-05-12"
+}
+},
+{
+"name": "Stefanie Gloede",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004984/74520",
+"stand": "2026-05-12"
+}
+},
+{
+"name": "Felix Kösterke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004984/74520",
+"stand": "2026-05-12"
+}
+},
+{
+"name": "Kim Beese",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004984/74520",
+"stand": "2026-05-12"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e5/2b/735231/Jahresabschluss-ZWH-Dienstleistungs-GmbH-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004984/74520",
+"abgerufen": "2026-11-02",
+"stand": "2026-05-12",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

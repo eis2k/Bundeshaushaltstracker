@@ -1,0 +1,169 @@
+{
+"id": "studiengesellschaft-fuer-den-kombinierten-verkehr",
+"name": "Studiengesellschaft für den Kombinierten Verkehr e.V. (SGKV)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.sgkv.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001719",
+"eintrag_id": 60337,
+"version": 8,
+"stand": "2026-06-11",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001719/60337",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/8a/00/756247/Lobbyregister-Registereintraege-Detailansicht-R001719-2026-06-11_15-36-34.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Verkehr",
+"epl": "12",
+"von": 70001,
+"bis": 80000,
+"zweck": "Förderung von Forschungsprojekten nach BHO §44 Forschungsprojekt DIANA im Rahmen des Förderprogrammes Innovative Hafentechnologien. Entwicklung einer Softwarelösung für die WTU Die Software soll als offene Plattformlösung mit Open-Source Modulen entwickelt werden. Forschungsprojekt FLEXIKING im Rahmen des Förderprogrammes Innovative Hafentechnologien. Ziel von FLEXIKING ist es, ein kollaboratives und flexibles Zeitfensterbuchungssystem (ZFBS) zu erarbeiten. Forschungsprojekt KV STAT im Rahmen des Förderprogrammes mFund. KV-Stat ist eine Machbarkeitsanalyse, um den Status quo von Daten zur Stärkung intermodaler Transportketten zu erfassen und bereits bestehende Datenlücken zu identifizieren. Forschungsprojekt STOESI im Rahmen des Förderprogrammes Innovative Hafentechnologien. Im Fokus der Machbarkeitsstudie steht idie Identifikation hafenbezogener Lösungsansätze für ein Störungs- und Kontinuitätsmanagement im Hafenstandort.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutschen Zentrum für Schienverkehrsforschung beim EBA (DZSF)",
+"epl": null,
+"von": 70001,
+"bis": 80000,
+"zweck": "Das Deutsche Zentrum für Schienenverkehrsforschung (DZSF) beim Eisenbahn-Bundesamt hat das Projekt „Klima- und kapazitätsoptimierte Logistik“ ergeben. Die SGKV ist Teil des Konsortiums aus der Railistics GmbH, der Hacon Ingenieurgesellschaft mbH, dem Fraunhofer-Institut für Materialfluss und Logistik IML, der Studiengesellschaft für den Kombinierten Verkehr e.V. (SGKV), der SSP Consult Beratende Ingenieure GmbH und der VIA Consulting & Development GmbH. Das Projekt umfasst die Erarbeitung von umweltfreundlichen Konzepten für neue Anwendungsfelder und Einsatzmöglichkeiten des Schienengüterverkehrs in Deutschland und den europäischen Nachbarländern mit dem Ziel, die Verlagerung von Transporten auf die Schiene voranzutreiben und die Attraktivität des Systems Schiene zu erhöhen. Neben der Umsetzung von infrastrukturellen und betrieblichen Maßnahmen können insbesondere Innovationen einen wesentlichen Beitrag zur Zielerreichung leisten.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsches Zentrum für Schienenverkehrsforschung (DZSF) beim EBA",
+"epl": null,
+"von": 60001,
+"bis": 70000,
+"zweck": "Digital Inspection by Machine Intelligence - DIMI Bevor in Europa ein Güterzug ein Umschlagterminal verlassen darf, ist es erforderlich die Betriebssicherheit und Verkehrstauglichkeit zu überprüfen. Diese zurzeit manuell ablaufende Überprüfung - die wagentechnische Untersuchung (WTU) - ist ein notwendiger und zeitaufwendiger Prozess und spielt dementsprechend eine große Rolle für die Durchsatzmenge von Gütern auf der Schiene.Durch Digitalisierung soll in DIMI der Prozess deutlich verkürzt und wirtschaftlicher gestaltet werden. Daten zur Erfassung und Auswertung relevanter Waggonparameter am Zug sollen durch den Einsatz von opto-elektronische Sensoren, einer Bremsprobenanlage sowie ein Kamera-/KI-System mittels einer angepassten Softwarelösung zusammengeführt und erprobt werden, um den Wagenmeister bei der wagentechnischen Untersuchung (WTU) zu unterstützen.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 200003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Clemens Bochynek",
+"funktion": "Geschäftsführendes Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001719/60337",
+"stand": "2026-06-11"
+}
+},
+{
+"name": "Michail Stahlhut",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001719/60337",
+"stand": "2026-06-11"
+}
+},
+{
+"name": "Gero Schulze Isfort",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001719/60337",
+"stand": "2026-06-11"
+}
+},
+{
+"name": "Lars Nennhaus",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001719/60337",
+"stand": "2026-06-11"
+}
+},
+{
+"name": "Heinrich Kerstgens",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001719/60337",
+"stand": "2026-06-11"
+}
+},
+{
+"name": "Thomas Schlipköther",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001719/60337",
+"stand": "2026-06-11"
+}
+},
+{
+"name": "Matthias Plehm",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001719/60337",
+"stand": "2026-06-11"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 100001,
+"bis": 110000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/cd/cd/756245/SGKV_JA_2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001719/60337",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-11",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

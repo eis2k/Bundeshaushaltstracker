@@ -1,0 +1,96 @@
+{
+"id": "nichtbundeseigene-eisenbahnen-zu-den-kosten",
+"name": "nichtbundeseigene Eisenbahnen zu den Kosten",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "12-1210-68201",
+"text": "Reduzierung Anlagenpreise im Schienengüterverkehr",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"werte": {
+"2015": {
+"soll": 1700000,
+"ist": 1565346
+},
+"2020": {
+"soll": 40000000,
+"ist": 0
+}
+}
+},
+{
+"id": "12-1201-68201",
+"text": "Beitrag an nichtbundeseigene Eisenbahnen zu den Kosten für Unterhaltung und Betrieb höhengleicher Kreuzungen von Bundesstraßen und Eisenbahnstrecken",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr",
+"werte": {
+"2016": {
+"soll": 1700000,
+"ist": 1785946
+},
+"2017": {
+"soll": 1700000,
+"ist": 1780766
+},
+"2018": {
+"soll": 1770000,
+"ist": 1767193
+},
+"2019": {
+"soll": 1900000,
+"ist": 1887067
+},
+"2020": {
+"soll": 1800000,
+"ist": 1812250
+},
+"2021": {
+"soll": 1800000,
+"ist": 1785370
+},
+"2022": {
+"soll": 2400000,
+"ist": 2365702
+},
+"2023": {
+"soll": 2000000,
+"ist": 2049105
+},
+"2024": {
+"soll": 3000000,
+"ist": 2972690
+},
+"2025": {
+"soll": 2200000,
+"ist": 2202346
+},
+"2026": {
+"soll": 2200000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

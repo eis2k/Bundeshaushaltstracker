@@ -1,0 +1,306 @@
+{
+"id": "hessischer-bauernverband",
+"name": "Hessischer Bauernverband e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Friedrichsdorf",
+"website": "www.hessischerbauernverband.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001710",
+"eintrag_id": 73713,
+"version": 8,
+"stand": "2026-08-13",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001710/73713",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/56/df/830939/Lobbyregister-Registereintraege-Detailansicht-R001710-2026-08-13_17-12-27.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "rentenbank",
+"epl": null,
+"von": 30001,
+"bis": 40000,
+"zweck": "Projektförderung aus dem Förderungsfonds",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 30001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Karsten Schmal",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001710/73713",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Volker Lein",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001710/73713",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Stefan Schneider",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001710/73713",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Andrea Rahn-Farr",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001710/73713",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Sebastian Schneider",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001710/73713",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Josef Benner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001710/73713",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Björn Schöbel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001710/73713",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Miriam Dangel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001710/73713",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Anne Fay",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001710/73713",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Marie-Claire Gräfin von Spee",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001710/73713",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Marie-Christin Mayer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001710/73713",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Michelle Mantey",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001710/73713",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Theodor Merkel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001710/73713",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Denise Stein",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001710/73713",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Esther Wernien",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001710/73713",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Lutz Schrottky",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001710/73713",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Paul Hübner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001710/73713",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Lukas Helfrich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001710/73713",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Liz Heldmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001710/73713",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Reinhard Schulte-Ebbert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001710/73713",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Nikolas Breitsch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001710/73713",
+"stand": "2026-08-13"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1840001,
+"bis": 1850000
+},
+"lobbyausgaben": {
+"von": 130001,
+"bis": 140000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/16/c1/830938/Einnahmen-und-Ausgabenrechnung-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001710/73713",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-13",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

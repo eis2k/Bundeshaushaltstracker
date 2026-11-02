@@ -1,0 +1,208 @@
+{
+"id": "allgemeiner-deutscher-hochschulsportverband",
+"name": "Allgemeiner Deutscher Hochschulsportverband e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Dieburg",
+"website": "www.adh.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002077",
+"eintrag_id": 61342,
+"version": 5,
+"stand": "2025-07-07",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002077/61342",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/dd/e1/579051/Lobbyregister-Registereintraege-Detailansicht-R002077-2025-07-07_14-17-39.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Deutscher Fußball-Bund (DFB)",
+"epl": null,
+"von": 1,
+"bis": 10000,
+"zweck": "Lehrgang",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "BMI",
+"epl": "06",
+"von": 620001,
+"bis": 630000,
+"zweck": "Förderung des Sports",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Die Techniker",
+"epl": null,
+"von": 540001,
+"bis": 550000,
+"zweck": "Gesundheitsförderung",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "BMUV",
+"epl": "16",
+"von": 20001,
+"bis": 30000,
+"zweck": "Nachhaltigkeit",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 1180004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jörg Förster",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002077/61342",
+"stand": "2025-07-07"
+}
+},
+{
+"name": "Melanie Haag",
+"funktion": "Vorstand Finanzen",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002077/61342",
+"stand": "2025-07-07"
+}
+},
+{
+"name": "Dustin Rehder",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002077/61342",
+"stand": "2025-07-07"
+}
+},
+{
+"name": "Janina Wey",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002077/61342",
+"stand": "2025-07-07"
+}
+},
+{
+"name": "Svea Thamsen",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002077/61342",
+"stand": "2025-07-07"
+}
+},
+{
+"name": "Annette Kunzendorf",
+"funktion": "Vorstand Finanzen",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002077/61342",
+"stand": "2025-07-07"
+}
+},
+{
+"name": "Dirk Kilian",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002077/61342",
+"stand": "2025-07-07"
+}
+},
+{
+"name": "Benjamin Schenk",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002077/61342",
+"stand": "2025-07-07"
+}
+},
+{
+"name": "Thorsten Hütsch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002077/61342",
+"stand": "2025-07-07"
+}
+},
+{
+"name": "Katharina Neumann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002077/61342",
+"stand": "2025-07-07"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 730001,
+"bis": 740000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/b1/69/579050/Jahresabschluss_VV2023.pdf",
+"geschaeftsjahr": "2023",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002077/61342",
+"abgerufen": "2026-11-02",
+"stand": "2025-07-07",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

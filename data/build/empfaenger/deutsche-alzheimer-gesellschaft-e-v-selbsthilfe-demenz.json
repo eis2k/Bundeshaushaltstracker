@@ -1,0 +1,164 @@
+{
+"id": "deutsche-alzheimer-gesellschaft-e-v-selbsthilfe-demenz",
+"name": "Deutsche Alzheimer Gesellschaft e.V. Selbsthilfe Demenz",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://www.deutsche-alzheimer.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001162",
+"eintrag_id": 87917,
+"version": 20,
+"stand": "2026-10-22",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001162/87917",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/da/13/864303/Lobbyregister-Registereintraege-Detailansicht-R001162-2026-10-22_12-22-52.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 270001,
+"bis": 280000,
+"zweck": "Förderung des Projekts: \"Im Fokus: Menschen mit beginnender Demenz und Menschen mit seltenen Demenzerkrankungen sowie deren Angehörige\" aus dem Bundesaltenplan 2025. Förderung des Projekts „Wettbewerb für Schülerinnen und Schüler im Rahmen der Nationalen Demenzstrategie“ aus Kapitel 1703, Titel: 68425",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesinstitut für Öffentliche Gesundheit im Auftrag des Bundesministeriums für Gesundheit",
+"epl": "15",
+"von": 20001,
+"bis": 30000,
+"zweck": "Durchführung des Projekts \"Train-the-Trainer-Programm für Multiplikatorinnen und Multiplikatoren zum Vortragsangebot „Geistig fit bleiben – mit 10 Maßnahmen Demenz vorbeugen“\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "GKV-Gemeinschaftsförderung Selbsthilfe auf Bundesebene",
+"epl": null,
+"von": 50001,
+"bis": 60000,
+"zweck": "Pauschalförderung Selbsthilfe",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "GKV Spitzenverband",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Projekt \"Initiative Demenz Partner\" (Selbsthilfeförderung nach § 45d SGB XI)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "DAK Gesundheit",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Neuauflage und Druck der Broschüre \"Leben mit Demenzerkrankten\" Förderung im Rahmen des § 20h SGB V",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 360005,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Swen Staack",
+"funktion": "1. Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001162/87917",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Lilja Helms",
+"funktion": "2. Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001162/87917",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Saskia Weiß",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001162/87917",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "René Thyrian",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001162/87917",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Susanna Saxl-Reisen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001162/87917",
+"stand": "2026-10-22"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 760001,
+"bis": 770000
+},
+"mitgliedsbeitraege": {
+"von": 20001,
+"bis": 30000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/93/65/864300/Dt-Alzheimer-Ges-e-V-_JR-2024_Bericht.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001162/87917",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-22",
+"etikett": "Eigenangabe",
+"version": 20
+}
+]
+}

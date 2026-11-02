@@ -1,0 +1,137 @@
+{
+"id": "juedisches-leben-in-europa",
+"name": "Jüdisches Leben in Europa e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Köln",
+"website": "jewlif.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007508",
+"eintrag_id": 82959,
+"version": 2,
+"stand": "2026-08-06",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007508/82959",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/73/ed/827528/Lobbyregister-Registereintraege-Detailansicht-R007508-2026-08-06_15-13-05.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium des Innern (BMI)",
+"epl": "06",
+"von": 1080001,
+"bis": 1090000,
+"zweck": "Institutionelle Förderung im HHJ 2025 aus Haushaltsmitteln des Bundesministeriums des Innern gem. §§ 23, 44 BHO (Kapitel 0601, Titel 685 14).",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium des Innern (BMI)",
+"epl": "06",
+"von": 420001,
+"bis": 430000,
+"zweck": "Projektförderung im HHJ 2024 aus Haushaltsmitteln des Bundesministeriums des Innern (Kapitel 0601 Titel 685 14).",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1500002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Andrei Kovacs",
+"funktion": "Gerneralsekretär",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007508/82959",
+"stand": "2026-08-06"
+}
+},
+{
+"name": "Ruth Schulhof-Walter",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007508/82959",
+"stand": "2026-08-06"
+}
+},
+{
+"name": "Peter Reinecke",
+"funktion": "Stellvertretender Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007508/82959",
+"stand": "2026-08-06"
+}
+},
+{
+"name": "Vivian Graetz",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007508/82959",
+"stand": "2026-08-06"
+}
+},
+{
+"name": "Jovana Kastratovic",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007508/82959",
+"stand": "2026-08-06"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 900001,
+"bis": 910000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/c0/44/827527/Bilanz_2024_Gesamt.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007508/82959",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-06",
+"etikett": "Eigenangabe",
+"version": 2
+}
+]
+}

@@ -1,0 +1,106 @@
+{
+"id": "grimme-landmaschinenfabrik-se-und-co",
+"name": "Grimme Landmaschinenfabrik SE & Co KG",
+"art": "unternehmen",
+"rechtsform": "Kommanditgesellschaft (KG)",
+"sitz": "Damme",
+"website": "www.grimme.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004593",
+"eintrag_id": 83590,
+"version": 7,
+"stand": "2026-07-23",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004593/83590",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/a0/9e/818519/Lobbyregister-Registereintraege-Detailansicht-R004593-2026-07-23_09-16-16.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BAFA",
+"epl": "09",
+"von": 60001,
+"bis": 70000,
+"zweck": "Förderung Energieeffizienz Förderung Lichtbandsanierung",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 60001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christoph Grimme",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004593/83590",
+"stand": "2026-07-23"
+}
+},
+{
+"name": "Richard Weiß",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004593/83590",
+"stand": "2026-07-23"
+}
+},
+{
+"name": "Frank  Nordmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004593/83590",
+"stand": "2026-07-23"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/3a/3f/818518/2024_Jahresabschluss_Grimme_Landmaschinenfabrik_GmbH_und_Co_KG.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004593/83590",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-23",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

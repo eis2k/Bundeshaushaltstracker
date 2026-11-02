@@ -1,0 +1,658 @@
+{
+"id": "aktion-psychisch-kranke",
+"name": "Aktion Psychisch Kranke e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bonn",
+"website": "www.apk-ev.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001970",
+"eintrag_id": 87959,
+"version": 30,
+"stand": "2026-10-23",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/23/20/864731/Lobbyregister-Registereintraege-Detailansicht-R001970-2026-10-23_11-42-34.pdf"
+},
+"haushalt": {
+"titel": [
+{
+"id": "15-1503-68411",
+"text": "Zuschuss an die Aktion Psychisch Kranke e. V.",
+"epl": "15",
+"epl_text": "Bundesministerium für Gesundheit",
+"werte": {
+"2016": {
+"soll": 345000,
+"ist": 345000
+},
+"2017": {
+"soll": 349000,
+"ist": 349000
+},
+"2018": {
+"soll": 395000,
+"ist": 395000
+},
+"2019": {
+"soll": 414000,
+"ist": 414000
+},
+"2020": {
+"soll": 431000,
+"ist": 431000
+},
+"2021": {
+"soll": 441000,
+"ist": 404098
+},
+"2022": {
+"soll": 541000,
+"ist": 518061
+},
+"2023": {
+"soll": 691000,
+"ist": 691000
+},
+"2024": {
+"soll": 691000,
+"ist": 691000
+},
+"2025": {
+"soll": 691000,
+"ist": 691000
+},
+"2026": {
+"soll": 763000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Gesundheit",
+"epl": "15",
+"von": 690001,
+"bis": 700000,
+"zweck": "Es handelt sich um eine Bundeszuwendung als Fehlbedarfsfinanzierung zur Fortführung der satzungsgemäßen Aufgaben der Aktion Psychisch Kranke e.V.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Gesundheit",
+"epl": "15",
+"von": 120001,
+"bis": 130000,
+"zweck": "Durchführung der APK-Jahrestagung 2025 \"Demokratie und seelische Gesundheit\" mit dem Selbsthilfefachtag \"Sozialraumorientierung und Lebensqualität\".",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Gesundheit",
+"epl": "15",
+"von": 70001,
+"bis": 80000,
+"zweck": "Durchführung des Projektes \"Integrierte Hilfen und Netzwerkarbeit für psychisch kranke alte Menschen (INPAM)\".",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Jobcenter Bonn",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Arbeitsgelegenheiten mit Mehraufwandsentschädigung (§16d SGB II).",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Gesundheit",
+"epl": "15",
+"von": 10001,
+"bis": 20000,
+"zweck": "APK-Jahrestagung 2024 mit Selbsthilfefachtag \"Unsere Zukunft gestalten - Hilfen für psychisch erkrankte ältere Menschen\".",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 900005,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Kirsten Kappert-Gonther",
+"funktion": "Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Peter Brieger",
+"funktion": "Stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Matthias Rosemann",
+"funktion": "Stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Katarina Stengler",
+"funktion": "Schatzmeisterin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Jörg Holke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Henrike Kleinertz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Natascha Fries",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Christian Flammersfeld",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Beate Jüßen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Monika van Dorp",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Olaf Bierganns",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Christina Block",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Katharina Fröhlich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Michael Kölch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Elke Prestin",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Gudrun Weißenborn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Dieter Grupp",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Michael Rapp",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Ingmar Steinhart",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Celia Wenk-Wolff",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Dyrk Zedlick",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Susanne Haucke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Alina Eisner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Julie Mai Nguyen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Serdar Yüksel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Evelyn Schötz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Pascal Reddig",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Vera Dangel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Svenja Söhren",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"stand": "2026-10-23"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Kirsten Kappert-Gonther",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag",
+"funktion_beim_empfaenger": "Vorsitzende",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Kirsten Kappert-Gonther ist laut Lobbyregister Vorsitzende bei Aktion Psychisch Kranke e.V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag. Aktion Psychisch Kranke e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Gesundheit; Jobcenter Bonn.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Gesundheit",
+"Jobcenter Bonn"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"stand": "2026-10-23"
+}
+],
+"stand": "2026-10-23"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Serdar Yüksel",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Serdar Yüksel ist laut Lobbyregister Interessenvertretung bei Aktion Psychisch Kranke e.V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag. Aktion Psychisch Kranke e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Gesundheit; Jobcenter Bonn.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Gesundheit",
+"Jobcenter Bonn"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"stand": "2026-10-23"
+}
+],
+"stand": "2026-10-23"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Evelyn Schötz",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Evelyn Schötz ist laut Lobbyregister Interessenvertretung bei Aktion Psychisch Kranke e.V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag. Aktion Psychisch Kranke e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Gesundheit; Jobcenter Bonn.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Gesundheit",
+"Jobcenter Bonn"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"stand": "2026-10-23"
+}
+],
+"stand": "2026-10-23"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Pascal Reddig",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Pascal Reddig ist laut Lobbyregister Interessenvertretung bei Aktion Psychisch Kranke e.V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag. Aktion Psychisch Kranke e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Gesundheit; Jobcenter Bonn.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Gesundheit",
+"Jobcenter Bonn"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"stand": "2026-10-23"
+}
+],
+"stand": "2026-10-23"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Dr. Kirsten Kappert-Gonther",
+"funktion_person": "MdB, Bündnis 90 Die Grünen",
+"funktion_beim_empfaenger": "Vorsitzende des Vorstandes, ehrenamtlich",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Dr. Kirsten Kappert-Gonther (MdB, Bündnis 90 Die Grünen) ist laut bundestag.de Vorsitzende des Vorstandes, ehrenamtlich bei Aktion Psychisch Kranke e.V.. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Gesundheit. Aktion Psychisch Kranke e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Gesundheit; Jobcenter Bonn.",
+"ausschuesse": [
+"Ausschuss für Gesundheit"
+],
+"geld_aus": [
+"Bundesministerium für Gesundheit",
+"Jobcenter Bonn"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/K/kappert_gonther_kirsten-1045310",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Pascal Reddig",
+"funktion_person": "MdB, CDU/CSU",
+"funktion_beim_empfaenger": "Mitglied des Vorstandes, ehrenamtlich (ab 15.09.2025)",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Pascal Reddig (MdB, CDU/CSU) ist laut bundestag.de Mitglied des Vorstandes, ehrenamtlich (ab 15.09.2025) bei Aktion Psychisch Kranke e.V.. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Arbeit und Soziales; Ausschuss für Kultur und Medien; Ausschuss für Gesundheit. Aktion Psychisch Kranke e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Gesundheit; Jobcenter Bonn.",
+"ausschuesse": [
+"Ausschuss für Arbeit und Soziales",
+"Ausschuss für Kultur und Medien",
+"Ausschuss für Gesundheit"
+],
+"geld_aus": [
+"Bundesministerium für Gesundheit",
+"Jobcenter Bonn"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/R/reddig_pascal-1046704",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 80001,
+"bis": 90000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/c3/ca/864723/260630-Zahlenm-Jahresabschluss-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-23",
+"etikett": "Eigenangabe",
+"version": 30
+},
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/K/kappert_gonther_kirsten-1045310",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/R/reddig_pascal-1046704",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

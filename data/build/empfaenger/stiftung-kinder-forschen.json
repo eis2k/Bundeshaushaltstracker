@@ -1,0 +1,202 @@
+{
+"id": "stiftung-kinder-forschen",
+"name": "Stiftung Kinder forschen",
+"art": "verein_stiftung",
+"rechtsform": "Rechtsfähige Stiftung bürgerlichen Rechts",
+"sitz": "Berlin",
+"website": "www.stiftung-kinder-forschen.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005776",
+"eintrag_id": 80109,
+"version": 6,
+"stand": "2026-07-06",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005776/80109",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ec/2e/806201/Lobbyregister-Registereintraege-Detailansicht-R005776-2026-07-06_14-13-36.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 11890001,
+"bis": 11900000,
+"zweck": "Bundeszuwendung für den Betrieb und die Investitionen der Stiftung Kinder Forschen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 640001,
+"bis": 650000,
+"zweck": "Förderung der Bildung für nachhaltige Entwicklung im frühkindlichen Bereich (BNE)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 150001,
+"bis": 160000,
+"zweck": "Die MINTmachtage widmen sich 2025 dem Thema „Zukunftsenergie“. Ziel des Formats ist es, die Kinder aus Kitas, Horten und Grundschulen im Alter von 3 bis 10 Jahren auf eine persönliche Reise zu schicken, bei der die Energietechnologien der Zukunft (wie u.a. Wasserstoff, Geothermie u. Fusion) im Mittelpunkt stehen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 420001,
+"bis": 430000,
+"zweck": "Verbundprojekt: Unterstützung und Professionalisierung der MINT-Community durch frei zugängliche Materialien und Lernangebote für die Bildungs- und Projektarbeit - MINT-Campus.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 220001,
+"bis": 230000,
+"zweck": "Verbundprojekt: MINT- und Leseförderung mit „echt jetzt?“ in außerunterrichtlichen Bildungs- und Betreuungsangeboten für Kinder im Grundschulalter - Teilprojekt digitale Lernwelt und wiss. Begleitung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 13320005,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Tobias Ernst",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005776/80109",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Beatice Strübing",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005776/80109",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Boris Demrowski",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005776/80109",
+"stand": "2026-07-06"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "abgeordneter_funktion",
+"person": "Dr. Wiebke Esdar",
+"funktion_person": "MdB, SPD",
+"funktion_beim_empfaenger": "Mitglied des Stiftungsrates, ehrenamtlich (bis 19.03.2026)",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Dr. Wiebke Esdar (MdB, SPD) ist laut bundestag.de Mitglied des Stiftungsrates, ehrenamtlich (bis 19.03.2026) bei Stiftung Kinder forschen. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung; Ausschuss für Kultur und Medien; Finanzen; Haushaltsausschuss. Stiftung Kinder forschen erhielt laut Lobbyregister Mittel von: Bundesministerium für Bildung und Forschung.",
+"ausschuesse": [
+"Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung",
+"Ausschuss für Kultur und Medien",
+"Finanzen",
+"Haushaltsausschuss"
+],
+"geld_aus": [
+"Bundesministerium für Bildung und Forschung"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/E/esdar_wiebke-1044222",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Prof. Dr. Reza Asghari",
+"funktion_person": "MdB, CDU/CSU",
+"funktion_beim_empfaenger": "Mitglied des Stiftungsrates (ab 19.03.2026)",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Prof. Dr. Reza Asghari (MdB, CDU/CSU) ist laut bundestag.de Mitglied des Stiftungsrates (ab 19.03.2026) bei Stiftung Kinder forschen. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit; Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung. Stiftung Kinder forschen erhielt laut Lobbyregister Mittel von: Bundesministerium für Bildung und Forschung.",
+"ausschuesse": [
+"Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+"Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung"
+],
+"geld_aus": [
+"Bundesministerium für Bildung und Forschung"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/A/asghari_reza-1086638",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/15/99/806200/JB-Bilanz-GuV_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005776/80109",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-06",
+"etikett": "Eigenangabe",
+"version": 6
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/E/esdar_wiebke-1044222",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/A/asghari_reza-1086638",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

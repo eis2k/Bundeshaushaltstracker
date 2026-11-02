@@ -1,0 +1,195 @@
+{
+"id": "bund-deutscher-amateurtheater",
+"name": "Bund Deutscher Amateurtheater",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://bdat.info/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002793",
+"eintrag_id": 80790,
+"version": 10,
+"stand": "2026-09-15",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002793/80790",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/9a/8e/842283/Lobbyregister-Registereintraege-Detailansicht-R002793-2026-09-15_16-33-22.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Beauftragte der Bundesregierung für Kultur und Medien (BKM)",
+"epl": "04",
+"von": 490001,
+"bis": 500000,
+"zweck": "Zuwendung für Geschäftsstelle und Projekte des BDAT, einschließlich amarena Innovationsförderung, Schulungen und Arbeitstreffen der ehrenamtlich Engagierten des Verbandes;",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Familie und Zivilgesellschaftliche Aufgaben (BaFzA)",
+"epl": "17",
+"von": 170001,
+"bis": 180000,
+"zweck": "Bundesfreiwilligendienst Kultur und Bildung, Taschengelder, Sozialversicherung u. Bildungstage für Freiwillige, sowie Pädagogische Begleitung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMFSFJ",
+"epl": "17",
+"von": 10001,
+"bis": 20000,
+"zweck": "Projektzuwendung für Multiplikator*innenschulungen Kinder- und Jugendtheater aus KJP;",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 50001,
+"bis": 60000,
+"zweck": "Förderung von Internationalen Theater-Spielbegegnungen im Inland und Ausland: Förderung der Reise- und Übernachtungskosten von Gastspielen deutscher Amateurtheater im Ausland und Förderung von internationalen Amateurtheater-Gastspielen bei Theaterfestivals im Inland, Fachkräfteaustausch",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsch-Französisches Jugendwerk",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Zuschüsse zu Theaterbegegnungen zwischen deutschen und französischen Jugendlichen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 730005,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Simon Isser",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002793/80790",
+"stand": "2026-09-15"
+}
+},
+{
+"name": "Jörg Dreismann",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002793/80790",
+"stand": "2026-09-15"
+}
+},
+{
+"name": "Nils Hanraets",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002793/80790",
+"stand": "2026-09-15"
+}
+},
+{
+"name": "Frank Grünert",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002793/80790",
+"stand": "2026-09-15"
+}
+},
+{
+"name": "Brigitte Gstöttl",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002793/80790",
+"stand": "2026-09-15"
+}
+},
+{
+"name": "Irene Ostertag",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002793/80790",
+"stand": "2026-09-15"
+}
+},
+{
+"name": "Stephan Schnell",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002793/80790",
+"stand": "2026-09-15"
+}
+},
+{
+"name": "Julia Lieth",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002793/80790",
+"stand": "2026-09-15"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 10001,
+"bis": 20000
+},
+"mitgliedsbeitraege": {
+"von": 130001,
+"bis": 140000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/45/d5/842282/BDAT_Jahresbericht_2025_V-1-4.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002793/80790",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-15",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

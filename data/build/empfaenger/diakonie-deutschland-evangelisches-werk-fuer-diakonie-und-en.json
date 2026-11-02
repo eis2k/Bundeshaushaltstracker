@@ -1,0 +1,721 @@
+{
+"id": "diakonie-deutschland-evangelisches-werk-fuer-diakonie-und-en",
+"name": "Diakonie Deutschland, Evangelisches Werk für Diakonie und Entwicklung e.V.",
+"art": "kirche_wohlfahrt",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.diakonie.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001639",
+"eintrag_id": 83558,
+"version": 25,
+"stand": "2026-09-07",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ba/51/839145/Lobbyregister-Registereintraege-Detailansicht-R001639-2026-09-07_10-19-17.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"epl": "17",
+"von": 4530001,
+"bis": 4540000,
+"zweck": "Zuwendung des Bundes als Projektförderung für die Maßnahme\"Durchführung zentraler und internationaler Aufgaben\" (Titel 684 04 des Bundeshaushalts)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ)",
+"epl": "17",
+"von": 3860001,
+"bis": 3870000,
+"zweck": "Beratung und Betreuung von ausländischen Flüchtlingen (Titel 68405)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend/Beauftragte der Bundesregierung für Migration",
+"epl": "17",
+"von": 760001,
+"bis": 770000,
+"zweck": "Zuwendung aus Kinder- und Jugendplan des Bundes (KJP) -Förderung gemäß Rahmenvereinbarung im Handlungsfeld V.. Weitere bundeszentrale Aufgaben der Kinder- und Jugendhilfe (Titel 68401)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 70001,
+"bis": 80000,
+"zweck": "Demokratie leben! - Demokratie sticht Projekt (Titel 684 04)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 420001,
+"bis": 430000,
+"zweck": "Zukunftssicherung der Freien Wohlfahrtspflege durch Digitalisierung (Titel: 68407)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium des Innern und für Heimat",
+"epl": "06",
+"von": 130001,
+"bis": 140000,
+"zweck": "Das Bundesprogramm \"Gesellschaftlicher Zusammenhalt\" (BGZ) fördert Projekte, die das Miteinander in den Städten und Kommunen nachhaltig positiv verändern (Titel 684 12).",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium des Innern und für Heimat (BMI)",
+"epl": "06",
+"von": 1050001,
+"bis": 1060000,
+"zweck": "Gesellschaftlicher Zusammenhalt - Vor Ort. Vernetzt. Verbunden. (Titel 68414)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium des Innern und für Heimat (BMI)",
+"epl": "06",
+"von": 12500001,
+"bis": 12510000,
+"zweck": "Zuwendung für die Migrationsberatung (MBE) für erwachsene Zuwanderer ( Titel 68413)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium des Innern und für Heimat (BMI)",
+"epl": "06",
+"von": 6090001,
+"bis": 6100000,
+"zweck": "Asylverfahrensberatung, Titel 68462",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration",
+"epl": null,
+"von": 190001,
+"bis": 200000,
+"zweck": "Vorintegration und Übergangsmanagement: Vorintegrative Beratung und transnationale Begleitung von Migration im Rahmen von Internationaler Migrationssozialarbeit (Titel 53101)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN)",
+"epl": "16",
+"von": 70001,
+"bis": 80000,
+"zweck": "Klimaschutz (Titel 68501)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Arbeit und Soziales (BMAS)",
+"epl": "11",
+"von": 20001,
+"bis": 30000,
+"zweck": "Organisation und Durchführung des Treffens von Menschen mit Armutserfahrungen (Nationale Armutskonferenz), Titel 68402",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium der Justiz und für Verbraucherschutz (BMJV)",
+"epl": "07",
+"von": 550001,
+"bis": 560000,
+"zweck": "Schuldnerberatung für die Zielgruppe Senioren (68406)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 30240013,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Rüdiger Schuch",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Jörg Kruttschnitt",
+"funktion": "Vorstand Finanzen, Personal, Recht",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Katja von Damaros",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Erika Stempfle",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Tomas Steffens",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Maike Miriam Grube",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Katharina Ratzke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Martina Menzel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Sigrid Gronbach",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Rainer Hub",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Lea-Friederike Neubert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Ingo Grastorf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Sonja Schmidt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Johanna Thie",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Heike Scherff",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Andreas Bartels",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Johannes Brandstäter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Katharina Voss",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Wiebke Rockhoff",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Sebastian Ludwig",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Michael David",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Elena Weber",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Michael Stiefel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Frank Hofmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Friederike Mussgnug",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Johanna Gary",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Stephanie Scholz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Falko Behrens",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Anna-Lena Guske",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Lars Schäfer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Katharina Owczarek",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Hanna Steidle-Glaßer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Anja Remmert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Irene Pabst",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Jutta Ataie",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Stefanie Leich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Stefanie  Schwarzkopf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Robert Werner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Maja Kliem",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Julia Zillinger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Joachim Wurtmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Johannes Fremerey",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Svea von Hübbenet",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Katharina  Gräfe",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Marlene Kowalski",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Jana Achtert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Imke Elliesen-Kliefoth",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Verena Götze",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Katharina  Wegner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Evelyn Westhoff",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"stand": "2026-09-07"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 380001,
+"bis": 390000
+},
+"mitgliedsbeitraege": {
+"von": 1840001,
+"bis": 1850000
+},
+"lobbyausgaben": {
+"von": 790001,
+"bis": 800000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/91/88/839132/Bilanz-EWDE-20250629.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001639/83558",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-07",
+"etikett": "Eigenangabe",
+"version": 25
+}
+]
+}

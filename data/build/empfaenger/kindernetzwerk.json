@@ -1,0 +1,128 @@
+{
+"id": "kindernetzwerk",
+"name": "Kindernetzwerk e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Aschaffenburg",
+"website": "www.kindernetzwerk.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000194",
+"eintrag_id": 74364,
+"version": 13,
+"stand": "2026-03-26",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000194/74364",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/5a/45/711973/Lobbyregister-Registereintraege-Detailansicht-R000194-2026-03-26_13-32-19.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Innovationsfond beim Gemeinsamen Bundesausschuss",
+"epl": null,
+"von": 100001,
+"bis": 110000,
+"zweck": "Konsortialpartner im Innovationsfond-Projekt IT-gestützte sektorenübergreifende Patientenpfade für die Versorgung von Kindern mit KOmplexChrOnischen Neurologischen Erkrankungen / KoCoN (2022-2026). Das Kindernetzwerk erstellte Krankheitsbeschreibungen und Selbsthilfeinformationen und ist an der Auswertung der Ergebnisse aus Elternsicht beteiligt.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Innovationsfond beim Gemeinsamen Bundesausschuss",
+"epl": null,
+"von": 30001,
+"bis": 40000,
+"zweck": "Das Projekt PHArMKid untersucht die sichere und wirksame Anwendung von Medikamenten bei Kindern in Zusammenarbeit mit Konsortialpartnern wie dem Bundesverband Deutscher Krankenhausapotheker e.V. und der Techniker Krankenkasse sowie Kooperationspartnern wie das Deutsche Arzneimittel-Codex/Neues Rezeptur Formularium. Im Fokus steht die Entwicklung praxisnaher Handlungsempfehlungen für die Versorgung von Früh- und Neugeborenen sowie Kindern mit komplexen Erkrankungen. Dabei werden Versorgungsdefizite in der kinder- und jugendmedizinischen Medikation identifiziert und wissenschaftlich analysiert. Ziel ist es, bestehendes Wissen zu bündeln und den Zugang zu kindgerechten Arzneimittelinformationen zu verbessern. Der Untersuchungsgegenstand liegt auf häufig off-label eingesetzten Arzneimitteln mit Fokus auf der Schnittstelle zwischen stationärer und ambulanter Versorgung. Das Kindernetzwerk ist Konsortialpartner.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 130002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Susann Schroedel",
+"funktion": "Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000194/74364",
+"stand": "2026-03-26"
+}
+},
+{
+"name": "Lars Glöckner",
+"funktion": "stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000194/74364",
+"stand": "2026-03-26"
+}
+},
+{
+"name": "Leonie Welsch",
+"funktion": "stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000194/74364",
+"stand": "2026-03-26"
+}
+},
+{
+"name": "Henriette Högl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000194/74364",
+"stand": "2026-03-26"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 70001,
+"bis": 80000
+},
+"mitgliedsbeitraege": {
+"von": 40001,
+"bis": 50000
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/15/2d/711971/EUeR_2024_251127.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000194/74364",
+"abgerufen": "2026-11-02",
+"stand": "2026-03-26",
+"etikett": "Eigenangabe",
+"version": 13
+}
+]
+}

@@ -1,0 +1,103 @@
+{
+"id": "lokomotion-gesellschaft-fuer-schienentraktion",
+"name": "Lokomotion Gesellschaft für Schienentraktion",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "München",
+"website": "www.lokomotion-rail.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000914",
+"eintrag_id": 83028,
+"version": 9,
+"stand": "2026-07-13",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000914/83028",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/3a/7b/812251/Lobbyregister-Registereintraege-Detailansicht-R000914-2026-07-13_17-08-12.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Eisenbahn-Bundesamt Ref41",
+"epl": "12",
+"von": 1060001,
+"bis": 1070000,
+"zweck": "Es handelt sich um Zuschüsse zur Föderungen des Einzelwagenladungsverkehr, Richtlinie zur Förderung des Schienengüterverkehrs über eine anteilige Finanzierung der Betriebskosten im Einzelwagenverkehr (BK-EWV) vom 21. Mai 2024",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Eisenbahn Bundesamt",
+"epl": "12",
+"von": 190001,
+"bis": 200000,
+"zweck": "Förderrichtlinie GSM-R 3. Förderaufruf Bemessungsmethode A",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1250002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ruby van der Sluis",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000914/83028",
+"stand": "2026-07-13"
+}
+},
+{
+"name": "Stefan Jarosch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000914/83028",
+"stand": "2026-07-13"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/9b/3c/812249/Testatsexemplar-Lokomotion-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000914/83028",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-13",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

@@ -1,0 +1,72 @@
+{
+"id": "erwerbs-von-genossenschaftsanteilen",
+"name": "Erwerbs von Genossenschaftsanteilen",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "06-0604-66101",
+"text": "Förderung des Erwerbs von Genossenschaftsanteilen für selbstgenutzten Wohnraum (KfW-Bankengruppe)",
+"epl": "06",
+"epl_text": "Bundesministerium des Innern, für Bau und Heimat",
+"werte": {
+"2020": {
+"soll": 1000000,
+"ist": 0
+},
+"2021": {
+"soll": 1000000,
+"ist": 0
+}
+}
+},
+{
+"id": "25-2501-66101",
+"text": "Förderung des Erwerbs von Genossenschaftsanteilen für selbstgenutzten Wohnraum (KfW-Bankengruppe)",
+"epl": "25",
+"epl_text": "Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+"werte": {
+"2022": {
+"soll": 600000,
+"ist": 1452
+},
+"2023": {
+"soll": 2600000,
+"ist": 2678502
+},
+"2024": {
+"soll": 3800000,
+"ist": 1464138
+},
+"2025": {
+"soll": 7175000,
+"ist": 3123640
+},
+"2026": {
+"soll": 9600000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

@@ -1,0 +1,202 @@
+{
+"id": "zf-friedrichshafen",
+"name": "ZF Friedrichshafen AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Friedrichshafen",
+"website": "www.zf.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001500",
+"eintrag_id": 87572,
+"version": 31,
+"stand": "2026-10-14",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001500/87572",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/69/d4/861281/Lobbyregister-Registereintraege-Detailansicht-R001500-2026-10-14_15-42-19.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung (BMBF) bzw. Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 2040001,
+"bis": 2050000,
+"zweck": "Projektförderung CeCas - Central Car Server-Supercomputing für Automotive Projektförderung ASRIOT - Automatisierte Sicherheitsanalyse von RTOS- und MCU-basierter IoT-Firmware Projektförderung AUTOtech.agil - Architektur und Technologien zur Orchestrierung automobiltechnischer Agilität Projektförderung EM Drive - Plattform für verteilte heterogene Automotive-Echtzeit Rechennetzwerk Architekturen Projektförderung ZUSE KI-mobil - Plattform für energieeffiziente KI-Prozessoren in mobilen Anwendungen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundsministerium für Wirtschaft und Klimaschutz (BMWK) bzw. Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": null,
+"von": 1730001,
+"bis": 1740000,
+"zweck": "Projektförderung Beyond1kV - Batterieelektrische Antriebssysteme für Nutzfahrzeuge Projektförderung Catena X - Datenökosystem zur Digitalisierung der automobilen Lieferketten Projektförderung DigiTain - Volldigitalen Produktentwicklung nachhaltiger Elektroantriebsarchitekturen Projektförderung EEMotion - Weiterentwicklung KI basierter Regelungssysteme für Fahrdynamik Projektförderung HoGaN - Hochstrom GaN-Elektronik Projektförderung STADT:up - KI-basierter Methoden und Demonstration in automatisierten Fahrsystemen Projektförderung NXTAIM - Generative Methoden für Perzeption, Prädiktion und Planung Projektförderung EACplus - Ressourceneffiziente Produktentwicklung des Invertrers Projektförderung Vader - Assistenzsysteme für flexible Fertigungsprozesse mit Fokus Robotik Projektförderung Control - Controlling Risk for Autonomous Transportaition Systems Operating in Complex Open Environments Projektförderung Safe AI- Sicherheitsrelevante KI-basierte Fahrzeugfunktionen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 3770002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Mathias Miedreich",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001500/87572",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Lea Corzilius",
+"funktion": "Personalvorständin / Arbeitsdirektorin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001500/87572",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Michael Frick",
+"funktion": "Finanzvorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001500/87572",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Andreas Moser",
+"funktion": "Mitglied des Vorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001500/87572",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Sebastian Schmitt",
+"funktion": "Mitglied des Vorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001500/87572",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Lisa-Marie Trieglaff",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001500/87572",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Philipp Ellett",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001500/87572",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Marcel Proff",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001500/87572",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Kai Lücke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001500/87572",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Martin Pioch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001500/87572",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Ferdinand Rehder",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001500/87572",
+"stand": "2026-10-14"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 640001,
+"bis": 650000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e2/95/861279/Annual_Report_2025_ZF_Friedrichshafen_AG.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001500/87572",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-14",
+"etikett": "Eigenangabe",
+"version": 31
+}
+]
+}

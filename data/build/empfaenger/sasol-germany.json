@@ -1,0 +1,96 @@
+{
+"id": "sasol-germany",
+"name": "Sasol Germany GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Hamburg",
+"website": "https://chemicals.sasol.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004748",
+"eintrag_id": 76090,
+"version": 16,
+"stand": "2026-04-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004748/76090",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/0d/07/730463/Lobbyregister-Registereintraege-Detailansicht-R004748-2026-04-30_17-19-15.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung (BMBF)",
+"epl": "30",
+"von": 1610001,
+"bis": 1620000,
+"zweck": "Projektförderung im Rahmen des deutsch-südafrikanischen Care-O-Sene Projektes, das Katalysatoren für die Fischer-Tropsch-Synthese optimiert sowie neue Katalysatoren entwickelt und testet. Ziel ist es, SAF effizienter herzustellen und dadurch eine großangelegte Produktion von Grünem Kerosin zu ermöglichen.",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 1610001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Mark Breitenfelder",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004748/76090",
+"stand": "2026-04-30"
+}
+},
+{
+"name": "Christoph de Beer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004748/76090",
+"stand": "2026-04-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 190001,
+"bis": 200000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/f4/7f/730461/Sasol-Germany-JA2025_Testatsversion.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004748/76090",
+"abgerufen": "2026-11-02",
+"stand": "2026-04-30",
+"etikett": "Eigenangabe",
+"version": 16
+}
+]
+}

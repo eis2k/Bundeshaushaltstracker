@@ -1,0 +1,103 @@
+{
+"id": "feintechnik-gmbh-eisfeld",
+"name": "Feintechnik GmbH Eisfeld",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Eisfeld",
+"website": "www.harrys-factory.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007919",
+"eintrag_id": 74945,
+"version": 2,
+"stand": "2026-04-14",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007919/74945",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/e0/d6/722343/Lobbyregister-Registereintraege-Detailansicht-R007919-2026-04-14_13-41-15.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Kreditanstalt für Wiederaufbau (KfW)",
+"epl": null,
+"von": 1030001,
+"bis": 1040000,
+"zweck": "KfW-Förderung Energieeffizienz Neubau-Produktionshalle",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 40001,
+"bis": 50000,
+"zweck": "BAFA Förderung für Energieeffiziente Dachsanierung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1070002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Florian Schebitz",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007919/74945",
+"stand": "2026-04-14"
+}
+},
+{
+"name": "Jeff Lipkin",
+"funktion": "CFO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007919/74945",
+"stand": "2026-04-14"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/91/c0/722342/11019736_End_TE_JA2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007919/74945",
+"abgerufen": "2026-11-02",
+"stand": "2026-04-14",
+"etikett": "Eigenangabe",
+"version": 2
+}
+]
+}

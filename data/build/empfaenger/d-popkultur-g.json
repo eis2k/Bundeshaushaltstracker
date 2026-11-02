@@ -1,0 +1,106 @@
+{
+"id": "d-popkultur-g",
+"name": "D-Popkultur g e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Kiel",
+"website": "https://www.d-popkultur.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005528",
+"eintrag_id": 76954,
+"version": 19,
+"stand": "2026-05-19",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005528/76954",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/95/a1/739036/Lobbyregister-Registereintraege-Detailansicht-R005528-2026-05-19_17-37-02.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Initiative Musik gGmbH",
+"epl": null,
+"von": 70001,
+"bis": 80000,
+"zweck": "Strukturförderung durch parlamentarischer Beschluss",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 70001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Felix Eicke",
+"funktion": "stellvertretender Vorsitzender des Vereins",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005528/76954",
+"stand": "2026-05-19"
+}
+},
+{
+"name": "Lina Holzrichter",
+"funktion": "1. Vorsitzende des Vereins",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005528/76954",
+"stand": "2026-05-19"
+}
+},
+{
+"name": "Thea  Lehmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005528/76954",
+"stand": "2026-05-19"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 40001,
+"bis": 50000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ae/37/739035/D-Popkultur-Jahresbericht-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005528/76954",
+"abgerufen": "2026-11-02",
+"stand": "2026-05-19",
+"etikett": "Eigenangabe",
+"version": 19
+}
+]
+}

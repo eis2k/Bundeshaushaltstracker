@@ -1,0 +1,191 @@
+{
+"id": "junge-europaeische-foederalist-innen-deutschland",
+"name": "Junge Europäische Föderalist:innen Deutschland e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.jef.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002356",
+"eintrag_id": 81010,
+"version": 8,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002356/81010",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/4e/39/791546/Lobbyregister-Registereintraege-Detailansicht-R002356-2026-06-30_14-06-54.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministeriums für Bildung, Familie, Senioren, Frauen und Jugend",
+"epl": null,
+"von": 100001,
+"bis": 110000,
+"zweck": "Förderung bundeszentraler Infrastruktur der Kinder- und Jugendarbeit aus dem Kinder- und Jugendplan des Bundes",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 100001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Mathias Staudenmaier",
+"funktion": "Bundesschatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002356/81010",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Lutz Gude",
+"funktion": "Bundesgeschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002356/81010",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Melanie Thut",
+"funktion": "Bundesvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002356/81010",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Matthias Meinert",
+"funktion": "Bundessekretär",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002356/81010",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Jan Hörnschemeyer",
+"funktion": "Stellvertretender Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002356/81010",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Moritz Hergl",
+"funktion": "Stellvertretender Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002356/81010",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Helene Salzburger",
+"funktion": "Stellvertretende Bundesvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002356/81010",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Carolin Robert",
+"funktion": "Stellvertretende Bundesvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Sachbearbeiterin",
+"stelle": "Auswärtiges Amt (AA) oder dessen Geschäftsbereich",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002356/81010",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Carolin Robert",
+"funktion_person": "Sachbearbeiterin, Auswärtiges Amt (AA) oder dessen Geschäftsbereich",
+"funktion_beim_empfaenger": "Stellvertretende Bundesvorsitzende",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Carolin Robert ist laut Lobbyregister Stellvertretende Bundesvorsitzende bei Junge Europäische Föderalist:innen Deutschland e.V. und hatte zuvor eine öffentliche Funktion: Sachbearbeiterin, Auswärtiges Amt (AA) oder dessen Geschäftsbereich. Junge Europäische Föderalist:innen Deutschland e.V. erhielt laut Lobbyregister Mittel von: Bundesministeriums für Bildung, Familie, Senioren, Frauen und Jugend.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministeriums für Bildung, Familie, Senioren, Frauen und Jugend"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002356/81010",
+"stand": "2026-06-30"
+}
+],
+"stand": "2026-06-30"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 20001,
+"bis": 30000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/b8/2c/791545/250701-JEF-Finanzbericht-2024-Lobbyregister.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002356/81010",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

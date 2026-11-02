@@ -1,0 +1,163 @@
+{
+"id": "deutscher-basketball-bund",
+"name": "Deutscher Basketball Bund",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Hagen",
+"website": "www.basketball-bund.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004672",
+"eintrag_id": 79961,
+"version": 7,
+"stand": "2026-06-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004672/79961",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/bc/6c/783921/Lobbyregister-Registereintraege-Detailansicht-R004672-2026-06-29_13-40-50.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium des Innern",
+"epl": "06",
+"von": 3020001,
+"bis": 3030000,
+"zweck": "- Leistungssport-Personal Vergütung - Verwaltungspauschale - Trainerfortbildung - Kadermaßnahmen - Organisationskostenzuschuss Women's EuroBasket 2025 - Organisationskostenzuschuss Women's Basketball World Cup 2026",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 3020001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ingo Weiss",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004672/79961",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Werner Lechner",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004672/79961",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Stefan Raid",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004672/79961",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Joachim Spägele",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004672/79961",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Mithat Demirel",
+"funktion": "Vize-Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004672/79961",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Carsten Straube",
+"funktion": "Vize-Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004672/79961",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Wolfgang  Brenscheidt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004672/79961",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Heinz Schoenwolf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004672/79961",
+"stand": "2026-06-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 2430001,
+"bis": 2440000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/00/64/783918/DBB_Jahresabschluss_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004672/79961",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-29",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

@@ -1,0 +1,357 @@
+{
+"id": "man-truck-und-bus",
+"name": "MAN Truck & Bus SE",
+"art": "unternehmen",
+"rechtsform": "Europäische Aktiengesellschaft (SE)",
+"sitz": "München",
+"website": "www.mantruckandbus.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001638",
+"eintrag_id": 84110,
+"version": 24,
+"stand": "2026-08-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001638/84110",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/77/f3/824684/Lobbyregister-Registereintraege-Detailansicht-R001638-2026-08-03_10-39-52.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMV",
+"epl": "12",
+"von": 180001,
+"bis": 190000,
+"zweck": "FC-Truck - Entwicklung und Erprobung eines BZ-Systems sowie einer mobilen und autarken Betankungseinrichtung im Anwendungsbereich von schweren Nutzfahrzeugen: Teilvorhaben: Entwicklung und Erprobung des Systems im schweren Nutzfahrzeug",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMV / PT Jülich",
+"epl": "12",
+"von": 720001,
+"bis": 730000,
+"zweck": "FCS-HD - Konzeptionierung und Aufbau eines Heavy Duty Brennstoffzellensystems",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE / TÜV Rheinland",
+"epl": "09",
+"von": 1940001,
+"bis": 1950000,
+"zweck": "ATLAS L4 - Automatischer Transport zwischen Logistikzentren auf Schnellstraßen im Level 4",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMV",
+"epl": "12",
+"von": 130001,
+"bis": 140000,
+"zweck": "CryoTruck - Entwicklung, Fahrzeugintegration und Erprobung eines CryoCompressed H2-Speichersystems",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE",
+"epl": "09",
+"von": 50001,
+"bis": 60000,
+"zweck": "REVAMP- REmanufacturing von variantenreichen Batteriemodulen mit automatisierten Montage- und Prüfprozessen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE/ DLR",
+"epl": "09",
+"von": 370001,
+"bis": 380000,
+"zweck": "NEFTON - Nutzfahrzeugelektrifizierung für Transportsektor-optimierte Netzanbindung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMV",
+"epl": "12",
+"von": 70001,
+"bis": 80000,
+"zweck": "HoLa - Hochleistungsladen Lkw-Fernverkehr; Teilvorhaben MAN: Errichtung und Betrieb von Hochleistungs-Ladeinfrastruktur für batterie-elektrische Lkw an vier Standorten zwischen Berlin und dem Ruhrgebiet und die Entwicklung einer Blaupause für den späteren flächendeckenden Ausbau",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE",
+"epl": "09",
+"von": 460001,
+"bis": 470000,
+"zweck": "Spirit-E - SPIRIT-E ist ein Forschungsprojekt, das darauf abzielt, die Elektrifizierung des Verkehrssektors mit batterieelektrischen Lkw, deren bidirektionale Integration und eine reservierbare gemeinsame Nutzung privater Ladeinfrastruktur zu beschleunigen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE",
+"epl": "09",
+"von": 80001,
+"bis": 90000,
+"zweck": "SALSA - Smarte, Adaptive und lernbare Systeme für Alle",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 4000009,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Alexander Vlaskamp",
+"funktion": "Vorsitzender des Vorstands - MAN Truck & Bus SE",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001638/84110",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Michael Kobriger",
+"funktion": "Mitglied des Vorstands für Produktion und Logistik - MAN Truck & Bus SE",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001638/84110",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Inka Koljonen",
+"funktion": "Mitglied des Vorstands für Finanzen, IT und Recht - MAN Truck & Bus SE",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001638/84110",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Friedrich Baumann",
+"funktion": "Mitglied des Vorstands für Vertrieb und Kundenlösungen - MAN Truck & Bus SE",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001638/84110",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Hubert Altschäffl",
+"funktion": "Mitglied des Vorstands für Personal und Arbeitsdirektor - MAN Truck & Bus SE",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001638/84110",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Frederik Zohm",
+"funktion": "Mitglied des Vorstands für Forschung und Entwicklung - MAN Truck & Bus SE",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001638/84110",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Karl Bernqvist",
+"funktion": "Mitglied des Vorstands für Beschaffung - MAN Truck & Bus SE",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001638/84110",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Christoph Schuler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001638/84110",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Benedikt Nesselhauf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001638/84110",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Christian Ketzer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001638/84110",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Marc Langendorf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001638/84110",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Dirk Michael Thum",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001638/84110",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Axel Thomas Maurer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001638/84110",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Klaus Werner Richter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001638/84110",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Chrysoula Athanasopoulou",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001638/84110",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Harald Beck",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001638/84110",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Kim Johanna Beatrice Kohlmeyer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001638/84110",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Ute Opritescu",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001638/84110",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Andreas Herthum",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001638/84110",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Markus Knauer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001638/84110",
+"stand": "2026-08-03"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1060001,
+"bis": 1070000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/d7/7e/824683/Traton_Geschaeftsbericht_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001638/84110",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-03",
+"etikett": "Eigenangabe",
+"version": 24
+}
+]
+}

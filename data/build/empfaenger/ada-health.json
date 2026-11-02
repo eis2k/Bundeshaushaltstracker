@@ -1,0 +1,117 @@
+{
+"id": "ada-health",
+"name": "Ada Health GmbH ",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "https://ada.com/de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002263",
+"eintrag_id": 70237,
+"version": 4,
+"stand": "2026-01-05",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002263/70237",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/7d/50/677380/Lobbyregister-Registereintraege-Detailansicht-R002263-2026-01-05_14-24-41.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 60001,
+"bis": 70000,
+"zweck": "The PATH project is funded by the Federal Ministry of Education and Research as part of the framework program for information security entitled “Digital. Sicher. Souverän” (Digital. Secure. Sovereign). Project partners: Else Kröner Fresenius Center for Digital Health, Technische Universität Dresden, Institute of International Law, Intellectual Property and Technology Law, Chair of Digital Cultures, Carl Gustav Carus University Hospital Dresden, Leipzig University Hospital, Center for Evidence-Based Healthcare (ZEGV), Ada Health GmbH, Una Health GmbH, movisens GmbH. In the project \"Personal Mastery Health & Wellness Data\" (PATH), the researchers are pursuing the goal of creating a privacy-compliant platform to link personal health data from patient records with data from home health systems. One aspect is the simple and user-friendly access to health data in a graphical overview, which creates the necessary transparency for effective control by users.",
+"geschaeftsjahr": "2023"
+}
+],
+"lobby_untergrenze_bund": 60001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Daniel Nathrath",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002263/70237",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Martin Hirsch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002263/70237",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Anisa Idris",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002263/70237",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Vanessa Lemarié",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002263/70237",
+"stand": "2026-01-05"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 60001,
+"bis": 70000
+},
+"geschaeftsjahr": "2023",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/c4/ce/677335/Ada_JAP_31-12-23_TE-final_24-000535.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002263/70237",
+"abgerufen": "2026-11-02",
+"stand": "2026-01-05",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

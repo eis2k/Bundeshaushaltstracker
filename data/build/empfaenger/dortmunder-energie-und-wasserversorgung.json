@@ -1,0 +1,125 @@
+{
+"id": "dortmunder-energie-und-wasserversorgung",
+"name": "Dortmunder Energie- und Wasserversorgung GmbH (DEW21)",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Dortmund",
+"website": "www.dew21.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004761",
+"eintrag_id": 76994,
+"version": 17,
+"stand": "2026-06-26",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004761/76994",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/58/33/778793/Lobbyregister-Registereintraege-Detailansicht-R004761-2026-06-26_11-48-43.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "Förderung für die Errichtung einer Anlagen zur Wärmeerzeugung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 20001,
+"bis": 30000,
+"zweck": "Förderung für die Errichtung einer Anlagen zur Wärmeerzeugung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 30002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Gerhard Holtmeier",
+"funktion": "Vorsitzender der Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004761/76994",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Peter Flosbach",
+"funktion": "Geschäftsführer Technik",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004761/76994",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Matthias Klein-Lassek",
+"funktion": "Arbeitsdirektor",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004761/76994",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Philipp Hoicke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004761/76994",
+"stand": "2026-06-26"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 40001,
+"bis": 50000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/c7/80/778791/Geschaeftsbericht_DEW21_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004761/76994",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-26",
+"etikett": "Eigenangabe",
+"version": 17
+}
+]
+}

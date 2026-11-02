@@ -1,0 +1,210 @@
+{
+"id": "gesellschaft-fuer-informatik",
+"name": "Gesellschaft für Informatik e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bonn",
+"website": "https://gi.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000484",
+"eintrag_id": 79190,
+"version": 12,
+"stand": "2026-08-10",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000484/79190",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/a4/38/828833/Lobbyregister-Registereintraege-Detailansicht-R000484-2026-08-10_13-44-17.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 1230001,
+"bis": 1240000,
+"zweck": "Zuwendungen für verschiedenen Bildungs-, Forschungs- und Wissenschaftskommunikationsprojekte: Common Grounds Forum (https://common-grounds-forum.org/) Quadriga (https://www.quadriga-dk.de/en/) OCDCPro (https://ocdcpro.de/) Tech2stay (https://www.tech2stay.de/) Netzwerk Digital Green Technologie (https://digitalgreentech.de) Bundesweite Informatikwettbewerbe (https://bwinf.de) Climate Data Entrepreneurial Club (https://cdec.io/)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 460001,
+"bis": 470000,
+"zweck": "Das Civic Data Lab wird durch das Bundesministerium für Familie, Senioren, Frauen und Jugend gefördert und ist das Ankerprojekt des Ministeriums in der Civic Coding Initiative, die es gemeinsam mit dem Bundesministerium für Arbeit und Soziales sowie dem Bundesministerium für Umwelt und Verbraucherschutz realisiert. Das CDL steht für seine fortlaufende Mission, Datenkompetenzen zugänglich zu machen und zivilgesellschaftliches Engagement zu stärken. Mehr dazu: www.civic-data.de",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+"epl": "16",
+"von": 20001,
+"bis": 30000,
+"zweck": "Eco:compute (https://www.eco-compute.io/) Das Projekt zielt darauf ab, das Bewusstsein und Engagement für ökologische Nachhaltigkeit von Hard- und Software zu fördern. Im Rahmen der Konferenz EcoCompute wird ein spezieller Bereich eingerichtet, der Aktivist:innen und Vertreter:innen von Umweltschutzorganisationen zusammenbringt und ihnen eine Plattform bietet (Community Track). Hier werden innovative und nachhaltige Lösungen zur Reduzierung des Energie- und Ressourcenverbrauchs des IKT (Informations- und Kommunikationstechnologien) -Sektors diskutiert und gemeinsam praxisnahe und umsetzbare Ansätze entwickelt. Die Ergebnisse werden durch Videoaufzeichnungen, Pressemitteilungen und Social-Media-Beiträge dokumentiert und verbreitet, um eine breite Öffentlichkeit zu erreichen. Durch diesen integrativen und partizipativen Ansatz werden Nachhaltigkeit und Umweltschutz im Technologiebereich auf eine neue und umfassende Weise vorangetrieben.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 160001,
+"bis": 170000,
+"zweck": "https://ecodigit.de/ ECO:DIGIT: IT-Nachhaltigkeit messbar machen Ziel des Projektvorhabens ist die Entwicklung, Validierung und Zurverfügungstellung einer automatisierten Bewertungsumgebung (Prüfstand), die für beliebig zu testende Software-Anwendungen Kennzahlen und Daten zu Ressourcenverbräuchen, CO2e-Emissionen etc. transparent offenlegt. Hierzu wird zunächst eine Bewertungsmethode entwickelt mit der die wesentlichen Umweltwirkungen von Software-Anwendungen ermittelt werden und geeignete Indikatoren für deren Messung festgelegt werden.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1870004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Martin Wolf",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000484/79190",
+"stand": "2026-08-10"
+}
+},
+{
+"name": "Nadine Bergner",
+"funktion": "Vize-Präsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000484/79190",
+"stand": "2026-08-10"
+}
+},
+{
+"name": "Friedrich Steimann",
+"funktion": "Vize-Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000484/79190",
+"stand": "2026-08-10"
+}
+},
+{
+"name": "Katharina Weitz",
+"funktion": "Vize-Präsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000484/79190",
+"stand": "2026-08-10"
+}
+},
+{
+"name": "Daniel Krupka",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000484/79190",
+"stand": "2026-08-10"
+}
+},
+{
+"name": "Cornelia Winter",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000484/79190",
+"stand": "2026-08-10"
+}
+},
+{
+"name": "Nikolas Becker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000484/79190",
+"stand": "2026-08-10"
+}
+},
+{
+"name": "Frithjof Nagel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000484/79190",
+"stand": "2026-08-10"
+}
+},
+{
+"name": "Anna-Sarah Lieckfeld",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000484/79190",
+"stand": "2026-08-10"
+}
+},
+{
+"name": "Eva Mattes",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000484/79190",
+"stand": "2026-08-10"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 80001,
+"bis": 90000
+},
+"mitgliedsbeitraege": {
+"von": 1540001,
+"bis": 1550000
+},
+"lobbyausgaben": {
+"von": 30001,
+"bis": 40000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/5d/c6/828830/JA-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000484/79190",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-10",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

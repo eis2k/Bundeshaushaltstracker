@@ -1,0 +1,334 @@
+{
+"id": "open-source-business-alliance-bundesverband-fuer-digitale-so",
+"name": "Open Source Business Alliance - Bundesverband für digitale Souveränität e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://www.osb-alliance.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001317",
+"eintrag_id": 86241,
+"version": 33,
+"stand": "2026-09-22",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001317/86241",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/b2/d7/846032/Lobbyregister-Registereintraege-Detailansicht-R001317-2026-09-22_17-25-30.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 340001,
+"bis": 350000,
+"zweck": "Nicht rückzahlbare Zuwendung aus dem Bundeshaushalt, Einzelplan 09, Kapitel 0901, Titel 68321, Haushaltsjahr 2023 für das Verbundprojekt: ECO:DIGIT - Enabling green Computing and DIGItal Transformation; Teilvorhaben: Messverfahren Cloud und Sustainability Monitoring Cloud Computing; Förderkennzeichen: 01MN23011E",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 340001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Peter Ganten",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001317/86241",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Diego Calvo de Nó",
+"funktion": "Finanzvorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001317/86241",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Stefan Zosel",
+"funktion": "Stellvertretender Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001317/86241",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Daniel Gerber",
+"funktion": "Stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001317/86241",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Miriam Seyffarth",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001317/86241",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Lothar Becker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001317/86241",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Thomas Köster",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001317/86241",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Torsten Hallmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001317/86241",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Simon Fröhlich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001317/86241",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Kai Martius",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001317/86241",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Stephan Ilaender",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001317/86241",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Birgit Becker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001317/86241",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Claus Wickinghoff",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001317/86241",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Holger Dyroff",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001317/86241",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Peer Heinlein",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001317/86241",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Uwe Presler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001317/86241",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Ingo Wichmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001317/86241",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Felix Kronlage-Dammers",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001317/86241",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Rico Barth",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001317/86241",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Markus Keller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001317/86241",
+"stand": "2026-09-22"
+}
+},
+{
+"name": "Jutta Horstmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001317/86241",
+"stand": "2026-09-22"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Miriam Seyffarth",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-03",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Miriam Seyffarth ist laut Lobbyregister Interessenvertretung bei Open Source Business Alliance - Bundesverband für digitale Souveränität e.V. und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-03. Open Source Business Alliance - Bundesverband für digitale Souveränität e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Klimaschutz.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Wirtschaft und Klimaschutz"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001317/86241",
+"stand": "2026-09-22"
+}
+],
+"stand": "2026-09-22"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 60001,
+"bis": 70000
+},
+"mitgliedsbeitraege": {
+"von": 740001,
+"bis": 750000
+},
+"lobbyausgaben": {
+"von": 140001,
+"bis": 150000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ff/2a/846029/Jahresabschlussbericht-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001317/86241",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-22",
+"etikett": "Eigenangabe",
+"version": 33
+}
+]
+}

@@ -1,0 +1,127 @@
+{
+"id": "katholische-landjugendbewegung-deutschlands",
+"name": "Katholische Landjugendbewegung Deutschlands e.V. ",
+"art": "kirche_wohlfahrt",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bad Honnef - Rhöndorf",
+"website": "https://www.kljb.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002266",
+"eintrag_id": 64487,
+"version": 7,
+"stand": "2025-08-28",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002266/64487",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/d5/2e/607745/Lobbyregister-Registereintraege-Detailansicht-R002266-2025-08-28_14-24-34.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Ernährung und Landwirtschaft",
+"epl": "10",
+"von": 80001,
+"bis": 90000,
+"zweck": "Zuwendungen aus dem Bundeshaushalt zur Vorbereitung, Durchführung und Abwicklung bundeszentraler Informationsveranstaltungen im Rahmen der Landjugendarbeit auf dem Gebiet der Ernährungs-, Land- und Forstwirtschaft",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 770001,
+"bis": 780000,
+"zweck": "Mittel aus dem Kinder- und Jugendhilfeplan (inkl. Corona-Aufholprogramm)",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 850002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jannis Fughe",
+"funktion": "Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002266/64487",
+"stand": "2025-08-28"
+}
+},
+{
+"name": "Judith Böckle",
+"funktion": "Bundesvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002266/64487",
+"stand": "2025-08-28"
+}
+},
+{
+"name": "Isabel Rutkowski",
+"funktion": "Bundesvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002266/64487",
+"stand": "2025-08-28"
+}
+},
+{
+"name": "Lena Bowen",
+"funktion": "Bundesseelsorgerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002266/64487",
+"stand": "2025-08-28"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 510001,
+"bis": 520000
+},
+"lobbyausgaben": {
+"von": 30001,
+"bis": 40000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/95/10/607744/KLJBe-V-_GuV_Kurzform_2024.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002266/64487",
+"abgerufen": "2026-11-02",
+"stand": "2025-08-28",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

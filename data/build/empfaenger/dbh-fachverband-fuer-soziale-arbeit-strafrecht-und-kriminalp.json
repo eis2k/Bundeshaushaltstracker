@@ -1,0 +1,117 @@
+{
+"id": "dbh-fachverband-fuer-soziale-arbeit-strafrecht-und-kriminalp",
+"name": "DBH - Fachverband für Soziale Arbeit, Strafrecht und Kriminalpolitik e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Köln",
+"website": "www.dbh-online.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006266",
+"eintrag_id": 81643,
+"version": 8,
+"stand": "2026-07-15",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006266/81643",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/50/be/813970/Lobbyregister-Registereintraege-Detailansicht-R006266-2026-07-15_16-21-45.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium der Justiz und für Verbraucherschutz",
+"epl": "07",
+"von": 180001,
+"bis": 190000,
+"zweck": "Zuschuss für das Servicebüro für Täter-Opfer-Ausgleich und Konfliktschlichtung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium der Justiz und für Verbraucherschutz",
+"epl": "07",
+"von": 200001,
+"bis": 210000,
+"zweck": "Personal- und Sachmittelkosten-Zuschuss zur Förderung von bundesweiten Tätigkeiten im Bereich der Bewährungs- und Straffälligenhilfe",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 380002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Kirstin Drenkhahn",
+"funktion": "Präsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006266/81643",
+"stand": "2026-07-15"
+}
+},
+{
+"name": "Johannes Sandmann",
+"funktion": "Vize-Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006266/81643",
+"stand": "2026-07-15"
+}
+},
+{
+"name": "Daniel Wolter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006266/81643",
+"stand": "2026-07-15"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 20001,
+"bis": 30000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/be/a2/813969/DBH-Fachverband-eV-Jahresabschlussbericht-2025-GuV.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006266/81643",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-15",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

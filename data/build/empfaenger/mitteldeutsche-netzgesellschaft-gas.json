@@ -1,0 +1,170 @@
+{
+"id": "mitteldeutsche-netzgesellschaft-gas",
+"name": "Mitteldeutsche Netzgesellschaft Gas GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Kabelsketal",
+"website": "https://www.mitnetz-gas.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006143",
+"eintrag_id": 79401,
+"version": 9,
+"stand": "2026-06-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006143/79401",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/a5/78/785577/Lobbyregister-Registereintraege-Detailansicht-R006143-2026-06-29_16-10-17.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE); Projektträger Jülich (PTJ), Berlin",
+"epl": "09",
+"von": 20001,
+"bis": 30000,
+"zweck": "Zuschuss; Anwendungsorientierte nichtnukleare FuE im 7. Energieforschungsprogramm - H2-Infrastruktur",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klima (BMWK), Projektträger Jülich (PTJ), Berlin",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "\"Zuschuss; Anwendungsorientierte nichtnukleare FuE im 8. Energieforschungsprogramm - BL WH2 Verbundvorhaben: EnEf:Stadt: BLWH2 — Erschließung und Versorgung von Bestandsgebäuden und Neubauentwicklungen der Stadt Bad Lauchstädt mit klimaneutraler Wärme; Teilvorhaben: Entwicklung von innovativen Versorgungs- und Transformationskonzepten für Wasserstoff\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 40002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Lutz Eckenroth",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006143/79401",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Kai Richter",
+"funktion": "kaufmännischer Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006143/79401",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Christoph Eger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006143/79401",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Ulf Aleit",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006143/79401",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Wilma Becker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006143/79401",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Christian Rosin",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006143/79401",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "David Brummund",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006143/79401",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Dirk Hünlich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006143/79401",
+"stand": "2026-06-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/79/a3/785576/MNG_TE_JA2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006143/79401",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-29",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

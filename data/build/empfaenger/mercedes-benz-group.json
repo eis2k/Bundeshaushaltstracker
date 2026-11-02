@@ -1,0 +1,326 @@
+{
+"id": "mercedes-benz-group",
+"name": "Mercedes-Benz Group AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Stuttgart",
+"website": "https://group.mercedes-benz.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002034",
+"eintrag_id": 86000,
+"version": 40,
+"stand": "2026-09-18",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002034/86000",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/77/dd/843318/Lobbyregister-Registereintraege-Detailansicht-R002034-2026-09-18_10-21-25.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 910001,
+"bis": 920000,
+"zweck": "Erhaltene Projektfördermittel im Rahmen folgender Projekte: Digitaler Fingerabdruck DFA, QAI2, VIVID, AUTOtech.agil, CARpulse, QAIAC, MANNHEIM-FlexKI, AI-SEE, VERANO, AI4CSM (BMFTR-Anteil), PowerizeD (BMFTR-Anteil), Archimedes (BMFTR-Anteil), HiPower 5.0 (BMFTR-Anteil), Well-defined, Rubin (03RUeU052B), InnoLogBat (02J21E024), DIAMOND-Entwicklung eines PPR Modells",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Digitales und Staatsmodernisierung",
+"epl": null,
+"von": 120001,
+"bis": 130000,
+"zweck": "Erhaltene Projektfördermittel im Rahmen folgender Projekte: XLP80MBedded, DZwEI",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr",
+"epl": "12",
+"von": 70001,
+"bis": 80000,
+"zweck": "Erhaltene Projektfördermittel mFUND - Dateninnovationen für die Mobilität 4.0",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 12460001,
+"bis": 12470000,
+"zweck": "Erhaltene Projektfördermittel im Rahmen folgender Projekte: unIT-e², Bid-EV, HiBRAIN, EACplus, FuMi-Lite, LiFe cycle, DOCT, STADT:up, jbDATA, NXTAIM, NAOMI4Radar, SafeAIEngineering, BrakeClean (1), Power2EMC, trustAE, DigiTain, Prozessabluftanlage Hamburg, Nordwerk- Geb. 25 LK 5 -8 Sanierung inkl. WRG Berlin, EE Schaltschrankkühlgeräte Sifi, Ablüftermotoren Rastatt, Flächenkühlung Sifi Geb. 20, Wärmepumpe KTL - Bodywasher, Catena-X PKW, LiBinfinity, Werk 4.0, RoX, EnEffNet PKW, SofDCar (2), iGreta (03EI6051B), HV-MELABAT (01MV22009D)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 13560004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ola Källenius",
+"funktion": "Vorsitzender des Vorstands der Mercedes-Benz Group AG",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002034/86000",
+"stand": "2026-09-18"
+}
+},
+{
+"name": "Jörg Burzer",
+"funktion": "Vorstandsmitglied der Mercedes-Benz Group AG. Chief Technology Officer, Entwicklung & Einkauf",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002034/86000",
+"stand": "2026-09-18"
+}
+},
+{
+"name": "Olaf Schick",
+"funktion": "Vorstandsmitglied der Mercedes-Benz Group AG. Integrität, Governance & Nachhaltigkeit",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002034/86000",
+"stand": "2026-09-18"
+}
+},
+{
+"name": "Britta Seeger",
+"funktion": "Vorstandsmitglied der Mercedes-Benz Group AG. Personal und Arbeitsdirektorin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002034/86000",
+"stand": "2026-09-18"
+}
+},
+{
+"name": "Michael Schiebe",
+"funktion": "Vorstandsmitglied der Mercedes-Benz Group AG. Produktion, Qualität & Supply Chain Management",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002034/86000",
+"stand": "2026-09-18"
+}
+},
+{
+"name": "Mathias Geisen",
+"funktion": "Vorstandsmitglied der Mercedes-Benz Group AG. Vertrieb",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002034/86000",
+"stand": "2026-09-18"
+}
+},
+{
+"name": "Oliver Thöne",
+"funktion": "Vorstandsmitglied der Mercedes-Benz Group AG. Greater China",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002034/86000",
+"stand": "2026-09-18"
+}
+},
+{
+"name": "Harald Wilhelm",
+"funktion": "Vorstandsmitglied der Mercedes-Benz Group AG. Finanzen & Controlling",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002034/86000",
+"stand": "2026-09-18"
+}
+},
+{
+"name": "Wolfgang Bartels",
+"funktion": "Vice President & Group General Counsel",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002034/86000",
+"stand": "2026-09-18"
+}
+},
+{
+"name": "Eckart von Klaeden",
+"funktion": "Vice President & Head of External Affairs",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002034/86000",
+"stand": "2026-09-18"
+}
+},
+{
+"name": "Michael Adam",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002034/86000",
+"stand": "2026-09-18"
+}
+},
+{
+"name": "Guido Beermann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002034/86000",
+"stand": "2026-09-18"
+}
+},
+{
+"name": "Hartmut Baur",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002034/86000",
+"stand": "2026-09-18"
+}
+},
+{
+"name": "Nina Diel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2022-02"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002034/86000",
+"stand": "2026-09-18"
+}
+},
+{
+"name": "Thorge Erichsen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002034/86000",
+"stand": "2026-09-18"
+}
+},
+{
+"name": "Alexandra Fürstenberger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002034/86000",
+"stand": "2026-09-18"
+}
+},
+{
+"name": "Katharina Karzel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002034/86000",
+"stand": "2026-09-18"
+}
+},
+{
+"name": "Ergun Lümali",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002034/86000",
+"stand": "2026-09-18"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Nina Diel",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2022-02",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Nina Diel ist laut Lobbyregister Interessenvertretung bei Mercedes-Benz Group AG und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2022-02. Mercedes-Benz Group AG erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Energie; Bundesministerium für Forschung, Technologie und Raumfahrt; Bundesministerium für Digitales und Staatsmodernisierung; Bundesministerium für Verkehr.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Wirtschaft und Energie",
+"Bundesministerium für Forschung, Technologie und Raumfahrt",
+"Bundesministerium für Digitales und Staatsmodernisierung",
+"Bundesministerium für Verkehr"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002034/86000",
+"stand": "2026-09-18"
+}
+],
+"stand": "2026-09-18"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1340001,
+"bis": 1350000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/35/51/843316/mercedes-benz-geschaeftsbericht-2025-inkl-zusammengefasster-lagebericht-mbg-ag-1.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002034/86000",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-18",
+"etikett": "Eigenangabe",
+"version": 40
+}
+]
+}

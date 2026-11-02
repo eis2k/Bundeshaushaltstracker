@@ -1,0 +1,160 @@
+{
+"id": "vamos",
+"name": "Vamos e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Münster",
+"website": "www.vamos-muenster.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004353",
+"eintrag_id": 80984,
+"version": 5,
+"stand": "2026-07-16",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004353/80984",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/d8/34/814287/Lobbyregister-Registereintraege-Detailansicht-R004353-2026-07-16_09-38-01.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Engagement Global",
+"epl": "23",
+"von": 40001,
+"bis": 50000,
+"zweck": "Das Eine Welt-Promotor:innen-Programm unterstützt zahlreiche, meist ehrenamtliche Initiativen und Vereine in ihrem lokalen Einsatz für eine global gerechte und nachhaltige Welt.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Förderprogramm Entwicklungspolitische Bildung (FEB) von Engagement Global",
+"epl": null,
+"von": 40001,
+"bis": 50000,
+"zweck": "Das Projekt \"Münsterland Global Lokal\" : Im Projekt entstehen an mind. 7 Standorten in den Kreisen Coesfeld und Warendorf feste Mitmachstationen, die als außerschulische und bildungstouristische Lernorte genutzt und durch Radrouten miteinander verbunden werden.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 80002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Barbara Issel",
+"funktion": "Stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004353/80984",
+"stand": "2026-07-16"
+}
+},
+{
+"name": "Udo Schlüter",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004353/80984",
+"stand": "2026-07-16"
+}
+},
+{
+"name": "Sören Barge",
+"funktion": "stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004353/80984",
+"stand": "2026-07-16"
+}
+},
+{
+"name": "Lisa-Marie Staljan",
+"funktion": "stellvertretende Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004353/80984",
+"stand": "2026-07-16"
+}
+},
+{
+"name": "Stefan Riese",
+"funktion": "stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004353/80984",
+"stand": "2026-07-16"
+}
+},
+{
+"name": "Stefanie Neumann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004353/80984",
+"stand": "2026-07-16"
+}
+},
+{
+"name": "Tore Süßenguth",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004353/80984",
+"stand": "2026-07-16"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/d3/72/814286/2024-RechenschaftsberichtVamos_Erstellung_Final_01.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004353/80984",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-16",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

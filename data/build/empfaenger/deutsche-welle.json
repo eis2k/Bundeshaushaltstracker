@@ -1,0 +1,178 @@
+{
+"id": "deutsche-welle",
+"name": "Deutsche Welle",
+"art": "oeffentlich",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": true,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "04-0452-68591",
+"text": "Zuschuss an die Rundfunkanstalt Deutsche Welle\"\"",
+"epl": "04",
+"epl_text": "Bundeskanzler und Bundeskanzleramt",
+"werte": {
+"2016": {
+"soll": 285551000,
+"ist": 289916000
+},
+"2017": {
+"soll": 298779000,
+"ist": 298779000
+},
+"2018": {
+"soll": 307933000,
+"ist": 307933000
+},
+"2019": {
+"soll": 315350000,
+"ist": 315350000
+},
+"2020": {
+"soll": 345500000,
+"ist": 348960000
+},
+"2021": {
+"soll": 363500000,
+"ist": 369896400
+},
+"2022": {
+"soll": 380500000,
+"ist": 386924600
+},
+"2023": {
+"soll": 386500000,
+"ist": 391188426
+},
+"2024": {
+"soll": 390550000,
+"ist": 390500000
+},
+"2025": {
+"soll": 405500000,
+"ist": 405500000
+},
+"2026": {
+"soll": 395391000,
+"ist": null
+}
+}
+},
+{
+"id": "04-0405-68591",
+"text": "Zuschuss an die Rundfunkanstalt \"Deutsche Welle\"",
+"epl": "04",
+"epl_text": "Bundeskanzlerin und Bundeskanzleramt",
+"werte": {
+"2015": {
+"soll": 269470000,
+"ist": 269470000
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [
+{
+"typ": "abgeordneter_funktion",
+"person": "Serap Güler",
+"funktion_person": "MdB, CDU/CSU",
+"funktion_beim_empfaenger": "Mitglied des Rundfunkrates (ab 04.06.2025)",
+"kategorie": "Funktionen in Körperschaften und Anstalten des öffentlichen Rechts",
+"abgleich": "exakt",
+"satz": "Serap Güler (MdB, CDU/CSU) ist laut bundestag.de Mitglied des Rundfunkrates (ab 04.06.2025) bei Deutsche Welle.",
+"ausschuesse": [],
+"geld_aus": [],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/G/gueler_serap-1044642",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Helge Lindh",
+"funktion_person": "MdB, SPD",
+"funktion_beim_empfaenger": "Mitglied des Rundfunkrates",
+"kategorie": "Funktionen in Körperschaften und Anstalten des öffentlichen Rechts",
+"abgleich": "exakt",
+"satz": "Helge Lindh (MdB, SPD) ist laut bundestag.de Mitglied des Rundfunkrates bei Deutsche Welle. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Recht und Verbraucherschutz; Innenausschuss; Ausschuss für Arbeit und Soziales; Ausschuss für Kultur und Medien; Unterausschuss Europarecht.",
+"ausschuesse": [
+"Ausschuss für Recht und Verbraucherschutz",
+"Innenausschuss",
+"Ausschuss für Arbeit und Soziales",
+"Ausschuss für Kultur und Medien",
+"Unterausschuss Europarecht"
+],
+"geld_aus": [],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/L/lindh_helge-1045828",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Claudia Roth",
+"funktion_person": "MdB, Bündnis 90 Die Grünen",
+"funktion_beim_empfaenger": "Mitglied des Rundfunkrates, von Amts wegen (bis 07.05.2025)",
+"kategorie": "Funktionen in Körperschaften und Anstalten des öffentlichen Rechts",
+"abgleich": "exakt",
+"satz": "Claudia Roth (MdB, Bündnis 90 Die Grünen) ist laut bundestag.de Mitglied des Rundfunkrates, von Amts wegen (bis 07.05.2025) bei Deutsche Welle. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung; Auswärtiger Ausschuss; Unterausschuss Auswärtige Kultur- und Bildungspolitik.",
+"ausschuesse": [
+"Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+"Auswärtiger Ausschuss",
+"Unterausschuss Auswärtige Kultur- und Bildungspolitik"
+],
+"geld_aus": [],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/R/roth_claudia-1046858",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/G/gueler_serap-1044642",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/L/lindh_helge-1045828",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/R/roth_claudia-1046858",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

@@ -1,0 +1,157 @@
+{
+"id": "dachverband-gemeindepsychiatrie",
+"name": "Dachverband Gemeindepsychiatrie e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Köln",
+"website": "www.dvgp.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001543",
+"eintrag_id": 77666,
+"version": 9,
+"stand": "2026-06-25",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001543/77666",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/8a/0a/775733/Lobbyregister-Registereintraege-Detailansicht-R001543-2026-06-25_11-11-49.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Gesundheit",
+"epl": "15",
+"von": 220001,
+"bis": 230000,
+"zweck": "Projekt OBEON (Orientierungshilfe und Beratung Online in seelischen Belastungssituationen)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Gesundheit",
+"epl": "15",
+"von": 30001,
+"bis": 40000,
+"zweck": "Projekt SuiLeit (Partizipative Entwicklung eines Leitfadens zur Suizidprävention in der Gemeindepsychiatrie)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Gesundheit",
+"epl": "15",
+"von": 10001,
+"bis": 20000,
+"zweck": "Projekt EhrGeP (Ehrenamtliches Engagement in der Gemeindepsychiatrie)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 260003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Simone Eiche",
+"funktion": "Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001543/77666",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Kay Herklotz",
+"funktion": "stellv. Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001543/77666",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Stefan Scheebaum",
+"funktion": "stellv. Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001543/77666",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Sigrid Fuhr",
+"funktion": "Schatzmeisterin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001543/77666",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Martina Heland-Gräf",
+"funktion": "Schriftführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001543/77666",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Nils Greve",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001543/77666",
+"stand": "2026-06-25"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 220001,
+"bis": 230000
+},
+"lobbyausgaben": {
+"von": 410001,
+"bis": 420000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/95/cd/775732/Dachverband-Gemeindepsychiatrie-Pruefersiche-Durchsicht-JA-2024-endg-signiert.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001543/77666",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-25",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

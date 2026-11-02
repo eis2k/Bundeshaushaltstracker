@@ -1,0 +1,596 @@
+{
+"id": "sap",
+"name": "SAP SE",
+"art": "unternehmen",
+"rechtsform": "Europäische Aktiengesellschaft (SE)",
+"sitz": "Walldorf",
+"website": "www.sap.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002180",
+"eintrag_id": 86727,
+"version": 48,
+"stand": "2026-09-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002180/86727",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/2e/16/851518/Lobbyregister-Registereintraege-Detailansicht-R002180-2026-09-30_11-36-16.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 90001,
+"bis": 100000,
+"zweck": "QCHALLenge Das Projekt QCHALLenge löst Optimierungsprobleme aus Produktion und Logistik mittels bestehender Quantum Computing (QC) Hardware. Hierfür werden Algorithmen, Konzepte und Werkzeuge entwickelt, die der Wirtschaft branchenübergreifend und niederschwellig den Einsatz von QC ermöglichen. QCHALLenge setzt hierbei die Domänen Produktion und Logistik aufgrund ihrer Schlüsselrolle für die deutsche Wirtschaft in den Fokus. Daraus ergeben sich Use Cases wie die Optimierung von Lieferketten und Warenlagern sowie der Einsatz von QC in der Automatisierung. Implementierungen erfolgen vorrangig in hybrider (quanten-klassischer) Form und werden so gestaltet, dass potenzielle Kunden schnell von einem Quantenvorteil profitieren, ohne sich mit der Technologie des QC auseinandersetzen zu müssen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 320001,
+"bis": 330000,
+"zweck": "QuCUN In diesem Vernetzungsprojekt wird das “Quantum Computing User Network” (QuCUN) gegründet, das eine zentrale Anlaufstelle für die Anwendung des Quantencomputing in Deutschland etablieren wird. So soll ein Netzwerk und Ökosystem für deutsche Quantencomputing-Anwender und -Anwenderinnen entstehen, das die Einstiegshürden für das Quantencomputing senkt und der deutschen Industrie einen einfachen Zugang zu dieser Technologie ermöglicht. QuCUN will die Fragmentierung der diversen Quantencomputing-Netze und Communities durch einen anwenderorientierten Ansatz verringern und darüber hinaus durch das Lösen von zentralen Problemen die Einstiegshürde für die Anwendenden reduzieren.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 260001,
+"bis": 270000,
+"zweck": "Unter der Leitung von Airbus hat sich das konsortium \"Aerospace-X\" aus 14 Unternehmen und Forschungseinrichtungen gebildet. Die Hauptziele dieses Förderprojekts sind der Aufbau des digitalen Ökosystems für die Luft- und Raumfahrtindustrie, die Sicherstellung digitaler Kontinuität sowie die Ermöglichung von neuen formen der kollaborativen, datenbasierten Wertschöpfung.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 30480001,
+"bis": 30490000,
+"zweck": "ApeiroRA: Das IPCEI-CIS (IPCEI Next Generation Cloud Infrastructure and Services) ist das zentrale digitalpolitische Projekt der Europäischen Union, das die digitale Souveränität Europas stärken soll. Unter deutscher Ratspräsidentschaft ins Leben gerufen, arbeiten aktuell 12 Mitgliedstaaten gemeinsam daran, ein leistungsstarkes und nachhaltiges Multi-Provider Cloud-Edge Kontinuum für Europa aufzubauen. Über 150 Partner sind in Europa an diesem Projekt beteiligt.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "Das Projekt »BiFlex-Industrie« hat sich zum Ziel gesetzt, rückspeisefähige Ladestationen gemäß der aktuell vorhandenen AC- und DC-Technologiekonzepte zu entwickeln, insbesondere die dazugehörigen offenen standardisierten Kommunikationsschnittstellen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 670001,
+"bis": 680000,
+"zweck": "Mit CX-NEXT geht Catena-X in seine nächste Phase über. Nach dem erfolgreichen initialen Aufbau des Catena-X-Systems werden mit CX-NEXT die Kern-Services ausgebaut und die Open Source Community gestärkt.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 100001,
+"bis": 110000,
+"zweck": "DymoBat: Das Ziel ist die Entwicklung eines umfassenden Konzeptes, dass die notwendigen Maßnahmen und Anforderungen zur Nutzung der jeweiligen Flexibilitätsoptionen der LHD beinhaltet und daraus notwendige Handlungsschritte (z. B. Smart Meter Rollout) für die Integration von 5G-Kommunikationstechnik und KI-gestützten-Regelalgorithmen für das zukünftige Energiemanagement der Liegenschaften der LHD definiert. Insbesondere die Integration mobiler Energiespeicher in Form von batterieelektrischen Flottenfahrzeugen in ein intelligentes Energiemanagementsystem wird dabei pilothaft untersucht.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 4390001,
+"bis": 4400000,
+"zweck": "Im Leuchtturmprojekt \"Factory-X\" arbeiten unter der Führung von Siemens und SAP 47 Partner zusammen. Primäres Ziel ist die Schaffung eines offenen und kollaborativen Datenökosystems für Fabrikausrüster und -betreiber auf der Grundlage von Catena-X und Konzepten der Plattform Industrie 4.0. Im Projekt sollen elf Anwendungsfälle des Datenökosystems umgesetzt werden, welche eine besonders hohe Relevanz für die produzierende Industrie haben.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 490001,
+"bis": 500000,
+"zweck": "Im Rahmen des Förderprogramms Semiconductor-X wird der agile Transfer von KI-Knowhow im Umfeld der „Smart Data Innovation Services“ (SDI-S) gefördert.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "Das Forschungsvorhaben Green4EVer zielt auf die Entwicklung und praktische Erprobung eines umfassenden Energie- und Infrastrukturmanagements für Elektromobilität als integrierter Bestandteil moderner Standort- und Liegenschaftsmanagementprozesse ab. Das Projekt wird Geschäftsprozesse Ende-zu-Ende betrachten und entwickeln, verschiedene, heute nur unzureichend integrierte Lösungen vereinen und benötigte neue Softwarekomponenten entwickeln, so dass Bedürfnisse von großen und mittelständischen Unternehmen auch über einzelne Standorte hinweg optimal bedient werden können.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 190001,
+"bis": 200000,
+"zweck": "ChemX: Interoperables Datenökosystem für die chemische Industrie",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 50001,
+"bis": 60000,
+"zweck": "IVAN: Intelligente Verfahren zur Aufdeckung von Software-Hintertüren",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 30001,
+"bis": 40000,
+"zweck": "ReFuMoLab Garching: Das Projekt verfolgt das Ziel, das Mobilitätsverhalten auf dem TUM-Forschungscampus in Garching nachhaltig zu verändern. Durch digitale und physische Interventionen sowie die aktive Einbindung der Campus-Nutzer*innen entwickeln und erproben wir zukunftsfähige, multimodale Mobilitätslösungen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Arbeit und Soziales",
+"epl": "11",
+"von": 70001,
+"bis": 80000,
+"zweck": "QuartaVista ist eines von 17 Projekten, die im Rahmen der \"Initiative Neue Qualität der Arbeit\" (INQA) und der Richtlinie „Zukunftsfähige Unternehmen und Verwaltungen im digitalen Wandel\" (Lern- und Experimentierräume) des Bundesministeriums für Arbeit und Soziales (BMAS) gefördert und von der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (BAuA) fachlich begleitet werden.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 37200014,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christian Klein",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002180/86727",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Thomas Saueressig",
+"funktion": "Chief Customer Officer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002180/86727",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Dominik Asam",
+"funktion": "Finanzvorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002180/86727",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Gina Vargiu-Breuer",
+"funktion": "Chief People Officer und Arbeitsdirektorin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002180/86727",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Muhammad Alam",
+"funktion": "Product & Engineering",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002180/86727",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Sebastian Steinhäuser",
+"funktion": "Chief Operating Officer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002180/86727",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Wolfgang Dierker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002180/86727",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Pablo Mentzinis",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002180/86727",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Karim El Salamoni",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002180/86727",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Alexandra Seemann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002180/86727",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Bernhard Fischer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002180/86727",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Michael Pittelkow",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002180/86727",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Carsten Polenz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002180/86727",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Birgit Neumann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002180/86727",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Corinna Cellarius",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002180/86727",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Nina Straßner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002180/86727",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Mathis Börner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002180/86727",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Gunnar Bender",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002180/86727",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Alexandra Zins",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für eine Fraktion/Gruppe im Deutschen Bundestag",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2024-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002180/86727",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Lukas Klingholz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002180/86727",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Mathias Cellarius",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002180/86727",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Matthias Schubert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002180/86727",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Julia Zicke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002180/86727",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Johannes Reich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002180/86727",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Florian Roth",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002180/86727",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Jens Fuhrberg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002180/86727",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Chantal Austgen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002180/86727",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Mario Brandenburg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_GOVERNMENT",
+"funktion": "Parlamentarische/-r Staatssekretär/-in",
+"stelle": "Bundesregierung",
+"beendet": true,
+"ende": "2024-11"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002180/86727",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Sarah Preiss",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002180/86727",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Nicole Manger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Referentin",
+"stelle": "Auswärtiges Amt (AA) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2025-10"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002180/86727",
+"stand": "2026-09-30"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Alexandra Zins",
+"funktion_person": "Funktion für eine Fraktion/Gruppe im Deutschen Bundestag, Bundestag, bis 2024-03",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Alexandra Zins ist laut Lobbyregister Interessenvertretung bei SAP SE und hatte zuvor eine öffentliche Funktion: Funktion für eine Fraktion/Gruppe im Deutschen Bundestag, Bundestag, bis 2024-03. SAP SE erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Energie; Bundesministerium für Forschung, Technologie und Raumfahrt; Bundesministerium für Arbeit und Soziales.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Wirtschaft und Energie",
+"Bundesministerium für Forschung, Technologie und Raumfahrt",
+"Bundesministerium für Arbeit und Soziales"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002180/86727",
+"stand": "2026-09-30"
+}
+],
+"stand": "2026-09-30"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Mario Brandenburg",
+"funktion_person": "Parlamentarische/-r Staatssekretär/-in, Bundesregierung, bis 2024-11",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Mario Brandenburg ist laut Lobbyregister Interessenvertretung bei SAP SE und hatte zuvor eine öffentliche Funktion: Parlamentarische/-r Staatssekretär/-in, Bundesregierung, bis 2024-11. SAP SE erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Energie; Bundesministerium für Forschung, Technologie und Raumfahrt; Bundesministerium für Arbeit und Soziales.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Wirtschaft und Energie",
+"Bundesministerium für Forschung, Technologie und Raumfahrt",
+"Bundesministerium für Arbeit und Soziales"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002180/86727",
+"stand": "2026-09-30"
+}
+],
+"stand": "2026-09-30"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Nicole Manger",
+"funktion_person": "Referentin, Auswärtiges Amt (AA) oder dessen Geschäftsbereich, bis 2025-10",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Nicole Manger ist laut Lobbyregister Interessenvertretung bei SAP SE und hatte zuvor eine öffentliche Funktion: Referentin, Auswärtiges Amt (AA) oder dessen Geschäftsbereich, bis 2025-10. SAP SE erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Energie; Bundesministerium für Forschung, Technologie und Raumfahrt; Bundesministerium für Arbeit und Soziales.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Wirtschaft und Energie",
+"Bundesministerium für Forschung, Technologie und Raumfahrt",
+"Bundesministerium für Arbeit und Soziales"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002180/86727",
+"stand": "2026-09-30"
+}
+],
+"stand": "2026-09-30"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1590001,
+"bis": 1600000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/15/a7/851514/SAP-Integrated-Report-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002180/86727",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-30",
+"etikett": "Eigenangabe",
+"version": 48
+}
+]
+}

@@ -1,0 +1,151 @@
+{
+"id": "buendnis-buergerenergie",
+"name": "Bündnis Bürgerenergie",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://www.buendnis-buergerenergie.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001555",
+"eintrag_id": 86811,
+"version": 30,
+"stand": "2026-09-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001555/86811",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/72/97/853137/Lobbyregister-Registereintraege-Detailansicht-R001555-2026-09-30_17-27-57.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 70001,
+"bis": 80000,
+"zweck": "Förderprojektmittel für verschiedene Projekte zu den Themen Partizipation und bürgerschaftliches Engagement.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 170001,
+"bis": 180000,
+"zweck": "Projektförderungen im Rahmen der Förderrichtlinie DATIpilot für Innovationen in der Bürgerenergie",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 240002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Malte Zieher",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001555/86811",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Lydia Takit",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001555/86811",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Harald Uphoff",
+"funktion": "Vorstand Politik",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001555/86811",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Valérie Lange",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001555/86811",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Jette Banning",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001555/86811",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Katja Deborah Bammel Ferreira",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001555/86811",
+"stand": "2026-09-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 120001,
+"bis": 130000
+},
+"mitgliedsbeitraege": {
+"von": 170001,
+"bis": 180000
+},
+"lobbyausgaben": {
+"von": 160001,
+"bis": 170000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/c0/d7/853134/JA-2025_kurz.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001555/86811",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-30",
+"etikett": "Eigenangabe",
+"version": 30
+}
+]
+}

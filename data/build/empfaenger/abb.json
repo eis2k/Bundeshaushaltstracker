@@ -1,0 +1,181 @@
+{
+"id": "abb",
+"name": "ABB AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Mannheim",
+"website": "abb.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001498",
+"eintrag_id": 78953,
+"version": 17,
+"stand": "2026-06-22",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001498/78953",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c0/26/766884/Lobbyregister-Registereintraege-Detailansicht-R001498-2026-06-22_08-37-03.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 70001,
+"bis": 80000,
+"zweck": "Projektname: Explain - EXPLanatory interactive Artificial intelligence for INdustry Projektträger: DLR",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministeriums für Bildung und Forschung",
+"epl": null,
+"von": 300001,
+"bis": 310000,
+"zweck": "Projektname: SDM4FZI - Software-defined Manufacturing für die Fahrzeug- und Zulieferindustrie Projektträger: VDI",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministeriums für Bildung und Forschung",
+"epl": null,
+"von": 150001,
+"bis": 160000,
+"zweck": "Projektname: Forest - Framework for Resource, Energy, Sustainability Treatment in Paper Production Projektträger: PTJ",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministeriums für Bildung und Forschung",
+"epl": null,
+"von": 280001,
+"bis": 290000,
+"zweck": "Projektname: AProSys - KI-gestützte Assistenz- und Prognosesysteme für den nachhaltigen Einsatz in der intelligenten Verteilnetztechnik Projektträger: PTJ",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministeriums für Bildung und Forschung",
+"epl": null,
+"von": 340001,
+"bis": 350000,
+"zweck": "Projektname: GreEner-Tech - Nachhaltigere Schaltanlagen für das Mittelspannungsnetz Projektträger: PTJ",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 80001,
+"bis": 90000,
+"zweck": "Projektname: OpenSCALING - Open standards for SCALable virtual engineerING and operation Projektträger: DLR",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministeriums für Bildung und Forschung",
+"epl": null,
+"von": 360001,
+"bis": 370000,
+"zweck": "Projektname: Zahlen - Zukünftiges Automatisiertes Hierarchisches und Lokales EnergiemaNagement Projektträger: PTJ",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 1290001,
+"bis": 1300000,
+"zweck": "Projektname: RoX - Digitales Ökosystem für KI-basierte Robotik Projektträger: VDI TZ",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 70001,
+"bis": 80000,
+"zweck": "Projektname: H2GIGA - Elektrolyseure zur Wasserstoff-Herstellung in die Serienfertigung Projektträger: FZJ",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 2940009,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Rosa Meckseper",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001498/78953",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Alexander Zumkeller",
+"funktion": "Vorstand und Arbeitsdirektor",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001498/78953",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Nils Daldrup",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001498/78953",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Kai Garrels",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001498/78953",
+"stand": "2026-06-22"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 190001,
+"bis": 200000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/8d/55/766882/abb_ag-bericht_2025_final.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001498/78953",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-22",
+"etikett": "Eigenangabe",
+"version": 17
+}
+]
+}

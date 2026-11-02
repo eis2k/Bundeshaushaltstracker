@@ -1,0 +1,118 @@
+{
+"id": "don-bosco-mondo",
+"name": "Don Bosco Mondo e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bonn",
+"website": "www.don-bosco-mondo.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005869",
+"eintrag_id": 86870,
+"version": 10,
+"stand": "2026-10-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005869/86870",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/82/42/854913/Lobbyregister-Registereintraege-Detailansicht-R005869-2026-10-01_14-41-28.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 420001,
+"bis": 430000,
+"zweck": "Projektförderung aus dem Titel Sozialstrukturförderung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Engagement Global gGmbH",
+"epl": "23",
+"von": 6600001,
+"bis": 6610000,
+"zweck": "Projektförderung aus dem Titel Private Träger",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 7020002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Bettina Ruoff",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005869/86870",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Silvia Cromm",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005869/86870",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Roland Strux",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005869/86870",
+"stand": "2026-10-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 3960001,
+"bis": 3970000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ba/cd/854912/2025_Jahresbericht-Don-Bosco-Mondo.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005869/86870",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-01",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

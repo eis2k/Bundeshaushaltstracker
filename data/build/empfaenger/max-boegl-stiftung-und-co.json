@@ -1,0 +1,188 @@
+{
+"id": "max-boegl-stiftung-und-co",
+"name": "Max Bögl Stiftung & Co. KG",
+"art": "unternehmen",
+"rechtsform": "Sonstige Personengesellschaft",
+"sitz": "Neumarkt i. d. OPf.",
+"website": "www.max-boegl.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006460",
+"eintrag_id": 88097,
+"version": 12,
+"stand": "2026-10-28",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006460/88097",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/5f/03/866195/Lobbyregister-Registereintraege-Detailansicht-R006460-2026-10-28_11-26-45.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bund",
+"epl": "60",
+"von": 60001,
+"bis": 70000,
+"zweck": "Forschungszulage als Steuererleichterung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bund",
+"epl": "60",
+"von": 40001,
+"bis": 50000,
+"zweck": "Forschungszulage als Steuererleichterung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bund",
+"epl": "60",
+"von": 10001,
+"bis": 20000,
+"zweck": "Forschungszulage als Steuererleichterung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 110003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Michael Bögl",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006460/88097",
+"stand": "2026-10-28"
+}
+},
+{
+"name": "Stefan Bögl",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006460/88097",
+"stand": "2026-10-28"
+}
+},
+{
+"name": "Johann Braun",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006460/88097",
+"stand": "2026-10-28"
+}
+},
+{
+"name": "Martin Holfelder",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006460/88097",
+"stand": "2026-10-28"
+}
+},
+{
+"name": "Markus Richthammer",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006460/88097",
+"stand": "2026-10-28"
+}
+},
+{
+"name": "Andreas Rau",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006460/88097",
+"stand": "2026-10-28"
+}
+},
+{
+"name": "Alexander Nolte-Ernsting",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006460/88097",
+"stand": "2026-10-28"
+}
+},
+{
+"name": "Ilona Koch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006460/88097",
+"stand": "2026-10-28"
+}
+},
+{
+"name": "Alexander Stork",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006460/88097",
+"stand": "2026-10-28"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 40001,
+"bis": 50000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/5d/b0/866194/Konzernabschluss-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006460/88097",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-28",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

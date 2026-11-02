@@ -1,0 +1,87 @@
+{
+"id": "the-royal-institute-of-international-affairs-chatham-house",
+"name": "The Royal Institute of International Affairs Chatham House",
+"art": "verein_stiftung",
+"rechtsform": "Andere Rechtsform nach anderem als deutschem Recht",
+"sitz": "London SW1Y 4LE",
+"website": "https://www.chathamhouse.org/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006070",
+"eintrag_id": 71087,
+"version": 5,
+"stand": "2026-01-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006070/71087",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/71/6b/687726/Lobbyregister-Registereintraege-Detailansicht-R006070-2026-01-30_15-50-03.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+"epl": "23",
+"von": 10001,
+"bis": 20000,
+"zweck": "Research project funding.",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+"epl": "23",
+"von": 10001,
+"bis": 20000,
+"zweck": "Research project funding.",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 20002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Simon Flanagan",
+"funktion": "Chief Operating Officer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006070/71087",
+"stand": "2026-01-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 1400001,
+"bis": 1410000
+},
+"mitgliedsbeitraege": {
+"von": 3850001,
+"bis": 3860000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": null
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006070/71087",
+"abgerufen": "2026-11-02",
+"stand": "2026-01-30",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

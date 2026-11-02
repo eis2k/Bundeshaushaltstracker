@@ -1,0 +1,104 @@
+{
+"id": "diekunstbaustelle",
+"name": "dieKunstBauStelle e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Landsberg am Lech",
+"website": "https://diekunstbaustelle.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R008055",
+"eintrag_id": 82785,
+"version": 4,
+"stand": "2026-07-08",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008055/82785",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/e3/fe/809356/Lobbyregister-Registereintraege-Detailansicht-R008055-2026-07-08_21-50-06.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Stiftung Erinnerung, Verantwortung und Zukunft (EVZ)",
+"epl": null,
+"von": 340001,
+"bis": 350000,
+"zweck": "Projektförderung im Rahmen des Programms Bildungsagenda NS-Unrecht. Projekt Digitaler Atlas NS-Verbrechen – NaziCrimesAtlas.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Stiftung für Engagement und Ehrenamt (DSEE)",
+"epl": null,
+"von": 90001,
+"bis": 100000,
+"zweck": "Projektförderung: NS-Erinnerungsorte in Bayern in einer App",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 430002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Wolfgang Hauck",
+"funktion": "1. Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008055/82785",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Conny Kurz",
+"funktion": "2. Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008055/82785",
+"stand": "2026-07-08"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 20001,
+"bis": 30000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/b9/04/809355/2024-dieKunstBauStelle-Jahresabschluss.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008055/82785",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-08",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

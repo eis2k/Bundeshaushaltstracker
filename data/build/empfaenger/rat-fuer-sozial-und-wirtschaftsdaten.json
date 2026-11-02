@@ -1,0 +1,175 @@
+{
+"id": "rat-fuer-sozial-und-wirtschaftsdaten",
+"name": "Rat für Sozial- und Wirtschaftsdaten (RatSWD)",
+"art": "verein_stiftung",
+"rechtsform": "Netzwerk, Plattform oder andere Form kollektiver Tätigkeit",
+"sitz": "Berlin",
+"website": "www.ratswd.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005417",
+"eintrag_id": 86906,
+"version": 12,
+"stand": "2026-10-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005417/86906",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/0e/10/854918/Lobbyregister-Registereintraege-Detailansicht-R005417-2026-10-01_14-46-04.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Deutsche Forschungsgemeinschaft",
+"epl": null,
+"von": 880001,
+"bis": 890000,
+"zweck": "Die Zuwendung erfolgt an das Wissenschaftszentrum Berlin für Sozialforschung gGmbH (WZB) als Partnerinstitution im Konsortium für die Sozial-, Bildungs-, Verhaltens- und Wirtschaftswissenschaften (KonsortSWD) als eines der DFG-Konsortien im Rahmen der Nationalen Forschungsdateninfrastruktur (NFDI). Das WZB übernimmt im Rahmen des Konsortiums die Koordination des Bereichs Community Participation, hierzu gehört auch die Koordination des RatSWD durch dessen Geschäftsstelle, die am WZB angesiedelt ist.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 880001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Daniel Vorgrimler",
+"funktion": "stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Abteilungsleiter",
+"stelle": "Bundesministerium des Innern und für Heimat (BMI) (20. WP) oder dessen Geschäftsbereich",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005417/86906",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Lisa Kühn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Referentin",
+"stelle": "Auswärtiges Amt (AA) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2022-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005417/86906",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Larissa Obst",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005417/86906",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Anna Fräßdorf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005417/86906",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "David Prinz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005417/86906",
+"stand": "2026-10-01"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Daniel Vorgrimler",
+"funktion_person": "Abteilungsleiter, Bundesministerium des Innern und für Heimat (BMI) (20. WP) oder dessen Geschäftsbereich",
+"funktion_beim_empfaenger": "stellvertretender Vorsitzender",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Daniel Vorgrimler ist laut Lobbyregister stellvertretender Vorsitzender bei Rat für Sozial- und Wirtschaftsdaten (RatSWD) und hatte zuvor eine öffentliche Funktion: Abteilungsleiter, Bundesministerium des Innern und für Heimat (BMI) (20. WP) oder dessen Geschäftsbereich. Rat für Sozial- und Wirtschaftsdaten (RatSWD) erhielt laut Lobbyregister Mittel von: Deutsche Forschungsgemeinschaft.",
+"ausschuesse": [],
+"geld_aus": [
+"Deutsche Forschungsgemeinschaft"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005417/86906",
+"stand": "2026-10-01"
+}
+],
+"stand": "2026-10-01"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Lisa Kühn",
+"funktion_person": "Referentin, Auswärtiges Amt (AA) oder dessen Geschäftsbereich, bis 2022-03",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Lisa Kühn ist laut Lobbyregister Interessenvertretung bei Rat für Sozial- und Wirtschaftsdaten (RatSWD) und hatte zuvor eine öffentliche Funktion: Referentin, Auswärtiges Amt (AA) oder dessen Geschäftsbereich, bis 2022-03. Rat für Sozial- und Wirtschaftsdaten (RatSWD) erhielt laut Lobbyregister Mittel von: Deutsche Forschungsgemeinschaft.",
+"ausschuesse": [],
+"geld_aus": [
+"Deutsche Forschungsgemeinschaft"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005417/86906",
+"stand": "2026-10-01"
+}
+],
+"stand": "2026-10-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 120001,
+"bis": 130000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": null
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005417/86906",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-01",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

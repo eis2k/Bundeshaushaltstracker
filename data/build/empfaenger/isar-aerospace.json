@@ -1,0 +1,154 @@
+{
+"id": "isar-aerospace",
+"name": "Isar Aerospace SE",
+"art": "unternehmen",
+"rechtsform": "Europäische Aktiengesellschaft (SE)",
+"sitz": "Ottobrunn",
+"website": "www.isaraerospace.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006558",
+"eintrag_id": 80245,
+"version": 6,
+"stand": "2026-07-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006558/80245",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/bb/df/819405/Lobbyregister-Registereintraege-Detailansicht-R006558-2026-07-24_09-38-19.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Europäische Raumfahrtagentur (ESA)",
+"epl": null,
+"von": 33020001,
+"bis": 33030000,
+"zweck": "ESA BOOST! funding project - CCN5, CCN6, CCN7, CCN8",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK - Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 600001,
+"bis": 610000,
+"zweck": "KAFKa - IPRON-4: Einsatz von künstlicher Intelligenz in der additiven Fertigung in der Luft- und Raumfahrt zur Qualitätssicherung und Reduzierung fehlerhafter Bauteile",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Europäische Raumfahrtagentur (ESA)",
+"epl": null,
+"von": 40001,
+"bis": 50000,
+"zweck": "ESA Marketplace Scale-Up",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Europäische Weltraumagentur (ESA)",
+"epl": null,
+"von": 220001,
+"bis": 230000,
+"zweck": "ESA Best MS1 (partial payment)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 33880004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Daniel Metzler",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006558/80245",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Josef Fleischmann",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006558/80245",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Josef Wiedemann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006558/80245",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Andronike Amponsah",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006558/80245",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Stella Guillen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006558/80245",
+"stand": "2026-07-24"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 190001,
+"bis": 200000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/55/80/819404/ISAR_Aerospace_Testatsexemplar_KAP_2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006558/80245",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-24",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

@@ -1,0 +1,170 @@
+{
+"id": "das-demographie-netzwerk",
+"name": "Das Demographie Netzwerk e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://demographie-netzwerk.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007135",
+"eintrag_id": 79026,
+"version": 3,
+"stand": "2026-06-22",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007135/79026",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/8b/29/767835/Lobbyregister-Registereintraege-Detailansicht-R007135-2026-06-22_12-24-41.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Arbeit und Soziales",
+"epl": "11",
+"von": 30001,
+"bis": 40000,
+"zweck": "Projekt \"ORBiT\", gefördert durch das Bundesministerium für Arbeit und Soziales (BMAS) und umgesetzt im Kontext des Programms \"Arbeit: Sicher und gesund\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Arbeit und Soziales über Berufsforschungs und Beratungsinstitut für interdisziplinäre Technikgestaltung BiT",
+"epl": "11",
+"von": 20001,
+"bis": 30000,
+"zweck": "Projekt NW4KW (New Work for Keyworker)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 50002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Martina Schmeink",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007135/79026",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Niels Reith",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007135/79026",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Birthe Kretschmer",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007135/79026",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Michael Vogel",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007135/79026",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Christine Vollerthun",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007135/79026",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Franz Donner",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007135/79026",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Reiner Bieck",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007135/79026",
+"stand": "2026-06-22"
+}
+},
+{
+"name": "Stefanie Hansen-Heidelk",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007135/79026",
+"stand": "2026-06-22"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 230001,
+"bis": 240000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/69/8c/767833/30953-ddn-netzwerk-eV_JAE-2025_ENTW.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007135/79026",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-22",
+"etikett": "Eigenangabe",
+"version": 3
+}
+]
+}

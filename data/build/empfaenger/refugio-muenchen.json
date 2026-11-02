@@ -1,0 +1,142 @@
+{
+"id": "refugio-muenchen",
+"name": "Refugio München",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "München",
+"website": "https://www.refugio-muenchen.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006131",
+"eintrag_id": 65449,
+"version": 6,
+"stand": "2026-05-22",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006131/65449",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c7/a7/741217/Lobbyregister-Registereintraege-Detailansicht-R006131-2026-05-22_13-52-49.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesmittel über den Paritätischen Gesamtverband",
+"epl": null,
+"von": 480001,
+"bis": 490000,
+"zweck": "Asylsozialberatung und Psychotherapie für Asylsuchende",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 480001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jürgen Soyer",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006131/65449",
+"stand": "2026-05-22"
+}
+},
+{
+"name": "Annette Hartmann",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006131/65449",
+"stand": "2026-05-22"
+}
+},
+{
+"name": "Markus Weinkopf",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006131/65449",
+"stand": "2026-05-22"
+}
+},
+{
+"name": "Hannes Neugebauer",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006131/65449",
+"stand": "2026-05-22"
+}
+},
+{
+"name": "Angelika Pilz-Strasser",
+"funktion": "Vorständin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006131/65449",
+"stand": "2026-05-22"
+}
+},
+{
+"name": "Heike Martin",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006131/65449",
+"stand": "2026-05-22"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Sonstiges",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 1440001,
+"bis": 1450000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/21/ac/741216/Jahresbericht-2025-Finanzen.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006131/65449",
+"abgerufen": "2026-11-02",
+"stand": "2026-05-22",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

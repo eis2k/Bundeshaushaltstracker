@@ -1,0 +1,120 @@
+{
+"id": "droniq",
+"name": "Droniq ",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Frankfurt",
+"website": "www.droniq.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006474",
+"eintrag_id": 81660,
+"version": 7,
+"stand": "2026-07-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006474/81660",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/da/b0/799043/Lobbyregister-Registereintraege-Detailansicht-R006474-2026-07-01_11-45-39.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMDV",
+"epl": "12",
+"von": 40001,
+"bis": 50000,
+"zweck": "Projekt EULE - Drohnenprozesse im Gesundheitswesen automatisieren",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "M-Fund",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "SkyTrackPlus - Integration Drohnen in Kontrollzone Flughafen Mönchengladbach",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMDV",
+"epl": "12",
+"von": 10001,
+"bis": 20000,
+"zweck": "Projekt U-Space R3 - Konzeptionierung eines U-Spaces über mehrere Städte in NRW",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "MFUND",
+"epl": null,
+"von": 160001,
+"bis": 170000,
+"zweck": "Droniq stellt UTM Lizenzen für die Durchführung der Demonstrationsflüge bereit und entwickelt und integriert Voxelkarten in das UTM.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 230004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ralph Schepp",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006474/81660",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Jan-Eric Putze",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006474/81660",
+"stand": "2026-07-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/f7/0d/799040/JA-2024-Droniq-GmbH.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006474/81660",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-01",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

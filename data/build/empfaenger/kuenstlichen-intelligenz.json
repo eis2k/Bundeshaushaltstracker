@@ -1,0 +1,60 @@
+{
+"id": "kuenstlichen-intelligenz",
+"name": "künstlichen Intelligenz",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "16-1601-68602",
+"text": "Förderung der künstlichen Intelligenz",
+"epl": "16",
+"epl_text": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+"werte": {
+"2021": {
+"soll": 21250000,
+"ist": 12149664
+},
+"2022": {
+"soll": 34800000,
+"ist": 22318931
+},
+"2023": {
+"soll": 36500000,
+"ist": 23470197
+},
+"2024": {
+"soll": 30000000,
+"ist": 27563147
+},
+"2025": {
+"soll": 18104000,
+"ist": 16495226
+},
+"2026": {
+"soll": 4000000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

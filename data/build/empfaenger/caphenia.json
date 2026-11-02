@@ -1,0 +1,85 @@
+{
+"id": "caphenia",
+"name": "CAPHENIA GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Bernau a. Chiemsee",
+"website": "www.caphenia.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003009",
+"eintrag_id": 78533,
+"version": 8,
+"stand": "2026-06-11",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003009/78533",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/a5/fb/755929/Lobbyregister-Registereintraege-Detailansicht-R003009-2026-06-11_12-33-27.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Projektträger Jülich Forschungszentrum Jülich GmbH",
+"epl": "30",
+"von": 1150001,
+"bis": 1160000,
+"zweck": "Zuwendung aus dem Sondervermögen Klima- und Transformationsfonds (KTF), Einzelplan 60, Kapitel 6092, Titel 89203, Haushaltsjahr 2022, für das Vorhaben: „Verbundvorhaben reTURN - Recycling organischer Reststoffe und CO2 zu Kraftstoffen - Teilprojekt 1: Planung, Bau, Errichtung, Inbetriebnahme und Optimierung einer PBR-Testanlage sowie anschließende Veıwertung“",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1150001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Mark Misselhorn",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003009/78533",
+"stand": "2026-06-11"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 30001,
+"bis": 40000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/28/9b/755928/CAPHENIA-GmbH-Jahresabschluss-2024-1.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003009/78533",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-11",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

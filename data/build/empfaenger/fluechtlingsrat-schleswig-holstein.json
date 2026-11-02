@@ -1,0 +1,141 @@
+{
+"id": "fluechtlingsrat-schleswig-holstein",
+"name": "Flüchtlingsrat Schleswig-Holstein e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Kiel",
+"website": "www.frsh.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003763",
+"eintrag_id": 83067,
+"version": 5,
+"stand": "2026-07-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003763/83067",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/66/ae/819902/Lobbyregister-Registereintraege-Detailansicht-R003763-2026-07-24_15-33-05.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMAS/BAMF/EU",
+"epl": "11",
+"von": 200001,
+"bis": 210000,
+"zweck": "Bundesanteil der Bundes/ESF+ Förderung des Regionalen Integrationsnetzwerks Schleswig-Holstein",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 200001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Leonie Melk",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003763/83067",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Michael Wulf",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003763/83067",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Maria Brinkmann",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003763/83067",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Ghader Al-Holu",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003763/83067",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Heino Schomaker",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003763/83067",
+"stand": "2026-07-24"
+}
+},
+{
+"name": "Anne-Katrin Lother",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003763/83067",
+"stand": "2026-07-24"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 150001,
+"bis": 160000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/56/2a/819901/Abschluss_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003763/83067",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-24",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

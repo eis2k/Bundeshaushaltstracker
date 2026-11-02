@@ -1,0 +1,257 @@
+{
+"id": "deutsches-forschungszentrum-fuer-kuenstliche-intelligenz",
+"name": "Deutsches Forschungszentrum für Künstliche Intelligenz GmbH",
+"art": "forschung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Kaiserslautern",
+"website": "www.dfki.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001764",
+"eintrag_id": 79021,
+"version": 13,
+"stand": "2026-06-17",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001764/79021",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/b2/20/762378/Lobbyregister-Registereintraege-Detailansicht-R001764-2026-06-17_16-35-57.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 25520001,
+"bis": 25530000,
+"zweck": "Projektförderung in Form von Einzelzuwendungen auf der Grundlage von Einzelanträgen zu den Bedingungen der gängigen Nebenbestimmungen wie bspw. NKBF98, NKBF2017",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 9060001,
+"bis": 9070000,
+"zweck": "Projektförderung in Form von Einzelzuwendungen auf der Grundlage von Einzelanträgen zu den Bedingungen der gängigen Nebenbestimmungen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Arbeit und Soziales (BMAS)",
+"epl": "11",
+"von": 720001,
+"bis": 730000,
+"zweck": "Projektförderung in Form von Einzelzuwendungen auf der Grundlage von Einzelanträgen zu den Bedingungen der gängigen Nebenbestimmungen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH)",
+"epl": "10",
+"von": 890001,
+"bis": 900000,
+"zweck": "Projektförderung in Form von Einzelzuwendungen auf der Grundlage von Einzelanträgen zu den Bedingungen der gängigen Nebenbestimmungen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN)",
+"epl": "16",
+"von": 2840001,
+"bis": 2850000,
+"zweck": "Projektförderung in Form von Einzelzuwendungen auf der Grundlage von Einzelanträgen zu den Bedingungen der gängigen Nebenbestimmungen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 3700001,
+"bis": 3710000,
+"zweck": "Projektförderung in Form von Einzelzuwendungen auf der Grundlage von Einzelanträgen zu den Bedingungen der gängigen Nebenbestimmungen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Forschungsgemeinschaft e. V. (DFG)",
+"epl": null,
+"von": 650001,
+"bis": 660000,
+"zweck": "Projektförderung in Form von Einzelzuwendungen zu den Förderbedingungen der DFG",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium des Innern (BMI)",
+"epl": "06",
+"von": 150001,
+"bis": 160000,
+"zweck": "Projektförderung in Form von Einzelzuwendungen auf der Grundlage von Einzelanträgen zu den Bedingungen der gängigen Nebenbestimmungen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesanstalt Technisches Hilfswerk",
+"epl": null,
+"von": 240001,
+"bis": 250000,
+"zweck": "Zuwendung als Folge eines Einzelantrages zur Durchführung eines Forschungsprojektes",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Gesundheit (BMG)",
+"epl": "15",
+"von": 80001,
+"bis": 90000,
+"zweck": "Projektförderung in Form von Einzelzuwendungen auf der Grundlage von Einzelanträgen zu den Bedingungen der gängigen Nebenbestimmungen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Gemeinsamer Bundesausschuss",
+"epl": null,
+"von": 290001,
+"bis": 300000,
+"zweck": "Zuwendung auf Grund von Projektanträgen zur Förderung der Forschung auf dem Gebiet der Künstlichen Intelligenz",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Sicherheit in der Informationstechnik (BSI)",
+"epl": "06",
+"von": 110001,
+"bis": 120000,
+"zweck": "Projektförderung in Form von Einzelzuwendungen auf der Grundlage von Einzelanträgen zu den Bedingungen der gängigen Nebenbestimmungen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen (BMWSB)",
+"epl": "25",
+"von": 70001,
+"bis": 80000,
+"zweck": "Projektförderung in Form von Einzelzuwendungen auf der Grundlage von Einzelanträgen zu den Bedingungen der gängigen Nebenbestimmungen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Bundesstiftung Umwelt (DBU)",
+"epl": null,
+"von": 40001,
+"bis": 50000,
+"zweck": "Projektförderung in Form von Einzelzuwendungen auf der Grundlage von Einzelanträgen zu den Bedingungen der gängigen Nebenbestimmungen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 44360014,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Antonio Krüger",
+"funktion": "Wissenschaftlich-technischer Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001764/79021",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Helmut Ditzer",
+"funktion": "Kaufmännischer Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001764/79021",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Wolfgang Wahlster",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001764/79021",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Andreas Dengel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001764/79021",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Frank Kirchner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001764/79021",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Philipp Slusallek",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001764/79021",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Daniel Sonntag",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001764/79021",
+"stand": "2026-06-17"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 350001,
+"bis": 360000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/23/1f/762376/Jahresabschluss-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001764/79021",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-17",
+"etikett": "Eigenangabe",
+"version": 13
+}
+]
+}

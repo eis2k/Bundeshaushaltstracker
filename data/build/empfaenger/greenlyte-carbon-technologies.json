@@ -1,0 +1,115 @@
+{
+"id": "greenlyte-carbon-technologies",
+"name": "Greenlyte Carbon Technologies GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Essen",
+"website": "www.greenlyte.tech",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007463",
+"eintrag_id": 83847,
+"version": 4,
+"stand": "2026-07-28",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007463/83847",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ec/e7/821427/Lobbyregister-Registereintraege-Detailansicht-R007463-2026-07-28_13-42-57.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 200001,
+"bis": 210000,
+"zweck": "„SupplHyInno Rhineland: Hydrogen Evolution Coupled with DAC (HyInnoHECC) - B“",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "SPRIND GmbH, Bundesagentur für Sprunginnovationen",
+"epl": null,
+"von": 190001,
+"bis": 200000,
+"zweck": "Mit diesem Vertrag beauftragt die SPRIND die Auftragnehmerin mit der Validierung der Erprobung der Reaktionskristallisation von Bicarbonat im Direct-Air-Capture-Prozess zur langfristigen Erreichung eines Preises von 100 €/tCO2. .",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 390002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Florian Hildebrand",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007463/83847",
+"stand": "2026-07-28"
+}
+},
+{
+"name": "Niklas Friederichsen",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007463/83847",
+"stand": "2026-07-28"
+}
+},
+{
+"name": "Martin Schmickler",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007463/83847",
+"stand": "2026-07-28"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/02/e4/821426/JA_2025_Greenlyte_EN.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007463/83847",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-28",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

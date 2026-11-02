@@ -1,0 +1,107 @@
+{
+"id": "aussenhandelsvereinigung-des-deutschen-einzelhandels",
+"name": "Außenhandelsvereinigung des deutschen Einzelhandels e.V. (AVE)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://www.ave-international.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003288",
+"eintrag_id": 72504,
+"version": 9,
+"stand": "2026-06-26",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003288/72504",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/b3/fd/779057/Lobbyregister-Registereintraege-Detailansicht-R003288-2026-06-26_12-42-50.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+"epl": "23",
+"von": 280001,
+"bis": 290000,
+"zweck": "Zuschuss seitens des BMZ für die fachliche Steuerung der AVE im Rahmen der Kammer- und Verbandspartnerschaft (KVP) zwischen der Außenhandelsvereinigung des Deutschen Einzelhandels (AVE) und der Association of Ghana Apparel Manufacturers (AGAM) in Ghana",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 280001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Tobias Wollermann",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003288/72504",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Stefan Genth",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003288/72504",
+"stand": "2026-06-26"
+}
+},
+{
+"name": "Stephan Tromp",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003288/72504",
+"stand": "2026-06-26"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 290001,
+"bis": 300000
+},
+"lobbyausgaben": {
+"von": 510001,
+"bis": 520000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/90/39/779055/AVE-GuV_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003288/72504",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-26",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

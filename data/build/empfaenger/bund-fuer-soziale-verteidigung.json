@@ -1,0 +1,97 @@
+{
+"id": "bund-fuer-soziale-verteidigung",
+"name": "Bund für Soziale Verteidigung",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Minden",
+"website": "www.soziale-verteidigung.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002430",
+"eintrag_id": 80865,
+"version": 7,
+"stand": "2026-06-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002430/80865",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/27/83/783660/Lobbyregister-Registereintraege-Detailansicht-R002430-2026-06-29_13-09-33.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Familie und zivilgesellschaftliche Aufgaben,Referat 602 Demokratie Leben",
+"epl": "17",
+"von": 420001,
+"bis": 430000,
+"zweck": "Projekt: Kooperationsverbund Demokratische Konfliktbearbeitung (LOVE-Storm) Das Projekt bündelt Strategien, Instrumente und Methoden zur Konfliktbearbeitung – in Städten, auf dem Land und im digitalen Raum. Bis 2028 entwickeln wir eine bundeszentrale Infrastruktur für Konfliktbearbeitung und bauen das Bundesnetzwerk Konfliktbearbeitung weiter aus. Im Verbund arbeitet LOVE-Storm zum Thema digitale Konfliktmoderation und Konfliktbearbeitung.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 420001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Stephan Brües",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002430/80865",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Renate Wanie",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002430/80865",
+"stand": "2026-06-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 100001,
+"bis": 110000
+},
+"mitgliedsbeitraege": {
+"von": 10001,
+"bis": 20000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/d6/1b/783655/Jahresabschluss-2025-final.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002430/80865",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-29",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

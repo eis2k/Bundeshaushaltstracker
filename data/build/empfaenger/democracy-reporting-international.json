@@ -1,0 +1,118 @@
+{
+"id": "democracy-reporting-international",
+"name": "Democracy Reporting International gGmbH",
+"art": "verein_stiftung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "https://democracy-reporting.org/en/office/global",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007319",
+"eintrag_id": 77416,
+"version": 3,
+"stand": "2026-07-06",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007319/77416",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/18/96/806382/Lobbyregister-Registereintraege-Detailansicht-R007319-2026-07-06_15-52-00.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Auswärtiges Amt, Gesellschaft für Internationale Zusammenarbeit (GIZ), Engagement Global",
+"epl": "05",
+"von": 1040001,
+"bis": 1050000,
+"zweck": "Zuwendungen für Projekte in der Demokratieförderung in der EU, Ukraine, Moldau, Libanon und global.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1040001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Nicola Schmidt",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007319/77416",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Michael Meyer",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007319/77416",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Daniela Alvarado Rincón",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007319/77416",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Dennis Wenzl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007319/77416",
+"stand": "2026-07-06"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/bf/ac/806380/Rechenschaftsbericht-DRI-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007319/77416",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-06",
+"etikett": "Eigenangabe",
+"version": 3
+}
+]
+}

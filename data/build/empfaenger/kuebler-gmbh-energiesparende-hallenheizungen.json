@@ -1,0 +1,114 @@
+{
+"id": "kuebler-gmbh-energiesparende-hallenheizungen",
+"name": "KÜBLER GmbH Energiesparende Hallenheizungen",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Ludwigshafen am Rhein",
+"website": "www.kuebler-hallenheizungen.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005388",
+"eintrag_id": 71297,
+"version": 12,
+"stand": "2026-01-26",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005388/71297",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/db/29/685930/Lobbyregister-Registereintraege-Detailansicht-R005388-2026-01-26_09-20-08.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "DLR Projektträger BSFZ",
+"epl": "30",
+"von": 40001,
+"bis": 50000,
+"zweck": "Lfd.Nr. 641-470-003/2025-1/1: Angebotskonfigurator als Softwaretool zur technisch vollständigen Konfiguration von Infrarot-Hallenheizungsanlagen auf Basis weniger (< 10) Eingabeparameter",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "AiF Projekt GmbH",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Kooperationsprojekt KK 5495201SN2: Latentwasserstoff",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 50002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Thomas  Kübler",
+"funktion": "Geschäftsführender Gesellschafter",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005388/71297",
+"stand": "2026-01-26"
+}
+},
+{
+"name": "Frederic Renz",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005388/71297",
+"stand": "2026-01-26"
+}
+},
+{
+"name": "Christine  Kübler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005388/71297",
+"stand": "2026-01-26"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 240001,
+"bis": 250000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/5d/4f/685929/JA_KUEBLER_50402_2025_HB_JA_251110.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005388/71297",
+"abgerufen": "2026-11-02",
+"stand": "2026-01-26",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

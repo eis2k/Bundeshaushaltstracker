@@ -1,0 +1,119 @@
+{
+"id": "nacoa-deutschland-interessenvertretung-fuer-kinder-aus-sucht",
+"name": "NACOA Deutschland - Interessenvertretung für Kinder aus Suchtfamilien e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://nacoa.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003855",
+"eintrag_id": 88198,
+"version": 11,
+"stand": "2026-10-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003855/88198",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/08/86/867318/Lobbyregister-Registereintraege-Detailansicht-R003855-2026-10-30_11-12-31.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 210001,
+"bis": 220000,
+"zweck": "Verbundprojekt \"Hilfen im Netz\" von NACOA Deutschland e.V. und KidKit (Drogenhilfe Köln)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 210001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christina  Reich",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003855/88198",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Lara Bauch",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003855/88198",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Lena Lorenz",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003855/88198",
+"stand": "2026-10-30"
+}
+},
+{
+"name": "Frauke Gebhardt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003855/88198",
+"stand": "2026-10-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 10001,
+"bis": 20000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/01/87/867309/Jahresabschluss-2024_NACOA.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003855/88198",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-30",
+"etikett": "Eigenangabe",
+"version": 11
+}
+]
+}

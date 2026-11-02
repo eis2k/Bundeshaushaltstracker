@@ -1,0 +1,118 @@
+{
+"id": "verband-deutscher-kaelte-klima-fachbetriebe",
+"name": "Verband Deutscher Kälte-Klima-Fachbetriebe e.V. (VDKF)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bonn",
+"website": "www.vdkf.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000401",
+"eintrag_id": 84102,
+"version": 11,
+"stand": "2026-08-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000401/84102",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/35/26/824616/Lobbyregister-Registereintraege-Detailansicht-R000401-2026-08-03_10-02-01.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "Förderung eines Beratungsnetzwerkes im Handwerk - Modul Fachberatungs- und Informationsstellen (FIS)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 10001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Karl-Heinz Thielmann",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000401/84102",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Lars Kratzenberg",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000401/84102",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Markus Freund",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000401/84102",
+"stand": "2026-08-03"
+}
+},
+{
+"name": "Christoph Brauneis",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000401/84102",
+"stand": "2026-08-03"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 550001,
+"bis": 560000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/bb/66/824615/VDKF-Jahrensrechnung-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000401/84102",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-03",
+"etikett": "Eigenangabe",
+"version": 11
+}
+]
+}

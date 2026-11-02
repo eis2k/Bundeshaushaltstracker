@@ -1,0 +1,147 @@
+{
+"id": "evangelische-arbeitsgemeinschaft-familie",
+"name": "evangelische Arbeitsgemeinschaft familie e.V.",
+"art": "kirche_wohlfahrt",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.eaf-bund.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001440",
+"eintrag_id": 86790,
+"version": 18,
+"stand": "2026-09-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001440/86790",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/9b/97/853209/Lobbyregister-Registereintraege-Detailansicht-R001440-2026-09-30_17-43-42.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMBFSFJ",
+"epl": "17",
+"von": 310001,
+"bis": 320000,
+"zweck": "Projektförderung, Personal und Maßnahmen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 310001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Martin Bujard",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Stellvertretender Direktor des BiB",
+"stelle": "Bundesministerium des Innern (BMI) oder dessen Geschäftsbereich",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001440/86790",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Nicole Trieloff",
+"funktion": "Bundesgeschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001440/86790",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Konstanze Hartmann-Boudol",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001440/86790",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Sigrid Andersen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001440/86790",
+"stand": "2026-09-30"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Martin Bujard",
+"funktion_person": "Stellvertretender Direktor des BiB, Bundesministerium des Innern (BMI) oder dessen Geschäftsbereich",
+"funktion_beim_empfaenger": "Präsident",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Martin Bujard ist laut Lobbyregister Präsident bei evangelische Arbeitsgemeinschaft familie e.V. und hatte zuvor eine öffentliche Funktion: Stellvertretender Direktor des BiB, Bundesministerium des Innern (BMI) oder dessen Geschäftsbereich. evangelische Arbeitsgemeinschaft familie e.V. erhielt laut Lobbyregister Mittel von: BMBFSFJ.",
+"ausschuesse": [],
+"geld_aus": [
+"BMBFSFJ"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001440/86790",
+"stand": "2026-09-30"
+}
+],
+"stand": "2026-09-30"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 290001,
+"bis": 300000
+},
+"mitgliedsbeitraege": {
+"von": 10001,
+"bis": 20000
+},
+"lobbyausgaben": {
+"von": 100001,
+"bis": 110000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/c7/03/853198/61350-eaf-2025-Testatsexemplar.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001440/86790",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-30",
+"etikett": "Eigenangabe",
+"version": 18
+}
+]
+}

@@ -1,0 +1,129 @@
+{
+"id": "wirtschaftsfoerderung-land-brandenburg",
+"name": "Wirtschaftsförderung Land Brandenburg GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Potsdam",
+"website": "www.wfbb.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005251",
+"eintrag_id": 70846,
+"version": 5,
+"stand": "2026-06-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005251/70846",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/82/53/747196/Lobbyregister-Registereintraege-Detailansicht-R005251-2026-06-03_10-12-57.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bund",
+"epl": "60",
+"von": 380001,
+"bis": 390000,
+"zweck": "Projekt im Bundesprogramm \"Stärkung der Transformationsdynamik und Aufbruch in den Revieren und an den Kohlekraftwerkstandorten\" (STARK): \"Lausitz Investor Center – Länderübergreifende Investorenbetreuung in der Lausitz\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 380001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Steffen Kammradt",
+"funktion": "Sprecher der Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005251/70846",
+"stand": "2026-06-03"
+}
+},
+{
+"name": "Sebastian Saule",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005251/70846",
+"stand": "2026-06-03"
+}
+},
+{
+"name": "Uwe George",
+"funktion": "Prokurist",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005251/70846",
+"stand": "2026-06-03"
+}
+},
+{
+"name": "Armin Henning",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005251/70846",
+"stand": "2026-06-03"
+}
+},
+{
+"name": "Fabian Rißmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005251/70846",
+"stand": "2026-06-03"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/68/e8/747195/Veroeffentlichung-JA-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005251/70846",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-03",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

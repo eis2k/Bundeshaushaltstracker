@@ -1,0 +1,155 @@
+{
+"id": "bundeselternnetzwerk-der-migrantenorganisationen-fuer-bildun",
+"name": "Bundeselternnetzwerk der Migrantenorganisationen für Bildung & Teilhabe (bbt)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.bundeselternnetzwerk.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001593",
+"eintrag_id": 85015,
+"version": 9,
+"stand": "2026-08-25",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001593/85015",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/3e/c9/835053/Lobbyregister-Registereintraege-Detailansicht-R001593-2026-08-25_18-14-24.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BAMF_Bundesamt für Migration und Flüchtlinge",
+"epl": "06",
+"von": 120001,
+"bis": 130000,
+"zweck": "Zuschuss: Strukturförderung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "EU-Förderung",
+"epl": null,
+"von": 330001,
+"bis": 340000,
+"zweck": "Zuschuss: PartEl-Partizipation von Eltern aus Drittstaaten an Elterngremien stärken: Information, Aktivierung, Mobilisierung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMFSFJ_Bundesministerium für Familie, Senioren, Frauen u. Jugend",
+"epl": "17",
+"von": 140001,
+"bis": 150000,
+"zweck": "Zuschuss: FamPower² - Workshops für migrantische Multiplikator*innen Empowerment, Bildung und Vernetzung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium des Inneren u. für Heimat",
+"epl": null,
+"von": 260001,
+"bis": 270000,
+"zweck": "Zuschuss: BiMig-Bildungswege in der Migrationsgesellschaft",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMFSFJ_Bundesministerium für Familie, Senioren, Frauen u. Jugend",
+"epl": "17",
+"von": 220001,
+"bis": 230000,
+"zweck": "Zuschuss: EDiT-Elternkonferenzen für demokratische Integration u. Teilhabe",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BAMF_Bundesamt für Migration und Flüchtlinge",
+"epl": "06",
+"von": 170001,
+"bis": 180000,
+"zweck": "Zuschuss: PartEl-Partizipation von Eltern aus Drittstaaten an Elterngremien stärken: Information, Aktivierung, Mobilisierung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMFSFJ_Bundesministerium für Familie, Senioren, Frauen u. Jugend",
+"epl": "17",
+"von": 100001,
+"bis": 110000,
+"zweck": "Zuschuss: MELT-Migrantische Eltern-Teilhabe in der Schule",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1340007,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Natalia Roesler",
+"funktion": "Vorstandssprecherin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001593/85015",
+"stand": "2026-08-25"
+}
+},
+{
+"name": "Undra Dreßler",
+"funktion": "Vorstandssprecherin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001593/85015",
+"stand": "2026-08-25"
+}
+},
+{
+"name": "Cemalettin Özer",
+"funktion": "Vorstandssprecher",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001593/85015",
+"stand": "2026-08-25"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 90001,
+"bis": 100000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/31/b8/835052/147112-Jahresabschluss-Bundeselternnetzwerk-der-Migrantenorganisationen-e-V-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001593/85015",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-25",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

@@ -1,0 +1,106 @@
+{
+"id": "nect",
+"name": "Nect GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Hamburg",
+"website": "www.nect.com/de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003231",
+"eintrag_id": 77039,
+"version": 11,
+"stand": "2026-06-25",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003231/77039",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f1/55/775734/Lobbyregister-Registereintraege-Detailansicht-R003231-2026-06-25_11-11-40.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesrepublik Deutschland, vertreten durch das zuständige Finanzamt",
+"epl": "60",
+"von": 760001,
+"bis": 770000,
+"zweck": "Steuerliche Forschungsförderung gemäß Forschungszulagengesetz (FZulG) in Form einer rückwirkenden Körperschaftsteuererstattung für förderfähige Aufwendungen im Rahmen eines anerkannten Forschungs- und Entwicklungsvorhabens.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 760001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Benny Bennet Jürgens",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003231/77039",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Carlo Ulbrich",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003231/77039",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Timo Behrmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003231/77039",
+"stand": "2026-06-25"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 40001,
+"bis": 50000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/2d/0a/775727/Bericht_2024_24720_gekuerzt.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003231/77039",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-25",
+"etikett": "Eigenangabe",
+"version": 11
+}
+]
+}

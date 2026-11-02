@@ -1,0 +1,164 @@
+{
+"id": "sea-eye",
+"name": "Sea-Eye e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Regensburg",
+"website": "https://sea-eye.org/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R008177",
+"eintrag_id": 85386,
+"version": 2,
+"stand": "2026-09-02",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008177/85386",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/15/89/837632/Lobbyregister-Registereintraege-Detailansicht-R008177-2026-09-02_13-13-23.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 160001,
+"bis": 170000,
+"zweck": "Förderung der zivilen Seenotrettung durch finanzielle Unterstützung des Betriebs und Einsatzes eines Rettungsschiffs zur Rettung von Menschen in Seenot sowie zur Sicherstellung der Einsatzfähigkeit der Mission. Die Zuwendung erfolgte im Rahmen der Förderung durch das Auswärtige Amt im Zeitraum 01.01. – 31.03.2025 aus Haushaltstitel 0501- 687 32 „Humanitäre Hilfsmaßnahmen im Ausland“.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 160001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Anna di Bari",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2024-05"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008177/85386",
+"stand": "2026-09-02"
+}
+},
+{
+"name": "Michael Schneider",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008177/85386",
+"stand": "2026-09-02"
+}
+},
+{
+"name": "Rhea Franke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Referentin Referat 320",
+"stelle": "Auswärtiges Amt (AA) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2024-01"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008177/85386",
+"stand": "2026-09-02"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Anna di Bari",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2024-05",
+"funktion_beim_empfaenger": "Vorstand",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Anna di Bari ist laut Lobbyregister Vorstand bei Sea-Eye e. V. und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2024-05. Sea-Eye e. V. erhielt laut Lobbyregister Mittel von: Auswärtiges Amt.",
+"ausschuesse": [],
+"geld_aus": [
+"Auswärtiges Amt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008177/85386",
+"stand": "2026-09-02"
+}
+],
+"stand": "2026-09-02"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Rhea Franke",
+"funktion_person": "Referentin Referat 320, Auswärtiges Amt (AA) oder dessen Geschäftsbereich, bis 2024-01",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Rhea Franke ist laut Lobbyregister Interessenvertretung bei Sea-Eye e. V. und hatte zuvor eine öffentliche Funktion: Referentin Referat 320, Auswärtiges Amt (AA) oder dessen Geschäftsbereich, bis 2024-01. Sea-Eye e. V. erhielt laut Lobbyregister Mittel von: Auswärtiges Amt.",
+"ausschuesse": [],
+"geld_aus": [
+"Auswärtiges Amt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008177/85386",
+"stand": "2026-09-02"
+}
+],
+"stand": "2026-09-02"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 3720001,
+"bis": 3730000
+},
+"mitgliedsbeitraege": {
+"von": 50001,
+"bis": 60000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/d0/28/837631/Sea-Eye-e-V-Finanzbericht-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008177/85386",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-02",
+"etikett": "Eigenangabe",
+"version": 2
+}
+]
+}

@@ -1,0 +1,107 @@
+{
+"id": "mvv-netze",
+"name": "MVV Netze GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Mannheim",
+"website": "www.mvv-netze.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003061",
+"eintrag_id": 73627,
+"version": 7,
+"stand": "2026-03-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003061/73627",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/6a/98/714625/Lobbyregister-Registereintraege-Detailansicht-R003061-2026-03-30_12-32-42.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Forschungszentrum Jülich, Projektträger Jülich, Energieeffizienz für Quartiere",
+"epl": null,
+"von": 110001,
+"bis": 120000,
+"zweck": "Durchführung von Forschungsprojekten",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 110001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Volker Glätzer",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003061/73627",
+"stand": "2026-03-30"
+}
+},
+{
+"name": "Anton Kirmeier",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003061/73627",
+"stand": "2026-03-30"
+}
+},
+{
+"name": "Benjamin Peschka",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003061/73627",
+"stand": "2026-03-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 70001,
+"bis": 80000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/7d/35/714624/Jahresabschluss-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003061/73627",
+"abgerufen": "2026-11-02",
+"stand": "2026-03-30",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

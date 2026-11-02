@@ -1,0 +1,327 @@
+{
+"id": "arbeiter-samariter-bund-deutschland",
+"name": "Arbeiter-Samariter-Bund Deutschland e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Köln",
+"website": "www.asb.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004240",
+"eintrag_id": 85705,
+"version": 11,
+"stand": "2026-09-10",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004240/85705",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/8e/a5/840393/Lobbyregister-Registereintraege-Detailansicht-R004240-2026-09-10_13-26-36.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit",
+"epl": "23",
+"von": 6980001,
+"bis": 6990000,
+"zweck": "Zuwendungen für Projekte im Bereich Auslandshilfe",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 9030001,
+"bis": 9040000,
+"zweck": "Zuwendungen für Projekte im Bereich der Auslandshilfe",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"epl": "17",
+"von": 4060001,
+"bis": 4070000,
+"zweck": "Zuwendung für die Durchführung von Seminaren im Rahmen des Bundesfreiwilligendienstes",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe",
+"epl": "06",
+"von": 4300001,
+"bis": 4310000,
+"zweck": "1. Mobile Betreuung 5000 2. Erste Hilfe mit Selbstschutzinhalten",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 170001,
+"bis": 180000,
+"zweck": "Kinder- und Jugendplan des Bundes, Handlungsfeld \"Kinder- und Jugendarbeit und außerschulische Jugendausbildung\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 24540005,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Knut Fleckenstein",
+"funktion": "Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004240/85705",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Uwe Borchmann",
+"funktion": "stv. Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004240/85705",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Christine Theiss",
+"funktion": "stv. Bundesvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004240/85705",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Matthias Vonnemann",
+"funktion": "Bundesarzt",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004240/85705",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Michael Stricker",
+"funktion": "Bundesvorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004240/85705",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Kristin Schuhmann",
+"funktion": "Bundesvorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004240/85705",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Ludwig Frölich",
+"funktion": "Bundesvorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004240/85705",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Sabine Wölfle",
+"funktion": "Bundesvorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004240/85705",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Benjamin Schuldt",
+"funktion": "Bundesvorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004240/85705",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Anna Witt",
+"funktion": "Bundesvorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004240/85705",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Marion Zimmermann",
+"funktion": "Bundesvorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004240/85705",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Gabriele Mergener",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004240/85705",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Michael Schnatz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004240/85705",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Mazdak Ghoreishi",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004240/85705",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Carsten Stork",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004240/85705",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Tinja Kirstein",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004240/85705",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Sandra Haske",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004240/85705",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Uwe Martin Fichtmüller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004240/85705",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Edith Wallmeier",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004240/85705",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Marcus Kreutz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004240/85705",
+"stand": "2026-09-10"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 4340001,
+"bis": 4350000
+},
+"mitgliedsbeitraege": {
+"von": 101180001,
+"bis": 101190000
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/b2/21/840392/JAP-Bericht-2025-ASB-Deutschland-endg_.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004240/85705",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-10",
+"etikett": "Eigenangabe",
+"version": 11
+}
+]
+}

@@ -1,0 +1,143 @@
+{
+"id": "wachstumsregion-ems-achse",
+"name": "Wachstumsregion Ems-Achse e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Papenburg",
+"website": "www.emsachse.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000408",
+"eintrag_id": 85942,
+"version": 12,
+"stand": "2026-09-17",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000408/85942",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/eb/f5/842748/Lobbyregister-Registereintraege-Detailansicht-R000408-2026-09-17_09-16-17.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesrepublik Deutschland",
+"epl": "60",
+"von": 290001,
+"bis": 300000,
+"zweck": "Förderprogramme Wandel der Arbeit und Heimat 2.0",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 290001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Dirk Lüerßen",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000408/85942",
+"stand": "2026-09-17"
+}
+},
+{
+"name": "Bernard Krone",
+"funktion": "Vorsitzender Vorstand Wachstumsregion Ems-Achse e. V. ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000408/85942",
+"stand": "2026-09-17"
+}
+},
+{
+"name": "Holger Heymann",
+"funktion": "Stellvertreter Vorstand Wachstumsregion Ems-Achse e. V. ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000408/85942",
+"stand": "2026-09-17"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "abgeordneter_funktion",
+"person": "Anja Troff-Schaffarzyk",
+"funktion_person": "MdB, SPD",
+"funktion_beim_empfaenger": "Mitglied des Aufsichtsrates",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Anja Troff-Schaffarzyk (MdB, SPD) ist laut bundestag.de Mitglied des Aufsichtsrates bei Wachstumsregion Ems-Achse e.V.. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Menschenrechte und humanitäre Hilfe; Schriftführer/in; Unterausschuss Krisenprävention, strategische Vorausschau, Stabilisierung und Friedensförderung; Verkehrsausschuss; Ausschuss für Digitales und Staatsmodernisierung; Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung. Wachstumsregion Ems-Achse e.V. erhielt laut Lobbyregister Mittel von: Bundesrepublik Deutschland.",
+"ausschuesse": [
+"Ausschuss für Menschenrechte und humanitäre Hilfe",
+"Schriftführer/in",
+"Unterausschuss Krisenprävention, strategische Vorausschau, Stabilisierung und Friedensförderung",
+"Verkehrsausschuss",
+"Ausschuss für Digitales und Staatsmodernisierung",
+"Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung"
+],
+"geld_aus": [
+"Bundesrepublik Deutschland"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/T/troff_schaffarzyk_anja-1047796",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 830001,
+"bis": 840000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/fe/dd/842747/Pruefungsbericht-final-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000408/85942",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-17",
+"etikett": "Eigenangabe",
+"version": 12
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/T/troff_schaffarzyk_anja-1047796",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

@@ -1,0 +1,131 @@
+{
+"id": "arvc-selbsthilfe",
+"name": "ARVC-Selbsthilfe e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Unterschleißheim",
+"website": "https://www.arvc-selbsthilfe.org/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006161",
+"eintrag_id": 78074,
+"version": 6,
+"stand": "2026-06-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006161/78074",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/9b/0b/748439/Lobbyregister-Registereintraege-Detailansicht-R006161-2026-06-03_17-58-45.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "GKV/vdek",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Pauschalförderung der Vereinsarbeit durch die „GKV-Gemeinschaftsförderung Selbsthilfe auf Bundesebene“ im Rahmen des § 20h SGB V",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 10001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ruth Biller",
+"funktion": "1. Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006161/78074",
+"stand": "2026-06-03"
+}
+},
+{
+"name": "Albert Biller",
+"funktion": "Kassier",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006161/78074",
+"stand": "2026-06-03"
+}
+},
+{
+"name": "Fraukje März",
+"funktion": "Stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006161/78074",
+"stand": "2026-06-03"
+}
+},
+{
+"name": "Bernhard Schütze",
+"funktion": "Schriftführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006161/78074",
+"stand": "2026-06-03"
+}
+},
+{
+"name": "Annemarie Reinhard",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006161/78074",
+"stand": "2026-06-03"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 10001,
+"bis": 20000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/97/66/748437/Taetigkeitsbericht_ARVC-Selbsthilfe_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006161/78074",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-03",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

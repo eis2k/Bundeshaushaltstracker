@@ -1,0 +1,113 @@
+{
+"id": "evangelische-freiwilligendienste",
+"name": "Evangelische Freiwilligendienste gGmbH",
+"art": "kirche_wohlfahrt",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Hannover",
+"website": "www.ev-freiwilligendienste.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001645",
+"eintrag_id": 81571,
+"version": 6,
+"stand": "2026-07-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001645/81571",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/0c/76/799903/Lobbyregister-Registereintraege-Detailansicht-R001645-2026-07-01_14-07-09.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium fü Familie, Senioren, Frauen und Jugend",
+"epl": null,
+"von": 580001,
+"bis": 590000,
+"zweck": "Bundeszentrale Aufgaben in den Jugendfreiwilligendiensten und im Bundesfreiwilligendienst im Bereich zuwendungsfähiger Aufgaben (Fort- und weiterbildung, Qualitätssicherung, Vernetzung...)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 250001,
+"bis": 260000,
+"zweck": "Fördermittel zur Durchführung von Entsendungen im Internationalen Jugendfreiwilligendienst",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit",
+"epl": "23",
+"von": 130001,
+"bis": 140000,
+"zweck": "Fördermittel zur Durchführung von Entsendungen im Programm Weltwärts",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 960003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Martin Schulze",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001645/81571",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Anne Kerber",
+"funktion": "Referentin Bundestutorat Ausland",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001645/81571",
+"stand": "2026-07-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 590001,
+"bis": 600000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/a6/17/799902/125816-JA-Pruefungsbericht-WP-Testatexemplar-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001645/81571",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-01",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

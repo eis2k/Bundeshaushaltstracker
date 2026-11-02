@@ -1,0 +1,614 @@
+{
+"id": "germanzero",
+"name": "GermanZero e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "http://germanzero.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002020",
+"eintrag_id": 87851,
+"version": 19,
+"stand": "2026-10-21",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ae/0f/863816/Lobbyregister-Registereintraege-Detailansicht-R002020-2026-10-21_11-47-38.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Deutsche Stiftung für Engagement und Ehrenamt",
+"epl": null,
+"von": 40001,
+"bis": 50000,
+"zweck": "Zuwendung im Rahmen des Förderprogramms TransformD 2024_25 Themenschwerpunkt: Klimawandel",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Umweltbundesamt",
+"epl": "16",
+"von": 80001,
+"bis": 90000,
+"zweck": "Zuwendung im Rahmen der Verbändeförderung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 120002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Albrecht von Sonntag",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Friedemann Brockmeyer",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Martin Oetting",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Michael Schäfer",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Johann Stöcker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Johnny Stengel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Xenia Gomm",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Praktikum giz Internationale Klimaschutzinitiative Small Grants",
+"stelle": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+"beendet": true,
+"ende": "2022-12"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Emmanuel Schlichter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Diane Borchers",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Guntram Berti",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Irmela Hannover",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Carlos Pusch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Michael Mittag",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Moritz Fischer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Frank Lehmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Referats- und Abteilungsleiter der BZgA",
+"stelle": "Bundesministerium für Gesundheit (BMG) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2021-12"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Hans-Jürgen Münnig",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Fabian Röling",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Gunnar Harms",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Max Allmendinger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Kerstin Braun",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Carsten Haker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Sven-Christian Kindler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Vera Becherer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Moritz Hahn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Andrea Wörle",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Kerstin Belca",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Isabella-Diana Beyler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Jan Kobarg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Gregor Müller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Kasimir Spliethoff",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Frank Kose",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Magnus Wünsche",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Tanja Rakocevic",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Lesley Pfeifer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Franziska Wild",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Eric Hartmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Jana Lintz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Dieter Gehringer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Xenia Gomm",
+"funktion_person": "Praktikum giz Internationale Klimaschutzinitiative Small Grants, Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH, bis 2022-12",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Xenia Gomm ist laut Lobbyregister Interessenvertretung bei GermanZero e.V. und hatte zuvor eine öffentliche Funktion: Praktikum giz Internationale Klimaschutzinitiative Small Grants, Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH, bis 2022-12. GermanZero e.V. erhielt laut Lobbyregister Mittel von: Umweltbundesamt; Deutsche Stiftung für Engagement und Ehrenamt.",
+"ausschuesse": [],
+"geld_aus": [
+"Umweltbundesamt",
+"Deutsche Stiftung für Engagement und Ehrenamt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+],
+"stand": "2026-10-21"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Frank Lehmann",
+"funktion_person": "Referats- und Abteilungsleiter der BZgA, Bundesministerium für Gesundheit (BMG) oder dessen Geschäftsbereich, bis 2021-12",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Frank Lehmann ist laut Lobbyregister Interessenvertretung bei GermanZero e.V. und hatte zuvor eine öffentliche Funktion: Referats- und Abteilungsleiter der BZgA, Bundesministerium für Gesundheit (BMG) oder dessen Geschäftsbereich, bis 2021-12. GermanZero e.V. erhielt laut Lobbyregister Mittel von: Umweltbundesamt; Deutsche Stiftung für Engagement und Ehrenamt.",
+"ausschuesse": [],
+"geld_aus": [
+"Umweltbundesamt",
+"Deutsche Stiftung für Engagement und Ehrenamt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+],
+"stand": "2026-10-21"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Sven-Christian Kindler",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Sven-Christian Kindler ist laut Lobbyregister Interessenvertretung bei GermanZero e.V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03. GermanZero e.V. erhielt laut Lobbyregister Mittel von: Umweltbundesamt; Deutsche Stiftung für Engagement und Ehrenamt.",
+"ausschuesse": [],
+"geld_aus": [
+"Umweltbundesamt",
+"Deutsche Stiftung für Engagement und Ehrenamt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+],
+"stand": "2026-10-21"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Andrea Wörle",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Andrea Wörle ist laut Lobbyregister Interessenvertretung bei GermanZero e.V. und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03. GermanZero e.V. erhielt laut Lobbyregister Mittel von: Umweltbundesamt; Deutsche Stiftung für Engagement und Ehrenamt.",
+"ausschuesse": [],
+"geld_aus": [
+"Umweltbundesamt",
+"Deutsche Stiftung für Engagement und Ehrenamt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"stand": "2026-10-21"
+}
+],
+"stand": "2026-10-21"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 1990001,
+"bis": 2000000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 340001,
+"bis": 350000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/20/d2/863812/GZ-JA2024-Bilanzbericht_KOMPLETT.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002020/87851",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-21",
+"etikett": "Eigenangabe",
+"version": 19
+}
+]
+}

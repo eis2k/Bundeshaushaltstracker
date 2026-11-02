@@ -1,0 +1,285 @@
+{
+"id": "naturland",
+"name": "Naturland e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Gräfelfing",
+"website": "https://www.naturland.de/de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R008208",
+"eintrag_id": 85521,
+"version": 2,
+"stand": "2026-10-20",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008208/85521",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/84/45/863327/Lobbyregister-Registereintraege-Detailansicht-R008208-2026-10-20_08-33-58.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesanstalt für Landwirtschaft und Ernährung",
+"epl": "10",
+"von": 340001,
+"bis": 350000,
+"zweck": "Werbung und Absatzmarkt - Consumer Awareness",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesanstalt für Landwirtschaft und Ernährung",
+"epl": "10",
+"von": 390001,
+"bis": 400000,
+"zweck": "Werbung und Absatzmarkt - Consumer Awareness",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesanstalt für Landwirtschaft und Ernährung",
+"epl": "10",
+"von": 90001,
+"bis": 100000,
+"zweck": "Werbung und Absatz",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Katholische Zentralstelle für Globale Entwicklung e.V.",
+"epl": null,
+"von": 1,
+"bis": 10000,
+"zweck": "Entwicklung - Improving the livelihood of smallholder farmer families in Philippines through organic certification",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesanstalt für Landwirtschaft und Ernährung",
+"epl": "10",
+"von": 1,
+"bis": 10000,
+"zweck": "Forschung - Animal welfare in organic farming",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Sequa gGmbH",
+"epl": null,
+"von": 220001,
+"bis": 230000,
+"zweck": "Entwicklung - Expansion of organic farming contributing to the development and stabilisation of employment in rural areas of Georgia as well as to the protection of the environment and resources",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Sequa gGmbH",
+"epl": null,
+"von": 300001,
+"bis": 310000,
+"zweck": "Entwicklung - strengthen smallholder production and employment, improve quality and productivity in line with better practices organic farming and agroforestry approaches",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Gesellschaft für Internationale Zusammenarbeit",
+"epl": "23",
+"von": 140001,
+"bis": 150000,
+"zweck": "Entwicklung - The expansion of Organic agriculture in Rwanda increases the sustainable economic, social and ecological development of the country",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Sequa gGmbH",
+"epl": null,
+"von": 330001,
+"bis": 340000,
+"zweck": "Entwicklung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesanstalt für Landwirtschaft und Ernährung",
+"epl": "10",
+"von": 10001,
+"bis": 20000,
+"zweck": "Forschung - Animal Welfare: piglet losses in organic pig farming",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Zukunft -Umwelt - Gesellschaft gGmbH",
+"epl": "16",
+"von": 100001,
+"bis": 110000,
+"zweck": "Entwicklung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Katholische Zentralstelle für Globale Entwicklung e.V.",
+"epl": null,
+"von": 140001,
+"bis": 150000,
+"zweck": "Entwicklung - Improving the livelihood of smallholder farmer families in Philippines through organic certification",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Gesellschaft für Internationale Zusammenarbeit",
+"epl": "23",
+"von": 70001,
+"bis": 80000,
+"zweck": "Forschung - Improving C-balances on organic farms for the sequestration of atmospheric carbon (Poland, Serbia, Slovenia)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "Forschung - Development of bio-based substances for the prevention of melanosis in certified organic shrimps",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Sequa gGmbH",
+"epl": null,
+"von": 1,
+"bis": 10000,
+"zweck": "Entwicklung - Expansion of organic farming contributing to the development and stabilisation of employment in rural areas of Georgia as well as to the protection of the environment and resources",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Gesellschaft für Internationale Zusammenarbeit",
+"epl": "23",
+"von": 20001,
+"bis": 30000,
+"zweck": "Entwicklung - supporting members of agricultural supply chains in seven countries across Asia, Africa and South America to comply with new EU regulations and market access conditions (Organic Regulation (EU) 2018/848, EUDR) and to foster sustainability in their production.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 2170016,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Eberhard Räder",
+"funktion": "Präsident Naturland",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008208/85521",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Moritz Reimer",
+"funktion": "Vizepräsident Naturland",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008208/85521",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Udo Rumpel",
+"funktion": "Präsidium",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008208/85521",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Sebastian Mittermaier",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008208/85521",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Marcus Nürnberger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008208/85521",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Lea Ilgeroth-Hiadzi",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008208/85521",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Markus Fadl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008208/85521",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Marco Schlüter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008208/85521",
+"stand": "2026-10-20"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 1290001,
+"bis": 1300000
+},
+"lobbyausgaben": {
+"von": 240001,
+"bis": 250000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/3e/09/863325/JA-2024_Bilanz-und-GuV_Naturland-e-V.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008208/85521",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-20",
+"etikett": "Eigenangabe",
+"version": 2
+}
+]
+}

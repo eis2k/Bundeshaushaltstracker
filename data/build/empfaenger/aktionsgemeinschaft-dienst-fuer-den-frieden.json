@@ -1,0 +1,154 @@
+{
+"id": "aktionsgemeinschaft-dienst-fuer-den-frieden",
+"name": "Aktionsgemeinschaft Dienst für den Frieden e.V. (AGDF)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bonn",
+"website": "www.friedensdienst.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001308",
+"eintrag_id": 72565,
+"version": 11,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001308/72565",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/e3/07/792995/Lobbyregister-Registereintraege-Detailansicht-R001308-2026-06-30_15-43-53.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Engagement Global gGmbH",
+"epl": "23",
+"von": 890001,
+"bis": 900000,
+"zweck": "Projektförderung für drei Projekte im Bereich internationaler Friedens- und Freiwilligendienste",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesverwaltungsamt",
+"epl": "06",
+"von": 550001,
+"bis": 560000,
+"zweck": "Fördermittel aus dem KJP des Bundes als Zentralstelle der Trägerkonferenz der internationalen Jugendgemeinschafts- und Jugendsozialdienste",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Conact",
+"epl": null,
+"von": 90001,
+"bis": 100000,
+"zweck": "Zuschuss im Bereich Internationaler Jugendaustausch",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BaFzA - Regiestelle Demokratie leben!,",
+"epl": "17",
+"von": 420001,
+"bis": 430000,
+"zweck": "Fördermittel aus dem Programm \"Demokratie leben!\" für ein Projekt im Bereich der Zivilen Konfliktbearbeitung im Inland",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1950004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jochen Cornelius-Bundschuh",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001308/72565",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Christof Starke",
+"funktion": "stv. Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001308/72565",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Jan Gildemeister",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001308/72565",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Jan-Thilo Klimisch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001308/72565",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Bernd Rieche",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001308/72565",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 30001,
+"bis": 40000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ec/1b/792991/AGDF-2025-Bilanz.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001308/72565",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 11
+}
+]
+}

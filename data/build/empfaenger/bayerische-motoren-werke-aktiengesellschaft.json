@@ -1,0 +1,682 @@
+{
+"id": "bayerische-motoren-werke-aktiengesellschaft",
+"name": "Bayerische Motoren Werke Aktiengesellschaft ",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "München",
+"website": "www.bmwgroup.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002370",
+"eintrag_id": 84225,
+"version": 53,
+"stand": "2026-10-08",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002370/84225",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/34/d9/858741/Lobbyregister-Registereintraege-Detailansicht-R002370-2026-10-08_16-11-58.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 1,
+"bis": 10000,
+"zweck": "Shift2SDV - Bewältigung der Komplexität im hochsicherheitskritischen Automobilbereich, um das Ökosystem in einer digitalen Welt agil, innovativ und profitabel zu machen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 1,
+"bis": 10000,
+"zweck": "Automotive End of Life Datenaustausch für Circular Economy (Durchstichprojekt PMD-X)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 10001,
+"bis": 20000,
+"zweck": "Komfortables und effizientes Fahrzeug-Sharing auf Privatgrund",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 10001,
+"bis": 20000,
+"zweck": "Digitale Materialbetrachtung entlang der gesamten Wertschöpfungskette für Stahlkomponenten zur Effizienzsteigerung, Lebensdauerprognose und Bestimmung des C02-Fußabdrucks",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 30001,
+"bis": 40000,
+"zweck": "Prozesse für das Direkte Recycling von Kathoden aus zyklisierten Lithium-Ionen-Batterien zur Maximierung der rückgewinnbaren Funktionsmaterialien",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 70001,
+"bis": 80000,
+"zweck": "System für die flexible Erprobung von modellbasierten prädiktiven und künstlich intelligenten Regelungsverfahren in der elektrischen Antriebstechnik",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 90001,
+"bis": 100000,
+"zweck": "Forschungsgegenstand: Hardware-Abstraktionsschicht für ein europäisches Software-definiertes Fahrzeugkonzept",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 100001,
+"bis": 110000,
+"zweck": "Edge-Cloud Umgebung und Künstliche Intelligenz in elektronischen Systemen für die Industrieanwendungen der Zukunft",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 140001,
+"bis": 150000,
+"zweck": "Nachhaltigkeitsoptimiertes Life CYcle AsSESsment technologisch hochkomplexer Produkte am Beispiel Automobilbeleuchtung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 270001,
+"bis": 280000,
+"zweck": "Realistische und valide Fahrdynamikmodelle und Fahrsimulation",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 280001,
+"bis": 290000,
+"zweck": "Energieeffiziente Hardware-Akzelerator für neuronale Netze in Embedded Anwendungen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 470001,
+"bis": 480000,
+"zweck": "Nachhaltigkeit in der Fertigung durch KI-gestützte Produktion und Logistik im Kontext von Industrie 5.0",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 660001,
+"bis": 670000,
+"zweck": "FZuLG: PowerCore Inverter",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 1560001,
+"bis": 1570000,
+"zweck": "FZuLG: Automatisiertes Fahren im Werk",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 1,
+"bis": 10000,
+"zweck": "Tyre Road Noise",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 10001,
+"bis": 20000,
+"zweck": "Standardized Management of Queueing and Reservation for EV charging stations",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 30001,
+"bis": 40000,
+"zweck": "BrAndverhalten von Lithium-Ionen-Batteriesystemen und BrandSchutz, Wirkung der Schadgase Auf Menschen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 60001,
+"bis": 70000,
+"zweck": "Innovative, skalierbare Brennstoffzellenproduktion",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 60001,
+"bis": 70000,
+"zweck": "Hydrogen Combustion Engine Trucks",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 110920001,
+"bis": 110930000,
+"zweck": "IPCEI Wasserstoff Innovative Wasserstoff-Brennstoffzellensysteme für kundenwerte emissionsfreie PKW-Konzepte\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr und digitale Infrastruktur (BMDV)",
+"epl": "12",
+"von": 6170001,
+"bis": 6180000,
+"zweck": "Gleisanschlusserweiterung Werk 2.40",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "Verbundprojekt: GAIA-X 4 PLC-AAD - Production, After-Sales und PLC - Across Automated Driving;",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 40001,
+"bis": 50000,
+"zweck": "Simulationsbasierte Sicherheitsbewertung eines unkontrollierten, thermischen Durchgehens bei gealterten Batteriezellen (ehem. SimSicAlt / BaSiS2)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 50001,
+"bis": 60000,
+"zweck": "Lebenszyklusverlängerung von stationären Batteriespeichersystemen durch hybride Zustandsprognosen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 60001,
+"bis": 70000,
+"zweck": "Multikriterielle Synthese und Optimierung von Antriebssträngen für Elektrische Fahrzeuge",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 80001,
+"bis": 90000,
+"zweck": "Battery Passport",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 90001,
+"bis": 100000,
+"zweck": "Predictive Failure Management with AI in production",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 110001,
+"bis": 120000,
+"zweck": "Befähigung der Additiven Fertigung durch Prozessadaption und Beam Shaping für Leichtbaustrukturen im Automobilbereich",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 200001,
+"bis": 210000,
+"zweck": "Induktives bidirektionales Laden mit erhöhter Leistungsdichte",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 210001,
+"bis": 220000,
+"zweck": "\"Progressive Multizell-Verbund-Konzepte für Batteriesysteme mit integrierter Sensorik\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 230001,
+"bis": 240000,
+"zweck": "Kreislauffähige, nachhaltige Fahrzeugkonzepte (Exterieur/Karosserie)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 290001,
+"bis": 300000,
+"zweck": "Digitalization for Sustainability: Prozesse, Methoden und Modelle zur volldigitalen Produktentwicklung nachhaltiger Elektroantriebsarchitektur",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 440001,
+"bis": 450000,
+"zweck": "Bidirektionales Lademanagement der nächsten Generation im massenfähigen Realbetrieb",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 540001,
+"bis": 550000,
+"zweck": "ünstliche Intelligenz für SystemModell-Bildung und Anforderungen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 880001,
+"bis": 890000,
+"zweck": "Catena-X, Skalierung, Internationalisierung und OS Community Aufbau",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 950001,
+"bis": 960000,
+"zweck": "Digitale Anlagenmodellierung mit neutralen Datenformaten",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 2540001,
+"bis": 2550000,
+"zweck": "Future Sustainable Car Materials",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie der Bundesrepublik Deutschland (BMWE)",
+"epl": "09",
+"von": 1,
+"bis": 10000,
+"zweck": "Lüftungsanlage Geb. 49.0",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie der Bundesrepublik Deutschland (BMWE)",
+"epl": "09",
+"von": 1,
+"bis": 10000,
+"zweck": "Lüftungsanlage Geb. 51.0",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie der Bundesrepublik Deutschland (BMWE)",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "Lüftungsanlage Geb. 26.0",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie der Bundesrepublik Deutschland (BMWE)",
+"epl": "09",
+"von": 40001,
+"bis": 50000,
+"zweck": "Förderung LED Leipzig Geb. 50",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie der Bundesrepublik Deutschland (BMWE)",
+"epl": "09",
+"von": 60001,
+"bis": 70000,
+"zweck": "Lüftungsanlage Geb. 40.9",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie der Bundesrepublik Deutschland (BMWE)",
+"epl": "09",
+"von": 80001,
+"bis": 90000,
+"zweck": "Lüftungsanlage Geb. 70.0",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie der Bundesrepublik Deutschland (BMWE)",
+"epl": "09",
+"von": 220001,
+"bis": 230000,
+"zweck": "Förderbescheid Errichtung Lagergebäude FIZ Geb 75.8",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie der Bundesrepublik Deutschland (BMWE)",
+"epl": "09",
+"von": 230001,
+"bis": 240000,
+"zweck": "Bescheid eRTO Anlage 2 DGF",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie der Bundesrepublik Deutschland (BMWE)",
+"epl": "09",
+"von": 250001,
+"bis": 260000,
+"zweck": "Dachsanierung Werk 2.27 Geb. 80.1",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie der Bundesrepublik Deutschland (BMWE)",
+"epl": "09",
+"von": 410001,
+"bis": 420000,
+"zweck": "Bescheid eRTO Anlage 1 DGF",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie der Bundesrepublik Deutschland (BMWE)",
+"epl": "09",
+"von": 540001,
+"bis": 550000,
+"zweck": "Dachsanierung Werk 2.2 Geb. 75.1",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie der Bundesrepublik Deutschland (BMWE)",
+"epl": "09",
+"von": 770001,
+"bis": 780000,
+"zweck": "eRTO - München",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz (BMWK)",
+"epl": "09",
+"von": 6810001,
+"bis": 6820000,
+"zweck": "Entwicklung einer Wertschöpfungskette für eine wettbewerbsfähige und nachhaltige Batteriezellproduktion in Europa",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz (BMWK)",
+"epl": "09",
+"von": 8720001,
+"bis": 8730000,
+"zweck": "Produktionstechnik für eine wettbewerbsfähige und nachhaltige Batteriezellfertigung in Europa",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 145840051,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Milan Nedeljković",
+"funktion": "Vorsitzender des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002370/84225",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Dorothea von Boxberg",
+"funktion": "Mitglied des Vorstands der BMW AG, Personal- und Sozialwesen, Arbeitsdirektorin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002370/84225",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Raymond Wittmann",
+"funktion": "Mitglied des Vorstands der BMW AG, Produktion",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002370/84225",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Jochen Goller",
+"funktion": "Mitglied des Vorstands der BMW AG, Kunde, Marken, Vertrieb",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002370/84225",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Walter Mertl",
+"funktion": "Mitglied des Vorstands der BMW AG, Finanzen",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002370/84225",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Joachim Post",
+"funktion": "Mitglied des Vorstands der BMW AG, Entwicklung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002370/84225",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Nicolai Martin",
+"funktion": "Mitglied des Vorstands der BMW AG, Einkauf und Lieferantennetzwerk",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002370/84225",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Martin Kimmich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002370/84225",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Anneka Klamt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Pressereferentin",
+"stelle": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2022-09"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002370/84225",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Marcus Wachtmeister",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002370/84225",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Marcus Bollig",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002370/84225",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Sebastian Schlosser",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002370/84225",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Thomas Becker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002370/84225",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Glenn Schmidt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002370/84225",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Sara-Ida Kaiser",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002370/84225",
+"stand": "2026-10-08"
+}
+},
+{
+"name": "Philipp Dierken",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002370/84225",
+"stand": "2026-10-08"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Anneka Klamt",
+"funktion_person": "Pressereferentin, Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ) oder dessen Geschäftsbereich, bis 2022-09",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Anneka Klamt ist laut Lobbyregister Interessenvertretung bei Bayerische Motoren Werke Aktiengesellschaft  und hatte zuvor eine öffentliche Funktion: Pressereferentin, Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ) oder dessen Geschäftsbereich, bis 2022-09. Bayerische Motoren Werke Aktiengesellschaft  erhielt laut Lobbyregister Mittel von: Bundesministerium für Verkehr (BMV); Bundesministerium für Wirtschaft und Klimaschutz (BMWK); Bundesministerium für Verkehr und digitale Infrastruktur (BMDV); Bundesministerium für Wirtschaft und Energie (BMWE); Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR); Bundesministerium für Wirtschaft und Energie der Bundesrepublik Deutschland (BMWE).",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Verkehr (BMV)",
+"Bundesministerium für Wirtschaft und Klimaschutz (BMWK)",
+"Bundesministerium für Verkehr und digitale Infrastruktur (BMDV)",
+"Bundesministerium für Wirtschaft und Energie (BMWE)",
+"Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"Bundesministerium für Wirtschaft und Energie der Bundesrepublik Deutschland (BMWE)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002370/84225",
+"stand": "2026-10-08"
+}
+],
+"stand": "2026-10-08"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 2300001,
+"bis": 2310000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/a5/e5/858740/BMW-AG-Jahresabschluss-2025-de.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002370/84225",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-08",
+"etikett": "Eigenangabe",
+"version": 53
+}
+]
+}

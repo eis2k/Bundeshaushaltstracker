@@ -1,0 +1,117 @@
+{
+"id": "drees-und-sommer",
+"name": "Drees & Sommer SE",
+"art": "unternehmen",
+"rechtsform": "Europäische Aktiengesellschaft (SE)",
+"sitz": "Stuttgart",
+"website": "www.dreso.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007559",
+"eintrag_id": 74097,
+"version": 2,
+"stand": "2026-06-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007559/74097",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/d1/9d/771455/Lobbyregister-Registereintraege-Detailansicht-R007559-2026-06-24_08-37-47.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesfinanzministerium",
+"epl": null,
+"von": 870001,
+"bis": 880000,
+"zweck": "Die Forschungszulage ist eine steuerliche Förderung nach dem Forschungszulagengesetz, mit der Unternehmen für förderfähige Forschungs- und Entwicklungsvorhaben entlastet werden. Die Zulage wird steuerlich angerechnet und kann bei Überschuss als Erstattung ausgezahlt werden. Sie wird auf Basis bestimmter förderfähiger Aufwendungen beantragt. Die Drees & Sommer SE hat die Forschungszulage für Aufwendungen im Bereich Softwareentwicklung sowie weiterer innovativer Dienstleistungen beantragt.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 870001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Steffen Szeidl",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007559/74097",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Dierk Mutschler",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007559/74097",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Marc Schömbs",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007559/74097",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Sebastian Grub",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007559/74097",
+"stand": "2026-06-24"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 100001,
+"bis": 110000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/6a/3f/771454/Drees-Sommer-SE_Jahresabschluss-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007559/74097",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-24",
+"etikett": "Eigenangabe",
+"version": 2
+}
+]
+}

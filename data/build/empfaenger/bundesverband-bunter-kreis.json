@@ -1,0 +1,119 @@
+{
+"id": "bundesverband-bunter-kreis",
+"name": "Bundesverband Bunter Kreis e.V. ",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Augsburg",
+"website": "www.bv-bunter-kreis.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007155",
+"eintrag_id": 75610,
+"version": 3,
+"stand": "2026-04-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007155/75610",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/a0/3f/729544/Lobbyregister-Registereintraege-Detailansicht-R007155-2026-04-29_16-08-44.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesverwaltungsamt",
+"epl": "06",
+"von": 70001,
+"bis": 80000,
+"zweck": "Projektmittel: \"PEDNET-LC - Pädiatrisches Netzwerk für die Versorgung und Erforschung von postakuten Folgen von COVID-19, ähnlichen postakuten Infektions- und Impfsyndromen sowie ME/CFS bei Kindern und Jugendlichen. Mitarbeit in der Verbundkoordination TUM Klinken mit 39 weiteren Verbundpartnern.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 70001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Andreas Podeswik",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007155/75610",
+"stand": "2026-04-29"
+}
+},
+{
+"name": "Sibylle Meintrup",
+"funktion": "stellv. Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007155/75610",
+"stand": "2026-04-29"
+}
+},
+{
+"name": "Sönke Siefert",
+"funktion": "stellv. Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007155/75610",
+"stand": "2026-04-29"
+}
+},
+{
+"name": "Marita Grimm",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007155/75610",
+"stand": "2026-04-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 150001,
+"bis": 160000
+},
+"mitgliedsbeitraege": {
+"von": 320001,
+"bis": 330000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/24/0e/729542/2025_Bundesverband-Bunter-Kreis-e-V-Jahresabschlussbericht-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007155/75610",
+"abgerufen": "2026-11-02",
+"stand": "2026-04-29",
+"etikett": "Eigenangabe",
+"version": 3
+}
+]
+}

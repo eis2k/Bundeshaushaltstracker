@@ -1,0 +1,118 @@
+{
+"id": "deutsche-arbeitsgemeinschaft-selbsthilfegruppen",
+"name": "Deutsche Arbeitsgemeinschaft Selbsthilfegruppen",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Gießen",
+"website": "www.dag-shg.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004647",
+"eintrag_id": 84160,
+"version": 7,
+"stand": "2026-09-07",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004647/84160",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/78/4f/839205/Lobbyregister-Registereintraege-Detailansicht-R004647-2026-09-07_11-33-34.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Gesundheit",
+"epl": "15",
+"von": 160001,
+"bis": 170000,
+"zweck": "Die NAKOS erhielt eine Zuwendung für die Durchführung eines Projektes: Themenklassifikation für die gesundheitsbezogene Selbsthilfe: Entwicklung eines bundesweiten Standards. Die NAKOS ist eine Einrichtung der DAG SHG.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 160001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jutta Hundertmark-Mayser",
+"funktion": "Geschäftsführerin NAKOS",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004647/84160",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "André Beermann",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004647/84160",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Bütow Sabine",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004647/84160",
+"stand": "2026-09-07"
+}
+},
+{
+"name": "Anja Schödwell",
+"funktion": "Referentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004647/84160",
+"stand": "2026-09-07"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 30001,
+"bis": 40000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/87/dd/839204/DAG-SHG-Abschluss-2025-Testat.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004647/84160",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-07",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

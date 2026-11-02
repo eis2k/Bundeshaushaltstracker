@@ -1,0 +1,52 @@
+{
+"id": "bundesmonopolverwaltung",
+"name": "Bundesmonopolverwaltung",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "08-0820-68201",
+"text": "Zuschuss an die Bundesmonopolverwaltung für Branntwein",
+"epl": "08",
+"epl_text": "Bundesministerium der Finanzen",
+"werte": {
+"2015": {
+"soll": 55500000,
+"ist": 54950693
+},
+"2016": {
+"soll": 45000000,
+"ist": 51624837
+},
+"2017": {
+"soll": 40000000,
+"ist": 43442353
+},
+"2018": {
+"soll": 0,
+"ist": -6872
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

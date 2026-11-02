@@ -1,0 +1,107 @@
+{
+"id": "buendnis-kinder-und-jugendreha",
+"name": "Bündnis Kinder- und Jugendreha e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.kinder-und-jugendreha-im-netz.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005677",
+"eintrag_id": 72959,
+"version": 8,
+"stand": "2026-02-25",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005677/72959",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/1a/94/698784/Lobbyregister-Registereintraege-Detailansicht-R005677-2026-02-25_16-38-17.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Deutsche Rentenversicherung Nord und Bayern Süd",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Zuwendungen nach Paragraph 31 Abs. 1 Nr. 3 SGB VI als institutionelle Förderung/Festbetragsfinanzierung zur Deckung der anfallenden Kosten für die Förderung der Bildung und des Gesundheitswesens im Bereich der Rehabilitation und allgemeiner medizinischer Maßnahmen für Kinder und Jugendliche.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 10001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Andreas Auer",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005677/72959",
+"stand": "2026-02-25"
+}
+},
+{
+"name": "Annett Traue",
+"funktion": "stellvertretende Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005677/72959",
+"stand": "2026-02-25"
+}
+},
+{
+"name": "Friederike Neugebauer",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005677/72959",
+"stand": "2026-02-25"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 170001,
+"bis": 180000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/a2/3d/698783/2025-12-31-Jahresabschluss-2025-BKJR.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005677/72959",
+"abgerufen": "2026-11-02",
+"stand": "2026-02-25",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

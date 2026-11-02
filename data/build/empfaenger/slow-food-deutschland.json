@@ -1,0 +1,151 @@
+{
+"id": "slow-food-deutschland",
+"name": "Slow Food Deutschland e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.slowfood.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000406",
+"eintrag_id": 85876,
+"version": 15,
+"stand": "2026-09-15",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000406/85876",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/9c/ac/842302/Lobbyregister-Registereintraege-Detailansicht-R000406-2026-09-15_17-00-50.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH)",
+"epl": "10",
+"von": 240001,
+"bis": 250000,
+"zweck": "Das Projekt „Dialogforum private Haushalte 2.0“ (DiFo 2.0) ist ein Vorhaben im Rahmen der Nationalen Strategie zur Reduzierung der Lebensmittelverschwendung; es unterstützt private Haushalte dabei, Lebensmittelabfälle zu vermeiden. FKZ 2823SRL001; Bewilligung und Auszahlung durch die Bundesanstalt für Landwirtschaft und Ernährung (BLE) als Projektträger aus Kapitel 1002 Titel 68404.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN)",
+"epl": "16",
+"von": 80001,
+"bis": 90000,
+"zweck": "Das Projekt „Green Spoons“ richtet sich an Jugendliche und ihre Familien und zeigt, wie alltägliche Ernährungs- und Konsumentscheidungen biologische Vielfalt, Boden, Wasser und Klima beeinflussen. Im Mittelpunkt stehen modulare Unterrichtseinheiten und eine interaktive Online-Plattform rund um nachhaltige Ernährung. Förderung im Bundesprogramm Biologische Vielfalt, FKZ 3521685014; Bewilligung und Auszahlung durch das Bundesamt für Naturschutz (BfN) aus Kapitel 1604 Titel 89402.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 320002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ulrike Höller",
+"funktion": "Schatzmeisterin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000406/85876",
+"stand": "2026-09-15"
+}
+},
+{
+"name": "Rupert Ebner",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000406/85876",
+"stand": "2026-09-15"
+}
+},
+{
+"name": "Sabrina Buchholz",
+"funktion": "stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000406/85876",
+"stand": "2026-09-15"
+}
+},
+{
+"name": "Jens Herion",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000406/85876",
+"stand": "2026-09-15"
+}
+},
+{
+"name": "Andreas Fischer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000406/85876",
+"stand": "2026-09-15"
+}
+},
+{
+"name": "Sharon Sheets",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000406/85876",
+"stand": "2026-09-15"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 70001,
+"bis": 80000
+},
+"mitgliedsbeitraege": {
+"von": 1040001,
+"bis": 1050000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/10/21/842301/Jahresabschluss-2025_nur-Bilanz.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000406/85876",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-15",
+"etikett": "Eigenangabe",
+"version": 15
+}
+]
+}

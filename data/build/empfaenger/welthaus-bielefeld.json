@@ -1,0 +1,183 @@
+{
+"id": "welthaus-bielefeld",
+"name": "Welthaus Bielefeld e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bielefeld",
+"website": "www.welthaus.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002962",
+"eintrag_id": 73081,
+"version": 16,
+"stand": "2026-02-28",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002962/73081",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/fd/dc/699756/Lobbyregister-Registereintraege-Detailansicht-R002962-2026-02-28_23-38-40.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Engagement Global gGmbH - im Auftrag des BMZ",
+"epl": "23",
+"von": 790001,
+"bis": 800000,
+"zweck": "Projektförderungen für Projekte aus der entwicklungspolitischen Inlandsarbeit (FEB, AGP) sowie Projektförderung für den Entwicklungspolitischen Austausch- und Entsendedienst \"weltwärts\"",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Engagement Global gGmbH - im Auftrag des BMZ",
+"epl": "23",
+"von": 320001,
+"bis": 330000,
+"zweck": "Zuwendung im Rahmen des Titels \"Private Träger\" für Auslandsprojekte",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 1110002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Josef Hilbert",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002962/73081",
+"stand": "2026-02-28"
+}
+},
+{
+"name": "Bulemu  Mutale",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002962/73081",
+"stand": "2026-02-28"
+}
+},
+{
+"name": "Wilhelm Gunkel",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002962/73081",
+"stand": "2026-02-28"
+}
+},
+{
+"name": "Ulrich Boldt",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002962/73081",
+"stand": "2026-02-28"
+}
+},
+{
+"name": "Monika Scheffler",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002962/73081",
+"stand": "2026-02-28"
+}
+},
+{
+"name": "Benjamin Tunnat",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002962/73081",
+"stand": "2026-02-28"
+}
+},
+{
+"name": "Annette Urban-Engels",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002962/73081",
+"stand": "2026-02-28"
+}
+},
+{
+"name": "Lara Bartels",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002962/73081",
+"stand": "2026-02-28"
+}
+},
+{
+"name": "Beate Wolff",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002962/73081",
+"stand": "2026-02-28"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 440001,
+"bis": 450000
+},
+"mitgliedsbeitraege": {
+"von": 10001,
+"bis": 20000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/04/c0/699755/Welthaus-Bielefeld_Bilanz-GuV-2024.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002962/73081",
+"abgerufen": "2026-11-02",
+"stand": "2026-02-28",
+"etikett": "Eigenangabe",
+"version": 16
+}
+]
+}

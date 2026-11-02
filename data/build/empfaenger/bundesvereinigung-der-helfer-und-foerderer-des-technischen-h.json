@@ -1,0 +1,195 @@
+{
+"id": "bundesvereinigung-der-helfer-und-foerderer-des-technischen-h",
+"name": "Bundesvereinigung der Helfer und Förderer des Technischen Hilfswerks - THW-Bundesvereinigung e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.thw-bv.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002315",
+"eintrag_id": 86630,
+"version": 10,
+"stand": "2026-09-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002315/86630",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c6/a7/850291/Lobbyregister-Registereintraege-Detailansicht-R002315-2026-09-29_14-42-11.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesanstalt Technisches Hilfswerk",
+"epl": null,
+"von": 1550001,
+"bis": 1560000,
+"zweck": "Die THW-Bundesvereinigung ist Zuwendungsempfänger der Bundesanstalt Technisches Hilfswerk. Das Technische Hilfswerk ist wiederum dem Bundesministerium des Innern und für Heimat unterstellt.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1550001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Martin Gerster",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002315/86630",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Marc Henrichmann",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002315/86630",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Maik Pawlowsky",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002315/86630",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Markus Jaugitz",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002315/86630",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Michael Matrian",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002315/86630",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Zippora Lojenburg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002315/86630",
+"stand": "2026-09-29"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Martin Gerster",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag",
+"funktion_beim_empfaenger": "Präsident",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Martin Gerster ist laut Lobbyregister Präsident bei Bundesvereinigung der Helfer und Förderer des Technischen Hilfswerks - THW-Bundesvereinigung e.V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag. Bundesvereinigung der Helfer und Förderer des Technischen Hilfswerks - THW-Bundesvereinigung e.V. erhielt laut Lobbyregister Mittel von: Bundesanstalt Technisches Hilfswerk.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesanstalt Technisches Hilfswerk"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002315/86630",
+"stand": "2026-09-29"
+}
+],
+"stand": "2026-09-29"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Marc Henrichmann",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag",
+"funktion_beim_empfaenger": "Vizepräsident",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Marc Henrichmann ist laut Lobbyregister Vizepräsident bei Bundesvereinigung der Helfer und Förderer des Technischen Hilfswerks - THW-Bundesvereinigung e.V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag. Bundesvereinigung der Helfer und Förderer des Technischen Hilfswerks - THW-Bundesvereinigung e.V. erhielt laut Lobbyregister Mittel von: Bundesanstalt Technisches Hilfswerk.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesanstalt Technisches Hilfswerk"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002315/86630",
+"stand": "2026-09-29"
+}
+],
+"stand": "2026-09-29"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 40001,
+"bis": 50000
+},
+"lobbyausgaben": {
+"von": 100001,
+"bis": 110000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/a2/df/850290/2_1_4-2025_03_24-Verwendungsnachweis_final.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002315/86630",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-29",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

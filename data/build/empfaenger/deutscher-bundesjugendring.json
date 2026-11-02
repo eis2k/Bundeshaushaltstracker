@@ -1,0 +1,431 @@
+{
+"id": "deutscher-bundesjugendring",
+"name": "Deutscher Bundesjugendring e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.dbjr.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000522",
+"eintrag_id": 80139,
+"version": 20,
+"stand": "2026-07-07",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000522/80139",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/e1/d4/808216/Lobbyregister-Registereintraege-Detailansicht-R000522-2026-07-07_18-07-14.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 1840001,
+"bis": 1850000,
+"zweck": "Mittel aus dem Kinder- und Jugendplan des Bundes für Maßnahmen, Personal und Infrastruktur.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+"epl": "16",
+"von": 10001,
+"bis": 20000,
+"zweck": "Mittel für Maßnahmen, Personal und Infrastruktur im Rahmen des HLPF.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 140001,
+"bis": 150000,
+"zweck": "Zuwendung für das Projekt \"Koordinierungsstelle Jugendbeteiligung in Klimafragen\" und \"Rat für nachhaltige Entwicklung\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1990003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Daniela Broda",
+"funktion": "Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000522/80139",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Wendelin Haag",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000522/80139",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Özge  Erdoğan",
+"funktion": "stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000522/80139",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Lena Bloemacher",
+"funktion": "stellv. Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000522/80139",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Moritz Tapp",
+"funktion": "stellv. Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000522/80139",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Jonathan Schweizer",
+"funktion": "stellv. Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000522/80139",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Sophie Schmitz",
+"funktion": "stellv. Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000522/80139",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Regina Gehlisch",
+"funktion": "stellv. Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000522/80139",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Kirstin Weis",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000522/80139",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Christian Weis",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000522/80139",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Frederik Sübai",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000522/80139",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Carolin Vogt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-04"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000522/80139",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Lars Reisner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000522/80139",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Shari Kohlmeyer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000522/80139",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Christina Schneider",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2023-10"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000522/80139",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Miriam Zubke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000522/80139",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Maximilian Lorenz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000522/80139",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Matthias Starz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000522/80139",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Friederike Heuer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000522/80139",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Melanie Schütz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000522/80139",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Sophie Schillings",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000522/80139",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Stephanie Hilck",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-06"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000522/80139",
+"stand": "2026-07-07"
+}
+},
+{
+"name": "Charlotte Hochegger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000522/80139",
+"stand": "2026-07-07"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Carolin Vogt",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-04",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Carolin Vogt ist laut Lobbyregister Interessenvertretung bei Deutscher Bundesjugendring e.V. und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-04. Deutscher Bundesjugendring e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend; Bundesministerium für Wirtschaft und Klimaschutz; Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"Bundesministerium für Wirtschaft und Klimaschutz",
+"Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000522/80139",
+"stand": "2026-07-07"
+}
+],
+"stand": "2026-07-07"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Christina Schneider",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-10",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Christina Schneider ist laut Lobbyregister Interessenvertretung bei Deutscher Bundesjugendring e.V. und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-10. Deutscher Bundesjugendring e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend; Bundesministerium für Wirtschaft und Klimaschutz; Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"Bundesministerium für Wirtschaft und Klimaschutz",
+"Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000522/80139",
+"stand": "2026-07-07"
+}
+],
+"stand": "2026-07-07"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Stephanie Hilck",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-06",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Stephanie Hilck ist laut Lobbyregister Interessenvertretung bei Deutscher Bundesjugendring e.V. und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-06. Deutscher Bundesjugendring e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend; Bundesministerium für Wirtschaft und Klimaschutz; Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"Bundesministerium für Wirtschaft und Klimaschutz",
+"Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000522/80139",
+"stand": "2026-07-07"
+}
+],
+"stand": "2026-07-07"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 90001,
+"bis": 100000
+},
+"lobbyausgaben": {
+"von": 170001,
+"bis": 180000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/30/4d/808215/Jahresabschluss_2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000522/80139",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-07",
+"etikett": "Eigenangabe",
+"version": 20
+}
+]
+}

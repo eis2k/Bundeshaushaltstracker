@@ -1,0 +1,1776 @@
+# Automatisch erzeugt von `bht build`. Ähnliche, nicht exakt gleiche Namen. Bestätigen: Alias in data/manual/empfaenger.yaml.
+stand: '2026-11-02'
+kandidaten:
+- name_a: Deutsche Gesellschaft für Telemedizin
+  quelle_a: Lobbyregister R000494
+  name_b: Deutsche Gesellschaft für Ernährungsmedizin e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 0.867
+- name_a: Katholische Zentralstelle für Globale Entwicklung e. V.
+  quelle_a: Lobbyregister R001643
+  name_b: Evangelische Zentralstelle für globale Entwicklung e. V. (EZE)
+  quelle_b: Stamm
+  aehnlichkeit: 0.911
+- name_a: Deutscher Bauernverband e.V.
+  quelle_a: Lobbyregister R002175
+  name_b: Hessischer Bauernverband e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 0.851
+- name_a: Verbraucherzentrale Sachsen e. V.
+  quelle_a: Lobbyregister R002275
+  name_b: Verbraucherzentrale Bayern e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 0.868
+- name_a: netzwerk-m e.V.
+  quelle_a: Lobbyregister R002298
+  name_b: Eine-Welt-Landesnetzwerk Mecklenburg-Vorpommern e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: netzwerk-m e.V.
+  quelle_a: Lobbyregister R002298
+  name_b: Bundesnetzwerk Mehrgenerationenhäuser e.V. (BNW MGH e.V.)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: CARE Deutschland e.V.
+  quelle_a: Lobbyregister R002577
+  name_b: ADRA Deutschland e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 0.875
+- name_a: ELNET Deutschland e.V.
+  quelle_a: Lobbyregister R002671
+  name_b: ENGIE Deutschland AG
+  quelle_b: Stamm
+  aehnlichkeit: 0.882
+- name_a: Bund für Umwelt und Naturschutz Deutschland Landesverband Nordrhein-Westfalen
+    e.V.
+  quelle_a: Lobbyregister R003074
+  name_b: Bund für Umwelt und Naturschutz Deutschland e.V. (BUND)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: 'Bund für Umwelt und Naturschutz Deutschland (BUND) Landesverband Rheinland-Pfalz
+    e. V. '
+  quelle_a: Lobbyregister R003175
+  name_b: Bund für Umwelt und Naturschutz Deutschland e.V. (BUND)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: 'Bund für Umwelt und Naturschutz Deutschland (BUND) Landesverband Rheinland-Pfalz
+    e. V. '
+  quelle_a: Lobbyregister R003175
+  name_b: Bund für Umwelt und Naturschutz Deutschland Landesverband Nordrhein-Westfalen
+    e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 0.895
+- name_a: Bund für Umwelt und Naturschutz Deutschland Landesverband Thüringen e.V.
+  quelle_a: Lobbyregister R003177
+  name_b: Bund für Umwelt und Naturschutz Deutschland e.V. (BUND)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Bund für Umwelt und Naturschutz Deutschland Landesverband Thüringen e.V.
+  quelle_a: Lobbyregister R003177
+  name_b: 'Bund für Umwelt und Naturschutz Deutschland (BUND) Landesverband Rheinland-Pfalz
+    e. V. '
+  quelle_b: Stamm
+  aehnlichkeit: 0.895
+- name_a: Bund für Umwelt und Naturschutz Deutschland Landesverband Thüringen e.V.
+  quelle_a: Lobbyregister R003177
+  name_b: Bund für Umwelt und Naturschutz Deutschland Landesverband Nordrhein-Westfalen
+    e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 0.884
+- name_a: Verbraucherzentrale Sachsen-Anhalt e. V.
+  quelle_a: Lobbyregister R003268
+  name_b: Verbraucherzentrale Sachsen e. V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Verbraucherzentrale Berlin e.V.
+  quelle_a: Lobbyregister R003303
+  name_b: Verbraucherzentrale Bayern e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 0.923
+- name_a: Westdeutscher Handwerkskammertag e.V.
+  quelle_a: Lobbyregister R003316
+  name_b: Deutscher Handwerkskammertag
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Bund für Umwelt und Naturschutz Deutschland (BUND) Landesverband Sachsen
+    e.V.
+  quelle_a: Lobbyregister R003739
+  name_b: Bund für Umwelt und Naturschutz Deutschland e.V. (BUND)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Bund für Umwelt und Naturschutz Deutschland (BUND) Landesverband Sachsen
+    e.V.
+  quelle_a: Lobbyregister R003739
+  name_b: Bund für Umwelt und Naturschutz Deutschland Landesverband Thüringen e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 0.919
+- name_a: Bund für Umwelt und Naturschutz Deutschland (BUND) Landesverband Sachsen
+    e.V.
+  quelle_a: Lobbyregister R003739
+  name_b: Bund für Umwelt und Naturschutz Deutschland Landesverband Nordrhein-Westfalen
+    e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 0.875
+- name_a: Bund für Umwelt und Naturschutz Deutschland (BUND) Landesverband Sachsen
+    e.V.
+  quelle_a: Lobbyregister R003739
+  name_b: 'Bund für Umwelt und Naturschutz Deutschland (BUND) Landesverband Rheinland-Pfalz
+    e. V. '
+  quelle_b: Stamm
+  aehnlichkeit: 0.871
+- name_a: BUND Sachsen-Anhalt e.V.
+  quelle_a: Lobbyregister R003842
+  name_b: Landessportbund Sachsen-Anhalt e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Deutsche Gesellschaft für Ernährung e. V.
+  quelle_a: Lobbyregister R003847
+  name_b: Deutsche Gesellschaft für Ernährungsmedizin e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Deutscher Ruderverband
+  quelle_a: Lobbyregister R003984
+  name_b: Deutscher Bauernverband e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 0.889
+- name_a: Deutsch-Australische Industrie- und Handelskammer (AHK Australien)
+  quelle_a: Lobbyregister R004000
+  name_b: Deutsch-Emiratische Industrie- und Handelskammer (AHK)
+  quelle_b: Stamm
+  aehnlichkeit: 0.905
+- name_a: Deutsch-Ecuadorianische Industrie- und Handelskammer (AHK Ecuador)
+  quelle_a: Lobbyregister R004044
+  name_b: Deutsch-Emiratische Industrie- und Handelskammer (AHK)
+  quelle_b: Stamm
+  aehnlichkeit: 0.878
+- name_a: Deutsch-Ecuadorianische Industrie- und Handelskammer (AHK Ecuador)
+  quelle_a: Lobbyregister R004044
+  name_b: Deutsch-Australische Industrie- und Handelskammer (AHK Australien)
+  quelle_b: Stamm
+  aehnlichkeit: 0.869
+- name_a: Bund für Umwelt und Naturschutz Deutschland Landesverband Bremen e.V.
+  quelle_a: Lobbyregister R004055
+  name_b: Bund für Umwelt und Naturschutz Deutschland e.V. (BUND)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Bund für Umwelt und Naturschutz Deutschland Landesverband Bremen e.V.
+  quelle_a: Lobbyregister R004055
+  name_b: Bund für Umwelt und Naturschutz Deutschland (BUND) Landesverband Sachsen
+    e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 0.931
+- name_a: Bund für Umwelt und Naturschutz Deutschland Landesverband Bremen e.V.
+  quelle_a: Lobbyregister R004055
+  name_b: Bund für Umwelt und Naturschutz Deutschland Landesverband Thüringen e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 0.925
+- name_a: Bund für Umwelt und Naturschutz Deutschland Landesverband Bremen e.V.
+  quelle_a: Lobbyregister R004055
+  name_b: 'Bund für Umwelt und Naturschutz Deutschland (BUND) Landesverband Rheinland-Pfalz
+    e. V. '
+  quelle_b: Stamm
+  aehnlichkeit: 0.892
+- name_a: Bund für Umwelt und Naturschutz Deutschland Landesverband Bremen e.V.
+  quelle_a: Lobbyregister R004055
+  name_b: Bund für Umwelt und Naturschutz Deutschland Landesverband Nordrhein-Westfalen
+    e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 0.881
+- name_a: DEUTSCH - GRIECHISCHE INDUSTRIE- UND HANDELSKAMMER (AHK GRIECHENLAND)
+  quelle_a: Lobbyregister R004074
+  name_b: Deutsch-Emiratische Industrie- und Handelskammer (AHK)
+  quelle_b: Stamm
+  aehnlichkeit: 0.894
+- name_a: DEUTSCH - GRIECHISCHE INDUSTRIE- UND HANDELSKAMMER (AHK GRIECHENLAND)
+  quelle_a: Lobbyregister R004074
+  name_b: Deutsch-Australische Industrie- und Handelskammer (AHK Australien)
+  quelle_b: Stamm
+  aehnlichkeit: 0.884
+- name_a: DEUTSCH - GRIECHISCHE INDUSTRIE- UND HANDELSKAMMER (AHK GRIECHENLAND)
+  quelle_a: Lobbyregister R004074
+  name_b: Deutsch-Ecuadorianische Industrie- und Handelskammer (AHK Ecuador)
+  quelle_b: Stamm
+  aehnlichkeit: 0.878
+- name_a: Deutsch-Rumänische Industrie- und Handelskammer (AHK Rumänien)
+  quelle_a: Lobbyregister R004229
+  name_b: DEUTSCH - GRIECHISCHE INDUSTRIE- UND HANDELSKAMMER (AHK GRIECHENLAND)
+  quelle_b: Stamm
+  aehnlichkeit: 0.915
+- name_a: Deutsch-Rumänische Industrie- und Handelskammer (AHK Rumänien)
+  quelle_a: Lobbyregister R004229
+  name_b: Deutsch-Emiratische Industrie- und Handelskammer (AHK)
+  quelle_b: Stamm
+  aehnlichkeit: 0.915
+- name_a: Deutsch-Rumänische Industrie- und Handelskammer (AHK Rumänien)
+  quelle_a: Lobbyregister R004229
+  name_b: Deutsch-Australische Industrie- und Handelskammer (AHK Australien)
+  quelle_b: Stamm
+  aehnlichkeit: 0.905
+- name_a: Deutsch-Rumänische Industrie- und Handelskammer (AHK Rumänien)
+  quelle_a: Lobbyregister R004229
+  name_b: Deutsch-Ecuadorianische Industrie- und Handelskammer (AHK Ecuador)
+  quelle_b: Stamm
+  aehnlichkeit: 0.898
+- name_a: Bund der Deutschen Katholischen Jugend BDKJ Bayern
+  quelle_a: Lobbyregister R004256
+  name_b: Bund der Deutschen Katholischen Jugend (BDKJ)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Deutscher Golf Verband e. V.
+  quelle_a: Lobbyregister R004282
+  name_b: Deutscher Segler-Verband e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 0.87
+- name_a: Landessportbund Sachsen e.V.
+  quelle_a: Lobbyregister R004445
+  name_b: Landessportbund Sachsen-Anhalt e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Landessportbund Sachsen e.V.
+  quelle_a: Lobbyregister R004445
+  name_b: Landessportbund Hessen e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 0.889
+- name_a: Landessportbund Sachsen e.V.
+  quelle_a: Lobbyregister R004445
+  name_b: Landessportbund Niedersachsen
+  quelle_b: Stamm
+  aehnlichkeit: 0.885
+- name_a: Boeing Deutschland GmbH
+  quelle_a: Lobbyregister R004507
+  name_b: Kolping Deutschland
+  quelle_b: Stamm
+  aehnlichkeit: 0.865
+- name_a: Boeing Deutschland GmbH
+  quelle_a: Lobbyregister R004507
+  name_b: ENGIE Deutschland AG
+  quelle_b: Stamm
+  aehnlichkeit: 0.857
+- name_a: Deutsch-Slowenische Industrie- und Handelskammer
+  quelle_a: Lobbyregister R004616
+  name_b: Deutsch-Rumänische Industrie- und Handelskammer (AHK Rumänien)
+  quelle_b: Stamm
+  aehnlichkeit: 0.915
+- name_a: Deutsch-Slowenische Industrie- und Handelskammer
+  quelle_a: Lobbyregister R004616
+  name_b: Deutsch-Australische Industrie- und Handelskammer (AHK Australien)
+  quelle_b: Stamm
+  aehnlichkeit: 0.905
+- name_a: Deutsch-Slowenische Industrie- und Handelskammer
+  quelle_a: Lobbyregister R004616
+  name_b: DEUTSCH - GRIECHISCHE INDUSTRIE- UND HANDELSKAMMER (AHK GRIECHENLAND)
+  quelle_b: Stamm
+  aehnlichkeit: 0.894
+- name_a: Deutsch-Slowenische Industrie- und Handelskammer
+  quelle_a: Lobbyregister R004616
+  name_b: Deutsch-Emiratische Industrie- und Handelskammer (AHK)
+  quelle_b: Stamm
+  aehnlichkeit: 0.894
+- name_a: Deutsch-Slowenische Industrie- und Handelskammer
+  quelle_a: Lobbyregister R004616
+  name_b: Deutsch-Ecuadorianische Industrie- und Handelskammer (AHK Ecuador)
+  quelle_b: Stamm
+  aehnlichkeit: 0.878
+- name_a: Deutsch-Peruanische Industrie- und Handelskammer
+  quelle_a: Lobbyregister R004730
+  name_b: Deutsch-Rumänische Industrie- und Handelskammer (AHK Rumänien)
+  quelle_b: Stamm
+  aehnlichkeit: 0.957
+- name_a: Deutsch-Peruanische Industrie- und Handelskammer
+  quelle_a: Lobbyregister R004730
+  name_b: Deutsch-Emiratische Industrie- und Handelskammer (AHK)
+  quelle_b: Stamm
+  aehnlichkeit: 0.936
+- name_a: Deutsch-Peruanische Industrie- und Handelskammer
+  quelle_a: Lobbyregister R004730
+  name_b: Deutsch-Ecuadorianische Industrie- und Handelskammer (AHK Ecuador)
+  quelle_b: Stamm
+  aehnlichkeit: 0.918
+- name_a: Deutsch-Peruanische Industrie- und Handelskammer
+  quelle_a: Lobbyregister R004730
+  name_b: Deutsch-Slowenische Industrie- und Handelskammer
+  quelle_b: Stamm
+  aehnlichkeit: 0.915
+- name_a: Deutsch-Peruanische Industrie- und Handelskammer
+  quelle_a: Lobbyregister R004730
+  name_b: Deutsch-Australische Industrie- und Handelskammer (AHK Australien)
+  quelle_b: Stamm
+  aehnlichkeit: 0.905
+- name_a: Deutsch-Peruanische Industrie- und Handelskammer
+  quelle_a: Lobbyregister R004730
+  name_b: DEUTSCH - GRIECHISCHE INDUSTRIE- UND HANDELSKAMMER (AHK GRIECHENLAND)
+  quelle_b: Stamm
+  aehnlichkeit: 0.894
+- name_a: Deutsche Chorjugend e.V.
+  quelle_a: Lobbyregister R004771
+  name_b: 'Deutsche Sportjugend (dsj) '
+  quelle_b: Stamm
+  aehnlichkeit: 0.872
+- name_a: PFAD Bundesverband e.V.
+  quelle_a: Lobbyregister R005052
+  name_b: AWO Bundesverband e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 0.857
+- name_a: Bundesarbeitsgemeinschaft Katholische Jugendsozialarbeit (BAG KJS) e.V.
+  quelle_a: Lobbyregister R005076
+  name_b: Bundesarbeitsgemeinschaft Evangelische Jugendsozialarbeit e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 0.92
+- name_a: Zentralverband des Deutschen Baugewerbes e.V.
+  quelle_a: Lobbyregister R005093
+  name_b: Zentralverband des Deutschen Handwerks (ZDH)
+  quelle_b: Stamm
+  aehnlichkeit: 0.872
+- name_a: Deutsch-Singapurische Industrie- und Handelskammer
+  quelle_a: Lobbyregister R005119
+  name_b: Deutsch-Slowenische Industrie- und Handelskammer
+  quelle_b: Stamm
+  aehnlichkeit: 0.896
+- name_a: Deutsch-Singapurische Industrie- und Handelskammer
+  quelle_a: Lobbyregister R005119
+  name_b: Deutsch-Emiratische Industrie- und Handelskammer (AHK)
+  quelle_b: Stamm
+  aehnlichkeit: 0.896
+- name_a: Deutsch-Singapurische Industrie- und Handelskammer
+  quelle_a: Lobbyregister R005119
+  name_b: Deutsch-Australische Industrie- und Handelskammer (AHK Australien)
+  quelle_b: Stamm
+  aehnlichkeit: 0.887
+- name_a: Deutsch-Singapurische Industrie- und Handelskammer
+  quelle_a: Lobbyregister R005119
+  name_b: Deutsch-Rumänische Industrie- und Handelskammer (AHK Rumänien)
+  quelle_b: Stamm
+  aehnlichkeit: 0.875
+- name_a: Deutsch-Singapurische Industrie- und Handelskammer
+  quelle_a: Lobbyregister R005119
+  name_b: Deutsch-Peruanische Industrie- und Handelskammer
+  quelle_b: Stamm
+  aehnlichkeit: 0.875
+- name_a: Deutsch-Singapurische Industrie- und Handelskammer
+  quelle_a: Lobbyregister R005119
+  name_b: DEUTSCH - GRIECHISCHE INDUSTRIE- UND HANDELSKAMMER (AHK GRIECHENLAND)
+  quelle_b: Stamm
+  aehnlichkeit: 0.875
+- name_a: Deutsch-Singapurische Industrie- und Handelskammer
+  quelle_a: Lobbyregister R005119
+  name_b: Deutsch-Ecuadorianische Industrie- und Handelskammer (AHK Ecuador)
+  quelle_b: Stamm
+  aehnlichkeit: 0.86
+- name_a: Deutsch-Finnische Handelskammer e.V.
+  quelle_a: Lobbyregister R005214
+  name_b: Deutsch-Italienische Handelskammer (AHK Italien)
+  quelle_b: Stamm
+  aehnlichkeit: 0.892
+- name_a: Deutsch-Britische Gesellschaft e.V.
+  quelle_a: Lobbyregister R005494
+  name_b: Deutsch-Israelische Gesellschaft e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 0.871
+- name_a: Deutsch-Bolivianische Industrie- und Handelskammer (AHK Bolivien)
+  quelle_a: Lobbyregister R005535
+  name_b: Deutsch-Ecuadorianische Industrie- und Handelskammer (AHK Ecuador)
+  quelle_b: Stamm
+  aehnlichkeit: 0.9
+- name_a: Deutsch-Bolivianische Industrie- und Handelskammer (AHK Bolivien)
+  quelle_a: Lobbyregister R005535
+  name_b: Deutsch-Slowenische Industrie- und Handelskammer
+  quelle_b: Stamm
+  aehnlichkeit: 0.896
+- name_a: Deutsch-Bolivianische Industrie- und Handelskammer (AHK Bolivien)
+  quelle_a: Lobbyregister R005535
+  name_b: Deutsch-Rumänische Industrie- und Handelskammer (AHK Rumänien)
+  quelle_b: Stamm
+  aehnlichkeit: 0.896
+- name_a: Deutsch-Bolivianische Industrie- und Handelskammer (AHK Bolivien)
+  quelle_a: Lobbyregister R005535
+  name_b: Deutsch-Peruanische Industrie- und Handelskammer
+  quelle_b: Stamm
+  aehnlichkeit: 0.896
+- name_a: Deutsch-Bolivianische Industrie- und Handelskammer (AHK Bolivien)
+  quelle_a: Lobbyregister R005535
+  name_b: Deutsch-Emiratische Industrie- und Handelskammer (AHK)
+  quelle_b: Stamm
+  aehnlichkeit: 0.896
+- name_a: Deutsch-Bolivianische Industrie- und Handelskammer (AHK Bolivien)
+  quelle_a: Lobbyregister R005535
+  name_b: Deutsch-Singapurische Industrie- und Handelskammer
+  quelle_b: Stamm
+  aehnlichkeit: 0.878
+- name_a: Deutsch-Bolivianische Industrie- und Handelskammer (AHK Bolivien)
+  quelle_a: Lobbyregister R005535
+  name_b: DEUTSCH - GRIECHISCHE INDUSTRIE- UND HANDELSKAMMER (AHK GRIECHENLAND)
+  quelle_b: Stamm
+  aehnlichkeit: 0.875
+- name_a: Deutsch-Bolivianische Industrie- und Handelskammer (AHK Bolivien)
+  quelle_a: Lobbyregister R005535
+  name_b: Deutsch-Australische Industrie- und Handelskammer (AHK Australien)
+  quelle_b: Stamm
+  aehnlichkeit: 0.866
+- name_a: Deutsch-Kroatische Industrie- und Handelskammer (AHK Kroatien)
+  quelle_a: Lobbyregister R005785
+  name_b: Deutsch-Emiratische Industrie- und Handelskammer (AHK)
+  quelle_b: Stamm
+  aehnlichkeit: 0.946
+- name_a: Deutsch-Kroatische Industrie- und Handelskammer (AHK Kroatien)
+  quelle_a: Lobbyregister R005785
+  name_b: Deutsch-Rumänische Industrie- und Handelskammer (AHK Rumänien)
+  quelle_b: Stamm
+  aehnlichkeit: 0.925
+- name_a: Deutsch-Kroatische Industrie- und Handelskammer (AHK Kroatien)
+  quelle_a: Lobbyregister R005785
+  name_b: Deutsch-Peruanische Industrie- und Handelskammer
+  quelle_b: Stamm
+  aehnlichkeit: 0.925
+- name_a: Deutsch-Kroatische Industrie- und Handelskammer (AHK Kroatien)
+  quelle_a: Lobbyregister R005785
+  name_b: Deutsch-Australische Industrie- und Handelskammer (AHK Australien)
+  quelle_b: Stamm
+  aehnlichkeit: 0.915
+- name_a: Deutsch-Kroatische Industrie- und Handelskammer (AHK Kroatien)
+  quelle_a: Lobbyregister R005785
+  name_b: Deutsch-Bolivianische Industrie- und Handelskammer (AHK Bolivien)
+  quelle_b: Stamm
+  aehnlichkeit: 0.905
+- name_a: Deutsch-Kroatische Industrie- und Handelskammer (AHK Kroatien)
+  quelle_a: Lobbyregister R005785
+  name_b: Deutsch-Slowenische Industrie- und Handelskammer
+  quelle_b: Stamm
+  aehnlichkeit: 0.903
+- name_a: Deutsch-Kroatische Industrie- und Handelskammer (AHK Kroatien)
+  quelle_a: Lobbyregister R005785
+  name_b: DEUTSCH - GRIECHISCHE INDUSTRIE- UND HANDELSKAMMER (AHK GRIECHENLAND)
+  quelle_b: Stamm
+  aehnlichkeit: 0.903
+- name_a: Deutsch-Kroatische Industrie- und Handelskammer (AHK Kroatien)
+  quelle_a: Lobbyregister R005785
+  name_b: Deutsch-Ecuadorianische Industrie- und Handelskammer (AHK Ecuador)
+  quelle_b: Stamm
+  aehnlichkeit: 0.887
+- name_a: Deutsch-Kroatische Industrie- und Handelskammer (AHK Kroatien)
+  quelle_a: Lobbyregister R005785
+  name_b: Deutsch-Singapurische Industrie- und Handelskammer
+  quelle_b: Stamm
+  aehnlichkeit: 0.884
+- name_a: Deutsch-Brasilianische Industrie- und Handelskammer Rio de Janeiro, Brasilien
+  quelle_a: Lobbyregister R005901
+  name_b: Deutsch-Brasilianische Industrie- und Handelskammer Rio Grande do Sul
+  quelle_b: Stamm
+  aehnlichkeit: 0.867
+- name_a: Landesnetzwerk Migrantenorganisationen Sachsen-Anhalt (LAMSA) e.V.
+  quelle_a: Lobbyregister R006017
+  name_b: netzwerk-m e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Deutsche Industrie- und Handelskammer in Japan (AHK Japan)
+  quelle_a: Lobbyregister R006021
+  name_b: Deutsche Industrie- und Handelskammer in Marokko (AHK Marokko)
+  quelle_b: Stamm
+  aehnlichkeit: 0.891
+- name_a: Experiment e.V.
+  quelle_a: Lobbyregister R006069
+  name_b: Twincore, Zentrum für Experimentelle und Klinische Infektionsforschung GmbH
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Deutsch-Argentinische Industrie-und Handelskammer (AHK Argentinien)
+  quelle_a: Lobbyregister R006313
+  name_b: Deutsch-Rumänische Industrie- und Handelskammer (AHK Rumänien)
+  quelle_b: Stamm
+  aehnlichkeit: 0.917
+- name_a: Deutsch-Argentinische Industrie-und Handelskammer (AHK Argentinien)
+  quelle_a: Lobbyregister R006313
+  name_b: Deutsch-Kroatische Industrie- und Handelskammer (AHK Kroatien)
+  quelle_b: Stamm
+  aehnlichkeit: 0.905
+- name_a: Deutsch-Argentinische Industrie-und Handelskammer (AHK Argentinien)
+  quelle_a: Lobbyregister R006313
+  name_b: Deutsch-Ecuadorianische Industrie- und Handelskammer (AHK Ecuador)
+  quelle_b: Stamm
+  aehnlichkeit: 0.9
+- name_a: Deutsch-Argentinische Industrie-und Handelskammer (AHK Argentinien)
+  quelle_a: Lobbyregister R006313
+  name_b: Deutsch-Slowenische Industrie- und Handelskammer
+  quelle_b: Stamm
+  aehnlichkeit: 0.896
+- name_a: Deutsch-Argentinische Industrie-und Handelskammer (AHK Argentinien)
+  quelle_a: Lobbyregister R006313
+  name_b: Deutsch-Peruanische Industrie- und Handelskammer
+  quelle_b: Stamm
+  aehnlichkeit: 0.896
+- name_a: Deutsch-Argentinische Industrie-und Handelskammer (AHK Argentinien)
+  quelle_a: Lobbyregister R006313
+  name_b: DEUTSCH - GRIECHISCHE INDUSTRIE- UND HANDELSKAMMER (AHK GRIECHENLAND)
+  quelle_b: Stamm
+  aehnlichkeit: 0.896
+- name_a: Deutsch-Argentinische Industrie-und Handelskammer (AHK Argentinien)
+  quelle_a: Lobbyregister R006313
+  name_b: Deutsch-Emiratische Industrie- und Handelskammer (AHK)
+  quelle_b: Stamm
+  aehnlichkeit: 0.896
+- name_a: Deutsch-Argentinische Industrie-und Handelskammer (AHK Argentinien)
+  quelle_a: Lobbyregister R006313
+  name_b: Deutsch-Australische Industrie- und Handelskammer (AHK Australien)
+  quelle_b: Stamm
+  aehnlichkeit: 0.887
+- name_a: Deutsch-Argentinische Industrie-und Handelskammer (AHK Argentinien)
+  quelle_a: Lobbyregister R006313
+  name_b: Deutsch-Singapurische Industrie- und Handelskammer
+  quelle_b: Stamm
+  aehnlichkeit: 0.878
+- name_a: Deutsch-Argentinische Industrie-und Handelskammer (AHK Argentinien)
+  quelle_a: Lobbyregister R006313
+  name_b: Deutsch-Bolivianische Industrie- und Handelskammer (AHK Bolivien)
+  quelle_b: Stamm
+  aehnlichkeit: 0.878
+- name_a: Bund für Umwelt- und Naturschutz Deutschland Landesverband Niedersachsen
+    e.V.
+  quelle_a: Lobbyregister R006403
+  name_b: Bund für Umwelt und Naturschutz Deutschland e.V. (BUND)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Bund für Umwelt- und Naturschutz Deutschland Landesverband Niedersachsen
+    e.V.
+  quelle_a: Lobbyregister R006403
+  name_b: Bund für Umwelt und Naturschutz Deutschland (BUND) Landesverband Sachsen
+    e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 0.957
+- name_a: Bund für Umwelt- und Naturschutz Deutschland Landesverband Niedersachsen
+    e.V.
+  quelle_a: Lobbyregister R006403
+  name_b: Bund für Umwelt und Naturschutz Deutschland Landesverband Bremen e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 0.905
+- name_a: Bund für Umwelt- und Naturschutz Deutschland Landesverband Niedersachsen
+    e.V.
+  quelle_a: Lobbyregister R006403
+  name_b: Bund für Umwelt und Naturschutz Deutschland Landesverband Thüringen e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 0.894
+- name_a: Bund für Umwelt- und Naturschutz Deutschland Landesverband Niedersachsen
+    e.V.
+  quelle_a: Lobbyregister R006403
+  name_b: Bund für Umwelt und Naturschutz Deutschland Landesverband Nordrhein-Westfalen
+    e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 0.88
+- name_a: Rohde & Schwarz Cybersecurity GmbH
+  quelle_a: Lobbyregister R006404
+  name_b: 'Rohde & Schwarz GmbH & Co. KG '
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Entwicklungspolitisches Netzwerk Hessen e.V.
+  quelle_a: Lobbyregister R006543
+  name_b: Entwicklungspolitisches Netzwerk Sachsen e.V. (ENS)
+  quelle_b: Stamm
+  aehnlichkeit: 0.937
+- name_a: Stadler Deutschland GmbH
+  quelle_a: Lobbyregister R006693
+  name_b: ADRA Deutschland e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 0.857
+- name_a: netzwerk n e.V.
+  quelle_a: Lobbyregister R006808
+  name_b: netzwerk-m e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 0.9
+- name_a: Deutsch-Bulgarische Industrie- und Handelskammer
+  quelle_a: Lobbyregister R006887
+  name_b: Deutsch-Singapurische Industrie- und Handelskammer
+  quelle_b: Stamm
+  aehnlichkeit: 0.917
+- name_a: Deutsch-Bulgarische Industrie- und Handelskammer
+  quelle_a: Lobbyregister R006887
+  name_b: Deutsch-Bolivianische Industrie- und Handelskammer (AHK Bolivien)
+  quelle_b: Stamm
+  aehnlichkeit: 0.917
+- name_a: Deutsch-Bulgarische Industrie- und Handelskammer
+  quelle_a: Lobbyregister R006887
+  name_b: Deutsch-Rumänische Industrie- und Handelskammer (AHK Rumänien)
+  quelle_b: Stamm
+  aehnlichkeit: 0.915
+- name_a: Deutsch-Bulgarische Industrie- und Handelskammer
+  quelle_a: Lobbyregister R006887
+  name_b: Deutsch-Peruanische Industrie- und Handelskammer
+  quelle_b: Stamm
+  aehnlichkeit: 0.915
+- name_a: Deutsch-Bulgarische Industrie- und Handelskammer
+  quelle_a: Lobbyregister R006887
+  name_b: DEUTSCH - GRIECHISCHE INDUSTRIE- UND HANDELSKAMMER (AHK GRIECHENLAND)
+  quelle_b: Stamm
+  aehnlichkeit: 0.915
+- name_a: Deutsch-Bulgarische Industrie- und Handelskammer
+  quelle_a: Lobbyregister R006887
+  name_b: Deutsch-Australische Industrie- und Handelskammer (AHK Australien)
+  quelle_b: Stamm
+  aehnlichkeit: 0.905
+- name_a: Deutsch-Bulgarische Industrie- und Handelskammer
+  quelle_a: Lobbyregister R006887
+  name_b: Deutsch-Kroatische Industrie- und Handelskammer (AHK Kroatien)
+  quelle_b: Stamm
+  aehnlichkeit: 0.903
+- name_a: Deutsch-Bulgarische Industrie- und Handelskammer
+  quelle_a: Lobbyregister R006887
+  name_b: Deutsch-Ecuadorianische Industrie- und Handelskammer (AHK Ecuador)
+  quelle_b: Stamm
+  aehnlichkeit: 0.898
+- name_a: Deutsch-Bulgarische Industrie- und Handelskammer
+  quelle_a: Lobbyregister R006887
+  name_b: Deutsch-Argentinische Industrie-und Handelskammer (AHK Argentinien)
+  quelle_b: Stamm
+  aehnlichkeit: 0.896
+- name_a: Deutsch-Bulgarische Industrie- und Handelskammer
+  quelle_a: Lobbyregister R006887
+  name_b: Deutsch-Slowenische Industrie- und Handelskammer
+  quelle_b: Stamm
+  aehnlichkeit: 0.894
+- name_a: Deutsch-Bulgarische Industrie- und Handelskammer
+  quelle_a: Lobbyregister R006887
+  name_b: Deutsch-Emiratische Industrie- und Handelskammer (AHK)
+  quelle_b: Stamm
+  aehnlichkeit: 0.894
+- name_a: Deutsch-Polnische Industrie- und Handelskammer  (AHK Polen)
+  quelle_a: Lobbyregister R007229
+  name_b: Deutsch-Bolivianische Industrie- und Handelskammer (AHK Bolivien)
+  quelle_b: Stamm
+  aehnlichkeit: 0.936
+- name_a: Deutsch-Polnische Industrie- und Handelskammer  (AHK Polen)
+  quelle_a: Lobbyregister R007229
+  name_b: Deutsch-Slowenische Industrie- und Handelskammer
+  quelle_b: Stamm
+  aehnlichkeit: 0.935
+- name_a: Deutsch-Polnische Industrie- und Handelskammer  (AHK Polen)
+  quelle_a: Lobbyregister R007229
+  name_b: Deutsch-Peruanische Industrie- und Handelskammer
+  quelle_b: Stamm
+  aehnlichkeit: 0.935
+- name_a: Deutsch-Polnische Industrie- und Handelskammer  (AHK Polen)
+  quelle_a: Lobbyregister R007229
+  name_b: Deutsch-Kroatische Industrie- und Handelskammer (AHK Kroatien)
+  quelle_b: Stamm
+  aehnlichkeit: 0.923
+- name_a: Deutsch-Polnische Industrie- und Handelskammer  (AHK Polen)
+  quelle_a: Lobbyregister R007229
+  name_b: Deutsch-Rumänische Industrie- und Handelskammer (AHK Rumänien)
+  quelle_b: Stamm
+  aehnlichkeit: 0.913
+- name_a: Deutsch-Polnische Industrie- und Handelskammer  (AHK Polen)
+  quelle_a: Lobbyregister R007229
+  name_b: Deutsch-Bulgarische Industrie- und Handelskammer
+  quelle_b: Stamm
+  aehnlichkeit: 0.913
+- name_a: Deutsch-Polnische Industrie- und Handelskammer  (AHK Polen)
+  quelle_a: Lobbyregister R007229
+  name_b: Deutsch-Australische Industrie- und Handelskammer (AHK Australien)
+  quelle_b: Stamm
+  aehnlichkeit: 0.903
+- name_a: Deutsch-Polnische Industrie- und Handelskammer  (AHK Polen)
+  quelle_a: Lobbyregister R007229
+  name_b: Deutsch-Ecuadorianische Industrie- und Handelskammer (AHK Ecuador)
+  quelle_b: Stamm
+  aehnlichkeit: 0.896
+- name_a: Deutsch-Polnische Industrie- und Handelskammer  (AHK Polen)
+  quelle_a: Lobbyregister R007229
+  name_b: Deutsch-Singapurische Industrie- und Handelskammer
+  quelle_b: Stamm
+  aehnlichkeit: 0.894
+- name_a: Deutsch-Polnische Industrie- und Handelskammer  (AHK Polen)
+  quelle_a: Lobbyregister R007229
+  name_b: Deutsch-Argentinische Industrie-und Handelskammer (AHK Argentinien)
+  quelle_b: Stamm
+  aehnlichkeit: 0.894
+- name_a: Deutsch-Polnische Industrie- und Handelskammer  (AHK Polen)
+  quelle_a: Lobbyregister R007229
+  name_b: DEUTSCH - GRIECHISCHE INDUSTRIE- UND HANDELSKAMMER (AHK GRIECHENLAND)
+  quelle_b: Stamm
+  aehnlichkeit: 0.891
+- name_a: Deutsch-Polnische Industrie- und Handelskammer  (AHK Polen)
+  quelle_a: Lobbyregister R007229
+  name_b: Deutsch-Emiratische Industrie- und Handelskammer (AHK)
+  quelle_b: Stamm
+  aehnlichkeit: 0.891
+- name_a: Deutsches Jugendherbergswerk, Landesverband Nordmark e.V.
+  quelle_a: Lobbyregister R007382
+  name_b: Deutsches Jugendherbergswerk, Landesverband Bayern e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 0.88
+- name_a: Deutsches Jugendherbergswerk, Landesverband Nordmark e.V.
+  quelle_a: Lobbyregister R007382
+  name_b: Deutsches Jugendherbergswerk Landesverband Unterweser-Ems e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 0.852
+- name_a: Deutsch-Norwegische Handelskammer (AHK Norwegen)
+  quelle_a: Lobbyregister R007701
+  name_b: Deutsch-Finnische Handelskammer e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 0.875
+- name_a: Naturland e.V.
+  quelle_a: Lobbyregister R008208
+  name_b: Stiftung Naturlandschaften Brandenburg - Die Wildnisstiftung
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Naturland e.V.
+  quelle_a: Lobbyregister R008208
+  name_b: Nationale Naturlandschaften
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Landesarbeitsgemeinschaft Katholische Jugendsozialarbeit NRW e. V.
+  quelle_a: Lobbyregister R008220
+  name_b: Bundesarbeitsgemeinschaft Katholische Jugendsozialarbeit (BAG KJS) e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 0.931
+- name_a: Landesarbeitsgemeinschaft Katholische Jugendsozialarbeit NRW e. V.
+  quelle_a: Lobbyregister R008220
+  name_b: Bundesarbeitsgemeinschaft Evangelische Jugendsozialarbeit e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 0.855
+- name_a: Institute
+  quelle_a: Haushaltstitel 02-0201-68501, 02-0212-68501
+  name_b: The Royal Institute of International Affairs Chatham House
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institute
+  quelle_a: Haushaltstitel 02-0201-68501, 02-0212-68501
+  name_b: MSP Institute - Multi-Stakeholder Processes for Sustainable Development
+    (MSP Institute) e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institute
+  quelle_a: Haushaltstitel 02-0201-68501, 02-0212-68501
+  name_b: Mercator Institute for China Studies (MERICS) gGmbH
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institute
+  quelle_a: Haushaltstitel 02-0201-68501, 02-0212-68501
+  name_b: Institute for Strategic Dialogue gGmbH
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institute
+  quelle_a: Haushaltstitel 02-0201-68501, 02-0212-68501
+  name_b: Global Public Policy Institute e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institute
+  quelle_a: Haushaltstitel 02-0201-68501, 02-0212-68501
+  name_b: German Institute of Development and Sustainability (IDOS)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institute
+  quelle_a: Haushaltstitel 02-0201-68501, 02-0212-68501
+  name_b: German Institute for Global and Area Studies (GIGA)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institute
+  quelle_a: Haushaltstitel 02-0201-68501, 02-0212-68501
+  name_b: Berliner Institut für Gesundheitsforschung (BIH)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institute
+  quelle_a: Haushaltstitel 02-0201-68501, 02-0212-68501
+  name_b: Aspen Institute Deutschland e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institute
+  quelle_a: Haushaltstitel 02-0201-68501, 02-0212-68501
+  name_b: APRI - Africa Policy Research Private Institute gUG (haftungsbeschränkt)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Organisationen
+  quelle_a: Haushaltstitel 04-0406-68701, 08-0810-68701, 04-0453-68701
+  name_b: Verband afghanischer Organisationen in Deutschland
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Organisationen
+  quelle_a: Haushaltstitel 04-0406-68701, 08-0810-68701, 04-0453-68701
+  name_b: VENRO Verband Entwicklungspolitik und Humanitäre Hilfe deutscher Nichtregierungsorganisationen
+    e.V
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Organisationen
+  quelle_a: Haushaltstitel 04-0406-68701, 08-0810-68701, 04-0453-68701
+  name_b: neue deutsche organisationen - das postmigrantische netzwerk e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Organisationen
+  quelle_a: Haushaltstitel 04-0406-68701, 08-0810-68701, 04-0453-68701
+  name_b: Landesnetzwerk Migrantenorganisationen Sachsen-Anhalt (LAMSA) e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Organisationen
+  quelle_a: Haushaltstitel 04-0406-68701, 08-0810-68701, 04-0453-68701
+  name_b: internationale Organisationen und
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Organisationen
+  quelle_a: Haushaltstitel 04-0406-68701, 08-0810-68701, 04-0453-68701
+  name_b: internationale Organisationen mit Sitz im Ausland
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Organisationen
+  quelle_a: Haushaltstitel 04-0406-68701, 08-0810-68701, 04-0453-68701
+  name_b: Deutscher Naturschutzring, Dachverband der deutschen Natur-, Tier- und Umweltschutzorganisationen
+    (DNR) e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Organisationen
+  quelle_a: Haushaltstitel 04-0406-68701, 08-0810-68701, 04-0453-68701
+  name_b: Bundeskonferenz der Migrant*innenorganisationen (BKMO)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Organisationen
+  quelle_a: Haushaltstitel 04-0406-68701, 08-0810-68701, 04-0453-68701
+  name_b: Bundeselternnetzwerk der Migrantenorganisationen für Bildung & Teilhabe
+    (bbt)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Organisationen
+  quelle_a: Haushaltstitel 04-0406-68701, 08-0810-68701, 04-0453-68701
+  name_b: Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Organisationen
+  quelle_a: Haushaltstitel 04-0406-68701, 08-0810-68701, 04-0453-68701
+  name_b: BAGSO - Bundesarbeitsgemeinschaft der Seniorenorganisationen e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Organisationen
+  quelle_a: Haushaltstitel 04-0406-68701, 08-0810-68701, 04-0453-68701
+  name_b: Arbeitsgemeinschaft der dt. Familienorganisationen
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Vereinten Nationen
+  quelle_a: Haushaltstitel 05-0501-68710
+  name_b: Deutsche Gesellschaft für die Vereinten Nationen e.V. (DGVN)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Bundesanstalt
+  quelle_a: Haushaltstitel 06-0602-63220, 06-0602-89220, 08-0803-68241, 08-0803-89141,
+    06-0602-68520, 06-0602-89420, 06-0602-68551, 06-0602-89451, 24-2402-68531, 24-2402-89431
+  name_b: Postbeamtenversorgungskasse
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Bundesanstalt
+  quelle_a: Haushaltstitel 06-0602-63220, 06-0602-89220, 08-0803-68241, 08-0803-89141,
+    06-0602-68520, 06-0602-89420, 06-0602-68551, 06-0602-89451, 24-2402-68531, 24-2402-89431
+  name_b: Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Bundesamt
+  quelle_a: Haushaltstitel 06-0626-54101
+  name_b: Bundesamt St. Georg e.V. (Rechtsträger Deutsche Pfadfinder*innenschaft St.
+    Georg, Bundesverband)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: GVV Gesellschaft
+  quelle_a: Haushaltstitel 08-0803-68211, 08-0803-89111
+  name_b: UVP-Gesellschaft e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 0.875
+- name_a: Deutsche Zentrale
+  quelle_a: Haushaltstitel 09-0904-68601
+  name_b: Deutsche Zentrale für Tourismus e. V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: internationale Organisationen
+  quelle_a: Haushaltstitel 09-0918-68701, 11-1106-68731, 12-1202-68702, 12-1214-68701,
+    14-1422-68706, 15-1502-68786, 16-1601-68701, 16-1604-68701, 12-1210-68702, 12-1220-68701,
+    15-1505-68701, 16-1605-68701
+  name_b: internationale Organisationen und
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: internationale Organisationen
+  quelle_a: Haushaltstitel 09-0918-68701, 11-1106-68731, 12-1202-68702, 12-1214-68701,
+    14-1422-68706, 15-1502-68786, 16-1601-68701, 16-1604-68701, 12-1210-68702, 12-1220-68701,
+    15-1505-68701, 16-1605-68701
+  name_b: internationale Organisationen mit Sitz im Ausland
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Deutsche Gesellschaft
+  quelle_a: Haushaltstitel 10-1002-68501, 06-0601-68511
+  name_b: Stiftung "Die Mitarbeit" sowie an die "Deutsche Gesellschaft e. V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Deutsche Gesellschaft
+  quelle_a: Haushaltstitel 10-1002-68501, 06-0601-68511
+  name_b: Kombiverkehr Deutsche Gesellschaft für kombinierten Güterverkehr mbH & Co.
+    KG
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Deutsche Gesellschaft
+  quelle_a: Haushaltstitel 10-1002-68501, 06-0601-68511
+  name_b: Deutsche Gesellschaft für Thorax-, Herz- und Gefäßchirurgie e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Deutsche Gesellschaft
+  quelle_a: Haushaltstitel 10-1002-68501, 06-0601-68511
+  name_b: Deutsche Gesellschaft für Telemedizin
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Deutsche Gesellschaft
+  quelle_a: Haushaltstitel 10-1002-68501, 06-0601-68511
+  name_b: Deutsche Gesellschaft für Sonnenenergie e.V. (DGS)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Deutsche Gesellschaft
+  quelle_a: Haushaltstitel 10-1002-68501, 06-0601-68511
+  name_b: Deutsche Gesellschaft für Ortung und Navigation e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Deutsche Gesellschaft
+  quelle_a: Haushaltstitel 10-1002-68501, 06-0601-68511
+  name_b: Deutsche Gesellschaft für Orthopädie und Unfallchirurgie e. V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Deutsche Gesellschaft
+  quelle_a: Haushaltstitel 10-1002-68501, 06-0601-68511
+  name_b: Deutsche Gesellschaft für Kinder- und Jugendmedizin e.V. (DGKJ)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Deutsche Gesellschaft
+  quelle_a: Haushaltstitel 10-1002-68501, 06-0601-68511
+  name_b: Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Deutsche Gesellschaft
+  quelle_a: Haushaltstitel 10-1002-68501, 06-0601-68511
+  name_b: Deutsche Gesellschaft für Herpetologie und Terrarienkunde
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Deutsche Gesellschaft
+  quelle_a: Haushaltstitel 10-1002-68501, 06-0601-68511
+  name_b: Deutsche Gesellschaft für Ernährungsmedizin e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Deutsche Gesellschaft
+  quelle_a: Haushaltstitel 10-1002-68501, 06-0601-68511
+  name_b: Deutsche Gesellschaft für Ernährung e. V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Deutsche Gesellschaft
+  quelle_a: Haushaltstitel 10-1002-68501, 06-0601-68511
+  name_b: Deutsche Gesellschaft für die Vereinten Nationen e.V. (DGVN)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Deutsche Gesellschaft
+  quelle_a: Haushaltstitel 10-1002-68501, 06-0601-68511
+  name_b: Deutsche Gesellschaft für Auswärtige Politik (DGAP) e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Deutsche Gesellschaft
+  quelle_a: Haushaltstitel 10-1002-68501, 06-0601-68511
+  name_b: Deutsche Gesellschaft für Arbeitsmedizin u. Umweltmdizin (DGAUM) e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Deutsche Gesellschaft
+  quelle_a: Haushaltstitel 10-1002-68501, 06-0601-68511
+  name_b: Deutsche Gesellschaft für Akustik e.V., Arbeitsring Lärm der DEGA
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Deutsche Gesellschaft
+  quelle_a: Haushaltstitel 10-1002-68501, 06-0601-68511
+  name_b: Deutsche Gesellschaft der Hörbehinderten -  Selbsthilfe und Fachverbände
+    e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Deutsche Gesellschaft
+  quelle_a: Haushaltstitel 10-1002-68501, 06-0601-68511
+  name_b: Deutsche Krebsgesellschaft e. V.
+  quelle_b: Stamm
+  aehnlichkeit: 0.894
+- name_a: Deutsche Gesellschaft
+  quelle_a: Haushaltstitel 10-1002-68501, 06-0601-68511
+  name_b: Deutsche Schmerzgesellschaft e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 0.857
+- name_a: Bundes an die allgemeine Rentenversicherung im Beitrittsgebiet
+  quelle_a: Haushaltstitel 11-1102-63682
+  name_b: Bundes an die allgemeine Rentenversicherung
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Europäischen Union zu Studien
+  quelle_a: Haushaltstitel 12-1202-53219, 12-1210-53219
+  name_b: Europäischen Union
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Verbände
+  quelle_a: Haushaltstitel 14-1402-68601
+  name_b: Verbände, Vereine, Gesellschaften
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Verbände
+  quelle_a: Haushaltstitel 14-1402-68601
+  name_b: Union der Opferverbände Kommunistischer Gewaltherrschaft (UOKG e.V.)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Verbände
+  quelle_a: Haushaltstitel 14-1402-68601
+  name_b: Deutscher Aero Club e.V. - Dachverband der deutschen Luftsportverbände
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Verbände
+  quelle_a: Haushaltstitel 14-1402-68601
+  name_b: deutsche Vereine und Verbände
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Verbände
+  quelle_a: Haushaltstitel 14-1402-68601
+  name_b: Deutsche Gesellschaft der Hörbehinderten -  Selbsthilfe und Fachverbände
+    e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Verbände
+  quelle_a: Haushaltstitel 14-1402-68601
+  name_b: Bundesarbeitsgemeinschaft der Immigrantenverbände e.V. / BAGIV
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Verbände
+  quelle_a: Haushaltstitel 14-1402-68601
+  name_b: BdV - Bund der Vertriebenen - Vereinigte Landsmannschaften und Landesverbände
+    e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Verbände
+  quelle_a: Haushaltstitel 14-1402-68601
+  name_b: Arbeitsgemeinschaft Deutscher Waldbesitzerverbände (AGDW) e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Normwesens
+  quelle_a: Haushaltstitel 16-1606-68606, 06-0604-68606, 25-2501-68606
+  name_b: Normenwesens
+  quelle_b: Stamm
+  aehnlichkeit: 0.909
+- name_a: Stiftung "Mutter und Kind
+  quelle_a: Haushaltstitel 17-1701-68502
+  name_b: Stiftung Mutter und Kind - Schutz des ungeborenen Lebens
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: 'ZNS-Stiftung - Hilfe für Menschen mit Schädelhirntrauma, initiitert von
+    Hannelore Kohl '
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Westerwelle Foundation - Stiftung für internationale Verständigung
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Umweltstiftung Michael Otto
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Studienstiftung des deutschen Volkes
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Stiftung zur Förderung der Hochschulrektorenkonferenz
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Stiftung World Future Council
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Stiftung Warentest
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Stiftung Topographie des Terrors - Internationales Dokumentations - und
+    Begegnungszentrum Berlin
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Stiftung Schüler Helfen Leben
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Stiftung Preußischer Kulturbesitz
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Stiftung Nord-Süd-Brücken
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Stiftung Naturlandschaften Brandenburg - Die Wildnisstiftung
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Stiftung Mutter und Kind - Schutz des ungeborenen Lebens
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Stiftung Münchner Sicherheitskonferenz gemeinnützige GmbH (MSC)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Stiftung Menschen für Menschen - Karlheinz Böhms Äthiopienhilfe (MFM)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Stiftung Living Rivers
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Stiftung Liebenau
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Stiftung Lernen durch Engagement - Service-Learning in Deutschland SLIDE
+    gGmbH
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Stiftung Kinder forschen
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Stiftung Georg-Speyer-Haus, Institut
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Stiftung für Mensch und Umwelt
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Stiftung Frühe Hilfen
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Stiftung Flucht, Vertreibung, Versöhnung
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Stiftung Entwicklung und Frieden (sef:)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Stiftung Digitale Spielekultur
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Stiftung Digitale Chancen
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Stiftung "Die Mitarbeit" sowie an die "Deutsche Gesellschaft e. V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Stiftung Deutsches Forum für Kriminalprävention (DFK)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Stiftung Deutsche Sporthilfe
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Stiftung der deutschen Wirtschaft für die Nutzung und Erforschung der Windenergie
+    auf See (Offshore-Stiftung)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Stiftung Datenschutz
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Stiftung Bürger für Bürger
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Stiftung Bildung
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Stiftung Asienhaus
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Stiftung Aktive Bürgerschaft
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: OroVerde - Die Tropenwaldstiftung
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Off Road Kids Stiftung
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Naturstiftung David
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Nachwuchsstiftung Maschinenbau
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Michael Succow Stiftung
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Max Bögl Stiftung & Co. KG
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Ludwig-Erhard-Stiftung e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Kulturstiftung der Länder
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Hirschfeld-Eddy-Stiftung
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Hamburger Stiftung für Wirtschaftsethik
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: H2Global-Stiftung
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Gesellschaft der Deutschen Bundesstiftung Umwelt zur Sicherung des nationalen
+    Naturerbes - DBU Naturerbe GmbH
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: EuroNatur - Stiftung Europäisches Naturerbe
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Deutsche Stiftung Weltbevölkerung (DSW)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Deutsche Stiftung Friedensforschung
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Deutsche Schulsportstiftung
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Deutsche Meeresstiftung
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: 'Deutsche Kinder- und Jugendstiftung '
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Deutsche Bundesstiftung Umwelt
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Deutsche Afrika Stiftung e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Conterganstiftung
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Bundesverband Deutscher Stiftungen e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Bundesstiftung Magnus Hirschfeld
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Bundes an die "Stiftung
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Bodensee-Stiftung - Internationale Stiftung für Natur und Kultur
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Björn Steiger Stiftung
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Baumaßnahme Stiftung Denkmal für die ermordeten Juden Europas
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Amadeu Antonio Stiftung
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: Alexander von Humboldt-Stiftung
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung
+  quelle_a: Haushaltstitel 30-3003-68508, 02-0217-68504
+  name_b: 100 prozent erneuerbar stiftung
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Zuschuss zur Erhöhung des Stiftungskapitals der Stiftung Warentest
+  quelle_a: Haushaltstitel 07-0701-68404
+  name_b: Stiftung Warentest
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Arbeitnehmerfreizügigkeit der in Deutschland tätigen Arbeitskräfte aus der
+    Europäischen Union
+  quelle_a: Haushaltstitel 11-1106-68431
+  name_b: Europäischen Union
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Deutsche Hauptstelle
+  quelle_a: Haushaltstitel 15-1503-68412
+  name_b: Deutsche Hauptstelle für Suchtfragen e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Bundesvereinigung
+  quelle_a: Haushaltstitel 15-1503-68413
+  name_b: BVPG - Bundesvereinigung Prävention und Gesundheitsförderung e. V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Bundesvereinigung
+  quelle_a: Haushaltstitel 15-1503-68413
+  name_b: Bundesvereinigung Nachhaltigkeit e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Bundesvereinigung
+  quelle_a: Haushaltstitel 15-1503-68413
+  name_b: Bundesvereinigung Lebenshilfe
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Bundesvereinigung
+  quelle_a: Haushaltstitel 15-1503-68413
+  name_b: Bundesvereinigung Kulturelle Kinder- und Jugendbildung (BKJ)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Bundesvereinigung
+  quelle_a: Haushaltstitel 15-1503-68413
+  name_b: Bundesvereinigung der Helfer und Förderer des Technischen Hilfswerks - THW-Bundesvereinigung
+    e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Bundesvereinigung
+  quelle_a: Haushaltstitel 15-1503-68413
+  name_b: Bundesvereinigung der Deutschen Ernährungsindustrie e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Bundesvereinigung
+  quelle_a: Haushaltstitel 15-1503-68413
+  name_b: 'BSVI - Bundesvereinigung der Straßenbau- und Verkehrsingenieure e.V. '
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Weizenbaum-Institut e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Unabhängiges Institut für Umweltfragen e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Umweltinstitut München - Verein zur Erforschung und Verminderung der Umweltbelastung
+    e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Tikvah Institut gUG
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: The Royal Institute of International Affairs Chatham House
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Stiftung Georg-Speyer-Haus, Institut
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: PRIF - Leibniz-Institut für Friedens- und Konfliktforschung
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Potsdam-Institut für Klimafolgenforschung e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Öko-Institut e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: MSP Institute - Multi-Stakeholder Processes for Sustainable Development
+    (MSP Institute) e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Mercator Institute for China Studies (MERICS) gGmbH
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: medmissio - Institut für Gesundheit weltweit
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Leibniz-Institut für Verbundwerkstoffe GmbH
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Leibniz-Institut für Lebensmittel-Systembiologie an der Technischen Universität
+    München
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Leibniz-Institut für Analytische Wissenschaften -ISAS- e. V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Leibniz-Institut DSMZ-Deutsche Sammlung von Mikroorganismen und Zellkulturen
+    GmbH
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: ISOE - Institut für sozial-ökologische Forschung
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Institute for Strategic Dialogue gGmbH
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Institut für Sozialpädagogische Forschung Mainz gGmbH
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Institut für ökologische Wirtschaftsforschung (IÖW) GmbH, gemeinnützig
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Institut für Ökologie und Aktions-Ethnologie (INFOE) e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Institut für Klimaschutz, Energie und Mobilität e.V. (IKEM)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Institut für Friedensforschung und Sicherheitspolitik an der Universität
+    Hamburg (IFSH)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Institut für Europäische Politik
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Institut für Angewandte Trainingswissenschaft (IAT)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Institut für angewandte Kulturforschung e.V. (ifak)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: IFT-Nord gGmbH, Institut für Therapie- und Gesundheitsforschung
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Hasso-Plattner-Institut für Digital Engineering gGmbH
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Goethe-Institut e. V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Global Public Policy Institute e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: GESIS - Leibniz-Institut für Sozialwissenschaften e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: German Institute of Development and Sustainability (IDOS)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: German Institute for Global and Area Studies (GIGA)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Gas- und Wärme-Institut Essen e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Freunde und Förderer des Leo Baeck Instituts e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: FEhS-Institut für Baustoff-Forschung e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Ecologic Institut
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: DIN Deutsches Institut für Normung e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Deutsches Verpackungsinstitut e. V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Deutsches Rheuma-Forschungszentrum Berlin - Ein Institut der Leibniz-Gemeinschaft
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Deutsches Primatenzentrum GmbH Leibniz-Institut für Primatenforschung
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Deutsches Jugendinstitut e. V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Deutsches Handwerksinstitut
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Deutsches Evaluierungsinstitut der Entwicklungszusammenarbeit gGmbH
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Deutschen Instituts
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: DECHEMA-Forschungsinstitut
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: ConPolicy - Institut für Verbraucherpolitik
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Berliner Institut für Gesundheitsforschung (BIH)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: Aspen Institute Deutschland e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Institut
+  quelle_a: Haushaltstitel 08-0812-68501, 06-0603-68433
+  name_b: APRI - Africa Policy Research Private Institute gUG (haftungsbeschränkt)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Bundesvereinigung Prävention und Gesundheitsförderung e. V.
+  quelle_a: Haushaltstitel 15-1503-68413
+  name_b: BVPG - Bundesvereinigung Prävention und Gesundheitsförderung e. V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Kultur- und Kreativwirtschaft und der Nachhaltigkeit in Kultur und Medien
+  quelle_a: Haushaltstitel 04-0452-68613
+  name_b: Kultur- und Kreativwirtschaft
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Arbeit von Gremien mit Bezug zu den nationalen Minderheiten und der Regionalsprache
+    Niederdeutsch, von Veranstaltungen mit Minderheitenbezug
+  quelle_a: Haushaltstitel 06-0603-68402
+  name_b: Arbeit von Gremien mit Bezug zu den nationalen Minderheiten und der Regionalsprache
+    Niederdeutsch, nationale und internationale Veranstaltungen mit Minderheitenbezug
+  quelle_b: Stamm
+  aehnlichkeit: 0.911
+- name_a: Stiftung Mitarbeit" sowie an die "Deutsche Gesellschaft e. V.
+  quelle_a: Haushaltstitel 06-0601-68511
+  name_b: Stiftung "Die Mitarbeit" sowie an die "Deutsche Gesellschaft e. V.
+  quelle_b: Stamm
+  aehnlichkeit: 0.964
+- name_a: Deutsche Stiftung
+  quelle_a: Haushaltstitel 10-1010-68501, 17-1703-68511, 06-0601-68513, 04-0416-68512
+  name_b: Deutsche Stiftung Weltbevölkerung (DSW)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Deutsche Stiftung
+  quelle_a: Haushaltstitel 10-1010-68501, 17-1703-68511, 06-0601-68513, 04-0416-68512
+  name_b: Deutsche Stiftung Friedensforschung
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Deutsche Stiftung
+  quelle_a: Haushaltstitel 10-1010-68501, 17-1703-68511, 06-0601-68513, 04-0416-68512
+  name_b: Deutsche Stiftung Engagement und Ehrenamt
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Deutsche Stiftung
+  quelle_a: Haushaltstitel 10-1010-68501, 17-1703-68511, 06-0601-68513, 04-0416-68512
+  name_b: Deutsche Meeresstiftung
+  quelle_b: Stamm
+  aehnlichkeit: 0.85
+- name_a: Stiftungskapital der Stiftung Datenschutz
+  quelle_a: Haushaltstitel 07-0710-68602
+  name_b: Stiftung Datenschutz
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Einrichtung "Global Solutions Initiative (GSI)
+  quelle_a: Haushaltstitel 08-0812-68201
+  name_b: Einrichtung "Global Solution Initiative (GSI)
+  quelle_b: Stamm
+  aehnlichkeit: 0.987
+- name_a: Kommunen
+  quelle_a: Haushaltstitel 12-1210-63303
+  name_b: Kommunen und Landkreise
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Kommunen
+  quelle_a: Haushaltstitel 12-1210-63303
+  name_b: Kommunen für biologische Vielfalt e.V.
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Zuschüsse für Baumaßnahmen der Stiftung Preußischer Kulturbesitz
+  quelle_a: Haushaltstitel 04-0452-89432
+  name_b: Stiftung Preußischer Kulturbesitz
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Computerspielentwicklung auf Bundesebene
+  quelle_a: Haushaltstitel 09-0901-68322, 30-3009-68381
+  name_b: Computerspielentwicklung auf Bundesebene und Umsetzung der Strategie
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Computerspielentwicklung auf Bundesebene
+  quelle_a: Haushaltstitel 09-0901-68322, 30-3009-68381
+  name_b: Computerspieleentwicklung auf Bundesebene
+  quelle_b: Stamm
+  aehnlichkeit: 0.988
+- name_a: Vereinigung der Helfer und Förderer des Technischen Hilfswerks e. V., die
+    THW-Jugend e. V. und die Deutsche Lebens-Rettungs-Gesellschaft (DLRG)
+  quelle_a: Haushaltstitel 06-0629-68401
+  name_b: Deutsche Lebens-Rettungs-Gesellschaft e.V. (DLRG)
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Stiftung Flucht
+  quelle_a: Haushaltstitel 06-0603-68501
+  name_b: Stiftung Flucht, Vertreibung, Versöhnung
+  quelle_b: Stamm
+  aehnlichkeit: 1.0
+- name_a: Regionalsprache Niederdeutsch
+  quelle_a: Haushaltstitel 06-0603-68442
+  name_b: Arbeit von Gremien mit Bezug zu den nationalen Minderheiten und der Regionalsprache
+    Niederdeutsch, nationale und internationale Veranstaltungen mit Minderheitenbezug
+  quelle_b: Stamm
+  aehnlichkeit: 1.0

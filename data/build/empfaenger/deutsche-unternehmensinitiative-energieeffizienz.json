@@ -1,0 +1,481 @@
+{
+"id": "deutsche-unternehmensinitiative-energieeffizienz",
+"name": "Deutsche Unternehmensinitiative Energieeffizienz e. V. (DENEFF)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.deneff.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000255",
+"eintrag_id": 86521,
+"version": 36,
+"stand": "2026-10-05",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000255/86521",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/fd/81/856542/Lobbyregister-Registereintraege-Detailansicht-R000255-2026-10-05_08-01-24.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Projektträger Jülich (PTJ) für das BMWK",
+"epl": "30",
+"von": 150001,
+"bis": 160000,
+"zweck": "Verbundvorhaben WEIT - Wärme-Effizienz durch Industrie-Transformation - Beschleunigte und breitete Diffusion energieeffizienter klimaneutraler Prozesswärmelösungen in der Industrie durch Entscheidungsbefähigung und Vertrauensaufbau",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Projektträger Jülich (PTJ) für das BMWK",
+"epl": "30",
+"von": 80001,
+"bis": 90000,
+"zweck": "Verbundvorhaben: EnSanKoop - Umfassend energetisch sanierte Gebäude zur Erfolgsgeschichte machen durch gelungene Kooperation zwischen Vermietenden und Mietenden",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 20001,
+"bis": 30000,
+"zweck": "Projektförderung (Verbundprojekt) für das Projekt „Online- Klimaschutzberatung für Deutschland.“",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 250003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Henning Ellermann",
+"funktion": "Geschäftsführender Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000255/86521",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Christian Noll",
+"funktion": "Geschäftsführender Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000255/86521",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Susann Bollmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000255/86521",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Sophia Franziska Siemer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000255/86521",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Rüdiger Lohse",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000255/86521",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Anika Heinrich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000255/86521",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Carsten Müller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000255/86521",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Krüger Constanze",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000255/86521",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Christoph Zschocke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000255/86521",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Tanja Loitz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000255/86521",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Patrick Weber",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000255/86521",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Clemens Buhr",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000255/86521",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Mira Kinn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000255/86521",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Fabian Hoppmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000255/86521",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Inna Knelsen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000255/86521",
+"stand": "2026-10-05"
+}
+},
+{
+"name": "Helge Pieper",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-10"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000255/86521",
+"stand": "2026-10-05"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Carsten Müller",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Carsten Müller ist laut Lobbyregister Interessenvertretung bei Deutsche Unternehmensinitiative Energieeffizienz e. V. (DENEFF) und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag. Deutsche Unternehmensinitiative Energieeffizienz e. V. (DENEFF) erhielt laut Lobbyregister Mittel von: Projektträger Jülich (PTJ) für das BMWK; Bundesministerium für Wirtschaft und Klimaschutz.",
+"ausschuesse": [],
+"geld_aus": [
+"Projektträger Jülich (PTJ) für das BMWK",
+"Bundesministerium für Wirtschaft und Klimaschutz"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000255/86521",
+"stand": "2026-10-05"
+}
+],
+"stand": "2026-10-05"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Fabian Hoppmann",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Fabian Hoppmann ist laut Lobbyregister Interessenvertretung bei Deutsche Unternehmensinitiative Energieeffizienz e. V. (DENEFF) und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03. Deutsche Unternehmensinitiative Energieeffizienz e. V. (DENEFF) erhielt laut Lobbyregister Mittel von: Projektträger Jülich (PTJ) für das BMWK; Bundesministerium für Wirtschaft und Klimaschutz.",
+"ausschuesse": [],
+"geld_aus": [
+"Projektträger Jülich (PTJ) für das BMWK",
+"Bundesministerium für Wirtschaft und Klimaschutz"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000255/86521",
+"stand": "2026-10-05"
+}
+],
+"stand": "2026-10-05"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Helge Pieper",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-10",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Helge Pieper ist laut Lobbyregister Interessenvertretung bei Deutsche Unternehmensinitiative Energieeffizienz e. V. (DENEFF) und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-10. Deutsche Unternehmensinitiative Energieeffizienz e. V. (DENEFF) erhielt laut Lobbyregister Mittel von: Projektträger Jülich (PTJ) für das BMWK; Bundesministerium für Wirtschaft und Klimaschutz.",
+"ausschuesse": [],
+"geld_aus": [
+"Projektträger Jülich (PTJ) für das BMWK",
+"Bundesministerium für Wirtschaft und Klimaschutz"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000255/86521",
+"stand": "2026-10-05"
+}
+],
+"stand": "2026-10-05"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Dr. Alaa Alhamwi",
+"funktion_person": "MdB, Bündnis 90 Die Grünen",
+"funktion_beim_empfaenger": "Mitglied des Parlamentarischen Beirates, ehrenamtlich (ab 17.09.2025)",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Dr. Alaa Alhamwi (MdB, Bündnis 90 Die Grünen) ist laut bundestag.de Mitglied des Parlamentarischen Beirates, ehrenamtlich (ab 17.09.2025) bei Deutsche Unternehmensinitiative Energieeffizienz e. V. (DENEFF). Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Wirtschaft und Energie; Schriftführer/in; Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen. Deutsche Unternehmensinitiative Energieeffizienz e. V. (DENEFF) erhielt laut Lobbyregister Mittel von: Projektträger Jülich (PTJ) für das BMWK; Bundesministerium für Wirtschaft und Klimaschutz.",
+"ausschuesse": [
+"Ausschuss für Wirtschaft und Energie",
+"Schriftführer/in",
+"Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen"
+],
+"geld_aus": [
+"Projektträger Jülich (PTJ) für das BMWK",
+"Bundesministerium für Wirtschaft und Klimaschutz"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/A/alhamwi_alaa-1043402",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Mark Helfrich",
+"funktion_person": "MdB, CDU/CSU",
+"funktion_beim_empfaenger": "Mitglied des Beirates, ehrenamtlich",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Mark Helfrich (MdB, CDU/CSU) ist laut bundestag.de Mitglied des Beirates, ehrenamtlich bei Deutsche Unternehmensinitiative Energieeffizienz e. V. (DENEFF). Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit; Ausschuss für die Angelegenheiten der Europäischen Union. Deutsche Unternehmensinitiative Energieeffizienz e. V. (DENEFF) erhielt laut Lobbyregister Mittel von: Projektträger Jülich (PTJ) für das BMWK; Bundesministerium für Wirtschaft und Klimaschutz.",
+"ausschuesse": [
+"Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+"Ausschuss für die Angelegenheiten der Europäischen Union"
+],
+"geld_aus": [
+"Projektträger Jülich (PTJ) für das BMWK",
+"Bundesministerium für Wirtschaft und Klimaschutz"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/H/helfrich_mark-1044862",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Dr. Julia Verlinden",
+"funktion_person": "MdB, Bündnis 90 Die Grünen",
+"funktion_beim_empfaenger": "Mitglied des Beirates, ehrenamtlich",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Dr. Julia Verlinden (MdB, Bündnis 90 Die Grünen) ist laut bundestag.de Mitglied des Beirates, ehrenamtlich bei Deutsche Unternehmensinitiative Energieeffizienz e. V. (DENEFF). Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Wirtschaft und Energie; Verkehrsausschuss. Deutsche Unternehmensinitiative Energieeffizienz e. V. (DENEFF) erhielt laut Lobbyregister Mittel von: Projektträger Jülich (PTJ) für das BMWK; Bundesministerium für Wirtschaft und Klimaschutz.",
+"ausschuesse": [
+"Ausschuss für Wirtschaft und Energie",
+"Verkehrsausschuss"
+],
+"geld_aus": [
+"Projektträger Jülich (PTJ) für das BMWK",
+"Bundesministerium für Wirtschaft und Klimaschutz"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/V/verlinden_julia-1047856",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Dr. Andreas Lenz",
+"funktion_person": "MdB, CDU/CSU",
+"funktion_beim_empfaenger": "Mitglied des Parlamentarischen Beirates",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Dr. Andreas Lenz (MdB, CDU/CSU) ist laut bundestag.de Mitglied des Parlamentarischen Beirates bei Deutsche Unternehmensinitiative Energieeffizienz e. V. (DENEFF). Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Wirtschaft und Energie; Ausschuss für Arbeit und Soziales; Ausschuss für die Angelegenheiten der Europäischen Union; Parlamentarischer Beirat für nachhaltige Entwicklung und Zukunftsfragen. Deutsche Unternehmensinitiative Energieeffizienz e. V. (DENEFF) erhielt laut Lobbyregister Mittel von: Projektträger Jülich (PTJ) für das BMWK; Bundesministerium für Wirtschaft und Klimaschutz.",
+"ausschuesse": [
+"Ausschuss für Wirtschaft und Energie",
+"Ausschuss für Arbeit und Soziales",
+"Ausschuss für die Angelegenheiten der Europäischen Union",
+"Parlamentarischer Beirat für nachhaltige Entwicklung und Zukunftsfragen"
+],
+"geld_aus": [
+"Projektträger Jülich (PTJ) für das BMWK",
+"Bundesministerium für Wirtschaft und Klimaschutz"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/L/lenz_andreas-1048878",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 490001,
+"bis": 500000
+},
+"mitgliedsbeitraege": {
+"von": 940001,
+"bis": 950000
+},
+"lobbyausgaben": {
+"von": 540001,
+"bis": 550000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/44/67/856533/DENEFF_Jahresabschluss_2024_ohnePW.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000255/86521",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-05",
+"etikett": "Eigenangabe",
+"version": 36
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/A/alhamwi_alaa-1043402",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/H/helfrich_mark-1044862",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/V/verlinden_julia-1047856",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/L/lenz_andreas-1048878",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

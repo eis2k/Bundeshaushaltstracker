@@ -1,0 +1,146 @@
+{
+"id": "bbag-bildung-begegnung-austausch-gemeinsam",
+"name": "BBAG - Bildung, Begegnung, Austausch - gemeinsam e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Potsdam",
+"website": "www.bbag-ev.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003726",
+"eintrag_id": 84061,
+"version": 7,
+"stand": "2026-08-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003726/84061",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/d2/8c/824235/Lobbyregister-Registereintraege-Detailansicht-R003726-2026-08-01_15-47-44.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundeszentrale für politische Bildung",
+"epl": "06",
+"von": 10001,
+"bis": 20000,
+"zweck": "Seminarförderung nach Richtlinie",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Arbeit und Soziales",
+"epl": "11",
+"von": 410001,
+"bis": 420000,
+"zweck": "Projekte zur Arbeitsmarktintegration bleibeberechtigter Flüchtlinge und Migrantinnen (ESF-Förderung sowie ESF+)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Migration und Flüchtlinge",
+"epl": "06",
+"von": 1490001,
+"bis": 1500000,
+"zweck": "Projekte zur Integration von Zugewanderten (auch AMIF-Fonds), Migrationserstberatung Brandenburg an der Havel, Integrations- und Berufssprachkurse",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1910003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Rainer Dietrich",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003726/84061",
+"stand": "2026-08-01"
+}
+},
+{
+"name": "Martin Bauch",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003726/84061",
+"stand": "2026-08-01"
+}
+},
+{
+"name": "Uwe Prüfer",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003726/84061",
+"stand": "2026-08-01"
+}
+},
+{
+"name": "Kilian Kindelberger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003726/84061",
+"stand": "2026-08-01"
+}
+},
+{
+"name": "Ines Friedrich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003726/84061",
+"stand": "2026-08-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/4a/3c/824234/Bilanz_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003726/84061",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-01",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

@@ -1,0 +1,84 @@
+{
+"id": "kriminalpraevention-und-risikomanagement-durch-forschung-und",
+"name": "Kriminalprävention und Risikomanagement durch Forschung und Entwicklung nachhaltiger Präventionskonzepte",
+"art": "forschung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "06-0610-68604",
+"text": "Förderung der Kriminalprävention und Risikomanagement durch Forschung und Entwicklung nachhaltiger Präventionskonzepte",
+"epl": "06",
+"epl_text": "Bundesministerium des Innern",
+"werte": {
+"2015": {
+"soll": 700000,
+"ist": 305705
+},
+"2016": {
+"soll": 700000,
+"ist": 690325
+},
+"2017": {
+"soll": 700000,
+"ist": 689465
+},
+"2018": {
+"soll": 4700000,
+"ist": 671820
+},
+"2019": {
+"soll": 4700000,
+"ist": 612342
+},
+"2020": {
+"soll": 4700000,
+"ist": 1745279
+},
+"2021": {
+"soll": 4700000,
+"ist": 2250055
+},
+"2022": {
+"soll": 1260000,
+"ist": 824986
+},
+"2023": {
+"soll": 2170000,
+"ist": 1395055
+},
+"2024": {
+"soll": 1300000,
+"ist": 1261998
+},
+"2025": {
+"soll": 1560000,
+"ist": 1409497
+},
+"2026": {
+"soll": 700000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

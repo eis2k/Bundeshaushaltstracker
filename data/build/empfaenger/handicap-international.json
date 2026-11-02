@@ -1,0 +1,169 @@
+{
+"id": "handicap-international",
+"name": "Handicap International e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "München",
+"website": "www.handicap-international.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001918",
+"eintrag_id": 76833,
+"version": 15,
+"stand": "2026-06-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001918/76833",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/5c/96/786000/Lobbyregister-Registereintraege-Detailansicht-R001918-2026-06-29_16-50-35.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+"epl": "23",
+"von": 4020001,
+"bis": 4030000,
+"zweck": "Projekte im Bereich Übergangshilfe im Ausland",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 25920001,
+"bis": 25930000,
+"zweck": "Humanitäre Hilfsmaßnahmen im Ausland",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+"epl": null,
+"von": 1600001,
+"bis": 1610000,
+"zweck": "Projekte im Bereich der Entwicklungszusammenarbeit im Ausland",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 31540003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Inez Kipfer-Didavi",
+"funktion": "Geschäftsführerin (einzelvertretungsberechtigt) ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001918/76833",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Julia Holzer",
+"funktion": "Vorstandsvorsitzende ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001918/76833",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Kathrin Strobel",
+"funktion": "stellver. Vorstandsvorsitzende ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001918/76833",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Eva  Fischer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001918/76833",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Veronika Wies",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001918/76833",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Susanne Schwalgin",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001918/76833",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Sophia  Eckert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001918/76833",
+"stand": "2026-06-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 5450001,
+"bis": 5460000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 140001,
+"bis": 150000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/5c/e5/785999/208566_Bericht-JAP-2025_sig_1.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001918/76833",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-29",
+"etikett": "Eigenangabe",
+"version": 15
+}
+]
+}

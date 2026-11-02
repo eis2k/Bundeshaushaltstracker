@@ -1,0 +1,149 @@
+{
+"id": "bauindustrieverband-nordrhein-westfalen",
+"name": "Bauindustrieverband Nordrhein-Westfalen e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Düsseldorf",
+"website": "https://bauindustrie-nrw.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003811",
+"eintrag_id": 78066,
+"version": 11,
+"stand": "2026-06-11",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003811/78066",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/b2/78/755945/Lobbyregister-Registereintraege-Detailansicht-R003811-2026-06-11_12-46-41.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Wirtschaft und Außenkontrolle",
+"epl": null,
+"von": 40001,
+"bis": 50000,
+"zweck": "Förderung von Anlagen zur Wärmeerzeugung (Heizungstechnik)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Außenkontrolle",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "Förderung für den Austausch von Anlagentechnik (LED-Beleuchtung)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 60002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Daniel Strücker",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003811/78066",
+"stand": "2026-06-11"
+}
+},
+{
+"name": "Axel Wahl",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003811/78066",
+"stand": "2026-06-11"
+}
+},
+{
+"name": "Beate Wiemann",
+"funktion": "Hauptgeschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003811/78066",
+"stand": "2026-06-11"
+}
+},
+{
+"name": "Lisa Keddo-Kilian",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003811/78066",
+"stand": "2026-06-11"
+}
+},
+{
+"name": "Niklas Möring",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003811/78066",
+"stand": "2026-06-11"
+}
+},
+{
+"name": "Marc Wählen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003811/78066",
+"stand": "2026-06-11"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 5800001,
+"bis": 5810000
+},
+"lobbyausgaben": {
+"von": 60001,
+"bis": 70000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/a1/65/755943/Lobbyregister-Ergebnisrechnung-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003811/78066",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-11",
+"etikett": "Eigenangabe",
+"version": 11
+}
+]
+}

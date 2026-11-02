@@ -1,0 +1,109 @@
+{
+"id": "global-nature-fund",
+"name": "GLOBAL NATURE FUND (GNF)",
+"art": "oeffentlich",
+"rechtsform": "Stiftung öffentlichen Rechts",
+"sitz": "Radolfzell",
+"website": "www.globalnature.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003123",
+"eintrag_id": 74615,
+"version": 14,
+"stand": "2026-03-31",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003123/74615",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c8/27/716040/Lobbyregister-Registereintraege-Detailansicht-R003123-2026-03-31_09-32-54.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Zweckgebundene Projektzuwendungen aus dem öffentlichen Sektor (Bundesministerien, BMUV/BMUKN und BMZ)",
+"epl": null,
+"von": 4500001,
+"bis": 4510000,
+"zweck": "Zweckgebundene Projektzuwendungen aus dem öffentlichen Sektor",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 4500001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Marion Hammerl",
+"funktion": "Präsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003123/74615",
+"stand": "2026-03-31"
+}
+},
+{
+"name": "Udo Gattenloehner",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003123/74615",
+"stand": "2026-03-31"
+}
+},
+{
+"name": "Stefan Hörmann",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003123/74615",
+"stand": "2026-03-31"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 1050001,
+"bis": 1060000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/fd/ff/716037/GNF-2024-Testatsexemplar.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003123/74615",
+"abgerufen": "2026-11-02",
+"stand": "2026-03-31",
+"etikett": "Eigenangabe",
+"version": 14
+}
+]
+}

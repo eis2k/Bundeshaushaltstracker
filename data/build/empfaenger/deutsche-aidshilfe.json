@@ -1,0 +1,218 @@
+{
+"id": "deutsche-aidshilfe",
+"name": "Deutsche Aidshilfe",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.aidshilfe.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002264",
+"eintrag_id": 88094,
+"version": 12,
+"stand": "2026-10-28",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002264/88094",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/98/7a/866181/Lobbyregister-Registereintraege-Detailansicht-R002264-2026-10-28_10-50-06.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Gesundheit",
+"epl": "15",
+"von": 6690001,
+"bis": 6700000,
+"zweck": "HIV/STI-Prävention - zielgruppenspezifische Aufklärung WAT-Kampagne Projekt Let's talk about Sex - Prävention in der ärztlichen Praxis Forschungsprojekt Sexuelle Gesundheit und HIV/STI in trans Communities Projekt Konzeption, Umsetzung und Evaluation eines wissenschaftlichen Modellprojekts zur Durchführung deutschlandweiter qualitätsgesicherter Take-Home Naloxon Schulungen NALTRAIN Forschungsprojekt Prävention für Menschen in der Sexarbeit",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Verband der Ersatzkassen",
+"epl": null,
+"von": 140001,
+"bis": 150000,
+"zweck": "Pauschalförderung nach SGB V § 20 c",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "DAK",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "Selbsthilfeaktivitäten der in Deutschland lebenden HIV-Communities im Rahmen eines Fachtages \"Selbsthilfe im Zeichen des gesallschaftlichen Wandels\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Techniker Krankenkasse",
+"epl": null,
+"von": 90001,
+"bis": 100000,
+"zweck": "Projekt \"Förderung der sexuellen Bildung und Gesundheit in trans und nicht-binären Communities\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Barmer Ersatzkasse",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "Das Projekt „Initiierung und Stärkung von Selbsthilfeangeboten zur Ressourcenstärkung hinsichtlich psychischer Gesundheitsbelastungen bei LSBTIQ*\" hat das Ziel der Stärkung von bereits in der Selbsthilfe engagierten LSBTIQ*-Personen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 6960005,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Sylvia Urban",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002264/88094",
+"stand": "2026-10-28"
+}
+},
+{
+"name": "Sven Warminsky",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002264/88094",
+"stand": "2026-10-28"
+}
+},
+{
+"name": "Winfried Holz",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Leiter des Ausschusses für Ernährung und Landwirtschaft",
+"stelle": "Verwaltung des Deutschen Bundestages",
+"beendet": true,
+"ende": "2026-04"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002264/88094",
+"stand": "2026-10-28"
+}
+},
+{
+"name": "Ulf-Arne Kristal",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002264/88094",
+"stand": "2026-10-28"
+}
+},
+{
+"name": "Stefan Miller",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002264/88094",
+"stand": "2026-10-28"
+}
+},
+{
+"name": "Silke Klumb",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002264/88094",
+"stand": "2026-10-28"
+}
+},
+{
+"name": "Holger Wicht",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002264/88094",
+"stand": "2026-10-28"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Winfried Holz",
+"funktion_person": "Leiter des Ausschusses für Ernährung und Landwirtschaft, Verwaltung des Deutschen Bundestages, bis 2026-04",
+"funktion_beim_empfaenger": "Vorstand",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Winfried Holz ist laut Lobbyregister Vorstand bei Deutsche Aidshilfe und hatte zuvor eine öffentliche Funktion: Leiter des Ausschusses für Ernährung und Landwirtschaft, Verwaltung des Deutschen Bundestages, bis 2026-04. Deutsche Aidshilfe erhielt laut Lobbyregister Mittel von: Bundesministerium für Gesundheit; Verband der Ersatzkassen; Techniker Krankenkasse; DAK; Barmer Ersatzkasse.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Gesundheit",
+"Verband der Ersatzkassen",
+"Techniker Krankenkasse",
+"DAK",
+"Barmer Ersatzkasse"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002264/88094",
+"stand": "2026-10-28"
+}
+],
+"stand": "2026-10-28"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 110001,
+"bis": 120000
+},
+"mitgliedsbeitraege": {
+"von": 80001,
+"bis": 90000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/d9/88/866180/JA-Bilanzbericht-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002264/88094",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-28",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

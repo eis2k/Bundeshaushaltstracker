@@ -1,0 +1,160 @@
+{
+"id": "verband-deutscher-gebirgs-und-wandervereine",
+"name": "Verband Deutscher Gebirgs- und Wandervereine e.V. (Deutscher Wanderverband)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Kassel",
+"website": "www.wanderverband.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004448",
+"eintrag_id": 88072,
+"version": 9,
+"stand": "2026-10-27",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004448/88072",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/a3/b1/865988/Lobbyregister-Registereintraege-Detailansicht-R004448-2026-10-27_15-31-24.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundeszentrale für politische Bildung und Bundesministerium des Innern und für Heimat (BMI)",
+"epl": "06",
+"von": 1,
+"bis": 10000,
+"zweck": "Förderung für das Projekt \"Wandern, Naturschutz und regionale Identität - drei Wandervereine im Netzwerk Deutscher Wanderverband gehen gestärkt in die digitale Zukunft im Rahmen des Bundesprogramms \"Zusammenhalt durch Teilhabe.\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministeriums für Ernährung und Landwirtschaft (BMEL)",
+"epl": null,
+"von": 140001,
+"bis": 150000,
+"zweck": "Das Projekt „Open Data und digitale Lenkung für Besucher*innen – Handlungsbedarf, Regelungsmöglichkeiten & Kommunikation im Wald“ (kurz: Projekt WaldWegweiser), das vom Deutschen Wanderverband durchgeführt wird, hat es sich zum Ziel gesetzt, einen Beitrag zur Harmonisierung von forstlicher Nutzung, Erholungsnutzung und dem Schutz sensibler Ökosysteme im Wald zu leisten.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 140002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Michael Ermrich",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004448/88072",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Werner Mohr",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004448/88072",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Heidrun Hiemer",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004448/88072",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Thomas Gemke",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004448/88072",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Angela Sabac-el-Cher",
+"funktion": "Schatzmeisterin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004448/88072",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Matthias Löb",
+"funktion": "Verbandskulturwart",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004448/88072",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Bernd Hartmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004448/88072",
+"stand": "2026-10-27"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 480001,
+"bis": 490000
+},
+"lobbyausgaben": {
+"von": 60001,
+"bis": 70000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/34/e1/865987/Finanzbericht-25-26.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004448/88072",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-27",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

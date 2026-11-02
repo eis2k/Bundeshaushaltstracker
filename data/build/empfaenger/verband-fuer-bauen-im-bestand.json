@@ -1,0 +1,118 @@
+{
+"id": "verband-fuer-bauen-im-bestand",
+"name": "Verband für Bauen im Bestand e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://www.fuerbauenimbestand.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006261",
+"eintrag_id": 82442,
+"version": 9,
+"stand": "2026-07-06",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006261/82442",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/8d/91/805604/Lobbyregister-Registereintraege-Detailansicht-R006261-2026-07-06_10-46-07.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Umweltbundesamt",
+"epl": "16",
+"von": 30001,
+"bis": 40000,
+"zweck": "Das übergeordnete Ziel der BiB-Academy besteht darin, den Schwerpunkt der Bau- und Immobilienbranche von „Neubau“ auf „Bauen im Bestand“ zu verlagern. In der Ausbildung im Bereich des Bauwesens liegt der Fokus meist auf Neubauten. Das Bauen im Bestand wird oft vernachlässigt, trotz seiner Effizienz bei der Erreichung der Klimaziele. Zum Beispiel verursacht Neubau etwa 800-1.000 kg CO2 pro Quadratmeter, während Umbauten bestehender Gebäude nur etwa 100-200 kg CO2 pro Quadratmeter freisetzen. Die BiB-Academy engagiert sich dafür, dieses Wissen und die damit verbundenen Nachhaltigkeitsmaßnahmen stärker in der Ausbildung zu verankern. Es ist daher essenziell, die Lehrpraxis in der Branche schnellstmöglich anzupassen und das Bauen im Bestand unter dem Aspekt der Nachhaltigkeit stärker zu thematisieren.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 30001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Sarah Dungs",
+"funktion": "1. Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006261/82442",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Diana Anastasija Walcher-Radke",
+"funktion": "2. Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006261/82442",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Timm Sassen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006261/82442",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Martina Rozok",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006261/82442",
+"stand": "2026-07-06"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 70001,
+"bis": 80000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/d3/e0/805603/Verband-fuer-Bauen-im-Bestand-e-V-Jahresabschluss-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006261/82442",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-06",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

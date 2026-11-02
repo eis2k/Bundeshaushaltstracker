@@ -1,0 +1,122 @@
+{
+"id": "stadtwerke-leipzig",
+"name": "Stadtwerke Leipzig GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Leipzig",
+"website": "www.L.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003076",
+"eintrag_id": 83953,
+"version": 10,
+"stand": "2026-07-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003076/83953",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/04/11/822833/Lobbyregister-Registereintraege-Detailansicht-R003076-2026-07-30_12-20-06.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klima",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Energieforschungsprogramm- Innovationen für die Energiewende für das Vorhaben „BURN4H2\", Auftraggeber BMWK",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 40001,
+"bis": 50000,
+"zweck": "SAM-Fernwärme, Sustainable Asset Management Fernwärme: Nachhaltigkeitsbewertung von Wärmenetzen für die Erhöhung der Nutzungsdauer und Effizienzsteigerung im Betrieb",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klima",
+"epl": null,
+"von": 460001,
+"bis": 470000,
+"zweck": "BEW Industrielle Abwärme",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 510003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Karsten Rogall",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003076/83953",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Maik Piehler",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003076/83953",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Simon Martin Ziel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003076/83953",
+"stand": "2026-07-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 200001,
+"bis": 210000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/29/2d/822830/LSW_064742030-Finales-Testatsexemplar-mit-QES.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003076/83953",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-30",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

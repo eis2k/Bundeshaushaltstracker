@@ -1,0 +1,138 @@
+{
+"id": "landesarbeitsgemeinschaft-agenda-21-nrw",
+"name": "Landesarbeitsgemeinschaft Agenda 21 NRW e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Dortmund",
+"website": "www.lag21.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005033",
+"eintrag_id": 78489,
+"version": 7,
+"stand": "2026-07-08",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005033/78489",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c9/5e/808730/Lobbyregister-Registereintraege-Detailansicht-R005033-2026-07-08_11-31-47.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+"epl": "16",
+"von": 50001,
+"bis": 60000,
+"zweck": "Projekt \"Breitensport, Umwelt und Nachhaltigkeit\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+"epl": "23",
+"von": 90001,
+"bis": 100000,
+"zweck": "Weiterleitungsempfänger im Projekt \"Transformation Nachhaltig Gestalten - Netzwerken, Wissenstransfer, Beratung zur Umsetzung der Deutschen Nachhaltigkeitsstrategie\" des RENN e.V.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 140002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Klaus Reuter",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005033/78489",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Moritz Schmidt",
+"funktion": "Besonderer Vertreter nach §30 BGB",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005033/78489",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Marion Eickhoff",
+"funktion": "Besondere Vertreterin nach §30BGB",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005033/78489",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Mona Rybicki",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005033/78489",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Marlén Münning",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005033/78489",
+"stand": "2026-07-08"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 20001,
+"bis": 30000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/b9/da/808729/geschaeftsbericht-2025_digital.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005033/78489",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-08",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

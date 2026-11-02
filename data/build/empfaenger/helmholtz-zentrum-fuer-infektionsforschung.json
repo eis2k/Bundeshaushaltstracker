@@ -1,0 +1,129 @@
+{
+"id": "helmholtz-zentrum-fuer-infektionsforschung",
+"name": "Helmholtz-Zentrum für Infektionsforschung GmbH",
+"art": "forschung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Braunschweig",
+"website": "https://www.helmholtz-hzi.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001695",
+"eintrag_id": 83642,
+"version": 8,
+"stand": "2026-08-18",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001695/83642",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/93/61/832197/Lobbyregister-Registereintraege-Detailansicht-R001695-2026-08-18_14-33-15.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesrepublik Deutschland",
+"epl": "60",
+"von": 147970001,
+"bis": 147980000,
+"zweck": "Institutionelle Zuwendung + Projektförderung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Hermann von Helmholtz-Gemeinschaft Deutscher Forschungszentren e.V.",
+"epl": null,
+"von": 3630001,
+"bis": 3640000,
+"zweck": "Projektförderung: Verschiedene Zuwendungen aus der Forschungsförderung des Impuls- und Vernetzungsfonds der Hermann von Helmholtz-Gemeinschaft Deutscher Forschungszentren e. V.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Forschungsgemeinschaft e.V.",
+"epl": null,
+"von": 4860001,
+"bis": 4870000,
+"zweck": "Projektförderung: Verschiedene Zuwendungen aus unterschiedlichen Förderprogrammen der Deutschen Forschungsgemeinschaft e. V.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Alexander von Humboldt-Stiftung",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Projektförderung: Verschiedene Zuwendungen aus Förderprogrammen der Alexander von Humboldt-Stiftung.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutscher Akademischer Austauschdienst e. V. (DAAD)",
+"epl": "30",
+"von": 80001,
+"bis": 90000,
+"zweck": "Projektförderung: Verschiedene Zuwendungen aus Förderprogrammen des Deutschen Akademischen Austauschdienstes e. V. (DAAD).",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 156550005,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Josef Penninger",
+"funktion": "Wissenschaftlicher Geschäftsführer ab 01.07.2023",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001695/83642",
+"stand": "2026-08-18"
+}
+},
+{
+"name": "Christian Scherf",
+"funktion": "Administrative Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001695/83642",
+"stand": "2026-08-18"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 70001,
+"bis": 80000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/7e/16/832192/HZI_Jahresabschluss-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001695/83642",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-18",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

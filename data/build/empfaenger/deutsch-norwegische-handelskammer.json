@@ -1,0 +1,146 @@
+{
+"id": "deutsch-norwegische-handelskammer",
+"name": "Deutsch-Norwegische Handelskammer (AHK Norwegen)",
+"art": "verein_stiftung",
+"rechtsform": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+"sitz": "Oslo",
+"website": "https://norwegen.ahk.de/de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007701",
+"eintrag_id": 86859,
+"version": 4,
+"stand": "2026-10-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007701/86859",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c4/72/854430/Lobbyregister-Registereintraege-Detailansicht-R007701-2026-10-01_10-30-04.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 70001,
+"bis": 80000,
+"zweck": "Markterschliessungsprogramm: Geschäftsanbahnungsreise zum Thema Autonome Systeme, zivile Sicherheitstechnologien und Dekarbonisierung in der maritimen Wirtschaft",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 90001,
+"bis": 100000,
+"zweck": "Exportinitiative Energie: Geschäftsreiseprogramm zum Thema Technologien für den Aufbau einer Wassterstoff-Wertschöpfungskette in Norwegen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 180001,
+"bis": 190000,
+"zweck": "Zuwendung allgemein AHK + BMWE - Zuwendung an AHK, besondere Zwecke",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 340003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Matthias Geiger",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007701/86859",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Dalia Samra-Rohte",
+"funktion": "Geschäftsführerin / Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007701/86859",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Kristina Jolanta Schmidt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007701/86859",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Hege Louise Guttormsen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007701/86859",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Anna Hansen Haugan",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007701/86859",
+"stand": "2026-10-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 590001,
+"bis": 600000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/7b/90/854429/Deutsch-norwegische-Handelskammer-Offentlig-regnskap-2025_SIGNERT_Redacted.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007701/86859",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-01",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

@@ -1,0 +1,108 @@
+{
+"id": "pestalozzi-froebel-verband",
+"name": "Pestalozzi-Fröbel-Verband e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.pfv.info",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004660",
+"eintrag_id": 75772,
+"version": 13,
+"stand": "2026-06-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004660/75772",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/55/66/773699/Lobbyregister-Registereintraege-Detailansicht-R004660-2026-06-24_14-42-37.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 240001,
+"bis": 250000,
+"zweck": "förderfähige Kurse und Arbeitstagungen; Personalkosten; Kleinaktivitäten und Sonstige Aktivitäten nach Kinder- und Jugendplan des Bundes (KJP)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 240001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Bettina Stobbe",
+"funktion": "besondere Vertreterin ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004660/75772",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Anke  König",
+"funktion": "Vorstandsvorsitzende ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004660/75772",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Karin Garske",
+"funktion": "Stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004660/75772",
+"stand": "2026-06-24"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 10001,
+"bis": 20000
+},
+"lobbyausgaben": {
+"von": 60001,
+"bis": 70000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/7d/59/773696/Einnahmen-Ueberschuss-Rechnung-2024-Einnahmen-Ueberschuss-Rechnung.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004660/75772",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-24",
+"etikett": "Eigenangabe",
+"version": 13
+}
+]
+}

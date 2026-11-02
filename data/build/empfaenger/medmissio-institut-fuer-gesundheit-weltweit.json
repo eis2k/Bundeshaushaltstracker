@@ -1,0 +1,121 @@
+{
+"id": "medmissio-institut-fuer-gesundheit-weltweit",
+"name": "medmissio - Institut für Gesundheit weltweit",
+"art": "verein_stiftung",
+"rechtsform": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+"sitz": "Würzburg",
+"website": "www.medmissio.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001898",
+"eintrag_id": 87340,
+"version": 29,
+"stand": "2026-10-09",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001898/87340",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/93/ef/859260/Lobbyregister-Registereintraege-Detailansicht-R001898-2026-10-09_14-19-14.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "GIZ - Deutsche Gesellschaft für Internationale Zusammenarbeit",
+"epl": "23",
+"von": 100001,
+"bis": 110000,
+"zweck": "GIZ Academic - Ein ganzheitlicher Ansatz zur durch Schistosomiasis verursachten Krankheitslast GIZ: Trainingsprogramm hinsichtlich Krankheiten durch hochpathogene Erreger (high consequence infectious diseases, HCID) im Rahmen von EFFO-CoE (Effizienz durch Fortbildung, Center of Excellence) Klinikpartnerschaft - Einrichtung einer diagnostischen Pathologie im diagnostischen Zentrum Kolping in Santa Cruz de la Sierra, Bolivien",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 100001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Michael Kuhnert",
+"funktion": "stellvertretender Vorsitzender des Leitungsgremiums/Vorstands, Leiter der Geschäftsstelle",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001898/87340",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "August Stich",
+"funktion": "Vorsitzender des Leitungsgremiums/Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001898/87340",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Mario Rothenbücher",
+"funktion": "Mitglied des Leitungsgremiums / Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001898/87340",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Tilman Rüppel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001898/87340",
+"stand": "2026-10-09"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 580001,
+"bis": 590000
+},
+"mitgliedsbeitraege": {
+"von": 20001,
+"bis": 30000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ad/d1/859257/JA-2025-Medmissio.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001898/87340",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-09",
+"etikett": "Eigenangabe",
+"version": 29
+}
+]
+}

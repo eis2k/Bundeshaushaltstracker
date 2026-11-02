@@ -1,0 +1,653 @@
+{
+"id": "daimler-truck",
+"name": "Daimler Truck  AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Leinfelden-Echterdingen",
+"website": "https://www.daimlertruck.com/de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002123",
+"eintrag_id": 87986,
+"version": 55,
+"stand": "2026-10-23",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/cd/2b/864901/Lobbyregister-Registereintraege-Detailansicht-R002123-2026-10-23_16-04-32.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 50001,
+"bis": 60000,
+"zweck": "Entwicklung eines ganzheitlichen und nachhaltigen Recyclingansatzes für Lithium-Ionen-Batterien (LiBinfinity)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 350001,
+"bis": 360000,
+"zweck": "Hocheffizientes, produktionsgerechtes Antriebs-Baukastensystem für die Elektrifizierung von schweren Nutzfahrzeugen (eBooST)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 2320001,
+"bis": 2330000,
+"zweck": "Bundesförderung für Energieeffizienz in der Wirtschaft - Zuschuss",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMVI",
+"epl": "12",
+"von": 30001,
+"bis": 40000,
+"zweck": "Hochleistungsladen im LKW-Fernverkehr (HoLa)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "Verbundvorhaben: (EnEffNet) - Digitale Vernetzungsplattform für Energie- und Ressourceneffizienz zum optimierten Anlagenbetrieb; Teilvorhaben Daimler Truck Mannheim: Regelungstechnische Beherrschung der Wärmerückgewinnung der Gießerei; sowie Optimierung des Fertigungsbetriebs am Beispiel des Geb. 6",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 1010001,
+"bis": 1020000,
+"zweck": "Verbundprojekt: Digitaler Zwilling und Künstliche Intelligenz in der vernetzten Fabrik für die integrierte Nutzfahrzeugproduktion, Logistik und Qualitätssicherung (TWIN4TRUCKS) - Teilvorhaben: Integrierte Nutzfahrzeugproduktion, Logistik und Qualitätssicherung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 90001,
+"bis": 100000,
+"zweck": "Verbundprojekt: (DigiTain) - Digitalization for Sustainability; Teilvorhaben: Entwicklung eines validierten Detailmodells der Zelle",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 50001,
+"bis": 60000,
+"zweck": "Verbundprojekt: (Beyond1kV) - Batterieelektrische Antriebssysteme für Nutzfahrzeuge mit Bordnetzspannungen über 1 kV; Teilvorhaben: Technische Abhängigkeitsanalyse des 800 V-Hochvoltsystems eines schweren Nutzfahrzeugs & Ableitung von Designkriterien für höhere Spannungslagen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMVD",
+"epl": null,
+"von": 27430001,
+"bis": 27440000,
+"zweck": "Pegasus - Fahrzeugentwicklung und Produktion- Brennstoffzellen-LKW",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMVD",
+"epl": null,
+"von": 310001,
+"bis": 320000,
+"zweck": "HyCo - Entwicklung eines Brennstoffzellen -Reisebusses",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 50001,
+"bis": 60000,
+"zweck": "AIToc -Artificial Intelligence supported Tool Chain in Manufacturing Engineering",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 440001,
+"bis": 450000,
+"zweck": "„Digitaler Zwilling eines heterogenen Maschinenparks zur Komplettbearbeitung von Bauteilen“ (TwinMap) - Teilvorhaben: Erforschung neuartiger Prozesse zur Abbildung eines homogenen Maschinenparks",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 710001,
+"bis": 720000,
+"zweck": "ELCH-Verbundprojekte Electrified Coach Teilprojekt Gesamtfahrzeug: Entwicklung von zwei Demonstrator-Fahrzeugen aufzeigen, wie der straßengebundene Personenfernverkehr emissionsfrei und praxistauglich realisiert werden kann",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 880001,
+"bis": 890000,
+"zweck": "Entwicklung innovativer und kognitiver Produktionsprozesse einer LFP-basierten Batteriezellenproduktion",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE",
+"epl": "09",
+"von": 20001,
+"bis": 30000,
+"zweck": "Controlling Risk for Highly Automated Transportation Systems Operating in Complex Open Environments; & Automatisierte und digitalisierte Kreislaufwirtschaftslösungen für elektrische Achsantriebssysteme als Schlüsseltechnologien in der Elektromobilität “ (ReDriveSet)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 20001,
+"bis": 30000,
+"zweck": "CO2- und kreislaufoptimierte additive Produktdesigns und LPBF Fertigungsprozesse für ressourceneffiziente Nutzfahrzeugkomponenten",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "KfW",
+"epl": "09",
+"von": 2310001,
+"bis": 2320000,
+"zweck": "Program BEG NWG-Zuschuss (463); Neubau Effiziensgebäude 40 EE, Neubauprojekt Truck Center Stuttgart",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 36100017,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Karin Rådström",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Andreas Gorbach",
+"funktion": "Vorstandsmitglied für Truck Technology",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Jürgen Hartwig",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "John O'Leary",
+"funktion": "Vorstandsmitglied für Daimler Truck North America",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Eva Scherer",
+"funktion": "Vorstandsmitglied, Chief Financial Officer (CFO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Achim Puchert",
+"funktion": "Vorstandsmitglied für Mercedes-Benz Trucks und BharatBenz",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Yvonne Bettkober",
+"funktion": "Vorstandsmitglied für Personal",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Manfred Schuckert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Moritz Grüters",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Volker Hasenberg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Axel Trentzsch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Silke Conrad",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Volker Walz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Till Oberwörder",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Michael Brecht",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Tobias Schweickhardt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Boris Gelse",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Sara Wanner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Meri Todorovic",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Wilhelm Röttger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Daniel Schramek",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Ikbal Kröll",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Susanne Wenzel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Christian Wesel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Jens Fleckenstein",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Jan Debler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Daniel Zittel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Jan Amelong",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Tanja Walcher",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Dennis Kinzelmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Thomas Twork",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Tim Seil",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2024-04"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Joachim Bozler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Walter Holderried",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Corinna Jung",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Sabine Pesalovo",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Hauke Schuler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Thomas Soczka-Guth",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Tim Seil",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2024-04",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Tim Seil ist laut Lobbyregister Interessenvertretung bei Daimler Truck  AG und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2024-04. Daimler Truck  AG erhielt laut Lobbyregister Mittel von: BMVD; BMWK; KfW; BMBF; BMVI; BMWE.",
+"ausschuesse": [],
+"geld_aus": [
+"BMVD",
+"BMWK",
+"KfW",
+"BMBF",
+"BMVI",
+"BMWE"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"stand": "2026-10-23"
+}
+],
+"stand": "2026-10-23"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 670001,
+"bis": 680000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/66/cc/864900/Daimler-Truck-Jahresabschluss-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002123/87986",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-23",
+"etikett": "Eigenangabe",
+"version": 55
+}
+]
+}

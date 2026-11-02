@@ -1,0 +1,150 @@
+{
+"id": "aerzte-der-welt",
+"name": "Ärzte der Welt e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "München",
+"website": "https://www.aerztederwelt.org/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004153",
+"eintrag_id": 77302,
+"version": 7,
+"stand": "2026-06-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004153/77302",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/0e/55/781704/Lobbyregister-Registereintraege-Detailansicht-R004153-2026-06-29_09-45-29.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 4250001,
+"bis": 4260000,
+"zweck": "Projekt für Äthiopien: Vertragsnummer: 8183 (Inklusive Stärkung der Gesundheitsdienstleistungen für Mütter und Kinder im Woreda Chifra, Region Afar, Äthiopien) Projekt für Palästina: Vertragsnummer: 2022.1817.0 (Stärkung des Zugangs der vom Konflikt betroffenen Bevölkerung in oPt zu hochwertigen MHPSS-Diensten). Vertragsnummer: 2024.1854.9 (Kapazitätenausbau für Katastrophenmanagement und Resilienz in den palästinensischen Gebieten). Projekt für Syrien: Vertragsnummer: 2023.1853.3 (Stärkung der Resilienz von konfliktbetroffenen Gemeinden und des lokalen öffentlichen Gesundheitssystems im Gouvernement Raqqa, Nordostsyrien). Projekt für Ukraine: Vertragsnummer: 2020.1872.9 (Stärkung der Resilienz von Gemeinden und des öffentlichen Gesundheitssystems in der Ukraine).",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 13200001,
+"bis": 13210000,
+"zweck": "Projekt für Äthiopien: Vertragsnummer: S09-47-321.50 ETH 01/21 (Beitrag zur Reduktion von Morbiditäts- und Mortalitätsraten). Projekt für Jemen: Vertragsnummer: S09-20-321.50 YEM 06/21 (Verbesserter Zugang zu Basisgesundheitsdiensten, MHPSS und GBV-Leistungen). Projekt für Nigeria: Vertragsnummer: F-PF-2-Team2-321.50/TSR/NGA/ÄdW/2024/01 (Integrierte medizinische Notfalldienste für Binnenvertriebene und gefährdete Aufnahmegemeinden). Projekt für Afghanistan/Pakistan: Vertragsnummer: F-PF-2-321.50-ASI 01/22 (Verbesserung des Zugangs zu Basisgesundheitsversorgung). Projekt für Syrien: Vertragsnummer: F-PF-2Team2-321.50/SYR/SYR/ÄdW/2023/01 (Bereitstellung Basisgesundheitsversorgung). Projekt für Ukraine: Vertragsnummer: 321.50/UKR/Reg/ÄdW/2023/01 (Verbesserter Zugang zu umfassenden Basisgesundheitsdienstleistungen). Projekt für Zentralafrikanische Repubik: Vertragsnummer: BF-F-PF-2-321.50 CAF 01/22 (Verbesserter Zugang zu hochwertiger Basisgesundheitsversorgung).",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 17450002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Peter Schwick",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004153/77302",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Birgit Spiewok",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004153/77302",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Thomas Bader",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004153/77302",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Johanna Offe",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004153/77302",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Janina Gach",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004153/77302",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Katri Bertram",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004153/77302",
+"stand": "2026-06-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Sonstiges",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 4990001,
+"bis": 5000000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 120001,
+"bis": 130000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/6b/10/781693/4_Jahresabschluss-und-Pruefungsbericht-2024.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004153/77302",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-29",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

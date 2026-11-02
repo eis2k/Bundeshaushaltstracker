@@ -1,0 +1,197 @@
+{
+"id": "thueringer-bauernverband",
+"name": "Thüringer Bauernverband e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Erfurt",
+"website": "www.tbv-erfurt.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001170",
+"eintrag_id": 83506,
+"version": 7,
+"stand": "2026-08-28",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001170/83506",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/02/59/836158/Lobbyregister-Registereintraege-Detailansicht-R001170-2026-08-28_11-55-36.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Forschungsinstitut Jülich",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Projekt \"FarmWater: Wasserwiederverwendung in der Thüringer Landwirtschaft\": Entwicklung und Erprobung eines innovativen Verfahrenskonzepts, um aufbereitetes Abwasser als Wasserressource -über das ganze Jahr verteilt- für die künstliche Bewässerung in der Landwirtschaft zusätzlich zu nutzen.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 10001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Klaus Wagner",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001170/83506",
+"stand": "2026-08-28"
+}
+},
+{
+"name": "Wolfgang Peter",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001170/83506",
+"stand": "2026-08-28"
+}
+},
+{
+"name": "Doreen Rath",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001170/83506",
+"stand": "2026-08-28"
+}
+},
+{
+"name": "Toralf Müller",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001170/83506",
+"stand": "2026-08-28"
+}
+},
+{
+"name": "Beate Köber-Fleck",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001170/83506",
+"stand": "2026-08-28"
+}
+},
+{
+"name": "Michael König",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001170/83506",
+"stand": "2026-08-28"
+}
+},
+{
+"name": "Anja Nußbaum",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001170/83506",
+"stand": "2026-08-28"
+}
+},
+{
+"name": "André Rathgeber",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001170/83506",
+"stand": "2026-08-28"
+}
+},
+{
+"name": "Olivia Meyer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001170/83506",
+"stand": "2026-08-28"
+}
+},
+{
+"name": "Stefan Ritter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001170/83506",
+"stand": "2026-08-28"
+}
+},
+{
+"name": "Nadja Gipser",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001170/83506",
+"stand": "2026-08-28"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1630001,
+"bis": 1640000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e2/80/836155/TBV_Bilanz_GuV_Lobbyregister-25.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001170/83506",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-28",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

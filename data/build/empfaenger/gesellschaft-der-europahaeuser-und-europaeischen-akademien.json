@@ -1,0 +1,138 @@
+{
+"id": "gesellschaft-der-europahaeuser-und-europaeischen-akademien",
+"name": "Gesellschaft der Europahäuser und Europäischen Akademien e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bonn",
+"website": "www.geea-ev.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002944",
+"eintrag_id": 77076,
+"version": 7,
+"stand": "2026-05-22",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002944/77076",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/97/43/741225/Lobbyregister-Registereintraege-Detailansicht-R002944-2026-05-22_14-01-46.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Engagement Global gGmbH",
+"epl": "23",
+"von": 100001,
+"bis": 110000,
+"zweck": "Projektdurchführung und Koordinierung des Entwicklungspolitischen Veranstaltungsdienstes: Der Entwicklungspolitische Veranstaltungsdienst bietet interessierten Bürger:innen durch die bundesweite Vermittlung von Referent:innen die Gelegenheit, sich in direkten Begegnungen mit Expert:innen über globale Zusammenhänge und Fragestellungen zu informieren. Projektfinanzierung durch Engagement Global: 98.823,13€ Koordinierung des Projektes \"Globalisierung und Entwicklung - durchblicken, diskutieren, weiterdenken\", Koordinierungs- und Verwaltungskostenzuschuss durch Engagement Global:8.662,46 €",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundeszentrale für politische Bildung",
+"epl": "06",
+"von": 20001,
+"bis": 30000,
+"zweck": "Zentralstellenfunktion (fachliche Vorprüfung von Anträgen und Verwendungsnachweisen der Mitgliedseinrichtungen)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 120002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Birgit Boeser",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002944/77076",
+"stand": "2026-05-22"
+}
+},
+{
+"name": "Kilian Kindelberger",
+"funktion": "Stellvertretender Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002944/77076",
+"stand": "2026-05-22"
+}
+},
+{
+"name": "Florian Pfeil",
+"funktion": "Stellvertretender Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002944/77076",
+"stand": "2026-05-22"
+}
+},
+{
+"name": "Christian Johann",
+"funktion": "Stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002944/77076",
+"stand": "2026-05-22"
+}
+},
+{
+"name": "Natali Rezwanian-Amiri",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002944/77076",
+"stand": "2026-05-22"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 30001,
+"bis": 40000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/4e/6f/741224/JA-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002944/77076",
+"abgerufen": "2026-11-02",
+"stand": "2026-05-22",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

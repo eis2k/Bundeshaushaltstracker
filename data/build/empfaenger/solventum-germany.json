@@ -1,0 +1,126 @@
+{
+"id": "solventum-germany",
+"name": "Solventum Germany GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Kamen",
+"website": "https://www.solventum.com/de-de/home/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006552",
+"eintrag_id": 87443,
+"version": 26,
+"stand": "2026-10-12",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006552/87443",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/4c/a4/860173/Lobbyregister-Registereintraege-Detailansicht-R006552-2026-10-12_15-20-33.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 430001,
+"bis": 440000,
+"zweck": "Bundesförderung für Energie- und Ressourceneffizienz in der Wirtschaft; Öffentliche Förderung zu Optimierung betrieblicher Anlagen und Prozesse.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 50001,
+"bis": 60000,
+"zweck": "Bundesförderung für effiziente Gebäude – Einzelmaßnahmen (BEG EM) öffentliche Förderung aus dem Energie- und Klimafonds (EKF) für Maßnahmen zur Steigerung der Energieeffizienz, insbesondere Einbau, Austausch oder Optimierung von Anlagentechnik (außer Heizung)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 480002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Nicole DEY",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006552/87443",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Jörg KARTHAUS",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006552/87443",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Stefanie SIEBELS",
+"funktion": "Vorsitzende der Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006552/87443",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Philipp BRAUN",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006552/87443",
+"stand": "2026-10-12"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 60001,
+"bis": 70000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/8a/22/860171/DEE00144019-1-2-Bericht-Solventum-Germany-GmbH-2025-12-04-1-2.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006552/87443",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-12",
+"etikett": "Eigenangabe",
+"version": 26
+}
+]
+}

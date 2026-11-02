@@ -1,0 +1,391 @@
+{
+"id": "projecttogether",
+"name": "ProjectTogether gGmbH",
+"art": "verein_stiftung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "https://projecttogether.org/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005529",
+"eintrag_id": 84350,
+"version": 15,
+"stand": "2026-08-06",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005529/84350",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/fd/25/827320/Lobbyregister-Registereintraege-Detailansicht-R005529-2026-08-06_12-08-42.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium des Innern und für Heimat (BMI)",
+"epl": "06",
+"von": 990001,
+"bis": 1000000,
+"zweck": "Aufbau eines privat-öffentlichen Förderfonds mit dem Welcome Alliance Fund, 900.000 EUR von 1.000.000 EUR wurden an Dritte weitergeleitet",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BBSR Bundesinstitut für Bau-, Stadt- und Raumforschung",
+"epl": "25",
+"von": 130001,
+"bis": 140000,
+"zweck": "Projektförderung Umsetzungslabor",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMUV / BMUKN",
+"epl": "16",
+"von": 110001,
+"bis": 120000,
+"zweck": "Projektförderung Klima-Landschaft mit Agroforst – Modellregion Wolfenbüttel",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration / Antirassismus",
+"epl": null,
+"von": 50001,
+"bis": 60000,
+"zweck": "Projektförderung WosU reloaded",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1280004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Henrike Schlottmann",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005529/84350",
+"stand": "2026-08-06"
+}
+},
+{
+"name": "Philipp Von der Wippel",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005529/84350",
+"stand": "2026-08-06"
+}
+},
+{
+"name": "Sophia Von Bonin",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005529/84350",
+"stand": "2026-08-06"
+}
+},
+{
+"name": "Noah Schöppl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2022-07"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005529/84350",
+"stand": "2026-08-06"
+}
+},
+{
+"name": "Johannes Tödte",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005529/84350",
+"stand": "2026-08-06"
+}
+},
+{
+"name": "Catalin Hartwig",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005529/84350",
+"stand": "2026-08-06"
+}
+},
+{
+"name": "Arne Treves",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005529/84350",
+"stand": "2026-08-06"
+}
+},
+{
+"name": "Etienne Degeest",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005529/84350",
+"stand": "2026-08-06"
+}
+},
+{
+"name": "Lucie Schock",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005529/84350",
+"stand": "2026-08-06"
+}
+},
+{
+"name": "Philipp Burckhardt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005529/84350",
+"stand": "2026-08-06"
+}
+},
+{
+"name": "Luisa Seiler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005529/84350",
+"stand": "2026-08-06"
+}
+},
+{
+"name": "Tiaji Sio",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Konsulatssekretärin",
+"stelle": "Auswärtiges Amt (AA) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2023-12"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005529/84350",
+"stand": "2026-08-06"
+}
+},
+{
+"name": "Sarina Spiegel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005529/84350",
+"stand": "2026-08-06"
+}
+},
+{
+"name": "Gina Rembe",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005529/84350",
+"stand": "2026-08-06"
+}
+},
+{
+"name": "Vanessa Gstettenbauer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005529/84350",
+"stand": "2026-08-06"
+}
+},
+{
+"name": "Markus Leick",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005529/84350",
+"stand": "2026-08-06"
+}
+},
+{
+"name": "Luise Garleff",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005529/84350",
+"stand": "2026-08-06"
+}
+},
+{
+"name": "Sebastian Heinrichs",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005529/84350",
+"stand": "2026-08-06"
+}
+},
+{
+"name": "Edouard Morello",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005529/84350",
+"stand": "2026-08-06"
+}
+},
+{
+"name": "Paolina Hagengruber",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005529/84350",
+"stand": "2026-08-06"
+}
+},
+{
+"name": "Cornelius Golembiewski",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005529/84350",
+"stand": "2026-08-06"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Noah Schöppl",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2022-07",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Noah Schöppl ist laut Lobbyregister Interessenvertretung bei ProjectTogether gGmbH und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2022-07. ProjectTogether gGmbH erhielt laut Lobbyregister Mittel von: Bundesministerium des Innern und für Heimat (BMI); BBSR Bundesinstitut für Bau-, Stadt- und Raumforschung; BMUV / BMUKN; Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration / Antirassismus.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium des Innern und für Heimat (BMI)",
+"BBSR Bundesinstitut für Bau-, Stadt- und Raumforschung",
+"BMUV / BMUKN",
+"Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration / Antirassismus"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005529/84350",
+"stand": "2026-08-06"
+}
+],
+"stand": "2026-08-06"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Tiaji Sio",
+"funktion_person": "Konsulatssekretärin, Auswärtiges Amt (AA) oder dessen Geschäftsbereich, bis 2023-12",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Tiaji Sio ist laut Lobbyregister Interessenvertretung bei ProjectTogether gGmbH und hatte zuvor eine öffentliche Funktion: Konsulatssekretärin, Auswärtiges Amt (AA) oder dessen Geschäftsbereich, bis 2023-12. ProjectTogether gGmbH erhielt laut Lobbyregister Mittel von: Bundesministerium des Innern und für Heimat (BMI); BBSR Bundesinstitut für Bau-, Stadt- und Raumforschung; BMUV / BMUKN; Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration / Antirassismus.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium des Innern und für Heimat (BMI)",
+"BBSR Bundesinstitut für Bau-, Stadt- und Raumforschung",
+"BMUV / BMUKN",
+"Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration / Antirassismus"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005529/84350",
+"stand": "2026-08-06"
+}
+],
+"stand": "2026-08-06"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 5980001,
+"bis": 5990000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 400001,
+"bis": 410000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/c3/41/827316/ProjectTogether-gGmbH-JAE-31-12-2024-2.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005529/84350",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-06",
+"etikett": "Eigenangabe",
+"version": 15
+}
+]
+}

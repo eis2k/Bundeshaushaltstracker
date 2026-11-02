@@ -1,0 +1,119 @@
+{
+"id": "das-nettz",
+"name": "Das NETTZ gGmbH",
+"art": "verein_stiftung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "https://www.das-nettz.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006813",
+"eintrag_id": 77696,
+"version": 6,
+"stand": "2026-06-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006813/77696",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/af/9d/786431/Lobbyregister-Registereintraege-Detailansicht-R006813-2026-06-29_17-41-58.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ)",
+"epl": "17",
+"von": 620001,
+"bis": 630000,
+"zweck": "Zuwendung für ein Projekt im Bundesprogramm Demokratie leben!",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 620001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Hanna Gleiß",
+"funktion": "Co-Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006813/77696",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Nadine Brömme",
+"funktion": "Co-Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006813/77696",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Amos Wasserbach",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006813/77696",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Esther Jamileh  Theisen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006813/77696",
+"stand": "2026-06-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 120001,
+"bis": 130000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/86/0d/786430/VW-Jahresabschlussakte-2025-2.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006813/77696",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-29",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

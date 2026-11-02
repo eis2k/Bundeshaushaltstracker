@@ -1,0 +1,119 @@
+{
+"id": "weltfriedensdienst",
+"name": "Weltfriedensdienst e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://wfd.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003692",
+"eintrag_id": 88041,
+"version": 15,
+"stand": "2026-10-27",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003692/88041",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/e2/5a/865672/Lobbyregister-Registereintraege-Detailansicht-R003692-2026-10-27_10-21-59.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMZ",
+"epl": "23",
+"von": 7100001,
+"bis": 7110000,
+"zweck": "Öffentliche Zuwendungen in 2025",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 7100001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Thomas Schwedersky",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003692/88041",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Julian Friedrich",
+"funktion": "Stellvertretender Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003692/88041",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Therese Wenzel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003692/88041",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Simone Ramones",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003692/88041",
+"stand": "2026-10-27"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 1070001,
+"bis": 1080000
+},
+"mitgliedsbeitraege": {
+"von": 40001,
+"bis": 50000
+},
+"lobbyausgaben": {
+"von": 30001,
+"bis": 40000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/8d/4a/865671/WFD-Jahresbericht-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003692/88041",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-27",
+"etikett": "Eigenangabe",
+"version": 15
+}
+]
+}

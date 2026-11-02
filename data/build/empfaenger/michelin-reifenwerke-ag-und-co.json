@@ -1,0 +1,96 @@
+{
+"id": "michelin-reifenwerke-ag-und-co",
+"name": "Michelin Reifenwerke AG&Co.KGaA",
+"art": "unternehmen",
+"rechtsform": "Kommanditgesellschaft auf Aktien (KGaA)",
+"sitz": "Karlsruhe",
+"website": "www.michelin.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004627",
+"eintrag_id": 67138,
+"version": 6,
+"stand": "2026-01-21",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004627/67138",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ba/dc/684245/Lobbyregister-Registereintraege-Detailansicht-R004627-2026-01-21_09-58-49.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "16.562 € BAFA-Subvention für Erneuerung Beleuchtung aus der Bundesförderung für effiziente Gebäude am Standort Landau (Festsetzungsbescheid 12.06.2024)",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 10001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Markus Bast",
+"funktion": " Prokurist, Managing Director & Director Vertrieb B2B Deutschland Österreich Schweiz",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004627/67138",
+"stand": "2026-01-21"
+}
+},
+{
+"name": "Christoph Vondenhoff",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004627/67138",
+"stand": "2026-01-21"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 180001,
+"bis": 190000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/87/d1/684244/MRW-Jahresabschluss-2024.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004627/67138",
+"abgerufen": "2026-11-02",
+"stand": "2026-01-21",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

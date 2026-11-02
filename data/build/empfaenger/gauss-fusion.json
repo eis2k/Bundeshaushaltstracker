@@ -1,0 +1,116 @@
+{
+"id": "gauss-fusion",
+"name": "Gauss Fusion GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Garching",
+"website": "https://www.gauss-fusion.com/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006596",
+"eintrag_id": 79087,
+"version": 8,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006596/79087",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/10/d7/794177/Lobbyregister-Registereintraege-Detailansicht-R006596-2026-06-30_16-53-06.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 1220001,
+"bis": 1230000,
+"zweck": "Verbundprojekt: Bearbeitung grundlegender Themen der Magnetfusion auf dem Weg zum Fusionskraftwerk (FPP-MC) - Teilvorhaben: Erforschung und Anwendung von demontierbaren, niederohmigen und hochstromfähigen Supraleiterkontakten",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 570001,
+"bis": 580000,
+"zweck": "Verbundprojekt: Synergie-Verbund Brennstoffkreislauf Tritium Technologien (SyrVBreTT) - Teilvorhaben: Optimierung und Integration des Tritium-Brutblankets und des Brennstoffkreislaufs für das Fusionskraftwerk GIGA",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1790002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Frank Laukien",
+"funktion": "Founder & Managing Director",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006596/79087",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Abraham Taherivand",
+"funktion": "Chief Corporate Development Officer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006596/79087",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Heinrich Torlage",
+"funktion": "Director Programs",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006596/79087",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/52/b8/794176/Bilanz-Gauss-Fusion-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006596/79087",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

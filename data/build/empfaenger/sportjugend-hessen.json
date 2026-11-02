@@ -1,0 +1,209 @@
+{
+"id": "sportjugend-hessen",
+"name": "Sportjugend Hessen",
+"art": "verein_stiftung",
+"rechtsform": "Andere Rechtsform nach deutschem Recht",
+"sitz": "Frankfurt am Main",
+"website": "www.sportjugend-hessen.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006890",
+"eintrag_id": 80972,
+"version": 5,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006890/80972",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/b2/d7/792580/Lobbyregister-Registereintraege-Detailansicht-R006890-2026-06-30_15-23-38.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundeszentrale für politische Bildung (bpb)",
+"epl": "06",
+"von": 70001,
+"bis": 80000,
+"zweck": "Programm \"Zusammenarbeit durch Teilhabe\" mit dem Projekt \"DemoS! - Sport stärkt Demokratie\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"epl": "17",
+"von": 180001,
+"bis": 190000,
+"zweck": "Programm \"Move Queer! Communities stärken, Jugend bewegen\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 250002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Malin Hoster",
+"funktion": "Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006890/80972",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Max Kunzmann",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006890/80972",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Marie-Theres Hellenkamp",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006890/80972",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Amadeus Itzenhäuser",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006890/80972",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Tim Binstadt",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006890/80972",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Lukas Schmitt",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006890/80972",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Julia Ess",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006890/80972",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Timo Korf",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006890/80972",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Mario Machalett",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006890/80972",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Daniel Illmer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006890/80972",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Angelika Ribler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006890/80972",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Frank Eser",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006890/80972",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 120001,
+"bis": 130000
+},
+"mitgliedsbeitraege": {
+"von": 1180001,
+"bis": 1190000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": null
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006890/80972",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

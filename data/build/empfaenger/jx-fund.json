@@ -1,0 +1,107 @@
+{
+"id": "jx-fund",
+"name": "JX Fund gGmbH",
+"art": "verein_stiftung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "https://www.jx-fund.org/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005885",
+"eintrag_id": 85258,
+"version": 9,
+"stand": "2026-09-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005885/85258",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/0b/df/837041/Lobbyregister-Registereintraege-Detailansicht-R005885-2026-09-01_13-10-04.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Beauftragter der Bundesregierung für Kultur und Medien (BKM)",
+"epl": "04",
+"von": 1860001,
+"bis": 1870000,
+"zweck": "zweckgebundene Zuwendung für Projektförderung für die Unterstützung von Exiljournalismus im Rahmen der Hannah-Arendt-Initiative nach ANBest-P.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1860001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Cejedeh Maral Jekta",
+"funktion": "Managing Director",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005885/85258",
+"stand": "2026-09-01"
+}
+},
+{
+"name": "Alexandra Rudnew",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005885/85258",
+"stand": "2026-09-01"
+}
+},
+{
+"name": "Paula Hanoldt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005885/85258",
+"stand": "2026-09-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1230001,
+"bis": 1240000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ae/e0/837035/JX-Fund-gGmbH-2025_JA.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005885/85258",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-01",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

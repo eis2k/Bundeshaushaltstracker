@@ -1,0 +1,109 @@
+{
+"id": "verband-deutscher-musikschulen",
+"name": "Verband deutscher Musikschulen e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bonn",
+"website": "https://www.musikschulen.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001481",
+"eintrag_id": 78811,
+"version": 13,
+"stand": "2026-06-12",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001481/78811",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/1b/f3/756739/Lobbyregister-Registereintraege-Detailansicht-R001481-2026-06-12_08-51-08.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend inkl. Jugendwerke",
+"epl": "17",
+"von": 6260001,
+"bis": 6270000,
+"zweck": "Zuwendungen für Personal und Sachkosten, Internationale Maßnahmen, Deutsche Streicherphilharmonie; Einzelmaßnahmen: \"Medienpreis LEOPOLD - Gute Musik für Kinder\" und Musikschulkongress sowie Hauptarbeitstagung des VdM Zuwendungen für das Programm \"MusikLeben 3\" (2023-2027) auf Gurndlage der Richtlinie zur Förderung von außerschulischen Maßnahmen, insbesondere der kulturellen Bildung, für Kinder und Jugendliche im Rahmen \"Kultur macht stark. Bündnisse für Bildung\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 6260001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Friedrich Koh Dolge",
+"funktion": "Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001481/78811",
+"stand": "2026-06-12"
+}
+},
+{
+"name": "Matthias Deichstetter",
+"funktion": "Stellvertretender Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001481/78811",
+"stand": "2026-06-12"
+}
+},
+{
+"name": "Raphael Amend",
+"funktion": "Bundesgeschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001481/78811",
+"stand": "2026-06-12"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1700001,
+"bis": 1710000
+},
+"lobbyausgaben": {
+"von": 80001,
+"bis": 90000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/3e/41/756738/Einnahmen_Ausgaben_VdM_2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001481/78811",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-12",
+"etikett": "Eigenangabe",
+"version": 13
+}
+]
+}

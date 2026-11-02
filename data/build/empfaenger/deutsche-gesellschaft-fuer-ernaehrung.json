@@ -1,0 +1,249 @@
+{
+"id": "deutsche-gesellschaft-fuer-ernaehrung",
+"name": "Deutsche Gesellschaft für Ernährung e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bonn",
+"website": "https://www.dge.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003847",
+"eintrag_id": 82083,
+"version": 9,
+"stand": "2026-07-13",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003847/82083",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/bf/5c/811944/Lobbyregister-Registereintraege-Detailansicht-R003847-2026-07-13_13-25-30.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH)",
+"epl": "10",
+"von": 6180001,
+"bis": 6190000,
+"zweck": "Institutionelle Zuwendung an die DGE aus dem Bundeshaushalt 2025, Kapitel 1002 Titel 685 01",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesanstalt für Landwirtschaft und Ernährung (BLE)",
+"epl": "10",
+"von": 40001,
+"bis": 50000,
+"zweck": "Projektförderung für \"Entwicklung und Umsetzung von Bildungs- und Kommunikationsmaßnahmen für eine klimagesunde Schulverpflegung auf Grundlage des 'DGE-Qualitätsstandards für die Schulverpflegung'\" in Niedersachsen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesanstalt für Landwirtschaft und Ernährung (BLE)",
+"epl": "10",
+"von": 20001,
+"bis": 30000,
+"zweck": "Projektförderung für \"Regionale Wertschöpfungskette Hülsenfrüchte\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesanstalt für Landwirtschaft und Ernährung (BLE)",
+"epl": "10",
+"von": 90001,
+"bis": 100000,
+"zweck": "\"Wissenschaftskommunikation für Schüler*innen über die Aspekte einer gesundheitsfördernden und nachhaltigen Schulverpflegung\" in Mecklenburg-Vorpommern",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesanstalt für Landwirtschaft und Ernährung (BLE)",
+"epl": "10",
+"von": 20001,
+"bis": 30000,
+"zweck": "Projektförderung für \"Wissenspool und Coaching für Schulkonferenzen zur Organisation und Angebotsgestaltung von Schulverpflegung\" in Mecklenburg-Vorpommern",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesanstalt für Landwirtschaft und Ernährung (BLE)",
+"epl": "10",
+"von": 70001,
+"bis": 80000,
+"zweck": "Projektförderung für \"Vernetzungsstelle Seniorenverpflegung Thüringen\" (Bundesmittel)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesanstalt für Landwirtschaft und Ernährung (BLE)",
+"epl": "10",
+"von": 10001,
+"bis": 20000,
+"zweck": "Projektförderung für \"Entwicklung einer Podcast-Themenreihe für Akteurinnen und Akteure der Kitaverpflegung\" in Thüringen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesanstalt für Landwirtschaft und Ernährung (BLE)",
+"epl": "10",
+"von": 40001,
+"bis": 50000,
+"zweck": "Projektförderung für \"Vernetzungsstelle Seniorenverpflegung Schleswig-Holstein\" (Bundesmittel)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesanstalt für Landwirtschaft und Ernährung (BLE)",
+"epl": "10",
+"von": 90001,
+"bis": 100000,
+"zweck": "Göttingens Ernährung im Wandel - Verpflegungssysteme klimagesund gestalten",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesanstalt für Landwirtschaft und Ernährung (BLE)",
+"epl": "10",
+"von": 720001,
+"bis": 730000,
+"zweck": "Die DGE-Qualitätsstandards: Ermittlung des Überarbeitungsbedarfs zur Steigerung der Akzeptanz, Handhabbarkeit und Umsetzbarkeit auf allen Ebenen der Gemeinschaftsgastronomie und -verpflegung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesanstalt für Landwirtschaft und Ernährung (BLE)",
+"epl": "10",
+"von": 60001,
+"bis": 70000,
+"zweck": "Update DGE-Qualitätsstandards: Wissenschaft und Praxistauglichkeit in Einklang gebracht",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesanstalt für Landwirtschaft und Ernährung (BLE)",
+"epl": "10",
+"von": 30001,
+"bis": 40000,
+"zweck": "Gesundheitliche Chancengleichheit - Ernährungsarmut im Alter auf kommunaler Ebene entgegenwirken",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesanstalt für Landwirtschaft und Ernährung (BLE)",
+"epl": "10",
+"von": 1,
+"bis": 10000,
+"zweck": "Gesundheit auf dem Teller: Nudging-Ansätze in Kitas.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 7370013,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Kiran Virmani",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003847/82083",
+"stand": "2026-07-13"
+}
+},
+{
+"name": "Johanna Conrad",
+"funktion": "Stellvertretende Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003847/82083",
+"stand": "2026-07-13"
+}
+},
+{
+"name": "Ute Nöthlings",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003847/82083",
+"stand": "2026-07-13"
+}
+},
+{
+"name": "Britta Renner",
+"funktion": "Präsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003847/82083",
+"stand": "2026-07-13"
+}
+},
+{
+"name": "Anette Buyken",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003847/82083",
+"stand": "2026-07-13"
+}
+},
+{
+"name": "Dörthe Hennemann",
+"funktion": "Projektleiterin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003847/82083",
+"stand": "2026-07-13"
+}
+},
+{
+"name": "Petra Schulze-Lohmann",
+"funktion": "Sektionsleiterin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003847/82083",
+"stand": "2026-07-13"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 140001,
+"bis": 150000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ae/b1/811943/Jahresabschluss-DGE-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003847/82083",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-13",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

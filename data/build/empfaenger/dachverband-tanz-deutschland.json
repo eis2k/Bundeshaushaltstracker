@@ -1,0 +1,183 @@
+{
+"id": "dachverband-tanz-deutschland",
+"name": "Dachverband Tanz Deutschland e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.dachverband-tanz.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005248",
+"eintrag_id": 82470,
+"version": 7,
+"stand": "2026-07-06",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005248/82470",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/d4/a5/806108/Lobbyregister-Registereintraege-Detailansicht-R005248-2026-07-06_13-25-35.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Beauftragter der Bundesregierung für Kultur und Medien",
+"epl": "04",
+"von": 160001,
+"bis": 170000,
+"zweck": "Förderung der Arbeit der Geschäftsstelle und der Projekte des DTD (DV-Tanz)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Beauftragter der Bundesregierung für Kultur und Medien",
+"epl": "04",
+"von": 150001,
+"bis": 160000,
+"zweck": "Projekt Tanzpakt Stadt-Land-Bund - kulturpolitischer Dialog",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 310002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Michael Freundt",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005248/82470",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Dhélé Tchekpo Agbetou",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005248/82470",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Nicola v. Stillfried",
+"funktion": "Projektleitung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005248/82470",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Sabine Gehm",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005248/82470",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Helge Letonja",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005248/82470",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Rajyashree  Ramesh",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005248/82470",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Thomas Thorausch",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005248/82470",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Nicole Fiedler",
+"funktion": "Projektleitung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005248/82470",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Astrid Neuhaus",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005248/82470",
+"stand": "2026-07-06"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 10001,
+"bis": 20000
+},
+"lobbyausgaben": {
+"von": 130001,
+"bis": 140000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/4c/68/806105/20260706_DTD_Bericht_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005248/82470",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-06",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

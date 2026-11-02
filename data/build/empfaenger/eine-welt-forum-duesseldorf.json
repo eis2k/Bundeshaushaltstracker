@@ -1,0 +1,119 @@
+{
+"id": "eine-welt-forum-duesseldorf",
+"name": "Eine Welt Forum Düsseldorf e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Düsseldorf",
+"website": "https://eineweltforum.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002530",
+"eintrag_id": 78410,
+"version": 8,
+"stand": "2026-06-08",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002530/78410",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/fc/7e/751987/Lobbyregister-Registereintraege-Detailansicht-R002530-2026-06-08_11-15-55.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Eine Welt Netz NRW",
+"epl": null,
+"von": 40001,
+"bis": 50000,
+"zweck": "Fördermittel für die Stelle der Eine Welt-Regionalpromotorin (Personal- und Sachmittel) (Bund/Land)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 40001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Stephanie Widholm",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002530/78410",
+"stand": "2026-06-08"
+}
+},
+{
+"name": "Gabriela Schmitt",
+"funktion": "Sprecherin des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002530/78410",
+"stand": "2026-06-08"
+}
+},
+{
+"name": "Rebekka Schalley",
+"funktion": "Stellvertretende Sprecherin des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002530/78410",
+"stand": "2026-06-08"
+}
+},
+{
+"name": "Peter Fischedick",
+"funktion": "Stellvertretender Sprecher des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002530/78410",
+"stand": "2026-06-08"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/8e/b0/751985/Jahresabschluss_EWFD_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002530/78410",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-08",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

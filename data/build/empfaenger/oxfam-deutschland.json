@@ -1,0 +1,297 @@
+{
+"id": "oxfam-deutschland",
+"name": "Oxfam Deutschland e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.oxfam.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001951",
+"eintrag_id": 87083,
+"version": 25,
+"stand": "2026-10-22",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001951/87083",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/e3/b7/864316/Lobbyregister-Registereintraege-Detailansicht-R001951-2026-10-22_12-28-48.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 14760001,
+"bis": 14770000,
+"zweck": "Das Auswärtige Amt fördert zivivilgesellschaftliche Organisationen (NGOs) im Bereich der humanitären Hilfe, der Krisenprävention, der Friedensförderung und der Menschenrechte.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung Private Träger (BMZ PT)",
+"epl": "23",
+"von": 2510001,
+"bis": 2520000,
+"zweck": "Das Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) unterstützt Nichtregierungsorganisationen (NGOs) durch Förderungen für entwicklungspolitische Projekte und Kooperationen. Diese können als projektgebundene oder institutionelle Fördermittel beantragt werden und zielen darauf ab, die Ziele der deutschen Entwicklungspolitik zu unterstützen, wie beispielsweise Armutsbekämpfung, Klimaschutz und Menschenrechte. \"PT\" steht für Private Träger, also deutsche Organisationen, die Entwicklungsprojekte in Partnerländern durchführen. Das BMZ unterstützt diese Träger finanziell für ihre entwicklungspolitischen Vorhaben. Die Förderung geschieht unter Wahrung der Unabhängigkeit und des Initiativrechts der Träger, um eine partnerschaftliche Zusammenarbeit zu gewährleisten.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung Übergangshilfe (BMZ ÜH)",
+"epl": null,
+"von": 7490001,
+"bis": 7500000,
+"zweck": "Die \"BMZ ÜH\" steht für die Strukturbildende Übergangshilfe des Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) und ist eine Leistung, die darauf abzielt, die Widerstandsfähigkeit (Resilienz) von Menschen und Strukturen in Krisengebieten zu stärken. Für Nichtregierungsorganisationen (NGOs) bedeutet dies eine Förderung und Unterstützung zur Überbrückung von der akuten humanitären Hilfe hin zur langfristigen Entwicklungszusammenarbeit, um langfristige Perspektiven für die Menschen vor Ort zu schaffen und Armut zu verringern.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)",
+"epl": "23",
+"von": 1870001,
+"bis": 1880000,
+"zweck": "Die GIZ (Deutsche Gesellschaft für Internationale Zusammenarbeit) erbringt Leistungen für NGOs, indem sie diese bei der Verbesserung ihrer Strukturen und Prozesse unterstützt, um effizienter zu arbeiten, ihr fachliches und methodisches Wissen ausbaut, sowie die Entwicklung nachhaltiger gesellschaftlicher Rahmenbedingungen und Netzwerke fördert. Die Leistungen sind vielfältig und umfassen Beratung und Schulungen für Personal, die Entwicklung und Umsetzung von Projekten zur Armutsbekämpfung und Förderung der sozialen und wirtschaftlichen Entwicklung, die Bereitstellung von Know-how in Bereichen wie Bildung, Gesundheit, Umwelt und Klimaschutz sowie die finanzielle Förderung von Organisationen.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 26630004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Charlotte Becker",
+"funktion": "Vorständin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001951/87083",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Jan Heser",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001951/87083",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Tobias Hauschild",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001951/87083",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Sandra Dworack",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001951/87083",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Pia Natalina Juliana Schwertner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001951/87083",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Manuel Baptist Schmitt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001951/87083",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Jan Kowalzig",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001951/87083",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Franziska Humbert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001951/87083",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Tim Zahn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001951/87083",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Steffen Vogel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001951/87083",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Robert Werner Lindner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001951/87083",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Markus Christian Walter Nitschke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001951/87083",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Leonie Petersen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001951/87083",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Rebecca Varghese Buchholz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001951/87083",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Annika Zieske",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001951/87083",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Jörn Olaf Diethard Kalinski",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001951/87083",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Rossella Lombardi",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001951/87083",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Florian Jan Kleber geb. Krumrey",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001951/87083",
+"stand": "2026-10-22"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 8420001,
+"bis": 8430000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 700001,
+"bis": 710000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/10/db/864315/Oxfam_jb2024-25.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001951/87083",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-22",
+"etikett": "Eigenangabe",
+"version": 25
+}
+]
+}

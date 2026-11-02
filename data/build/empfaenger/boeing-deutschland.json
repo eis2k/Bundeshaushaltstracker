@@ -1,0 +1,149 @@
+{
+"id": "boeing-deutschland",
+"name": "Boeing Deutschland GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "www.boeing.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004507",
+"eintrag_id": 80320,
+"version": 8,
+"stand": "2026-07-06",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004507/80320",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/51/6c/806249/Lobbyregister-Registereintraege-Detailansicht-R004507-2026-07-06_14-42-30.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 110001,
+"bis": 120000,
+"zweck": "Luftfahrtforschungsprogramm des Bundes LuFo VI-1",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 290001,
+"bis": 300000,
+"zweck": "Luftfahrtforschungsprogramm des Bundes LuFo V-2",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 50001,
+"bis": 60000,
+"zweck": "Luftfahrtforschungsprogramm des Bundes LuFo V-3",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 160001,
+"bis": 170000,
+"zweck": "Technologietransfer-Programm Leichtbau",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 110001,
+"bis": 120000,
+"zweck": "Ganzheitliche 3D-Bohrungsinspektion und -vermessung mittels Weißlichtinterferometrie sowie KI-basierte Bohrprozessadaption",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 720005,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Michael Haidinger",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004507/80320",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Natalie Rorem",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004507/80320",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Johannes Ropers",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004507/80320",
+"stand": "2026-07-06"
+}
+},
+{
+"name": "Roman Zielhardt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004507/80320",
+"stand": "2026-07-06"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 150001,
+"bis": 160000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/0d/48/806248/Jahresabschluss-2023-Boeing-Deutschland-GmbH.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004507/80320",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-06",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

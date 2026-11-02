@@ -1,0 +1,92 @@
+{
+"id": "rundfunk-orchester-und-choere",
+"name": "Rundfunk-Orchester und -Chöre gGmbH",
+"art": "oeffentlich",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": true,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "04-0452-68522",
+"text": "Rundfunk-Orchester und -Chöre gGmbH",
+"epl": "04",
+"epl_text": "Bundeskanzler und Bundeskanzleramt",
+"werte": {
+"2016": {
+"soll": 11871000,
+"ist": 10926342
+},
+"2017": {
+"soll": 13158000,
+"ist": 13158250
+},
+"2018": {
+"soll": 13159000,
+"ist": 13158250
+},
+"2019": {
+"soll": 13159000,
+"ist": 13158250
+},
+"2020": {
+"soll": 13159000,
+"ist": 13158250
+},
+"2021": {
+"soll": 16145000,
+"ist": 14402497
+},
+"2022": {
+"soll": 16145000,
+"ist": 16144443
+},
+"2023": {
+"soll": 16145000,
+"ist": 16144443
+},
+"2024": {
+"soll": 16145000,
+"ist": 16144443
+},
+"2025": {
+"soll": 16145000,
+"ist": 16144443
+},
+"2026": {
+"soll": 16145000,
+"ist": null
+}
+}
+},
+{
+"id": "04-0405-68522",
+"text": "Rundfunk-Orchester und Chöre GmbH",
+"epl": "04",
+"epl_text": "Bundeskanzlerin und Bundeskanzleramt",
+"werte": {
+"2015": {
+"soll": 11871000,
+"ist": 10818161
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

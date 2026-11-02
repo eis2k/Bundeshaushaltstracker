@@ -1,0 +1,524 @@
+{
+"id": "bundesvereinigung-lebenshilfe",
+"name": "Bundesvereinigung Lebenshilfe",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.lebenshilfe.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004143",
+"eintrag_id": 85450,
+"version": 31,
+"stand": "2026-09-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/34/f9/852803/Lobbyregister-Registereintraege-Detailansicht-R004143-2026-09-30_16-37-31.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMFSFJ - Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 30001,
+"bis": 40000,
+"zweck": "Förderung des Magazins der Lebenshilfe zur Verständlichen Platzierung von Themen (z. B. allgemeine Lebensführung, Demokratieförderung und Bildung) für Menschen mit geistiger Behinderung",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "BMFSFJ - Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 150001,
+"bis": 160000,
+"zweck": "Unterstützung im Rahmen des Kinder- und Jugendplans",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "BMAS - Bundesministerium für Arbeit und Soziales",
+"epl": "11",
+"von": 40001,
+"bis": 50000,
+"zweck": "Unterstützung im Rahmen des Projektes \"Partizipation von Menschen mit Behinderungen und ihrer Verbände an der Gestaltung öffentlicher Angelegenheiten\"",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 220003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ursula Sophia Schmidt",
+"funktion": "Bundesvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-09"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Rolf Flathmann",
+"funktion": "Stellv. Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Stephan Hüppler",
+"funktion": "Schatzmeister / Geschäftsführender Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Martina Winter",
+"funktion": "Stellv. Bundesvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Jeanne Nicklas-Faust",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Antje Welke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Claudia Seligmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Lilian Krohn-Aicher",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Jenny Axmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Kai Pakleppa",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Helen Ghebremicael",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Silva Demirci",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Claudia Niehoff",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Almuth Meinert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Benita Richter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Hanna Barkhoff",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Peer Erik Berreth-Brocke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Lydia Hajasch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Ramona Günther",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Ludger Gröting",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Ivonne Kanter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Alexander Wrusch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Claudia Franke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Sascha Ubrig",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Joachim Busch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Dagmar Schmidt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Sebastian Urbanski",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Dirk Michalek",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Judith Braun",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Ulrich van Bebber",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Doris Langenkamp",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Christian Huppert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Robert Wäger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Rick Sprotte",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Ursula Sophia Schmidt",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag, bis 2021-09",
+"funktion_beim_empfaenger": "Bundesvorsitzende",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Ursula Sophia Schmidt ist laut Lobbyregister Bundesvorsitzende bei Bundesvereinigung Lebenshilfe und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag, bis 2021-09. Bundesvereinigung Lebenshilfe erhielt laut Lobbyregister Mittel von: BMFSFJ - Bundesministerium für Familie, Senioren, Frauen und Jugend; BMAS - Bundesministerium für Arbeit und Soziales.",
+"ausschuesse": [],
+"geld_aus": [
+"BMFSFJ - Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"BMAS - Bundesministerium für Arbeit und Soziales"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+],
+"stand": "2026-09-30"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Dagmar Schmidt",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Dagmar Schmidt ist laut Lobbyregister Interessenvertretung bei Bundesvereinigung Lebenshilfe und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag. Bundesvereinigung Lebenshilfe erhielt laut Lobbyregister Mittel von: BMFSFJ - Bundesministerium für Familie, Senioren, Frauen und Jugend; BMAS - Bundesministerium für Arbeit und Soziales.",
+"ausschuesse": [],
+"geld_aus": [
+"BMFSFJ - Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"BMAS - Bundesministerium für Arbeit und Soziales"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"stand": "2026-09-30"
+}
+],
+"stand": "2026-09-30"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 4570001,
+"bis": 4580000
+},
+"mitgliedsbeitraege": {
+"von": 1600001,
+"bis": 1610000
+},
+"lobbyausgaben": {
+"von": 360001,
+"bis": 370000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/2c/e2/852799/20240930_Pruefungsbericht_Bundesvereinigung-Lebenshilfe-e-V.pdf",
+"geschaeftsjahr": "2023",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004143/85450",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-30",
+"etikett": "Eigenangabe",
+"version": 31
+}
+]
+}

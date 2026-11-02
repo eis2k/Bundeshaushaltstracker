@@ -1,0 +1,107 @@
+{
+"id": "verimi",
+"name": "Verimi GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "https://verimi.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004769",
+"eintrag_id": 85686,
+"version": 11,
+"stand": "2026-09-10",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004769/85686",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/a6/cb/840307/Lobbyregister-Registereintraege-Detailansicht-R004769-2026-09-10_10-30-31.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) - ID Union",
+"epl": null,
+"von": 80001,
+"bis": 90000,
+"zweck": "Zuwendung im Rahmen des ID Union Projektes.",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 80001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Roland Adrian",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004769/85686",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "André Petzold",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004769/85686",
+"stand": "2026-09-10"
+}
+},
+{
+"name": "Bernd Löffeld",
+"funktion": "Prokurist",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004769/85686",
+"stand": "2026-09-10"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/27/67/840306/Jahresabschluss_2024_Verimi_GmbH.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004769/85686",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-10",
+"etikett": "Eigenangabe",
+"version": 11
+}
+]
+}

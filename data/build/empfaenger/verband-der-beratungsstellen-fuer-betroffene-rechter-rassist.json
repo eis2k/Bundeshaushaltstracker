@@ -1,0 +1,150 @@
+{
+"id": "verband-der-beratungsstellen-fuer-betroffene-rechter-rassist",
+"name": "Verband der Beratungsstellen für Betroffene rechter, rassistischer und antisemitischer Gewalt",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://verband-brg.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002452",
+"eintrag_id": 80943,
+"version": 13,
+"stand": "2026-07-09",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002452/80943",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/61/3f/809881/Lobbyregister-Registereintraege-Detailansicht-R002452-2026-07-09_12-31-49.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BAFzA - Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"epl": "17",
+"von": 640001,
+"bis": 650000,
+"zweck": "Projektförderung im Rahmen des Bundesprogramms \"Demokratie Leben!\" für das Begleitprojekt Dachverband Opferberatungen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Beauftragte der Bundesregierung für Antirassismus",
+"epl": null,
+"von": 180001,
+"bis": 190000,
+"zweck": "Projektförderung für das Modellvorhaben „Von Betroffenen zu Akteur*innen – Stärkung von Community-basierten Antirassismus-/ Antidiskriminierungsstrukturen“ (CbB)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 820002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Berkant Göcek",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002452/80943",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Bengi Bitiş",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002452/80943",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Nimet Gökmenoglu",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002452/80943",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Franziska Schestak-Haase",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002452/80943",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Fabian Reeker",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002452/80943",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Stephan-Jakob Kees",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002452/80943",
+"stand": "2026-07-09"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 310001,
+"bis": 320000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/5b/08/809880/Abschluss-2024-unterschrieben.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002452/80943",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-09",
+"etikett": "Eigenangabe",
+"version": 13
+}
+]
+}

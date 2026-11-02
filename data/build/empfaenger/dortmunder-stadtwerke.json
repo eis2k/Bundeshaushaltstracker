@@ -1,0 +1,141 @@
+{
+"id": "dortmunder-stadtwerke",
+"name": "Dortmunder Stadtwerke (DSW21)",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Dortmund",
+"website": "www.bus-und-bahn.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004526",
+"eintrag_id": 81447,
+"version": 15,
+"stand": "2026-08-13",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004526/81447",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/10/ff/830860/Lobbyregister-Registereintraege-Detailansicht-R004526-2026-08-13_15-15-40.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Digitales und Verkehr",
+"epl": "12",
+"von": 40001,
+"bis": 50000,
+"zweck": "Förderprogramm Digitalisierung kommunaler Verkehrssysteme; Bundeshaushalt",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 40001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Harald Kraus",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004526/81447",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Jörg Jacoby",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004526/81447",
+"stand": "2026-08-13"
+}
+},
+{
+"name": "Ulrich Jaeger",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004526/81447",
+"stand": "2026-08-13"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "abgeordneter_funktion",
+"person": "Jens Peick",
+"funktion_person": "MdB, SPD",
+"funktion_beim_empfaenger": "Mitglied des Aufsichtsrates (ab 11.12.2025)",
+"kategorie": "Funktionen in Unternehmen",
+"abgleich": "exakt",
+"satz": "Jens Peick (MdB, SPD) ist laut bundestag.de Mitglied des Aufsichtsrates (ab 11.12.2025) bei Dortmunder Stadtwerke (DSW21). Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Arbeit und Soziales; Ausschuss für Wirtschaft und Energie; Enquete-Kommission „Corona“; Ausschuss für Gesundheit; Innenausschuss. Dortmunder Stadtwerke (DSW21) erhielt laut Lobbyregister Mittel von: Bundesministerium für Digitales und Verkehr.",
+"ausschuesse": [
+"Ausschuss für Arbeit und Soziales",
+"Ausschuss für Wirtschaft und Energie",
+"Enquete-Kommission „Corona“",
+"Ausschuss für Gesundheit",
+"Innenausschuss"
+],
+"geld_aus": [
+"Bundesministerium für Digitales und Verkehr"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/P/peick_jens-1046504",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 30001,
+"bis": 40000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/d8/bf/830859/Geschaeftsbericht-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004526/81447",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-13",
+"etikett": "Eigenangabe",
+"version": 15
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/P/peick_jens-1046504",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

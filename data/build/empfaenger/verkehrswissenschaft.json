@@ -1,0 +1,92 @@
+{
+"id": "verkehrswissenschaft",
+"name": "Verkehrswissenschaft",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "12-1202-68612",
+"text": "Förderung der Verkehrswissenschaft",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"werte": {
+"2015": {
+"soll": 216000,
+"ist": 73225
+}
+}
+},
+{
+"id": "12-1210-68612",
+"text": "Förderung der Verkehrswissenschaft",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr",
+"werte": {
+"2016": {
+"soll": 216000,
+"ist": 63066
+},
+"2017": {
+"soll": 195000,
+"ist": 42985
+},
+"2018": {
+"soll": 195000,
+"ist": 39641
+},
+"2019": {
+"soll": 195000,
+"ist": 49804
+},
+"2020": {
+"soll": 95000,
+"ist": 0
+},
+"2021": {
+"soll": 95000,
+"ist": 63973
+},
+"2022": {
+"soll": 95000,
+"ist": 31380
+},
+"2023": {
+"soll": 95000,
+"ist": 58242
+},
+"2024": {
+"soll": 95000,
+"ist": 67277
+},
+"2025": {
+"soll": 95000,
+"ist": 0
+},
+"2026": {
+"soll": 95000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

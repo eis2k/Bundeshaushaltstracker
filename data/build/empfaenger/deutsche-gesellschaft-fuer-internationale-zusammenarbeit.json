@@ -1,0 +1,560 @@
+{
+"id": "deutsche-gesellschaft-fuer-internationale-zusammenarbeit",
+"name": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+"art": "verein_stiftung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Eschborn",
+"website": "www.giz.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001524",
+"eintrag_id": 85304,
+"version": 27,
+"stand": "2026-09-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001524/85304",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/0e/e5/836894/Lobbyregister-Registereintraege-Detailansicht-R001524-2026-09-01_09-48-26.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Engagement Global gGmbH",
+"epl": "23",
+"von": 26970001,
+"bis": 26980000,
+"zweck": "Zuwendungen im Rahmen der gemischten Trägerschaft des \"Konsortium Ziviler Friedensdienst\"; der \"Sonderinitiative Geflüchtete und Aufnahmeländer\"; der \"Sonderinitiative Flucht\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 26970001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Thorsten Schäfer-Gümbel",
+"funktion": "Vorstandssprecher",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001524/85304",
+"stand": "2026-09-01"
+}
+},
+{
+"name": "Ingrid-Gabriela Hoven",
+"funktion": "Stellvertretende Vorstandssprecherin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001524/85304",
+"stand": "2026-09-01"
+}
+},
+{
+"name": "Anna Sophie Herken",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001524/85304",
+"stand": "2026-09-01"
+}
+},
+{
+"name": "Ina Hommers",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001524/85304",
+"stand": "2026-09-01"
+}
+},
+{
+"name": "Philipp Reder",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001524/85304",
+"stand": "2026-09-01"
+}
+},
+{
+"name": "Maximilian Geigenmüller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001524/85304",
+"stand": "2026-09-01"
+}
+},
+{
+"name": "Bela Bach",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-10"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001524/85304",
+"stand": "2026-09-01"
+}
+},
+{
+"name": "Anton Scholz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001524/85304",
+"stand": "2026-09-01"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Bela Bach",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag, bis 2021-10",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Bela Bach ist laut Lobbyregister Interessenvertretung bei Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag, bis 2021-10. Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH erhielt laut Lobbyregister Mittel von: Engagement Global gGmbH.",
+"ausschuesse": [],
+"geld_aus": [
+"Engagement Global gGmbH"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001524/85304",
+"stand": "2026-09-01"
+}
+],
+"stand": "2026-09-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Sascha van Beek",
+"funktion_person": "MdB, CDU/CSU",
+"funktion_beim_empfaenger": "Mitglied des Lenkungskreises des Global Health Hub Germany (ab 01.07.2026)",
+"kategorie": "Funktionen in Unternehmen",
+"abgleich": "exakt",
+"satz": "Sascha van Beek (MdB, CDU/CSU) ist laut bundestag.de Mitglied des Lenkungskreises des Global Health Hub Germany (ab 01.07.2026) bei Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit; Ausschuss für Gesundheit; Parlamentarischer Beirat für nachhaltige Entwicklung und Zukunftsfragen; Ausschuss für Menschenrechte und humanitäre Hilfe; Ausschuss für Wirtschaft und Energie. Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH erhielt laut Lobbyregister Mittel von: Engagement Global gGmbH.",
+"ausschuesse": [
+"Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+"Ausschuss für Gesundheit",
+"Parlamentarischer Beirat für nachhaltige Entwicklung und Zukunftsfragen",
+"Ausschuss für Menschenrechte und humanitäre Hilfe",
+"Ausschuss für Wirtschaft und Energie"
+],
+"geld_aus": [
+"Engagement Global gGmbH"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/B/beek_sascha-1043614",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Deborah Düring",
+"funktion_person": "MdB, Bündnis 90 Die Grünen",
+"funktion_beim_empfaenger": "Mitglied des Kuratoriums, ehrenamtlich (bis 31.08.2025)",
+"kategorie": "Funktionen in Unternehmen",
+"abgleich": "exakt",
+"satz": "Deborah Düring (MdB, Bündnis 90 Die Grünen) ist laut bundestag.de Mitglied des Kuratoriums, ehrenamtlich (bis 31.08.2025) bei Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH. Ausschüsse und Gremien im Bundestag laut bundestag.de: Auswärtiger Ausschuss; Finanzen. Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH erhielt laut Lobbyregister Mittel von: Engagement Global gGmbH.",
+"ausschuesse": [
+"Auswärtiger Ausschuss",
+"Finanzen"
+],
+"geld_aus": [
+"Engagement Global gGmbH"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/D/duering_deborah-1044118",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Markus Frohnmaier",
+"funktion_person": "MdB, AfD",
+"funktion_beim_empfaenger": "Mitglied des Kuratoriums",
+"kategorie": "Funktionen in Unternehmen",
+"abgleich": "exakt",
+"satz": "Markus Frohnmaier (MdB, AfD) ist laut bundestag.de Mitglied des Kuratoriums bei Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH. Ausschüsse und Gremien im Bundestag laut bundestag.de: Auswärtiger Ausschuss. Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH erhielt laut Lobbyregister Mittel von: Engagement Global gGmbH.",
+"ausschuesse": [
+"Auswärtiger Ausschuss"
+],
+"geld_aus": [
+"Engagement Global gGmbH"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/F/frohnmaier_markus-1044406",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Bettina Hagedorn",
+"funktion_person": "MdB, SPD",
+"funktion_beim_empfaenger": "Beratendes Mitglied des Aufsichtsrates (bis 12.06.2025)",
+"kategorie": "Funktionen in Unternehmen",
+"abgleich": "exakt",
+"satz": "Bettina Hagedorn (MdB, SPD) ist laut bundestag.de Beratendes Mitglied des Aufsichtsrates (bis 12.06.2025) bei Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH. Ausschüsse und Gremien im Bundestag laut bundestag.de: Wahlausschuss. Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH erhielt laut Lobbyregister Mittel von: Engagement Global gGmbH.",
+"ausschuesse": [
+"Wahlausschuss"
+],
+"geld_aus": [
+"Engagement Global gGmbH"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/H/hagedorn_bettina-1044684",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Carsten Körber",
+"funktion_person": "MdB, CDU/CSU",
+"funktion_beim_empfaenger": "Mitglied des Aufsichtsrates, ehrenamtlich (bis Juni 2025)",
+"kategorie": "Funktionen in Unternehmen",
+"abgleich": "exakt",
+"satz": "Carsten Körber (MdB, CDU/CSU) ist laut bundestag.de Mitglied des Aufsichtsrates, ehrenamtlich (bis Juni 2025) bei Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH. Ausschüsse und Gremien im Bundestag laut bundestag.de: Haushaltsausschuss. Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH erhielt laut Lobbyregister Mittel von: Engagement Global gGmbH.",
+"ausschuesse": [
+"Haushaltsausschuss"
+],
+"geld_aus": [
+"Engagement Global gGmbH"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/K/koerber_carsten-1045540",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Ricarda Lang",
+"funktion_person": "MdB, Bündnis 90 Die Grünen",
+"funktion_beim_empfaenger": "Mitglied des Aufsichtsrates",
+"kategorie": "Funktionen in Unternehmen",
+"abgleich": "exakt",
+"satz": "Ricarda Lang (MdB, Bündnis 90 Die Grünen) ist laut bundestag.de Mitglied des Aufsichtsrates bei Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Arbeit und Soziales; Petitionsausschuss; Haushaltsausschuss. Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH erhielt laut Lobbyregister Mittel von: Engagement Global gGmbH.",
+"ausschuesse": [
+"Ausschuss für Arbeit und Soziales",
+"Petitionsausschuss",
+"Haushaltsausschuss"
+],
+"geld_aus": [
+"Engagement Global gGmbH"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/L/lang_ricarda-1045716",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Siemtje Möller",
+"funktion_person": "MdB, SPD",
+"funktion_beim_empfaenger": "Mitglied des Aufsichtsrates, ehrenamtlich (ab 02.09.2025)",
+"kategorie": "Funktionen in Unternehmen",
+"abgleich": "exakt",
+"satz": "Siemtje Möller (MdB, SPD) ist laut bundestag.de Mitglied des Aufsichtsrates, ehrenamtlich (ab 02.09.2025) bei Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für die Angelegenheiten der Europäischen Union; Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung; Auswärtiger Ausschuss; Verteidigungsausschuss. Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH erhielt laut Lobbyregister Mittel von: Engagement Global gGmbH.",
+"ausschuesse": [
+"Ausschuss für die Angelegenheiten der Europäischen Union",
+"Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+"Auswärtiger Ausschuss",
+"Verteidigungsausschuss"
+],
+"geld_aus": [
+"Engagement Global gGmbH"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/M/moeller_siemtje-1046172",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Charlotte Antonia Neuhäuser",
+"funktion_person": "MdB, Die Linke",
+"funktion_beim_empfaenger": "Stellv. Mitglied des Kuratoriums (ab 06.11.2025)",
+"kategorie": "Funktionen in Unternehmen",
+"abgleich": "exakt",
+"satz": "Charlotte Antonia Neuhäuser (MdB, Die Linke) ist laut bundestag.de Stellv. Mitglied des Kuratoriums (ab 06.11.2025) bei Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung; Unterausschuss Krisenprävention, strategische Vorausschau, Stabilisierung und Friedensförderung; Auswärtiger Ausschuss. Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH erhielt laut Lobbyregister Mittel von: Engagement Global gGmbH.",
+"ausschuesse": [
+"Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+"Unterausschuss Krisenprävention, strategische Vorausschau, Stabilisierung und Friedensförderung",
+"Auswärtiger Ausschuss"
+],
+"geld_aus": [
+"Engagement Global gGmbH"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/N/neuhaeuser_charlotte-1046310",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Derya Türk-Nachbaur",
+"funktion_person": "MdB, SPD",
+"funktion_beim_empfaenger": "Mitglied des Kuratoriums",
+"kategorie": "Funktionen in Unternehmen",
+"abgleich": "exakt",
+"satz": "Derya Türk-Nachbaur (MdB, SPD) ist laut bundestag.de Mitglied des Kuratoriums bei Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH. Ausschüsse und Gremien im Bundestag laut bundestag.de: Auswärtiger Ausschuss; Der Ältestenrat; Ausschuss für Menschenrechte und humanitäre Hilfe; Unterausschuss Auswärtige Kultur- und Bildungspolitik. Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH erhielt laut Lobbyregister Mittel von: Engagement Global gGmbH.",
+"ausschuesse": [
+"Auswärtiger Ausschuss",
+"Der Ältestenrat",
+"Ausschuss für Menschenrechte und humanitäre Hilfe",
+"Unterausschuss Auswärtige Kultur- und Bildungspolitik"
+],
+"geld_aus": [
+"Engagement Global gGmbH"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/T/tuerk_nachbaur_derya-1047808",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Katrin Uhlig",
+"funktion_person": "MdB, Bündnis 90 Die Grünen",
+"funktion_beim_empfaenger": "Mitglied des Aufsichtsrates (ab 02.09.2025)",
+"kategorie": "Funktionen in Unternehmen",
+"abgleich": "exakt",
+"satz": "Katrin Uhlig (MdB, Bündnis 90 Die Grünen) ist laut bundestag.de Mitglied des Aufsichtsrates (ab 02.09.2025) bei Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Wirtschaft und Energie; Haushaltsausschuss; Unterausschuss zu Fragen der Europäischen Union. Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH erhielt laut Lobbyregister Mittel von: Engagement Global gGmbH.",
+"ausschuesse": [
+"Ausschuss für Wirtschaft und Energie",
+"Haushaltsausschuss",
+"Unterausschuss zu Fragen der Europäischen Union"
+],
+"geld_aus": [
+"Engagement Global gGmbH"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/U/uhlig_katrin-1047818",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Dr. Inge Gräßle",
+"funktion_person": "MdB, CDU/CSU",
+"funktion_beim_empfaenger": "Mitglied des Aufsichtsrates, ehrenamtlich (ab 02.09.2025)",
+"kategorie": "Funktionen in Unternehmen",
+"abgleich": "exakt",
+"satz": "Dr. Inge Gräßle (MdB, CDU/CSU) ist laut bundestag.de Mitglied des Aufsichtsrates, ehrenamtlich (ab 02.09.2025) bei Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH. Ausschüsse und Gremien im Bundestag laut bundestag.de: Rechnungsprüfungsausschuss; Ausschuss für Digitales und Staatsmodernisierung; Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung; Haushaltsausschuss. Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH erhielt laut Lobbyregister Mittel von: Engagement Global gGmbH.",
+"ausschuesse": [
+"Rechnungsprüfungsausschuss",
+"Ausschuss für Digitales und Staatsmodernisierung",
+"Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung",
+"Haushaltsausschuss"
+],
+"geld_aus": [
+"Engagement Global gGmbH"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/G/graessle_ingeborg-1048650",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Nicolas Zippelius",
+"funktion_person": "MdB, CDU/CSU",
+"funktion_beim_empfaenger": "Mitglied des Kuratoriums (ab 01.10.2025)",
+"kategorie": "Funktionen in Unternehmen",
+"abgleich": "exakt",
+"satz": "Nicolas Zippelius (MdB, CDU/CSU) ist laut bundestag.de Mitglied des Kuratoriums (ab 01.10.2025) bei Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung; Auswärtiger Ausschuss; Unterausschuss Rüstungs- und Proliferationskontrolle, Nichtverbreitung und internationale Abrüstung. Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH erhielt laut Lobbyregister Mittel von: Engagement Global gGmbH.",
+"ausschuesse": [
+"Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+"Auswärtiger Ausschuss",
+"Unterausschuss Rüstungs- und Proliferationskontrolle, Nichtverbreitung und internationale Abrüstung"
+],
+"geld_aus": [
+"Engagement Global gGmbH"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/Z/zippelius_nicolas-1049406",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 180001,
+"bis": 190000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/f9/47/836893/GIZ-Jahresabschluss-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001524/85304",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-01",
+"etikett": "Eigenangabe",
+"version": 27
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/B/beek_sascha-1043614",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/D/duering_deborah-1044118",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/F/frohnmaier_markus-1044406",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/H/hagedorn_bettina-1044684",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/K/koerber_carsten-1045540",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/L/lang_ricarda-1045716",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/M/moeller_siemtje-1046172",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/N/neuhaeuser_charlotte-1046310",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/T/tuerk_nachbaur_derya-1047808",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/U/uhlig_katrin-1047818",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/G/graessle_ingeborg-1048650",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/Z/zippelius_nicolas-1049406",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

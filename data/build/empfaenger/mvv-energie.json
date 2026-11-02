@@ -1,0 +1,155 @@
+{
+"id": "mvv-energie",
+"name": "MVV Energie AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Mannheim",
+"website": "www.mvv.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002785",
+"eintrag_id": 85605,
+"version": 26,
+"stand": "2026-09-08",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002785/85605",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/11/51/839641/Lobbyregister-Registereintraege-Detailansicht-R002785-2026-09-08_10-03-50.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Projektträger Jülich GmbH",
+"epl": "30",
+"von": 40001,
+"bis": 50000,
+"zweck": "UtiliSpaces - IKT-Lösungen für CLS Anwendungen in Datenräumen für die Energieversorgung",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Projektträger Jülich GmbH",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "Projekt SynergieQuartierWalldorf gefördert durch das Bundesministerium für Wirtschaft und Klimaschutz",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 110001,
+"bis": 120000,
+"zweck": "Projekt „Austausch der Beleuchtung im Bürogebäude Neckarvorland in LED-Technik“",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 170003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Gabriël Clemens",
+"funktion": "Vorsitzender des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002785/85605",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Hansjörg Roll",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002785/85605",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Johannes Werhahn",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002785/85605",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Christoph Helle",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002785/85605",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Oliver Kopp",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002785/85605",
+"stand": "2026-09-08"
+}
+},
+{
+"name": "Matthias Wolf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002785/85605",
+"stand": "2026-09-08"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 580001,
+"bis": 590000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/00/79/839637/MVV_Geschaeftsbericht_GJ_2025_dt_LR.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002785/85605",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-08",
+"etikett": "Eigenangabe",
+"version": 26
+}
+]
+}

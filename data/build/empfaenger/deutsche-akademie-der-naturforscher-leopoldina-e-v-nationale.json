@@ -1,0 +1,426 @@
+{
+"id": "deutsche-akademie-der-naturforscher-leopoldina-e-v-nationale",
+"name": "Deutsche Akademie der Naturforscher Leopoldina e.V. -- Nationale Akademie der Wissenschaften",
+"art": "forschung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Halle (Saale)",
+"website": "http://www.leopoldina.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004939",
+"eintrag_id": 87200,
+"version": 25,
+"stand": "2026-10-09",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004939/87200",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/a3/41/859339/Lobbyregister-Registereintraege-Detailansicht-R004939-2026-10-09_16-27-35.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Forschung Technologie und Raumfahrt",
+"epl": "30",
+"von": 9780001,
+"bis": 9790000,
+"zweck": "Institutionelle Zuwendung des Bundes",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 9780001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Thomas Krieg",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004939/87200",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Regina Riphahn",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004939/87200",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Bettina Rockenbach",
+"funktion": "Präsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004939/87200",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Thomas Lengauer",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004939/87200",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Thomas Böhm",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004939/87200",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Stefan Artmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004939/87200",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Anita Krätzner-Ebert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004939/87200",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Ruth Narmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004939/87200",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Danny Weber",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004939/87200",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Johannes Fritsch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004939/87200",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Matthias Winkler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-10"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004939/87200",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Christian Weidlich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004939/87200",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Lucian Brujan",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004939/87200",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Henning Steinicke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004939/87200",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Christian Anton",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004939/87200",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Johannes Schmoldt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-10"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004939/87200",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Thomas Plötze",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004939/87200",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Anne Lange",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004939/87200",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Stefanie Bohley",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004939/87200",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Charlotte Wiederkehr",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004939/87200",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Franziska Hornig",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004939/87200",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Saskia Steiger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004939/87200",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Constanze Breuer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004939/87200",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Sebastian Wetterich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004939/87200",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Maria Anne Schmidt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004939/87200",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Sonja  Kastilan",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004939/87200",
+"stand": "2026-10-09"
+}
+},
+{
+"name": "Henriette Heimbach",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004939/87200",
+"stand": "2026-10-09"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Matthias Winkler",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-10",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Matthias Winkler ist laut Lobbyregister Interessenvertretung bei Deutsche Akademie der Naturforscher Leopoldina e.V. -- Nationale Akademie der Wissenschaften und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-10. Deutsche Akademie der Naturforscher Leopoldina e.V. -- Nationale Akademie der Wissenschaften erhielt laut Lobbyregister Mittel von: Bundesministerium für Forschung Technologie und Raumfahrt.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Forschung Technologie und Raumfahrt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004939/87200",
+"stand": "2026-10-09"
+}
+],
+"stand": "2026-10-09"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Johannes Schmoldt",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-10",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Johannes Schmoldt ist laut Lobbyregister Interessenvertretung bei Deutsche Akademie der Naturforscher Leopoldina e.V. -- Nationale Akademie der Wissenschaften und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-10. Deutsche Akademie der Naturforscher Leopoldina e.V. -- Nationale Akademie der Wissenschaften erhielt laut Lobbyregister Mittel von: Bundesministerium für Forschung Technologie und Raumfahrt.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Forschung Technologie und Raumfahrt"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004939/87200",
+"stand": "2026-10-09"
+}
+],
+"stand": "2026-10-09"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1070001,
+"bis": 1080000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 3320001,
+"bis": 3330000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/73/35/859334/Verwendungsnachweis_2025-final-mit-US-15-06-2026-002.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004939/87200",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-09",
+"etikett": "Eigenangabe",
+"version": 25
+}
+]
+}

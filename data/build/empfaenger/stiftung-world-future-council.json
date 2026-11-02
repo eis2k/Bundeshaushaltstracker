@@ -1,0 +1,94 @@
+{
+"id": "stiftung-world-future-council",
+"name": "Stiftung World Future Council",
+"art": "verein_stiftung",
+"rechtsform": "Rechtsfähige Stiftung bürgerlichen Rechts",
+"sitz": "Hamburg",
+"website": "https://www.worldfuturecouncil.org/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003469",
+"eintrag_id": 82802,
+"version": 12,
+"stand": "2026-07-09",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003469/82802",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/52/b5/809651/Lobbyregister-Registereintraege-Detailansicht-R003469-2026-07-09_09-29-12.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Deutsche Bundesstiftung Umwelt",
+"epl": null,
+"von": 30001,
+"bis": 40000,
+"zweck": "Zuwendung für Projektarbeit",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundeskasse Dienstort Halle",
+"epl": null,
+"von": 50001,
+"bis": 60000,
+"zweck": "Zuwendung für Projektarbeit",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 80002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Neshan Niluka Gunasekera",
+"funktion": "CEO ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003469/82802",
+"stand": "2026-07-09"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 140001,
+"bis": 150000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/6f/d7/809650/20040443_End_TE_JA2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003469/82802",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-09",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

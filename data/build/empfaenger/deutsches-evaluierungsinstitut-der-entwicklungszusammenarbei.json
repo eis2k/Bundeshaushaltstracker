@@ -1,0 +1,92 @@
+{
+"id": "deutsches-evaluierungsinstitut-der-entwicklungszusammenarbei",
+"name": "Deutsches Evaluierungsinstitut der Entwicklungszusammenarbeit gGmbH",
+"art": "verein_stiftung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Bonn",
+"website": "www.deval.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003540",
+"eintrag_id": 78014,
+"version": 8,
+"stand": "2026-06-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003540/78014",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/0b/ad/782396/Lobbyregister-Registereintraege-Detailansicht-R003540-2026-06-29_11-00-29.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 12670001,
+"bis": 12680000,
+"zweck": "Institutionelle Förderung aus Kapitel 2305 für Betriebs- und Investitionsmittel (Anteil an Investitionen 170 T€ im Berichtsjahr 2025), als Vollfinanzierung gemäß §§ 23 und 44 BHO als nicht rückzahlbare Zuwendung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 2700001,
+"bis": 2710000,
+"zweck": "Projektförderung aus Kapitel 2305 für folgende Projekte gemäß §§ 23 und 44 BHO als nicht rückzahlbare Zuwendung (Projektförderung): 1. Forschung und Beratung zur Weiterentwicklung eines integrierten Systems für Monitoring, Evaluierung und Steuerung in der staatlichen bilateralen EZ (466 T€) 2. Stärkung einer Kultur der Evaluierung und des Lernens in Lateinamerika und der Karibik mit globaler Projektion (FOCELAC+, 972 T€) 3. Pilotierung eines Förderprogramms für rigorose Wirkungsevaluierungen (1.266 T€)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 15370002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jörg Faust",
+"funktion": "Direktor",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003540/78014",
+"stand": "2026-06-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/f8/55/782395/DEval_Jahresabschluss_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003540/78014",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-29",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

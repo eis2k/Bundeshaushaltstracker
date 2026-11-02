@@ -1,0 +1,258 @@
+{
+"id": "verband-der-ersatzkassen",
+"name": "Verband der Ersatzkassen e.V. (vdek)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": " http://www.vdek.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001928",
+"eintrag_id": 87799,
+"version": 30,
+"stand": "2026-10-20",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001928/87799",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/8c/ac/863486/Lobbyregister-Registereintraege-Detailansicht-R001928-2026-10-20_14-10-17.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "GKV-Spitzenverband",
+"epl": null,
+"von": 370001,
+"bis": 380000,
+"zweck": "Nicht rückzahlbare Zuwendungen aus Bundesmitteln gem. § 44 BHO. Die Zuwendungen sind als Projektförderung zweckgebunden für die Durchführung des Modellprojektes zur Verzahnung von Arbeits- und Gesundheitsförderung in den Bundesländern Baden-Württemberg, Sachsen und Thüringen. Die Projekte wurden 2023 mit der Dachmarke Programm \"teamw()rk für Gesundheit und Arbeit\" durch eine Selbstverpflichtung der Krankenkassen gefördert. Mit Neufassung des § 20a SGB V (2023) koordiniert der GKV-Spitzenverband das Programm auf Bundesebene.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Innovationsfonds des Gemeinsamen Bundesausschusses",
+"epl": null,
+"von": 120001,
+"bis": 130000,
+"zweck": "Fördermittel des Innovationsfonds zur Förderung von neuen Versorgungsformen (§ 92a Abs. 1 SGB V) für die Projekte ElektRA - Elektive Förderung Rationaler Antibiotikatherapie sowie für ALIVE - Altersspezifische Impfinanspruchnahme verbessern",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 490002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ulrike Elsner",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001928/87799",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Antje Kapinsky",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001928/87799",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Boris von Maydell",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001928/87799",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Malte Behmer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001928/87799",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Ines Koller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001928/87799",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Stefan Wöhrmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001928/87799",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Anja Maria Rittner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001928/87799",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Ulrike Pernack",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001928/87799",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Björn Diering",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001928/87799",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Björn Ingemar Janssen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001928/87799",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Dorothee Krug",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001928/87799",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Jan Hortig",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001928/87799",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Babette Müller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001928/87799",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Claudia Erfurth",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001928/87799",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Mathias Richter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001928/87799",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Uwe Klemens",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001928/87799",
+"stand": "2026-10-20"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 74060001,
+"bis": 74070000
+},
+"lobbyausgaben": {
+"von": 1230001,
+"bis": 1240000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/22/95/863485/vdek_JR2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001928/87799",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-20",
+"etikett": "Eigenangabe",
+"version": 30
+}
+]
+}

@@ -1,0 +1,115 @@
+{
+"id": "evangelische-zentralstelle-fuer-globale-entwicklung",
+"name": "Evangelische Zentralstelle für globale Entwicklung e. V. (EZE)",
+"art": "kirche_wohlfahrt",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "Keine Webseite  vorhanden ",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001206",
+"eintrag_id": 82991,
+"version": 12,
+"stand": "2026-07-13",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001206/82991",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f3/ba/811927/Lobbyregister-Registereintraege-Detailansicht-R001206-2026-07-13_12-52-28.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+"epl": "23",
+"von": 158890001,
+"bis": 158900000,
+"zweck": "Zuwendung aus Kapitel 2302, Titel 89604, Titel 89631, Titel 89632, Titel 89633 und Titel 68701",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Engagement Global gGmbH (BMZ)",
+"epl": "23",
+"von": 6520001,
+"bis": 6530000,
+"zweck": "Zuwendung aus Kapitel 2302, Titel 68774",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 165410002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Imme Scholz",
+"funktion": "Stellvertretende Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001206/82991",
+"stand": "2026-07-13"
+}
+},
+{
+"name": "Anne Gidion",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001206/82991",
+"stand": "2026-07-13"
+}
+},
+{
+"name": "Beate Hofmann",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001206/82991",
+"stand": "2026-07-13"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/cb/27/811926/EZE-JAP-2024-Testat-final.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001206/82991",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-13",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

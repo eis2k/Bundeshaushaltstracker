@@ -1,0 +1,86 @@
+{
+"id": "bundesverband-fuer-kindertagespflege",
+"name": "Bundesverband für Kindertagespflege",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.bvktp.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000490",
+"eintrag_id": 75554,
+"version": 20,
+"stand": "2026-04-22",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000490/75554",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ef/8d/725749/Lobbyregister-Registereintraege-Detailansicht-R000490-2026-04-22_09-33-59.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 830001,
+"bis": 840000,
+"zweck": "Infrastrukturförderung nach dem Kinder- und Jugendplan für den Bundesverband für Kindertagespflege, Projektförderung nach dem Kinder- und Jugendplan für das Projekt Begleitung und Beratung zur Umsetzung des kompetenzorientierten Qualifizierungshandbuches Kindertagespflege und des Bundesprogramms ProKindertagespflege Projektförderung aus dem Bundesprogramm Demokratie leben mit dem Titel Demokratie und Partizipation in der Kindertagespflege",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 830001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Heiko Krause",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000490/75554",
+"stand": "2026-04-22"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 20001,
+"bis": 30000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/74/50/725748/Bundesverband-fr-Kindertagespflege-2025_Endgltiger-Bericht_signiert.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000490/75554",
+"abgerufen": "2026-11-02",
+"stand": "2026-04-22",
+"etikett": "Eigenangabe",
+"version": 20
+}
+]
+}

@@ -1,0 +1,117 @@
+{
+"id": "preussenelektra",
+"name": "PreussenElektra GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Hannover",
+"website": "www.preussenelektra.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002421",
+"eintrag_id": 86708,
+"version": 9,
+"stand": "2026-09-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002421/86708",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/fe/ba/851375/Lobbyregister-Registereintraege-Detailansicht-R002421-2026-09-30_11-09-23.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung (BMBF)",
+"epl": "30",
+"von": 40001,
+"bis": 50000,
+"zweck": "1. Zuwendung für das Forschungsprojekt Kobeka (Entwicklung von Messtechnik zur Beprobung kontaminierter Betonbaukörper kerntechnischer Anlagen während des Rückbaus) im Rahmen es Förderkonzepts FORKA - \"Forschung für den Rückbau kerntechnischer Anlagen\". Projektträger ist die GRS im Auftrag des BMBF. 2. Zuwendung für das Forschungsprojekt EBENE (Experimentell gestützte Berechnungen von Neutronenfeldern) im Rahmen es Förderkonzepts FORKA - \"Forschung für den Rückbau kerntechnischer Anlagen\". Projektträger ist die GRS im Auftrag des BMBF.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 40001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Guido Knott",
+"funktion": "Vorsitzender der Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002421/86708",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Michael Bongartz",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002421/86708",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Daniel Oehr",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002421/86708",
+"stand": "2026-09-30"
+}
+},
+{
+"name": "Benedikt Hecking",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002421/86708",
+"stand": "2026-09-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/29/11/851372/PEL-ARS-11-02-2026_End_Pruef-und-Geschaeftsbericht_JA2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002421/86708",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-30",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

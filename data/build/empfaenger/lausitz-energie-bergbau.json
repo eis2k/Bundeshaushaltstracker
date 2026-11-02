@@ -1,0 +1,210 @@
+{
+"id": "lausitz-energie-bergbau",
+"name": "Lausitz Energie Bergbau AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Cottbus",
+"website": "www.leag.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001588",
+"eintrag_id": 60547,
+"version": 19,
+"stand": "2025-07-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001588/60547",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/3b/46/570694/Lobbyregister-Registereintraege-Detailansicht-R001588-2025-07-01_09-07-13.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 90001,
+"bis": 100000,
+"zweck": "Förderkennzeichen 03WIR2710A - Projekt Afiin Projektförderung auf Kostenbasis: Personalkosten- und Aufwandsförderung für die Erarbeitung der Arbeitspakete im Projekt",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 1,
+"bis": 10000,
+"zweck": "Förderkennzeichen 02L19C314 - Projekt PAL KI Projektförderung auf Kostenbasis - TSS: Personalkosten- und Aufwandsförderung für die Erarbeitung der Arbeitspakete im Projekt",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "Förderkennzeichen 03WIR0103B - Projekt Bergbau-Consulting 4.0 Projektförderung auf Kostenbasis: Personalkosten- und Aufwandsförderung für die Erarbeitung der Arbeitspakete im Projekt",
+"geschaeftsjahr": "2023"
+}
+],
+"lobby_untergrenze_bund": 110003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jörg Waniek",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001588/60547",
+"stand": "2025-07-01"
+}
+},
+{
+"name": "Adolf Roesch",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001588/60547",
+"stand": "2025-07-01"
+}
+},
+{
+"name": "Thomas Merker",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001588/60547",
+"stand": "2025-07-01"
+}
+},
+{
+"name": "Wolfgang Dirschauer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001588/60547",
+"stand": "2025-07-01"
+}
+},
+{
+"name": "Daniel Genz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001588/60547",
+"stand": "2025-07-01"
+}
+},
+{
+"name": "Jan Conrady",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001588/60547",
+"stand": "2025-07-01"
+}
+},
+{
+"name": "Maren Jasper-Winter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001588/60547",
+"stand": "2025-07-01"
+}
+},
+{
+"name": "Sophia Bellmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001588/60547",
+"stand": "2025-07-01"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "abgeordneter_funktion",
+"person": "Maja Wallstein",
+"funktion_person": "MdB, SPD",
+"funktion_beim_empfaenger": "Mitglied des Aufsichtsrates",
+"kategorie": "Funktionen in Unternehmen",
+"abgleich": "exakt",
+"satz": "Maja Wallstein (MdB, SPD) ist laut bundestag.de Mitglied des Aufsichtsrates bei Lausitz Energie Bergbau AG. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Digitales und Staatsmodernisierung; Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung; Innenausschuss. Lausitz Energie Bergbau AG erhielt laut Lobbyregister Mittel von: Bundesministerium für Bildung und Forschung.",
+"ausschuesse": [
+"Ausschuss für Digitales und Staatsmodernisierung",
+"Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung",
+"Innenausschuss"
+],
+"geld_aus": [
+"Bundesministerium für Bildung und Forschung"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/W/wallstein_maja-1047966",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 450001,
+"bis": 460000
+},
+"geschaeftsjahr": "2023",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/1e/85/570693/2023_Geschaeftsbericht-LE-B.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001588/60547",
+"abgerufen": "2026-11-02",
+"stand": "2025-07-01",
+"etikett": "Eigenangabe",
+"version": 19
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/W/wallstein_maja-1047966",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

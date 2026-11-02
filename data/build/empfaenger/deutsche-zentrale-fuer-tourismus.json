@@ -1,0 +1,84 @@
+{
+"id": "deutsche-zentrale-fuer-tourismus",
+"name": "Deutsche Zentrale für Tourismus e. V.",
+"art": "verein_stiftung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": true,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "09-0904-68601",
+"text": "Zuwendung an die Deutsche Zentrale für Tourismus e. V., Frankfurt (Main)",
+"epl": "09",
+"epl_text": "Bundesministerium für Wirtschaft und Energie",
+"werte": {
+"2015": {
+"soll": 30574000,
+"ist": 30574000
+},
+"2016": {
+"soll": 30574000,
+"ist": 30574000
+},
+"2017": {
+"soll": 30649000,
+"ist": 30644000
+},
+"2018": {
+"soll": 32649000,
+"ist": 32649000
+},
+"2019": {
+"soll": 34286000,
+"ist": 34286000
+},
+"2020": {
+"soll": 34478000,
+"ist": 33978000
+},
+"2021": {
+"soll": 44498000,
+"ist": 44498000
+},
+"2022": {
+"soll": 39098000,
+"ist": 39098000
+},
+"2023": {
+"soll": 40598000,
+"ist": 40598000
+},
+"2024": {
+"soll": 40598000,
+"ist": 40598000
+},
+"2025": {
+"soll": 40598000,
+"ist": 40598000
+},
+"2026": {
+"soll": 40598000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

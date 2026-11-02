@@ -1,0 +1,118 @@
+{
+"id": "u-bremen-research-alliance",
+"name": "U Bremen Research Alliance e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bremen",
+"website": "www.bremen-research.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006932",
+"eintrag_id": 72013,
+"version": 5,
+"stand": "2026-02-11",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006932/72013",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f7/de/693132/Lobbyregister-Registereintraege-Detailansicht-R006932-2026-02-11_12-45-54.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 70001,
+"bis": 80000,
+"zweck": "Die U Bremen Research Alliance ist Trägerin eines Teilprojekts des \"Interdisziplinären Datenkompetenzzentrums für die Region Bremen - DataNord\", welches über die Richtlinie zur Förderung von Projekten zum Aufbau von Datenkompetenzzentren in der Wissenschaft gefördert wird.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 70001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jutta Günther",
+"funktion": "Vorstandsvorsitz",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006932/72013",
+"stand": "2026-02-11"
+}
+},
+{
+"name": "Rainer Fechte-Heinen",
+"funktion": "stv. Vorstandsvorsitz",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006932/72013",
+"stand": "2026-02-11"
+}
+},
+{
+"name": "Frauke Meyer",
+"funktion": "Schatzmeister:in",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006932/72013",
+"stand": "2026-02-11"
+}
+},
+{
+"name": "Derk Schönfeld",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006932/72013",
+"stand": "2026-02-11"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 170001,
+"bis": 180000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e5/71/693131/Jahresabschluss-2024-U-Bremen-Research-Alliance-e-V.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006932/72013",
+"abgerufen": "2026-11-02",
+"stand": "2026-02-11",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

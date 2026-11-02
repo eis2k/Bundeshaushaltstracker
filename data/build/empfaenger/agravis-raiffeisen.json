@@ -1,0 +1,128 @@
+{
+"id": "agravis-raiffeisen",
+"name": "AGRAVIS Raiffeisen AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Münster",
+"website": "agravis.de ",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005222",
+"eintrag_id": 76067,
+"version": 9,
+"stand": "2026-06-08",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005222/76067",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/25/45/752036/Lobbyregister-Registereintraege-Detailansicht-R005222-2026-06-08_11-34-45.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Eisenbahn-Bundesamt",
+"epl": "12",
+"von": 470001,
+"bis": 480000,
+"zweck": "Ausbau Gleisanschluss am Standort Kyritz",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 470001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Dirk Köckler",
+"funktion": "Vorsitzender des Vorstandes ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005222/76067",
+"stand": "2026-06-08"
+}
+},
+{
+"name": "Hermann Hesseler",
+"funktion": "Finanzvorstand ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005222/76067",
+"stand": "2026-06-08"
+}
+},
+{
+"name": "Jörg Sudhoff",
+"funktion": "Mitglied des Vorstandes ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005222/76067",
+"stand": "2026-06-08"
+}
+},
+{
+"name": "Jan Heinecke",
+"funktion": "Mitglied des Vorstandes ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005222/76067",
+"stand": "2026-06-08"
+}
+},
+{
+"name": "Bernd Homann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005222/76067",
+"stand": "2026-06-08"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 350001,
+"bis": 360000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/12/24/752035/konzern-gb-2025-2.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005222/76067",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-08",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

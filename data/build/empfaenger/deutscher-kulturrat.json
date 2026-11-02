@@ -1,0 +1,178 @@
+{
+"id": "deutscher-kulturrat",
+"name": "Deutscher Kulturrat e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "http://www.kulturrat.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001881",
+"eintrag_id": 80852,
+"version": 10,
+"stand": "2026-07-13",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001881/80852",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/24/62/811808/Lobbyregister-Registereintraege-Detailansicht-R001881-2026-07-13_11-06-49.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Der Beauftragte der Bundesregierung für Kultur und Medien",
+"epl": "04",
+"von": 590001,
+"bis": 600000,
+"zweck": "Bündelung der verschiedenen Interessen des Kulturbereiches (Künstler, Kulturunternehmen, Kultureinrichtungen, Kulturvereine); Erarbeitung von gemeinsamen Positionen zu kulturpolitischen Fragen (Arbeits- und Sozialrecht, Bildung, Digitalisierung, Europa/Internationales, bürgerschaftliches Engagement, Medienpolitik, Steuerpolitik, Kulturgutschutz, Urheberrecht); Erstellung und Publikation von Büchern, Zeitungen zu kulturpolitischen Fragen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Der Beauftragte der Bundesregierung für Kultur und Medien",
+"epl": "04",
+"von": 80001,
+"bis": 90000,
+"zweck": "Durchführung eines Mentoring-Programms für Frauen, die Führungspositionen im Kulturbereich anstreben; Durchführung von Fortbildungsveranstaltungen für Frauen in Führungspositionen in Kultur und Medien,",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Der Beauftragte der Bundesregierung für Kultur und Medien",
+"epl": "04",
+"von": 30001,
+"bis": 40000,
+"zweck": "Durchführung einer Jahrestagung zu kultureller Integration; Durchführung von Wettbewerben zu jüdischem Leben in Deutschland; Unterhalt und redaktionelle Gestaltung einer Website zu kulturelle Integration; Veröffentlichung von Beiträgen zu kultureller Integration; Bündelung von Positionen gesellschaftlicher Akteure zu Fragen der kulturellen Integration",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Der Beauftragte der Bundesregierung für Kultur und Medien",
+"epl": "04",
+"von": 110001,
+"bis": 120000,
+"zweck": "Veranstaltung zum Gedenktag der Opfer des Anschlags von Hanau.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Der Beauftragte der Bundesregierung für Kultur und Medien",
+"epl": "04",
+"von": 140001,
+"bis": 150000,
+"zweck": "Durchführung von Studie zu sozialer Lage und zu Geschlechtergerechtigkeit. Aufbau und Pflege einer diesbezüglichen Website.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Der Beauftragte der Bundesregierung für Kultur und Medien",
+"epl": "04",
+"von": 160001,
+"bis": 170000,
+"zweck": "Fortsetzung des Projektes zur Durchführung einer Jahrestagung zu kultureller Integration; Durchführung von Wettbewerben zu jüdischem Leben in Deutschland; Unterhalt und redaktionelle Gestaltung einer Website zu kulturelle Integration; Veröffentlichung von Beiträgen zu kultureller Integration; Bündelung von Positionen gesellschaftlicher Akteure zu Fragen der kulturellen Integration",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Stiftung „Erinnerung, Verantwortung und Zukunft“ (EVZ)",
+"epl": null,
+"von": 30001,
+"bis": 40000,
+"zweck": "Kultursparten und -bereichsübergreifende Anlaufstelle gegen Antisemitismus. Sammlung bestehender und Entwicklung neuer Handlungskonzepte. Schaffung einer Arbeitsgruppe. Vorträge und Input-Formate.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1140007,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christian Höppner",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001881/80852",
+"stand": "2026-07-13"
+}
+},
+{
+"name": "Manfred Nawroth",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001881/80852",
+"stand": "2026-07-13"
+}
+},
+{
+"name": "Dagmar Schmidt",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001881/80852",
+"stand": "2026-07-13"
+}
+},
+{
+"name": "Olaf Zimmermann",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001881/80852",
+"stand": "2026-07-13"
+}
+},
+{
+"name": "Gabriele Schulz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001881/80852",
+"stand": "2026-07-13"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 40001,
+"bis": 50000
+},
+"lobbyausgaben": {
+"von": 240001,
+"bis": 250000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/17/8f/811807/07-01-Mittel-fuer-Lobbyregister.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001881/80852",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-13",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

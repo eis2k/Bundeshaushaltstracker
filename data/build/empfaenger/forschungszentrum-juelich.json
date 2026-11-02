@@ -1,0 +1,130 @@
+{
+"id": "forschungszentrum-juelich",
+"name": "Forschungszentrum Jülich GmbH",
+"art": "forschung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Jülich",
+"website": "www.fz-juelich.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001857",
+"eintrag_id": 73299,
+"version": 19,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001857/73299",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/5f/be/795569/Lobbyregister-Registereintraege-Detailansicht-R001857-2026-06-30_17-54-52.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesrepublik Deutschland",
+"epl": "60",
+"von": 632960001,
+"bis": 632970000,
+"zweck": "Bundeszuwendung für satzungsgemäße Zwecke",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 632960001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Astrid Lambrecht",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001857/73299",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Pieter Jansens",
+"funktion": "Mitglied des Vorstands für den Wissenschaftlichen Geschäftsbereich II",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001857/73299",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Stephanie Bauer",
+"funktion": "Stellvertretende Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001857/73299",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Laurens Kuipers",
+"funktion": "Mitglied des Vorstands für den Wissenschaftlichen Geschäftsbereich I",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001857/73299",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Petra Schäfer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001857/73299",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 140001,
+"bis": 150000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/7c/0d/795567/FZJ-JAP-2024_Testat.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001857/73299",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 19
+}
+]
+}

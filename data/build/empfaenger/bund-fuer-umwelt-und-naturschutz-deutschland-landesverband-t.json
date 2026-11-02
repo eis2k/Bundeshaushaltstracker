@@ -1,0 +1,129 @@
+{
+"id": "bund-fuer-umwelt-und-naturschutz-deutschland-landesverband-t",
+"name": "Bund für Umwelt und Naturschutz Deutschland Landesverband Thüringen e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Erfurt",
+"website": "www.bund-thueringen.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003177",
+"eintrag_id": 82505,
+"version": 10,
+"stand": "2026-07-09",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003177/82505",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/a1/a8/810126/Lobbyregister-Registereintraege-Detailansicht-R003177-2026-07-09_14-45-13.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Naturschutz",
+"epl": "16",
+"von": 230001,
+"bis": 240000,
+"zweck": "Zuwendungen aus Bundesmitteln \"Quervernetzung Grünes Band\"; \"Wildkatzenwälder von morgen\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 230001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Burkhard Vogel",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003177/82505",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Gabriele Sondermann",
+"funktion": "Stellvertretendes Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003177/82505",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Rolf Knebel",
+"funktion": "Stellvertretendes Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003177/82505",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Ruth Bouska",
+"funktion": "Schatzmeisterin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003177/82505",
+"stand": "2026-07-09"
+}
+},
+{
+"name": "Sebastian König",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003177/82505",
+"stand": "2026-07-09"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 200001,
+"bis": 210000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/a8/b3/810125/BUND-Jahresabschluss-2024-unterschrieben_compressed-1.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003177/82505",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-09",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

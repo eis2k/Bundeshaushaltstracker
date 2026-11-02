@@ -1,0 +1,95 @@
+{
+"id": "raiffeisen-waren-zentrale-rhein-main",
+"name": "Raiffeisen Waren-Zentrale Rhein-Main AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Köln",
+"website": "www.rwz.ag",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002648",
+"eintrag_id": 76763,
+"version": 7,
+"stand": "2026-05-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002648/76763",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/d7/8b/744735/Lobbyregister-Registereintraege-Detailansicht-R002648-2026-05-29_13-31-32.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Logistik und Mobilität BALM Umweltschutz und Sicherheit (vorm. De Minimis)",
+"epl": "12",
+"von": 20001,
+"bis": 30000,
+"zweck": "u. a. Kauf/ Ersatzbeschaffung von lärm-/geräuscharmen, rollwiderstandsoptimierten Reifen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 20001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christoph Kempkes",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002648/76763",
+"stand": "2026-05-29"
+}
+},
+{
+"name": "Michael Göthner",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002648/76763",
+"stand": "2026-05-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 40001,
+"bis": 50000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/08/68/744734/2025_RWZ-AG_Einzelabschluss.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002648/76763",
+"abgerufen": "2026-11-02",
+"stand": "2026-05-29",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

@@ -1,0 +1,129 @@
+{
+"id": "verband-deutscher-hopfenpflanzer",
+"name": "Verband Deutscher Hopfenpflanzer e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Wolnzach",
+"website": "www.deutscher-hopfen.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004046",
+"eintrag_id": 62922,
+"version": 5,
+"stand": "2025-12-04",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004046/62922",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/db/4c/648293/Lobbyregister-Registereintraege-Detailansicht-R004046-2025-12-04_07-54-35.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundeskasse",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Ausgleich für die Erhebung der PAPA-Daten (Pflanzenschutzstatistik)",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 10001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Adolf Schapfl",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004046/62922",
+"stand": "2025-12-04"
+}
+},
+{
+"name": "Erich Lehmair",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004046/62922",
+"stand": "2025-12-04"
+}
+},
+{
+"name": "Karl Pichlmeyer",
+"funktion": "1. Stellv. Vorsitzender ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004046/62922",
+"stand": "2025-12-04"
+}
+},
+{
+"name": "Christian Berthold",
+"funktion": "2. Stellv. Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004046/62922",
+"stand": "2025-12-04"
+}
+},
+{
+"name": "Johannes Wimmer",
+"funktion": "stellv. Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004046/62922",
+"stand": "2025-12-04"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 100001,
+"bis": 110000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/6f/cd/648292/Jahresabschluss_VDH_30-06-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004046/62922",
+"abgerufen": "2026-11-02",
+"stand": "2025-12-04",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

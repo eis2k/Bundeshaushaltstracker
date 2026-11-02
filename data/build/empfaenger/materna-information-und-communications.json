@@ -1,0 +1,193 @@
+{
+"id": "materna-information-und-communications",
+"name": "Materna Information & Communications",
+"art": "unternehmen",
+"rechtsform": "Europäische Aktiengesellschaft (SE)",
+"sitz": "Dortmund",
+"website": "https://www.materna.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R008251",
+"eintrag_id": 87952,
+"version": 2,
+"stand": "2026-10-22",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008251/87952",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/46/3d/864548/Lobbyregister-Registereintraege-Detailansicht-R008251-2026-10-22_19-32-12.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 60001,
+"bis": 70000,
+"zweck": "Forschungszuschuss im Projekt \"DAIsy\" (Developing AI ecosystems improving diagnosis and care of mental diseases) aus Mitteln des Bundesministeriums für Bildung und Forschung, das seit 2025 \"Bundesministeriums für Forschung, Technologie und Raumfahrt (BMFTR)\" heißt. Für Details zum Projekt siehe https://itea4.org/project/daisy.html.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "Forschungszuschuss im Projekt \"GAiST\" (Glücklich Altern mit Smart Living Technologie) aus Mitteln des Bundesministeriums für Forschung, Technologie und Raumfahrt. Für Details zum Projekt siehe u.a. https://smartlivingnext.de/smartlivingnext-gaist/.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 20001,
+"bis": 30000,
+"zweck": "Forschungszuwendung im Projekt \"Digitale vertrauensvolle Zusammenarbeit in temporären Wertschöpfungsnetzwerken der Bauwirtschaft und des Industrie- und Anlagenbaus (Construction-X)“ aus Mitteln des BMWE. Für Details zum Projekt siehe www.construct-x.org.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 90001,
+"bis": 100000,
+"zweck": "Forschungszuschuss im Projekt \"Optimal-LOADS\" aus Mitteln des Bundesministeriums für Forschung, Technologie und Raumfahrt (BMFTR). Für Details zum Projekt siehe https://www.optimal-loads.eu/.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 810001,
+"bis": 820000,
+"zweck": "Forschungszuwendung im Projekt \"ForeSightNEXT\" aus Mitteln des BMFTR. Weitere Infos unter: ForeSightNEXT – SmartLivingNEXT",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 440001,
+"bis": 450000,
+"zweck": "Forschungszuwendung im Projekt \"FreiburgRESIST\" aus Mitteln des BMFTR. Weitere Infos unter: https://www.sifo.de/sifo/de/projekte/querschnittsthemen-und-aktivitaeten/sifolife/freiburgresist-stadt-freiburg-im-breisgau/freiburgresist-stadt-freiburg-im-breisgau_node.html",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 290001,
+"bis": 300000,
+"zweck": "Forschungszuwendung im Projekt \"Forest Data Space for a CO2-aware Forestry – Datenraum für das Nachhaltigkeitsmonitoring der Wald- und Holzwirtschaft: IT für die nachhaltige, klimapositive Holzwertschöpfung (CO2For-IT)\" aus Mitteln des BMFTR. Weitere Infos unter: https://www.kwh40.de/co2for-it",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 70001,
+"bis": 80000,
+"zweck": "Forschungszuwendung im Verbundprojekt \"Gaia-X4ROMS - Support und Remote-Operation automatisierter und vernetzter Mobility Services (ROMS)“ aus Mitteln des BMWE. Weitere Infos unter: https://www.gaia-x4futuremobility.de/projekte/roms",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 310001,
+"bis": 320000,
+"zweck": "Forschungszuwendung im Verbundprojekt \"Gaia-X4moveID - Dezentrale digitale Fahrzeugidentitäten in der hoch-vernetzten Verkehrsumgebung (moveID“ aus Mitteln des BMWE. Weitere Infos unter: https://www.gaia-x4futuremobility.de/de/projects/moveid",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 2110009,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Michael Hagedorn",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008251/87952",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Uwe Scariot",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008251/87952",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "René Rüdinger",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008251/87952",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Johannes Rosenboom",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008251/87952",
+"stand": "2026-10-22"
+}
+},
+{
+"name": "Ulrich Bötzel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008251/87952",
+"stand": "2026-10-22"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 30001,
+"bis": 40000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/df/cb/864547/Materna-Information-Communications-SE_JAP_31-12-25_Testatexemplar.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008251/87952",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-22",
+"etikett": "Eigenangabe",
+"version": 2
+}
+]
+}

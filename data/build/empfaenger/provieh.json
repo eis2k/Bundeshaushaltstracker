@@ -1,0 +1,141 @@
+{
+"id": "provieh",
+"name": "PROVIEH e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Kiel",
+"website": "www.provieh.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001084",
+"eintrag_id": 87844,
+"version": 14,
+"stand": "2026-10-21",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001084/87844",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/37/d5/863804/Lobbyregister-Registereintraege-Detailansicht-R001084-2026-10-21_11-32-07.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesanstalt für Landwirtschaft und Ernährung (BLE)",
+"epl": "10",
+"von": 10001,
+"bis": 20000,
+"zweck": "Projektgebundene Förderung für unsere \"Kuh&Kalb\"-Kampagne, die über 3 Jahre lief.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 10001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Heide Völtz",
+"funktion": "stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001084/87844",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Franziska Pabst",
+"funktion": "Beisitzerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001084/87844",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Svenja Furken",
+"funktion": "Beisitzerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001084/87844",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Kathrin Kofent",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001084/87844",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Sophie-Madlin Langner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001084/87844",
+"stand": "2026-10-21"
+}
+},
+{
+"name": "Ann-Kristin Wrede",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001084/87844",
+"stand": "2026-10-21"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 440001,
+"bis": 450000
+},
+"mitgliedsbeitraege": {
+"von": 230001,
+"bis": 240000
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/c9/06/863803/PROVIEH_Jahresabschluss-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001084/87844",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-21",
+"etikett": "Eigenangabe",
+"version": 14
+}
+]
+}

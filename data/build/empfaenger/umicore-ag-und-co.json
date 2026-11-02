@@ -1,0 +1,115 @@
+{
+"id": "umicore-ag-und-co",
+"name": "Umicore AG und Co. KG",
+"art": "unternehmen",
+"rechtsform": "Kommanditgesellschaft (KG)",
+"sitz": "Hanau",
+"website": "www.umicore.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002150",
+"eintrag_id": 88080,
+"version": 8,
+"stand": "2026-10-27",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002150/88080",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/84/15/866053/Lobbyregister-Registereintraege-Detailansicht-R002150-2026-10-27_16-15-55.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 730001,
+"bis": 740000,
+"zweck": "Entwicklung von Materialien für nachhaltige und umweltfreundliche Technologien in Mobilität und Industrie",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 100001,
+"bis": 110000,
+"zweck": "Entwicklung von Materialien für nachhaltige und umweltfreundliche Technologien in Mobilität und Industrie",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 830002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Bernhard Fuchs",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002150/88080",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Ralf Zuber",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002150/88080",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Sven Jantzen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002150/88080",
+"stand": "2026-10-27"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 150001,
+"bis": 160000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/99/b7/866050/Umicore-Annual-Report-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002150/88080",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-27",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

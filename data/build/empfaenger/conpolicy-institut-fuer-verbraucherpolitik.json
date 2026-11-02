@@ -1,0 +1,93 @@
+{
+"id": "conpolicy-institut-fuer-verbraucherpolitik",
+"name": "ConPolicy - Institut für Verbraucherpolitik",
+"art": "forschung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "www.conpolicy.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007194",
+"eintrag_id": 80216,
+"version": 6,
+"stand": "2026-06-23",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007194/80216",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/2c/7f/770975/Lobbyregister-Registereintraege-Detailansicht-R007194-2026-06-23_17-30-13.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 110001,
+"bis": 120000,
+"zweck": "Verbundprojekt \"Privatheit im Metaversum - PRIME\" zur Erforschung von Privatsphärefragen im Metaversum.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium der Justiz und für Verbraucherschutz",
+"epl": "07",
+"von": 1,
+"bis": 10000,
+"zweck": "Verbundprojekt \"DEVGAV\" zur Erforschung des Zusammengangs zwischen Diskriminierung, Emotionen und Verbraucher:innenverhaltens.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 110002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christian Thorun",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007194/80216",
+"stand": "2026-06-23"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/d3/24/770974/Jahresabschluss-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007194/80216",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-23",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

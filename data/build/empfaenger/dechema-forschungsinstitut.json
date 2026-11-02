@@ -1,0 +1,145 @@
+{
+"id": "dechema-forschungsinstitut",
+"name": "DECHEMA-Forschungsinstitut",
+"art": "forschung",
+"rechtsform": "Rechtsfähige Stiftung bürgerlichen Rechts",
+"sitz": "Frankfurt am Main",
+"website": "https://dechema-dfi.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005958",
+"eintrag_id": 64414,
+"version": 4,
+"stand": "2025-08-27",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005958/64414",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/5e/f7/607113/Lobbyregister-Registereintraege-Detailansicht-R005958-2025-08-27_11-43-47.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 3480001,
+"bis": 3490000,
+"zweck": "Förderung von 17 verschiedenen Forschungsvorhaben",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 280001,
+"bis": 290000,
+"zweck": "Corona Überbrückungshilfen",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "IGF",
+"epl": null,
+"von": 1460001,
+"bis": 1470000,
+"zweck": "Förderung von 17 verschiedenen Forschungsvorhaben",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "BMEL",
+"epl": "10",
+"von": 60001,
+"bis": 70000,
+"zweck": "Förderung 1 Forschungsvorhabens",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 160001,
+"bis": 170000,
+"zweck": "Förderung von 2 Forschungsvorhaben",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "DBU",
+"epl": null,
+"von": 70001,
+"bis": 80000,
+"zweck": "Förderung eines Forschungsvorhaben",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "DGF",
+"epl": null,
+"von": 830001,
+"bis": 840000,
+"zweck": "Förderung von 8 verschiedenen Forschungsprogrammen",
+"geschaeftsjahr": "2023"
+}
+],
+"lobby_untergrenze_bund": 6340007,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Mathias Galetz",
+"funktion": "Vorsitzender des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005958/64414",
+"stand": "2025-08-27"
+}
+},
+{
+"name": "Jonathan Bloh",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005958/64414",
+"stand": "2025-08-27"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2023",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e1/0a/607112/DFI_Endexemplar-PB_2022.pdf",
+"geschaeftsjahr": "2022",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005958/64414",
+"abgerufen": "2026-11-02",
+"stand": "2025-08-27",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

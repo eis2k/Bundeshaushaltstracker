@@ -1,0 +1,109 @@
+{
+"id": "pots-und-andere-dysautonomien",
+"name": "PoTS und andere Dysautonomien e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bochum",
+"website": "https://www.pots-dysautonomia.net/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007482",
+"eintrag_id": 84564,
+"version": 4,
+"stand": "2026-08-11",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007482/84564",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/e2/20/829527/Lobbyregister-Registereintraege-Detailansicht-R007482-2026-08-11_11-43-34.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "GKV-Gemeinschaftsförderung Selbsthilfe auf Bundesebene",
+"epl": null,
+"von": 10001,
+"bis": 20000,
+"zweck": "Selbsthilfeförderung nach § 20h SGB V für die Selbsthilfeförderung (Organisation eigener interner Veranstaltungen, Patiententreffen, sowie zur Edukation von med. Fachpersonal und Patienten und Teilnahme an Veranstaltungen anderer).",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 10001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Elena de Moya",
+"funktion": "Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007482/84564",
+"stand": "2026-08-11"
+}
+},
+{
+"name": "Inge Baader",
+"funktion": "stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007482/84564",
+"stand": "2026-08-11"
+}
+},
+{
+"name": "Sven Musolff",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007482/84564",
+"stand": "2026-08-11"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/26/fb/829526/PoTSDys_MV_Kassenbericht_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007482/84564",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-11",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

@@ -1,0 +1,734 @@
+{
+"id": "dvgw-deutscher-verein-des-gas-und-wasserfaches-e-v-technisch",
+"name": "DVGW Deutscher Verein des Gas- und Wasserfaches e.V. - Technisch-wissenschaftlicher Verein",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bonn",
+"website": "www.dvgw.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000916",
+"eintrag_id": 88005,
+"version": 50,
+"stand": "2026-10-26",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000916/88005",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/55/1b/865294/Lobbyregister-Registereintraege-Detailansicht-R000916-2026-10-26_10-25-17.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "ERWAS - Verbundprojekt Demo-BioBZ: Entwicklung und Demonstration einer energieeffizienten bio-elektrochemischen Abwasserbehandlung im technischen Maßstab mit Einhaltung gesetzlicher Anforderungen zur Ablaufqualität; Teilprojekt 4",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMFTR",
+"epl": "30",
+"von": 370001,
+"bis": 380000,
+"zweck": "Verbundvorhaben TransHyDE_UP2: GETH2: Infrastrukturelle und betriebstechnische Aspekte bei der Umstellung von Erdgastransportleitungen auf Wasserstoffbetrieb und beim Neubau von Wasserstoffnetzen - Teilvorhaben DVGW: Wissenschaftliche Untersuchungen zu Aspekten der Gasbeschaffenheit und der Volumenstrommessung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMFTR",
+"epl": "30",
+"von": 150001,
+"bis": 160000,
+"zweck": "Verbundvorhaben TransHyDE_FP1: Systemanalyse zu Transportlösungen für grünen Wasserstoff – Teilvorhaben des DVGW: Analyse von PtX-Bereitstellungsoptionen und Gasinfrastrukturbedarf für den Transport von grünem Wasserstoff, EE-Methan und CO2",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMFTR",
+"epl": "30",
+"von": 40001,
+"bis": 50000,
+"zweck": "Verbundvorhaben H2Mare_VB3: TransferWind – H2Mare Forschungs-Transfer – Teilvorhaben: Betrachtung der Aspekte bei der Konzeptionierung einer offshore PtX-Plattform in Bezug auf Umwelt, Gasinfrastruktur und Wassermanagement sowie Unterstützung der wissenschaftlichen Kommunikation zwischen den Verbundvorhaben",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMFTR",
+"epl": "30",
+"von": 1780001,
+"bis": 1790000,
+"zweck": "Verbundvorhaben H2Mare_VB2: PtX-Wind – Offshore Power-to-X-Prozesse – Teilvorhaben: Erforschung der Offshore-Erzeugung von verflüssigtem Methan, der CO2-Bereitstellung aus Meerwasser, Untersuchung der H2-Produktion mithilfe der Meerwasserelektrolyse und das Wassermanagement auf einer Offshore Plattform",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE",
+"epl": "09",
+"von": 80001,
+"bis": 90000,
+"zweck": "Verbundvorhaben: EnEff:Stadt: HyBEST - Innovative Wasserstoff-Konzepte in Bestandsclustern; Teilvorhaben: digitaler Zwilling Karlsruhe",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK (BMWi)",
+"epl": "09",
+"von": 70001,
+"bis": 80000,
+"zweck": "Verbundvorhaben \"RegioTransH2O - Regionale THG-Null-Strategien am Beispiel der Modellregion Oberschwaben; Teilvorhaben: Energiemodellierung\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 120001,
+"bis": 130000,
+"zweck": "Verbundvorhaben MemKoWi - Membranverfahren zur Abtrennung von Kohlendioxid und Wasserstoff aus Industriegasen; TP: Prozessanalysen, Membrancharakterisierungen, Degradationsuntersuchungen und Unterstützung bei Auslegung der transportablen modularen Membranprüfstände",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMV",
+"epl": "12",
+"von": 100001,
+"bis": 110000,
+"zweck": "NIP II - FuE - Verbund: Entwicklung und Validierung einer Wasserstoffqualitätsanalytik gemäß ISO 14687:2019.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK (BMWi)",
+"epl": "09",
+"von": 50001,
+"bis": 60000,
+"zweck": "Entwicklung eines Überwachungssystems für eine effiziente Erkennung von Biofouling in Umkehrosmoseanlagen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMFTR",
+"epl": "30",
+"von": 280001,
+"bis": 290000,
+"zweck": "Verbundvorhaben ENSURE3: Neue EnergieNetzStruktURen für die Energiewende – Teilvorhaben DVGW",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 60001,
+"bis": 70000,
+"zweck": "Verbundvorhaben Thermion Extraktion von Lithium aus thermalen Solen; Teilvorhaben: Entwicklung von Vor- und Nachbehandlungsstartegien für die Rückgewinnung von Lithium",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMFTR",
+"epl": "30",
+"von": 170001,
+"bis": 180000,
+"zweck": "TG: SCHUTZGRUND - Untersuchungen zum Schutz des Untergrundes vor modifizierten Geothermalfluiden; Leitantrag; Vorhaben: Einfluss der Wertstoffextraktion auf die Zusammensetzung von geothermalen Fluiden",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 250001,
+"bis": 260000,
+"zweck": "\"Grundwasser-Projekt ArNO: Nitratbelastung von Einzugsgebieten - Eignungder verwendeten Grundwassermessstellen zur Ermittlung der Nitratbelastung unter Berücksichtigung historisch erzeugter Nitrateinträge\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 170001,
+"bis": 180000,
+"zweck": "\"LURCH - Verbundprojekt PFClean: Innovatives modulares System zur nachhaltigen Reduzierung von PFAS-Kontaminanten aus Boden und Grundwasser, Teilprojekt 2\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMUV",
+"epl": "16",
+"von": 140001,
+"bis": 150000,
+"zweck": "\"Verbundprojekt: Neue Wasserressourcen und innovative Abwasserbehandlung für aride Metropolregionen am Beispiel Lima\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 130001,
+"bis": 140000,
+"zweck": "Wasserwiederverwendung mittels kontrollierter Grundwasseranreicherung und solarbasierter Membrantechnik zur Stützung der lokalen Wasserresourcen in ariden Metropolregionen am Beispiel Lima, Peru",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 110001,
+"bis": 120000,
+"zweck": "\"ELARIA: Entfernungseffizienz und Risikobewertung von Antibiotikaresistenzen, Pathogenen und Fäkalindikatoren bei der weitergehenden Abwasserbehandlung (Deutsch-Israelische Wassertechnologie Kooperation.\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 90001,
+"bis": 100000,
+"zweck": "\"Überwachung von neu auftretenden Krankheitserregern und Antibiotikaresistenzen in aquatischen Ökosystemen\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 70001,
+"bis": 80000,
+"zweck": "BiodivKI-2: KI-gestützte Erfassung und Prognose der Biodiversität und Wasserqualität in Trinkweasser-Reservoiren (IQ-Wasser-2) - Biodiversitäts- und Wasserqualitätsprognose",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 70001,
+"bis": 80000,
+"zweck": "\"Grundwasser-Projekt ArNO: Nitratbelastung von Einzugsgebieten - Eignung der verwendeten Grundwassermessstellen zur Ermittlung der Nitratbelastung unter Berücksichtigung historisch erzeugter Nitrateinträge\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 60001,
+"bis": 70000,
+"zweck": "\"Bioökonomie International 2024: ChloroBioRem - Bioaugmentation und Stimulierung der funktionellen Biodiversität in neuen Verfahrenskonzepten zur biobasierten Sanierung von Chlorethen-kontaminiertem Grundwasser\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 50001,
+"bis": 60000,
+"zweck": "\"ELARIA: Entfernungseffizienz und Risikobewertung von Antibiotikaresistenzen, Pathogenen und Fäkalindikatoren bei der weitergehenden Abwasserbehandlung (Deutsch-Israelische Wassertechnologie Kooperation.\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 50001,
+"bis": 60000,
+"zweck": "\"BiodivKI: KI-gestützte Erfassung und Prognose von der Biodiversität und Wasserqualität in Trinkwasser-Reservoiren (IQ-Wasser)\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 40001,
+"bis": 50000,
+"zweck": "\"Bioökonomie International 2024: ChloroBioRem - Bioaugmentation und Stimulierung der funktionellen Biodiversität in neuen Verfahrenskonzepten zur biobasierten Sanierung von Chlorethen-kontaminiertem Grundwasser\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 40001,
+"bis": 50000,
+"zweck": "\"„KeraRes - Layer-by-Layer-beschichtete Keramikmembranen für die ressourceneffiziente Erzeugung von Trink- und Brauchwasser“",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK-ZIM",
+"epl": "09",
+"von": 40001,
+"bis": 50000,
+"zweck": "\"Kultivierung von Cyanobakterien und Bakteriophagen, Entwicklung von Labornachweismethoden, Verfizierung und in situ-Anwendung der Analysemethoden.\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "DFG",
+"epl": null,
+"von": 30001,
+"bis": 40000,
+"zweck": "\"Entwicklung und Anwendung nicht pathogener Organismen und extrazellulärer DANN zur Vorsorge von Transportund Rückhalt von pathogener Organismen und antibiotkaresistenter Gene im Grundwasser\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 30001,
+"bis": 40000,
+"zweck": "\"WASA - Verbundprojekt WaMiSAR: Nachhaltiges und klimaangepasstes Wassermanangement im Bergbau der Region südliches Afrikas, Teilprojekt 5.\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 30001,
+"bis": 40000,
+"zweck": "\"„KeraRes - Layer-by-Layer-beschichtete Keramikmembranen für die ressourceneffiziente Erzeugung von Trink- und Brauchwasser“ \"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "Entfernung von PFAS aus Grund- und Abwässern durch Elektrosorption /-desorption an modifizierten Aktivkohlen und elektrochemischen Abbau",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK-ZIM",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "Entwicklung einer Herkunftsanalytik von Trifluoressigsäure (TFA) im Trink- und Grundwasser mittels Isotopen-Signatur. Teilprojekt: Untersuchung der biologischen, chemisch-oxidativen und elektrochemischen Transformation von PFAS-Vorläufersubstanzen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "\"Digital GreenTech 2 - Verbundprojekt DIWA: Digitale, vernetzte und interaktive Wasserqualitätsüberwachung, ein Konzept für autonome Frühwarnsysteme zum Gewässerschutz; Teilprojekt 2.\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "\"Digital GreenTech 2 - Verbundprojekt DIWA: Digitale, vernetzte und interaktive Wasserqualitätsüberwachung, ein Konzept für autonome Frühwarnsysteme zum Gewässerschutz; Teilprojekt 2.\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE-ZIM",
+"epl": "09",
+"von": 20001,
+"bis": 30000,
+"zweck": "Entwicklung eines lebend-tot-Nachweises für Sulfat-Reduzierer mittels Flowcytometrie und eines aktiv-inaktiv Nachweises von Sulfat-Reduzierern mittels PCR / Klein-skalige Laborversuche zur ISCO mit Tensid-Einsatz und Eisen-Aktivatoren",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMG",
+"epl": "15",
+"von": 20001,
+"bis": 30000,
+"zweck": "Projekt \"WSP - Klimaresilienz\" Riskiomanagement unter Berücksichtigung von klimawandelinduzierten Risiken.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "\"KMU-innovativ Verbundprojekt TAUWIS: Teilautonomes Unterwasser-Inspektionssystem zur Infrstrukturdatenerfassung, Teilprojekt 1\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "BiodivKI-2: KI-gestützte Erfassung und Prognose der Biodiversität und Wasserqualität in Trinkweasser-Reservoiren (IQ-Wasser-2) - Biodiversitäts- und Wasserqualitätsprognose",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "Resilienzen stärke: Flexibilisierung und Innovationen als Treiber für eine zukunftsfähige Wasserversorgung in Kassel - Flexilienz",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK-ZIM",
+"epl": "09",
+"von": 20001,
+"bis": 30000,
+"zweck": "\"Kultivierung von Cyanobakterien und Bakteriophagen, Entwicklung von Labornachweismethoden, Verfizierung und in situ-Anwendung der Analysemethoden.\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "\"Kultivierung von bisher unkultivierten Mikroorganismen aus verschiedenen aquatischen Lebensräumen - TP B\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK-ZIM",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "\"Entwicklung eines innovativen Bioaktivkohlefilters zur optimierung on-site Aufbereitung von Chlorethen-belasteten Grundwässern durch Stimulation des aerob-produktiven Chlorethen-Abbaus\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 10001,
+"bis": 20000,
+"zweck": "Verbundprojekt Zukunftstadt (Umsetzungs- und Verstetigungsprojekt): Flexible Utility - Mit sozio-technischer Flexibilisierung zu mehr Klimaresilienz und Effizienz in städtischen Infrastruktur (FLEXIBILITY) - Teilprojekt 4: Effekte dezentraler Wasserspeicher auf die Klimaresilienz von Trinkwassernetzen\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 10001,
+"bis": 20000,
+"zweck": "Resilienzen stärke: Flexibilisierung und Innovationen als Treiber für eine zukunftsfähige Wasserversorgung in Kassel - Flexilienz",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 10001,
+"bis": 20000,
+"zweck": "\"KMU-innovativ Verbundprojekt TAUWIS: Teilautonomes Unterwasser-Inspektionssystem zur Infrstrukturdatenerfassung, Teilprojekt 1\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 10001,
+"bis": 20000,
+"zweck": "\"WASA - Verbundprojekt WaMiSAR: Nachhaltiges und klimaangepasstes Wassermanangement im Bergbau der Region südliches Afrikas, Teilprojekt 5.\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK-ZIM",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "\"Entwicklung eines innovativen Bioaktivkohlefilters zur optimierung on-site Aufbereitung von Chlorethen-belasteten Grundwässern durch Stimulation des aerob-produktiven Chlorethen-Abbaus\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE",
+"epl": "09",
+"von": 40001,
+"bis": 50000,
+"zweck": "\"Portal-Green-II - Entwicklung von Leitfäden zum Aufbaueiner Wasserstoffinfrastruktur zur Integration erneuerbarer Energien\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE",
+"epl": "09",
+"von": 330001,
+"bis": 340000,
+"zweck": "Die Erstellung der notwendigen technischen Regeln für den Wasserstoffhochlauf",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE",
+"epl": "09",
+"von": 560001,
+"bis": 570000,
+"zweck": "Die Erstellung der notwendigen technischen Regeln für den Wasserstoffhochlauf",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE",
+"epl": "09",
+"von": 80001,
+"bis": 90000,
+"zweck": "\"Portal-Green-II - Entwicklung von Leitfäden zum Aufbaueiner Wasserstoffinfrastruktur zur Integration erneuerbarer Energien\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE",
+"epl": "09",
+"von": 340001,
+"bis": 350000,
+"zweck": "Die Erstellung der notwendigen technischen Regeln für den Wasserstoffhochlauf",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMFTR",
+"epl": "30",
+"von": 50001,
+"bis": 60000,
+"zweck": "Für die praktische Einführung der in TransHyDE adressierten Transport-, Verteil- und Speicheroptionen für Wasserstoff bzw. andere chemische Energieträger bedarf es neben den technischen und regulatorischen Voraussetzungen auch einheitliche Vorgaben in Form von Normen, Standards und Zertifizierungsprogrammen. In diesem Teilprojekt sollen daher diese Aspekte ganzheitlich untersucht werden, um Regelungslücken aufzuzeigen und Lösungsansätze zu entwickeln.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 6390053,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Gerald Linke",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000916/88005",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Wolf Merkel",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000916/88005",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Robert Ostwald",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000916/88005",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Berthold Niehues",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000916/88005",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Frank Dietzsch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000916/88005",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Jörg Höhler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000916/88005",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Björn Munko",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000916/88005",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Tilman Wilhelm",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000916/88005",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Markus Last",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000916/88005",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Olga Langolf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000916/88005",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Marika Holtorff",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000916/88005",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Peter Frenz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000916/88005",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Frank Gröschl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000916/88005",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Daniel Petry",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000916/88005",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Fréderic Verrycken",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000916/88005",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Sarah Schönberger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000916/88005",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Schwarz Stefanie",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000916/88005",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Dirk Waider",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000916/88005",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Johanna Kreienborg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000916/88005",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Gunar Schmidt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000916/88005",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Felix  Wiedemann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000916/88005",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Helena   Ballreich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000916/88005",
+"stand": "2026-10-26"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 23960001,
+"bis": 23970000
+},
+"lobbyausgaben": {
+"von": 630001,
+"bis": 640000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/47/94/865290/GuV-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000916/88005",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-26",
+"etikett": "Eigenangabe",
+"version": 50
+}
+]
+}

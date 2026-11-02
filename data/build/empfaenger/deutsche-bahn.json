@@ -1,0 +1,506 @@
+{
+"id": "deutsche-bahn",
+"name": "Deutsche Bahn",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Berlin",
+"website": "https://www.deutschebahn.com/de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001662",
+"eintrag_id": 87218,
+"version": 90,
+"stand": "2026-10-26",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001662/87218",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ce/ae/865565/Lobbyregister-Registereintraege-Detailansicht-R001662-2026-10-26_20-10-09.pdf"
+},
+"haushalt": {
+"titel": [
+{
+"id": "14-1412-68201",
+"text": "Zuschüsse an die Deutsche Bahn AG zur Unterhaltung von Strecken und Gleisabschnitten",
+"epl": "14",
+"epl_text": "Bundesministerium der Verteidigung",
+"werte": {
+"2015": {
+"soll": 1000000,
+"ist": 1587153
+}
+}
+},
+{
+"id": "14-1408-68201",
+"text": "Zuschüsse an die Deutsche Bahn AG zur Unterhaltung von Strecken und Gleisabschnitten",
+"epl": "14",
+"epl_text": "Bundesministerium der Verteidigung",
+"werte": {
+"2016": {
+"soll": 800000,
+"ist": 1116641
+},
+"2017": {
+"soll": 900000,
+"ist": 554563
+},
+"2018": {
+"soll": 800000,
+"ist": 457902
+},
+"2019": {
+"soll": 2800000,
+"ist": 1887352
+},
+"2020": {
+"soll": 2700000,
+"ist": 2367190
+},
+"2021": {
+"soll": 1000000,
+"ist": 1803777
+},
+"2022": {
+"soll": 1000000,
+"ist": 522807
+},
+"2023": {
+"soll": 1000000,
+"ist": 1359239
+},
+"2024": {
+"soll": 1500000,
+"ist": 2078330
+},
+"2025": {
+"soll": 1000000,
+"ist": 526381
+},
+"2026": {
+"soll": 1000000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesrepublik Deutschland - BMV",
+"epl": "60",
+"von": 4190001,
+"bis": 4200000,
+"zweck": "Zivile Verteidigung nach der Vereinbarung auf Basis des Verkehrssicherstellungsgesetzes (VSG) zwischen dem BMVBW und der DB AG vom 05./20.12.2001.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesrepublik Deutschland - BMV",
+"epl": "60",
+"von": 110001,
+"bis": 120000,
+"zweck": "Förderung der Entwicklung, des Baus, der Validierung und Zulassung eines EMU-Triebzugs. Im Rahmen des Projekt H2goes Rail wird ein Electronic-Multiple-Unit-Zug mit Wasserstoffantrieb entwickelt.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesrepublik Deutschland - BMV",
+"epl": "60",
+"von": 1320001,
+"bis": 1330000,
+"zweck": "Förderung der Gigabit-Ausleuchtung am Gleis. Die Förderung erfolgt im Rahmen des Gigabit Innovation Track (GINT) Programms des Bundesverkehrsministeriums nach der Förderrichtlinie Innovative Netztechnologien im Mobilfunk (InnoNT) vom 23.08.2022.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesrepublik Deutschland - BMV",
+"epl": "60",
+"von": 10001,
+"bis": 20000,
+"zweck": "Ein Forschungsprojekt zur Gigabit-Konnektivität an Hochgeschwindigkeitszügen BMDV GZ-30 (Gigabit-Zug 2030) mit Prüfung einer Erprobung von Nutzbarkeit neuer WLAN-Access Points, neuartiger Mobilfunkantennen und Breitband-Internet über LEO Satelliten. Die Förderung erfolgt im Rahmen des Projekts Gigabit-Zug 2030 (GZ-30) nach der Förderrichtlinie InnoNT (Richtlinie zur Förderung innovativer Netztechnologien im Mobilfunk Vom 23. August 2022).",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesrepublik Deutschland - BMV",
+"epl": "60",
+"von": 70001,
+"bis": 80000,
+"zweck": "Förderung der digitalen Haltestelleninformation (Projekt Data4PoM). Entwicklung eines bundesweiten Standards für digitale Haltestelleninformationen (gemäß Bescheid BMDV vom 14.06.2023 und 25.11.2024)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesrepublik Deutschland - BMV",
+"epl": "60",
+"von": 110001,
+"bis": 120000,
+"zweck": "Verbundprojekt DEFLECTOR zur digitalen Fahrzeugüberwachung und Echtzeit-Leistungstracking mit Fokus auf Retrofitting mit der Erarbeitung von Lösungen zur Ausstattung von Bestandsfahrzeugen mit Sensoren, die den Fahrzeugzustand erfassen. FKZ: 19FS2063B",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 5810006,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Evelyn Palla",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001662/87218",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Harmen van Zijderveld",
+"funktion": "Vorstand Regionalverkehr",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001662/87218",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Martin  Seiler",
+"funktion": "Vorstand Personal und Recht",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001662/87218",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Michael Peterson",
+"funktion": "Vorstand Personenfernverkehr",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001662/87218",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Bernhard Osburg",
+"funktion": "Vorstand Güterverkehr",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001662/87218",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Michael Obrowski",
+"funktion": "Vorstand Finanzen",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001662/87218",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Andrea Berndt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001662/87218",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Markus Ksoll",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001662/87218",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Max-Christian Lange",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001662/87218",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Heike Moll",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001662/87218",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Steffen Pietsch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001662/87218",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Brigitte Sorg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001662/87218",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Thorsten Gollkowski",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001662/87218",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Hella Schmidt-Naschke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001662/87218",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Christoph Lerche",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001662/87218",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Maximilian Forkel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001662/87218",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Ralf Damde",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001662/87218",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Martina Niemann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001662/87218",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Thorsten Krenz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001662/87218",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Jan Schilling",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001662/87218",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Detlef Müller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001662/87218",
+"stand": "2026-10-26"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Detlef Müller",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Detlef Müller ist laut Lobbyregister Interessenvertretung bei Deutsche Bahn und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03. Deutsche Bahn erhielt laut Lobbyregister Mittel von: Bundesrepublik Deutschland - BMV.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesrepublik Deutschland - BMV"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001662/87218",
+"stand": "2026-10-26"
+}
+],
+"stand": "2026-10-26"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Uwe Schmidt",
+"funktion_person": "MdB, SPD",
+"funktion_beim_empfaenger": "Mitglied des Aufsichtsrates (ab 01.03.2026)",
+"kategorie": "Funktionen in Unternehmen",
+"abgleich": "exakt",
+"satz": "Uwe Schmidt (MdB, SPD) ist laut bundestag.de Mitglied des Aufsichtsrates (ab 01.03.2026) bei Deutsche Bahn. Ausschüsse und Gremien im Bundestag laut bundestag.de: Bundesfinanzierungsgremium; Haushaltsausschuss; Ausschuss für Landwirtschaft, Ernährung und Heimat; Verkehrsausschuss. Deutsche Bahn erhielt laut Lobbyregister Mittel von: Bundesrepublik Deutschland - BMV.",
+"ausschuesse": [
+"Bundesfinanzierungsgremium",
+"Haushaltsausschuss",
+"Ausschuss für Landwirtschaft, Ernährung und Heimat",
+"Verkehrsausschuss"
+],
+"geld_aus": [
+"Bundesrepublik Deutschland - BMV"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/S/schmidt_uwe-1047170",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Björn Simon",
+"funktion_person": "MdB, CDU/CSU",
+"funktion_beim_empfaenger": "Mitglied des Aufsichtsrates (ab 01.03.2026)",
+"kategorie": "Funktionen in Unternehmen",
+"abgleich": "exakt",
+"satz": "Björn Simon (MdB, CDU/CSU) ist laut bundestag.de Mitglied des Aufsichtsrates (ab 01.03.2026) bei Deutsche Bahn. Ausschüsse und Gremien im Bundestag laut bundestag.de: Verkehrsausschuss; Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit; Petitionsausschuss. Deutsche Bahn erhielt laut Lobbyregister Mittel von: Bundesrepublik Deutschland - BMV.",
+"ausschuesse": [
+"Verkehrsausschuss",
+"Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+"Petitionsausschuss"
+],
+"geld_aus": [
+"Bundesrepublik Deutschland - BMV"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/S/simon_bjoern-1047448",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 2020001,
+"bis": 2030000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/61/db/865563/DB_GB25_web_01.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001662/87218",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-26",
+"etikett": "Eigenangabe",
+"version": 90
+},
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/S/schmidt_uwe-1047170",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/S/simon_bjoern-1047448",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

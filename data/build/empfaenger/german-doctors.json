@@ -1,0 +1,105 @@
+{
+"id": "german-doctors",
+"name": "German Doctors e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bonn",
+"website": "www.german-doctors.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003075",
+"eintrag_id": 81917,
+"version": 7,
+"stand": "2026-07-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003075/81917",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/d2/09/800382/Lobbyregister-Registereintraege-Detailansicht-R003075-2026-07-01_15-28-08.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 2320001,
+"bis": 2330000,
+"zweck": "Projektförderungen aus dem Titel \"Private Träger\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+"epl": "23",
+"von": 40001,
+"bis": 50000,
+"zweck": "Förderung im Rahmen einer Klinikpartnerschaft",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 2360002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Harald Kischlat",
+"funktion": "Vorstand (hauptamtlich)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003075/81917",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Christine Winkelmann",
+"funktion": "Vorstand (hauptamtlich)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003075/81917",
+"stand": "2026-07-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 8800001,
+"bis": 8810000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/32/bb/800381/GermanDoctors_Jahresbericht_2025-online-DS.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003075/81917",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-01",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

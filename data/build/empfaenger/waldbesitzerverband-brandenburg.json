@@ -1,0 +1,117 @@
+{
+"id": "waldbesitzerverband-brandenburg",
+"name": "Waldbesitzerverband Brandenburg e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Potsdam",
+"website": "www.waldbesitzerverband-brandenburg.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001779",
+"eintrag_id": 81021,
+"version": 11,
+"stand": "2026-06-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001779/81021",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/d9/59/783879/Lobbyregister-Registereintraege-Detailansicht-R001779-2026-06-29_13-36-25.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Arbeitsgemeinschaft",
+"epl": null,
+"von": 1,
+"bis": 10000,
+"zweck": "Förderungsmaßnahme Fortbildung und Unterrichtung der Waldbesitzer und Forstbediensteten",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Malte Eberwein",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001779/81021",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Christian Burkhardt",
+"funktion": "Stv. Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001779/81021",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Carl Freiherr von Lüninck",
+"funktion": "Stv. Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001779/81021",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Niklas Weber",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001779/81021",
+"stand": "2026-06-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 180001,
+"bis": 190000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ad/ca/783875/2025-Jahresabschluss.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001779/81021",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-29",
+"etikett": "Eigenangabe",
+"version": 11
+}
+]
+}

@@ -1,0 +1,84 @@
+{
+"id": "verbaende-vereine-gesellschaften",
+"name": "Verbände, Vereine, Gesellschaften",
+"art": "verein_stiftung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "11-1113-68601",
+"text": "Beiträge an Verbände, Vereine, Gesellschaften, Organisationen und Einrichtungen",
+"epl": "11",
+"epl_text": "Bundesministerium für Arbeit und Soziales",
+"werte": {
+"2015": {
+"soll": 24000,
+"ist": 23239
+},
+"2016": {
+"soll": 24000,
+"ist": 24000
+},
+"2017": {
+"soll": 26000,
+"ist": 22682
+},
+"2018": {
+"soll": 28000,
+"ist": 27824
+},
+"2019": {
+"soll": 28000,
+"ist": 25545
+},
+"2020": {
+"soll": 28000,
+"ist": 27660
+},
+"2021": {
+"soll": 28000,
+"ist": 24198
+},
+"2022": {
+"soll": 28000,
+"ist": 25275
+},
+"2023": {
+"soll": 28000,
+"ist": 23107
+},
+"2024": {
+"soll": 28000,
+"ist": 25835
+},
+"2025": {
+"soll": 28000,
+"ist": 27498
+},
+"2026": {
+"soll": 28000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

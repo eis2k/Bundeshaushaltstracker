@@ -1,0 +1,131 @@
+{
+"id": "ampeers-energy",
+"name": "Ampeers Energy GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "München",
+"website": "https://ampeersenergy.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005918",
+"eintrag_id": 70407,
+"version": 5,
+"stand": "2026-01-05",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005918/70407",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/2a/30/677953/Lobbyregister-Registereintraege-Detailansicht-R005918-2026-01-05_14-26-59.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 240001,
+"bis": 250000,
+"zweck": "Verbundprojekt: Gewährleistung von Anonymitäts-Garantien in Enterprise-Streaminganwendungen (GANGES)",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 970001,
+"bis": 980000,
+"zweck": "Forschungszulage: Entwicklung einer integrierten digitalen Plattform für die Umsetzung der Energiewende auf Quartiersebene, inklusive Geschäftsmodellsimulation, aktivem Energiemanagement & Abrechnungssoftware",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 20001,
+"bis": 30000,
+"zweck": "\"Digital Jetzt\" Implementierung professioneller und skalierungsfähiger ERP-, CRM- und Programmiersysteme",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "Forschungszentrum Jülich",
+"epl": null,
+"von": 30001,
+"bis": 40000,
+"zweck": "ODH - Entwicklung von Komponenten zur Planung und zum Betrieb energieeffizienter Stadtquartiere und praktische Umsetzung in Bochum-Weitmar",
+"geschaeftsjahr": "2023"
+}
+],
+"lobby_untergrenze_bund": 1260004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Gerrit Ellerwald",
+"funktion": "CFO und Gründer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005918/70407",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Karsten Schmidt",
+"funktion": "CEO & Gründer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005918/70407",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Tobias Müller",
+"funktion": "Gründer und CRO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005918/70407",
+"stand": "2026-01-05"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2023",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/5f/2b/677894/Jahresabschluss-Ampeers-Energy-GmbH-2023.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005918/70407",
+"abgerufen": "2026-11-02",
+"stand": "2026-01-05",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

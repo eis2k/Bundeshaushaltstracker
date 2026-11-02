@@ -1,0 +1,140 @@
+{
+"id": "deutscher-ruderverband",
+"name": "Deutscher Ruderverband",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Hannover",
+"website": "www.rudern.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003984",
+"eintrag_id": 65277,
+"version": 8,
+"stand": "2025-09-16",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003984/65277",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/13/9c/614921/Lobbyregister-Registereintraege-Detailansicht-R003984-2025-09-16_10-27-49.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium des Innern",
+"epl": "06",
+"von": 6300001,
+"bis": 6310000,
+"zweck": "Projektmittel für die Jahresplanung des Leistungssports sowie Para-Rudern und für das Personal im Bereich Leistungssport und Para-Rudern - zusammengefasst im außerordentlichen Haushalt",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Olympiastützpunkt Schleswig-Holstein",
+"epl": null,
+"von": 250001,
+"bis": 260000,
+"zweck": "Zentrale Einrichtung der Ruderakademie Ratzeburg",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Deutsche Sportjugend",
+"epl": null,
+"von": 70001,
+"bis": 80000,
+"zweck": "Personalkostenzuschuss Deutsche Ruderjugend",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Deutsche Sportjugend",
+"epl": null,
+"von": 240001,
+"bis": 250000,
+"zweck": "Zuschuss für Gremienarbeit der Deutschen Ruderjugend und Fördermittel für Sonderprojekte der Jugendarbeit",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 60001,
+"bis": 70000,
+"zweck": "Bundesfreiwilligendienst",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 6920005,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Alexander Kersten",
+"funktion": "Vorstand Administration/Finanzen",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003984/65277",
+"stand": "2025-09-16"
+}
+},
+{
+"name": "Robert Sens",
+"funktion": "Vorstand Leistungssport",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003984/65277",
+"stand": "2025-09-16"
+}
+},
+{
+"name": "Sina Burmeister",
+"funktion": "Vorstand Jugend",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003984/65277",
+"stand": "2025-09-16"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 1390001,
+"bis": 1400000
+},
+"lobbyausgaben": {
+"von": 340001,
+"bis": 350000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/22/28/614920/Finanzabschluss-Gesamthaushalt-2023.pdf",
+"geschaeftsjahr": "2023",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003984/65277",
+"abgerufen": "2026-11-02",
+"stand": "2025-09-16",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

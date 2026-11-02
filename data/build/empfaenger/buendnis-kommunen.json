@@ -1,0 +1,48 @@
+{
+"id": "buendnis-kommunen",
+"name": "Bündnis Kommunen",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "16-1604-68401",
+"text": "Zuschuss an das Bündnis Kommunen für biologische Vielfalt e. V.",
+"epl": "16",
+"epl_text": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+"werte": {
+"2024": {
+"soll": 500000,
+"ist": 183161
+},
+"2025": {
+"soll": 500000,
+"ist": 440000
+},
+"2026": {
+"soll": 500000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

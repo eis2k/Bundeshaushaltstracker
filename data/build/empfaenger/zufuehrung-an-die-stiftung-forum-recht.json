@@ -1,0 +1,68 @@
+{
+"id": "zufuehrung-an-die-stiftung-forum-recht",
+"name": "Zuführung an die Stiftung Forum Recht",
+"art": "verein_stiftung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "07-0710-68508",
+"text": "Zuführung an die Stiftung Forum Recht",
+"epl": "07",
+"epl_text": "Bundesministerium der Justiz und für Verbraucherschutz",
+"werte": {
+"2019": {
+"soll": 857000,
+"ist": 179801
+},
+"2020": {
+"soll": 1442000,
+"ist": 706082
+},
+"2021": {
+"soll": 2500000,
+"ist": 1691460
+},
+"2022": {
+"soll": 3538000,
+"ist": 2435613
+},
+"2023": {
+"soll": 3538000,
+"ist": 2548726
+},
+"2024": {
+"soll": 3538000,
+"ist": 2968575
+},
+"2025": {
+"soll": 3538000,
+"ist": 3311557
+},
+"2026": {
+"soll": 4453000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

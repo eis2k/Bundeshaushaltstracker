@@ -1,0 +1,113 @@
+{
+"id": "deutsche-industrie-und-handelskammer-in-marokko",
+"name": "Deutsche Industrie- und Handelskammer in Marokko (AHK Marokko)",
+"art": "verein_stiftung",
+"rechtsform": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+"sitz": "20160 Casablanca",
+"website": "http://marokko.ahk.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001527",
+"eintrag_id": 78203,
+"version": 6,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001527/78203",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/60/38/796663/Lobbyregister-Registereintraege-Detailansicht-R001527-2026-06-30_21-11-45.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE; ehem. BMWK)",
+"epl": "09",
+"von": 640001,
+"bis": 650000,
+"zweck": "Für die Wahrnehmung von Aufgaben der Außenwirtschaftsförderung im öffentlichen Interesse erhält die AHK Marokko eine Zuwendung des Bundesministerium für Wirtschaft und Energie (BMWE; ehem. BMWK) im Rahmen der globalen Förderung des weltweiten Netzes der Auslandshandelskammern (AHK).",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+"epl": null,
+"von": 30001,
+"bis": 40000,
+"zweck": "Im Rahmen der Kooperation H2UPPP (BMWE) erhält die AHK Marokko Zuwendungen der Gesellschaft für Internationale Zusammenarbeit (GIZ) zur Durchführung gemeinsamer Projektaktivitäten.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministeriums für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ)",
+"epl": null,
+"von": 170001,
+"bis": 180000,
+"zweck": "Im Rahmen des BMBFSFJ-Vorhabens ProRecognition zur Ausbildungsanerkennungsberatung im Ausland erhaelt die AHK Marokko ueber die DIHK Service GmbH eine Beauftragung zur Projektumsetzung.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 840003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Silke Kunstreich",
+"funktion": "Geschaeftsfuehrendes Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001527/78203",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Mehdi El Boury",
+"funktion": "Praesident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001527/78203",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 270001,
+"bis": 280000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/58/62/796662/Bilan_2025_upload.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001527/78203",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

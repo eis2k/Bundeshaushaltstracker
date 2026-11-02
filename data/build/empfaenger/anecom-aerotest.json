@@ -1,0 +1,84 @@
+{
+"id": "anecom-aerotest",
+"name": "AneCom AeroTest GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Wildau",
+"website": "www.anecom.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005985",
+"eintrag_id": 84604,
+"version": 6,
+"stand": "2026-09-15",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005985/84604",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/88/6d/842013/Lobbyregister-Registereintraege-Detailansicht-R005985-2026-09-15_09-14-28.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Investitionsbank des Landes Brandenburg",
+"epl": null,
+"von": 140001,
+"bis": 150000,
+"zweck": "JTF-Unternehmensförderung, Produktive Investitionen von KMU (De-minimis) Diversifizierung einer Betriebsstätte Zuschüsse für Training/ Weiterbildung:",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 140001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Karsten Bodo Mühlenfeld",
+"funktion": "Managing Director",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005985/84604",
+"stand": "2026-09-15"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 30001,
+"bis": 40000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/f7/3e/842012/Jahresabschluss-zum-31-03-2026-kurz.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005985/84604",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-15",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

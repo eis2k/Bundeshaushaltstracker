@@ -1,0 +1,124 @@
+{
+"id": "representative-of-german-business",
+"name": "Representative of German Business (RGB)",
+"art": "verein_stiftung",
+"rechtsform": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+"sitz": "San Francisco",
+"website": "https://www.gaccwest.com/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003152",
+"eintrag_id": 64156,
+"version": 6,
+"stand": "2025-08-20",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003152/64156",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/44/87/604947/Lobbyregister-Registereintraege-Detailansicht-R003152-2025-08-20_15-04-02.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz (BMWK)",
+"epl": "09",
+"von": 960001,
+"bis": 970000,
+"zweck": "Bundeszuwendung im Wege der Projektförderung als Anteilsfinanzierung gemäß Paragraph 44 BHO.",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz (BMWK)",
+"epl": "09",
+"von": 150001,
+"bis": 160000,
+"zweck": "Bundeszuwendung im Rahmen der Förderung der Erschließung von Auslandsmärkten aus Kapitel 0904, Titel 687 05 des Bundeshaushaltsplans 2020 (Exportinitiative Energie - Geschäftsreiseprogramm der AHKs)",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "Auswärtiges Amt (AA)",
+"epl": "05",
+"von": 130001,
+"bis": 140000,
+"zweck": "Transatlantic Forward Thinking Conference 2023 in Berkeley, California",
+"geschaeftsjahr": "2023"
+}
+],
+"lobby_untergrenze_bund": 1240003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Sven Potthoff",
+"funktion": "CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003152/64156",
+"stand": "2025-08-20"
+}
+},
+{
+"name": "Mirko Wutzler",
+"funktion": "CFO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003152/64156",
+"stand": "2025-08-20"
+}
+},
+{
+"name": "Simone Simone",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003152/64156",
+"stand": "2025-08-20"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2023",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ef/3f/604946/2023-12-31-Represenative-of-German-Business-US-GAAP_final.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003152/64156",
+"abgerufen": "2026-11-02",
+"stand": "2025-08-20",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

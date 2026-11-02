@@ -1,0 +1,229 @@
+{
+"id": "miele-und-cie",
+"name": "Miele & Cie. KG",
+"art": "unternehmen",
+"rechtsform": "Kommanditgesellschaft (KG)",
+"sitz": "Gütersloh",
+"website": "https://www.miele.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006183",
+"eintrag_id": 79324,
+"version": 12,
+"stand": "2026-07-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006183/79324",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c9/84/797691/Lobbyregister-Registereintraege-Detailansicht-R006183-2026-07-01_09-15-35.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BAFA - Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 50001,
+"bis": 60000,
+"zweck": "Bundesförderung für effiziente Gebäude",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF - Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 350001,
+"bis": 360000,
+"zweck": "Projektförderung F&E-Projekte",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE - Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "Projektförderung F&E-Projekte",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE - Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 2490001,
+"bis": 2500000,
+"zweck": "Bundesförderung für effiziente Gebäude",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 2920004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Markus Miele",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006183/79324",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Reinhard Zinkann",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006183/79324",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Stefan Breit",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006183/79324",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Rebecca Steinhage",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006183/79324",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Axel Kniehl",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006183/79324",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Stefan Koss",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006183/79324",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Christoph Wendker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006183/79324",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Tilman Rüsch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006183/79324",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Peter Jost",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006183/79324",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Andreas Brömmelhaus",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006183/79324",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Marc Küllmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006183/79324",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Fabian Fechner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006183/79324",
+"stand": "2026-07-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 150001,
+"bis": 160000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/76/ca/797688/Miele-Cie-KG_Jahresabschluss-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006183/79324",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-01",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

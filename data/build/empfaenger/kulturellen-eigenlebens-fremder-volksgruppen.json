@@ -1,0 +1,92 @@
+{
+"id": "kulturellen-eigenlebens-fremder-volksgruppen",
+"name": "kulturellen Eigenlebens fremder Volksgruppen",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "04-0405-68472",
+"text": "Förderung des kulturellen Eigenlebens fremder Volksgruppen",
+"epl": "04",
+"epl_text": "Bundeskanzlerin und Bundeskanzleramt",
+"werte": {
+"2015": {
+"soll": 865000,
+"ist": 835522
+}
+}
+},
+{
+"id": "04-0452-68472",
+"text": "Förderung des kulturellen Eigenlebens fremder Volksgruppen",
+"epl": "04",
+"epl_text": "Bundeskanzler und Bundeskanzleramt",
+"werte": {
+"2016": {
+"soll": 854000,
+"ist": 833544
+},
+"2017": {
+"soll": 854000,
+"ist": 830810
+},
+"2018": {
+"soll": 867000,
+"ist": 845751
+},
+"2019": {
+"soll": 884000,
+"ist": 875849
+},
+"2020": {
+"soll": 889000,
+"ist": 775483
+},
+"2021": {
+"soll": 1084000,
+"ist": 935772
+},
+"2022": {
+"soll": 1013000,
+"ist": 1004380
+},
+"2023": {
+"soll": 1015000,
+"ist": 980519
+},
+"2024": {
+"soll": 1015000,
+"ist": 973815
+},
+"2025": {
+"soll": 983000,
+"ist": 1016271
+},
+"2026": {
+"soll": 983000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

@@ -1,0 +1,135 @@
+{
+"id": "co2online-gemeinnuetzige-beratungsgesellschaft-mit-beschraen",
+"name": "co2online gemeinnützige Beratungsgesellschaft mit beschränkter Haftung",
+"art": "verein_stiftung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "www.co2online.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003308",
+"eintrag_id": 79580,
+"version": 6,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003308/79580",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/e2/ed/795538/Lobbyregister-Registereintraege-Detailansicht-R003308-2026-06-30_17-53-10.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 2170001,
+"bis": 2180000,
+"zweck": "Das Förderprojekt „Online-Klimaschutzberatung”, kurz OKSB, motiviert Verbraucher*innen dazu, eigene Energiespar- und Klimaschutzmöglichkeiten zu entdecken, zu verstehen und zu nutzen. Das Ziel sämtlicher Maßnahmen im Rahmen des Förderprojekts ist es, Handlungen auszulösen, die die Energieeffizienz fördern und den CO2-Ausstoß mindern – und verschiedene Akteur*innen aktiv und individuell in den Klimaschutz einzubinden. Die OKSB lebt vom Dialog. Sie berät zielgruppenspezifisch und informiert zur richtigen Zeit am richtigen Ort mit den passenden Inhalten. Das zentrale Online-Portal www.co2online.de ermöglicht Nutzer*innen mit seinen spezialisierten Themenseiten den situativen Einstieg in Energiesparthemen und beantwortet praktische Fragen, die sie direkt vom Wissen ins Handeln führen. Thematische Schwerpunkte sind Heizen, Strom, erneuerbare Energien sowie die Gebäudeoptimierung.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz, Projektträger Jülich",
+"epl": "09",
+"von": 50001,
+"bis": 60000,
+"zweck": "Die Zielsetzung des Forschungsvorhabens „EnergyMap Berlin“ besteht in der Entwicklung und Etablierung einer datenbankgestützten Multi-User-/Multi-Source-Applikation unter Einbeziehung einer Online-Plattform zur Erstellung eines gebäudescharfen digitalen Wärmekatasters am Beispiel des Gebäudebestandes des Landes Berlin. Hierdurch soll eine maximal transparente Datengrundlage zum aktuellen räumlich differenzierten energetischen Zustand des Gebäudebestands der Bundeshauptstadt geschaffen werden, welche allen gesellschaftlichen Akteuren der Energiewende zukünftig als Planungsgrundlage frei zur Verfügung stehen soll. Das digitale Wärmekataster wird im Forschungsvorhaben am Beispiel des Gebäudebestands von Berlin entwickelt und evaluiert. Der Forschungsansatz wird aber methodisch und softwaretechnisch so allgemein gehalten, dass er sich auf andere Städte und Regionen übertragen lässt.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 40001,
+"bis": 50000,
+"zweck": "Projektname: ProSuffizienz Die Nutzung von Solarstrom ist ein zentrales Element auf dem Weg zur Klimaneutralität. Neben großflächigen Photovoltaikanlagen nehmen auch die kleineren Anlagen der privaten Haushalte zunehmend eine Schlüsselrolle ein. So können immer mehr Menschen mit ihrer eigenen Photovoltaikanlage sauberen Strom produzieren und diesen auch selbst verbrauchen. Die Zunahme von privaten PV-Anlagen ist zwar essenziell, der Umgang mit dem selbstproduzierten Strom ist aber ebenso von großer Bedeutung. Nicht selten beeinflusst die Verfügbarkeit eigenen Sonnenstroms das Stromverbrauchs-verhalten von Hauhalten. Dabei wäre es am besten, wenn Prosumer sparsam, also nachhaltig, mit dem selbsterzeugten Strom umgehen, sich also suffizient verhalten.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 2260003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Tanja Loitz",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003308/79580",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Sebastian Metzger",
+"funktion": "ppa. Mitglied der Geschäftsleitung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003308/79580",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Julia Hellmer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003308/79580",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Laurenz Hermann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003308/79580",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/af/02/795534/Jahresabschluss_2024_Kurzversion.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003308/79580",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

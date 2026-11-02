@@ -1,0 +1,131 @@
+{
+"id": "evangelischer-erziehungsverband-e-v-erev",
+"name": "Evangelischer Erziehungsverband e.V., EREV",
+"art": "kirche_wohlfahrt",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Hannover",
+"website": "www.erev.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006707",
+"eintrag_id": 77808,
+"version": 4,
+"stand": "2026-06-04",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006707/77808",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/cc/f2/749518/Lobbyregister-Registereintraege-Detailansicht-R006707-2026-06-04_15-52-37.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 260001,
+"bis": 270000,
+"zweck": "Zuwendung aus Kinder- und Jugendplan des Bundes (KJP) -Förderung gemäß Rahmenvereinbarung im Handlungsfeld V. Weitere bundeszentrale Aufgaben der Kinder- und Jugendhilfe, Fortbildungsprogramm/Gremienarbeit Projekt Verfahrenslotsen: Entwicklung für ein Curriculum für die Qualifizierung der Verfahrenslots*innen nach § 10b SGB VIII",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 260001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Björn Hagen",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006707/77808",
+"stand": "2026-06-04"
+}
+},
+{
+"name": "Carola Sari Hahne",
+"funktion": "Vorsitzende Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006707/77808",
+"stand": "2026-06-04"
+}
+},
+{
+"name": "Carola Sari Hahne",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006707/77808",
+"stand": "2026-06-04"
+}
+},
+{
+"name": "Tanja Buck",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006707/77808",
+"stand": "2026-06-04"
+}
+},
+{
+"name": "Frank Dieckbreder",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006707/77808",
+"stand": "2026-06-04"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 780001,
+"bis": 790000
+},
+"lobbyausgaben": {
+"von": 70001,
+"bis": 80000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/a3/4b/749517/Bericht-JA-2025-EREV.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006707/77808",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-04",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

@@ -1,0 +1,216 @@
+{
+"id": "united-internet",
+"name": "United Internet AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Montabaur",
+"website": "www.united-internet.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001932",
+"eintrag_id": 87664,
+"version": 44,
+"stand": "2026-10-16",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001932/87664",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/01/ca/862468/Lobbyregister-Registereintraege-Detailansicht-R001932-2026-10-16_13-15-41.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung (BMBF)",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "Zuwendung im Rahmen des Förderprojekts \"KIWI\". Diese ging an die 1&1 Mail & Media Applications SE.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 20001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ralph Dommermuth",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001932/87664",
+"stand": "2026-10-16"
+}
+},
+{
+"name": "Carsten  Theurer",
+"funktion": "Finanzvorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001932/87664",
+"stand": "2026-10-16"
+}
+},
+{
+"name": "Michael Hattermann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001932/87664",
+"stand": "2026-10-16"
+}
+},
+{
+"name": "Manuela-Andrea Pohl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001932/87664",
+"stand": "2026-10-16"
+}
+},
+{
+"name": "Benedikt Großmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001932/87664",
+"stand": "2026-10-16"
+}
+},
+{
+"name": "Florian Mersmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001932/87664",
+"stand": "2026-10-16"
+}
+},
+{
+"name": "Tobias Scholl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001932/87664",
+"stand": "2026-10-16"
+}
+},
+{
+"name": "Mario Rehse",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001932/87664",
+"stand": "2026-10-16"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Florian Mersmann",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Florian Mersmann ist laut Lobbyregister Interessenvertretung bei United Internet AG und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03. United Internet AG erhielt laut Lobbyregister Mittel von: Bundesministerium für Bildung und Forschung (BMBF).",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Bildung und Forschung (BMBF)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001932/87664",
+"stand": "2026-10-16"
+}
+],
+"stand": "2026-10-16"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Tobias Scholl",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Tobias Scholl ist laut Lobbyregister Interessenvertretung bei United Internet AG und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03. United Internet AG erhielt laut Lobbyregister Mittel von: Bundesministerium für Bildung und Forschung (BMBF).",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Bildung und Forschung (BMBF)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001932/87664",
+"stand": "2026-10-16"
+}
+],
+"stand": "2026-10-16"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 180001,
+"bis": 190000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 610001,
+"bis": 620000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/79/3c/862464/United_Internet_AG_Konzernabschluss_GJ_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001932/87664",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-16",
+"etikett": "Eigenangabe",
+"version": 44
+}
+]
+}

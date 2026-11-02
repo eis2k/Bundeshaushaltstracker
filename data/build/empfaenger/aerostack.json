@@ -1,0 +1,124 @@
+{
+"id": "aerostack",
+"name": "Aerostack GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Dettingen an der Erms",
+"website": "www.airbus.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005668",
+"eintrag_id": 73547,
+"version": 7,
+"stand": "2026-06-11",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005668/73547",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/bd/2d/755915/Lobbyregister-Registereintraege-Detailansicht-R005668-2026-06-11_12-21-41.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Digitales und Verkehr.",
+"epl": "12",
+"von": 3190001,
+"bis": 3200000,
+"zweck": "Projekt: H2Sky (NIP II. Entwicklung eines Wasserstoff-Brennstoffzellen-Stacks für die Anwendung im Hauptantrieb für Fluganwendungen (Verbundvorhaben)) Vorhaben: 03B10706A Projektträger Jülich, Forschungszentrum Jülich GmbH. Geschäftsbereich Energie, Verkehr, Infrastruktur. Zuwendungen in 2023: 3,2 Mio €",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klima (BMWK)",
+"epl": null,
+"von": 1140001,
+"bis": 1150000,
+"zweck": "GENtwoPRO (“Entwicklung zur Effizienzsteigerung und mechanischen Stabilisierung eines LT-PEM Brennstoffzellenstacks\") Projektträger: DLR, Projektträger Luftfahrtforschung | Umweltfreundliche Antriebstechnologien im Luftfahrtforschungsprogramm. Förderkennzeichen: 20M2419B Zuwendungen in 2024: 1.15 m€",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz (BMWK)",
+"epl": "09",
+"von": 4690001,
+"bis": 4700000,
+"zweck": "StackPerLe “Stack-Performance-Leverage -Erhöhung der Leistungsdichte des Brennstoffzellen-Stapels über ausgewählte Technologiebausteine“ Förderkennzeichen: 20M2423 Zuwendungen in 2024: 4.691.500,00 €",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 9020003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Torsten Stengel",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005668/73547",
+"stand": "2026-06-11"
+}
+},
+{
+"name": "Robin Ziegler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005668/73547",
+"stand": "2026-06-11"
+}
+},
+{
+"name": "Oliver Haack",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005668/73547",
+"stand": "2026-06-11"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/dd/87/755913/Fiinancial-Statement-2024-Lobbyregister-Bund.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005668/73547",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-11",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

@@ -1,0 +1,60 @@
+{
+"id": "sondervermoegen-aufbauhilfe-2021",
+"name": "Sondervermögen \"Aufbauhilfe 2021",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "60-6002-63401",
+"text": "Zuweisung an das Sondervermögen Aufbauhilfe 2021\"\"",
+"epl": "60",
+"epl_text": "Allgemeine Finanzverwaltung",
+"werte": {
+"2021": {
+"soll": 0,
+"ist": 16000000000
+},
+"2022": {
+"soll": 0,
+"ist": 0
+},
+"2023": {
+"soll": 1599687000,
+"ist": 1364520004
+},
+"2024": {
+"soll": 2657638000,
+"ist": 1414565184
+},
+"2025": {
+"soll": 2500000000,
+"ist": 2500000000
+},
+"2026": {
+"soll": 2500000000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

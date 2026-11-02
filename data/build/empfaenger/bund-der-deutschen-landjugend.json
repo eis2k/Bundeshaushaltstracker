@@ -1,0 +1,170 @@
+{
+"id": "bund-der-deutschen-landjugend",
+"name": "Bund der Deutschen Landjugend e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.landjugend.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000148",
+"eintrag_id": 83218,
+"version": 20,
+"stand": "2026-07-16",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000148/83218",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/03/7e/814593/Lobbyregister-Registereintraege-Detailansicht-R000148-2026-07-16_11-59-49.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMLEH (Bundesministerium für Landwirtschaft, Ernährung und Heimat)",
+"epl": "10",
+"von": 130001,
+"bis": 140000,
+"zweck": "Förderung nationaler und internationaler zentraler agrar-, ernährungs- oder regionalentwicklerischer Informationsmaßnahmen. (Aktiviäten und Personal). Maßnahmen für Junglandwirt:innen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBFSFJ (BM für Bildung, Familie, Frauen, Senioren und Jugend)",
+"epl": "17",
+"von": 1070001,
+"bis": 1080000,
+"zweck": "Förderung Jugendarbeit und Jugendverbandsarbeit im nationalen und internationalen Bereich. Maßnahmen und Personalförderung. Kinder- und Jugendplan des Bundes",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1200002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Matthias Sammet",
+"funktion": "Bundesgeschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000148/83218",
+"stand": "2026-07-16"
+}
+},
+{
+"name": "Marthe Tiana Vellguth",
+"funktion": "Bundesvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000148/83218",
+"stand": "2026-07-16"
+}
+},
+{
+"name": "Lars Ruschmeyer",
+"funktion": "Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000148/83218",
+"stand": "2026-07-16"
+}
+},
+{
+"name": "Christian Leu",
+"funktion": "stellvertretender Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000148/83218",
+"stand": "2026-07-16"
+}
+},
+{
+"name": "Paul Krug",
+"funktion": "Stellvertretender Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000148/83218",
+"stand": "2026-07-16"
+}
+},
+{
+"name": "Sandra Schlee",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000148/83218",
+"stand": "2026-07-16"
+}
+},
+{
+"name": "Evelyn Berner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000148/83218",
+"stand": "2026-07-16"
+}
+},
+{
+"name": "Carina Gräschke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000148/83218",
+"stand": "2026-07-16"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 220001,
+"bis": 230000
+},
+"lobbyausgaben": {
+"von": 80001,
+"bis": 90000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/78/32/814591/2024-BDL-Jahresabschluss-Lobbyregister_final.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000148/83218",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-16",
+"etikett": "Eigenangabe",
+"version": 20
+}
+]
+}

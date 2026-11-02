@@ -1,0 +1,254 @@
+{
+"id": "aspen-institute-deutschland",
+"name": "Aspen Institute Deutschland e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.aspeninstitute.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002572",
+"eintrag_id": 70517,
+"version": 8,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002572/70517",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c2/04/796654/Lobbyregister-Registereintraege-Detailansicht-R002572-2026-06-30_21-05-22.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Presse- und Informationsamt der Bundesregierung",
+"epl": "04",
+"von": 490001,
+"bis": 500000,
+"zweck": "Institutionelle Förderung (Fehlbedarfsfinanzierung)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Kreditanstalt für Wiederaufbau (KfW)",
+"epl": null,
+"von": 220001,
+"bis": 230000,
+"zweck": "Förderung Austauschprojekt",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 190001,
+"bis": 200000,
+"zweck": "Förderung Digital-Projekt",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Kreditanstalt für Wiederaufbau",
+"epl": null,
+"von": 180001,
+"bis": 190000,
+"zweck": "Förderung Transatlantisches Landwirtschaftsprojekt",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 180001,
+"bis": 190000,
+"zweck": "Förderung Europa-Projekt",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 40001,
+"bis": 50000,
+"zweck": "Förderung Transatlantik-Projekt",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 30001,
+"bis": 40000,
+"zweck": "Förderung Austauschprojekt",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 20001,
+"bis": 30000,
+"zweck": "Förderung Austauschprojekt",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1350008,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Stormy Mildner",
+"funktion": "Executive Director / Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002572/70517",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Britt Eckelmann",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002572/70517",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Margit Lehwalder",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002572/70517",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Ulrich Plett",
+"funktion": "Vorstand / Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002572/70517",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Andrea Römmele",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002572/70517",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Rejane Herwig",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002572/70517",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Eckart von Klaeden",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002572/70517",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Molly Hall",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002572/70517",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Katja Greeson",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002572/70517",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Ferdinand Eimler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002572/70517",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Niklas Zimmer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002572/70517",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 80001,
+"bis": 90000
+},
+"mitgliedsbeitraege": {
+"von": 70001,
+"bis": 80000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/3b/60/796653/Aspen_GuV-fuer-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002572/70517",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

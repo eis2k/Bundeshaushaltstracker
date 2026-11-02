@@ -1,0 +1,126 @@
+{
+"id": "german-meat",
+"name": "German Meat GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Bonn",
+"website": "www.german-meat.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003191",
+"eintrag_id": 81770,
+"version": 12,
+"stand": "2026-07-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003191/81770",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/98/17/800195/Lobbyregister-Registereintraege-Detailansicht-R003191-2026-07-01_14-57-37.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesanstalt für Landwirtschaft und Ernährung",
+"epl": "10",
+"von": 40001,
+"bis": 50000,
+"zweck": "Fachliche Beratung der Betriebe bei Zulassungs- und Antragsverfahren durch eine sachkundige Veterinärexpertin. Unterstützung bei der Organisation und Begleitung ausländischer Veterinärinspektionen. Fachliche Bearbeitung von staatlichen Veterinär-Fragebögen und Zertifikatsabstimmungen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesanstalt für Landwirtschaft und Ernährung",
+"epl": "10",
+"von": 40001,
+"bis": 50000,
+"zweck": "Kontaktperson in China zur fundierten Unterstützung der deutschen Fleisch und Milchwirtschaft bei den Bemühungen um die Öffnung, Erhaltung und Erweiterung von Absatzmärkten im wichtigen Exportland China. Zusammenarbeit mit deutschen Institutionen in China, z.B. dt. Botschaft. Networking zu chinesischen Behörden und Institutionen.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 80002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Steffen Reiter",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003191/81770",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Lars Hollmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003191/81770",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Ines Hasenbein",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003191/81770",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Jan Bernd Stärk",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003191/81770",
+"stand": "2026-07-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/20/da/800194/JA-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003191/81770",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-01",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

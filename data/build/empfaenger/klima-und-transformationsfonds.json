@@ -1,0 +1,100 @@
+{
+"id": "klima-und-transformationsfonds",
+"name": "Klima- und Transformationsfonds",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "60-6002-61401",
+"text": "Zuweisung an den Klima- und Transformationsfonds",
+"epl": "60",
+"epl_text": "Allgemeine Finanzverwaltung",
+"werte": {
+"2015": {
+"soll": 2081000000,
+"ist": 2081000000
+},
+"2016": {
+"soll": 713000000,
+"ist": 713000000
+},
+"2017": {
+"soll": 717318000,
+"ist": 717318000
+},
+"2018": {
+"soll": 2800262000,
+"ist": 2800262000
+},
+"2019": {
+"soll": 1791954000,
+"ist": 1791954000
+},
+"2020": {
+"soll": 26523179000,
+"ist": 27649193000
+},
+"2021": {
+"soll": 62479321000,
+"ist": 62479321000
+},
+"2022": {
+"soll": 5846359000,
+"ist": 5846359000
+},
+"2023": {
+"soll": 0,
+"ist": 0
+},
+"2024": {
+"soll": 0,
+"ist": 0
+},
+"2025": {
+"soll": 0,
+"ist": 0
+},
+"2026": {
+"soll": 0,
+"ist": null
+}
+}
+},
+{
+"id": "60-6093-88401",
+"text": "Zuweisung an den Klima- und Transformationsfonds",
+"epl": "60",
+"epl_text": "Allgemeine Finanzverwaltung",
+"werte": {
+"2025": {
+"soll": 10000000000,
+"ist": 10000000000
+},
+"2026": {
+"soll": 10000000000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

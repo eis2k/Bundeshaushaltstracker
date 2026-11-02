@@ -1,0 +1,130 @@
+{
+"id": "fgw-e-v-foerdergesellschaft-windenergie-und-andere-dezentral",
+"name": "FGW e.V. - Fördergesellschaft Windenergie und andere Dezentrale Energien",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.wind-fgw.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005011",
+"eintrag_id": 87437,
+"version": 10,
+"stand": "2026-10-12",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005011/87437",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/83/97/860123/Lobbyregister-Registereintraege-Detailansicht-R005011-2026-10-12_14-34-48.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "PtJ",
+"epl": "30",
+"von": 110001,
+"bis": 120000,
+"zweck": "Projekt INDEX-WR, „Bildung eines Qualitäts- und Performance-Index für PV-Wechselrichter auf Basis von Systemzuverlässigkeitsuntersuchungen“ Es soll ein Index entwickelt werden, welcher es sowohl Investoren und Betreibern ermöglicht, Photovoltaik-Wechselrichter in Bezug auf Qualität und Performance adäquat zu vergleichen. Dafür sollen auf Basis von Systemzuverlässigkeitsuntersuchungen Kriterien entwickelt werden, welche in eine Indexbildung einfließen. Standardisierte Test- und Bewertungsverf. sollen anhand von realen Mission Profils abgeleitet werden. Dabei soll vor allem auch von bereits existierenden Methoden und Verfahren aus der Windenergiebranche gelernt und diese in den Bereich der Photovoltaik übertragen werden. Für den Endanwender soll damit eine einfache Vergleichs- und Bewertungsmöglichkeit für Photovoltaik-Wechselrichter hinsichtlich Qualität und Performance über die gesamte Einsatzzeit geschaffen werden.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 110001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jan Liersch",
+"funktion": "Geschäftsstellenleiter",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005011/87437",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Horst Schulte",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005011/87437",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Dirk Kunze",
+"funktion": "stellv. Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005011/87437",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Kay Herbst",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005011/87437",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Markus Dietmannsberger",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005011/87437",
+"stand": "2026-10-12"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 490001,
+"bis": 500000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/dd/19/860122/1-1-Jahresabschluss-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005011/87437",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-12",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

@@ -1,0 +1,385 @@
+{
+"id": "arbeitsgemeinschaft-baeuerliche-landwirtschaft-bauernblatt",
+"name": "Arbeitsgemeinschaft bäuerliche Landwirtschaft / Bauernblatt e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Hamm/Westfalen",
+"website": "https://www.abl-ev.de/start/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002556",
+"eintrag_id": 63185,
+"version": 10,
+"stand": "2026-04-28",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002556/63185",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/e2/3d/728749/Lobbyregister-Registereintraege-Detailansicht-R002556-2026-04-28_15-30-28.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) über Engagement Global (EG)",
+"epl": "23",
+"von": 30001,
+"bis": 40000,
+"zweck": "BMZ/FEB Projekt: Globale Nachhaltigkeitsziele in Zeiten von Krieg und Krisen - Motivation für die Umsetzung bis 2030 im Austausch mit dem Süden",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Naturschutz",
+"epl": "16",
+"von": 30001,
+"bis": 40000,
+"zweck": "GAP nach 2020: Für einen zukunftsfähigen Gesellschaftsvertrag mit der Landwirtschaft - Umsetzung gesamtgesellschaftlicher Anforderungen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Landwirtschaftliche Rentenbank",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "Umbau der Tierhaltung unter besonderer Berücksichtigung der Chancen und Herausforderungen der gesamten Wertschöpfungskette und Herkunftskennzeichnung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Landwirtschaftliche Rentenbank",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "Junglandwirt:innen gezielt fördern!",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 100004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Martin Schulz",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002556/63185",
+"stand": "2026-04-28"
+}
+},
+{
+"name": "Lucia Heigl",
+"funktion": "Kooptierte Vorständin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002556/63185",
+"stand": "2026-04-28"
+}
+},
+{
+"name": "Reiko Wöllert",
+"funktion": "Stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002556/63185",
+"stand": "2026-04-28"
+}
+},
+{
+"name": "Claudia Schievelbein",
+"funktion": "stell. Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002556/63185",
+"stand": "2026-04-28"
+}
+},
+{
+"name": "Elisabeth Waizenegger",
+"funktion": "Kassiererin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002556/63185",
+"stand": "2026-04-28"
+}
+},
+{
+"name": "Claudia Gerster",
+"funktion": "Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002556/63185",
+"stand": "2026-04-28"
+}
+},
+{
+"name": "Anne-Monika Spallek",
+"funktion": "Beisitzerin im Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-02"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002556/63185",
+"stand": "2026-04-28"
+}
+},
+{
+"name": "Florian Fassbinder",
+"funktion": "Beisitzer im Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002556/63185",
+"stand": "2026-04-28"
+}
+},
+{
+"name": "Dorothee Sterz",
+"funktion": "Schriftführerin im Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002556/63185",
+"stand": "2026-04-28"
+}
+},
+{
+"name": "Bernd Voß",
+"funktion": "Beisitzer im Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002556/63185",
+"stand": "2026-04-28"
+}
+},
+{
+"name": "Berit Thomsen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002556/63185",
+"stand": "2026-04-28"
+}
+},
+{
+"name": "Annemarie Volling",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002556/63185",
+"stand": "2026-04-28"
+}
+},
+{
+"name": "Phillip Brändle",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2022-07"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002556/63185",
+"stand": "2026-04-28"
+}
+},
+{
+"name": "Xenia Brand",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2023-07"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002556/63185",
+"stand": "2026-04-28"
+}
+},
+{
+"name": "Henrik Maaß",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002556/63185",
+"stand": "2026-04-28"
+}
+},
+{
+"name": "Bernd Schmitz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002556/63185",
+"stand": "2026-04-28"
+}
+},
+{
+"name": "Emma André",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002556/63185",
+"stand": "2026-04-28"
+}
+},
+{
+"name": "Ilchmann Ottmar",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002556/63185",
+"stand": "2026-04-28"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Anne-Monika Spallek",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag, bis 2025-02",
+"funktion_beim_empfaenger": "Beisitzerin im Vorstand",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Anne-Monika Spallek ist laut Lobbyregister Beisitzerin im Vorstand bei Arbeitsgemeinschaft bäuerliche Landwirtschaft / Bauernblatt e.V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag, bis 2025-02. Arbeitsgemeinschaft bäuerliche Landwirtschaft / Bauernblatt e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) über Engagement Global (EG); Bundesamt für Naturschutz; Landwirtschaftliche Rentenbank.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) über Engagement Global (EG)",
+"Bundesamt für Naturschutz",
+"Landwirtschaftliche Rentenbank"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002556/63185",
+"stand": "2026-04-28"
+}
+],
+"stand": "2026-04-28"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Phillip Brändle",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2022-07",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Phillip Brändle ist laut Lobbyregister Interessenvertretung bei Arbeitsgemeinschaft bäuerliche Landwirtschaft / Bauernblatt e.V. und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2022-07. Arbeitsgemeinschaft bäuerliche Landwirtschaft / Bauernblatt e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) über Engagement Global (EG); Bundesamt für Naturschutz; Landwirtschaftliche Rentenbank.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) über Engagement Global (EG)",
+"Bundesamt für Naturschutz",
+"Landwirtschaftliche Rentenbank"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002556/63185",
+"stand": "2026-04-28"
+}
+],
+"stand": "2026-04-28"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Xenia Brand",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-07",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Xenia Brand ist laut Lobbyregister Interessenvertretung bei Arbeitsgemeinschaft bäuerliche Landwirtschaft / Bauernblatt e.V. und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-07. Arbeitsgemeinschaft bäuerliche Landwirtschaft / Bauernblatt e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) über Engagement Global (EG); Bundesamt für Naturschutz; Landwirtschaftliche Rentenbank.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) über Engagement Global (EG)",
+"Bundesamt für Naturschutz",
+"Landwirtschaftliche Rentenbank"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002556/63185",
+"stand": "2026-04-28"
+}
+],
+"stand": "2026-04-28"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 300001,
+"bis": 310000
+},
+"lobbyausgaben": {
+"von": 230001,
+"bis": 240000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/15/11/728742/AbL-e-V-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002556/63185",
+"abgerufen": "2026-11-02",
+"stand": "2026-04-28",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

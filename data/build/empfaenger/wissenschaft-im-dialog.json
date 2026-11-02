@@ -1,0 +1,86 @@
+{
+"id": "wissenschaft-im-dialog",
+"name": "Wissenschaft im Dialog gGmbH",
+"art": "forschung",
+"rechtsform": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+"sitz": "Berlin",
+"website": "https://www.wissenschaft-im-dialog.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003375",
+"eintrag_id": 78082,
+"version": 8,
+"stand": "2026-06-08",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003375/78082",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/94/29/752112/Lobbyregister-Registereintraege-Detailansicht-R003375-2026-06-08_11-53-15.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 3030001,
+"bis": 3040000,
+"zweck": "Projektförderungen sowie Auftrag für die MS Wissenschaft",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 3030001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Benedikt Fecher",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003375/78082",
+"stand": "2026-06-08"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 50001,
+"bis": 60000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/0a/df/752111/250714_Jahresabschlussbericht_Wissenschaft_im_Dialog.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003375/78082",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-08",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

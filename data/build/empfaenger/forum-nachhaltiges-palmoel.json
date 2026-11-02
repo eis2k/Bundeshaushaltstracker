@@ -1,0 +1,191 @@
+{
+"id": "forum-nachhaltiges-palmoel",
+"name": "Forum Nachhaltiges Palmöl e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bonn",
+"website": "https://www.forumpalmoel.org/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004049",
+"eintrag_id": 80166,
+"version": 10,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004049/80166",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/78/ba/792007/Lobbyregister-Registereintraege-Detailansicht-R004049-2026-06-30_14-37-28.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 20001,
+"bis": 30000,
+"zweck": "Das BMZ unterstützt die Umsetzung des FONAP-Sekretariats durch die Deutsche Gesellschaft für Internationale Zusammenarbeit (Personal, Reisekosten, Raumkosten, externe Dienstleistungen wie Moderationen oder Grafikdesign). Ein direkter Mittelfluss an den FONAP e.V. erfolgt nicht.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 20001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Almut Feller",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004049/80166",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Sascha Tischer",
+"funktion": "Stellvertretender Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004049/80166",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Ulrich Hettinger",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004049/80166",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Reza Azmi",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004049/80166",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Armin Hodzic",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004049/80166",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Urban Treutlein",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Leiter der Abteilung 5",
+"stelle": "Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH) oder dessen Geschäftsbereich",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004049/80166",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Gudrun Schlöpker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004049/80166",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Steffen Kemper",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004049/80166",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Urban Treutlein",
+"funktion_person": "Leiter der Abteilung 5, Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH) oder dessen Geschäftsbereich",
+"funktion_beim_empfaenger": "Vorstandsmitglied",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Urban Treutlein ist laut Lobbyregister Vorstandsmitglied bei Forum Nachhaltiges Palmöl e.V. und hatte zuvor eine öffentliche Funktion: Leiter der Abteilung 5, Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH) oder dessen Geschäftsbereich. Forum Nachhaltiges Palmöl e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004049/80166",
+"stand": "2026-06-30"
+}
+],
+"stand": "2026-06-30"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 270001,
+"bis": 280000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/0f/ff/792006/FONAP-Rechenschaftsbericht-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004049/80166",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

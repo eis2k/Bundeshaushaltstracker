@@ -1,0 +1,141 @@
+{
+"id": "jugend-enquete-kommission",
+"name": "Jugend-Enquete-Kommission e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Feldkirchen ",
+"website": "www.jugend-enquete-kommission.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006713",
+"eintrag_id": 81196,
+"version": 5,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006713/81196",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/bd/76/787293/Lobbyregister-Registereintraege-Detailansicht-R006713-2026-06-30_08-04-48.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundeszentrale für politische Bildung",
+"epl": "06",
+"von": 30001,
+"bis": 40000,
+"zweck": "Die BPB unterstütze uns in unserer Arbeit! Sie ermöglichte uns die Einführung einer Ehrenamtspauschale, sowie die Übergabe des Policy Papers der JEK24. Zudem förderte sie uns bei der Durchführung der Auftaktveranstaltung und des Kommissinsevents.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 30001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jan Hensel",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006713/81196",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Justus Weber",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006713/81196",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Katharina Wimmer",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006713/81196",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Catharina Brock",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006713/81196",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Jonas Hohenforst",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006713/81196",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Stella Imo",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006713/81196",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 70001,
+"bis": 80000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/b2/8e/787292/Kassenpruefbericht_2026.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006713/81196",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

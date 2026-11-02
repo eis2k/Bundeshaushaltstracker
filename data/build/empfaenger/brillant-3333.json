@@ -1,0 +1,96 @@
+{
+"id": "brillant-3333",
+"name": "Brillant 3333. GmbH (MNRCH.NET)",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "https://brillant3333.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006646",
+"eintrag_id": 87737,
+"version": 7,
+"stand": "2026-10-19",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006646/87737",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/27/80/863114/Lobbyregister-Registereintraege-Detailansicht-R006646-2026-10-19_13-45-03.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 840001,
+"bis": 850000,
+"zweck": "Zuwendung des Auswärtigen Amtes in Form der Projektförderung für Maßnahmen der Abrüstung, Rüstungskontrolle und Nichtverbreitungszusammenarbeit.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 840001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "James Tucker",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006646/87737",
+"stand": "2026-10-19"
+}
+},
+{
+"name": "Marcus Ryan",
+"funktion": "Head of Finance",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006646/87737",
+"stand": "2026-10-19"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 100001,
+"bis": 110000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ff/00/863113/Brillant-3333-GmbH-JAE-31-12-2025-Lobby-Reg.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006646/87737",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-19",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

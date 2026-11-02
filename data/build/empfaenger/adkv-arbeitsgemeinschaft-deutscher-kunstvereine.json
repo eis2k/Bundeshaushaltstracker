@@ -1,0 +1,108 @@
+{
+"id": "adkv-arbeitsgemeinschaft-deutscher-kunstvereine",
+"name": "ADKV. Arbeitsgemeinschaft Deutscher Kunstvereine e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.kunstvereine.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003759",
+"eintrag_id": 75409,
+"version": 8,
+"stand": "2026-05-13",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003759/75409",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f7/d7/735823/Lobbyregister-Registereintraege-Detailansicht-R003759-2026-05-13_08-35-03.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesbeauftragten für Kultur und Medien (BKM)",
+"epl": null,
+"von": 50001,
+"bis": 60000,
+"zweck": "Förderung des Projekts „Kunstvereine im Wandel: Vernetzung als Motor für Zukunftsfähigkeit und kulturelle Teilhabe“ Bewilligungszeitraum: 01.01.2026 - 31.12.2026",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 50001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ursula Schöndeling",
+"funktion": "Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003759/75409",
+"stand": "2026-05-13"
+}
+},
+{
+"name": "Annette Hans",
+"funktion": "Stellv. Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003759/75409",
+"stand": "2026-05-13"
+}
+},
+{
+"name": "Jero van Nieuwkoop",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003759/75409",
+"stand": "2026-05-13"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 50001,
+"bis": 60000
+},
+"lobbyausgaben": {
+"von": 130001,
+"bis": 140000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e6/78/735822/Jahresabschluss-2024-Stand-27-02-2025.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003759/75409",
+"abgerufen": "2026-11-02",
+"stand": "2026-05-13",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

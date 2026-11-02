@@ -1,0 +1,141 @@
+{
+"id": "junges-bioland",
+"name": "Junges Bioland e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Augsburg",
+"website": "https://www.bioland.de/junges-bioland",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006812",
+"eintrag_id": 82259,
+"version": 4,
+"stand": "2026-07-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006812/82259",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f3/51/803840/Lobbyregister-Registereintraege-Detailansicht-R006812-2026-07-03_09-31-59.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesanstalt für Landwirtschaft und Ernährung",
+"epl": "10",
+"von": 80001,
+"bis": 90000,
+"zweck": "Projekttitel: BioBotschafter*innen: Ökologische Landwirtschaft und regionale Wertschöpfung erleben in Beruf und Alltag Dauer: 10.7.2023 - 9.7.2026 Grundlage der Bewilligung ist die „Richtlinie über die Förderung von Projekten zur Information von Verbraucherinnen und Verbrauchern über regionale Wertschöpfungsketten zur Erzeugung von Bioprodukten sowie zur Umsetzung von begleitenden pädagogischen Angeboten“ (RIGE, BAnz AT 05.06.2019 B3) des BMEL.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 80001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Lennart Bertels",
+"funktion": "Vorsitzender / Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006812/82259",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "Daniel Arzt",
+"funktion": "Mitglied, ehem. Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006812/82259",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "Johanna Zierl",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006812/82259",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "Raphael Niemann",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006812/82259",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "Anna Cordes",
+"funktion": "Vorsitzende / Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006812/82259",
+"stand": "2026-07-03"
+}
+},
+{
+"name": "Christoph Sustrate",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006812/82259",
+"stand": "2026-07-03"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/8e/c6/803839/JuB-Bilanz-2025_unterzeichnet.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006812/82259",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-03",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

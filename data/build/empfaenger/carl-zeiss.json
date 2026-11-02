@@ -1,0 +1,151 @@
+{
+"id": "carl-zeiss",
+"name": "Carl Zeiss AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Oberkochen",
+"website": "www.zeiss.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005660",
+"eintrag_id": 75235,
+"version": 24,
+"stand": "2026-06-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005660/75235",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/48/e2/772793/Lobbyregister-Registereintraege-Detailansicht-R005660-2026-06-24_12-35-49.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "VDI/VDE IT",
+"epl": null,
+"von": 240001,
+"bis": 250000,
+"zweck": "13N16771, MultLambdaChip. Integriert-optisches Mehrwellenlängen-Lasersystem für die holographische 3DOberflächenmesstechnik in der industriellen Qualitätssicherung. (231.247 Euro) *16KIS1218 - \"SKINET\". Proaktive Sicherheit durch KI in automobilen und industriellen IT-Netzwerken. (4.572 Euro) 13XP 5214B - SATORIS. Superamphiphobe, robuste Oberflächenstrukturen für optische Systeme (SATORIS) - Teilvorhaben: Erforschung von superamphiphoben, optisch transparenten und mechanisch robusten Oberflächen durch Optische Simulation und Charakterisierung. (7.692 Euro) [Einzelne Zuwendungen aufgrund der technischen Vorgaben des Systems hier in einem Eintrag zusammengefasst.)",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 240001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Sven Hermann",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005660/75235",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Andreas Pecher",
+"funktion": "Vorsitzender des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005660/75235",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Stefan Müller",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005660/75235",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Frank Rohmund",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005660/75235",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Marc Wawerla",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005660/75235",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Fabian Bahr",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005660/75235",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Mareike Dillmann-Schmidt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005660/75235",
+"stand": "2026-06-24"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 320001,
+"bis": 330000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/a6/c8/772792/zeiss_gruppe_geschaeftsbericht_2024-25-pdf-1.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005660/75235",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-24",
+"etikett": "Eigenangabe",
+"version": 24
+}
+]
+}

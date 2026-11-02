@@ -1,0 +1,135 @@
+{
+"id": "kolping-deutschland",
+"name": "Kolping Deutschland",
+"art": "verein_stiftung",
+"rechtsform": "Andere Rechtsform nach deutschem Recht",
+"sitz": "Köln",
+"website": "www.kolping.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003032",
+"eintrag_id": 79928,
+"version": 8,
+"stand": "2026-06-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003032/79928",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/26/47/771149/Lobbyregister-Registereintraege-Detailansicht-R003032-2026-06-24_06-44-05.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Kinder- und Jugendplan des Bundes (KJP)",
+"epl": null,
+"von": 290001,
+"bis": 300000,
+"zweck": "Der Kinder- und Jugendplan ist das zentrale Förderinstrument der Kinder- und Jugendhilfe auf Bundesebene. Die Förderung aus dem KJP unterstützt die Leistungen und die Wahrnehmung anderer Aufgaben zugunsten junger Menschen und Familien nach § 2 SGB VIII und schafft Anregungen durch Sicherung, Stärkung und Weiterentwicklung der Kinder- und Jugendhilfe sowie durch Rahmenbedingungen für eine leistungsfähige bundeszentrale Infrastruktur der Kinder- und Jugendhilfe.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 290001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Sebastian Schulz",
+"funktion": "Bundespräses",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003032/79928",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Alexandra Horster",
+"funktion": "Bundessekretärin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003032/79928",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Peter Johannes Kube",
+"funktion": "Bundesjugendsekretär",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003032/79928",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Klaudia Rudersdorf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003032/79928",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Sven-Marco Meng",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003032/79928",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Michaela  Brönner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003032/79928",
+"stand": "2026-06-24"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Sonstiges",
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 4590001,
+"bis": 4600000
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": null
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003032/79928",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-24",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

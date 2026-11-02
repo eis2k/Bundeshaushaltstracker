@@ -1,0 +1,85 @@
+{
+"id": "joblinge",
+"name": "JOBLINGE e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "München",
+"website": "www.joblinge.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006166",
+"eintrag_id": 72638,
+"version": 6,
+"stand": "2026-06-18",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006166/72638",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/14/c2/764146/Lobbyregister-Registereintraege-Detailansicht-R006166-2026-06-18_15-09-34.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Deutsche Stiftung für Engagement und Ehrenamt",
+"epl": null,
+"von": 90001,
+"bis": 100000,
+"zweck": "Zuwendung als Projektförderung der Deutschen Stiftung für Engagement und Ehrenamt zur Stärkung und Förderung von bürgerschaftlichem Engagement und Ehrenamt im Programm \"Ehrenamt gewinnen. Engagement binden. Zivilgesellschaft stärken.\" Projekt: Gemeinsam wachsen - Peer-to-Peer Learning im basecamp. Förderzeitraum 01.10.2025 bis 31.03.2027. Mit dem neuen Peer-to-Peer-Ansatz im basecamp sollen bereits aktive Azubis und Alumni als Mentor*innen fungieren. Diese haben selbst den Übergang in den Beruf gemeistert und können ihre Erfahrungen auf Augenhöhe weitergeben. Diese Form der Unterstützung baut Hemmschwellen ab, fördert gegenseitige Motivation und stärkt die soziale Bindung unter den Teilnehmenden - im Vergleich zum bisherigen Mentoring durch erfahrene Fachkräfte.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 90001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Kadim Tas",
+"funktion": "CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006166/72638",
+"stand": "2026-06-18"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 3450001,
+"bis": 3460000
+},
+"mitgliedsbeitraege": {
+"von": 190001,
+"bis": 200000
+},
+"lobbyausgaben": {
+"von": 50001,
+"bis": 60000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/25/8b/764141/JOBLINGE-e-V-Jahresabschluss-Pruefungsbereicht-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006166/72638",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-18",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

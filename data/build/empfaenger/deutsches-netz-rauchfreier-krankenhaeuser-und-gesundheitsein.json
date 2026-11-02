@@ -1,0 +1,116 @@
+{
+"id": "deutsches-netz-rauchfreier-krankenhaeuser-und-gesundheitsein",
+"name": "Deutsches Netz Rauchfreier Krankenhäuser & Gesundheitseinrichtungen ",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.rauchfrei-plus.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006564",
+"eintrag_id": 76775,
+"version": 3,
+"stand": "2026-08-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006564/76775",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/d3/47/834407/Lobbyregister-Registereintraege-Detailansicht-R006564-2026-08-24_16-22-24.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesinstitut für Öffentliche Gesundheit",
+"epl": "15",
+"von": 210001,
+"bis": 220000,
+"zweck": "Implementierung von Screening, Kurzintervention und Vermittlung von rauchenden Patientinnen und Patienten in die Rauchstoppberatung am Telefon des Bundesinstituts für Öffentliche Gesundheit BIÖG in Kliniken, Arztpraxen, Beratungsstellen, Apotheken und Betriebsärztlichen Diensten. Training von Mulitplikatorinnen und Mulitpikatoren, Aufbau eines Internetauftritts, Kommunikation des Angebots, Betreuung der teilnehmenden Einrichtungen, zielgruppenangepasste Medienentwicklung zur Information, Motivation und Implementierung von entsprechenden Behandlungsprozessen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "DAK-Gesundheit",
+"epl": null,
+"von": 220001,
+"bis": 230000,
+"zweck": "Aufbau eines Netzwerks für Pflegeschulen zur Implementierung des Programms \"astra plus Gesundheitskompetenz - Rauchfrei in der Pflege\". Förderung einer Maßnahme zur Primärprävention nach § 20b SGB Betriebliche Gesundheitsförderung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 430002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christian Grah",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006564/76775",
+"stand": "2026-08-24"
+}
+},
+{
+"name": "Reto Cina",
+"funktion": "Stellvertretender Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006564/76775",
+"stand": "2026-08-24"
+}
+},
+{
+"name": "Christa Rustler",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006564/76775",
+"stand": "2026-08-24"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 30001,
+"bis": 40000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/a1/c1/834403/DNRfK-2024-aktuell.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006564/76775",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-24",
+"etikett": "Eigenangabe",
+"version": 3
+}
+]
+}

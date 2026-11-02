@@ -1,0 +1,123 @@
+{
+"id": "deutscher-bibliotheksverband",
+"name": "Deutscher Bibliotheksverband e.V. (dbv)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.bibliotheksverband.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003275",
+"eintrag_id": 83278,
+"version": 10,
+"stand": "2026-07-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003275/83278",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/92/ca/822644/Lobbyregister-Registereintraege-Detailansicht-R003275-2026-07-30_09-37-56.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministeriums für Bildung und Forschung (BMBF), seit Mai 2025 Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ)",
+"epl": null,
+"von": 1050001,
+"bis": 1060000,
+"zweck": "Mit dem Programm „Gemeinsam Digital! Kreativ mit Medien“ fördert der Deutsche Bibliotheksverband e.V. (dbv) lokale Projekte der digitalen Leseförderung für Kinder und Jugendliche im Alter von drei bis 18 Jahren. Ziel ist es, insbesondere Kinder und Jugendliche aus Risikolagen zu erreichen und ihnen zusätzliche Bildungschancen zu eröffnen. Das Programm ist Teil der dritten Förderphase des Bundesprogramms „Kultur macht stark“ (2023-2027) des Bundesministeriums für Bildung und Forschung (BMBF)/Bundesministeriums für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ).",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung (BMBF), seit Mai 2025 Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ)",
+"epl": "30",
+"von": 190001,
+"bis": 200000,
+"zweck": "Im Fokus der zweiten Förderphase von \"Netzwerk Bibliothek Medienbildung\" stehen kleinere Bibliotheken in ländlichen Regionen, deren Mitarbeitende gezielt dabei unterstützt werden sollen, eigene medienpädagogische Angebote auszubauen und Kooperationen mit Schulen und Kitas zu professionalisieren. Hierzu werden im Projekt fortlaufend praxisorientierte Qualifizierungsangeboteentwickelt und umgesetzt. Auch von 2022-2025 erhält das Projekt wieder fachliche Unterstützung von Expert*innen der Medienbildung in Bibliotheken. Das ExpertInnen-Team wurde hinsichtlich des neuen inhaltlichen Förderschwerpunkts neu aufgestellt.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundeszentrale für politische Bildung (bpb)",
+"epl": "06",
+"von": 10001,
+"bis": 20000,
+"zweck": "Die Bundeszentrale für politische Bildung (bpb) förderte den 3. Bibliothekspolitischen Bundeskongess, der unter dem Motto „Räume für eine offene Gesellschaft und Wissenschaft“ am 9. Oktober 2025 in Berlin stattfand. Rund 200 Teilnehmende aus Bibliotheken, Politik, Wissenschaft, Kultur und Zivilgesellschaft diskutierten, wie Bibliotheken in Zeiten globaler Krisen, von Desinformation und sozialer Fragmentierung ihren Beitrag zu gesellschaftlichem Zusammenhalt, digitaler Souveränität und Teilhabe leisten können. Gefördert wurde der Kongress außerdem von der gemeinnützigen Allianz Foundation mit 13.176,77 EUR gefördert.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1250003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Antje Theise",
+"funktion": "Bundesvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003275/83278",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Holger Jens Krimmer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003275/83278",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Verena Harpe",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003275/83278",
+"stand": "2026-07-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 10001,
+"bis": 20000
+},
+"mitgliedsbeitraege": {
+"von": 1190001,
+"bis": 1200000
+},
+"lobbyausgaben": {
+"von": 150001,
+"bis": 160000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ce/33/822643/JA-Bericht-final-s_w-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003275/83278",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-30",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

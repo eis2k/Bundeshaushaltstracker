@@ -1,0 +1,216 @@
+{
+"id": "mb-energy-holding",
+"name": "MB Energy Holding GmbH & Co.KG",
+"art": "unternehmen",
+"rechtsform": "Sonstige Personengesellschaft",
+"sitz": "Hamburg",
+"website": "www.mbenergy.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004746",
+"eintrag_id": 84892,
+"version": 30,
+"stand": "2026-08-20",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004746/84892",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/14/eb/833113/Lobbyregister-Registereintraege-Detailansicht-R004746-2026-08-20_12-24-13.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Projektträger Jülich",
+"epl": "30",
+"von": 250001,
+"bis": 260000,
+"zweck": "Verbundvorhaben SoIMeth24: Entwicklung, Bau und Inbetriebnahme einer einzigartigen solaren Methanolproduktionsanlage in Australien. Teilvorhaben: MB Energy (vormals Mabanaft) https://www.bmwk.de/Redaktion/DE/Wasserstoff/Foerderung-International-Beispiele/12-hygate-foerderung-eines-deutsch-australischen-wasser-stoff-innovations-und-technologie-inkubators.html",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 250001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jonathan Perkins",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004746/84892",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Volker Ebeling",
+"funktion": "SVP New Energy, Supply & Infrastructure",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004746/84892",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Andre Cardoso",
+"funktion": "SVP Marketing",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004746/84892",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Philipp Krone",
+"funktion": "CTO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004746/84892",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Uta Weiß",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004746/84892",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Oleksandr Siromakha",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004746/84892",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Katja Freitag",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004746/84892",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Philipp Kroepels",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004746/84892",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Arne Weber",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004746/84892",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Simon Weiss",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004746/84892",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Saskia Weis",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004746/84892",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Adrian Herberger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004746/84892",
+"stand": "2026-08-20"
+}
+},
+{
+"name": "Tanja Thiele",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004746/84892",
+"stand": "2026-08-20"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 570001,
+"bis": 580000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e2/64/833107/20037666_End_TE_JA2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004746/84892",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-20",
+"etikett": "Eigenangabe",
+"version": 30
+}
+]
+}

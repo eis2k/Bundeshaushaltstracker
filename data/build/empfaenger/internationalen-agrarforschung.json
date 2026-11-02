@@ -1,0 +1,84 @@
+{
+"id": "internationalen-agrarforschung",
+"name": "internationalen Agrarforschung",
+"art": "unternehmen",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "23-2303-68703",
+"text": "Förderung der internationalen Agrarforschung",
+"epl": "23",
+"epl_text": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"werte": {
+"2015": {
+"soll": 20000000,
+"ist": 20000000
+},
+"2016": {
+"soll": 20000000,
+"ist": 20000000
+},
+"2017": {
+"soll": 20000000,
+"ist": 20000000
+},
+"2018": {
+"soll": 20000000,
+"ist": 20000000
+},
+"2019": {
+"soll": 20000000,
+"ist": 20000000
+},
+"2020": {
+"soll": 35000000,
+"ist": 35000000
+},
+"2021": {
+"soll": 35000000,
+"ist": 35000000
+},
+"2022": {
+"soll": 35000000,
+"ist": 35000000
+},
+"2023": {
+"soll": 32000000,
+"ist": 32000000
+},
+"2024": {
+"soll": 32000000,
+"ist": 32000000
+},
+"2025": {
+"soll": 32000000,
+"ist": 32000000
+},
+"2026": {
+"soll": 28080000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

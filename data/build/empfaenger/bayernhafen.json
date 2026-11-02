@@ -1,0 +1,136 @@
+{
+"id": "bayernhafen",
+"name": "Bayernhafen GmbH & Co. KG",
+"art": "unternehmen",
+"rechtsform": "Kommanditgesellschaft (KG)",
+"sitz": "Regensburg",
+"website": "www.bayernhafen.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007162",
+"eintrag_id": 81466,
+"version": 4,
+"stand": "2026-07-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007162/81466",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/df/0f/797348/Lobbyregister-Registereintraege-Detailansicht-R007162-2026-07-01_07-42-51.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Eisenbahn Bundesamt",
+"epl": "12",
+"von": 1720001,
+"bis": 1730000,
+"zweck": "SGFFG Förderung Bahninfrastruktur",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Eisenbahn Bundesamt",
+"epl": "12",
+"von": 620001,
+"bis": 630000,
+"zweck": "Zuschuss Reachstackerbeschaffung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 2340002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Joachim Zimmermann",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007162/81466",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Verena Riehl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007162/81466",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Karin Moro",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007162/81466",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Alexander Zeiger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007162/81466",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Klaus Hohberger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007162/81466",
+"stand": "2026-07-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/f0/a5/797347/Pruefbericht_Bayernhafen-GmbH-Co-KG_31-12-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007162/81466",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-01",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

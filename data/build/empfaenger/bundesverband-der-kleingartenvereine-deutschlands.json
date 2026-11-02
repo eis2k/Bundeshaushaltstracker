@@ -1,0 +1,223 @@
+{
+"id": "bundesverband-der-kleingartenvereine-deutschlands",
+"name": "Bundesverband der Kleingartenvereine Deutschlands e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.kleingarten-bund.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002960",
+"eintrag_id": 80186,
+"version": 9,
+"stand": "2026-06-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002960/80186",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/6f/db/772175/Lobbyregister-Registereintraege-Detailansicht-R002960-2026-06-24_10-51-21.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen (BMWSB)",
+"epl": "25",
+"von": 40001,
+"bis": 50000,
+"zweck": "Zuschuss zur Schulungsmaßnahmen Recht I, Recht II und Umwelt in 2025 und Nachzahlung Seminare 2024",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Ernährung und Landwirtschaft",
+"epl": "10",
+"von": 10001,
+"bis": 20000,
+"zweck": "Zuschuss zur Schulungsmaßnahme Fachberatung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministeriums für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV)",
+"epl": null,
+"von": 70001,
+"bis": 80000,
+"zweck": "Bundesprogramm Biologische Vielfalt - hier \"Kleingärten für Biologische Vielfalt\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 120003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Dirk Sielmann",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002960/80186",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Udo Seiffert",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002960/80186",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Hansjörg Kefeder",
+"funktion": "Präsidiumsmitglied Finanzen",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002960/80186",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Sandra Böhme",
+"funktion": "Präsidiumsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002960/80186",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Martin Klöden",
+"funktion": "Präsidiumsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002960/80186",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Robert Kröger",
+"funktion": "Präsidiumsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002960/80186",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Pasquale Lüthin",
+"funktion": "Präsidiumsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002960/80186",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Thomas Kleinworth",
+"funktion": "Bundesfachberater",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002960/80186",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Stefan Grundei",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002960/80186",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Eva Foos",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002960/80186",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Sandra von Rekowski",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002960/80186",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Thomas Stölting",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002960/80186",
+"stand": "2026-06-24"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1380001,
+"bis": 1390000
+},
+"lobbyausgaben": {
+"von": 70001,
+"bis": 80000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/d4/68/772173/BKD_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002960/80186",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-24",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

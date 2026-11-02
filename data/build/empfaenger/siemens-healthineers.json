@@ -1,0 +1,372 @@
+{
+"id": "siemens-healthineers",
+"name": "Siemens Healthineers AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Forchheim",
+"website": "https://www.siemens-healthineers.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002236",
+"eintrag_id": 75971,
+"version": 20,
+"stand": "2026-04-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002236/75971",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/fd/c8/729223/Lobbyregister-Registereintraege-Detailansicht-R002236-2026-04-29_11-29-51.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung (BMBF)",
+"epl": "30",
+"von": 440001,
+"bis": 450000,
+"zweck": "Forschungs- und Entwicklungsprojekte. Details können dem Förderkatalog der Bundesregierung entnommen werden: https://foerderportal.bund.de/foekat/jsp/SucheAction.do;jsessionid=395B9E1B40311419A535F4E773CA2D26?actionMode=searchmask",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 310001,
+"bis": 320000,
+"zweck": "Forschungs- und Entwicklungsprojekte. Details können dem Förderkatalog der Bundesregierung entnommen werden: https://foerderportal.bund.de/foekat/jsp/SucheAction.do;jsessionid=395B9E1B40311419A535F4E773CA2D26?actionMode=searchmask",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz (BMWK) via Bayern Innovativ",
+"epl": "09",
+"von": 70001,
+"bis": 80000,
+"zweck": "Projektbezogene Forschungsförderung",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 820003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Bernhard Montag",
+"funktion": "CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002236/75971",
+"stand": "2026-04-29"
+}
+},
+{
+"name": "Jochen Schmitz",
+"funktion": "CFO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002236/75971",
+"stand": "2026-04-29"
+}
+},
+{
+"name": "Darleen Caron",
+"funktion": "CHRO und Arbeitsdirektorin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002236/75971",
+"stand": "2026-04-29"
+}
+},
+{
+"name": "Elisabeth Staudinger-Leibrecht",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002236/75971",
+"stand": "2026-04-29"
+}
+},
+{
+"name": "Bernd Ohnesorge",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002236/75971",
+"stand": "2026-04-29"
+}
+},
+{
+"name": "Marc Christopher Schipmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002236/75971",
+"stand": "2026-04-29"
+}
+},
+{
+"name": "Martina Unseld",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002236/75971",
+"stand": "2026-04-29"
+}
+},
+{
+"name": "Frederik Haas",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2023-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002236/75971",
+"stand": "2026-04-29"
+}
+},
+{
+"name": "Nils Wortmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "höherer Dienst (hD)",
+"stelle": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2023-07"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002236/75971",
+"stand": "2026-04-29"
+}
+},
+{
+"name": "Roland Hummel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002236/75971",
+"stand": "2026-04-29"
+}
+},
+{
+"name": "Oliver Fraederich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-08"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002236/75971",
+"stand": "2026-04-29"
+}
+},
+{
+"name": "Marie-Alix Freifrau Ebner von Eschenbach",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002236/75971",
+"stand": "2026-04-29"
+}
+},
+{
+"name": "Veronika Pfister",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002236/75971",
+"stand": "2026-04-29"
+}
+},
+{
+"name": "Lisa Laschke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002236/75971",
+"stand": "2026-04-29"
+}
+},
+{
+"name": "Bernd Fiedler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002236/75971",
+"stand": "2026-04-29"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Frederik Haas",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-03",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Frederik Haas ist laut Lobbyregister Interessenvertretung bei Siemens Healthineers AG und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-03. Siemens Healthineers AG erhielt laut Lobbyregister Mittel von: Bundesministerium für Bildung und Forschung (BMBF); Bundesministerium für Wirtschaft und Energie (BMWE); Bundesministerium für Wirtschaft und Klimaschutz (BMWK) via Bayern Innovativ.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Bildung und Forschung (BMBF)",
+"Bundesministerium für Wirtschaft und Energie (BMWE)",
+"Bundesministerium für Wirtschaft und Klimaschutz (BMWK) via Bayern Innovativ"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002236/75971",
+"stand": "2026-04-29"
+}
+],
+"stand": "2026-04-29"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Nils Wortmann",
+"funktion_person": "höherer Dienst (hD), Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) oder dessen Geschäftsbereich, bis 2023-07",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Nils Wortmann ist laut Lobbyregister Interessenvertretung bei Siemens Healthineers AG und hatte zuvor eine öffentliche Funktion: höherer Dienst (hD), Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) oder dessen Geschäftsbereich, bis 2023-07. Siemens Healthineers AG erhielt laut Lobbyregister Mittel von: Bundesministerium für Bildung und Forschung (BMBF); Bundesministerium für Wirtschaft und Energie (BMWE); Bundesministerium für Wirtschaft und Klimaschutz (BMWK) via Bayern Innovativ.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Bildung und Forschung (BMBF)",
+"Bundesministerium für Wirtschaft und Energie (BMWE)",
+"Bundesministerium für Wirtschaft und Klimaschutz (BMWK) via Bayern Innovativ"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002236/75971",
+"stand": "2026-04-29"
+}
+],
+"stand": "2026-04-29"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Oliver Fraederich",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-08",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Oliver Fraederich ist laut Lobbyregister Interessenvertretung bei Siemens Healthineers AG und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-08. Siemens Healthineers AG erhielt laut Lobbyregister Mittel von: Bundesministerium für Bildung und Forschung (BMBF); Bundesministerium für Wirtschaft und Energie (BMWE); Bundesministerium für Wirtschaft und Klimaschutz (BMWK) via Bayern Innovativ.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Bildung und Forschung (BMBF)",
+"Bundesministerium für Wirtschaft und Energie (BMWE)",
+"Bundesministerium für Wirtschaft und Klimaschutz (BMWK) via Bayern Innovativ"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002236/75971",
+"stand": "2026-04-29"
+}
+],
+"stand": "2026-04-29"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Bernd Fiedler",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Bernd Fiedler ist laut Lobbyregister Interessenvertretung bei Siemens Healthineers AG und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag. Siemens Healthineers AG erhielt laut Lobbyregister Mittel von: Bundesministerium für Bildung und Forschung (BMBF); Bundesministerium für Wirtschaft und Energie (BMWE); Bundesministerium für Wirtschaft und Klimaschutz (BMWK) via Bayern Innovativ.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Bildung und Forschung (BMBF)",
+"Bundesministerium für Wirtschaft und Energie (BMWE)",
+"Bundesministerium für Wirtschaft und Klimaschutz (BMWK) via Bayern Innovativ"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002236/75971",
+"stand": "2026-04-29"
+}
+],
+"stand": "2026-04-29"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1280001,
+"bis": 1290000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/84/54/729220/siemens-healthineers-ir-gesch-ftsbericht-2024.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002236/75971",
+"abgerufen": "2026-11-02",
+"stand": "2026-04-29",
+"etikett": "Eigenangabe",
+"version": 20
+}
+]
+}

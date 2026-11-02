@@ -1,0 +1,110 @@
+{
+"id": "bundesstelle-der-katholischen-landvolkbewegung-deutschlands",
+"name": "Bundesstelle der Katholischen Landvolkbewegung Deutschlands (KLB) e.V.",
+"art": "kirche_wohlfahrt",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bad Honnef",
+"website": "www.klb-deutschland.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002947",
+"eintrag_id": 77398,
+"version": 6,
+"stand": "2026-05-27",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002947/77398",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/62/84/743424/Lobbyregister-Registereintraege-Detailansicht-R002947-2026-05-27_18-52-22.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesanstalt für Landwirtschaft und Ernährung",
+"epl": "10",
+"von": 80001,
+"bis": 90000,
+"zweck": "Zuwendung aus dem Bundeshaushalt für das Haushaltsjahr 2025, Einzel-plan 10, Kapitel 1010, Titel 68602, für das Vorhaben: Vorbereitung, Durchführung und Abwicklung bundeszentraler Informationsveranstaltungen auf dem Gebiet der Ernährungs-, Land- und Forstwirtschaft sowie des gesundheitlichen Verbraucherschutzes in Höhe von 34.831,54 €und Mittel aus dem Chancenprogramm Höfe 2824CPH009 SoeTRA in Höhe von 49.980,96 €",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 80001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Bettina Locklair",
+"funktion": "Bundesgeschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002947/77398",
+"stand": "2026-05-27"
+}
+},
+{
+"name": "Hans Egger",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002947/77398",
+"stand": "2026-05-27"
+}
+},
+{
+"name": "Dagmar Feldmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002947/77398",
+"stand": "2026-05-27"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 40001,
+"bis": 50000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/9d/9d/743423/Bilanz-2025-12_02_2026.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002947/77398",
+"abgerufen": "2026-11-02",
+"stand": "2026-05-27",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

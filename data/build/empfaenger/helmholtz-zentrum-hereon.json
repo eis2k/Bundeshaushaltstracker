@@ -1,0 +1,161 @@
+{
+"id": "helmholtz-zentrum-hereon",
+"name": "Helmholtz-Zentrum hereon GmbH",
+"art": "forschung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Geesthacht",
+"website": "https://www.hereon.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003887",
+"eintrag_id": 85017,
+"version": 16,
+"stand": "2026-08-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003887/85017",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/5a/1b/834345/Lobbyregister-Registereintraege-Detailansicht-R003887-2026-08-24_14-49-34.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesrepublik Deutschland, BMFTR",
+"epl": "60",
+"von": 111740001,
+"bis": 111750000,
+"zweck": "Institutionelle Zuwendung mit Zuwendungsbescheid für den Betrieb und die Investitionen des Helmholtz-Zentrum Hereon. Dies beinhaltet z. B. Zuwendung für Gehälter, Verbrauchsmaterialien, Investitionen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Hermann von Helmholtz-Gemeinschaft Deutscher Forschungszentren e.V. (HGF)",
+"epl": null,
+"von": 1380001,
+"bis": 1390000,
+"zweck": "Projektförderung, Impuls- und Vernetzungsfonds (IVF); Drittmittel, die aufgrund von Drittmittelanträgen eingeworben werden konnten und jeweils spezifischen Forschungsprojekten dienen. Dies umfasst: Personal, Sachmittel und Investitionen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Forschungsgemeinschaft (DFG)",
+"epl": null,
+"von": 2600001,
+"bis": 2610000,
+"zweck": "Zuwendung / Projektförderung; Drittmittel, die aufgrund von Drittmittelanträgen eingeworben werden konnten und jeweils spezifischen Forschungsprojekten dienen. Dies umfasst: Personal, Sachmittel und Investitionen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+"epl": "23",
+"von": 70001,
+"bis": 80000,
+"zweck": "Zuwendung / Projektförderung; Drittmittel, die aufgrund von Drittmittelanträgen eingeworben werden konnten und jeweils spezifischen Forschungsprojekten dienen. Dies umfasst: Personal, Sachmittel und Investitionen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 7370001,
+"bis": 7380000,
+"zweck": "Zuwendung / Projektförderung; Drittmittel, die aufgrund von Drittmittelanträgen eingeworben werden konnten und jeweils spezifischen Forschungsprojekten dienen. Dies umfasst: Personal, Sachmittel und Investitionen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 1790001,
+"bis": 1800000,
+"zweck": "Zuwendung / Projektförderung; Drittmittel, die aufgrund von Drittmittelanträgen eingeworben werden konnten und jeweils spezifischen Forschungsprojekten dienen. Dies umfasst: Personal, Sachmittel und Investitionen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verteidigung (BMVg)",
+"epl": null,
+"von": 810001,
+"bis": 820000,
+"zweck": "Zuwendung / Projektförderung; Drittmittel, die aufgrund von Drittmittelanträgen eingeworben werden konnten und jeweils spezifischen Forschungsprojekten dienen. Dies umfasst: Personal, Sachmittel und Investitionen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH)",
+"epl": "10",
+"von": 40001,
+"bis": 50000,
+"zweck": "Zuwendung / Projektförderung; Drittmittel, die aufgrund von Drittmittelanträgen eingeworben werden konnten und jeweils spezifischen Forschungsprojekten dienen. Dies umfasst: Personal, Sachmittel und Investitionen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 830001,
+"bis": 840000,
+"zweck": "Zuwendung / Projektförderung; Drittmittel, die aufgrund von Drittmittelanträgen eingeworben werden konnten und jeweils spezifischen Forschungsprojekten dienen. Dies umfasst: Personal, Sachmittel und Investitionen.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 126630009,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Theresia Elisabeth Gerndt",
+"funktion": "Kaufmännische Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003887/85017",
+"stand": "2026-08-24"
+}
+},
+{
+"name": "Oliver Zielinski",
+"funktion": "Wissenschaftlicher Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003887/85017",
+"stand": "2026-08-24"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 50001,
+"bis": 60000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e0/8d/834344/Testat_Hereon_2025_digitalesExemplar_signed_signed.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003887/85017",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-24",
+"etikett": "Eigenangabe",
+"version": 16
+}
+]
+}

@@ -1,0 +1,150 @@
+{
+"id": "vereinigung-deutsch-franzoesischer-gesellschaften-fuer-europ",
+"name": "Vereinigung Deutsch-Französischer Gesellschaften für Europa e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Mainz",
+"website": "www.vdfg.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001841",
+"eintrag_id": 79268,
+"version": 11,
+"stand": "2026-06-23",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001841/79268",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/45/f1/769941/Lobbyregister-Registereintraege-Detailansicht-R001841-2026-06-23_12-09-50.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Deutsch-Französischer Bürgerfonds",
+"epl": null,
+"von": 20001,
+"bis": 30000,
+"zweck": "Zuwendung zur Finanzierung Regionalberatung Bürgerfonds Nord sowie Projektförderung und Restsumme aus Kongressförderung aus Vorjahr",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 80001,
+"bis": 90000,
+"zweck": "Finanzierung der Projektstelle \"Transformation der deutsch-französischen Zivilgesellschaft\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 100002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jochen Hake",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001841/79268",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Claus Michael Allmendinger",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001841/79268",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Sylvaine Mody",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001841/79268",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Johannes Jacobi",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001841/79268",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Margarete Mehdorn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001841/79268",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Felix Lennart Hake",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001841/79268",
+"stand": "2026-06-23"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 10001,
+"bis": 20000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/79/c7/769939/ZusJahresabschluss-VDFG-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001841/79268",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-23",
+"etikett": "Eigenangabe",
+"version": 11
+}
+]
+}

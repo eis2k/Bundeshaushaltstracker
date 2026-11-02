@@ -1,0 +1,117 @@
+{
+"id": "balance-erneuerbare-energien",
+"name": "BALANCE Erneuerbare Energien GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Leipzig",
+"website": "https://www.balance-vng.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007167",
+"eintrag_id": 85892,
+"version": 12,
+"stand": "2026-09-16",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007167/85892",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/b9/42/842422/Lobbyregister-Registereintraege-Detailansicht-R007167-2026-09-16_10-08-36.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 80001,
+"bis": 90000,
+"zweck": "Zuschüsse für Investitionen und Aufwand im Rahmen der „Bundesförderung Energie- und Ressourceneffizienz“ (EEW)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 80001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Thomas Fritsch",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007167/85892",
+"stand": "2026-09-16"
+}
+},
+{
+"name": "Friedrich Michael Nollau",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007167/85892",
+"stand": "2026-09-16"
+}
+},
+{
+"name": "Volker Klinkert",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007167/85892",
+"stand": "2026-09-16"
+}
+},
+{
+"name": "Alexander Fröhlich",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007167/85892",
+"stand": "2026-09-16"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 40001,
+"bis": 50000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/6a/7a/842421/Jahresabschluss_BEE_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007167/85892",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-16",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

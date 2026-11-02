@@ -1,0 +1,85 @@
+{
+"id": "stadtwerke-rosenheim",
+"name": "Stadtwerke Rosenheim GmbH & Co. KG",
+"art": "unternehmen",
+"rechtsform": "Kommanditgesellschaft (KG)",
+"sitz": "Rosenheim",
+"website": "https://www.swro.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006391",
+"eintrag_id": 71958,
+"version": 5,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006391/71958",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/46/06/790788/Lobbyregister-Registereintraege-Detailansicht-R006391-2026-06-30_13-20-39.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 90001,
+"bis": 100000,
+"zweck": "- Förderung Altholzvergasung - Förderungsprojekt ILSE - Intelligente Lernende Systeme in Energieverbünden - Förderprojekt Verfahrensoptimierung Holzvergasung - Förderprojekt Reallabor - Messtechnik - Förderprojekt Reallabor Großwärmepumpen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 90001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Heiko Peckmann",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006391/71958",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/13/ad/790787/Offenlegung-Stadtwerke-Rosenheim-GmbH-Co-KG-2024_20251024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006391/71958",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

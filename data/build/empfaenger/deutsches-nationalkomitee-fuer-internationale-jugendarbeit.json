@@ -1,0 +1,172 @@
+{
+"id": "deutsches-nationalkomitee-fuer-internationale-jugendarbeit",
+"name": "Deutsches Nationalkomitee für internationale Jugendarbeit (DNK) ",
+"art": "verein_stiftung",
+"rechtsform": "Netzwerk, Plattform oder andere Form kollektiver Tätigkeit",
+"sitz": "Berlin",
+"website": "www.d-n-k.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007951",
+"eintrag_id": 57675,
+"version": 1,
+"stand": "2026-04-21",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007951/57675",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/45/0a/725371/Lobbyregister-Registereintraege-Detailansicht-R007951-2026-04-21_15-37-49.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 160001,
+"bis": 170000,
+"zweck": "Mittel aus dem Kinder- und Jugendplan des Bundes für Maßnahmen, Personal und Infrastruktur.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 160001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Kirstin Weis",
+"funktion": "Generalsekretärin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007951/57675",
+"stand": "2026-04-21"
+}
+},
+{
+"name": "Özge Erdoğan",
+"funktion": "Sprecherin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007951/57675",
+"stand": "2026-04-21"
+}
+},
+{
+"name": "Kirsten Hasenpusch",
+"funktion": "stellvertretende Sprecherin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007951/57675",
+"stand": "2026-04-21"
+}
+},
+{
+"name": "Alisan Yasar",
+"funktion": "stellvertretender Sprecher",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007951/57675",
+"stand": "2026-04-21"
+}
+},
+{
+"name": "Johanna Börgermann",
+"funktion": "stellvertretende Sprecherin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007951/57675",
+"stand": "2026-04-21"
+}
+},
+{
+"name": "Paula Neher-Old",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007951/57675",
+"stand": "2026-04-21"
+}
+},
+{
+"name": "Carolin Vogt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-04"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007951/57675",
+"stand": "2026-04-21"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Carolin Vogt",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-04",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Carolin Vogt ist laut Lobbyregister Interessenvertretung bei Deutsches Nationalkomitee für internationale Jugendarbeit (DNK)  und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-04. Deutsches Nationalkomitee für internationale Jugendarbeit (DNK)  erhielt laut Lobbyregister Mittel von: Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007951/57675",
+"stand": "2026-04-21"
+}
+],
+"stand": "2026-04-21"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": null
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007951/57675",
+"abgerufen": "2026-11-02",
+"stand": "2026-04-21",
+"etikett": "Eigenangabe",
+"version": 1
+}
+]
+}

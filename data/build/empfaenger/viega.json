@@ -1,0 +1,240 @@
+{
+"id": "viega",
+"name": "Viega GmbH & Co. KG",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Attendorn",
+"website": "www.viega.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003638",
+"eintrag_id": 73637,
+"version": 12,
+"stand": "2026-07-28",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003638/73637",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c6/cc/821505/Lobbyregister-Registereintraege-Detailansicht-R003638-2026-07-28_15-14-23.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz (Projektträger Forschungszentrum Jülich)",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "Verbundvorhaben: EnOB: TA-DTE-XL - Technische Anforderungen an Durchfluss-Trinkwassererwärmer zur Steigerung von Energieeffizienz und Komfort großer, regenerativer Wärmezentralen; Teilvorhaben: Objektmessungen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 100001,
+"bis": 110000,
+"zweck": "Richtlinie für die Bundesförderung für Energie- und Ressourceneffizienz in der Wirtschaft - BAFA EEW 7160939",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "Richtlinie für die Bundesförderung für Energie- und Ressourceneffizienz in der Wirtschaft - BAFA EEW7157973",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "Richtlinie für die Bundesförderung für Energie- und Ressourceneffizienz in der Wirtschaft - BAFA EEW 7157974",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 170004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Sebastian Lelgemann",
+"funktion": "Geschäftsführer ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003638/73637",
+"stand": "2026-07-28"
+}
+},
+{
+"name": "Michael Klenz",
+"funktion": "Geschäftsführer ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003638/73637",
+"stand": "2026-07-28"
+}
+},
+{
+"name": "Christian Schauer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003638/73637",
+"stand": "2026-07-28"
+}
+},
+{
+"name": "Anna Viegener",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003638/73637",
+"stand": "2026-07-28"
+}
+},
+{
+"name": "Andreas Fiefhaus",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003638/73637",
+"stand": "2026-07-28"
+}
+},
+{
+"name": "Katharina Schulte",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003638/73637",
+"stand": "2026-07-28"
+}
+},
+{
+"name": "Walter Viegener",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003638/73637",
+"stand": "2026-07-28"
+}
+},
+{
+"name": "Markus Brettschneider",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003638/73637",
+"stand": "2026-07-28"
+}
+},
+{
+"name": "Peter Schöler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003638/73637",
+"stand": "2026-07-28"
+}
+},
+{
+"name": "Daniel Quick",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003638/73637",
+"stand": "2026-07-28"
+}
+},
+{
+"name": "Franz Viegener",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003638/73637",
+"stand": "2026-07-28"
+}
+},
+{
+"name": "Dieter Hellekes",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003638/73637",
+"stand": "2026-07-28"
+}
+},
+{
+"name": "Karsten Müller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003638/73637",
+"stand": "2026-07-28"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 90001,
+"bis": 100000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/a7/f8/821503/Bilanz_GuV_2024_in-TEUR.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003638/73637",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-28",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

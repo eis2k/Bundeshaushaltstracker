@@ -1,0 +1,203 @@
+{
+"id": "nabu-landesverband-baden-wuerttemberg",
+"name": "NABU (Naturschutzbund Deutschland), Landesverband Baden-Württemberg e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Stuttgart",
+"website": "www.nabu-bw.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R008192",
+"eintrag_id": 85520,
+"version": 2,
+"stand": "2026-09-04",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008192/85520",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ce/f0/838587/Lobbyregister-Registereintraege-Detailansicht-R008192-2026-09-04_14-12-52.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesumweltministerium",
+"epl": null,
+"von": 60001,
+"bis": 70000,
+"zweck": "Zuschuss für Projekt \"MenschNatur\" im Bundesprogramm für biologische Vielfalt",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesumweltministerium",
+"epl": null,
+"von": 130001,
+"bis": 140000,
+"zweck": "Zuschuss für das Verbundprojekt \"Rebhuhn retten\" im Bundesprogramm für biologische Vielfalt",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesumweltministerium",
+"epl": null,
+"von": 120001,
+"bis": 130000,
+"zweck": "Zuschuss für das Projekt \"Naturvielfalt Westallgäu\" im Bundesprogramm biologische Vielfalt. Gleichzeitig Rückerstattung von nicht verausgabten Zuschüssen aus Vorjahren i. H. v. 343.980 EUR",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 310003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Johannes Enssle",
+"funktion": "Landesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008192/85520",
+"stand": "2026-09-04"
+}
+},
+{
+"name": "Thomas Hoffmann",
+"funktion": "1. stellvertretender Landesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008192/85520",
+"stand": "2026-09-04"
+}
+},
+{
+"name": "Markus Röhl",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008192/85520",
+"stand": "2026-09-04"
+}
+},
+{
+"name": "Egbert Badey",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008192/85520",
+"stand": "2026-09-04"
+}
+},
+{
+"name": "Andrea Frank-Bühler",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008192/85520",
+"stand": "2026-09-04"
+}
+},
+{
+"name": "Katrin Heer",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008192/85520",
+"stand": "2026-09-04"
+}
+},
+{
+"name": "Cornelia Sautter",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008192/85520",
+"stand": "2026-09-04"
+}
+},
+{
+"name": "Clara Staß",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008192/85520",
+"stand": "2026-09-04"
+}
+},
+{
+"name": "Sophie Wiggenhauser",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008192/85520",
+"stand": "2026-09-04"
+}
+},
+{
+"name": "Finn Zenker",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008192/85520",
+"stand": "2026-09-04"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Sonstiges",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 430001,
+"bis": 440000
+},
+"mitgliedsbeitraege": {
+"von": 2480001,
+"bis": 2490000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/04/6f/838586/2026-08-06-NABU-BW-JB-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008192/85520",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-04",
+"etikett": "Eigenangabe",
+"version": 2
+}
+]
+}

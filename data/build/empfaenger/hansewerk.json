@@ -1,0 +1,223 @@
+{
+"id": "hansewerk",
+"name": "HanseWerk AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Quickborn",
+"website": "www.hansewerk.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002503",
+"eintrag_id": 85984,
+"version": 19,
+"stand": "2026-09-17",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002503/85984",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/49/e5/843107/Lobbyregister-Registereintraege-Detailansicht-R002503-2026-09-17_17-54-17.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 70001,
+"bis": 80000,
+"zweck": "VeN²uS - Vernetzte Netzschutzsysteme ' Adaptiv und vernetzt ' Teilvorhaben: Entwicklung und Felderprobung vernetzter adaptiver Schutztechnik (EVA)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 210001,
+"bis": 220000,
+"zweck": "PROGRESS. Verbundvorhaben: Erprobung kurativer Entlastungsmaßnahmen in Höchst- und Hochspannungsnetzen; Teilvorhaben: Netzebenenübergreifende Interaktion an der Schnittstelle VNB/ÜNB (NELE)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 80001,
+"bis": 90000,
+"zweck": "BEW Modul 1 Förderung: Machbarkeitsstudie bzgl. des Anschlusses eines Quartiers an ein Wärmenetz und der Dekarbonisierung des Wärmenetzes mit einer Wärmepumpe in Hamburg",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "BEW Modul 1 Förderung: Transformationsplan bezüglich der Dekarbonisierung eines Wärmenetzes in Langenhorn",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "Bundesförderung für effiziente Gebäude Einzelmaßnahme: Errichtung eines grünen Energieerzeugers und Anschluss an ein Wärmenetz in Hamburg",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 230001,
+"bis": 240000,
+"zweck": "BAFA Wärmenetze 4.0: Machbarkeitsstudie für die Dekarbonisierung eines Wärmenetzes in Hamburg",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 650006,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Stephanie Ladwig",
+"funktion": "Vorstand Personal",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002503/85984",
+"stand": "2026-09-17"
+}
+},
+{
+"name": "Benjamin Merkt",
+"funktion": "Vorstand Technik",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002503/85984",
+"stand": "2026-09-17"
+}
+},
+{
+"name": "Christian Fenger",
+"funktion": "Vorstandsvorsitzender und Vorstand Finanzen",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002503/85984",
+"stand": "2026-09-17"
+}
+},
+{
+"name": "Malte Hinrichsen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002503/85984",
+"stand": "2026-09-17"
+}
+},
+{
+"name": "Jörg Rudat",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002503/85984",
+"stand": "2026-09-17"
+}
+},
+{
+"name": "Christoph Jansen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002503/85984",
+"stand": "2026-09-17"
+}
+},
+{
+"name": "Ann-Cathrin Rönsch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002503/85984",
+"stand": "2026-09-17"
+}
+},
+{
+"name": "Julia Wachweger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002503/85984",
+"stand": "2026-09-17"
+}
+},
+{
+"name": "Tim Richert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002503/85984",
+"stand": "2026-09-17"
+}
+},
+{
+"name": "Gerta Gerdes-Stolzke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002503/85984",
+"stand": "2026-09-17"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 130001,
+"bis": 140000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/01/36/843104/HanseWerk_Jahresabschluss_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002503/85984",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-17",
+"etikett": "Eigenangabe",
+"version": 19
+}
+]
+}

@@ -1,0 +1,561 @@
+{
+"id": "bundesverband-windenergie",
+"name": "Bundesverband WindEnergie e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://www.wind-energie.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002154",
+"eintrag_id": 87182,
+"version": 51,
+"stand": "2026-10-07",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c4/91/858023/Lobbyregister-Registereintraege-Detailansicht-R002154-2026-10-07_13-25-04.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+"epl": "23",
+"von": 130001,
+"bis": 140000,
+"zweck": "Erhalt öffentlicher Projektfördermittel im Rahmen des Programms „Kammer- und Verbandspartnerschaften (KVP)“ des Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) zur Umsetzung entwicklungsbezogener Kooperations- und Qualifizierungsmaßnahmen; Mittelverwaltung über sequa gGmbH.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 130001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Bärbel Heidebroek",
+"funktion": "Präsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Björn Spiegel",
+"funktion": "Vizepräsident ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Nadine Kanu",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Ralf Hendricks",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Mirko Moser-Abt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Cornelia Uschtrin",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-08"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Wolfram Axthelm",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Stefan Grothe",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Carlo Reeker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Wolf Stötzel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Lukas Schnürpel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Kristina  Hermann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Moritz Röhrs",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Elisabeth Görke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Janna Hilger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Andreas Röhsler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Tristan Stengel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Philine Derouiche",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Lilien  Böhl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Konrad Klamann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Hannes  Moser",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Rechtsreferendar",
+"stelle": "Bundesministerium für Wirtschaft und Energie (BMWE) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2022-12"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Philipp Freiherr von Tettau",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Alexandra Pohl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Laura Sophie Hemper",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Quintus von Roedern",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Norman  Prange",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für eine Fraktion/Gruppe im Deutschen Bundestag",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-05"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Alice  Schulte",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Elena Paul",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Jakob Korenke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Laura  Maxellon",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Sarah Eckert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2023-12"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+},
+{
+"name": "Nicolas  Bilo",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Cornelia Uschtrin",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-08",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Cornelia Uschtrin ist laut Lobbyregister Interessenvertretung bei Bundesverband WindEnergie e.V. und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2021-08. Bundesverband WindEnergie e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ).",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+],
+"stand": "2026-10-07"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Konrad Klamann",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Konrad Klamann ist laut Lobbyregister Interessenvertretung bei Bundesverband WindEnergie e.V. und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03. Bundesverband WindEnergie e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ).",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+],
+"stand": "2026-10-07"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Hannes  Moser",
+"funktion_person": "Rechtsreferendar, Bundesministerium für Wirtschaft und Energie (BMWE) oder dessen Geschäftsbereich, bis 2022-12",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Hannes  Moser ist laut Lobbyregister Interessenvertretung bei Bundesverband WindEnergie e.V. und hatte zuvor eine öffentliche Funktion: Rechtsreferendar, Bundesministerium für Wirtschaft und Energie (BMWE) oder dessen Geschäftsbereich, bis 2022-12. Bundesverband WindEnergie e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ).",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+],
+"stand": "2026-10-07"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Norman  Prange",
+"funktion_person": "Funktion für eine Fraktion/Gruppe im Deutschen Bundestag, Bundestag, bis 2025-05",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Norman  Prange ist laut Lobbyregister Interessenvertretung bei Bundesverband WindEnergie e.V. und hatte zuvor eine öffentliche Funktion: Funktion für eine Fraktion/Gruppe im Deutschen Bundestag, Bundestag, bis 2025-05. Bundesverband WindEnergie e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ).",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+],
+"stand": "2026-10-07"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Sarah Eckert",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-12",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Sarah Eckert ist laut Lobbyregister Interessenvertretung bei Bundesverband WindEnergie e.V. und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-12. Bundesverband WindEnergie e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ).",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"stand": "2026-10-07"
+}
+],
+"stand": "2026-10-07"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 7680001,
+"bis": 7690000
+},
+"lobbyausgaben": {
+"von": 1170001,
+"bis": 1180000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/83/07/858022/JA_2024_BWE.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002154/87182",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-07",
+"etikett": "Eigenangabe",
+"version": 51
+}
+]
+}

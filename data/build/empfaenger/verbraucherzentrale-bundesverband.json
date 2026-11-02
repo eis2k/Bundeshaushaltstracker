@@ -1,0 +1,1178 @@
+{
+"id": "verbraucherzentrale-bundesverband",
+"name": "Verbraucherzentrale Bundesverband e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.vzbv.de",
+"stand": "2026-11-02",
+"geprueft": true,
+"lobbyregister": {
+"nummer": "R001211",
+"eintrag_id": 86523,
+"version": 58,
+"stand": "2026-10-02",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/8f/0d/856004/Lobbyregister-Registereintraege-Detailansicht-R001211-2026-10-02_16-42-55.pdf"
+},
+"haushalt": {
+"titel": [
+{
+"id": "16-1608-68401",
+"text": "Zuschüsse an die Vertretung der Verbraucher",
+"epl": "16",
+"epl_text": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+"werte": {
+"2022": {
+"soll": 23842000,
+"ist": 23700000
+},
+"2023": {
+"soll": 25913000,
+"ist": 25615402
+},
+"2024": {
+"soll": 26376000,
+"ist": 26400000
+},
+"2025": {
+"soll": 26409000,
+"ist": 26409000
+}
+}
+},
+{
+"id": "07-0701-68401",
+"text": "Zuschüsse an die Vertretung der Verbraucher",
+"epl": "07",
+"epl_text": "Bundesministerium der Justiz und für Verbraucherschutz",
+"werte": {
+"2015": {
+"soll": 10779000,
+"ist": 10779000
+},
+"2016": {
+"soll": 11086000,
+"ist": 11086000
+},
+"2017": {
+"soll": 12007000,
+"ist": 11699433
+},
+"2018": {
+"soll": 12222000,
+"ist": 12222000
+},
+"2019": {
+"soll": 13471000,
+"ist": 13471000
+},
+"2020": {
+"soll": 23985000,
+"ist": 23925000
+},
+"2021": {
+"soll": 23371000,
+"ist": 23300000
+},
+"2026": {
+"soll": 26194000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMWK - Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 26240001,
+"bis": 26250000,
+"zweck": "Die Projektfinanzierung des Drittmittelprojekts - Energieberatung, Energiechecks erfolgte über eine Fehlbedarfsfinanzierung durch das Bundesministerium für Wirtschaft und Klimaschutz mit Sitz in Berlin, sowie das Bundesamt für Wirtschaft und Ausfuhrkontrolle mit Sitz in Eschborn.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV), Bundesministerium der Justiz und für Verbraucherschutz (BMJV)",
+"epl": "16",
+"von": 25280001,
+"bis": 25290000,
+"zweck": "Institutionelle Zuwendung im Wege einer Fehlbedarfsfinanzierung.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH)",
+"epl": "10",
+"von": 1270001,
+"bis": 1280000,
+"zweck": "Die Projektfinanzierung des Drittmittelprojekts - Klarheit und Wahrheit bei Lebensmitteln - erfolgte über eine Fehlbedarfsfinanzierung und das Bundesministerium für Landwirtschaft, Ernährung und Heimat mit Sitz in Berlin und Bonn war der Zuwendungsgeber.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV), Bundesministerium der Justiz und für Verbraucherschutz (BMJV)",
+"epl": "16",
+"von": 460001,
+"bis": 470000,
+"zweck": "Die Projektfinanzierung des Drittmittelprojektes - Verbraucherchecker Verbraucherbildung Peer to Peer - erfolgte über eine Fehlbedarfsfinanzierung über das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz, sowie nachfolgend durch das Bundesministerium der Justiz und für Verbraucherschutz.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 53250004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ramona Pop",
+"funktion": "Vorständin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Mitglied des Bundesrates",
+"stelle": "Bundesrat (BR)",
+"beendet": true,
+"ende": "2021-12"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Christian  Ahlers",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Dietlinde Bleh",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Miika Blinn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Susanne Blohm",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Thomas Bobinger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "David Bode",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Jana Brockfeld",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Anne De Vries",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Heiko Dünkel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Lina Ehrig",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Susanne Einsiedler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Henning Fischer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Vera Fricke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Lars Gatschke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Jochen Geilenkirchen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Florian Glatzner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Stefanie  Grunert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Jutta  Gurkmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Mitglied des Deutschen Strategieforums für Standardisierung",
+"stelle": "Bundesministerium für Wirtschaft und Energie (BMWE) oder dessen Geschäftsbereich",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Ann-Katrin Hamacher",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Henning Herbst",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Kerstin Hoppe",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Ronny Jahn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Jutta  Jaksche",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Gregor Kolbe",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Carolin  Krieger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Jonathan  Liebig",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Daniela Lucassen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Martin  Madej",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Felix  Methmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Dorothea Mohn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Thomas Moormann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Meret Sophie Noll",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Florian Munder",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Sebastian Reiling",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Rosemarie Rodden",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Sven Scharioth",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Mitglied im Sachverständigenrat für Verbraucherfragen (Ehrenamt)",
+"stelle": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2022-11"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Michaela Schröder",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Christiane  Seidel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Roland Stuhr",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Sylwia Timm",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Philipp  von Bremen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Anke Wolf-Gersdorf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "André Duderstaedt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Lucas Auer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Sabrina Göddertz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Josephine Lindemann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Fabian Tief",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Kirsten Wiegand",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Marielle Findorff",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Mara Schläfke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Lisa Völkel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Lorena Jonas",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für eine Fraktion/Gruppe im Deutschen Bundestag",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2024-01"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Keo Sasha  Rigorth",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Claudio Zeitz-Brandmeyer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Felicitas Makait",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Astrid Goltz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für eine Fraktion/Gruppe im Deutschen Bundestag",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2024-12"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Nikola Schiefke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Referendarin",
+"stelle": "Verwaltung des Deutschen Bundestages",
+"beendet": true,
+"ende": "2023-09"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Katarzyna Guzenda",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Florence Rothe",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Vivien Edman-Wohsmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Rebecca Winkels",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Ann-Cathrin Beermann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Referatsleitung",
+"stelle": "Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2023-07"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Felix John",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2026-02"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Leonie Purrucker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-06"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Christiane Rock",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Corinna Vetter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Simon Wessels",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Ramona Pop",
+"funktion_person": "Mitglied des Bundesrates, Bundesrat (BR), bis 2021-12",
+"funktion_beim_empfaenger": "Vorständin",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Ramona Pop ist laut Lobbyregister Vorständin bei Verbraucherzentrale Bundesverband e. V. und hatte zuvor eine öffentliche Funktion: Mitglied des Bundesrates, Bundesrat (BR), bis 2021-12. Verbraucherzentrale Bundesverband e. V. erhielt laut Lobbyregister Mittel von: BMWK - Bundesministerium für Wirtschaft und Klimaschutz; Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV), Bundesministerium der Justiz und für Verbraucherschutz (BMJV); Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH).",
+"ausschuesse": [],
+"geld_aus": [
+"BMWK - Bundesministerium für Wirtschaft und Klimaschutz",
+"Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV), Bundesministerium der Justiz und für Verbraucherschutz (BMJV)",
+"Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+],
+"stand": "2026-10-02"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Jutta  Gurkmann",
+"funktion_person": "Mitglied des Deutschen Strategieforums für Standardisierung, Bundesministerium für Wirtschaft und Energie (BMWE) oder dessen Geschäftsbereich",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Jutta  Gurkmann ist laut Lobbyregister Interessenvertretung bei Verbraucherzentrale Bundesverband e. V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Strategieforums für Standardisierung, Bundesministerium für Wirtschaft und Energie (BMWE) oder dessen Geschäftsbereich. Verbraucherzentrale Bundesverband e. V. erhielt laut Lobbyregister Mittel von: BMWK - Bundesministerium für Wirtschaft und Klimaschutz; Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV), Bundesministerium der Justiz und für Verbraucherschutz (BMJV); Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH).",
+"ausschuesse": [],
+"geld_aus": [
+"BMWK - Bundesministerium für Wirtschaft und Klimaschutz",
+"Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV), Bundesministerium der Justiz und für Verbraucherschutz (BMJV)",
+"Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+],
+"stand": "2026-10-02"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Sven Scharioth",
+"funktion_person": "Mitglied im Sachverständigenrat für Verbraucherfragen (Ehrenamt), Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN) oder dessen Geschäftsbereich, bis 2022-11",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Sven Scharioth ist laut Lobbyregister Interessenvertretung bei Verbraucherzentrale Bundesverband e. V. und hatte zuvor eine öffentliche Funktion: Mitglied im Sachverständigenrat für Verbraucherfragen (Ehrenamt), Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN) oder dessen Geschäftsbereich, bis 2022-11. Verbraucherzentrale Bundesverband e. V. erhielt laut Lobbyregister Mittel von: BMWK - Bundesministerium für Wirtschaft und Klimaschutz; Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV), Bundesministerium der Justiz und für Verbraucherschutz (BMJV); Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH).",
+"ausschuesse": [],
+"geld_aus": [
+"BMWK - Bundesministerium für Wirtschaft und Klimaschutz",
+"Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV), Bundesministerium der Justiz und für Verbraucherschutz (BMJV)",
+"Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+],
+"stand": "2026-10-02"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Lorena Jonas",
+"funktion_person": "Funktion für eine Fraktion/Gruppe im Deutschen Bundestag, Bundestag, bis 2024-01",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Lorena Jonas ist laut Lobbyregister Interessenvertretung bei Verbraucherzentrale Bundesverband e. V. und hatte zuvor eine öffentliche Funktion: Funktion für eine Fraktion/Gruppe im Deutschen Bundestag, Bundestag, bis 2024-01. Verbraucherzentrale Bundesverband e. V. erhielt laut Lobbyregister Mittel von: BMWK - Bundesministerium für Wirtschaft und Klimaschutz; Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV), Bundesministerium der Justiz und für Verbraucherschutz (BMJV); Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH).",
+"ausschuesse": [],
+"geld_aus": [
+"BMWK - Bundesministerium für Wirtschaft und Klimaschutz",
+"Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV), Bundesministerium der Justiz und für Verbraucherschutz (BMJV)",
+"Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+],
+"stand": "2026-10-02"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Astrid Goltz",
+"funktion_person": "Funktion für eine Fraktion/Gruppe im Deutschen Bundestag, Bundestag, bis 2024-12",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Astrid Goltz ist laut Lobbyregister Interessenvertretung bei Verbraucherzentrale Bundesverband e. V. und hatte zuvor eine öffentliche Funktion: Funktion für eine Fraktion/Gruppe im Deutschen Bundestag, Bundestag, bis 2024-12. Verbraucherzentrale Bundesverband e. V. erhielt laut Lobbyregister Mittel von: BMWK - Bundesministerium für Wirtschaft und Klimaschutz; Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV), Bundesministerium der Justiz und für Verbraucherschutz (BMJV); Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH).",
+"ausschuesse": [],
+"geld_aus": [
+"BMWK - Bundesministerium für Wirtschaft und Klimaschutz",
+"Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV), Bundesministerium der Justiz und für Verbraucherschutz (BMJV)",
+"Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+],
+"stand": "2026-10-02"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Nikola Schiefke",
+"funktion_person": "Referendarin, Verwaltung des Deutschen Bundestages, bis 2023-09",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Nikola Schiefke ist laut Lobbyregister Interessenvertretung bei Verbraucherzentrale Bundesverband e. V. und hatte zuvor eine öffentliche Funktion: Referendarin, Verwaltung des Deutschen Bundestages, bis 2023-09. Verbraucherzentrale Bundesverband e. V. erhielt laut Lobbyregister Mittel von: BMWK - Bundesministerium für Wirtschaft und Klimaschutz; Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV), Bundesministerium der Justiz und für Verbraucherschutz (BMJV); Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH).",
+"ausschuesse": [],
+"geld_aus": [
+"BMWK - Bundesministerium für Wirtschaft und Klimaschutz",
+"Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV), Bundesministerium der Justiz und für Verbraucherschutz (BMJV)",
+"Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+],
+"stand": "2026-10-02"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Ann-Cathrin Beermann",
+"funktion_person": "Referatsleitung, Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH) oder dessen Geschäftsbereich, bis 2023-07",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Ann-Cathrin Beermann ist laut Lobbyregister Interessenvertretung bei Verbraucherzentrale Bundesverband e. V. und hatte zuvor eine öffentliche Funktion: Referatsleitung, Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH) oder dessen Geschäftsbereich, bis 2023-07. Verbraucherzentrale Bundesverband e. V. erhielt laut Lobbyregister Mittel von: BMWK - Bundesministerium für Wirtschaft und Klimaschutz; Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV), Bundesministerium der Justiz und für Verbraucherschutz (BMJV); Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH).",
+"ausschuesse": [],
+"geld_aus": [
+"BMWK - Bundesministerium für Wirtschaft und Klimaschutz",
+"Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV), Bundesministerium der Justiz und für Verbraucherschutz (BMJV)",
+"Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+],
+"stand": "2026-10-02"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Felix John",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2026-02",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Felix John ist laut Lobbyregister Interessenvertretung bei Verbraucherzentrale Bundesverband e. V. und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2026-02. Verbraucherzentrale Bundesverband e. V. erhielt laut Lobbyregister Mittel von: BMWK - Bundesministerium für Wirtschaft und Klimaschutz; Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV), Bundesministerium der Justiz und für Verbraucherschutz (BMJV); Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH).",
+"ausschuesse": [],
+"geld_aus": [
+"BMWK - Bundesministerium für Wirtschaft und Klimaschutz",
+"Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV), Bundesministerium der Justiz und für Verbraucherschutz (BMJV)",
+"Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+],
+"stand": "2026-10-02"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Leonie Purrucker",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-06",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Leonie Purrucker ist laut Lobbyregister Interessenvertretung bei Verbraucherzentrale Bundesverband e. V. und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-06. Verbraucherzentrale Bundesverband e. V. erhielt laut Lobbyregister Mittel von: BMWK - Bundesministerium für Wirtschaft und Klimaschutz; Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV), Bundesministerium der Justiz und für Verbraucherschutz (BMJV); Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH).",
+"ausschuesse": [],
+"geld_aus": [
+"BMWK - Bundesministerium für Wirtschaft und Klimaschutz",
+"Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV), Bundesministerium der Justiz und für Verbraucherschutz (BMJV)",
+"Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"stand": "2026-10-02"
+}
+],
+"stand": "2026-10-02"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 20001,
+"bis": 30000
+},
+"lobbyausgaben": {
+"von": 12430001,
+"bis": 12440000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/1b/fc/856003/Jahresbericht-2025_Sachbericht.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001211/86523",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-02",
+"etikett": "Eigenangabe",
+"version": 58
+},
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

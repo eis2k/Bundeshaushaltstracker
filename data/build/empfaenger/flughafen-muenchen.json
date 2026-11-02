@@ -1,0 +1,168 @@
+{
+"id": "flughafen-muenchen",
+"name": "Flughafen München GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "München-Flughafen",
+"website": "www.munich-airport.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001067",
+"eintrag_id": 85138,
+"version": 15,
+"stand": "2026-08-26",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001067/85138",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/4f/62/835373/Lobbyregister-Registereintraege-Detailansicht-R001067-2026-08-26_14-31-37.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 5230001,
+"bis": 5240000,
+"zweck": "Förderung von alternativen Antrieben von Bussen im Personenverkehr",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 90001,
+"bis": 100000,
+"zweck": "Förderung von nicht-öffentlich zugänglicher Schnellladeinfrastruktur",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Verkehr (BMV)",
+"epl": "12",
+"von": 140001,
+"bis": 150000,
+"zweck": "Förderung von E-Fahrzeugen und Ladeinfrastruktur",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "SKAMO: Skalierbares Anlagenmonitoring in großen Liegenschaften; in Zusammenarbeit mit dem Fraunhofer Institut; Projektträger: Forschungszentrum Jülich GmbH Das Projekt N5GEH-SKAMO wird die Kosten für die Einführung von digitalen Services zur Optimierung des Energie- und Lastmanagements sowie des Effizienzmonitorings drastisch reduzieren und so erhebliche Einsparungen an Energie, Kosten und CO2-Emissionen im Gebäudesektor ermöglichen. Projektende: 31.07.2025",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 760001,
+"bis": 770000,
+"zweck": "Unterstützung bei der Sanierung von Gebäuden, die dauerhaft Energiekosten einsparen und damit das Klima schützen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz (BMWK)",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "Unterstützung bei der Entwicklung von Transformationskonzepten zur Reduktion des Energieverbrauchs von Unternehmen und ihrer CO2‑Emissionen. Ziel ist es, eine strategische Grundlage für die Umsetzung konkreter Maßnahmen hin zu einer klimaneutralen Unternehmensausrichtung zu schaffen.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 6280006,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jost Lammers",
+"funktion": "Vorsitzender der Geschäftsführung und Arbeitsdirektor",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001067/85138",
+"stand": "2026-08-26"
+}
+},
+{
+"name": "Jan-Henrik Andersson",
+"funktion": "Geschäftsführung Commercial und Security",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001067/85138",
+"stand": "2026-08-26"
+}
+},
+{
+"name": "Thomas Hoff Andersson",
+"funktion": "Geschäftsführung Aviation und Operation",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001067/85138",
+"stand": "2026-08-26"
+}
+},
+{
+"name": "Roland Beck",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001067/85138",
+"stand": "2026-08-26"
+}
+},
+{
+"name": "Teresa Urban",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001067/85138",
+"stand": "2026-08-26"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 290001,
+"bis": 300000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/3d/fd/835370/FMG_Integrierter_Bericht_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001067/85138",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-26",
+"etikett": "Eigenangabe",
+"version": 15
+}
+]
+}

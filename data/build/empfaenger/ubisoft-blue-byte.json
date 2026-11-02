@@ -1,0 +1,107 @@
+{
+"id": "ubisoft-blue-byte",
+"name": "Ubisoft Blue Byte GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Düsseldorf",
+"website": "https://bluebyte.ubisoft.com/de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003054",
+"eintrag_id": 64789,
+"version": 7,
+"stand": "2025-09-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003054/64789",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/1b/17/620775/Lobbyregister-Registereintraege-Detailansicht-R003054-2025-09-29_10-05-56.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 2220001,
+"bis": 2230000,
+"zweck": "Bundesförderung für Computerspiele",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 2220001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Benedikt Grindel",
+"funktion": "Managing Director",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003054/64789",
+"stand": "2025-09-29"
+}
+},
+{
+"name": "Nicole Lorenz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003054/64789",
+"stand": "2025-09-29"
+}
+},
+{
+"name": "Karsten Lehmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003054/64789",
+"stand": "2025-09-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 120001,
+"bis": 130000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/8f/78/620774/Ubisoft_Blue_Byte_GmbH_PB_JAP_2024.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003054/64789",
+"abgerufen": "2026-11-02",
+"stand": "2025-09-29",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

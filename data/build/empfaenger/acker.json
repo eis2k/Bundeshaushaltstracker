@@ -1,0 +1,290 @@
+{
+"id": "acker",
+"name": "Acker e. V. ",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://www.acker.co",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005463",
+"eintrag_id": 79595,
+"version": 8,
+"stand": "2026-06-23",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005463/79595",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/39/aa/770946/Lobbyregister-Registereintraege-Detailansicht-R005463-2026-06-23_17-15-22.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesanstalt für Landwirtschaft und Ernährung (BLE - BÖLN)",
+"epl": "10",
+"von": 20001,
+"bis": 30000,
+"zweck": "Förderung für die Entwicklung und Evaluation eines Logistikkonzepts zur flächendeckenden Jungpflanzenversorgung von Schulen, Kitas und Kindergärten.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+"epl": "16",
+"von": 290001,
+"bis": 300000,
+"zweck": "Konzeption und strukturelle Integration eines GemeinschaftsAcker in drei Kommunen im Rahmen des Förderprogramms \"Kommunale Modellvorhaben zur Umsetzung der ökologischen Nachhaltigkeitsziele in Strukturwandelregionen (KoMoNa)\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Umweltbundesamt",
+"epl": "16",
+"von": 70001,
+"bis": 80000,
+"zweck": "CampusAckerdemie-Nachhaltigkeitsbildung für die Lehrkräfte von morgen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesanstalt für Landwirtschaft und Ernährung (BLE)",
+"epl": "10",
+"von": 260001,
+"bis": 270000,
+"zweck": "Programmentwicklung und Pilotierung des INFORM KiFaZ-Acker",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Landwirtschaft, Ernährung und Heimat",
+"epl": "10",
+"von": 170001,
+"bis": 180000,
+"zweck": "Erzieher*innen für praktische Ernährungsbildung qualifizieren\" (EPEQ)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Bundesstiftung Umwelt",
+"epl": null,
+"von": 60001,
+"bis": 70000,
+"zweck": "Entwicklung einer Serviceplattform für etablierte BNE-Lernorte an Schulen zur Förderung der Programmverstetigung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Naturschutz",
+"epl": "16",
+"von": 20001,
+"bis": 30000,
+"zweck": "FamilienAcker-Gemeinsam Säen, Vielfalt ernten - GemüseVielfalt für Groß und Klein 2025-2029",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 890007,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christoph Schmitz",
+"funktion": "Gründer und Geschäftsführender Vorstand ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005463/79595",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Sacha Hübner",
+"funktion": "Leitung Corporate & Public Affairs",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005463/79595",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Sara Reichau",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Pressereferentin",
+"stelle": "Presse- und Informationsamt der Bundesregierung (BPA)",
+"beendet": true,
+"ende": "2023-07"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005463/79595",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Rhea Niggemann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2023-12"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005463/79595",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Johanna von Rechberg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2023-12"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005463/79595",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Monja Jänisch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005463/79595",
+"stand": "2026-06-23"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Sara Reichau",
+"funktion_person": "Pressereferentin, Presse- und Informationsamt der Bundesregierung (BPA), bis 2023-07",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Sara Reichau ist laut Lobbyregister Interessenvertretung bei Acker e. V.  und hatte zuvor eine öffentliche Funktion: Pressereferentin, Presse- und Informationsamt der Bundesregierung (BPA), bis 2023-07. Acker e. V.  erhielt laut Lobbyregister Mittel von: Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit; Bundesanstalt für Landwirtschaft und Ernährung (BLE); Bundesministerium für Landwirtschaft, Ernährung und Heimat; Umweltbundesamt; Deutsche Bundesstiftung Umwelt; Bundesanstalt für Landwirtschaft und Ernährung (BLE - BÖLN); Bundesamt für Naturschutz.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+"Bundesanstalt für Landwirtschaft und Ernährung (BLE)",
+"Bundesministerium für Landwirtschaft, Ernährung und Heimat",
+"Umweltbundesamt",
+"Deutsche Bundesstiftung Umwelt",
+"Bundesanstalt für Landwirtschaft und Ernährung (BLE - BÖLN)",
+"Bundesamt für Naturschutz"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005463/79595",
+"stand": "2026-06-23"
+}
+],
+"stand": "2026-06-23"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Rhea Niggemann",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-12",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Rhea Niggemann ist laut Lobbyregister Interessenvertretung bei Acker e. V.  und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-12. Acker e. V.  erhielt laut Lobbyregister Mittel von: Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit; Bundesanstalt für Landwirtschaft und Ernährung (BLE); Bundesministerium für Landwirtschaft, Ernährung und Heimat; Umweltbundesamt; Deutsche Bundesstiftung Umwelt; Bundesanstalt für Landwirtschaft und Ernährung (BLE - BÖLN); Bundesamt für Naturschutz.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+"Bundesanstalt für Landwirtschaft und Ernährung (BLE)",
+"Bundesministerium für Landwirtschaft, Ernährung und Heimat",
+"Umweltbundesamt",
+"Deutsche Bundesstiftung Umwelt",
+"Bundesanstalt für Landwirtschaft und Ernährung (BLE - BÖLN)",
+"Bundesamt für Naturschutz"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005463/79595",
+"stand": "2026-06-23"
+}
+],
+"stand": "2026-06-23"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Johanna von Rechberg",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-12",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Johanna von Rechberg ist laut Lobbyregister Interessenvertretung bei Acker e. V.  und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-12. Acker e. V.  erhielt laut Lobbyregister Mittel von: Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit; Bundesanstalt für Landwirtschaft und Ernährung (BLE); Bundesministerium für Landwirtschaft, Ernährung und Heimat; Umweltbundesamt; Deutsche Bundesstiftung Umwelt; Bundesanstalt für Landwirtschaft und Ernährung (BLE - BÖLN); Bundesamt für Naturschutz.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+"Bundesanstalt für Landwirtschaft und Ernährung (BLE)",
+"Bundesministerium für Landwirtschaft, Ernährung und Heimat",
+"Umweltbundesamt",
+"Deutsche Bundesstiftung Umwelt",
+"Bundesanstalt für Landwirtschaft und Ernährung (BLE - BÖLN)",
+"Bundesamt für Naturschutz"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005463/79595",
+"stand": "2026-06-23"
+}
+],
+"stand": "2026-06-23"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 4090001,
+"bis": 4100000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 130001,
+"bis": 140000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/78/cf/770943/Jahresabschluss-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005463/79595",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-23",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

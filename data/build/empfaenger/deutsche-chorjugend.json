@@ -1,0 +1,105 @@
+{
+"id": "deutsche-chorjugend",
+"name": "Deutsche Chorjugend e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.deutsche-chorjugend.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004771",
+"eintrag_id": 76634,
+"version": 9,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004771/76634",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/8f/93/792147/Lobbyregister-Registereintraege-Detailansicht-R004771-2026-06-30_14-43-54.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BKM",
+"epl": "04",
+"von": 100001,
+"bis": 110000,
+"zweck": "Amateurmusikfonds für Singbus und Chor mit Sicherheit",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMFSFJ",
+"epl": "17",
+"von": 380001,
+"bis": 390000,
+"zweck": "Kinder- und Jugendplan über DBJR",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 480002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Judith  Reitelbach",
+"funktion": "Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004771/76634",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Maximilian Guder",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004771/76634",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 10001,
+"bis": 20000
+},
+"mitgliedsbeitraege": {
+"von": 100001,
+"bis": 110000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/4a/6a/792146/Jahresabschluss-2025-BuVo-Beschluss.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004771/76634",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

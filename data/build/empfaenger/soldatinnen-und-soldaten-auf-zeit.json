@@ -1,0 +1,84 @@
+{
+"id": "soldatinnen-und-soldaten-auf-zeit",
+"name": "Soldatinnen und Soldaten auf Zeit",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "14-1403-68171",
+"text": "Zuschüsse an Soldatinnen und Soldaten auf Zeit zum Erwerb einer BahnCard",
+"epl": "14",
+"epl_text": "Bundesministerium der Verteidigung",
+"werte": {
+"2015": {
+"soll": 500000,
+"ist": 155050
+},
+"2016": {
+"soll": 500000,
+"ist": 101682
+},
+"2017": {
+"soll": 250000,
+"ist": 56071
+},
+"2018": {
+"soll": 150000,
+"ist": 43365
+},
+"2019": {
+"soll": 150000,
+"ist": 34488
+},
+"2020": {
+"soll": 100000,
+"ist": 9632
+},
+"2021": {
+"soll": 100000,
+"ist": 10576
+},
+"2022": {
+"soll": 70000,
+"ist": 2069
+},
+"2023": {
+"soll": 50000,
+"ist": 944
+},
+"2024": {
+"soll": 50000,
+"ist": 117
+},
+"2025": {
+"soll": 50000,
+"ist": 1410
+},
+"2026": {
+"soll": 5000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

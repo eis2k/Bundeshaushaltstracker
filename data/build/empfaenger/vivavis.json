@@ -1,0 +1,200 @@
+{
+"id": "vivavis",
+"name": "VIVAVIS AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Ettlingen",
+"website": "www.vivavis.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005766",
+"eintrag_id": 69771,
+"version": 12,
+"stand": "2025-12-19",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005766/69771",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/7e/4b/662482/Lobbyregister-Registereintraege-Detailansicht-R005766-2025-12-19_12-04-36.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesrepublik Deutschland",
+"epl": "60",
+"von": 60001,
+"bis": 70000,
+"zweck": "FlexChain Verbundvorhaben: FlexChain - Blockchain-induzierte Aktivierung kleiner Flexibilitätspotenziale im Niederspannungsnetz; Teilvorhaben: Blockchain Gateway https://foerderportal.bund.de/foekat/jsp/SucheAction.do?actionMode=view&fkz=03EI6036E",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundesrepublik Deutschland",
+"epl": "60",
+"von": 40001,
+"bis": 50000,
+"zweck": "Verbundprojekt: AGenC - Automatische Generierung von Modellen für Prädiktion, Testen und Monitoring cyber-physischer Systeme https://foerderportal.bund.de/foekat/jsp/SucheAction.do?actionMode=view&fkz=01IS22047E",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundesrepublik Deutschland",
+"epl": "60",
+"von": 50001,
+"bis": 60000,
+"zweck": "Verbundvorhaben: CACTUS - Connect, Assist & Control: Transparenz und Systemstabilität für Smart Energy Systeme; Teilvorhaben: VIVAVIS, https://foerderportal.bund.de/foekat/jsp/SucheAction.do?actionMode=view&fkz=03EI6095A",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundesrepublik Deutschland - BMWK",
+"epl": "60",
+"von": 330001,
+"bis": 340000,
+"zweck": "Verbundvorhaben: MeGA - Messsysteme für Großerzeugungs-Anlage; Teilvorhaben: Erweiterung der Backend-Architektur https://foerderportal.bund.de/foekat/jsp/SucheAction.do?actionMode=view&fkz=03EI6108A",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundesrepublik Deutschland BMWK, Referat IIB5",
+"epl": "60",
+"von": 20001,
+"bis": 30000,
+"zweck": "Verbundvorhaben: EnEff:Wärme: Optinetz_Bosbuell - Betriebsoptimierung des Wärmenetzes einschließlich der Nutzung von Strom aus EE und Abwärme aus der Wasserstoffproduktion in Bosbüll; Teilvorhaben: Datennormalisierung und Bereitstellung https://foerderportal.bund.de/foekat/jsp/SucheAction.do?actionMode=view&fkz=03EN3067E",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundesrepublik Deutschland BMWK, Referat IVA6",
+"epl": "60",
+"von": 60001,
+"bis": 70000,
+"zweck": "Verbundprojekt: RESIGENT - Strommarkt- und netzorientiertes Energiemanagement von flexiblen Verbrauchseinrichtungen auf Basis resilienter Steuerungsfunktionen; Teilvorhaben: Entwicklung einer FNN-konformen Steuerbox und Anbindung an das iMsys https://foerderportal.bund.de/foekat/jsp/SucheAction.do?actionMode=view&fkz=01MV21018G",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "BUndesrepublik Deutschland, BMWK, Referat IIB5",
+"epl": "60",
+"von": 80001,
+"bis": 90000,
+"zweck": "Verbundvorhaben: EnEff:Stadt: NEED - Neue Daten für die Energiewende; Teilvorhaben: Anbindung an ein Netzleitsystem https://foerderportal.bund.de/foekat/jsp/SucheAction.do?actionMode=view&fkz=03EN3077G",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundesrepublik Deutschland BMWK, Referat IIB5",
+"epl": "60",
+"von": 30001,
+"bis": 40000,
+"zweck": "Verbundvorhaben: SmartGridCluster - Betrieb eines Smart-Grid-Clusters als virtuelles Kraftwerk unter Berücksichtigung einer BSI-konformen Kommunikation: Teilprojekt 4 - Netzleittechnik https://foerderportal.bund.de/foekat/jsp/SucheAction.do?actionMode=view&fkz=0350064F",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundesrepublik Deutschland - BMWE",
+"epl": "60",
+"von": 1,
+"bis": 10000,
+"zweck": "Verbundvorhaben: PICNIC - Powerquality Improvement by deCeNtralized IntelligenCe; Teilvorhaben: Messwertaufnahme https://foerderportal.bund.de/foekat/jsp/SucheAction.do?actionMode=view&fkz=03EI6118B",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundesrepublik Deutschland - BMFTR",
+"epl": "60",
+"von": 20001,
+"bis": 30000,
+"zweck": "Verbundprojekt: Gestaltung eines Serviceproduktes zum lokalen Stromhandel - Smart Microgrids as a Service (SMaaS); Teilprojekt: Steuerungs- und Datenplattform https://foerderportal.bund.de/foekat/jsp/SucheAction.do?actionMode=view&fkz=02K18D006",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 690010,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Luis Goncalves",
+"funktion": "Vorsitzender des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005766/69771",
+"stand": "2025-12-19"
+}
+},
+{
+"name": "Joachim Müller",
+"funktion": "FInanzvorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005766/69771",
+"stand": "2025-12-19"
+}
+},
+{
+"name": "Jörg Schmidtke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005766/69771",
+"stand": "2025-12-19"
+}
+},
+{
+"name": "Harald Herrmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005766/69771",
+"stand": "2025-12-19"
+}
+},
+{
+"name": "Volker Motzkus",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005766/69771",
+"stand": "2025-12-19"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 180001,
+"bis": 190000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/11/17/662481/VIVAVIS-AG_0000691962_10_1_FinB_QES2.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005766/69771",
+"abgerufen": "2026-11-02",
+"stand": "2025-12-19",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

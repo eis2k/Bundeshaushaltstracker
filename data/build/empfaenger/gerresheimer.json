@@ -1,0 +1,117 @@
+{
+"id": "gerresheimer",
+"name": "Gerresheimer AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Düsseldorf",
+"website": "www.gerresheimer.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004609",
+"eintrag_id": 76054,
+"version": 6,
+"stand": "2026-04-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004609/76054",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/95/a2/730263/Lobbyregister-Registereintraege-Detailansicht-R004609-2026-04-30_12-12-55.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "KfW Branch Office Bonn",
+"epl": "09",
+"von": 5400001,
+"bis": 5410000,
+"zweck": "ICPF - Concept of new Low Carbon- (LCE) and low NOx-Emissions (LNOx) Glass Melting & Production Process for Pharmaceutical & high-quality Food container",
+"geschaeftsjahr": "2023"
+}
+],
+"lobby_untergrenze_bund": 5400001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Uwe Röhrhoff",
+"funktion": "Vorstandsvorsitzender / CEO (Management Board)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004609/76054",
+"stand": "2026-04-30"
+}
+},
+{
+"name": "Wolf Uwe Lehmann",
+"funktion": "Vorstand Finanzen / CFO (Management Board)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004609/76054",
+"stand": "2026-04-30"
+}
+},
+{
+"name": "Achim Schalk",
+"funktion": "Mitglied des Vorstands (Management Board)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004609/76054",
+"stand": "2026-04-30"
+}
+},
+{
+"name": "Ueli Utzinger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004609/76054",
+"stand": "2026-04-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 40001,
+"bis": 50000
+},
+"geschaeftsjahr": "2023",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/8a/d7/730261/Gerresheimer_Geschaeftsbericht_2024_de_geschuetzt.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004609/76054",
+"abgerufen": "2026-11-02",
+"stand": "2026-04-30",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

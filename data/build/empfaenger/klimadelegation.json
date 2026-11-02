@@ -1,0 +1,267 @@
+{
+"id": "klimadelegation",
+"name": "Klimadelegation e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Mühlheim an der Ruhr",
+"website": "https://klimadelegation.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006583",
+"eintrag_id": 81242,
+"version": 6,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006583/81242",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ce/4c/796896/Lobbyregister-Registereintraege-Detailansicht-R006583-2026-06-30_22-31-44.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Gesellschaft für internationale Zusammenarbeit",
+"epl": null,
+"von": 170001,
+"bis": 180000,
+"zweck": "Durchführung des Projektes International Support for Local Activists",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 170001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Julian Hirschmann",
+"funktion": "Mitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006583/81242",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Meret Karenfort",
+"funktion": "Mitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006583/81242",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Stella Eick",
+"funktion": "Mitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2024-01"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006583/81242",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Melissa Jäckel",
+"funktion": "Mitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006583/81242",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Julian Horwarth",
+"funktion": "Mitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006583/81242",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Stephanie Wolfgruber",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006583/81242",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Lisa Luna Reichelt",
+"funktion": "Vorstand der Mitglieder",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006583/81242",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Carmen Wabnitz",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006583/81242",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Noah Brelage",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006583/81242",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Romie Niedermayer",
+"funktion": "Schatzmeisterin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006583/81242",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Lukas Probst",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006583/81242",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Lisa Reichelt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006583/81242",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Maria Blomenhofer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006583/81242",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Tobias Holle",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006583/81242",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Julia Horn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006583/81242",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Stella Eick",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2024-01",
+"funktion_beim_empfaenger": "Mitglied",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Stella Eick ist laut Lobbyregister Mitglied bei Klimadelegation e.V. und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2024-01. Klimadelegation e.V. erhielt laut Lobbyregister Mittel von: Gesellschaft für internationale Zusammenarbeit.",
+"ausschuesse": [],
+"geld_aus": [
+"Gesellschaft für internationale Zusammenarbeit"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006583/81242",
+"stand": "2026-06-30"
+}
+],
+"stand": "2026-06-30"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/3c/4f/796895/Rechenschaftsbericht-Vereinsjahr-2025-2026.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006583/81242",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

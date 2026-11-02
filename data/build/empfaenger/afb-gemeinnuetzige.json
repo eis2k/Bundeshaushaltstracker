@@ -1,0 +1,128 @@
+{
+"id": "afb-gemeinnuetzige",
+"name": "AfB gemeinnützige GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Ettlingen",
+"website": "https://www.afb-group.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006842",
+"eintrag_id": 73925,
+"version": 3,
+"stand": "2026-03-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006842/73925",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/83/55/714837/Lobbyregister-Registereintraege-Detailansicht-R006842-2026-03-30_15-08-37.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundeministerium für Wirtschaft und Klimaschutz",
+"epl": null,
+"von": 1,
+"bis": 10000,
+"zweck": "Förderung des Projekts Scope3Transparent. (2024)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Daniel Christoph Büchle",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006842/73925",
+"stand": "2026-03-30"
+}
+},
+{
+"name": "Yvonne Cvilak",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006842/73925",
+"stand": "2026-03-30"
+}
+},
+{
+"name": "Mike Alexander Reif",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006842/73925",
+"stand": "2026-03-30"
+}
+},
+{
+"name": "Samuel Pierre Ganesh Dansette",
+"funktion": "CSR Manager",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006842/73925",
+"stand": "2026-03-30"
+}
+},
+{
+"name": "Kerstin Anette Maurus",
+"funktion": "Fördermittel & Kooperationen",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006842/73925",
+"stand": "2026-03-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/70/10/714836/AfB-DE-Bilanz_Anhang_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006842/73925",
+"abgerufen": "2026-11-02",
+"stand": "2026-03-30",
+"etikett": "Eigenangabe",
+"version": 3
+}
+]
+}

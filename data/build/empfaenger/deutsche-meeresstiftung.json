@@ -1,0 +1,95 @@
+{
+"id": "deutsche-meeresstiftung",
+"name": "Deutsche Meeresstiftung",
+"art": "verein_stiftung",
+"rechtsform": "Rechtsfähige Stiftung bürgerlichen Rechts",
+"sitz": "Hamburg",
+"website": "www.meeresstiftung.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005232",
+"eintrag_id": 76628,
+"version": 10,
+"stand": "2026-05-27",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005232/76628",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/e2/78/743232/Lobbyregister-Registereintraege-Detailansicht-R005232-2026-05-27_15-21-02.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 1580001,
+"bis": 1590000,
+"zweck": "Projektname: Initiativnetzwerk für gemeinwohlorientierte Unternehmen (ESF-Projektnummer: 2024000531): Das „Initiativnetzwerk für gemeinwohlorientierte Unternehmen im Wassersport“ vernetzt Unternehmen, Organisationen und Akteur:innen aus der Wassersport- und maritimen Wirtschaft, um nachhaltige und gemeinwohlorientierte Innovationen zu fördern. Schwerpunkte sind Klima- und Meeresschutz, nachhaltige Hafen- und Tourismuskonzepte, umweltfreundliche Technologien sowie der Austausch zwischen Wirtschaft, Wissenschaft und Zivilgesellschaft. Ziel ist die Entwicklung und Sichtbarmachung nachhaltiger Lösungen für eine zukunftsfähige Wassersportbranche.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1580001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Frank Schweikert",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005232/76628",
+"stand": "2026-05-27"
+}
+},
+{
+"name": "Frank Otto",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005232/76628",
+"stand": "2026-05-27"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/3b/d6/743230/20260331_DMS_Jahresabschluss_2024_signed.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005232/76628",
+"abgerufen": "2026-11-02",
+"stand": "2026-05-27",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

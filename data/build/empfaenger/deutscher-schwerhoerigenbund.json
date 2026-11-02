@@ -1,0 +1,143 @@
+{
+"id": "deutscher-schwerhoerigenbund",
+"name": "Deutscher Schwerhörigenbund e.V. (DSB)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.schwerhoerigen-netz.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004416",
+"eintrag_id": 75082,
+"version": 12,
+"stand": "2026-07-08",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004416/75082",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c9/2e/808698/Lobbyregister-Registereintraege-Detailansicht-R004416-2026-07-08_11-26-03.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMAS",
+"epl": "11",
+"von": 110001,
+"bis": 120000,
+"zweck": "Förderung der Partizipation von Menschen mit Behinderungen und ihrer Verbände an der Gestaltung öffentlicher Angelegenheiten (FPV)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 110001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Matthias Müller",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004416/75082",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Antje Baukhage",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004416/75082",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Gudrun Brendel",
+"funktion": "Vizepäsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004416/75082",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Kriemhild Egermann-Schuler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004416/75082",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Torsten Seifert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004416/75082",
+"stand": "2026-07-08"
+}
+},
+{
+"name": "Norbert Böttges",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004416/75082",
+"stand": "2026-07-08"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 50001,
+"bis": 60000
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ab/b0/808691/10079_DSB_JA_2025_Draft_V1_Lobbyregister-2026.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004416/75082",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-08",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

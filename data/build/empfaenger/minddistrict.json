@@ -1,0 +1,117 @@
+{
+"id": "minddistrict",
+"name": "Minddistrict GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "https://www.minddistrict.com/de-de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004892",
+"eintrag_id": 78302,
+"version": 10,
+"stand": "2026-06-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004892/78302",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/27/9d/781539/Lobbyregister-Registereintraege-Detailansicht-R004892-2026-06-29_09-32-08.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung (BMBF)",
+"epl": "30",
+"von": 40001,
+"bis": 50000,
+"zweck": "Zuwendungen für zwei Projekte, die von BMBF gefördert werden MITMed (Förderkennzeichen 16SV8895): Das MITMed-Projekt entwickelt ein multimodales Interaktionssystem für die Tele-Medizin, um die therapeutische Beziehung und die Versorgungsqualität in der Psychotherapie durch die Integration emotionaler Elemente mittels tragbarer Geräte und digitaler Applikationen zu verbessern. Post-COVID E-Doc (Förderkennzeichen 16SV9166): Das Projekt Post-COVID E-Doc entwickelt eine lernfähige und hybride Plattform, die PCS-Betroffene über ihren Gesundheitszustand informiert und dabei hilft, geeignete Behandlungsschritte zu wählen. Dieses System, das auch von Diagnosestellenden und Behandelnden genutzt werden kann, erhöht die Diagnosesicherheit durch ein Score-System und bietet individualisierte Empfehlungen, basierend auf kontinuierlich überprüften und aktualisierten Diagnosen durch ein interdisziplinäres Expertengremium.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 40001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Philip Dehghan",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004892/78302",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Jeanette Ploeger",
+"funktion": "CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004892/78302",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Rob Peters",
+"funktion": "CFO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004892/78302",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Jeremy Dähn",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004892/78302",
+"stand": "2026-06-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/1d/ec/781538/MD-GmbH-Anhang-fur-das-Geschaftsjahr-2024_signed.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004892/78302",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-29",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

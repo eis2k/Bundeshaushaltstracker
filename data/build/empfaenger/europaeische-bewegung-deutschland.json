@@ -1,0 +1,287 @@
+{
+"id": "europaeische-bewegung-deutschland",
+"name": "Europäische Bewegung Deutschland e.V. ",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "http://www.netzwerk-ebd.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000751",
+"eintrag_id": 75908,
+"version": 14,
+"stand": "2026-04-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000751/75908",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/bc/f6/729272/Lobbyregister-Registereintraege-Detailansicht-R000751-2026-04-29_11-59-25.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 1010001,
+"bis": 1020000,
+"zweck": "Institutionelle Förderung, insbesondere Lohnkosten, Öffentlichkeitsmaßnahmen für Bund, Hintergrundgespräche (mit Bewirtung)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 480001,
+"bis": 490000,
+"zweck": "Projektförderung für die Auswahl und Betreuung der deutschen Studierenden am College of Europe wie auch die Stipendienvergabe der Bundesregierung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 140001,
+"bis": 150000,
+"zweck": "Projektförderung für den Europäischen Wettbewerb, Organisation des politischen Kreativwettbewerbes für Schulen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1630003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Anna-Maija Mertens",
+"funktion": "Präsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000751/75908",
+"stand": "2026-04-29"
+}
+},
+{
+"name": "Michael Gahler",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000751/75908",
+"stand": "2026-04-29"
+}
+},
+{
+"name": "Christian Petry",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000751/75908",
+"stand": "2026-04-29"
+}
+},
+{
+"name": "Barbara Lochbihler",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000751/75908",
+"stand": "2026-04-29"
+}
+},
+{
+"name": "Bernd Hüttemann",
+"funktion": "Generalsekretär",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000751/75908",
+"stand": "2026-04-29"
+}
+},
+{
+"name": "Agita Duwe",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000751/75908",
+"stand": "2026-04-29"
+}
+},
+{
+"name": "Enno Coordes",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000751/75908",
+"stand": "2026-04-29"
+}
+},
+{
+"name": "Fabian Häring",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000751/75908",
+"stand": "2026-04-29"
+}
+},
+{
+"name": "Laura Milchmeyer-Vogt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000751/75908",
+"stand": "2026-04-29"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Christian Petry",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03",
+"funktion_beim_empfaenger": "Vizepräsident",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Christian Petry ist laut Lobbyregister Vizepräsident bei Europäische Bewegung Deutschland e.V.  und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03. Europäische Bewegung Deutschland e.V.  erhielt laut Lobbyregister Mittel von: Auswärtiges Amt; Bundesministerium für Forschung, Technologie und Raumfahrt; Bundesministerium für Bildung und Forschung.",
+"ausschuesse": [],
+"geld_aus": [
+"Auswärtiges Amt",
+"Bundesministerium für Forschung, Technologie und Raumfahrt",
+"Bundesministerium für Bildung und Forschung"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000751/75908",
+"stand": "2026-04-29"
+}
+],
+"stand": "2026-04-29"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Julian Joswig",
+"funktion_person": "MdB, Bündnis 90 Die Grünen",
+"funktion_beim_empfaenger": "Vizepräsident, ehrenamtlich (ab 22.06.2026)",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Julian Joswig (MdB, Bündnis 90 Die Grünen) ist laut bundestag.de Vizepräsident, ehrenamtlich (ab 22.06.2026) bei Europäische Bewegung Deutschland e.V. . Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für die Angelegenheiten der Europäischen Union; Ausschuss für Wirtschaft und Energie; Schriftführer/in; Finanzen. Europäische Bewegung Deutschland e.V.  erhielt laut Lobbyregister Mittel von: Auswärtiges Amt; Bundesministerium für Forschung, Technologie und Raumfahrt; Bundesministerium für Bildung und Forschung.",
+"ausschuesse": [
+"Ausschuss für die Angelegenheiten der Europäischen Union",
+"Ausschuss für Wirtschaft und Energie",
+"Schriftführer/in",
+"Finanzen"
+],
+"geld_aus": [
+"Auswärtiges Amt",
+"Bundesministerium für Forschung, Technologie und Raumfahrt",
+"Bundesministerium für Bildung und Forschung"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/J/joswig_julian-1045232",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Tobias Winkler",
+"funktion_person": "MdB, CDU/CSU",
+"funktion_beim_empfaenger": "Mitglied des Vorstandes",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Tobias Winkler (MdB, CDU/CSU) ist laut bundestag.de Mitglied des Vorstandes bei Europäische Bewegung Deutschland e.V. . Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für die Angelegenheiten der Europäischen Union; Auswärtiger Ausschuss; Unterausschuss Internationale Ordnung, Vereinte Nationen und internationale Organisationen; Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung. Europäische Bewegung Deutschland e.V.  erhielt laut Lobbyregister Mittel von: Auswärtiges Amt; Bundesministerium für Forschung, Technologie und Raumfahrt; Bundesministerium für Bildung und Forschung.",
+"ausschuesse": [
+"Ausschuss für die Angelegenheiten der Europäischen Union",
+"Auswärtiger Ausschuss",
+"Unterausschuss Internationale Ordnung, Vereinte Nationen und internationale Organisationen",
+"Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung"
+],
+"geld_aus": [
+"Auswärtiges Amt",
+"Bundesministerium für Forschung, Technologie und Raumfahrt",
+"Bundesministerium für Bildung und Forschung"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/W/winkler_tobias-1049378",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 140001,
+"bis": 150000
+},
+"lobbyausgaben": {
+"von": 240001,
+"bis": 250000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/2e/97/729271/EBD-eV-Jahresabschluss-2025-Kurzversion.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000751/75908",
+"abgerufen": "2026-11-02",
+"stand": "2026-04-29",
+"etikett": "Eigenangabe",
+"version": 14
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/J/joswig_julian-1045232",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/W/winkler_tobias-1049378",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

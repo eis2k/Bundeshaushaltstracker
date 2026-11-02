@@ -1,0 +1,146 @@
+{
+"id": "neue-deutsche-medienmacher-innen",
+"name": "Neue deutsche Medienmacher*innen e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://neuemedienmacher.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007301",
+"eintrag_id": 65093,
+"version": 3,
+"stand": "2026-07-14",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007301/65093",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/54/89/813319/Lobbyregister-Registereintraege-Detailansicht-R007301-2026-07-14_17-22-48.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Beauftragten der Bundesregierung für Migration, Flüchtlinge und Integration zugleich Beauftragte der Bundesregierung für Antirassismus",
+"epl": null,
+"von": 290001,
+"bis": 300000,
+"zweck": "Projektförderung \"Handbook Germany : Together - zentrale digitale Anlaufstelle\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 420001,
+"bis": 430000,
+"zweck": "Projektförderung \"BetterPost\". BetterPost ist Teil von toneshift – Netzwerk gegen Hass im Netz und Desinformation und wird gefördert im Rahmen des Bundesprogramms „Demokratie leben!“",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Migration und Flüchtlinge",
+"epl": "06",
+"von": 20001,
+"bis": 30000,
+"zweck": "Projektförderung \"Handbook Germany : Together - zentrale digitale Anlaufstelle\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 730003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ella Schindler",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007301/65093",
+"stand": "2026-07-14"
+}
+},
+{
+"name": "Natalie Sablowski",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007301/65093",
+"stand": "2026-07-14"
+}
+},
+{
+"name": "Polo River Grey Türk",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007301/65093",
+"stand": "2026-07-14"
+}
+},
+{
+"name": "Daniel Jair Bax",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007301/65093",
+"stand": "2026-07-14"
+}
+},
+{
+"name": "Eleni Kountidou",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007301/65093",
+"stand": "2026-07-14"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 450001,
+"bis": 460000
+},
+"mitgliedsbeitraege": {
+"von": 20001,
+"bis": 30000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/14/6b/813318/NdM_EUR_2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007301/65093",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-14",
+"etikett": "Eigenangabe",
+"version": 3
+}
+]
+}

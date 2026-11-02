@@ -1,0 +1,151 @@
+{
+"id": "bundesverband-der-recherche-und-informationsstellen-antisemi",
+"name": "Bundesverband der Recherche- und Informationsstellen Antisemitismus e.V. ",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "https://www.report-antisemitism.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005267",
+"eintrag_id": 79108,
+"version": 5,
+"stand": "2026-06-17",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005267/79108",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/a0/87/761352/Lobbyregister-Registereintraege-Detailansicht-R005267-2026-06-17_08-48-18.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesprogramm \"Demokratie leben!\" des Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"epl": null,
+"von": 420001,
+"bis": 430000,
+"zweck": "Förderung als Teil des Kooperationsverbunds gegen Antisemitismus im Rahmen des Bundesprogramms \"Demokratie leben!\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium des Innern und für Heimat",
+"epl": "06",
+"von": 190001,
+"bis": 200000,
+"zweck": "Austausch von Polizei und Zivilgesellschaft zu Antisemitimus",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministeriums des Innern und für Heimat",
+"epl": null,
+"von": 890001,
+"bis": 900000,
+"zweck": "Institutionelle Förderung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Auswärtige Angelegenheiten",
+"epl": null,
+"von": 190001,
+"bis": 200000,
+"zweck": "Aufbau des European Network on Monitoring Antisemitism (ENMA) in Polen, davon 75.621,00 € als Weiterleitung an Letztempfänger",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesprogramm \"Demokratie leben!\" des Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"epl": null,
+"von": 180001,
+"bis": 190000,
+"zweck": "Gründen und betreiben der regionalen Meldestelle RIAS Baden-Württemberg, davon 38.000 € als Weiterleitung an Letztempfänger",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1870005,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Annette  Seidel-Arpacı",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005267/79108",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Daniel Botmann",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005267/79108",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Benjamin Steinitz",
+"funktion": "Vorstand / Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005267/79108",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Cord-Heinrich Plinke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005267/79108",
+"stand": "2026-06-17"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 10001,
+"bis": 20000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/27/e1/761351/Jahresabschluss-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005267/79108",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-17",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

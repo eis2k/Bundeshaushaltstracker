@@ -1,0 +1,118 @@
+{
+"id": "landesarbeitsgemeinschaft-katholische-jugendsozialarbeit-nrw",
+"name": "Landesarbeitsgemeinschaft Katholische Jugendsozialarbeit NRW e. V.",
+"art": "kirche_wohlfahrt",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Köln",
+"website": "www.jugendsozialarbeit.info",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R008220",
+"eintrag_id": 71595,
+"version": 1,
+"stand": "2026-09-14",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008220/71595",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/fd/3f/841677/Lobbyregister-Registereintraege-Detailansicht-R008220-2026-09-14_12-01-14.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMFSFJ",
+"epl": "17",
+"von": 110001,
+"bis": 120000,
+"zweck": "Der Bund fördert die Fachberatung für die kath. Jugendmigrationsdienste in NRW, die durch die LAG KJS NRW verantwortet wird, sowie Fachberatung für Katholische Träger der Jugendsozialarbeit und Jugendberufshilfe.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 110001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Selina Säger",
+"funktion": "Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008220/71595",
+"stand": "2026-09-14"
+}
+},
+{
+"name": "Frank Janßen",
+"funktion": "Stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008220/71595",
+"stand": "2026-09-14"
+}
+},
+{
+"name": "Dietmar Vitt",
+"funktion": "Stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008220/71595",
+"stand": "2026-09-14"
+}
+},
+{
+"name": "Stefan Ewers",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008220/71595",
+"stand": "2026-09-14"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/b3/a5/841676/2024-Bilanz-GuVLAG-KJS-NRW.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008220/71595",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-14",
+"etikett": "Eigenangabe",
+"version": 1
+}
+]
+}

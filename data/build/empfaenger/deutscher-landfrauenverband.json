@@ -1,0 +1,160 @@
+{
+"id": "deutscher-landfrauenverband",
+"name": "Deutscher LandFrauenverband e. V. (dlv)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.landfrauen.info",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001240",
+"eintrag_id": 61584,
+"version": 16,
+"stand": "2026-06-25",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001240/61584",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/5b/07/775451/Lobbyregister-Registereintraege-Detailansicht-R001240-2026-06-25_10-31-28.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Ernährung und Landwirtschaft",
+"epl": "10",
+"von": 50001,
+"bis": 60000,
+"zweck": "Durchführung bundeszentraler Informationsveranstaltungen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Familie, Senioren, Frauen und Jugend - in Kooperation mit EAF",
+"epl": "17",
+"von": 110001,
+"bis": 120000,
+"zweck": "Zweitzuwendungsempfänger Projekt: Frauen.Vielfalt.Politik der Europäischen Akademie für Frauen in Politik und Wirtschaft Berlin e. V.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 160002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Petra Bentkämper",
+"funktion": "Präsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001240/61584",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Ursula Braunewell",
+"funktion": "Erste Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001240/61584",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Christine Reitelshöfer",
+"funktion": "Zweite Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001240/61584",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Daniela Ruhe",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001240/61584",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Sarah Koops",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001240/61584",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Anja Goetz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001240/61584",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Anna Weißenfels",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001240/61584",
+"stand": "2026-06-25"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 740001,
+"bis": 750000
+},
+"lobbyausgaben": {
+"von": 30001,
+"bis": 40000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/71/42/775450/Jahresrechnung-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001240/61584",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-25",
+"etikett": "Eigenangabe",
+"version": 16
+}
+]
+}

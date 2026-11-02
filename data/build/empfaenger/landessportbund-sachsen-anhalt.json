@@ -1,0 +1,133 @@
+{
+"id": "landessportbund-sachsen-anhalt",
+"name": "Landessportbund Sachsen-Anhalt e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Halle (Saale)",
+"website": "www.lsb-sachsen-anhalt.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003242",
+"eintrag_id": 80282,
+"version": 11,
+"stand": "2026-06-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003242/80282",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/30/88/772669/Lobbyregister-Registereintraege-Detailansicht-R003242-2026-06-24_11-58-15.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMI",
+"epl": "06",
+"von": 350001,
+"bis": 360000,
+"zweck": "Projektgelder für das Projekt Integration durch Sport",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMI",
+"epl": "06",
+"von": 150001,
+"bis": 160000,
+"zweck": "Projektgelder für das Projekt Sport bewegt Demokratie",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BzgA",
+"epl": "15",
+"von": 20001,
+"bis": 30000,
+"zweck": "Bundesmittel für das Projekt Bewegung mit Herz",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMAS",
+"epl": "11",
+"von": 30001,
+"bis": 40000,
+"zweck": "Bundesmittel für das Projekt Eventinklusionsberater",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 550004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christian Schreiber",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003242/80282",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Ines Kramer",
+"funktion": "Finanzvorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003242/80282",
+"stand": "2026-06-24"
+}
+},
+{
+"name": "Thomas Krüger",
+"funktion": "Sportvorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003242/80282",
+"stand": "2026-06-24"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 3300001,
+"bis": 3310000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/19/36/772664/elektronische-Fassung-Jahresabschluss-LSB-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003242/80282",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-24",
+"etikett": "Eigenangabe",
+"version": 11
+}
+]
+}

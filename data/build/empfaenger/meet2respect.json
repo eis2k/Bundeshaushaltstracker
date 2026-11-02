@@ -1,0 +1,107 @@
+{
+"id": "meet2respect",
+"name": "meet2respect gUG (haftungsbeschränkt)",
+"art": "verein_stiftung",
+"rechtsform": "Unternehmergesellschaft (UG) (haftungsbeschränkt)",
+"sitz": "Berlin",
+"website": "www.meet2respect.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R008182",
+"eintrag_id": 85003,
+"version": 2,
+"stand": "2026-08-24",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008182/85003",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/84/56/834232/Lobbyregister-Registereintraege-Detailansicht-R008182-2026-08-24_11-38-23.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesprogramm “Demokratie leben!” - Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
+"epl": null,
+"von": 178020001,
+"bis": 178030000,
+"zweck": "Gewährung einer zweckgebundenen Projektförderung in Form einer Festbetragsfinanzierung zur Umsetzung des Projekts „meet2respect – the next generation“ im Rahmen des Bundesprogramms „Demokratie leben!“. Die Zuwendung dient der Finanzierung der zuwendungsfähigen Projektkosten gemäß Bewilligungsbescheid und Förderrichtlinie.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 178020001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Elias Dray",
+"funktion": "Referent",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008182/85003",
+"stand": "2026-08-24"
+}
+},
+{
+"name": "Pavlo Segal",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008182/85003",
+"stand": "2026-08-24"
+}
+},
+{
+"name": "Ender Cetin",
+"funktion": "Referent",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008182/85003",
+"stand": "2026-08-24"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/8b/3a/834231/Jahresabschluss_m2r_2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008182/85003",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-24",
+"etikett": "Eigenangabe",
+"version": 2
+}
+]
+}

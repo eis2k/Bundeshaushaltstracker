@@ -1,0 +1,162 @@
+{
+"id": "european-music-council",
+"name": "European Music Council",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bonn",
+"website": "https://www.emc-imc.org/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003888",
+"eintrag_id": 77461,
+"version": 9,
+"stand": "2026-06-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003888/77461",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/34/91/781950/Lobbyregister-Registereintraege-Detailansicht-R003888-2026-06-29_10-22-11.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Beauftragte der Bundesregierung für Kultur und Medien BKM",
+"epl": "04",
+"von": 100001,
+"bis": 110000,
+"zweck": "Projektförderung des Europäischer Musikrates e.V. aus Mitteln der Beauftragten der Bundesregierung für Kultur und Medien (BKM)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 100001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Niels Graesholm",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003888/77461",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Mila Georgieva",
+"funktion": "Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003888/77461",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Angharad Cooper",
+"funktion": "stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003888/77461",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Ruth Jakobi",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003888/77461",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Simone Dudt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003888/77461",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Katharina Weinert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003888/77461",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Tanja Huthwelker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003888/77461",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Sebastian Bürg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003888/77461",
+"stand": "2026-06-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 40001,
+"bis": 50000
+},
+"lobbyausgaben": {
+"von": 540001,
+"bis": 550000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/49/e0/781949/EMC_GuV_Bilanz_2025_signed_25032026.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003888/77461",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-29",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

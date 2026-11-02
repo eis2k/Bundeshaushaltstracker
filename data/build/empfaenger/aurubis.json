@@ -1,0 +1,272 @@
+{
+"id": "aurubis",
+"name": "Aurubis AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Hamburg",
+"website": "www.aurubis.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001636",
+"eintrag_id": 87754,
+"version": 24,
+"stand": "2026-10-20",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001636/87754",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/0e/9e/863663/Lobbyregister-Registereintraege-Detailansicht-R001636-2026-10-20_19-28-56.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 1,
+"bis": 10000,
+"zweck": "Nachrüstung eines effizienten Frequenzumrichters zur bedarfsabhängigen Regelung der Drehzahl von Elektromotoren und -Antrieben, Bundesförderung für Energieeffizienz in der Wirtschaft",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 1,
+"bis": 10000,
+"zweck": "Kompressor - Drucklufterzeuger mit Drehzahlregelung, Bundesförderung für Energieeffizienz in der Wirtschaft",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "Nachrüstung eines effizienten Frequenzumrichters zur bedarfsabhängigen Regelung der Drehzahl von Elektromotoren und -Antrieben, Bundesförderung für Energieeffizienz in der Wirtschaft",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Deutsche Emissionshandelsstelle",
+"epl": null,
+"von": 460001,
+"bis": 470000,
+"zweck": "Strompreiskompensation, Emissionshandels-Richtlinie (Richtlinie 2003/87/EG); EU-Beihilfe-Leitlinien (Mitteilung 2012/C 158/04); Förderrichtlinie (BAnz AT 06.08.2013 B2)",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 90001,
+"bis": 100000,
+"zweck": "KWKG- und Offshore - Umlage-Begrenzung, Antragstellung beim BAFA nach EnFG",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 560005,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Toralf Haag",
+"funktion": "CEO und Arbeitsdirektor",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001636/87754",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Steffen Hoffmann",
+"funktion": "CFO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001636/87754",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Tim Kurth",
+"funktion": "COO Custom Smelting and Products",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001636/87754",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Verena von Weiss",
+"funktion": "Generalbevollmächtigte / Executive Vice President MMR EU & Recycling Strategy ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001636/87754",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Tore Prang",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001636/87754",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Thomas Engels",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2023-11"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001636/87754",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Karin Hinrichs-Petersen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001636/87754",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Ulf Gehrckens",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001636/87754",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Holger Klaassen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Referent/stv. Referatsleiter",
+"stelle": "Bundesministerium für Wirtschaft und Energie (BMWE) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2021-02"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001636/87754",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Anne Lena Reinacher",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001636/87754",
+"stand": "2026-10-20"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Thomas Engels",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-11",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Thomas Engels ist laut Lobbyregister Interessenvertretung bei Aurubis AG und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-11. Aurubis AG erhielt laut Lobbyregister Mittel von: Deutsche Emissionshandelsstelle; Bundesamt für Wirtschaft und Ausfuhrkontrolle.",
+"ausschuesse": [],
+"geld_aus": [
+"Deutsche Emissionshandelsstelle",
+"Bundesamt für Wirtschaft und Ausfuhrkontrolle"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001636/87754",
+"stand": "2026-10-20"
+}
+],
+"stand": "2026-10-20"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Holger Klaassen",
+"funktion_person": "Referent/stv. Referatsleiter, Bundesministerium für Wirtschaft und Energie (BMWE) oder dessen Geschäftsbereich, bis 2021-02",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Holger Klaassen ist laut Lobbyregister Interessenvertretung bei Aurubis AG und hatte zuvor eine öffentliche Funktion: Referent/stv. Referatsleiter, Bundesministerium für Wirtschaft und Energie (BMWE) oder dessen Geschäftsbereich, bis 2021-02. Aurubis AG erhielt laut Lobbyregister Mittel von: Deutsche Emissionshandelsstelle; Bundesamt für Wirtschaft und Ausfuhrkontrolle.",
+"ausschuesse": [],
+"geld_aus": [
+"Deutsche Emissionshandelsstelle",
+"Bundesamt für Wirtschaft und Ausfuhrkontrolle"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001636/87754",
+"stand": "2026-10-20"
+}
+],
+"stand": "2026-10-20"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 900001,
+"bis": 910000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/13/3d/863662/Aurubis_Jahresabschluss-AG_GJ-2024_25.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001636/87754",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-20",
+"etikett": "Eigenangabe",
+"version": 24
+}
+]
+}

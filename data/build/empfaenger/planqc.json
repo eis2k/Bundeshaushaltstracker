@@ -1,0 +1,96 @@
+{
+"id": "planqc",
+"name": "PlanQC GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Garching",
+"website": "https://planqc.eu/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007659",
+"eintrag_id": 81099,
+"version": 2,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007659/81099",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f1/42/787682/Lobbyregister-Registereintraege-Detailansicht-R007659-2026-06-30_09-28-19.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 4220001,
+"bis": 4230000,
+"zweck": "Zuwendung im Rahmen unterschiedlicher Fördermaßnahmen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 4220001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Alexander Glätzle",
+"funktion": "CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007659/81099",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Sebastian Blatt",
+"funktion": "CTO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007659/81099",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 280001,
+"bis": 290000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/f8/41/787681/FY2025_Bilanz_GuV_Anhang_signiert_PlanQC_GmbH.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007659/81099",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 2
+}
+]
+}

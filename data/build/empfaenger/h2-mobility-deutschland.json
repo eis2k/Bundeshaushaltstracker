@@ -1,0 +1,139 @@
+{
+"id": "h2-mobility-deutschland",
+"name": "H2 MOBILITY Deutschland GmbH & Co. KG",
+"art": "unternehmen",
+"rechtsform": "Kommanditgesellschaft (KG)",
+"sitz": "Berlin",
+"website": "https://h2-mobility.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002815",
+"eintrag_id": 72741,
+"version": 10,
+"stand": "2026-03-03",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002815/72741",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/db/5f/700855/Lobbyregister-Registereintraege-Detailansicht-R002815-2026-03-03_11-19-17.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMV",
+"epl": "12",
+"von": 3530001,
+"bis": 3540000,
+"zweck": "Projektförderung aus NIP2 für den Aufbau von öffentlich zugänglichen Wasserstofftankstellen in Deutschland.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 3530001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Frank Fronzke",
+"funktion": "Geschäftsführer & COO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002815/72741",
+"stand": "2026-03-03"
+}
+},
+{
+"name": "Martin Jüngel",
+"funktion": "Geschäftsführer & CFO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002815/72741",
+"stand": "2026-03-03"
+}
+},
+{
+"name": "Daniela Dietz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002815/72741",
+"stand": "2026-03-03"
+}
+},
+{
+"name": "Falk Schulte-Wintrop",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002815/72741",
+"stand": "2026-03-03"
+}
+},
+{
+"name": "Robert Schönduwe",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002815/72741",
+"stand": "2026-03-03"
+}
+},
+{
+"name": "Eike Diercks",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002815/72741",
+"stand": "2026-03-03"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 60001,
+"bis": 70000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ab/40/700852/H2-MOBILITY-Audit-Report-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002815/72741",
+"abgerufen": "2026-11-02",
+"stand": "2026-03-03",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

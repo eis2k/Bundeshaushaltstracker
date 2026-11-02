@@ -1,0 +1,112 @@
+{
+"id": "perfood",
+"name": "Perfood",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Lübeck",
+"website": "https://perfood.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006323",
+"eintrag_id": 70364,
+"version": 4,
+"stand": "2026-01-05",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006323/70364",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f2/6b/677788/Lobbyregister-Registereintraege-Detailansicht-R006323-2026-01-05_14-26-23.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR)",
+"epl": "30",
+"von": 50001,
+"bis": 60000,
+"zweck": "Förderung von zwei ernährungsbezogenen Forschungsprojekten",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "BSFZ Bescheinigungsstelle Forschungszulage - VDI Technologiszentrum GmbH",
+"epl": null,
+"von": 750001,
+"bis": 760000,
+"zweck": "Projektbezogene steuerliche Förderung ernährungsbasierter Forschungsvorhaben",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "VDI/VDE Innovation + Technik GmbH",
+"epl": null,
+"von": 70001,
+"bis": 80000,
+"zweck": "Das Projekt Annomed ist ein Projekt zur Anonymisierung für medizinische Anwendungen.",
+"geschaeftsjahr": "2023"
+}
+],
+"lobby_untergrenze_bund": 870003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Dominik Burziwoda-von Papen",
+"funktion": "Gründer und Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006323/70364",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Yannick Becker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006323/70364",
+"stand": "2026-01-05"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2023",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/48/09/677746/Jahresabschluss_Bilanz-GuV_conf.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006323/70364",
+"abgerufen": "2026-11-02",
+"stand": "2026-01-05",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

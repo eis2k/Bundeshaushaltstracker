@@ -1,0 +1,137 @@
+{
+"id": "q-ant",
+"name": "Q.ANT GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Stuttgart",
+"website": "www.qant.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006934",
+"eintrag_id": 87557,
+"version": 6,
+"stand": "2026-10-14",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006934/87557",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/7a/50/861186/Lobbyregister-Registereintraege-Detailansicht-R006934-2026-10-14_12-37-26.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 490001,
+"bis": 500000,
+"zweck": "Förderprojekt PhoQuant https://www.quantentechnologien.de/forschung/foerderung/quantencomputer-demonstrationsaufbauten/phoquant.html",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 1100001,
+"bis": 1110000,
+"zweck": "Förderprojekt QYRO https://www.quantentechnologien.de/forschung/foerderung/leuchtturmprojekte-der-quantenbasierten-messtechnik/qyro.html",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 650001,
+"bis": 660000,
+"zweck": "Förderprojekt QSens https://www.project.uni-stuttgart.de/qsens/projekt/",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 70001,
+"bis": 80000,
+"zweck": "Förderprojekt Quamapolis https://www.quantentechnologien.de/forschung/foerderung/anwendungsbezogene-forschung-in-der-quantensensorik-metrologie-sowie-bildgebung/quamapolis.html",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 300001,
+"bis": 310000,
+"zweck": "QPIC 1 https://www.quantentechnologien.de/fileadmin/public/Redaktion/Dokumente/PDF/Projekte/210928_BMBF_QuanTech_Projektumrisse_QPIC-1.pdf",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 1020001,
+"bis": 1030000,
+"zweck": "Projekt LichtbriQ https://www.quantensysteme.info/projektatlas/projekte/q/lichtbriq",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 3630006,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Michael Förtsch",
+"funktion": "CEO ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006934/87557",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Edith Laga",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006934/87557",
+"stand": "2026-10-14"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 30001,
+"bis": 40000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/3c/28/861185/DEE00179453-1-1-Hauptteil_Q-ANT_Testat.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006934/87557",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-14",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

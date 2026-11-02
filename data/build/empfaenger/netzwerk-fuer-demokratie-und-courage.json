@@ -1,0 +1,131 @@
+{
+"id": "netzwerk-fuer-demokratie-und-courage",
+"name": "Netzwerk für Demokratie und Courage",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Dresden",
+"website": "www.netzwerk-courage.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003934",
+"eintrag_id": 80195,
+"version": 7,
+"stand": "2026-06-23",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003934/80195",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/95/5b/770805/Lobbyregister-Registereintraege-Detailansicht-R003934-2026-06-23_16-17-37.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 420001,
+"bis": 430000,
+"zweck": "Das NDC wird seit dem 01.01.2025 in einem Kooperationsverbund im Bundesprogramm „Demokratie leben!“ im Programmbereich „Entwicklung einer bundeszentralen Infrastruktur“ gefördert. Im Themenschwerpunkt „Demokratiebildung im Kindesalter“ arbeitet das NDC mit fünf weiteren Partnerorganisationen zusammen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundeszentrale für politische Bildung",
+"epl": "06",
+"von": 20001,
+"bis": 30000,
+"zweck": "Umsetzung von Maßnahmen der politischen Bildung.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundeszentrale für politische Bildung",
+"epl": "06",
+"von": 120001,
+"bis": 130000,
+"zweck": "Im Rahmen des Modellprojektes „Zukunft gestalten: Nachhaltige Demokratiebildung in Unternehmen“ (ZuGe), welches durch die Bundeszentrale für politische Bildung gefördert wird, werden Arbeitnehmende und Leitungen von Unternehmen bedarfsorientiert für den Umgang mit demokratiegefährdenden, diskriminierenden, populistischen und sich radikalisierenden Einstellungen sensibilisiert und mit entsprechenden Wissens- und Handlungskompetenzen versehen. Ziel ist es, im Arbeitsalltag nachhaltige Antidiskriminierungsstrukturen zu entwickeln und zu verankern.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundeszentrale für politische Bildung",
+"epl": "06",
+"von": 30001,
+"bis": 40000,
+"zweck": "Im Rahmen des Bundesprogrammes „Zusammenhalt durch Teilhabe“ des Bundesministeriums des Innern und für Heimat (BMI) und der Bundeszentrale für politische Bildung (bpb) setzt das NDC in der Programmsäule 2 ein Modellprojekt um. Ziel des Projektes ist es, zu einem besseren Verständnis der Transformationsgeschichte in zwei Regionen beizutragen und einen langfristigen Beitrag zur Stärkung der demokratischen Kultur zu leisten.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 590004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ralf Hron",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003934/80195",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Andreas Stäbe",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003934/80195",
+"stand": "2026-06-23"
+}
+},
+{
+"name": "Sebastian Drefahl",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003934/80195",
+"stand": "2026-06-23"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/7a/61/770804/JA_2025_NDC_ITZ.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003934/80195",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-23",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

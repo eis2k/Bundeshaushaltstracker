@@ -1,0 +1,158 @@
+{
+"id": "phoenix-contact",
+"name": "Phoenix Contact GmbH & Co. KG",
+"art": "unternehmen",
+"rechtsform": "Sonstige Personengesellschaft",
+"sitz": "Blomberg",
+"website": "www.phoenixcontact.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001684",
+"eintrag_id": 60976,
+"version": 7,
+"stand": "2025-07-02",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001684/60976",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/2f/9a/574668/Lobbyregister-Registereintraege-Detailansicht-R001684-2025-07-02_13-49-48.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 20001,
+"bis": 30000,
+"zweck": "Förderprojekt DC-Industrie 2, Förderkennziffer: 03EI6002J. Projektträger Jülich | Forschungszentrum Jülich GmbH Wilhelm-Johnen-Straße, 52428 Jülich",
+"geschaeftsjahr": "2023"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "Projekt: BexElektro, Förderkennziffer KZ: 21IV010G Projektträger Bundesinstitut für Berufsbildung (BIBB) Robert-Schuman-Platz 3 53175 Bonn",
+"geschaeftsjahr": "2023"
+}
+],
+"lobby_untergrenze_bund": 40002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Frank Stührenberg",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001684/60976",
+"stand": "2025-07-02"
+}
+},
+{
+"name": "Dirk Görlitzer",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001684/60976",
+"stand": "2025-07-02"
+}
+},
+{
+"name": "Torsten  Janwlecke",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001684/60976",
+"stand": "2025-07-02"
+}
+},
+{
+"name": "Ulrich  Leidecker",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001684/60976",
+"stand": "2025-07-02"
+}
+},
+{
+"name": "Frank Possel-Dölken",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001684/60976",
+"stand": "2025-07-02"
+}
+},
+{
+"name": "Axel  Wachholz",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001684/60976",
+"stand": "2025-07-02"
+}
+},
+{
+"name": "Angela Josephs",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001684/60976",
+"stand": "2025-07-02"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 240001,
+"bis": 250000
+},
+"geschaeftsjahr": "2023",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/90/e4/574666/2023_12_31_PxC_Lagebericht_PDF.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001684/60976",
+"abgerufen": "2026-11-02",
+"stand": "2025-07-02",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

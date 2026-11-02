@@ -1,0 +1,97 @@
+{
+"id": "ahk-paraguay",
+"name": "AHK Paraguay",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "ASUNCION",
+"website": "www.paraguay.ahk.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005717",
+"eintrag_id": 63355,
+"version": 8,
+"stand": "2025-08-04",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005717/63355",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/84/20/597362/Lobbyregister-Registereintraege-Detailansicht-R005717-2025-08-04_15-23-01.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 240001,
+"bis": 250000,
+"zweck": "Zuwendung für die Erfüllung des öffentlichen Auftrages zur Darstellung Deutschlands und seiner Wirtschaft in Paraguay, zur Unterstützung des Markteintritts kleiner und mittlerer Unternehmen, zur Erschließung bilateraler Geschäftsmöglichkeiten sowie zur Verbesserung von Wirtschaftsstrukturen, die Wachstum und Beschäftigung ermöglichen.",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 240001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christian Lothar Schauer",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005717/63355",
+"stand": "2025-08-04"
+}
+},
+{
+"name": "Willi Hensinger",
+"funktion": "Abteilungsleiter Finanzen und Personal",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005717/63355",
+"stand": "2025-08-04"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 90001,
+"bis": 100000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/f5/d0/597359/JA-2024-AYCA-con-firmas.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005717/63355",
+"abgerufen": "2026-11-02",
+"stand": "2025-08-04",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

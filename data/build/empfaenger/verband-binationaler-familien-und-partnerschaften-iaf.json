@@ -1,0 +1,180 @@
+{
+"id": "verband-binationaler-familien-und-partnerschaften-iaf",
+"name": "Verband binationaler Familien und Partnerschaften, iaf e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Frankfurt am Main",
+"website": "https://www.verband-binationaler.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004137",
+"eintrag_id": 87679,
+"version": 69,
+"stand": "2026-10-16",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004137/87679",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ff/2f/862393/Lobbyregister-Registereintraege-Detailansicht-R004137-2026-10-16_11-41-10.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung, Familien, Senioren, Frauen und Jugend",
+"epl": null,
+"von": 410001,
+"bis": 420000,
+"zweck": "Förderung der Personalkosten der Bundesgeschäftsstelle",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"epl": "17",
+"von": 10001,
+"bis": 20000,
+"zweck": "Förderung der familienpolitischen Fachtagung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 420002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Said Etris Hashemi",
+"funktion": "1. Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004137/87679",
+"stand": "2026-10-16"
+}
+},
+{
+"name": "Vassilis Tsianos",
+"funktion": "Stellvertretender Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004137/87679",
+"stand": "2026-10-16"
+}
+},
+{
+"name": "Carmen Colinas Schwarz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004137/87679",
+"stand": "2026-10-16"
+}
+},
+{
+"name": "Olga Chlebicka",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Sachbearbeiterin",
+"stelle": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2024-02"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004137/87679",
+"stand": "2026-10-16"
+}
+},
+{
+"name": "Anna Sabel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004137/87679",
+"stand": "2026-10-16"
+}
+},
+{
+"name": "Valeria  Caprioli",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004137/87679",
+"stand": "2026-10-16"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Olga Chlebicka",
+"funktion_person": "Sachbearbeiterin, Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ) oder dessen Geschäftsbereich, bis 2024-02",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Olga Chlebicka ist laut Lobbyregister Interessenvertretung bei Verband binationaler Familien und Partnerschaften, iaf e.V. und hatte zuvor eine öffentliche Funktion: Sachbearbeiterin, Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend (BMBFSFJ) oder dessen Geschäftsbereich, bis 2024-02. Verband binationaler Familien und Partnerschaften, iaf e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Bildung, Familien, Senioren, Frauen und Jugend; Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Bildung, Familien, Senioren, Frauen und Jugend",
+"Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004137/87679",
+"stand": "2026-10-16"
+}
+],
+"stand": "2026-10-16"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Sonstiges",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 40001,
+"bis": 50000
+},
+"lobbyausgaben": {
+"von": 90001,
+"bis": 100000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/21/46/862386/146617-iaf-40315-JA-zum-31-12-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004137/87679",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-16",
+"etikett": "Eigenangabe",
+"version": 69
+}
+]
+}

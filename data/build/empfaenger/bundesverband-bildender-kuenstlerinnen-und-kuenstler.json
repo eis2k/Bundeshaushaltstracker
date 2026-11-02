@@ -1,0 +1,124 @@
+{
+"id": "bundesverband-bildender-kuenstlerinnen-und-kuenstler",
+"name": "Bundesverband Bildender Künstlerinnen und Künstler e. V. (BBK)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.bbk-bundesverband.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004312",
+"eintrag_id": 83582,
+"version": 9,
+"stand": "2026-07-23",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004312/83582",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/98/d5/818699/Lobbyregister-Registereintraege-Detailansicht-R004312-2026-07-23_11-36-25.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Beauftragte der Bundesregierung für Kultur und Medien (BKM)",
+"epl": "04",
+"von": 110001,
+"bis": 120000,
+"zweck": "Projektförderung für 4 Projekte: - Herausgabe von vier Ausgaben der Zeitschrift kultur politik in 2025 - Symposion: Zur Lage der Künstler:innen - ProTalks. Resilienz durch Professionalisierung - Tag der Druckkunst",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 1590001,
+"bis": 1600000,
+"zweck": "Förderprogramm \"Kultur macht stark III. Bündnisse für Bildung/Wir können Kunst\": Förderung von Projekten kultureller Bildung für Kinder und Jugendliche zwischen 3 und 18 Jahren, die aufgrund von Risikolagen in ihren Bildungschancen beeinträchtigt sind.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Die Beauftragte der Bundesregierung für Kultur und Medien (BKM)",
+"epl": "04",
+"von": 170001,
+"bis": 180000,
+"zweck": "Projektförderung für die Durchführung des 8. Verleihung des Gabriele Münter Preises mit Ausstellung, Preisverleihung und begleitendem Programm.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1870003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Dagmar Schmidt",
+"funktion": "Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004312/83582",
+"stand": "2026-07-23"
+}
+},
+{
+"name": "Marcel Noack",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004312/83582",
+"stand": "2026-07-23"
+}
+},
+{
+"name": "Valeska Hageney",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004312/83582",
+"stand": "2026-07-23"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 270001,
+"bis": 280000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/90/5a/818695/Einnahmen-Ausgaben-2024_Lobbyregister.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004312/83582",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-23",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

@@ -1,0 +1,88 @@
+{
+"id": "zentralrat-sowie-das-dokumentationszentrum-deutscher-sinti-u",
+"name": "Zentralrat sowie das Dokumentationszentrum Deutscher Sinti und Roma",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "04-0405-68414",
+"text": "Zuschuss an den Zentralrat sowie das Dokumentationszentrum Deutscher Sinti und Roma",
+"epl": "04",
+"epl_text": "Bundeskanzlerin und Bundeskanzleramt",
+"werte": {
+"2015": {
+"soll": 1937000,
+"ist": 1937000
+}
+}
+},
+{
+"id": "04-0452-68414",
+"text": "Zuschuss an den Zentralrat sowie das Dokumentationszentrum Deutscher Sinti und Roma",
+"epl": "04",
+"epl_text": "Bundeskanzler und Bundeskanzleramt",
+"werte": {
+"2016": {
+"soll": 1943000,
+"ist": 1943000
+},
+"2017": {
+"soll": 1943000,
+"ist": 1974000
+},
+"2018": {
+"soll": 2017000,
+"ist": 2017000
+},
+"2019": {
+"soll": 2168000,
+"ist": 2168000
+},
+"2020": {
+"soll": 2194000,
+"ist": 2194000
+},
+"2021": {
+"soll": 2404000,
+"ist": 2404000
+},
+"2022": {
+"soll": 2242000,
+"ist": 2242000
+},
+"2023": {
+"soll": 2251000,
+"ist": 2251000
+},
+"2024": {
+"soll": 2251000,
+"ist": 2251000
+},
+"2025": {
+"soll": 2251000,
+"ist": 2058699
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

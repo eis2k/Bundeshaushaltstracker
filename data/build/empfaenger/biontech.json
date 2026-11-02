@@ -1,0 +1,161 @@
+{
+"id": "biontech",
+"name": "BioNTech SE",
+"art": "unternehmen",
+"rechtsform": "Europäische Aktiengesellschaft (SE)",
+"sitz": "Mainz",
+"website": "www.biontech.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002550",
+"eintrag_id": 76563,
+"version": 28,
+"stand": "2026-05-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002550/76563",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ab/27/744879/Lobbyregister-Registereintraege-Detailansicht-R002550-2026-05-29_15-18-34.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 410001,
+"bis": 420000,
+"zweck": "VDI/VDE Innovation + Technik wurde vom Bundesministerium für Wirtschaft und Energie als Projektträger für die Förderung von Forschungsprojekten in Kooperation mit Instituten und Universitäten beauftragt.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 410001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Ugur Sahin",
+"funktion": "Vorstand, Chief Executive Officer (CEO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002550/76563",
+"stand": "2026-05-29"
+}
+},
+{
+"name": "Annemarie Hanekamp",
+"funktion": "Vorständin, Chief Commercial Officer (CCO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002550/76563",
+"stand": "2026-05-29"
+}
+},
+{
+"name": "Özlem Türeci",
+"funktion": "Vorständin, Chief Medical Officer (CMO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002550/76563",
+"stand": "2026-05-29"
+}
+},
+{
+"name": "Sierk Poetting",
+"funktion": "Vorstand, Chief Operating Officer (COO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002550/76563",
+"stand": "2026-05-29"
+}
+},
+{
+"name": "Ramón Zapata-Gomez",
+"funktion": "Vorstand, Chief Financial Officer (CFO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002550/76563",
+"stand": "2026-05-29"
+}
+},
+{
+"name": "James Ryan",
+"funktion": "Vorstand, Chief Legal Officer (CLO)",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002550/76563",
+"stand": "2026-05-29"
+}
+},
+{
+"name": "Kylie Jimenez",
+"funktion": "Chief People Officer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002550/76563",
+"stand": "2026-05-29"
+}
+},
+{
+"name": "Pedro L. Alonso",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002550/76563",
+"stand": "2026-05-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/11/da/744871/Jahresabschluss-BioNTech-SE-zum-31-Dezember-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002550/76563",
+"abgerufen": "2026-11-02",
+"stand": "2026-05-29",
+"etikett": "Eigenangabe",
+"version": 28
+}
+]
+}

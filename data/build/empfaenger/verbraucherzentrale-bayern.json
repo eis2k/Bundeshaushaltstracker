@@ -1,0 +1,209 @@
+{
+"id": "verbraucherzentrale-bayern",
+"name": "Verbraucherzentrale Bayern e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "München",
+"website": "https://www.verbraucherzentrale.bayern",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001963",
+"eintrag_id": 77012,
+"version": 20,
+"stand": "2026-07-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001963/77012",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/fb/92/823128/Lobbyregister-Registereintraege-Detailansicht-R001963-2026-07-30_16-36-20.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+"epl": "16",
+"von": 340001,
+"bis": 350000,
+"zweck": "Allgemeine Zuweisung für Projekt \"Wirtschaftlicher Verbraucherschutz\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+"epl": "16",
+"von": 530001,
+"bis": 540000,
+"zweck": "Allgemein Zuweisung für Projekt \"Verbraucherschutz in ländlichen Regionen für junge Menschen\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Landwirtschaft, Ernährung und Heimat",
+"epl": "10",
+"von": 400001,
+"bis": 410000,
+"zweck": "Allgemeine Zuweisung für Projekt \"Ernährung\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Landwirtschaft, Ernährung und Heimat",
+"epl": "10",
+"von": 170001,
+"bis": 180000,
+"zweck": "Allgemeine Zuweisung Projekt \"Ernährungsarmut\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1440004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Marion Zinkeler",
+"funktion": "Geschäftsführender Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001963/77012",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Tatjana Halm",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001963/77012",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Sascha Straub",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001963/77012",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Jutta Saumweber",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001963/77012",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Antje Feigl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001963/77012",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Felix Laufenberg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001963/77012",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Sonja Neumann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001963/77012",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Claudia Walter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001963/77012",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Jessica Brandl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001963/77012",
+"stand": "2026-07-30"
+}
+},
+{
+"name": "Sigrid Goldbrunner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001963/77012",
+"stand": "2026-07-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e2/ce/823094/Einnahmen-Ausgaben-Rechnung_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001963/77012",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-30",
+"etikett": "Eigenangabe",
+"version": 20
+}
+]
+}

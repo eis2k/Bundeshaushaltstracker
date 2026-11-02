@@ -1,0 +1,686 @@
+{
+"id": "rwe",
+"name": "RWE",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Essen",
+"website": "https://www.rwe.com/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001655",
+"eintrag_id": 88076,
+"version": 93,
+"stand": "2026-10-27",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/e5/71/866022/Lobbyregister-Registereintraege-Detailansicht-R001655-2026-10-27_15-49-26.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 50001,
+"bis": 60000,
+"zweck": "C²-Wakes, controlled cluster wakes (Windmuster) (RWE Offshore)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 130001,
+"bis": 140000,
+"zweck": "PV2Float- Technologieentwicklung für schwimmende PV-Kraftwerke und deren Implementierung zum Einsatz auf künstlichen Gewässern , RWE Offshore",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "GruenWinT- Projekt \"Gründungen von Windenergieanlagen auf jungen Tagebaukippen\" (RWE Onshore, PV)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 70001,
+"bis": 80000,
+"zweck": "ReCoWind II- Frequenzumrichter für Windenergieanlagen (RWE OPEA)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "SynGas2Ethen (RWE Power)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 50001,
+"bis": 60000,
+"zweck": "Projekt ARRIVE / GRS (RWE Nuklear)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 50001,
+"bis": 60000,
+"zweck": "Projekt SCOPE /PtJ, RWE Power",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 370001,
+"bis": 380000,
+"zweck": "Projekt MeDora, PtJ (RWE Power)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 60001,
+"bis": 70000,
+"zweck": "Projekt GET H2 TransHyDE (RWE Power)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "Projekt H2 Hohlzug, PtJ (RWE Power)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "SIEGFRIED (RWE Power)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 152740001,
+"bis": 152750000,
+"zweck": "Get2H2 Nucleus (RWE Nucleus Green H2 GmbH)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 800001,
+"bis": 810000,
+"zweck": "Get H2 TransHyDE, (RWE Generation)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMBF",
+"epl": "30",
+"von": 10001,
+"bis": 20000,
+"zweck": "ViSDeMe (RWE Nuklear)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK",
+"epl": "09",
+"von": 40001,
+"bis": 50000,
+"zweck": "ECO 2 FEED (RWE Power)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE, Energieforschungsprogramm",
+"epl": "09",
+"von": 160001,
+"bis": 170000,
+"zweck": "WindRamp II (RWE Offshore Wind)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 154600016,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Markus Krebber",
+"funktion": "CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Michael Müller",
+"funktion": "CFO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Katja van Doren",
+"funktion": "CHO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Ulrich Rust",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Dirk Berkhahn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Alexander Nolden",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Matthias Beigel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Sopna Sury",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Jasmin Kaboni-Voit",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Frank Weigand",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Nikolaus Valerius",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Heiko Willenberg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Jörg Kerlen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Kemal  Razanica",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Devid Krull",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Ulf Kerstin",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Karl-Peter  Horstmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Jessica Klein",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Gunhild Grieve",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Titus Rebhann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Mitarbeiter",
+"stelle": "Auswärtiges Amt (AA) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2022-11"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "David Egyptien",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Johannes Hindemith",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Yannick Lubisch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Steffen Kanitz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Michael Herr",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Dorothea Riedel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2023-12"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Roberta Premm",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Jacob Meins",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Peter Krembel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Gerd Schräder",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Tobias Rammel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Sebastian Busch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Sabine Augustin",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Birgit Hiller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Cord-Heinrich Lefhalm",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Sandra Dettmer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Nikolas Herrscher",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Thomas Körber",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Tobias Keitel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Titus Rebhann",
+"funktion_person": "Mitarbeiter, Auswärtiges Amt (AA) oder dessen Geschäftsbereich, bis 2022-11",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Titus Rebhann ist laut Lobbyregister Interessenvertretung bei RWE und hatte zuvor eine öffentliche Funktion: Mitarbeiter, Auswärtiges Amt (AA) oder dessen Geschäftsbereich, bis 2022-11. RWE erhielt laut Lobbyregister Mittel von: BMWK; Bundesministerium für Bildung und Forschung; BMWE, Energieforschungsprogramm; Bundesministerium für Wirtschaft und Klimaschutz; BMBF.",
+"ausschuesse": [],
+"geld_aus": [
+"BMWK",
+"Bundesministerium für Bildung und Forschung",
+"BMWE, Energieforschungsprogramm",
+"Bundesministerium für Wirtschaft und Klimaschutz",
+"BMBF"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+],
+"stand": "2026-10-27"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Dorothea Riedel",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-12",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Dorothea Riedel ist laut Lobbyregister Interessenvertretung bei RWE und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-12. RWE erhielt laut Lobbyregister Mittel von: BMWK; Bundesministerium für Bildung und Forschung; BMWE, Energieforschungsprogramm; Bundesministerium für Wirtschaft und Klimaschutz; BMBF.",
+"ausschuesse": [],
+"geld_aus": [
+"BMWK",
+"Bundesministerium für Bildung und Forschung",
+"BMWE, Energieforschungsprogramm",
+"Bundesministerium für Wirtschaft und Klimaschutz",
+"BMBF"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"stand": "2026-10-27"
+}
+],
+"stand": "2026-10-27"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1820001,
+"bis": 1830000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/52/37/866021/RWE-Geschaeftsbericht-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001655/88076",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-27",
+"etikett": "Eigenangabe",
+"version": 93
+}
+]
+}

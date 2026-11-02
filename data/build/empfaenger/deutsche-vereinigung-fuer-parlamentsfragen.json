@@ -1,0 +1,214 @@
+{
+"id": "deutsche-vereinigung-fuer-parlamentsfragen",
+"name": "Deutsche Vereinigung für Parlamentsfragen e.V. (DVParl)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.dvparl.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003792",
+"eintrag_id": 70187,
+"version": 11,
+"stand": "2026-01-15",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003792/70187",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/09/d6/682013/Lobbyregister-Registereintraege-Detailansicht-R003792-2026-01-15_15-36-55.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Deutscher Bundestag",
+"epl": null,
+"von": 90001,
+"bis": 100000,
+"zweck": "Institutionelle Förderung (Fehlbedarfsfinanzierung)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 90001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Macit Karaahmetoğlu",
+"funktion": "Vorsitzender des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003792/70187",
+"stand": "2026-01-15"
+}
+},
+{
+"name": "Alexander Troche",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Ministerialrat",
+"stelle": "Verwaltung des Deutschen Bundestages",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003792/70187",
+"stand": "2026-01-15"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Macit Karaahmetoğlu",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag",
+"funktion_beim_empfaenger": "Vorsitzender des Vorstands",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Macit Karaahmetoğlu ist laut Lobbyregister Vorsitzender des Vorstands bei Deutsche Vereinigung für Parlamentsfragen e.V. (DVParl) und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag. Deutsche Vereinigung für Parlamentsfragen e.V. (DVParl) erhielt laut Lobbyregister Mittel von: Deutscher Bundestag.",
+"ausschuesse": [],
+"geld_aus": [
+"Deutscher Bundestag"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003792/70187",
+"stand": "2026-01-15"
+}
+],
+"stand": "2026-01-15"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Alexander Troche",
+"funktion_person": "Ministerialrat, Verwaltung des Deutschen Bundestages",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Alexander Troche ist laut Lobbyregister Interessenvertretung bei Deutsche Vereinigung für Parlamentsfragen e.V. (DVParl) und hatte zuvor eine öffentliche Funktion: Ministerialrat, Verwaltung des Deutschen Bundestages. Deutsche Vereinigung für Parlamentsfragen e.V. (DVParl) erhielt laut Lobbyregister Mittel von: Deutscher Bundestag.",
+"ausschuesse": [],
+"geld_aus": [
+"Deutscher Bundestag"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003792/70187",
+"stand": "2026-01-15"
+}
+],
+"stand": "2026-01-15"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Helge Limburg",
+"funktion_person": "MdB, Bündnis 90 Die Grünen",
+"funktion_beim_empfaenger": "Beisitzer des Vorstandes (ab 15.10.2025)",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Helge Limburg (MdB, Bündnis 90 Die Grünen) ist laut bundestag.de Beisitzer des Vorstandes (ab 15.10.2025) bei Deutsche Vereinigung für Parlamentsfragen e.V. (DVParl). Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Recht und Verbraucherschutz; Ausschuss für Sport und Ehrenamt; Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung; Wahlausschuss. Deutsche Vereinigung für Parlamentsfragen e.V. (DVParl) erhielt laut Lobbyregister Mittel von: Deutscher Bundestag.",
+"ausschuesse": [
+"Ausschuss für Recht und Verbraucherschutz",
+"Ausschuss für Sport und Ehrenamt",
+"Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
+"Wahlausschuss"
+],
+"geld_aus": [
+"Deutscher Bundestag"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/L/limburg_helge-1045826",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Dr. Martin Plum",
+"funktion_person": "MdB, CDU/CSU",
+"funktion_beim_empfaenger": "Stellv. Vorsitzender, ehrenamtlich (ab 15.10.2025)",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Dr. Martin Plum (MdB, CDU/CSU) ist laut bundestag.de Stellv. Vorsitzender, ehrenamtlich (ab 15.10.2025) bei Deutsche Vereinigung für Parlamentsfragen e.V. (DVParl). Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Recht und Verbraucherschutz; Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung; Innenausschuss. Deutsche Vereinigung für Parlamentsfragen e.V. (DVParl) erhielt laut Lobbyregister Mittel von: Deutscher Bundestag.",
+"ausschuesse": [
+"Ausschuss für Recht und Verbraucherschutz",
+"Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
+"Innenausschuss"
+],
+"geld_aus": [
+"Deutscher Bundestag"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/P/plum_martin-1046564",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 30001,
+"bis": 40000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e9/cf/682012/Jahresabschluss-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003792/70187",
+"abgerufen": "2026-11-02",
+"stand": "2026-01-15",
+"etikett": "Eigenangabe",
+"version": 11
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/L/limburg_helge-1045826",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/P/plum_martin-1046564",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

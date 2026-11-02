@@ -1,0 +1,181 @@
+{
+"id": "deutscher-kanu-verband",
+"name": "Deutscher Kanu-Verband",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Duisburg",
+"website": "www.kanu.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005316",
+"eintrag_id": 77827,
+"version": 7,
+"stand": "2026-07-14",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005316/77827",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c5/28/812731/Lobbyregister-Registereintraege-Detailansicht-R005316-2026-07-14_11-49-33.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundeskanzleramt",
+"epl": "04",
+"von": 5510001,
+"bis": 5520000,
+"zweck": "Bundeszuschuss Leistungssportpersonal olympisch/paralympisch/nicht-olympisch Bundeszuschuss Projektförderung olympisch/paralympisch/nicht-olympisch Bundeszuschuss Zentrale Einrichtungen olympisch/paralympisch Bundeszuschüsse internationale Großveranstaltungen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Sportjugend",
+"epl": null,
+"von": 70001,
+"bis": 80000,
+"zweck": "Personalkostenzuschuss Jugend KJP/Projektförderung Jugend",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutscher Olympischer Sportbund",
+"epl": null,
+"von": 50001,
+"bis": 60000,
+"zweck": "Zuschuss aus dem DOSB-Sonder-Programmen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 5630003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Dajana Pefestorff",
+"funktion": "Präsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005316/77827",
+"stand": "2026-07-14"
+}
+},
+{
+"name": "Peter Ludwig",
+"funktion": "Vizepräsident Finanzen und Inneres",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005316/77827",
+"stand": "2026-07-14"
+}
+},
+{
+"name": "Gabriele Koch",
+"funktion": "Vizepräsidentin Freizeitsport",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005316/77827",
+"stand": "2026-07-14"
+}
+},
+{
+"name": "Karl Hauck",
+"funktion": "Vizepräsident Leistungssport",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005316/77827",
+"stand": "2026-07-14"
+}
+},
+{
+"name": "Joachim Schwarzrock",
+"funktion": "Vizepräsident Leistungssport",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005316/77827",
+"stand": "2026-07-14"
+}
+},
+{
+"name": "Ulrike Schreck",
+"funktion": "Vizepräsidentin Verbandsentwicklung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005316/77827",
+"stand": "2026-07-14"
+}
+},
+{
+"name": "Wolfram Götz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005316/77827",
+"stand": "2026-07-14"
+}
+},
+{
+"name": "Jens Kahl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005316/77827",
+"stand": "2026-07-14"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges",
+"Wirtschaftliche Tätigkeit",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 1290001,
+"bis": 1300000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/b7/7c/812728/Deutscher-Kanu-Verband-e-V-Jahresabschluss-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005316/77827",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-14",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

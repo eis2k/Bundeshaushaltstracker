@@ -1,0 +1,193 @@
+{
+"id": "stiftung-datenschutz",
+"name": "Stiftung Datenschutz",
+"art": "verein_stiftung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "06-0601-68643",
+"text": "Zuschuss an die \"Stiftung Datenschutz\"",
+"epl": "06",
+"epl_text": "Bundesministerium des Innern, für Bau und Heimat",
+"werte": {
+"2015": {
+"soll": 0,
+"ist": 0
+},
+"2016": {
+"soll": 0,
+"ist": 0
+},
+"2021": {
+"soll": 700000,
+"ist": 700000
+}
+}
+},
+{
+"id": "07-0710-68601",
+"text": "Zuschuss an die Stiftung Datenschutz",
+"epl": "07",
+"epl_text": "Bundesministerium der Justiz und für Verbraucherschutz",
+"werte": {
+"2022": {
+"soll": 1000000,
+"ist": 1000000
+},
+"2023": {
+"soll": 1110000,
+"ist": 1110000
+},
+"2024": {
+"soll": 1110000,
+"ist": 1110000
+},
+"2025": {
+"soll": 1110000,
+"ist": 1126000
+},
+"2026": {
+"soll": 1110000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [
+{
+"typ": "abgeordneter_funktion",
+"person": "Joachim Ebmeyer",
+"funktion_person": "MdB, CDU/CSU",
+"funktion_beim_empfaenger": "Mitglied des Beirates (ab 13.11.2025)",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Joachim Ebmeyer (MdB, CDU/CSU) ist laut bundestag.de Mitglied des Beirates (ab 13.11.2025) bei Stiftung Datenschutz. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Digitales und Staatsmodernisierung; Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung; Ausschuss für Landwirtschaft, Ernährung und Heimat.",
+"ausschuesse": [
+"Ausschuss für Digitales und Staatsmodernisierung",
+"Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung",
+"Ausschuss für Landwirtschaft, Ernährung und Heimat"
+],
+"geld_aus": [],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/E/ebmeyer_joachim-1044138",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Sonja Lemke",
+"funktion_person": "MdB, Die Linke",
+"funktion_beim_empfaenger": "Mitglied des Beirates (ab 09.12.2025)",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Sonja Lemke (MdB, Die Linke) ist laut bundestag.de Mitglied des Beirates (ab 09.12.2025) bei Stiftung Datenschutz. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Digitales und Staatsmodernisierung; Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung; Schriftführer/in; Ausschuss für Kultur und Medien.",
+"ausschuesse": [
+"Ausschuss für Digitales und Staatsmodernisierung",
+"Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung",
+"Schriftführer/in",
+"Ausschuss für Kultur und Medien"
+],
+"geld_aus": [],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/L/lemke_sonja-1045784",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Jan Ralf Nolte",
+"funktion_person": "MdB, AfD",
+"funktion_beim_empfaenger": "Mitglied des Beirates, ehrenamtlich",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Jan Ralf Nolte (MdB, AfD) ist laut bundestag.de Mitglied des Beirates, ehrenamtlich bei Stiftung Datenschutz. Ausschüsse und Gremien im Bundestag laut bundestag.de: Verteidigungsausschuss; Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit.",
+"ausschuesse": [
+"Verteidigungsausschuss",
+"Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit"
+],
+"geld_aus": [],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/N/nolte_jan-1046360",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Johannes Schätzl",
+"funktion_person": "MdB, SPD",
+"funktion_beim_empfaenger": "Mitglied des Beirates (ab 09.12.2025)",
+"kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
+"abgleich": "exakt",
+"satz": "Johannes Schätzl (MdB, SPD) ist laut bundestag.de Mitglied des Beirates (ab 09.12.2025) bei Stiftung Datenschutz. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Digitales und Staatsmodernisierung; Innenausschuss; Ausschuss für Landwirtschaft, Ernährung und Heimat.",
+"ausschuesse": [
+"Ausschuss für Digitales und Staatsmodernisierung",
+"Innenausschuss",
+"Ausschuss für Landwirtschaft, Ernährung und Heimat"
+],
+"geld_aus": [],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/S/schaetzl_johannes-1047012",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/E/ebmeyer_joachim-1044138",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/L/lemke_sonja-1045784",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/N/nolte_jan-1046360",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/S/schaetzl_johannes-1047012",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

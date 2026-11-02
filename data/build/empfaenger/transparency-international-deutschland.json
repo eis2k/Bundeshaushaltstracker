@@ -1,0 +1,604 @@
+{
+"id": "transparency-international-deutschland",
+"name": "Transparency International Deutschland e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.transparency.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000249",
+"eintrag_id": 85213,
+"version": 38,
+"stand": "2026-09-11",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/13/ad/841099/Lobbyregister-Registereintraege-Detailansicht-R000249-2026-09-11_18-51-48.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+"epl": "23",
+"von": 20001,
+"bis": 30000,
+"zweck": "Die Förderung der GIZ GmbH ist für Transparency Deutschlands Rolle in der Multi-Stakeholder-Gruppe (MSG) der \"Initiative für Transparenz im rohstoffgewinnenden Sektor\" (D-EITI). In der MSG sind Akteure aus Regierung, Wirtschaft und Zivilgesellschaft vertreten. Sie werden von der Bundesregierung für einen Zeitraum von mindestens zwei Jahren berufen. Aufgabe der MSG ist die Steuerung und Kontrolle der Umsetzung von D-EITI. Dazu gehören unter anderem die Abnahme von Arbeitsplänen und Fortschrittsberichten.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 20001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Alexandra Herzog",
+"funktion": "Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Margarete Bause",
+"funktion": "Stellvertretende Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-10"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Heribert Hirte",
+"funktion": "Stellvertretender Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2021-10"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Christin Lüttich",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Norman Loeckel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Julian Brummer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Helena Peltonen-Gassmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Stephan Klaus Ohme",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Christoph Kowalewski",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Anna-Katharina Zubrod",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Angela Reitmaier",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Wolfgang Jäckle",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Ulrike Fröhling",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Franz-Josef Meuter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Sonja Grolig",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Bernhard Amler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Hartmut Bäumer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Peter Conze",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Nicole Espey",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Sieglinde Grauer-Lietz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Katharina Hübner-Schmid",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Martina Kampmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Edda Müller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Georg Neumann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Julius Reiter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Louisa Schloussen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Ingrid Schmidt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Tassilo Schröck",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Johanna Gorke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Bernd  Hüttemann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Rolf Blaga",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Elena  Grüning",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Jens Ullrich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Sarina  Korte",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Jan Schröter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Bertram Lang",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Florian Friedrich Schulz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Sophie von Waitz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Moritz  Neujeffski",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Timm Ebner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Carel Mohn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Funda Tekin",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+},
+{
+"name": "Jonas Schmitz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Margarete Bause",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag, bis 2021-10",
+"funktion_beim_empfaenger": "Stellvertretende Vorsitzende",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Margarete Bause ist laut Lobbyregister Stellvertretende Vorsitzende bei Transparency International Deutschland e.V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag, bis 2021-10. Transparency International Deutschland e.V. erhielt laut Lobbyregister Mittel von: Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH.",
+"ausschuesse": [],
+"geld_aus": [
+"Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+],
+"stand": "2026-09-11"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Heribert Hirte",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag, bis 2021-10",
+"funktion_beim_empfaenger": "Stellvertretender Vorsitzende",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Heribert Hirte ist laut Lobbyregister Stellvertretender Vorsitzende bei Transparency International Deutschland e.V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag, bis 2021-10. Transparency International Deutschland e.V. erhielt laut Lobbyregister Mittel von: Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH.",
+"ausschuesse": [],
+"geld_aus": [
+"Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"stand": "2026-09-11"
+}
+],
+"stand": "2026-09-11"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 170001,
+"bis": 180000
+},
+"mitgliedsbeitraege": {
+"von": 300001,
+"bis": 310000
+},
+"lobbyausgaben": {
+"von": 70001,
+"bis": 80000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/57/68/841098/Jahresabschluss_2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000249/85213",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-11",
+"etikett": "Eigenangabe",
+"version": 38
+}
+]
+}

@@ -1,0 +1,182 @@
+{
+"id": "deutsche-reiterliche-vereinigung",
+"name": "Deutsche Reiterliche Vereinigung e.V. (FN)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Warendorf",
+"website": "www.pferd-aktuell.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002188",
+"eintrag_id": 87416,
+"version": 16,
+"stand": "2026-10-12",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002188/87416",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/26/94/859974/Lobbyregister-Registereintraege-Detailansicht-R002188-2026-10-12_13-19-44.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium des Innern und für Heimat",
+"epl": "06",
+"von": 740001,
+"bis": 750000,
+"zweck": "Bundesmittel - Bundesstützpunkt",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium des Innern und für Heimat",
+"epl": "06",
+"von": 1300001,
+"bis": 1310000,
+"zweck": "Bundesmittel - Leistungssportpersonal",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium des Innern und für Heimat",
+"epl": "06",
+"von": 1410001,
+"bis": 1420000,
+"zweck": "Bundesmittel - Jahresplanung Olympische und Nichtolympische Disziplinen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium des Innern und für Heimat",
+"epl": "06",
+"von": 140001,
+"bis": 150000,
+"zweck": "Bundesmittel - Jahresplanung Para Dressur",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium des Innern und für Heimat",
+"epl": "06",
+"von": 90001,
+"bis": 100000,
+"zweck": "Bundesmittel - Leistungssportpersonal Para Dressur",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium des Innern und für Heimat",
+"epl": "06",
+"von": 40001,
+"bis": 50000,
+"zweck": "Bundesmittel - BiSP Projekt \"Entwicklung einer robusten 3D-Pferdeskeletterkennung auf Basis einfacher Smartphone-Aufnahmen\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 3720006,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Dennis Peiler",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002188/87416",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Klaus Miesner",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002188/87416",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Vanessa Richwien",
+"funktion": "Vorstandsmitglied Finanzen",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002188/87416",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Lagershausen Henrike",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002188/87416",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Thomas Ungruhe",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002188/87416",
+"stand": "2026-10-12"
+}
+},
+{
+"name": "Martin Richenhagen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002188/87416",
+"stand": "2026-10-12"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 400001,
+"bis": 410000
+},
+"mitgliedsbeitraege": {
+"von": 4840001,
+"bis": 4850000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/98/a7/859971/Jahresbericht-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002188/87416",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-12",
+"etikett": "Eigenangabe",
+"version": 16
+}
+]
+}

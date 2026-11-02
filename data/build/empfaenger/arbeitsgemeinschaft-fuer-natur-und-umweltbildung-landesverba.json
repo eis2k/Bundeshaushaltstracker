@@ -1,0 +1,107 @@
+{
+"id": "arbeitsgemeinschaft-fuer-natur-und-umweltbildung-landesverba",
+"name": "Arbeitsgemeinschaft für Natur- und Umweltbildung Landesverband Hessen e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Frankfurt am Main",
+"website": "https://anu-hessen.de/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005994",
+"eintrag_id": 76038,
+"version": 7,
+"stand": "2026-06-02",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005994/76038",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/dc/ba/746154/Lobbyregister-Registereintraege-Detailansicht-R005994-2026-06-02_12-16-55.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Umweltbundesamt",
+"epl": "16",
+"von": 40001,
+"bis": 50000,
+"zweck": "Zuwendung für das Vorhaben \"\"„NaMaTool – Das Nachhaltigkeitsmanagement Tool für zivilgesellschaftliche Verbände und Vereine mit Fokus auf sozial-ökologische Beschaffung und Veranstaltungsmanagement, Ressourcenverbrauch und Kreislaufwirtschaft sowie nachhaltige Ernährung und Gemeinschaftsverpflegung.\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 40001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Martin Jatho",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005994/76038",
+"stand": "2026-06-02"
+}
+},
+{
+"name": "Reiner Mathar",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005994/76038",
+"stand": "2026-06-02"
+}
+},
+{
+"name": "Jennifer Gatzke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005994/76038",
+"stand": "2026-06-02"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/d8/2f/746152/Kassenbericht-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005994/76038",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-02",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

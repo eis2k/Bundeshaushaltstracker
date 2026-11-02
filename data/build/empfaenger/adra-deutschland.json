@@ -1,0 +1,160 @@
+{
+"id": "adra-deutschland",
+"name": "ADRA Deutschland e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Weiterstadt",
+"website": "adra.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001570",
+"eintrag_id": 81774,
+"version": 14,
+"stand": "2026-07-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001570/81774",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/e1/0c/798528/Lobbyregister-Registereintraege-Detailansicht-R001570-2026-07-01_10-41-04.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 3760001,
+"bis": 3770000,
+"zweck": "Förderung Auswärtiges Amt- Humanitäre Hilfe im Ausland -Projektförderung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 160001,
+"bis": 170000,
+"zweck": "Förderung BMZ über Engagement Global- Förderprogramm \"weltwärts\" und entwicklungspolitische Bildung (FEB)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 2240001,
+"bis": 2250000,
+"zweck": "Förderprogramm BMZ über Engagement Global- Fördertitel Private Träger",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 2450001,
+"bis": 2460000,
+"zweck": "Förderung BMZ- Fördertitel Entwicklungspolitische Zusammenarbeit/Übergangshilfe, Infrastruktur und Krisenbewältigung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Blue Action Fund c/o Nature Trust Alliance GbR",
+"epl": null,
+"von": 1050001,
+"bis": 1060000,
+"zweck": "Projektförderung: Empowering fisher-farmer communities to adopt nature-based solutions, Mozambique Projektförderung: Ecosystem-based Adaptation to climate change in Maputo EPA, Mozambique",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)",
+"epl": "23",
+"von": 150001,
+"bis": 160000,
+"zweck": "Projektförderung: Qualifications and Employment Perspectives for Refugees and Host Communities in Ethiopia Programme (QEP)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 9810006,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christian  Molke",
+"funktion": "Vorsitzender des Vorstands ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001570/81774",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Robert  Schmidt",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001570/81774",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Bianca  Belger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001570/81774",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Carina  Rolly",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001570/81774",
+"stand": "2026-07-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 11590001,
+"bis": 11600000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 170001,
+"bis": 180000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/8c/dd/798527/ADRA-e-V-Pruefbericht-JA-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001570/81774",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-01",
+"etikett": "Eigenangabe",
+"version": 14
+}
+]
+}

@@ -1,0 +1,118 @@
+{
+"id": "freier-zusammenschluss-von-studenten-innenschaften",
+"name": "freier zusammenschluss von studenten*innenschaften (fzs) e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.fzs.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003520",
+"eintrag_id": 75806,
+"version": 11,
+"stand": "2026-04-27",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003520/75806",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ba/57/728164/Lobbyregister-Registereintraege-Detailansicht-R003520-2026-04-27_15-38-10.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMBF,  Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "Zuschüsse zu Veranstaltungen und Seminaren",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 20001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Joanne Dietze",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003520/75806",
+"stand": "2026-04-27"
+}
+},
+{
+"name": "Tabea Herbst",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003520/75806",
+"stand": "2026-04-27"
+}
+},
+{
+"name": "Katharina Rummenhöller",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003520/75806",
+"stand": "2026-04-27"
+}
+},
+{
+"name": "Tjark Kandulski",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003520/75806",
+"stand": "2026-04-27"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 520001,
+"bis": 530000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/74/08/728163/EUR_2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003520/75806",
+"abgerufen": "2026-11-02",
+"stand": "2026-04-27",
+"etikett": "Eigenangabe",
+"version": 11
+}
+]
+}

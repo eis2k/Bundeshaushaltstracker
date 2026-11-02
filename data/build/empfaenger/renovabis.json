@@ -1,0 +1,119 @@
+{
+"id": "renovabis",
+"name": "Renovabis e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Freising",
+"website": "www.renovabis.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005804",
+"eintrag_id": 77447,
+"version": 6,
+"stand": "2026-06-11",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005804/77447",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/49/61/756127/Lobbyregister-Registereintraege-Detailansicht-R005804-2026-06-11_14-19-11.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Katholische Zentralstelle für Entwicklungshilfe e.V.",
+"epl": null,
+"von": 4410001,
+"bis": 4420000,
+"zweck": "Mittel des Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ), Berlin Vorhaben entwicklungswichtiger Vorhaben der Kirchen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 4410001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Thomas Schwartz",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005804/77447",
+"stand": "2026-06-11"
+}
+},
+{
+"name": "Markus Ingenlath",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005804/77447",
+"stand": "2026-06-11"
+}
+},
+{
+"name": "Matthias Dörr",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005804/77447",
+"stand": "2026-06-11"
+}
+},
+{
+"name": "Renate Krekeler-Koch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005804/77447",
+"stand": "2026-06-11"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 12160001,
+"bis": 12170000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 90001,
+"bis": 100000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/54/54/756124/2025_Jahresbericht-web.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005804/77447",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-11",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

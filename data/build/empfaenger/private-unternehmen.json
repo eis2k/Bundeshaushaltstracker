@@ -1,0 +1,104 @@
+{
+"id": "private-unternehmen",
+"name": "private Unternehmen",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "12-1202-89241",
+"text": "Zuschüsse an private Unternehmen für Investitionen in den Kombinierten Verkehr",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"werte": {
+"2015": {
+"soll": 92083000,
+"ist": 27608315
+}
+}
+},
+{
+"id": "12-1210-89241",
+"text": "Zuschüsse an private Unternehmen für Investitionen in den Kombinierten Verkehr",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr",
+"werte": {
+"2016": {
+"soll": 92700000,
+"ist": 38616864
+},
+"2017": {
+"soll": 92700000,
+"ist": 46699298
+},
+"2018": {
+"soll": 72700000,
+"ist": 35651673
+},
+"2019": {
+"soll": 92700000,
+"ist": 43335340
+},
+"2020": {
+"soll": 62700000,
+"ist": 48164478
+},
+"2021": {
+"soll": 72700000,
+"ist": 31384223
+},
+"2022": {
+"soll": 77700000,
+"ist": 43887379
+},
+"2023": {
+"soll": 62700000,
+"ist": 65335471
+},
+"2024": {
+"soll": 77280000,
+"ist": 103694716
+},
+"2025": {
+"soll": 92700000,
+"ist": 86006446
+},
+"2026": {
+"soll": 90300000,
+"ist": null
+}
+}
+},
+{
+"id": "12-1210-69241",
+"text": "Zuwendung an private Unternehmen zur Förderung des begleiteten kombinierten Verkehrs (Rollende Landstraße)",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"werte": {
+"2018": {
+"soll": 0,
+"ist": 0
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

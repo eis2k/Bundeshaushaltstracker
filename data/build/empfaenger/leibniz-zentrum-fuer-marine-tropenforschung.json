@@ -1,0 +1,96 @@
+{
+"id": "leibniz-zentrum-fuer-marine-tropenforschung",
+"name": "Leibniz-Zentrum für Marine Tropenforschung (ZMT) GmbH",
+"art": "forschung",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Bremen",
+"website": "www.leibniz-zmt.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006492",
+"eintrag_id": 74167,
+"version": 6,
+"stand": "2026-06-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006492/74167",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/e1/3a/783899/Lobbyregister-Registereintraege-Detailansicht-R006492-2026-06-29_13-39-19.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMFTR",
+"epl": "30",
+"von": 1040001,
+"bis": 1050000,
+"zweck": "Zuschüsse für Forschungsvorhaben",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1040001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Raimund Bleischwitz",
+"funktion": "Wissenschaftlicher Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006492/74167",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Nicolas Dittert",
+"funktion": "Kaufmännischer Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006492/74167",
+"stand": "2026-06-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/b5/b6/783894/Testat_2025_ZMT.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006492/74167",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-29",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

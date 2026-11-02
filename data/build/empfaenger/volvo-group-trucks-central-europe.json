@@ -1,0 +1,106 @@
+{
+"id": "volvo-group-trucks-central-europe",
+"name": "Volvo Group Trucks Central Europe GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Ismaning",
+"website": "www.volvogroup.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004193",
+"eintrag_id": 80581,
+"version": 7,
+"stand": "2026-07-23",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004193/80581",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/6e/ad/818711/Lobbyregister-Registereintraege-Detailansicht-R004193-2026-07-23_11-43-19.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie - BMWE",
+"epl": "09",
+"von": 40001,
+"bis": 50000,
+"zweck": "Hochleistungsladen im LKW-Fernverkehr - HoLa Integration und Demonstration des Einsatzes von elektrifizierten mobilen Maschinen in der Rohstoffindustrie - ELMAR",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 40001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Markus Weckesser",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004193/80581",
+"stand": "2026-07-23"
+}
+},
+{
+"name": "Maximilian von Löbbecke",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004193/80581",
+"stand": "2026-07-23"
+}
+},
+{
+"name": "Gregor Frieb",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004193/80581",
+"stand": "2026-07-23"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/80/06/818707/Muenchen_HRB_154711_26-06-2026.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004193/80581",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-23",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

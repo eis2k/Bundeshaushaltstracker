@@ -1,0 +1,389 @@
+{
+"id": "enbw-energie-baden-wuerttemberg",
+"name": "EnBW Energie Baden-Württemberg AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Karlsruhe",
+"website": "www.enbw.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002297",
+"eintrag_id": 86645,
+"version": 120,
+"stand": "2026-09-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002297/86645",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/8e/c0/850420/Lobbyregister-Registereintraege-Detailansicht-R002297-2026-09-29_15-27-28.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 530001,
+"bis": 540000,
+"zweck": "Entwicklung einer sicheren digitalen Infrastruktur für die Energiewende",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 620001,
+"bis": 630000,
+"zweck": "Förderung eines Reallabors zur Planung und Errichtung einer Großwärmepumpe",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 1600001,
+"bis": 1610000,
+"zweck": "Planung, Bau und Inbetriebnahme eines Geothermieheizwerkes zur Wärmeversorgung von Industrie und Kommunen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 20001,
+"bis": 30000,
+"zweck": "Förderung eines Transformationsplans für das Wärmenetz",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 80001,
+"bis": 90000,
+"zweck": "Weiterentwicklung der Ladeinfrastrukturhardware und des Ladeinfrastrukturmanagements",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 210001,
+"bis": 220000,
+"zweck": "Förderung einer Realisierung eines Wärmenetzsysteme 4.0",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 620001,
+"bis": 630000,
+"zweck": "Förderung zur Realisierung eines Teilmoduls des Wärmenetzsystems 4.0",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 840001,
+"bis": 850000,
+"zweck": "Förderung eines ortsspezifischen, effizienten Wärmenetzes",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 620001,
+"bis": 630000,
+"zweck": "Förderung eines ortsspezifischen, effizienten Wärmenetzes",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 340001,
+"bis": 350000,
+"zweck": "Förderung eines ortsspezifischen, effizienten Wärmenetzes",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 5480010,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Georg Stamatelopoulos",
+"funktion": "Vorsitzender des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002297/86645",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Dirk Güsewell",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002297/86645",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Thomas Kusterer",
+"funktion": "Stellvertretender Vorsitzender des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002297/86645",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Charlotte Beissel",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002297/86645",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Peter Heydecker",
+"funktion": "Mitglied des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002297/86645",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Andreas Renner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002297/86645",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Gundula Klesse",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002297/86645",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Jacek Mazurkiewicz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002297/86645",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Roland Wolf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002297/86645",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Bernhard Walter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002297/86645",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Jörg Michels",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002297/86645",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Urs Wahl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002297/86645",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Christina Gels",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2023-06"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002297/86645",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Sebastian Wölfle",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002297/86645",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Vladimir Mijatovic",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002297/86645",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Holger Schäfer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002297/86645",
+"stand": "2026-09-29"
+}
+},
+{
+"name": "Philipp Mosmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-12"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002297/86645",
+"stand": "2026-09-29"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Christina Gels",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-06",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Christina Gels ist laut Lobbyregister Interessenvertretung bei EnBW Energie Baden-Württemberg AG und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2023-06. EnBW Energie Baden-Württemberg AG erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Energie; Bundesamt für Wirtschaft und Ausfuhrkontrolle.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Wirtschaft und Energie",
+"Bundesamt für Wirtschaft und Ausfuhrkontrolle"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002297/86645",
+"stand": "2026-09-29"
+}
+],
+"stand": "2026-09-29"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Philipp Mosmann",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-12",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Philipp Mosmann ist laut Lobbyregister Interessenvertretung bei EnBW Energie Baden-Württemberg AG und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-12. EnBW Energie Baden-Württemberg AG erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Energie; Bundesamt für Wirtschaft und Ausfuhrkontrolle.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Wirtschaft und Energie",
+"Bundesamt für Wirtschaft und Ausfuhrkontrolle"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002297/86645",
+"stand": "2026-09-29"
+}
+],
+"stand": "2026-09-29"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 2340001,
+"bis": 2350000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/f0/fc/850416/enbw-geschaeftsbericht-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002297/86645",
+"abgerufen": "2026-11-02",
+"stand": "2026-09-29",
+"etikett": "Eigenangabe",
+"version": 120
+}
+]
+}

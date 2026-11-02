@@ -1,0 +1,96 @@
+{
+"id": "deutsches-rheuma-forschungszentrum-berlin-ein-institut-der-l",
+"name": "Deutsches Rheuma-Forschungszentrum Berlin - Ein Institut der Leibniz-Gemeinschaft",
+"art": "forschung",
+"rechtsform": "Rechtsfähige Stiftung bürgerlichen Rechts",
+"sitz": "Berlin",
+"website": "www.drfz.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006697",
+"eintrag_id": 81902,
+"version": 6,
+"stand": "2026-07-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006697/81902",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ee/1d/800178/Lobbyregister-Registereintraege-Detailansicht-R006697-2026-07-01_14-55-19.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bund",
+"epl": "60",
+"von": 6120001,
+"bis": 6130000,
+"zweck": "Zuwendung - institutionelle Bund-Länder-Finanzierung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 6120001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Eicke Latz",
+"funktion": "Wissenschaftlicher Direktor",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006697/81902",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Uta Bielfeldt",
+"funktion": "Kaufmännische Direktorin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006697/81902",
+"stand": "2026-07-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/70/44/800177/DRFZ_Testat-2025_final.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006697/81902",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-01",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

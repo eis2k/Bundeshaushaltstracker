@@ -1,0 +1,132 @@
+{
+"id": "bayerischer-sportschuetzenbund",
+"name": "Bayerischer Sportschützenbund e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Garching",
+"website": "www.bssb.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006354",
+"eintrag_id": 83392,
+"version": 4,
+"stand": "2026-07-21",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006354/83392",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/75/52/816765/Lobbyregister-Registereintraege-Detailansicht-R006354-2026-07-21_07-30-13.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium des Innern und für Heimat",
+"epl": "06",
+"von": 250001,
+"bis": 260000,
+"zweck": "Zuschuss für Modernisierung Sportanlagen, Trainermittel, Trainingsstätten und Betriebskosten des Olympiastützpunkts",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 250001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christian Kühn",
+"funktion": "1. Landesschützenmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006354/83392",
+"stand": "2026-07-21"
+}
+},
+{
+"name": "Dieter Vierlbeck",
+"funktion": "2. Landesschützenmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006354/83392",
+"stand": "2026-07-21"
+}
+},
+{
+"name": "Johann Hainthaler",
+"funktion": "3. Landesschützenmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006354/83392",
+"stand": "2026-07-21"
+}
+},
+{
+"name": "Albert Euba",
+"funktion": "4. Landesschützenmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006354/83392",
+"stand": "2026-07-21"
+}
+},
+{
+"name": "Stefan Fersch",
+"funktion": "5. Landesschützenmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006354/83392",
+"stand": "2026-07-21"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 7650001,
+"bis": 7660000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/80/98/816764/JA-2025-Lobbyregister-Bund.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006354/83392",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-21",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

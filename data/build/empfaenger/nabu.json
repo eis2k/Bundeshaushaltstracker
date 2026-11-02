@@ -1,0 +1,995 @@
+{
+"id": "nabu",
+"name": "NABU (Naturschutzbund Deutschland) e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.NABU.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001667",
+"eintrag_id": 87541,
+"version": 62,
+"stand": "2026-10-26",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ee/be/865348/Lobbyregister-Registereintraege-Detailansicht-R001667-2026-10-26_11-27-23.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+"epl": "16",
+"von": 650001,
+"bis": 660000,
+"zweck": "Zuschüsse im Rahmen der Förderprogramme Kommunale Modellvorhaben und der Internationale Klimaschutzinitiative (IKI)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BfN Bundesamt für Naturschutz",
+"epl": "16",
+"von": 6290001,
+"bis": 6300000,
+"zweck": "Zuschüsse im Rahmen der Förderprogramme Bundesprogramm Biologische Vielfalt, Bundesprogramm Blaues Band (Förderprogramm Auen), chance.natur, der Einzelpläne 16 Kapitel 1604 (Titel 54402 & 89302), Kapitel 1614 (Titel 53202), Kapitel 6092 (Titel 68632), Nationales Artenhilfsprogramm und der Verbändeförderung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 200001,
+"bis": 210000,
+"zweck": "Zuschüsse im Rahmen der Förderprogramme Forschungsinitiative zum Erhalt der Artenvielfalt (FEdA) und der Einzelpläne 30 Kapitel 3004 (Titel 68513) und Bundesprogramm BiodivKI und BiodiWert II",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "UBA Umweltbundesamt",
+"epl": "16",
+"von": 130001,
+"bis": 140000,
+"zweck": "Zuschüsse im Rahmen der Einzelpläne 16, Kapitel 1601 (Titel 68505 & 68787) und der Verbändeförderung.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Auswärtige Angelegenheiten",
+"epl": null,
+"von": 50001,
+"bis": 60000,
+"zweck": "Zuschuss im Rahmen des Einzelplan Kapitel 0504, Titel 68713",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 2540001,
+"bis": 2550000,
+"zweck": "Zuschüsse im Rahmen des Einzelplan Kapitel 2302, Titel 687 76.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Bundesstiftung Umwelt",
+"epl": null,
+"von": 80001,
+"bis": 90000,
+"zweck": "Zuschuss im Bereich Naturschutz und Gewässerschutz.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 9940007,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jörg-Andreas Krüger",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Petra Wassmann",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Christian Unselt",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Christine Sauer",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Christoph Kasulke",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Kari Fintzen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Marie Neuwald",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Konstantin Kreiser",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Pierre Johannes",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Christine Tölle-Nolting",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Laura Henningson",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Kim Detloff",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Anne Böhnke-Henrichs",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Thorsten Werner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Sven Selbert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Stefan Petzold",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Laura Breitkreuz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Manja Graham",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Charlotte Lorentz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Katja Kaupisch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Matthias Laurisch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Rebekka Blessenohl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Steffi Ober",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Indra Enterlein",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Michael Jedelhauser",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Daniel Rieger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Nikolas von Wysiecki",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Christian  Kopp",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Sönke Diesener",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Anja Laurisch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Jennifer Libionka",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Nadine Faschina",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Michaela Kruse",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Tilmann Disselhoff",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Stephan Piskol",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Maximilian Meister",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Dominik Auch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Silvia Brecht",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Pauline Schur",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Merlin Jonack",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Elena Kortmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Anke Fischer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Julia Balz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Ute Eggers",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Max Kolb",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Niels Thürigen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Katharina Istel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Lukas Leppert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Katharina Stucke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Johann Rathke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Karoline Brandt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Eric Häublein",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Katharina Fey",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Anna Luisa Schönwald",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Raija Koch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Nils Löster",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Leticia Jurema",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Rocco Buchta",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Doris Krabel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Heike Jeromin",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Raphael Weyland",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Brit Reichelt-Zolho",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Julia Vogel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Maria Smentek",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Nicole Laut",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Kim Geraldine Mortega",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Annalena Herrmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Jonas Lüpnitz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Sebastian Bock",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Niklas Stoll",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Auch Dominik",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Constanze Hammerl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Phillip Brändle",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2022-07"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Sebastian Amler",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Christiane Röttger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+},
+{
+"name": "Ivonne Famula",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Phillip Brändle",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2022-07",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Phillip Brändle ist laut Lobbyregister Interessenvertretung bei NABU (Naturschutzbund Deutschland) e. V. und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2022-07. NABU (Naturschutzbund Deutschland) e. V. erhielt laut Lobbyregister Mittel von: BfN Bundesamt für Naturschutz; Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung; Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit; Bundesministerium für Bildung und Forschung; UBA Umweltbundesamt; Deutsche Bundesstiftung Umwelt; Bundesamt für Auswärtige Angelegenheiten.",
+"ausschuesse": [],
+"geld_aus": [
+"BfN Bundesamt für Naturschutz",
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+"Bundesministerium für Bildung und Forschung",
+"UBA Umweltbundesamt",
+"Deutsche Bundesstiftung Umwelt",
+"Bundesamt für Auswärtige Angelegenheiten"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"stand": "2026-10-26"
+}
+],
+"stand": "2026-10-26"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Sonstiges",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 30260001,
+"bis": 30270000
+},
+"mitgliedsbeitraege": {
+"von": 37060001,
+"bis": 37070000
+},
+"lobbyausgaben": {
+"von": 2280001,
+"bis": 2290000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/46/d5/865345/Abschluss-NABU-2024-Kurzfassung.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001667/87541",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-26",
+"etikett": "Eigenangabe",
+"version": 62
+}
+]
+}

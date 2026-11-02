@@ -1,0 +1,136 @@
+{
+"id": "flughafen-duesseldorf",
+"name": "Flughafen Düsseldorf GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Düsseldorf",
+"website": "www.dus.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005821",
+"eintrag_id": 79332,
+"version": 10,
+"stand": "2026-06-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005821/79332",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/b3/6b/786090/Lobbyregister-Registereintraege-Detailansicht-R005821-2026-06-29_16-58-45.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 230001,
+"bis": 240000,
+"zweck": "Richtlinie für die Bundesförderung für effiziente Gebäude - Einzelmaßnahmen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 70001,
+"bis": 80000,
+"zweck": "Richtlinie für die Bundesförderung für effiziente Gebäude - Einzelmaßnahmen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 300002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Lars  Redeligx",
+"funktion": "Vorsitzender der Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005821/79332",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Pradeep Pinakatt",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005821/79332",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Jakob Stelzhammer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005821/79332",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Martin Langner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005821/79332",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Julius Scheidgen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005821/79332",
+"stand": "2026-06-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 290001,
+"bis": 300000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/66/ee/786087/DUS_Geschaeftsbericht_2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005821/79332",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-29",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

@@ -1,0 +1,177 @@
+{
+"id": "german-toilet-organization",
+"name": "German Toilet Organization e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.germantoilet.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000550",
+"eintrag_id": 81737,
+"version": 7,
+"stand": "2026-07-02",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000550/81737",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/3e/26/802191/Lobbyregister-Registereintraege-Detailansicht-R000550-2026-07-02_11-44-51.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 650001,
+"bis": 660000,
+"zweck": "Zuwendung zur Stärkung globaler humanitärer WASH Koordinierungsstrukturen und lokaler Kapazitäten von WASH",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Engagement Global gGmbH, Bonn",
+"epl": "23",
+"von": 70001,
+"bis": 80000,
+"zweck": "Projektbezogene Zuwendung für die entwicklungspolitische Informations- und Bildungsarbeit, mit unterschiedlichen Zwecken: Weckung von Interesse an Entwicklungsländern sowie an globalen Zusammenhängen; Auseinandersetzung mit dem Leitbild einer nachhaltigen Entwicklung; Motivierung zur aktiven Beteiligung an einer sozial verantwortlichen Gesellschaft; Unterstützung von entwicklungspolitischem Engagement.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Gesellschaft für Internationale Zusammenarbeit GmbH, Bonn",
+"epl": "23",
+"von": 60001,
+"bis": 70000,
+"zweck": "Die Mittel der GIZ dienten der Durchführung von Maßnahmen zur Stärkung und Harmonisierung des WASH-Sektors in Vorbereitung auf die UN Wasserkonferenz 2026.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 780003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Reinhard Marth",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000550/81737",
+"stand": "2026-07-02"
+}
+},
+{
+"name": "Barbara Wagner",
+"funktion": "stellvertretende Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Referentin",
+"stelle": "Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) (20. WP) oder dessen Geschäftsbereich",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000550/81737",
+"stand": "2026-07-02"
+}
+},
+{
+"name": "Kilian Langenbach",
+"funktion": "stellvertretender Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000550/81737",
+"stand": "2026-07-02"
+}
+},
+{
+"name": "Thilo Panzerbieter",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000550/81737",
+"stand": "2026-07-02"
+}
+},
+{
+"name": "Johannes Rück",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000550/81737",
+"stand": "2026-07-02"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Barbara Wagner",
+"funktion_person": "Referentin, Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) (20. WP) oder dessen Geschäftsbereich",
+"funktion_beim_empfaenger": "stellvertretende Vorstandsvorsitzende",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Barbara Wagner ist laut Lobbyregister stellvertretende Vorstandsvorsitzende bei German Toilet Organization e.V. und hatte zuvor eine öffentliche Funktion: Referentin, Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) (20. WP) oder dessen Geschäftsbereich. German Toilet Organization e.V. erhielt laut Lobbyregister Mittel von: Auswärtiges Amt; Engagement Global gGmbH, Bonn; Deutsche Gesellschaft für Internationale Zusammenarbeit GmbH, Bonn.",
+"ausschuesse": [],
+"geld_aus": [
+"Auswärtiges Amt",
+"Engagement Global gGmbH, Bonn",
+"Deutsche Gesellschaft für Internationale Zusammenarbeit GmbH, Bonn"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000550/81737",
+"stand": "2026-07-02"
+}
+],
+"stand": "2026-07-02"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 260001,
+"bis": 270000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e7/0c/802190/GTO-Gewinnermittlung-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000550/81737",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-02",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

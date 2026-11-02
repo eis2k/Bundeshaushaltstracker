@@ -1,0 +1,117 @@
+{
+"id": "northrop-grumman-litef",
+"name": "Northrop Grumman LITEF GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Freiburg",
+"website": "www.litef.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000975",
+"eintrag_id": 73393,
+"version": 8,
+"stand": "2026-03-09",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000975/73393",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/7b/5e/703434/Lobbyregister-Registereintraege-Detailansicht-R000975-2026-03-09_13-14-08.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz (BMWK)",
+"epl": "09",
+"von": 110001,
+"bis": 120000,
+"zweck": "DoNaU – Entwicklung integerer Navigationsalgorithmen für UAM durch Einbeziehung eines Doppler-Radars",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 110001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Lutz Kampmann",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000975/73393",
+"stand": "2026-03-09"
+}
+},
+{
+"name": "Alexander von Erdmannsdorff",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000975/73393",
+"stand": "2026-03-09"
+}
+},
+{
+"name": "Kai Dlouhy",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000975/73393",
+"stand": "2026-03-09"
+}
+},
+{
+"name": "Michael Dost",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000975/73393",
+"stand": "2026-03-09"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 160001,
+"bis": 170000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/71/57/703433/Konzernjahresabschluss_NG-Holding_2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000975/73393",
+"abgerufen": "2026-11-02",
+"stand": "2026-03-09",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

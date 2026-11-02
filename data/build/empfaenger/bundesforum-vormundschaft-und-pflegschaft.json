@@ -1,0 +1,119 @@
+{
+"id": "bundesforum-vormundschaft-und-pflegschaft",
+"name": "Bundesforum Vormundschaft und Pflegschaft e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Heidelberg",
+"website": "www.vormundschaft.net",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006475",
+"eintrag_id": 81760,
+"version": 4,
+"stand": "2026-07-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006475/81760",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/2b/37/799996/Lobbyregister-Registereintraege-Detailansicht-R006475-2026-07-01_14-25-07.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "BMFSFJ",
+"epl": "17",
+"von": 90001,
+"bis": 100000,
+"zweck": "ZukeV – Zukunft des Ehrenamts in Vormundschaft und Kinder- und Jugendhilfe Baustein 1 - Stand des Aufbaus von Strukturen zur Zusammenarbeit zwischen Behörde, Fachstellen und ehrenamtlicher Vormundschaft Baustein 2 - Transfer der Erfahrungen in der Vormundschaft auf andere Bereiche der Kinder- und Jugendhilfe Baustein 3 - Entwicklung von Hinweisen zur Zusammenarbeit von Familiengerichten, Jugendämtern, Vormund:innen",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 90001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Edda Elmauer",
+"funktion": "Stellv. Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006475/81760",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Ruth Seyboldt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006475/81760",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Jana Schrempp",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006475/81760",
+"stand": "2026-07-01"
+}
+},
+{
+"name": "Miriam Fritsche",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006475/81760",
+"stand": "2026-07-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 30001,
+"bis": 40000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e7/0b/799994/12946_Chefuebersicht-2025_Fin.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006475/81760",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-01",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

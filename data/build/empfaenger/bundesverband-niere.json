@@ -1,0 +1,138 @@
+{
+"id": "bundesverband-niere",
+"name": "Bundesverband Niere e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Mainz",
+"website": "www.bundesverband-niere.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002933",
+"eintrag_id": 83778,
+"version": 7,
+"stand": "2026-07-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002933/83778",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/0c/8b/821855/Lobbyregister-Registereintraege-Detailansicht-R002933-2026-07-29_06-40-25.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "GKV-Gemeinschaftsförderung Selbsthilfe auf Bundesebene (umgesetzt vom vdek - Verband der Ersatzkassen)",
+"epl": null,
+"von": 110001,
+"bis": 120000,
+"zweck": "Pauschalförderung im Rahmen der kassenübergreifenden Selbsthilfeförderung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 110001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Isabelle Jordans",
+"funktion": "Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Referentin",
+"stelle": "Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen (BMWSB) oder dessen Geschäftsbereich",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002933/83778",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Carola Qual",
+"funktion": "Stellv. Vorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002933/83778",
+"stand": "2026-07-29"
+}
+},
+{
+"name": "Norbert Hofste",
+"funktion": "stellv. Vorsitender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002933/83778",
+"stand": "2026-07-29"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Isabelle Jordans",
+"funktion_person": "Referentin, Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen (BMWSB) oder dessen Geschäftsbereich",
+"funktion_beim_empfaenger": "Vorsitzende",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Isabelle Jordans ist laut Lobbyregister Vorsitzende bei Bundesverband Niere e.V. und hatte zuvor eine öffentliche Funktion: Referentin, Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen (BMWSB) oder dessen Geschäftsbereich. Bundesverband Niere e.V. erhielt laut Lobbyregister Mittel von: GKV-Gemeinschaftsförderung Selbsthilfe auf Bundesebene (umgesetzt vom vdek - Verband der Ersatzkassen).",
+"ausschuesse": [],
+"geld_aus": [
+"GKV-Gemeinschaftsförderung Selbsthilfe auf Bundesebene (umgesetzt vom vdek - Verband der Ersatzkassen)"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002933/83778",
+"stand": "2026-07-29"
+}
+],
+"stand": "2026-07-29"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 160001,
+"bis": 170000
+},
+"mitgliedsbeitraege": {
+"von": 50001,
+"bis": 60000
+},
+"lobbyausgaben": {
+"von": 20001,
+"bis": 30000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/72/d9/821854/291225-Jahresabschluss-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002933/83778",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-29",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

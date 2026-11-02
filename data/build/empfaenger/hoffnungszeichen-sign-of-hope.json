@@ -1,0 +1,113 @@
+{
+"id": "hoffnungszeichen-sign-of-hope",
+"name": "Hoffnungszeichen | Sign of Hope e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Konstanz",
+"website": "www.hoffnungszeichen.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001071",
+"eintrag_id": 77132,
+"version": 17,
+"stand": "2026-05-22",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001071/77132",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/89/48/740905/Lobbyregister-Registereintraege-Detailansicht-R001071-2026-05-22_09-45-18.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Engagement Global gGmbH",
+"epl": "23",
+"von": 3010001,
+"bis": 3020000,
+"zweck": "Förderung von Projekten der internationalen Entwicklungszusammenarbeit",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+"epl": "23",
+"von": 10001,
+"bis": 20000,
+"zweck": "Förderung von Projekten der internationalen Entwicklungszusammenarbeit",
+"geschaeftsjahr": "2024"
+},
+{
+"geber": "Auswärtiges Amt (AA)",
+"epl": "05",
+"von": 4040001,
+"bis": 4050000,
+"zweck": "Förderung von Projekten der internationalen humanitären Hilfe",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 7060003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Klaus Stieglitz",
+"funktion": "Erster Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001071/77132",
+"stand": "2026-05-22"
+}
+},
+{
+"name": "Miriam Schütze",
+"funktion": "Zweite Vorständin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001071/77132",
+"stand": "2026-05-22"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 7130001,
+"bis": 7140000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/4e/e0/740904/Jahresabschluss-SoH-GJ-2024_25.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001071/77132",
+"abgerufen": "2026-11-02",
+"stand": "2026-05-22",
+"etikett": "Eigenangabe",
+"version": 17
+}
+]
+}

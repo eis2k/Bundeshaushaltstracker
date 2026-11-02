@@ -1,0 +1,120 @@
+{
+"id": "deutsche-schmerzgesellschaft",
+"name": "Deutsche Schmerzgesellschaft e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.schmerzgesellschaft.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003600",
+"eintrag_id": 70560,
+"version": 7,
+"stand": "2026-01-06",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003600/70560",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/e0/77/678841/Lobbyregister-Registereintraege-Detailansicht-R003600-2026-01-06_18-08-59.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "G-BA Gemeinsamer Bundesausschuss (Innovationfond) gemäß §§ 92a, 92b SGB V",
+"epl": null,
+"von": 3190001,
+"bis": 3200000,
+"zweck": "Projektmittel zur Durchführung von G-BA/DLR Innovationsfondsprojekten Details siehe: 1) https://innovationsfonds.g-ba.de/projekte/neue-versorgungsformen/poet-pain-praevention-operationsbedingter-anhaltender-schmerzen-durch-einfuehrung-eines-perioperativen-transitional-pain-service.370 2) https://innovationsfonds.g-ba.de/projekte/neue-versorgungsformen/pain2-0-patientenorientiert-abgestuft-interdisziplinaer-netzwerk-therapie.436 3) https://innovationsfonds.g-ba.de/projekte/versorgungsforschung/geripain-schmerzmanagement-bei-geriatrischen-patient-innen-entwicklung-einer-interprofessionellen-und-intersektoralen-s3-leitlinie.527 4) https://innovationsfonds.g-ba.de/projekte/lonts-2025.649 www.schmerzgesellschaft.de",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 3190001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Frank Petzke",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003600/70560",
+"stand": "2026-01-06"
+}
+},
+{
+"name": "Christiane Hermann",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003600/70560",
+"stand": "2026-01-06"
+}
+},
+{
+"name": "Thomas Isenberg",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003600/70560",
+"stand": "2026-01-06"
+}
+},
+{
+"name": "Waltraud Faber",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003600/70560",
+"stand": "2026-01-06"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge",
+"Sonstiges",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 830001,
+"bis": 840000
+},
+"lobbyausgaben": {
+"von": 120001,
+"bis": 130000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/27/b9/678838/Abschlussbericht-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003600/70560",
+"abgerufen": "2026-11-02",
+"stand": "2026-01-06",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

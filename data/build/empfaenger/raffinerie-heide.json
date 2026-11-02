@@ -1,0 +1,84 @@
+{
+"id": "raffinerie-heide",
+"name": "Raffinerie Heide GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Hemmingstedt",
+"website": "www.heiderefinery.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R003731",
+"eintrag_id": 57722,
+"version": 9,
+"stand": "2026-05-22",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003731/57722",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/8f/d4/741059/Lobbyregister-Registereintraege-Detailansicht-R003731-2026-05-22_11-02-56.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bund",
+"epl": "60",
+"von": 6050001,
+"bis": 6060000,
+"zweck": "Strompreiskompensation-Beihilfe",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 6050001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Roland Kühl",
+"funktion": "Managing Director",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003731/57722",
+"stand": "2026-05-22"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/f6/d1/741057/20260331-RHG-2025-IFRS-Testatversion-DE.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003731/57722",
+"abgerufen": "2026-11-02",
+"stand": "2026-05-22",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

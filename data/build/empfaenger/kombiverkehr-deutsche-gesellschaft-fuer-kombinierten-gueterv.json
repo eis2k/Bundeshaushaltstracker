@@ -1,0 +1,103 @@
+{
+"id": "kombiverkehr-deutsche-gesellschaft-fuer-kombinierten-gueterv",
+"name": "Kombiverkehr Deutsche Gesellschaft für kombinierten Güterverkehr mbH & Co. KG",
+"art": "unternehmen",
+"rechtsform": "Kommanditgesellschaft (KG)",
+"sitz": "Frankfurt am Main",
+"website": "www.kombiverkehr.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001698",
+"eintrag_id": 77494,
+"version": 8,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001698/77494",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/25/38/787862/Lobbyregister-Registereintraege-Detailansicht-R001698-2026-06-30_09-50-31.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Eisenbahn-Bundesamt",
+"epl": "12",
+"von": 1100001,
+"bis": 1110000,
+"zweck": "KV-Hub Lehrte",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Digitales und Verkehr",
+"epl": "12",
+"von": 290001,
+"bis": 300000,
+"zweck": "KI und diskrete Beladeoptimierungsmodelle zur Auslastungssteigerung im KV - KiBa: https://bmdv.bund.de/SharedDocs/DE/Artikel/DG/KI-Projekte/kiba.html",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1390002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Armin Riedl",
+"funktion": "Vertretungsberechtigte Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001698/77494",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Heiko Krebs",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001698/77494",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 150001,
+"bis": 160000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/b1/da/787861/Kombiverkehr_Jahresabschluss.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001698/77494",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

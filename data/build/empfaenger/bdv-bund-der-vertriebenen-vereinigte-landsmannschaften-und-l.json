@@ -1,0 +1,279 @@
+{
+"id": "bdv-bund-der-vertriebenen-vereinigte-landsmannschaften-und-l",
+"name": "BdV - Bund der Vertriebenen - Vereinigte Landsmannschaften und Landesverbände e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bonn",
+"website": "www.bund-der-vertriebenen.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002159",
+"eintrag_id": 77761,
+"version": 16,
+"stand": "2026-06-02",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002159/77761",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ac/c3/746308/Lobbyregister-Registereintraege-Detailansicht-R002159-2026-06-02_14-43-21.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium des Innern und für Heimat",
+"epl": "06",
+"von": 1190001,
+"bis": 1200000,
+"zweck": "Institutionelle Förderung aufgrund eines Beschlusses des Deutschen Bundestages",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium des Innern und für Heimat",
+"epl": "06",
+"von": 110001,
+"bis": 120000,
+"zweck": "Projektmittel für verständigungspolitische Veranstaltungen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium des Innern und für Heimat/Bundesamt für Migration und Flüchtlinge",
+"epl": "06",
+"von": 2340001,
+"bis": 2350000,
+"zweck": "Migrationsberatung für erwachsene Zuwanderer",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 3640003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Stephan Mayer",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002159/77761",
+"stand": "2026-06-02"
+}
+},
+{
+"name": "Stephan Grigat",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002159/77761",
+"stand": "2026-06-02"
+}
+},
+{
+"name": "Rita Hagl-Kehl",
+"funktion": "Vizepräsidentin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-04"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002159/77761",
+"stand": "2026-06-02"
+}
+},
+{
+"name": "Raimund Haser",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002159/77761",
+"stand": "2026-06-02"
+}
+},
+{
+"name": "Steffen Hörtler",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002159/77761",
+"stand": "2026-06-02"
+}
+},
+{
+"name": "Egon Primas",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002159/77761",
+"stand": "2026-06-02"
+}
+},
+{
+"name": "Johann Thießen",
+"funktion": "Vizepräsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002159/77761",
+"stand": "2026-06-02"
+}
+},
+{
+"name": "Marc-Pawel Halatsch",
+"funktion": "Generalsekretär ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002159/77761",
+"stand": "2026-06-02"
+}
+},
+{
+"name": "Marc-Pawel Halatsch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002159/77761",
+"stand": "2026-06-02"
+}
+},
+{
+"name": "Jan Hini",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002159/77761",
+"stand": "2026-06-02"
+}
+},
+{
+"name": "Gisela Schewell",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002159/77761",
+"stand": "2026-06-02"
+}
+},
+{
+"name": "Emily Steinmeister",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002159/77761",
+"stand": "2026-06-02"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Stephan Mayer",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag",
+"funktion_beim_empfaenger": "Präsident",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Stephan Mayer ist laut Lobbyregister Präsident bei BdV - Bund der Vertriebenen - Vereinigte Landsmannschaften und Landesverbände e.V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag. BdV - Bund der Vertriebenen - Vereinigte Landsmannschaften und Landesverbände e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium des Innern und für Heimat/Bundesamt für Migration und Flüchtlinge; Bundesministerium des Innern und für Heimat.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium des Innern und für Heimat/Bundesamt für Migration und Flüchtlinge",
+"Bundesministerium des Innern und für Heimat"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002159/77761",
+"stand": "2026-06-02"
+}
+],
+"stand": "2026-06-02"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Rita Hagl-Kehl",
+"funktion_person": "Mitglied des Deutschen Bundestages, Bundestag, bis 2025-04",
+"funktion_beim_empfaenger": "Vizepräsidentin",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Rita Hagl-Kehl ist laut Lobbyregister Vizepräsidentin bei BdV - Bund der Vertriebenen - Vereinigte Landsmannschaften und Landesverbände e.V. und hatte zuvor eine öffentliche Funktion: Mitglied des Deutschen Bundestages, Bundestag, bis 2025-04. BdV - Bund der Vertriebenen - Vereinigte Landsmannschaften und Landesverbände e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium des Innern und für Heimat/Bundesamt für Migration und Flüchtlinge; Bundesministerium des Innern und für Heimat.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium des Innern und für Heimat/Bundesamt für Migration und Flüchtlinge",
+"Bundesministerium des Innern und für Heimat"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002159/77761",
+"stand": "2026-06-02"
+}
+],
+"stand": "2026-06-02"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 80001,
+"bis": 90000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/2a/8d/746307/Jahresbericht-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002159/77761",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-02",
+"etikett": "Eigenangabe",
+"version": 16
+}
+]
+}

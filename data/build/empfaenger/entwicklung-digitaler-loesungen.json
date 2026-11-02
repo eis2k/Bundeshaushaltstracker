@@ -1,0 +1,60 @@
+{
+"id": "entwicklung-digitaler-loesungen",
+"name": "Entwicklung digitaler Lösungen",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "16-1601-68603",
+"text": "Förderung der Entwicklung digitaler Lösungen für den Umweltschutz",
+"epl": "16",
+"epl_text": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+"werte": {
+"2021": {
+"soll": 10000000,
+"ist": 156659
+},
+"2022": {
+"soll": 7500000,
+"ist": 1488415
+},
+"2023": {
+"soll": 3500000,
+"ist": 1999757
+},
+"2024": {
+"soll": 2000000,
+"ist": 3015041
+},
+"2025": {
+"soll": 0,
+"ist": 767182
+},
+"2026": {
+"soll": 0,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

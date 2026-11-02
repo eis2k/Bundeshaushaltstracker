@@ -1,0 +1,105 @@
+{
+"id": "stiftung-menschen-fuer-menschen-karlheinz-boehms-aethiopienh",
+"name": "Stiftung Menschen für Menschen - Karlheinz Böhms Äthiopienhilfe (MFM)",
+"art": "verein_stiftung",
+"rechtsform": "Rechtsfähige Stiftung bürgerlichen Rechts",
+"sitz": "München",
+"website": "www.menschenfuermenschen.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005092",
+"eintrag_id": 84195,
+"version": 8,
+"stand": "2026-08-04",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005092/84195",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/14/82/825489/Lobbyregister-Registereintraege-Detailansicht-R005092-2026-08-04_09-34-13.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 160001,
+"bis": 170000,
+"zweck": "Förderung zweier Projekte in Äthiopien: - Psychosoziale Unterstützung kriegsgeschädigter Frauen in Amhara https://www.transparenzportal.bund.de/de/detailsuche/DE-1-202306009-7415?country=ET&project_status=running&limit=50 - Stärkung der Postkonfliktgesellschaft durch Unterstützung Überlebender geschlechtsspezifischer Gewalt und vulnerabler Gemeinden in Tigray, Äthiopien https://www.transparenzportal.bund.de/de/detailsuche/DE-1-202506004-8357?q=tigray&participating_org=Stiftung+Menschen+f%C3%BCr+Menschen+-+Karlheinz+B%C3%B6hms+%C3%84thiopienhilfe",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+"epl": "23",
+"von": 30001,
+"bis": 40000,
+"zweck": "Restzahlungen in zwei bereits abgeschlossenen Projekten.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 190002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Sebastian Brandis",
+"funktion": "Sprecher des Vorstandes",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005092/84195",
+"stand": "2026-08-04"
+}
+},
+{
+"name": "Benjamin Freiberg",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005092/84195",
+"stand": "2026-08-04"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Sonstiges",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 8760001,
+"bis": 8770000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/83/50/825488/Menschen-fuer-Menschen_Jahresbericht-2025-1.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005092/84195",
+"abgerufen": "2026-11-02",
+"stand": "2026-08-04",
+"etikett": "Eigenangabe",
+"version": 8
+}
+]
+}

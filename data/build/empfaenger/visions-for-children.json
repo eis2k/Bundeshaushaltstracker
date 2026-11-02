@@ -1,0 +1,97 @@
+{
+"id": "visions-for-children",
+"name": "Visions for Children e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Hamburg",
+"website": "https://www.visions4children.org/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005319",
+"eintrag_id": 86281,
+"version": 7,
+"stand": "2026-10-27",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005319/86281",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/52/88/866079/Lobbyregister-Registereintraege-Detailansicht-R005319-2026-10-27_20-42-00.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"epl": "23",
+"von": 660001,
+"bis": 670000,
+"zweck": "Finanzielle Förderung von Projekten der Entwicklungszusammenarbeit im Ausland.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 660001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Hila Limar",
+"funktion": "Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005319/86281",
+"stand": "2026-10-27"
+}
+},
+{
+"name": "Svenja Wienböker",
+"funktion": "stellvertr. Vorstandsvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005319/86281",
+"stand": "2026-10-27"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 380001,
+"bis": 390000
+},
+"mitgliedsbeitraege": {
+"von": 130001,
+"bis": 140000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/a1/ba/866078/151211_VFC_Jahresbericht_2024_Ansicht.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005319/86281",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-27",
+"etikett": "Eigenangabe",
+"version": 7
+}
+]
+}

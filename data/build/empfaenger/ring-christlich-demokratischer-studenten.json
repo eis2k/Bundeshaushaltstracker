@@ -1,0 +1,133 @@
+{
+"id": "ring-christlich-demokratischer-studenten",
+"name": "Ring Christlich-Demokratischer Studenten",
+"art": "verein_stiftung",
+"rechtsform": "Nicht rechtsfähiger Verein",
+"sitz": "Berlin",
+"website": "rcds.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002342",
+"eintrag_id": 70344,
+"version": 9,
+"stand": "2026-01-05",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002342/70344",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/77/66/677668/Lobbyregister-Registereintraege-Detailansicht-R002342-2026-01-05_14-26-08.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung und Forschung",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "BMBF-Förderung hochschulbezogener zentraler Maßnahmen studentischer Verbände und anderer Organisationen",
+"geschaeftsjahr": "2023"
+}
+],
+"lobby_untergrenze_bund": 20001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Lukas Honemann",
+"funktion": "Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002342/70344",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "David Sperling",
+"funktion": "Stellvertretender Bundesvorsitzender und Bundesschatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002342/70344",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Hendrik Jensen",
+"funktion": "Stellvertretender Bundesvorsitzender und internationaler Sekretär ",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002342/70344",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Clemens Hutengs",
+"funktion": "Stellvertretender Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002342/70344",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Felix Thiesen",
+"funktion": "Stellvertretender Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002342/70344",
+"stand": "2026-01-05"
+}
+},
+{
+"name": "Dennis Greiner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002342/70344",
+"stand": "2026-01-05"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Sonstiges",
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2023",
+"jahresabschluss": null
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002342/70344",
+"abgerufen": "2026-11-02",
+"stand": "2026-01-05",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

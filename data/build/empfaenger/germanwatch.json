@@ -1,0 +1,773 @@
+{
+"id": "germanwatch",
+"name": "Germanwatch",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Bonn",
+"website": "www.germanwatch.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001063",
+"eintrag_id": 87558,
+"version": 52,
+"stand": "2026-10-14",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/11/9c/861197/Lobbyregister-Registereintraege-Detailansicht-R001063-2026-10-14_12-44-58.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN)",
+"epl": "16",
+"von": 40001,
+"bis": 50000,
+"zweck": "Zuschuss Projektförderung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) über Engagement Global (EG)",
+"epl": "23",
+"von": 440001,
+"bis": 450000,
+"zweck": "Zuschuss Projektförderung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMZ über CARE Deutschland",
+"epl": "23",
+"von": 90001,
+"bis": 100000,
+"zweck": "Zuschuss Projektförderung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Arbeit und Soziales über Deutsche Rentenversicherung Knappschaft Bahn-See",
+"epl": "11",
+"von": 160001,
+"bis": 170000,
+"zweck": "Zuschuss Projektförderung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"epl": "30",
+"von": 120001,
+"bis": 130000,
+"zweck": "Zuschuss Projektförderung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMZ über Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)",
+"epl": "23",
+"von": 100001,
+"bis": 110000,
+"zweck": "Zuschuss Projektförderung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMUKN über Umweltbundesamt (UBA)",
+"epl": "16",
+"von": 50001,
+"bis": 60000,
+"zweck": "Zuschuss Projektförderung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie (BMWE)",
+"epl": "09",
+"von": 130001,
+"bis": 140000,
+"zweck": "Zuschuss Projektförderung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMZ/ Engagement Global/ Staatskanzlei NRW über Eine-Welt-Netz NRW",
+"epl": "23",
+"von": 50001,
+"bis": 60000,
+"zweck": "Zuschuss Projektförderung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMAS über GIZ",
+"epl": "11",
+"von": 10001,
+"bis": 20000,
+"zweck": "Zuschuss Projektförderung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE über GIZ",
+"epl": "09",
+"von": 20001,
+"bis": 30000,
+"zweck": "Zuschuss Projektförderung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+"epl": "23",
+"von": 210001,
+"bis": 220000,
+"zweck": "Zuschuss Projektförderung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWE/GIZ über Association Center for Energy, Environment and Resources-CENER 21",
+"epl": "09",
+"von": 40001,
+"bis": 50000,
+"zweck": "Zuschuss Projektförderung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMZ über World Resources Institute",
+"epl": "23",
+"von": 20001,
+"bis": 30000,
+"zweck": "Zuschuss Projektförderung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Europäische Kommission über Carbon Market Watch",
+"epl": null,
+"von": 120001,
+"bis": 130000,
+"zweck": "Zuschuss Projektförderung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Auswärtiges Amt (AA) über GIZ",
+"epl": "05",
+"von": 180001,
+"bis": 190000,
+"zweck": "Zuschuss Projektförderung",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1780016,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Christoph Bals",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Gerold Kier",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Lutz Weischer",
+"funktion": "Geschäftsführender Vorstand Politik",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Jennifer Tollmann",
+"funktion": "Geschäftsführende Vorständin Politik",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Arbeitseinheitsleiterin",
+"stelle": "Auswärtiges Amt (AA) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2026-09"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Stefan Rostock",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Jacob Rohm",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Rixa Schwarz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Alexandra Goritz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Laura Schäfer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Cornelia Heydenreich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Konstantinos Tsilimekis",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Simon Wolf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Sylwia Andralojc-Bodych",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Anja Köhne",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Johanna Wiechen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Verena Allert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Vera Künzel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "David  Eckstein",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Kerstin Opfer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Petter Lydén",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Katharina Brandt",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Luisa Denter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Charly Heberer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Paul  Healy",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Studentische Hilfskraft",
+"stelle": "Bundesministerium der Finanzen (BMF) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2022-09"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Eva Kleemann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Henri Schmitz",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Sachbearbeiter",
+"stelle": "Bundesministerium für Arbeit und Soziales (BMAS) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2024-12"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Lisa Schultheiß",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Ute Sudmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Felix Domke",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Silvie Kreibiehl",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Artur  Runge-Metzger",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Svenja Schöneich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Karl-Eugen  Huthmacher",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Staatssekretär",
+"stelle": "Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR) oder dessen Geschäftsbereich",
+"beendet": true,
+"ende": "2025-05"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Juliane Bing",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Simon Schreck",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Felix Gill",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+},
+{
+"name": "Marion Guénard",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Jennifer Tollmann",
+"funktion_person": "Arbeitseinheitsleiterin, Auswärtiges Amt (AA) oder dessen Geschäftsbereich, bis 2026-09",
+"funktion_beim_empfaenger": "Geschäftsführende Vorständin Politik",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Jennifer Tollmann ist laut Lobbyregister Geschäftsführende Vorständin Politik bei Germanwatch und hatte zuvor eine öffentliche Funktion: Arbeitseinheitsleiterin, Auswärtiges Amt (AA) oder dessen Geschäftsbereich, bis 2026-09. Germanwatch erhielt laut Lobbyregister Mittel von: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) über Engagement Global (EG); Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ); Auswärtiges Amt (AA) über GIZ; Bundesministerium für Arbeit und Soziales über Deutsche Rentenversicherung Knappschaft Bahn-See; Bundesministerium für Wirtschaft und Energie (BMWE); Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR); Europäische Kommission über Carbon Market Watch; BMZ über Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ); BMZ über CARE Deutschland; BMUKN über Umweltbundesamt (UBA); BMZ/ Engagement Global/ Staatskanzlei NRW über Eine-Welt-Netz NRW; Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN); BMWE/GIZ über Association Center for Energy, Environment and Resources-CENER 21; BMWE über GIZ; BMZ über World Resources Institute; BMAS über GIZ.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) über Engagement Global (EG)",
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+"Auswärtiges Amt (AA) über GIZ",
+"Bundesministerium für Arbeit und Soziales über Deutsche Rentenversicherung Knappschaft Bahn-See",
+"Bundesministerium für Wirtschaft und Energie (BMWE)",
+"Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"Europäische Kommission über Carbon Market Watch",
+"BMZ über Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)",
+"BMZ über CARE Deutschland",
+"BMUKN über Umweltbundesamt (UBA)",
+"BMZ/ Engagement Global/ Staatskanzlei NRW über Eine-Welt-Netz NRW",
+"Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN)",
+"BMWE/GIZ über Association Center for Energy, Environment and Resources-CENER 21",
+"BMWE über GIZ",
+"BMZ über World Resources Institute",
+"BMAS über GIZ"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+],
+"stand": "2026-10-14"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Paul  Healy",
+"funktion_person": "Studentische Hilfskraft, Bundesministerium der Finanzen (BMF) oder dessen Geschäftsbereich, bis 2022-09",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Paul  Healy ist laut Lobbyregister Interessenvertretung bei Germanwatch und hatte zuvor eine öffentliche Funktion: Studentische Hilfskraft, Bundesministerium der Finanzen (BMF) oder dessen Geschäftsbereich, bis 2022-09. Germanwatch erhielt laut Lobbyregister Mittel von: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) über Engagement Global (EG); Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ); Auswärtiges Amt (AA) über GIZ; Bundesministerium für Arbeit und Soziales über Deutsche Rentenversicherung Knappschaft Bahn-See; Bundesministerium für Wirtschaft und Energie (BMWE); Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR); Europäische Kommission über Carbon Market Watch; BMZ über Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ); BMZ über CARE Deutschland; BMUKN über Umweltbundesamt (UBA); BMZ/ Engagement Global/ Staatskanzlei NRW über Eine-Welt-Netz NRW; Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN); BMWE/GIZ über Association Center for Energy, Environment and Resources-CENER 21; BMWE über GIZ; BMZ über World Resources Institute; BMAS über GIZ.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) über Engagement Global (EG)",
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+"Auswärtiges Amt (AA) über GIZ",
+"Bundesministerium für Arbeit und Soziales über Deutsche Rentenversicherung Knappschaft Bahn-See",
+"Bundesministerium für Wirtschaft und Energie (BMWE)",
+"Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"Europäische Kommission über Carbon Market Watch",
+"BMZ über Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)",
+"BMZ über CARE Deutschland",
+"BMUKN über Umweltbundesamt (UBA)",
+"BMZ/ Engagement Global/ Staatskanzlei NRW über Eine-Welt-Netz NRW",
+"Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN)",
+"BMWE/GIZ über Association Center for Energy, Environment and Resources-CENER 21",
+"BMWE über GIZ",
+"BMZ über World Resources Institute",
+"BMAS über GIZ"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+],
+"stand": "2026-10-14"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Henri Schmitz",
+"funktion_person": "Sachbearbeiter, Bundesministerium für Arbeit und Soziales (BMAS) oder dessen Geschäftsbereich, bis 2024-12",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Henri Schmitz ist laut Lobbyregister Interessenvertretung bei Germanwatch und hatte zuvor eine öffentliche Funktion: Sachbearbeiter, Bundesministerium für Arbeit und Soziales (BMAS) oder dessen Geschäftsbereich, bis 2024-12. Germanwatch erhielt laut Lobbyregister Mittel von: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) über Engagement Global (EG); Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ); Auswärtiges Amt (AA) über GIZ; Bundesministerium für Arbeit und Soziales über Deutsche Rentenversicherung Knappschaft Bahn-See; Bundesministerium für Wirtschaft und Energie (BMWE); Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR); Europäische Kommission über Carbon Market Watch; BMZ über Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ); BMZ über CARE Deutschland; BMUKN über Umweltbundesamt (UBA); BMZ/ Engagement Global/ Staatskanzlei NRW über Eine-Welt-Netz NRW; Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN); BMWE/GIZ über Association Center for Energy, Environment and Resources-CENER 21; BMWE über GIZ; BMZ über World Resources Institute; BMAS über GIZ.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) über Engagement Global (EG)",
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+"Auswärtiges Amt (AA) über GIZ",
+"Bundesministerium für Arbeit und Soziales über Deutsche Rentenversicherung Knappschaft Bahn-See",
+"Bundesministerium für Wirtschaft und Energie (BMWE)",
+"Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"Europäische Kommission über Carbon Market Watch",
+"BMZ über Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)",
+"BMZ über CARE Deutschland",
+"BMUKN über Umweltbundesamt (UBA)",
+"BMZ/ Engagement Global/ Staatskanzlei NRW über Eine-Welt-Netz NRW",
+"Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN)",
+"BMWE/GIZ über Association Center for Energy, Environment and Resources-CENER 21",
+"BMWE über GIZ",
+"BMZ über World Resources Institute",
+"BMAS über GIZ"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+],
+"stand": "2026-10-14"
+},
+{
+"typ": "regierungsfunktion",
+"person": "Karl-Eugen  Huthmacher",
+"funktion_person": "Staatssekretär, Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR) oder dessen Geschäftsbereich, bis 2025-05",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Karl-Eugen  Huthmacher ist laut Lobbyregister Interessenvertretung bei Germanwatch und hatte zuvor eine öffentliche Funktion: Staatssekretär, Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR) oder dessen Geschäftsbereich, bis 2025-05. Germanwatch erhielt laut Lobbyregister Mittel von: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) über Engagement Global (EG); Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ); Auswärtiges Amt (AA) über GIZ; Bundesministerium für Arbeit und Soziales über Deutsche Rentenversicherung Knappschaft Bahn-See; Bundesministerium für Wirtschaft und Energie (BMWE); Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR); Europäische Kommission über Carbon Market Watch; BMZ über Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ); BMZ über CARE Deutschland; BMUKN über Umweltbundesamt (UBA); BMZ/ Engagement Global/ Staatskanzlei NRW über Eine-Welt-Netz NRW; Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN); BMWE/GIZ über Association Center for Energy, Environment and Resources-CENER 21; BMWE über GIZ; BMZ über World Resources Institute; BMAS über GIZ.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) über Engagement Global (EG)",
+"Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)",
+"Auswärtiges Amt (AA) über GIZ",
+"Bundesministerium für Arbeit und Soziales über Deutsche Rentenversicherung Knappschaft Bahn-See",
+"Bundesministerium für Wirtschaft und Energie (BMWE)",
+"Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR)",
+"Europäische Kommission über Carbon Market Watch",
+"BMZ über Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)",
+"BMZ über CARE Deutschland",
+"BMUKN über Umweltbundesamt (UBA)",
+"BMZ/ Engagement Global/ Staatskanzlei NRW über Eine-Welt-Netz NRW",
+"Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN)",
+"BMWE/GIZ über Association Center for Energy, Environment and Resources-CENER 21",
+"BMWE über GIZ",
+"BMZ über World Resources Institute",
+"BMAS über GIZ"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"stand": "2026-10-14"
+}
+],
+"stand": "2026-10-14"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Mitgliedsbeiträge",
+"Sonstiges"
+],
+"spenden": {
+"von": 5280001,
+"bis": 5290000
+},
+"mitgliedsbeitraege": {
+"von": 240001,
+"bis": 250000
+},
+"lobbyausgaben": {
+"von": 30001,
+"bis": 40000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/c2/c0/861196/Jahresabschluss-Germanwatch-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001063/87558",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-14",
+"etikett": "Eigenangabe",
+"version": 52
+}
+]
+}

@@ -1,0 +1,104 @@
+{
+"id": "accurec-recycling",
+"name": "ACCUREC-Recycling GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Krefeld",
+"website": "http://www.accurec.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R007438",
+"eintrag_id": 79473,
+"version": 4,
+"stand": "2026-06-17",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007438/79473",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/f9/b4/762411/Lobbyregister-Registereintraege-Detailansicht-R007438-2026-06-17_17-00-20.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 190001,
+"bis": 200000,
+"zweck": "Forschungsförderung für diverse Projekte im Bereich des Batterierecyclings. Geförderte Projekte bestehen aus Konsortien mit mehreren Partnern, die neben andern Unternehmen auch aus Universitäten und andere Forschungseinrichtungen bestehen. Forschungsförderprogramm z.B. Batterie 2020 Transfer mit Förderprojekten wie Innobatt und Susana",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 910001,
+"bis": 920000,
+"zweck": "Forschungsförderung für diverse Projekte im Bereich des Batterierecyclings. Geförderte Projekte bestehen aus Konsortien mit mehreren Partnern, die neben andern Unternehmen auch aus Universitäten und andere Forschungseinrichtungen bestehen. Forschungsförderprogramm z.B. \"Forschung in der Schwerpunktförderung Batteriefertigung\" mit Förderprojekten wie EarLi, Winter und LiBeration",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1100002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Reiner Thomas Sojka",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007438/79473",
+"stand": "2026-06-17"
+}
+},
+{
+"name": "Simon Bremer",
+"funktion": "Head of Development",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007438/79473",
+"stand": "2026-06-17"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 90001,
+"bis": 100000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/82/22/762409/2024_Jahresabschluss.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007438/79473",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-17",
+"etikett": "Eigenangabe",
+"version": 4
+}
+]
+}

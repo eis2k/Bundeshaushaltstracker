@@ -1,0 +1,95 @@
+{
+"id": "wanne-herner-eisenbahn-und-hafen",
+"name": "Wanne-Herner Eisenbahn und Hafen GmbH (WHE)",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Herne",
+"website": "www.whe.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005297",
+"eintrag_id": 64300,
+"version": 6,
+"stand": "2026-05-19",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005297/64300",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/54/8b/738523/Lobbyregister-Registereintraege-Detailansicht-R005297-2026-05-19_07-56-28.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Eisenbahn Bundesamt",
+"epl": "12",
+"von": 520001,
+"bis": 530000,
+"zweck": "Förderung des Schienengüterverkehrs über eine anteilige Finanzierung der Betriebskosten im Einzelwagenverkehr (BK-EWV)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 520001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Mirko Strauss",
+"funktion": "Geschäftsführung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005297/64300",
+"stand": "2026-05-19"
+}
+},
+{
+"name": "Christian Keune",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005297/64300",
+"stand": "2026-05-19"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/53/36/738521/WHE_JAP-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005297/64300",
+"abgerufen": "2026-11-02",
+"stand": "2026-05-19",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

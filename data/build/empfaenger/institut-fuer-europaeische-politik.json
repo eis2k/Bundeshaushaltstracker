@@ -1,0 +1,137 @@
+{
+"id": "institut-fuer-europaeische-politik",
+"name": "Institut für Europäische Politik",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Berlin",
+"website": "www.iep-berlin.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002272",
+"eintrag_id": 78111,
+"version": 10,
+"stand": "2026-06-25",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002272/78111",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/ad/5a/775018/Lobbyregister-Registereintraege-Detailansicht-R002272-2026-06-25_09-24-24.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Auswärtiges Amt",
+"epl": "05",
+"von": 930001,
+"bis": 940000,
+"zweck": "Projektförderung des Auswärtigen Amtes: - Referat Europaabteilung: E-Stab zur \"Förderung des europäischen Gedankens in der Öffentlichkeit\" - Referat 601 \"Kultur- und Medienbeziehungen: Europa, USA, Kanada, Russland, Türkei, Zentralasien, Kaukasus; deutsche Minderheiten im Ausland\" - Referat E21 \"Irland, Schweden, Finnland, Dänemark, Estland, Lettland, Litauen; Ostseepolitik\" - Referat E23 \"Portugal, Spanien, Italien, Griechenland, Zypern, Malta, Bulgarien, Rumänien sowie zu Andorra, San Marino, Heiliger Stuhl, Malteser Ritterorden\"",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+"epl": "23",
+"von": 240001,
+"bis": 250000,
+"zweck": "Projektförderung: Pathways to Progress: Germany-Ukraine Dialogues on Rule of Law for EU Accession : 01.08.2024 – 31.10.2025",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1170002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Johannes Pollak",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002272/78111",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Wolf-Ruthart Born",
+"funktion": "stellv. Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002272/78111",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Andreas Krautscheid",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002272/78111",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Funda Tekin",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002272/78111",
+"stand": "2026-06-25"
+}
+},
+{
+"name": "Daniel Hegedüs",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002272/78111",
+"stand": "2026-06-25"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/89/13/775017/Pruefbericht-Jahresabschluss-2024-IEP_Lobbyregister.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002272/78111",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-25",
+"etikett": "Eigenangabe",
+"version": 10
+}
+]
+}

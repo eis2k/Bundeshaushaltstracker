@@ -1,0 +1,187 @@
+{
+"id": "eine-welt-landesnetzwerk-mecklenburg-vorpommern",
+"name": "Eine-Welt-Landesnetzwerk Mecklenburg-Vorpommern e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Rostock",
+"website": "www.eine-welt-mv.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001587",
+"eintrag_id": 82177,
+"version": 5,
+"stand": "2026-07-02",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001587/82177",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/36/6e/802817/Lobbyregister-Registereintraege-Detailansicht-R001587-2026-07-02_14-50-38.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Stiftung Nord-Süd-Brücken (Weiterleitung von Mitteln des BMZ und des Landes MV)",
+"epl": null,
+"von": 110001,
+"bis": 120000,
+"zweck": "1) Weiterleitung Eine-Welt-Promotor:innenprogramm 2) Weiterleitung Mittel WSD (weltoffen-solidarisch-dialogisch)",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Förderprogramm Entwicklungspolitische Bildungsarbeit FEB) / Engagement Global gGmbH",
+"epl": null,
+"von": 120001,
+"bis": 130000,
+"zweck": "Projektmittel entwicklungspolitische Bildungsprojekte",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BAMF",
+"epl": "06",
+"von": 10001,
+"bis": 20000,
+"zweck": "Projektmittel Ankommen in MV",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 240003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jessica Weiß",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001587/82177",
+"stand": "2026-07-02"
+}
+},
+{
+"name": "Kathleen Veit",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001587/82177",
+"stand": "2026-07-02"
+}
+},
+{
+"name": "Änne Lange",
+"funktion": "Sprecherin des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001587/82177",
+"stand": "2026-07-02"
+}
+},
+{
+"name": "Ralf Göttlicher",
+"funktion": "Sprecher des Vorstands",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001587/82177",
+"stand": "2026-07-02"
+}
+},
+{
+"name": "Valentina Engler",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001587/82177",
+"stand": "2026-07-02"
+}
+},
+{
+"name": "Fabian Czerwinski",
+"funktion": "Vorstand",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": {
+"art": "FEDERAL_ADMINISTRATION",
+"funktion": "Referent",
+"stelle": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN) oder dessen Geschäftsbereich",
+"beendet": false,
+"ende": null
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001587/82177",
+"stand": "2026-07-02"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Fabian Czerwinski",
+"funktion_person": "Referent, Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN) oder dessen Geschäftsbereich",
+"funktion_beim_empfaenger": "Vorstand",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Fabian Czerwinski ist laut Lobbyregister Vorstand bei Eine-Welt-Landesnetzwerk Mecklenburg-Vorpommern e.V. und hatte zuvor eine öffentliche Funktion: Referent, Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit (BMUKN) oder dessen Geschäftsbereich. Eine-Welt-Landesnetzwerk Mecklenburg-Vorpommern e.V. erhielt laut Lobbyregister Mittel von: Förderprogramm Entwicklungspolitische Bildungsarbeit FEB) / Engagement Global gGmbH; Stiftung Nord-Süd-Brücken (Weiterleitung von Mitteln des BMZ und des Landes MV); BAMF.",
+"ausschuesse": [],
+"geld_aus": [
+"Förderprogramm Entwicklungspolitische Bildungsarbeit FEB) / Engagement Global gGmbH",
+"Stiftung Nord-Süd-Brücken (Weiterleitung von Mitteln des BMZ und des Landes MV)",
+"BAMF"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001587/82177",
+"stand": "2026-07-02"
+}
+],
+"stand": "2026-07-02"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges",
+"Mitgliedsbeiträge"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 1,
+"bis": 10000
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/03/63/802816/Finanzbericht-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001587/82177",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-02",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

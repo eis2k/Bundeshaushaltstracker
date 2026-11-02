@@ -1,0 +1,221 @@
+{
+"id": "bundesarbeitsgemeinschaft-schuldnerberatung",
+"name": "Bundesarbeitsgemeinschaft Schuldnerberatung e.V. (BAG-SB)",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Stralsund",
+"website": "www.bag-sb.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006456",
+"eintrag_id": 87974,
+"version": 13,
+"stand": "2026-10-23",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006456/87974",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/04/4d/864789/Lobbyregister-Registereintraege-Detailansicht-R006456-2026-10-23_13-14-29.pdf"
+},
+"haushalt": {
+"titel": [
+{
+"id": "16-1608-68407",
+"text": "Zuschuss an die Bundesarbeitsgemeinschaft Schuldnerberatung e. V.",
+"epl": "16",
+"epl_text": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+"werte": {
+"2024": {
+"soll": 490000,
+"ist": 293849
+},
+"2025": {
+"soll": 490000,
+"ist": 490000
+}
+}
+},
+{
+"id": "07-0701-68407",
+"text": "Zuschuss an die Bundesarbeitsgemeinschaft Schuldnerberatung e. V.",
+"epl": "07",
+"epl_text": "Bundesministerium der Justiz und für Verbraucherschutz",
+"werte": {
+"2026": {
+"soll": 490000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium der Justiz und für Verbraucherschutz (BMJV)",
+"epl": "07",
+"von": 440001,
+"bis": 450000,
+"zweck": "Institutionelle Förderung Förderzeitraum: 01.01.2025 bis 31.12.2025",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 440001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Thomas Seethaler",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006456/87974",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Anja Wolf",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006456/87974",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Malte Poppe",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006456/87974",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Sandra Gillert",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006456/87974",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Manuela Wiegand",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006456/87974",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Charlotte Bischoff",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006456/87974",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Volker Haug",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006456/87974",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Ines Moers",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006456/87974",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Benedikt Walzel",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006456/87974",
+"stand": "2026-10-23"
+}
+},
+{
+"name": "Eva Müffelmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006456/87974",
+"stand": "2026-10-23"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Sonstiges",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Schenkungen und sonstige lebzeitige Zuwendungen"
+],
+"spenden": {
+"von": 1,
+"bis": 10000
+},
+"mitgliedsbeitraege": {
+"von": 80001,
+"bis": 90000
+},
+"lobbyausgaben": {
+"von": 50001,
+"bis": 60000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/09/f7/864786/2025_Jahresabschluss_BAG-SB.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006456/87974",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-23",
+"etikett": "Eigenangabe",
+"version": 13
+},
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

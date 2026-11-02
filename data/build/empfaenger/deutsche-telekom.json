@@ -1,0 +1,478 @@
+{
+"id": "deutsche-telekom",
+"name": "Deutsche Telekom AG",
+"art": "unternehmen",
+"rechtsform": "Aktiengesellschaft (AG)",
+"sitz": "Bonn",
+"website": "www.telekom.com",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R002346",
+"eintrag_id": 87792,
+"version": 39,
+"stand": "2026-10-20",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002346/87792",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/43/4a/863472/Lobbyregister-Registereintraege-Detailansicht-R002346-2026-10-20_13-52-11.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 1,
+"bis": 10000,
+"zweck": "Das Projekt \"VoluProf\" soll eine nutzerorientierte, interaktive Mixed-Reality-Anwendung entwickeln, die mittels multimodaler Lernbot-Skripte Diskurse zwischen Lehrenden, die als Avatare dargestellt werden, und Nutzer*innen ermöglicht. Dafür werden hochwertige volumetrische Abbilder der Lehrenden als Basis für die spätere Interaktion erzeugt und animiert. Die realistische Stimme des Avatars wird aus einem von dem/r Lehrenden bereitgestellten Text generiert.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "Das Projekt \"CampusOS\" verfolgt das Ziel, den Aufbau eines Ökosystems für 5G-Campusnetze auf Basis offener und modularer Funktechnologien und interoperabler Netzkomponenten zu unterstützen. Hierdurch sollen Herstellerunabhängigkeit und mehr Wettbewerb und Innovation ermöglicht werden, um die digitale Souveränität der Unternehmen in Deutschland zu stärken.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 60001,
+"bis": 70000,
+"zweck": "Ziel des Projekts \"QD-CamNetz\" ist die Demonstration des ersten 5G-Quanten-Campusnetzes. Quantentechnologien sollen nahtlos in das bestehende 5G-Campusnetz integriert werden, um eine noch nie dagewesene Ausfallsicherheit und Zeitsynchronisation zu erreichen, welche die Säulen der künftigen Industrie 4.0, des taktilen Internets und künftiger 6G-Netze darstellen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 40001,
+"bis": 50000,
+"zweck": "Im Projekt \"QuaPhySI\" wird das Ziel verfolgt, die theoretischen Grundlagen einer hybriden Netzwerkarchitektur zu entwickeln, die quantenmechanische und klassische Ansätze vereint.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 200001,
+"bis": 210000,
+"zweck": "Ziele des Vorhabens \"Quantum Internet of Things (QUIET)\" sind die Entwicklung einer Kommunikationsarchitektur und der Aufbau eines Demonstrators, der das Internet of Things (IoT), bestehend aus Sensoren, Übertragungsstrecken und Cloud-Applikationen mit Hilfe von Quantentechnologien, also Quantensensorik, Quantenkommunikation und Quantencomputing, sicherer, resilient, niedriglatenter, effizienter und unter Einhaltung des Schutzes der Privatsphäre gestaltet.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 40001,
+"bis": 50000,
+"zweck": "Basierend auf dem Konzept der selbstbestimmten Identität hat \"IDunion\" das Ziel, ein Ökosystem für natürliche Personen, Unternehmen und Dinge zu etablieren. Hierfür werden Anwendungen in verschiedensten Gebieten pilotiert. Weitere Zielstellungen sind der Aufbau eines umfangreichen Rahmenwerks, mit dem Vertrauen in die zugrundeliegende Technologie weiter gestärkt werden soll, sowie die Konzeption und Umsetzung sicherheitsrelevanter Aspekte.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 10001,
+"bis": 20000,
+"zweck": "Ziel des Verbundprojekts \"QR.X\" ist die erste Umsetzung von neuartigen Quantenrepeatern und deren Einsatz unter realen Bedingungen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Digitales und Staatsmodernisierung",
+"epl": null,
+"von": 990001,
+"bis": 1000000,
+"zweck": "Ziele des Projekts sind der Aufbau und der Betrieb eines \"OpenLab für OpenRAN\", wobei die Validierung und Zertifizierung von disaggregierten Netzwerklösungen in einem Industrie-umfassenden Zusammenhang im Vordergrund stehen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 10001,
+"bis": 20000,
+"zweck": "Das Projekt \"6G-SKY\" zielt auf Lösungen ab, die eine zuverlässige und robuste Konnektivität für Nutzer in der Luft und am Boden über eine flexible und adaptive Netzwerkarchitektur ermöglichen, die mehrere Technologien wie Satellit und direkte Luft-Boden-Kommunikation einsetzt.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 90001,
+"bis": 100000,
+"zweck": "Ziel des Vorhabens \"Holistische 3D-Kommunikationsnetze für 6G (6G-TakeOff)\" ist es, eine innovative, vereinheitliche dreidimensionale 6G-Architektur für Netze aus Bodenstationen, Flugplattformen und Satelliten zu entwickeln.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 1,
+"bis": 10000,
+"zweck": "Um energiesparsamere Mobilfunkbasisstationen zu realisieren, arbeiten die Konsortialpartner des Verbundprojekts \"EdgeLimit-Green ICT\" an einem neuartigen Edge-Cloud-Antennensystem, das Energieverluste bei der Übertragung im Millimeterwellenbereich von 5G durch die Kombination effizienter Bauelemente und optimierter, KI-unterstützter Steuerung um mindestens 50% reduziert.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 330001,
+"bis": 340000,
+"zweck": "Das Projekt \"6G NeXt\" hat sich zum Ziel gesetzt, eine skalierbare, modulare und flexible Infrastruktur zu entwickeln, auf der eine Vielfalt von Anwendungsfällen für Industrie und Endanwender realisiert werden kann, deren Anforderungen die des heutigen 5G-Netzes in Bezug auf Intelligenz, Leistungsfähigkeit und Effizienz übertreffen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 100001,
+"bis": 110000,
+"zweck": "Das Verbundprojekt „Perzeptive Kommunikationsnetzwerke mit integrierter Sensorik für die 6. Generation des Mobilfunks (KOMSENS-6G)“ richtet das Hauptaugenmerk darauf, Sensorik in 6G-Kommunikationssysteme zu integrieren. Dadurch wollen die Forschenden künftige Anwendungen in der Industrie 4.0 oder der autonomen Mobilität ermöglichen.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 50001,
+"bis": 60000,
+"zweck": "Das Projekt „Resilienz für das Quanteninternet – Q TREX“ hat das Ziel, die Quantenkommunikation in Forschung und Industrie für öffentliche Kommunikationsnetzwerke nutzbar zu machen, indem Quantenkommunikation in zukünftige 6G-Netze und existierende Festnetze integriert wird. So soll zeitnah ein Quanteninternet ermöglicht werden.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Energie",
+"epl": "09",
+"von": 90001,
+"bis": 100000,
+"zweck": "Im Rahmen des Projekts \"Green Streaming\" werden alle Komponenten entlang der Streaming-Wirkkette hinsichtlich ihrer Energieeffizienz analysiert: A/V- Encoder, Packaging, Content-Delivery-Networks (CDN), A/V-Player und Endgeräte. Fraunhofer FOKUS arbeitet hierzu an kontextbezogenem, energieeffizientem Video-Encoding und den entsprechenden Playerkomponenten.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 10001,
+"bis": 20000,
+"zweck": "QR.N – Vernetzte Quantenrepeater für die zukünftige Ende-zu-Ende-Sicherheit",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 80001,
+"bis": 90000,
+"zweck": "Die Projektsäule „SUSTAINET-guarDian“ legt den Schwerpunkt auf gesellschaftlich relevante Fragestellungen einer resilienten Netzinfrastruktur. Hierbei wollen die Forschungspartner unterschiedliche Kernaspekte beleuchten.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 2130017,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Timotheus Höttges",
+"funktion": "Vorstandsvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002346/87792",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Ferri Abolhassan",
+"funktion": "Vorstandsmitglied T-Systems",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002346/87792",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Birgit Bohle",
+"funktion": "Vorstandsmitglied Personal und Recht, Arbeitsdirektorin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002346/87792",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Rodrigo Francisco Diehl",
+"funktion": "Vorstandsmitglied Deutschland und Sprecher der Geschäftsführung Telekom Deutschland GmbH",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002346/87792",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Christian P. Illek",
+"funktion": "Vorstandsmitglied Finanzen",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002346/87792",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Thorsten Langheim",
+"funktion": "Vorstandsmitglied USA und Unternehmensentwicklung",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002346/87792",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Dominique Leroy",
+"funktion": "Vorstandsmitglied Europa",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002346/87792",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Wolfgang Kopf",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002346/87792",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Fritz-Uwe Hofmann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002346/87792",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Marcus Isermann",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002346/87792",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Jan-Hendrik Jochum",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002346/87792",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Thorsten Recker",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002346/87792",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Fabian Riewerts",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002346/87792",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Stephan Pesch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002346/87792",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Martina Westhues",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002346/87792",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Martin Busch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002346/87792",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Andreas Fier",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002346/87792",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Mark Vasić",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002346/87792",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Alexander Scheuer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002346/87792",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Jakob Greiner",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002346/87792",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Johannes Jahreiß",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002346/87792",
+"stand": "2026-10-20"
+}
+},
+{
+"name": "Carlos Deniz Cesarano",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002346/87792",
+"stand": "2026-10-20"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "abgeordneter_funktion",
+"person": "Matthias David Mieves",
+"funktion_person": "MdB, SPD",
+"funktion_beim_empfaenger": "Vergünstigter Telekomvertrag mit Smartphone für Mitarbeiter der Deutsche Telekom AG",
+"kategorie": "Vereinbarungen über künftige Tätigkeiten oder Vermögensvorteile",
+"abgleich": "exakt",
+"satz": "Matthias David Mieves (MdB, SPD) ist laut bundestag.de Vergünstigter Telekomvertrag mit Smartphone für Mitarbeiter der Deutsche Telekom AG bei Deutsche Telekom AG. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Digitales und Staatsmodernisierung; Ausschuss für Gesundheit; Verkehrsausschuss. Deutsche Telekom AG erhielt laut Lobbyregister Mittel von: Bundesministerium für Digitales und Staatsmodernisierung; Bundesministerium für Forschung, Technologie und Raumfahrt; Bundesministerium für Wirtschaft und Energie.",
+"ausschuesse": [
+"Ausschuss für Digitales und Staatsmodernisierung",
+"Ausschuss für Gesundheit",
+"Verkehrsausschuss"
+],
+"geld_aus": [
+"Bundesministerium für Digitales und Staatsmodernisierung",
+"Bundesministerium für Forschung, Technologie und Raumfahrt",
+"Bundesministerium für Wirtschaft und Energie"
+],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/M/mieves_matthias-1046124",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1960001,
+"bis": 1970000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/35/d4/863466/dt-25-geschaeftsbericht.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002346/87792",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-20",
+"etikett": "Eigenangabe",
+"version": 39
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/M/mieves_matthias-1046124",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

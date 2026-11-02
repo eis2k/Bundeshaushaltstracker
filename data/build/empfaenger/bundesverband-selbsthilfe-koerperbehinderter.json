@@ -1,0 +1,181 @@
+{
+"id": "bundesverband-selbsthilfe-koerperbehinderter",
+"name": "Bundesverband Selbsthilfe Körperbehinderter",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Krautheim",
+"website": "www.bsk-ev.org",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005951",
+"eintrag_id": 68173,
+"version": 9,
+"stand": "2025-11-26",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005951/68173",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/6d/bc/643994/Lobbyregister-Registereintraege-Detailansicht-R005951-2025-11-26_11-38-37.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Gesellschaft für Soziale Unternehmensberatung im Auftrag des Bundesministeriums für Arbeit und Soziales",
+"epl": null,
+"von": 30001,
+"bis": 40000,
+"zweck": "Mittelabruf für das vom BMAS geförderte Projekt \"Kompetenzaufbau der Fachteams mittels Fortbildungsveranstaltungen und gegenseitigem Erfahrungsaustausch\" (Förderung Partizipation Verbände).",
+"geschaeftsjahr": "2024"
+}
+],
+"lobby_untergrenze_bund": 30001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Verena Gotzes",
+"funktion": "Bundesvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005951/68173",
+"stand": "2025-11-26"
+}
+},
+{
+"name": "Ines Vorberg",
+"funktion": "Schatzmeisterin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005951/68173",
+"stand": "2025-11-26"
+}
+},
+{
+"name": "Anita Reichert-Klemm",
+"funktion": "Stellvertretende Bundesvorsitzende",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005951/68173",
+"stand": "2025-11-26"
+}
+},
+{
+"name": "Claus Arne Mohr",
+"funktion": "Stellvertretender Bundesvorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005951/68173",
+"stand": "2025-11-26"
+}
+},
+{
+"name": "Julia Walter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005951/68173",
+"stand": "2025-11-26"
+}
+},
+{
+"name": "Simone Siebert",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005951/68173",
+"stand": "2025-11-26"
+}
+},
+{
+"name": "Jörg Bechtold",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für eine Fraktion/Gruppe im Deutschen Bundestag",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2024-04"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005951/68173",
+"stand": "2025-11-26"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Jörg Bechtold",
+"funktion_person": "Funktion für eine Fraktion/Gruppe im Deutschen Bundestag, Bundestag, bis 2024-04",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Jörg Bechtold ist laut Lobbyregister Interessenvertretung bei Bundesverband Selbsthilfe Körperbehinderter und hatte zuvor eine öffentliche Funktion: Funktion für eine Fraktion/Gruppe im Deutschen Bundestag, Bundestag, bis 2024-04. Bundesverband Selbsthilfe Körperbehinderter erhielt laut Lobbyregister Mittel von: Gesellschaft für Soziale Unternehmensberatung im Auftrag des Bundesministeriums für Arbeit und Soziales.",
+"ausschuesse": [],
+"geld_aus": [
+"Gesellschaft für Soziale Unternehmensberatung im Auftrag des Bundesministeriums für Arbeit und Soziales"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005951/68173",
+"stand": "2025-11-26"
+}
+],
+"stand": "2025-11-26"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 430001,
+"bis": 440000
+},
+"mitgliedsbeitraege": {
+"von": 90001,
+"bis": 100000
+},
+"lobbyausgaben": {
+"von": 80001,
+"bis": 90000
+},
+"geschaeftsjahr": "2024",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/29/e5/643993/Jahresabschluss-Bundesverband-Selbsthilfe-Koerperbehinderte-e-V-Krautheim-2024.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005951/68173",
+"abgerufen": "2026-11-02",
+"stand": "2025-11-26",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}

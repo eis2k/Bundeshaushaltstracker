@@ -1,0 +1,135 @@
+{
+"id": "rulemapping-solutions",
+"name": "Rulemapping Solutions GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Berlin",
+"website": "https://rulemapping.com/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R008029",
+"eintrag_id": 76863,
+"version": 1,
+"stand": "2026-05-28",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008029/76863",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/99/37/743657/Lobbyregister-Registereintraege-Detailansicht-R008029-2026-05-28_09-51-45.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Bildung & Forschung",
+"epl": "30",
+"von": 110001,
+"bis": 120000,
+"zweck": "Vorhaben: \"KMU-innovativ - Verbundprojekt ARUM: Artificial Generated Rulemaps. Automatische Normformalisierung mit Generativen Sprachmodellen\"",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 110001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Tilo Wend",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008029/76863",
+"stand": "2026-05-28"
+}
+},
+{
+"name": "Dirk Woywod",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008029/76863",
+"stand": "2026-05-28"
+}
+},
+{
+"name": "Innokenty Burshteyn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für eine Fraktion/Gruppe im Deutschen Bundestag",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-05"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008029/76863",
+"stand": "2026-05-28"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Innokenty Burshteyn",
+"funktion_person": "Funktion für eine Fraktion/Gruppe im Deutschen Bundestag, Bundestag, bis 2025-05",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Innokenty Burshteyn ist laut Lobbyregister Interessenvertretung bei Rulemapping Solutions GmbH und hatte zuvor eine öffentliche Funktion: Funktion für eine Fraktion/Gruppe im Deutschen Bundestag, Bundestag, bis 2025-05. Rulemapping Solutions GmbH erhielt laut Lobbyregister Mittel von: Bundesministerium für Bildung & Forschung.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesministerium für Bildung & Forschung"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008029/76863",
+"stand": "2026-05-28"
+}
+],
+"stand": "2026-05-28"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 0,
+"bis": 0
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/ba/25/743656/RMS-Offenlegung-2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R008029/76863",
+"abgerufen": "2026-11-02",
+"stand": "2026-05-28",
+"etikett": "Eigenangabe",
+"version": 1
+}
+]
+}

@@ -1,0 +1,92 @@
+{
+"id": "stadtwerke-schwaebisch-hall",
+"name": "Stadtwerke Schwäbisch Hall GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Schwäbisch Hall",
+"website": "www.stadtwerke-hall.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004597",
+"eintrag_id": 81983,
+"version": 5,
+"stand": "2026-07-02",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004597/81983",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/4b/a4/802615/Lobbyregister-Registereintraege-Detailansicht-R004597-2026-07-02_13-55-51.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+"epl": "09",
+"von": 40001,
+"bis": 50000,
+"zweck": "Zuschuss gemäß Richtlinie für die Bundesförderung für effiziente Wärmenetze (BEW) vom 1. August 2022",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Projektträger Breitbandförderung (Los A) PricewaterhouseCoopers GmbH WPG im Auftrag des Bundesministeriums für Digitales und Staatsmodernisierung",
+"epl": null,
+"von": 490001,
+"bis": 500000,
+"zweck": "Zuwendungen des Bundes für ein Betreibermodell nach Nr. 3.2 der Richtlinie „Förderung zur Unterstützung des Breitbandausbaus in der Bundesrepublik Deutschland“ (Breitband-Richtlinie des Bundes)",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 530002,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Gebhard Gentner",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004597/81983",
+"stand": "2026-07-02"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/22/2a/802614/Stuttgart_HRB_570157_01-07-2026.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004597/81983",
+"abgerufen": "2026-11-02",
+"stand": "2026-07-02",
+"etikett": "Eigenangabe",
+"version": 5
+}
+]
+}

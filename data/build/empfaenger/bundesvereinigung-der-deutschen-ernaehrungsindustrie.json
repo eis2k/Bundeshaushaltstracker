@@ -1,0 +1,239 @@
+{
+"id": "bundesvereinigung-der-deutschen-ernaehrungsindustrie",
+"name": "Bundesvereinigung der Deutschen Ernährungsindustrie e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+"sitz": "Berlin",
+"website": "https://www.ernaehrungsindustrie.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R000283",
+"eintrag_id": 86982,
+"version": 35,
+"stand": "2026-10-02",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000283/86982",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/4a/86/855809/Lobbyregister-Registereintraege-Detailansicht-R000283-2026-10-02_15-19-13.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesanstalt für Landwirtschaft und Ernährung",
+"epl": "10",
+"von": 10001,
+"bis": 20000,
+"zweck": "Exportindikator: Expertenbefragung zur Identifikation von Faktoren, die den Export der deutschen Ernährungsindustrie sowie die Markterschließung beeinflussen, zur Ableitung zielführender Handlungsmöglichkeiten.",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 10001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Bernhard Simon",
+"funktion": "Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000283/86982",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Christof Engelke",
+"funktion": "Stellvertretender Vorsitzender",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000283/86982",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Tim Schwertner",
+"funktion": "Schatzmeister",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000283/86982",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Aldo Cristiano",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000283/86982",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Gustav Deiters",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000283/86982",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Bastian Fassin",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000283/86982",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Nils Pörksen",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000283/86982",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Norbert Lötz",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000283/86982",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Uwe Schöneberg",
+"funktion": "Vorstandsmitglied",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000283/86982",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Christoph Minhoff",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000283/86982",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Peter Feller",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000283/86982",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Kim Cheng",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000283/86982",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Olivier Kölsch",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000283/86982",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Oliver Numrich",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000283/86982",
+"stand": "2026-10-02"
+}
+},
+{
+"name": "Marcel Winter",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000283/86982",
+"stand": "2026-10-02"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 2320001,
+"bis": 2330000
+},
+"lobbyausgaben": {
+"von": 800001,
+"bis": 810000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/cc/e1/855806/Gewinn-und-Verlustrechnung-31-12-2025.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000283/86982",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-02",
+"etikett": "Eigenangabe",
+"version": 35
+}
+]
+}

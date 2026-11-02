@@ -1,0 +1,178 @@
+{
+"id": "akademie-fuer-kuenstliche-lntelligenz-aki",
+"name": "Akademie für künstliche lntelligenz AKI gGmbH",
+"art": "verein_stiftung",
+"rechtsform": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+"sitz": "Berlin",
+"website": "https://www.ki-verband.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R005990",
+"eintrag_id": 80913,
+"version": 20,
+"stand": "2026-06-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005990/80913",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/c3/a8/783227/Lobbyregister-Registereintraege-Detailansicht-R005990-2026-06-29_12-22-58.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesamt für Wirtschaft und Ausfuhrkontrolle Rückbau-Rückstellungen KKW, Strukturstärkung Kohleregionen",
+"epl": "09",
+"von": 990001,
+"bis": 1000000,
+"zweck": "Verbundvorhaben: AI Village - Aufbau eines Innovationscampus für Künstliche Intelligenz; Teilvorhaben: Systematische Vernetzung von AkteurInnen im KI Umfeld Förderkennzeichen: 46SK0180C",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 190001,
+"bis": 200000,
+"zweck": "Verbundprojekt: Mittelstand-Digital Zentrum Franken; Teilvorhaben: Vernetzung fränkischer Organisationen miteinander und relevanten Stakeholdern in Deutschland Förderkennzeichen: 01MF23006D",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft & Energie, VDI Technologiezentrum GmbH",
+"epl": "09",
+"von": 70001,
+"bis": 80000,
+"zweck": "Projekt: EU-SAI / soofi / Förderkennzeichen: 13IPC040A / Leistungsbeschreibung: Konsortialführung, Projektmanagement, Kommunikationsarbeit",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1250003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Daniel Abbou",
+"funktion": "Geschäftsführer",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005990/80913",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Valentina Kerst",
+"funktion": "Geschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005990/80913",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Linda Karola Brüggemeyer",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": {
+"art": "HOUSE_OF_REPRESENTATIVES",
+"funktion": "Funktion für ein Mitglied des Deutschen Bundestages",
+"stelle": "Bundestag",
+"beendet": true,
+"ende": "2025-03"
+},
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005990/80913",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Lennart Kuhn",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005990/80913",
+"stand": "2026-06-29"
+}
+},
+{
+"name": "Malte Schilling",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005990/80913",
+"stand": "2026-06-29"
+}
+}
+],
+"verbindungen": [
+{
+"typ": "regierungsfunktion",
+"person": "Linda Karola Brüggemeyer",
+"funktion_person": "Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03",
+"funktion_beim_empfaenger": "Interessenvertretung",
+"kategorie": "Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister",
+"abgleich": "eigenangabe",
+"satz": "Linda Karola Brüggemeyer ist laut Lobbyregister Interessenvertretung bei Akademie für künstliche lntelligenz AKI gGmbH und hatte zuvor eine öffentliche Funktion: Funktion für ein Mitglied des Deutschen Bundestages, Bundestag, bis 2025-03. Akademie für künstliche lntelligenz AKI gGmbH erhielt laut Lobbyregister Mittel von: Bundesamt für Wirtschaft und Ausfuhrkontrolle Rückbau-Rückstellungen KKW, Strukturstärkung Kohleregionen; Bundesministerium für Wirtschaft und Klimaschutz; Bundesministerium für Wirtschaft & Energie, VDI Technologiezentrum GmbH.",
+"ausschuesse": [],
+"geld_aus": [
+"Bundesamt für Wirtschaft und Ausfuhrkontrolle Rückbau-Rückstellungen KKW, Strukturstärkung Kohleregionen",
+"Bundesministerium für Wirtschaft und Klimaschutz",
+"Bundesministerium für Wirtschaft & Energie, VDI Technologiezentrum GmbH"
+],
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005990/80913",
+"stand": "2026-06-29"
+}
+],
+"stand": "2026-06-29"
+}
+],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Öffentliche Zuwendungen",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Mitgliedsbeiträge",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 180001,
+"bis": 190000
+},
+"mitgliedsbeitraege": {
+"von": 150001,
+"bis": 160000
+},
+"lobbyausgaben": {
+"von": 70001,
+"bis": 80000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/9b/cb/783224/Jahresabschluss_AKI_2024.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005990/80913",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-29",
+"etikett": "Eigenangabe",
+"version": 20
+}
+]
+}

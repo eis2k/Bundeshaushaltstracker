@@ -1,0 +1,185 @@
+{
+"id": "iqm-finland-oy",
+"name": "IQM Finland Oy",
+"art": "unternehmen",
+"rechtsform": "Sonstige juristische Person, auch nach anderem als deutschem Recht",
+"sitz": "Espoo",
+"website": "https://meetiqm.com/",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R006510",
+"eintrag_id": 81364,
+"version": 12,
+"stand": "2026-06-30",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006510/81364",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/bb/4b/790735/Lobbyregister-Registereintraege-Detailansicht-R006510-2026-06-30_13-16-52.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "Teilnahme an Verbundprojekt QLinda, Quantum Reinforcement Learning für industrielle Anwendungen (QLindA) - Teilvorhaben: Co-Design für Quantum Reinforcement Learning für industrielle Anwendungen",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 450001,
+"bis": 460000,
+"zweck": "Verbundprojekt: Quantencomputer-Erweiterung durch Exa-Scale-HPC (Q-Exa) - Teilvorhaben: Entwicklung und Inbetriebnahme eines Quantencomputer-Demonstrators",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 50001,
+"bis": 60000,
+"zweck": "Verbundprojekt: QuaST - Quantum-enabling Service und Tools für industrielle Anwendungen;",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 20001,
+"bis": 30000,
+"zweck": "Verbundprojekt: Hochintegrierte und skalierbare Interfaceschaltungen für Quantenprozessoren (HIQuP) - Teilvorhaben: Modellierung, Entwurf und Charakterisierung von skalierbaren integrierten Interfaceschaltungen für supraleitende Quantenprozessoren",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 250001,
+"bis": 260000,
+"zweck": "Verbundprojekt: Hochintegrierte und skalierbare Interfaceschaltungen für Quantenprozessoren (HIQuP) - Teilvorhaben: Modellierung, Entwurf und Charakterisierung von skalierbaren integrierten Interfaceschaltungen für supraleitende Quantenprozessoren",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 270001,
+"bis": 280000,
+"zweck": "Verbundprojekt: Hochintegrierte und skalierbare Interfaceschaltungen für Quantenprozessoren (HIQuP) - Teilvorhaben: Modellierung, Entwurf und Charakterisierung von skalierbaren integrierten Interfaceschaltungen für supraleitende Quantenprozessoren",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 50001,
+"bis": 60000,
+"zweck": "Verbundprojet AdAstra: Teilvorhaben: Fehlerkorrektur-Codes für supraleitende QPU-Architektur mit hoher Konnektivität",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"epl": "30",
+"von": 150001,
+"bis": 160000,
+"zweck": "Verbundprojekt QUBE: Teilvorhaben: Ausführung von industrierelevanten Algorithmen für fermionische Systeme auf aktueller Quantenhardware",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1260008,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Jan Goetz",
+"funktion": "Co-CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006510/81364",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Mikko Välimäki",
+"funktion": "Co-CEO",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006510/81364",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Juha Vartiainen",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006510/81364",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Milja Kalliosaari",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006510/81364",
+"stand": "2026-06-30"
+}
+},
+{
+"name": "Bendele Markus",
+"funktion": "Interessenvertretung",
+"rolle": "interessenvertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006510/81364",
+"stand": "2026-06-30"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit",
+"Öffentliche Zuwendungen"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 30001,
+"bis": 40000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/a6/8e/790733/Final_IQM-IFRS_Group_FS_FY25_ENG.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006510/81364",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe",
+"version": 12
+}
+]
+}

@@ -1,0 +1,111 @@
+{
+"id": "autoflug",
+"name": "AUTOFLUG GmbH",
+"art": "unternehmen",
+"rechtsform": "Gesellschaft mit beschränkter Haftung (GmbH)",
+"sitz": "Rellingen",
+"website": "www.autoflug.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R001912",
+"eintrag_id": 86768,
+"version": 6,
+"stand": "2026-10-01",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001912/86768",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/0d/2f/854336/Lobbyregister-Registereintraege-Detailansicht-R001912-2026-10-01_09-19-14.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 30001,
+"bis": 40000,
+"zweck": "Entwicklung von modularen und crashsicheren Sicherheitssitzen sowie Vorbereitung einer Zertifizierungsstrategie",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "BMWK - PTJ Projekträger",
+"epl": "09",
+"von": 130001,
+"bis": 140000,
+"zweck": "AutoSplit: Automatisierte und intelligente Bauteilzerlegung für die Ableitung von ressourcen- und kosteneffizienten Leichtstrukturen durch hybride Bauteilfertigung",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium für Wirtschaft und Klimaschutz",
+"epl": "09",
+"von": 40001,
+"bis": 50000,
+"zweck": "Precise: INNOVATIVE TECHNOLOGIEN ZUR EFFIZIENTEN UND GENAUEN MESSUNG DES LH2-TANKINHALTS IN FLUGZEUGEN",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 200003,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Martin Kroell",
+"funktion": "Geschäftsführender Gesellschafter",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001912/86768",
+"stand": "2026-10-01"
+}
+},
+{
+"name": "Andreas Sedlmayr",
+"funktion": "Inhaber u. Gesellschafter",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001912/86768",
+"stand": "2026-10-01"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Wirtschaftliche Tätigkeit"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 0,
+"bis": 0
+},
+"lobbyausgaben": {
+"von": 10001,
+"bis": 20000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/b3/15/854334/AFG-Jahresabschluss-2024-25_unterschrieben.pdf",
+"geschaeftsjahr": "2024",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001912/86768",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-01",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

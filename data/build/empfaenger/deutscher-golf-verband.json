@@ -1,0 +1,145 @@
+{
+"id": "deutscher-golf-verband",
+"name": "Deutscher Golf Verband e. V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Wiesbaden",
+"website": "www.golf.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004282",
+"eintrag_id": 78360,
+"version": 6,
+"stand": "2026-06-08",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004282/78360",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/bf/9c/752090/Lobbyregister-Registereintraege-Detailansicht-R004282-2026-06-08_11-49-12.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Bundesministerium des Innern und für Heimat",
+"epl": "06",
+"von": 460001,
+"bis": 470000,
+"zweck": "Zuwendung aus Bundesmitteln zur Förderung des Sports - Vergütung und Fortbildungsmaßnahmen des Leistungssportpersonals",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium des Innern und für Heimat",
+"epl": "06",
+"von": 30001,
+"bis": 40000,
+"zweck": "Zuwendung zu den Ausbildungskosten von Studenten/-innen an der Trainerakademie Köln des Deutschen Olympischen Sportbundes (TA) Studiengang DTS 28",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministeriums für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+"epl": null,
+"von": 50001,
+"bis": 60000,
+"zweck": "Fördermittel zur Erarbeitung systematischen Wissens zur Biodiversität auf Golfanlagen in Deutschland.",
+"geschaeftsjahr": "2025"
+},
+{
+"geber": "Bundesministerium des Innern und für Heimat",
+"epl": "06",
+"von": 710001,
+"bis": 720000,
+"zweck": "Zuwendung aus Bundesmitteln zur Förderung des Sports - Jahresplanung 2025",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 1250004,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Achim Battermann",
+"funktion": "stellvertretender Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004282/78360",
+"stand": "2026-06-08"
+}
+},
+{
+"name": "Claus Kobold",
+"funktion": "Präsident",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004282/78360",
+"stand": "2026-06-08"
+}
+},
+{
+"name": "Alexander Klose",
+"funktion": "Vorstand Recht & Services",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004282/78360",
+"stand": "2026-06-08"
+}
+},
+{
+"name": "Marcus Neumann",
+"funktion": "Vorstand Sport",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004282/78360",
+"stand": "2026-06-08"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Schenkungen und sonstige lebzeitige Zuwendungen",
+"Öffentliche Zuwendungen",
+"Wirtschaftliche Tätigkeit",
+"Sonstiges"
+],
+"spenden": {
+"von": 1210001,
+"bis": 1220000
+},
+"mitgliedsbeitraege": {
+"von": 12880001,
+"bis": 12890000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/e6/bb/752089/3-a2601573-dgv-finanzbericht-a4.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004282/78360",
+"abgerufen": "2026-11-02",
+"stand": "2026-06-08",
+"etikett": "Eigenangabe",
+"version": 6
+}
+]
+}

@@ -1,0 +1,108 @@
+{
+"id": "bund-landesverband-mecklenburg-vorpommern",
+"name": "BUND Landesverband Mecklenburg-Vorpommern e.V.",
+"art": "verein_stiftung",
+"rechtsform": "Eingetragener Verein (e. V.)",
+"sitz": "Schwerin",
+"website": "www.bund-mv.de",
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": {
+"nummer": "R004420",
+"eintrag_id": 86197,
+"version": 9,
+"stand": "2026-10-29",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004420/86197",
+"pdf_url": "https://www.lobbyregister.bundestag.de/media/cd/4e/866967/Lobbyregister-Registereintraege-Detailansicht-R004420-2026-10-29_14-32-56.pdf"
+},
+"haushalt": {
+"titel": []
+},
+"lobby_zuwendungen": [
+{
+"geber": "Deutsches Zentrum für Luft- und Raumfahrt e.V. DLR-Projektträger, Programmbüro BfN",
+"epl": null,
+"von": 190001,
+"bis": 200000,
+"zweck": "Verbundprojekt \"Schatz an der Küste\", Grünes Band",
+"geschaeftsjahr": "2025"
+}
+],
+"lobby_untergrenze_bund": 190001,
+"foerderkatalog": [],
+"personen": [
+{
+"name": "Corinna Cwielag",
+"funktion": "Landesgeschäftsführerin",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004420/86197",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Burkhard Roloff",
+"funktion": "Referent für Ökolandbau",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004420/86197",
+"stand": "2026-10-29"
+}
+},
+{
+"name": "Katharina Dujesiefken",
+"funktion": "Referentin für Baum- und Alleenschutz",
+"rolle": "gesetzlicher_vertreter",
+"regierungsfunktion": null,
+"quelle": {
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004420/86197",
+"stand": "2026-10-29"
+}
+}
+],
+"verbindungen": [],
+"pflichtangaben": {
+"finanzierungsquellen": [
+"Mitgliedsbeiträge",
+"Öffentliche Zuwendungen",
+"Sonstiges"
+],
+"spenden": {
+"von": 0,
+"bis": 0
+},
+"mitgliedsbeitraege": {
+"von": 140001,
+"bis": 150000
+},
+"lobbyausgaben": {
+"von": 1,
+"bis": 10000
+},
+"geschaeftsjahr": "2025",
+"jahresabschluss": {
+"url": "https://www.lobbyregister.bundestag.de/media/41/af/866966/Bilanz-und-GuV2025_end.pdf",
+"geschaeftsjahr": "",
+"kennzahlen": null,
+"seite": null,
+"pruefer": null,
+"hinweis": null,
+"erfasst": null
+}
+},
+"quellen": [
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004420/86197",
+"abgerufen": "2026-11-02",
+"stand": "2026-10-29",
+"etikett": "Eigenangabe",
+"version": 9
+}
+]
+}
