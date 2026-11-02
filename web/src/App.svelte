@@ -12,6 +12,9 @@
   import Gewachsen from "./lib/views/Gewachsen.svelte";
   import Empfaenger from "./lib/views/Empfaenger.svelte";
   import EmpfaengerSeite from "./lib/views/EmpfaengerSeite.svelte";
+  import Personen from "./lib/views/Personen.svelte";
+  import Akte from "./lib/views/Akte.svelte";
+  import Netz from "./lib/views/Netz.svelte";
   import Schnittwechsel from "./lib/ui/Schnittwechsel.svelte";
 
   const app = new AppState({ loadIndex, loadYear, loadPresets, loadGesetzFrei, loadZeitreihe, loadVpi, loadSozialkassen, loadTexte, loadKonkordanz, loadSteuern, loadEmpfaengerIndex, loadEmpfaenger, loadPersonIndex, loadPersonShard, loadNetzIndex, loadNetzShard });
@@ -63,11 +66,30 @@
         {:else}
           <Empfaenger {app} />
         {/if}
+      {:else if app.view === "personen"}
+        {#if app.akte}
+          <Akte {app} akte={app.akte} />
+        {:else}
+          <Personen {app} />
+        {/if}
+      {:else if app.view === "netz"}
+        {#if app.netz}
+          <Netz {app} umfeld={app.netz} />
+        {:else}
+          <div class="soon">{app.netzFehlt ? `Für „${app.netzFehlt}“ gibt es kein Umfeld: Der Knoten hat keine Kanten oder keine freigeschaltete Seite.` : "Lade Umfeld …"} <button class="link" onclick={() => app.openPersonenListe()}>Zu den Personen</button></div>
+        {/if}
       {:else}
         <div class="soon">Diese Ansicht ist noch im Aufbau.</div>
       {/if}
     </section>
-    {#if app.view === "empfaenger"}
+    {#if app.view === "personen" || app.view === "netz"}
+      <aside class="panel hint">
+        <b>Personen und Netz</b>
+        <p>Akten zeigen nur, was amtlich veröffentlicht ist oder die Person selbst angegeben hat: Mandat, Amt, Posten, veröffentlichungspflichtige Angaben, Parteispenden ihrer Organisationen. Jede Zeile trägt Quelle und Datum.</p>
+        <p>Öffentlich sind Akten von Personen mit öffentlichem Amt, mit belegter Verbindung oder nach Prüfung eines Belegs. Gleiche Namen werden nur mit Beleg zusammengeführt.</p>
+        <p>Das Netz zeigt Geld (Ministerium → Organisation), Posten und Parteispenden zwei Schritte weit; Ministerien und Parteien werden nicht weiter ausgebreitet. Es ist eine Landkarte belegter Beziehungen, kein Urteil.</p>
+      </aside>
+    {:else if app.view === "empfaenger"}
       <aside class="panel hint">
         <b>Empfänger-Seiten</b>
         <p>Belege aus Lobbyregister, Bundeshaushalt, Förderkatalog und bundestag.de. Eigenangaben sind als solche gekennzeichnet; Beträge aus verschiedenen Quellen werden nicht addiert.</p>
@@ -89,6 +111,7 @@
   .panel.hint { background: var(--panel); border: 1px solid var(--border); border-radius: 12px; padding: 14px; font-size: 12px; color: var(--muted); }
   .panel.hint b { color: var(--fg); }
   .panel.hint p { margin: 6px 0; }
+  .link { background: none; border: 0; color: var(--header); text-decoration: underline; cursor: pointer; font: inherit; padding: 0; }
   main { display: grid; grid-template-columns: minmax(0, 1fr) 300px; gap: 16px; padding: 16px; flex: 1; align-items: start; }
   .view { background: var(--panel); border: 1px solid var(--border); border-radius: 12px; padding: 14px; min-height: 420px; }
   .view[aria-busy="true"] { opacity: .7; }

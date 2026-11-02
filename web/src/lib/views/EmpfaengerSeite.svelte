@@ -37,7 +37,7 @@
 </script>
 
 <article class="seite">
-  <button class="back" onclick={() => app.openEmpfaengerListe()}>‹ Alle Empfänger</button>
+  <div class="top"><button class="back" onclick={() => app.openEmpfaengerListe()}>‹ Alle Empfänger</button><button class="netz" onclick={() => void app.openNetz(`e:${seite.id}`)}>Umfeld zeigen</button></div>
   <header>
     <div class="path">Empfänger · {EMPFAENGER_ART_LABELS[seite.art] ?? seite.art}</div>
     <h2>{seite.name}</h2>
@@ -156,7 +156,7 @@
     {:else}
       <ul class="personen">
         {#each seite.personen as p}
-          <li><b>{p.name}</b> · {p.funktion || (p.rolle === "interessenvertreter" ? "Interessenvertretung" : "gesetzliche Vertretung")}
+          <li>{#if p.akte_id && p.akte_sichtbar}<button class="link" onclick={() => void app.openAkte(p.akte_id!)}><b>{p.name}</b></button>{:else}<b>{p.name}</b>{#if p.akte_id === null || p.akte_sichtbar === false} <span class="tag">Akte nicht freigeschaltet</span>{/if}{/if} · {p.funktion || (p.rolle === "interessenvertreter" ? "Interessenvertretung" : "gesetzliche Vertretung")}
             {#if p.rolle === "interessenvertreter"}<span class="tag">Interessenvertreter laut Lobbyregister</span>{/if}
             {#if p.regierungsfunktion}<span class="tag">frühere öffentliche Funktion: {p.regierungsfunktion.funktion}{#if p.regierungsfunktion.stelle}, {p.regierungsfunktion.stelle}{/if}{#if p.regierungsfunktion.ende} bis {p.regierungsfunktion.ende}{/if}</span>{/if}
             <small class="muted">Quelle: <a href={p.quelle.url ?? "#"} target="_blank" rel="noopener">{p.quelle.kurz}</a>, Stand {p.quelle.stand}</small>
@@ -216,6 +216,8 @@
 <style>
   .seite { font-size: 12px; max-width: 980px; }
   .back { background: none; border: 0; color: var(--header); cursor: pointer; font: inherit; font-size: 12px; padding: 0; margin-bottom: 6px; }
+  .top { display: flex; justify-content: space-between; align-items: center; gap: 8px; }
+  .netz { font: inherit; font-size: 12px; background: var(--header); color: #fff; border: 0; border-radius: 8px; padding: 5px 10px; cursor: pointer; }
   .path { color: var(--muted); font-size: 11px; }
   h2 { margin: 2px 0 4px; font-size: 18px; }
   h3 { margin: 0 0 6px; font-size: 13px; }

@@ -42,7 +42,7 @@ export interface TitelEintrag { id: string; text: string; epl: string; epl_text:
 export interface LobbyZuwendung { geber: string; epl: string | null; von: number; bis: number; zweck: string; geschaeftsjahr: string }
 export interface FoerderProjekt { fkz: string; ressort: string; epl: string | null; thema: string; von: string; bis: string; summe: number; foerderart: string }
 export interface Regierungsfunktion { art: string; funktion: string; stelle: string; beendet: boolean; ende: string | null }
-export interface PersonEintrag { name: string; funktion: string; rolle: "gesetzlicher_vertreter" | "interessenvertreter"; regierungsfunktion: Regierungsfunktion | null; quelle: Quelle }
+export interface PersonEintrag { name: string; funktion: string; rolle: "gesetzlicher_vertreter" | "interessenvertreter"; regierungsfunktion: Regierungsfunktion | null; quelle: Quelle; akte_id?: string | null; akte_sichtbar?: boolean }
 export interface Verbindung {
   typ: "abgeordneter_funktion" | "regierungsfunktion" | "manuell" | string;
   person: string;
