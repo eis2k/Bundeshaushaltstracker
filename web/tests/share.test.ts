@@ -120,3 +120,15 @@ describe("Personen- und Netz-Links (Stufe 3)", () => {
     expect(decodeScenario("v1;pe=../x", fixtureYear).person).toBeNull();
   });
 });
+
+describe("Stufe 4d: Topf im Link bei Fokus", () => {
+  test("Fokus im Gesamt-Topf wird mit t=gesamt kodiert und kommt so zurück", () => {
+    const h = encodeScenario(base, "fluss", ["11"], "ressort", "gesamt");
+    expect(h).toContain("t=gesamt");
+    const d = decodeScenario(h, fixtureYear);
+    expect(d.topf).toBe("gesamt");
+    expect(d.focus).toEqual(["11"]);
+    expect(encodeScenario(base, "fluss", [], "ressort", "gesamt")).not.toContain("t=");
+    expect(decodeScenario("v1;j=2025;a=fluss;f=11", fixtureYear).topf).toBe("bund");
+  });
+});

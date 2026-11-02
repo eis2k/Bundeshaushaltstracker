@@ -10,9 +10,14 @@
   import Avatar from "../ui/Avatar.svelte";
   import EmpfaengerFluss from "../ui/EmpfaengerFluss.svelte";
   import Partei from "../ui/Partei.svelte";
+  import Netz from "./Netz.svelte";
+  import type { Umfeld } from "../model/netz";
 
   let { app, seite }: { app: AppState; seite: EmpfaengerSeite } = $props();
   onMount(() => { void app.ensurePersonen(); });
+  /** Eingebettetes Umfeld (Spec §4.12), je Seite nachgeladen. */
+  let umfeld = $state<Umfeld | null>(null);
+  $effect(() => { const id = seite.id; umfeld = null; void app.ladeUmfeld(`e:${id}`).then((u) => { if (seite.id === id) umfeld = u; }); });
 
   type Reiter = "uebersicht" | "geldfluesse" | "verbindungen" | "personen" | "zeitverlauf" | "quellen";
   let reiter = $state<Reiter>("uebersicht");
@@ -58,7 +63,8 @@
     app.zeigeImFluss([epl, `${epl}-${kap}`, id], id);
   }
   function eplName(epl: string): string { return app.viewData?.epl[epl] ?? `Einzelplan ${epl}`; }
-  function partei(p: { akte_id?: string | null }): string | null { return (p.akte_id ? app.personIndex?.eintraege.find((e) => e.id === p.akte_id)?.partei : null) ?? null; }
+  /** Partei nur bei sichtbarer Akte (Spec §4.12). */
+  function partei(p: { akte_id?: string | null; akte_sichtbar?: boolean }): string | null { return (p.akte_id && p.akte_sichtbar ? app.personIndex?.eintraege.find((e) => e.id === p.akte_id)?.partei : null) ?? null; }
 </script>
 
 <article class="seite">
@@ -126,6 +132,9 @@
             {#if !mitPersonen}
               <p class="muted">Personenangaben sind in dieser Fassung nicht veröffentlicht.</p>
             {:else}
+              {#if umfeld}
+                <Netz {app} {umfeld} kompakt onVoll={() => void app.openNetz(`e:${seite.id}`)} />
+              {:else}
               <div class="netzvorschau">
                 <Avatar name={seite.name} art="organisation" size={40} />
                 {#each mitAkte.slice(0, 4) as p}<Avatar name={p.name} size={32} />{/each}
@@ -133,6 +142,7 @@
               </div>
               <p class="muted small">{mitAkte.length} {mitAkte.length === 1 ? "Person" : "Personen"} mit Akte, {seite.verbindungen.length} belegte {seite.verbindungen.length === 1 ? "Verbindung" : "Verbindungen"}{#if geber.length}, Geld von {geber.length} {geber.length === 1 ? "Stelle" : "Stellen"} des Bundes{/if}.</p>
               <button class="knopf" onclick={() => void app.openNetz(`e:${seite.id}`)}>Umfeld zeigen</button>
+              {/if}
             {/if}
           </section>
           <section class="block">

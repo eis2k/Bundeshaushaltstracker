@@ -6,13 +6,14 @@
   import { KNOTEN_LABELS, kanteBeschreibung, kantenStil, legende, type NetzKante, type NetzKnoten, type Umfeld } from "../model/netz";
   import type { AppState } from "../state.svelte";
 
-  let { app, umfeld }: { app: AppState; umfeld: Umfeld } = $props();
+  /** kompakt: eingebettete Vorschau (Spec §4.12) ohne Kopf, Belegpanel und Legende; Knotenklick öffnet die Seite, „Umfeld zeigen“ die volle Ansicht. */
+  let { app, umfeld, kompakt = false, onVoll }: { app: AppState; umfeld: Umfeld; kompakt?: boolean; onVoll?: () => void } = $props();
 
   type N = NetzKnoten & SimulationNodeDatum;
   type L = SimulationLinkDatum<N> & { kante: NetzKante };
 
   let width = $state(900);
-  const height = 560;
+  const height = $derived(kompakt ? 300 : 560);
   let nodes = $state<N[]>([]);
   let links = $state<L[]>([]);
   let transform = $state<ZoomTransform>(zoomIdentity);
@@ -68,12 +69,14 @@
   const invK = $derived(1 / transform.k);
 </script>
 
-<div class="netz" bind:clientWidth={width}>
+<div class="netz" class:kompakt bind:clientWidth={width}>
+  {#if !kompakt}
   <div class="kopf">
     <button class="back" onclick={() => void app.closeNetz()}>‹ zurück</button>
     <h2>Umfeld: {startKnoten?.label ?? umfeld.start}</h2>
     <span class="muted">{umfeld.knoten.length} Knoten, {umfeld.kanten.length} Kanten, zwei Schritte{#if umfeld.weitere} · {umfeld.weitere} weitere Knoten nicht gezeigt (die größten nach Geld zuerst){/if}</span>
   </div>
+  {/if}
   <svg bind:this={svgEl} {width} {height} role="group" aria-label="Netz der Geldflüsse, Posten und Spenden rund um {startKnoten?.label ?? umfeld.start}">
     <g transform={transform.toString()}>
       {#each links as l}
@@ -99,7 +102,7 @@
     </g>
   </svg>
   {#if hover}<div class="tip" style="left:{hover.x + 12}px;top:{hover.y + 12}px">{hover.text}</div>{/if}
-  {#if beleg}
+  {#if beleg && !kompakt}
     <aside class="beleg" aria-label="Beleg der gewählten Kante">
       <div class="beleg-kopf"><span class="tag">{beleg.art}</span><button class="schliessen" onclick={() => (gewaehlt = null)} aria-label="Belegpanel schließen">×</button></div>
       <p class="satz">{beleg.titel}</p>
@@ -112,6 +115,9 @@
       <p class="muted small">Belegte Beziehung, keine Wertung.{#if beleg.art === "Geld"} Zuständigkeit für einen Einzelplan ist keine Entscheidung über eine einzelne Zahlung.{/if}</p>
     </aside>
   {/if}
+  {#if kompakt}
+  <div class="legende"><span class="muted">{umfeld.knoten.length} Knoten, {umfeld.kanten.length} Kanten, zwei Schritte. Klick auf einen Knoten öffnet seine Seite.</span>{#if onVoll}<button class="voll" onclick={onVoll}>Umfeld zeigen</button>{/if}</div>
+  {:else}
   <div class="legende">
     {#each legende() as l}
       {@const st = kantenStil(l.art)}
@@ -120,6 +126,7 @@
     <span>Kreis Person · Quadrat Organisation · Raute Ministerium · Sechseck Partei · hell: Person ohne freigeschaltete Akte</span>
     <span>Klick auf einen Knoten öffnet Akte oder Seite, Doppelklick macht ihn zur Mitte, Mausrad zoomt. Klick auf eine Kante zeigt den Beleg mit Quelle und Stand. Keine Wertung: Das Netz zeigt belegte Beziehungen, nicht mehr.</span>
   </div>
+  {/if}
 </div>
 
 <style>
@@ -141,6 +148,8 @@
   .back { background: none; border: 0; color: var(--header); cursor: pointer; font: inherit; font-size: 12px; padding: 0; }
   h2 { margin: 0; font-size: 15px; }
   svg { background: var(--panel); border: 1px solid var(--border); border-radius: 10px; width: 100%; height: 560px; touch-action: none; }
+  .kompakt svg { height: 300px; background: var(--bg); }
+  .voll { margin-left: auto; font: inherit; font-size: 12px; font-weight: 600; background: var(--nav-on); color: var(--nav-on-fg); border: 0; border-radius: 10px; padding: 6px 10px; cursor: pointer; }
   .knoten text { fill: var(--fg); pointer-events: none; }
   .knoten.klickbar { cursor: pointer; }
   .knoten.start path { fill: var(--accent); }

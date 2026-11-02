@@ -396,6 +396,18 @@ export class AppState {
     }
   }
 
+  /** Umfeld laden, ohne die Ansicht zu wechseln (eingebettete Netz-Vorschau, Spec §4.12); null ohne Umfeld. */
+  async ladeUmfeld(knotenId: string): Promise<Umfeld | null> {
+    try {
+      if (!this.netzIndex && this.loader.loadNetzIndex) this.netzIndex = await this.loader.loadNetzIndex();
+      const sh = this.netzIndex?.[knotenId];
+      if (!sh || !this.loader.loadNetzShard) return null;
+      return (await this.loader.loadNetzShard(sh))[knotenId] ?? null;
+    } catch {
+      return null;
+    }
+  }
+
   /** Verlässt das Netz zurück zum letzten Glied der Spur; ohne Spur zur Personenliste. */
   async closeNetz(): Promise<void> {
     this.netz = null;

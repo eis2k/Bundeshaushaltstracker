@@ -22,7 +22,8 @@ export function encodeScenario(s: Scenario, view: ViewId, focus: NodeId[], schni
   if (person && PERSON_ID.test(person)) parts.push(`pe=${person}`);
   if (netz && KNOTEN_ID.test(netz)) parts.push(`n=${netz}`);
   if (schnitt !== "ressort") parts.push(`sc=${schnitt}`);
-  if (topf !== "gesamt") parts.push(`t=${topf}`);
+  // Fokus im Gesamt-Topf braucht t=gesamt, sonst öffnet f= ohne t= den Bundesfluss (Spec §4.12)
+  if (topf !== "gesamt" || (focus.length && view === "fluss")) parts.push(`t=${topf}`);
   if (focus.length) parts.push(`f=${focus.map((id) => id.split("-").pop()).join("/")}`);
   if (s.presets.length) parts.push(`p=${s.presets.join(",")}`);
   const o = Object.entries(s.factors)
