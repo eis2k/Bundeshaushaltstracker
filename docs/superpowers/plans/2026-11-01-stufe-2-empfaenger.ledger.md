@@ -48,3 +48,4 @@ Final: Ruling: Aktualität der Biografien (ausgeschiedene Abgeordnete) wird nich
 Final: Ruling: Rote Randfarbe der „Id fehlt“-Meldung bleibt — sie betrifft einen kaputten Link, keinen Empfänger — Kosten falls falsch: keine.
 Task 10: Förderkatalog-Abruf abgeschlossen (1.440 Empfänger gesucht, 226 mit Projekten, Summe 3,6 Mrd €, ein Export am 100-Zeilen-Limit); Neubau 1.440 Seiten; Tests: pytest 103, vitest 114, svelte-check 0 Fehler, Build ok.
 Task 10: complete — README, Spec §7 (Stufe 2 ✅, 2b Personal-Regler), Pipeline-README, Ledger; ff-Merge nach main und Push am 2.11.2026.
+Nachtrag 2.11.2026: Hotfix — der Build ließ Seiten früherer Läufe liegen (517 veraltete Dateien, darunter Zweckbestimmungen als Empfänger); build_empfaenger löscht jetzt alles, was nicht neu geschrieben wurde (test_build_entfernt_veraltete_seiten RED→GREEN).

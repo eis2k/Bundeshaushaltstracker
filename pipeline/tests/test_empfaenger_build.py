@@ -219,3 +219,14 @@ def test_automatische_verbindung_traegt_beide_belege(tmp_path):
     v = [x for x in lade(out, "amadeu-antonio-stiftung.json")["verbindungen"] if x["typ"] == "abgeordneter_funktion"][0]
     assert [q["kurz"] for q in v["quellen"]] == ["bundestag.de", "Lobbyregister"]
     assert all(q.get("etikett") == "Eigenangabe" for q in v["quellen"])
+
+
+def test_build_entfernt_veraltete_seiten(tmp_path):
+    # Seiten aus früheren Läufen, deren Empfänger es nicht mehr gibt, dürfen nicht liegen bleiben (sonst bleiben sie per Link erreichbar)
+    raw, manual, out = make_raw(tmp_path), make_manual(tmp_path), tmp_path / "build"
+    (out / "empfaenger").mkdir(parents=True)
+    alt = out / "empfaenger" / "zur-entlastung-beim-strompreis.json"
+    alt.write_text("{}", encoding="utf-8")
+    build_empfaenger(manual, raw, out, YEARS, IST_YEARS, stand="2026-11-01")
+    assert not alt.exists()
+    assert (out / "empfaenger" / "index.json").exists() and (out / "empfaenger" / "goethe-institut.json").exists()
