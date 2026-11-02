@@ -191,7 +191,7 @@ def commons_meta(datei: str, info: dict) -> dict | None:
         return None
     # Vom Urheber vorgegebene Nennung (Attribution) vor dem Artist-Feld; „Unknown author“ u. Ä. gilt als leer
     urheber = val("Attribution") or val("Artist")
-    if re.fullmatch(r"(unknown.*|unbekannt.*|anonymous|anonym|n/?a|-)", urheber, re.I):
+    if re.fullmatch(r"(unknown\b.*|unbekannt.*|anonymous|anonym|n/?a|-)", urheber, re.I):
         urheber = ""
     if len(urheber) > 120:
         urheber = urheber[:119].rstrip() + "…"
