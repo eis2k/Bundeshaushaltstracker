@@ -1,4 +1,5 @@
 import { applyPresets } from "./model/presets";
+import { attribut, lies, schreibe, type Theme } from "./model/theme";
 import { balance as computeBalance, setFactor as applyFactor } from "./model/scenario";
 import { decodeScenario, encodeScenario, knownIds, type TopfId } from "./model/share";
 import { buildToepfe, type SozialkassenYear, type ToepfeResult } from "./model/toepfe";
@@ -71,6 +72,15 @@ export class AppState {
   texte = $state<Record<string, { text: string; quelle: string[]; stand: string }>>({});
   konkordanz = $state<Record<string, { ab: number; hinweis: string; quelle?: string }>>({});
   index = $state<Index | null>(null);
+  /** Darstellung Hell | Dunkel | System (Spec §4.12), aus dem Browser-Speicher. */
+  theme = $state<Theme>("system");
+
+  setTheme(t: Theme): void {
+    this.theme = t;
+    if (typeof localStorage !== "undefined") schreibe(localStorage, t);
+    if (typeof document !== "undefined") { const a = attribut(t); if (a) document.documentElement.dataset.theme = a; else delete document.documentElement.dataset.theme; }
+  }
+
   /** Vorjahr des gewählten Jahres (für die Veränderung auf dem Dashboard), nachgeladen. */
   vorjahrData = $state<YearData | null>(null);
   data = $state<YearData | null>(null);
@@ -138,6 +148,7 @@ export class AppState {
 
   async init(hash: string): Promise<void> {
     this.loading = true;
+    if (typeof localStorage !== "undefined") this.setTheme(lies(localStorage));
     this.springt = true;   // beim Laden eines Links entsteht keine Spur
     try {
       const [index, presets, gesetz, steuern] = await Promise.all([

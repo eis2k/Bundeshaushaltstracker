@@ -1,5 +1,6 @@
 <script lang="ts">
-  import { Landmark } from "lucide-svelte";
+  import { Landmark, Monitor, Moon, Sun } from "lucide-svelte";
+  import { THEME_LABEL, naechstes } from "../model/theme";
   import type { AppState } from "../state.svelte";
   import Suche from "./Suche.svelte";
 
@@ -37,6 +38,9 @@
     {#if modell}
       <button class="ghost" onclick={() => app.reset()} title="Alle Regler und Presets zurück auf Original">Zurücksetzen</button>
     {/if}
+    <button class="ghost icon" onclick={() => app.setTheme(naechstes(app.theme))} title={`Darstellung: ${THEME_LABEL[app.theme]} (klicken zum Wechseln)`} aria-label={`Darstellung: ${THEME_LABEL[app.theme]}, wechseln`}>
+      {#if app.theme === "hell"}<Sun size={16} />{:else if app.theme === "dunkel"}<Moon size={16} />{:else}<Monitor size={16} />{/if}
+    </button>
     <button class="share" onclick={share}>{copied ? "Link kopiert" : "Teilen"}</button>
   </div>
 </header>
@@ -53,6 +57,7 @@
   .jahr select { font: inherit; font-size: 13px; padding: 8px 10px; border: 1px solid var(--border); border-radius: 10px; background: var(--panel); color: var(--header); font-weight: 600; }
   .share { background: var(--nav-on); color: var(--nav-on-fg); font-weight: 700; border: 0; border-radius: 10px; padding: 9px 14px; cursor: pointer; font-size: 13px; white-space: nowrap; }
   .ghost { background: var(--panel); border: 1px solid var(--border); color: var(--header); border-radius: 10px; padding: 8px 12px; cursor: pointer; font-size: 13px; white-space: nowrap; }
+  .ghost.icon { padding: 8px; display: inline-flex; align-items: center; }
   .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
   @media (max-width: 900px) {
     .top { flex-wrap: wrap; gap: 8px; padding: 10px 12px; }

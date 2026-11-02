@@ -92,7 +92,7 @@ import { groupBy, type Schnitt } from "../model/schnitte";
       <g class="tile" role="button" tabindex="0" onclick={() => click(leaf.data.id, leaf.data.kind)} onkeydown={(e) => (e.key === "Enter" || e.key === " ") && click(leaf.data.id, leaf.data.kind)}>
         <rect x={leaf.x0} y={leaf.y0} width={Math.max(0, w)} height={Math.max(0, h)} rx="3"
               fill={colorFor(colorKeyFor(leaf.data.id, leaf.data.kind))} fill-opacity={leaf.data.sv ? 0.55 : 0.9}
-              stroke={leaf.data.id === selected || leaf.data.changed ? CHANGED_STROKE : "#fff"} stroke-width={leaf.data.id === selected ? 3 : leaf.data.changed ? 2 : 1}
+              stroke={leaf.data.id === selected || leaf.data.changed ? CHANGED_STROKE : "var(--panel)"} stroke-width={leaf.data.id === selected ? 3 : leaf.data.changed ? 2 : 1}
               stroke-dasharray={leaf.data.changed && leaf.data.id !== selected ? "4 2" : undefined} />
         {#if w > 60 && h > 24}
           <text x={leaf.x0 + 6} y={leaf.y0 + 14} class="t" class:dark>{leaf.data.label.length > w / 6.5 ? leaf.data.label.slice(0, Math.max(3, Math.floor(w / 6.5)) - 1) + "…" : leaf.data.label}</text>
@@ -114,14 +114,14 @@ import { groupBy, type Schnitt } from "../model/schnitte";
   .crumbs { display: flex; gap: 6px; align-items: center; font-size: 11px; color: var(--muted); margin-bottom: 6px; flex-wrap: wrap; }
   .crumbs .back { font-size: 11px; background: var(--bg); border: 1px solid var(--border); border-radius: 6px; padding: 2px 7px; cursor: pointer; color: var(--fg); }
   .crumbs .hint { margin-left: auto; }
-  .strip { display: flex; height: 26px; border-radius: 4px; overflow: hidden; margin-bottom: 8px; font-size: 10px; color: #fff; font-weight: 600; }
+  .strip { display: flex; height: 26px; border-radius: 4px; overflow: hidden; margin-bottom: 8px; font-size: 10px; color: var(--on-color); font-weight: 600; }
   .seg { display: flex; align-items: center; padding: 0 6px; white-space: nowrap; overflow: hidden; border: 0; color: inherit; cursor: pointer; font: inherit; }
   .seg.selected { outline: 2px solid var(--accent); outline-offset: -2px; }
-  .seg.kredit { background: repeating-linear-gradient(45deg, #fecaca 0 4px, #fff 4px 8px); color: var(--bad); border: 1px dashed var(--bad); cursor: default; }
+  .seg.kredit { background: repeating-linear-gradient(45deg, var(--bad-bg) 0 4px, var(--panel) 4px 8px); color: var(--bad); border: 1px dashed var(--bad); cursor: default; }
   svg { display: block; width: 100%; height: auto; }
   .tile { cursor: pointer; }
-  .t { font-size: 11px; font-weight: 600; fill: #fff; pointer-events: none; }
+  .t { font-size: 11px; font-weight: 600; fill: var(--on-color); pointer-events: none; }
   .a { font-size: 10px; fill: rgba(255,255,255,.9); pointer-events: none; }
-  .t.dark, .a.dark { fill: #fff; }
+  .t.dark, .a.dark { fill: var(--on-color); }
   .minder { font-size: 11px; color: var(--muted); margin-top: 6px; }
 </style>

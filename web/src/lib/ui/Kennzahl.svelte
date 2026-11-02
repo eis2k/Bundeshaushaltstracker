@@ -17,10 +17,10 @@
   .kennzahl { display: flex; align-items: center; gap: 12px; background: var(--panel); border: 1px solid var(--border); border-radius: var(--radius); padding: 12px 14px; min-width: 0; }
   .kachel { width: 42px; height: 42px; border-radius: 12px; display: inline-flex; align-items: center; justify-content: center; color: var(--header); flex: none; }
   .kachel.blau { background: var(--chip-blau); color: var(--nav-on); }
-  .kachel.gruen { background: var(--chip-gruen); color: #15803d; }
-  .kachel.orange { background: var(--chip-orange); color: #c2410c; }
-  .kachel.rot { background: #fee2e2; color: var(--bad); }
-  .kachel.violett { background: #ede9fe; color: #6d28d9; }
+  .kachel.gruen { background: var(--chip-gruen); color: var(--gruen-fg); }
+  .kachel.orange { background: var(--chip-orange); color: var(--orange-fg); }
+  .kachel.rot { background: var(--bad-bg); color: var(--bad); }
+  .kachel.violett { background: var(--violett-bg); color: var(--violett-fg); }
   .text { display: flex; flex-direction: column; line-height: 1.15; min-width: 0; }
   .text small { font-size: 11px; color: var(--muted); }
   .text b { font-size: 17px; color: var(--header); }

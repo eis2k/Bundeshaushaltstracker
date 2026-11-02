@@ -137,14 +137,14 @@ import { groupBy, type Schnitt } from "../model/schnitte";
   .head .cut { color: var(--bad); text-transform: none; letter-spacing: 0; }
   .stack { display: flex; flex-direction: column; border-radius: 6px; overflow: hidden; }
   .spacer { flex: none; }
-  .blk { display: flex; justify-content: space-between; align-items: center; gap: 6px; padding: 0 8px; color: #fff; font-size: 11px; font-weight: 600; border: 0; border-bottom: 1px solid rgba(255,255,255,.3); overflow: hidden; white-space: nowrap; cursor: pointer; font-family: inherit; text-align: left; flex: none; }
+  .blk { display: flex; justify-content: space-between; align-items: center; gap: 6px; padding: 0 8px; color: var(--on-color); font-size: 11px; font-weight: 600; border: 0; border-bottom: 1px solid rgba(255,255,255,.3); overflow: hidden; white-space: nowrap; cursor: pointer; font-family: inherit; text-align: left; flex: none; }
   .blk small { font-weight: 400; opacity: .9; }
   .blk.selected { outline: 3px solid var(--accent); outline-offset: -3px; }
   .blk.changed { box-shadow: inset 0 0 0 2px var(--accent); }
-  .blk.kredit { background: repeating-linear-gradient(45deg, #fecaca 0 4px, #fff 4px 8px); color: var(--bad); border: 1px dashed var(--bad); cursor: default; }
-  .blk.abzug { background: repeating-linear-gradient(45deg, #bfdbfe 0 4px, #eff6ff 4px 8px); color: #1e40af; border: 1px dashed #60a5fa; cursor: default; }
+  .blk.kredit { background: repeating-linear-gradient(45deg, var(--bad-bg) 0 4px, var(--panel) 4px 8px); color: var(--bad); border: 1px dashed var(--bad); cursor: default; }
+  .blk.abzug { background: repeating-linear-gradient(45deg, var(--abzug-bg) 0 4px, var(--panel) 4px 8px); color: var(--abzug-fg); border: 1px dashed var(--abzug-border); cursor: default; }
   .head .muted { color: var(--muted); text-transform: none; letter-spacing: 0; font-weight: 400; }
-  .blk.ghost { background: repeating-linear-gradient(45deg, #fee2e2 0 4px, #fff 4px 8px); color: var(--bad); border: 1px dashed var(--bad); cursor: default; }
+  .blk.ghost { background: repeating-linear-gradient(45deg, var(--bad-bg) 0 4px, var(--panel) 4px 8px); color: var(--bad); border: 1px dashed var(--bad); cursor: default; }
   .minder { font-size: 11px; color: var(--muted); margin-top: 8px; }
   @media (max-width: 720px) { .cols { gap: 10px; } .blk { font-size: 10px; padding: 0 4px; } }
 </style>

@@ -41,6 +41,6 @@
   .liste b { color: var(--header); }
   .liste small { color: var(--muted); min-width: 44px; text-align: right; }
   .kachel { width: 26px; height: 26px; border-radius: 8px; display: inline-flex; align-items: center; justify-content: center; }
-  .kachel.gruen { background: var(--chip-gruen); color: #15803d; }
+  .kachel.gruen { background: var(--chip-gruen); color: var(--gruen-fg); }
   .kachel.blau { background: var(--chip-blau); color: var(--nav-on); }
 </style>

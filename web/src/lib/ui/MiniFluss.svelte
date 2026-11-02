@@ -46,7 +46,7 @@
   function farbe(n: SankeyNode<N, L>): string {
     if (n.art === "einnahme") return n.id.startsWith("E:steuern") ? "var(--steuern)" : n.id.includes("kredit") ? "var(--bad)" : "var(--beitraege)";
     if (n.art === "haushalt") return "var(--header)";
-    if (n.art === "rest") return "#9fb3c8";
+    if (n.art === "rest") return "var(--rest)";
     return "var(--nav-on)";
   }
 </script>

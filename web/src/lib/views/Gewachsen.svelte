@@ -107,7 +107,7 @@
             <td class="num tabular">{r.von ? fmtEuro(r.von) : "–"}</td>
             <td class="num tabular">{fmtEuro(r.bis)}</td>
             <td class="num tabular grow {heat(r)}">{pctLabel(r)}<small>{fmtDelta(r.abs)}</small></td>
-            <td><svg viewBox="0 0 120 22" class="spark"><polyline points={spark(r.verlauf)} fill="none" stroke="#475569" stroke-width="1.5" /></svg></td>
+            <td><svg viewBox="0 0 120 22" class="spark"><polyline points={spark(r.verlauf)} fill="none" stroke="var(--spark)" stroke-width="1.5" /></svg></td>
           </tr>
         {/each}
       </tbody>

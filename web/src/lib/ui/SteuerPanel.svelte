@@ -81,7 +81,7 @@
   .toggle { width: 100%; font: inherit; font-size: 12px; padding: 7px 10px; border-radius: 8px; border: 1px solid var(--header); background: var(--nav-on); color: var(--nav-on-fg); cursor: pointer; margin-bottom: 8px; }
   .toggle.on { background: var(--accent); color: var(--header); border-color: var(--accent); }
   .box { background: var(--bg); border-left: 3px solid var(--accent); border-radius: 6px; padding: 8px 10px; margin-top: 8px; }
-  .box.modell { border-left-color: #f59e0b; }
+  .box.modell { border-left-color: var(--warn); }
   .basis { margin-top: 6px; font-size: 11px; }
   .annahme { margin: 8px 0; }
   .kv { display: flex; justify-content: space-between; gap: 8px; padding: 3px 0; }

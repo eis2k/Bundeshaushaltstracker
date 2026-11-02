@@ -156,7 +156,7 @@
             {#if reihe.length > 1}
               <svg class="balken" viewBox={`0 0 ${reihe.length * 34} 70`} role="img" aria-label="Summe der Titel je Jahr">
                 {#each reihe as r, i}
-                  <rect x={i * 34 + 4} y={56 - (r.wert / reiheMax) * 44} width="26" height={(r.wert / reiheMax) * 44} rx="3" fill={r.jahr === app.jahr ? "var(--nav-on)" : "#9cc3ee"}><title>{r.jahr}: {fmtEuro(r.wert)}</title></rect>
+                  <rect x={i * 34 + 4} y={56 - (r.wert / reiheMax) * 44} width="26" height={(r.wert / reiheMax) * 44} rx="3" fill={r.jahr === app.jahr ? "var(--nav-on)" : "var(--linie-hell)"}><title>{r.jahr}: {fmtEuro(r.wert)}</title></rect>
                   <text x={i * 34 + 17} y="66" text-anchor="middle" font-size="8">{String(r.jahr).slice(2)}</text>
                 {/each}
               </svg>
@@ -388,7 +388,7 @@
   .kopf b { font-size: 14px; color: var(--header); line-height: 1.2; }
   .kopf small { color: var(--muted); }
   .chip { display: inline-block; align-self: flex-start; font-size: 10px; padding: 1px 8px; border-radius: 999px; background: var(--bg); color: var(--muted); border: 1px solid var(--border); }
-  .chip.gruen { background: var(--chip-gruen); color: #15803d; border-color: transparent; }
+  .chip.gruen { background: var(--chip-gruen); color: var(--gruen-fg); border-color: transparent; }
   .knopfchip { cursor: pointer; background: var(--chip-blau); color: var(--header); border-color: transparent; font: inherit; font-size: 10px; }
   .kennzahlen { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 6px; }
   .kennzahlen li { display: grid; grid-template-columns: 26px 1fr auto; gap: 8px; align-items: center; background: var(--bg); border-radius: 10px; padding: 6px 8px; }

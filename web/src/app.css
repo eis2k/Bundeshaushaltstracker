@@ -21,12 +21,45 @@
   --bad: #dc2626;
   --steuern: #2563eb;
   --beitraege: #7c3aed;
+  /* bisher hart kodierte Oberflächenfarben (Stufe 4d, Dunkelmodus) */
+  --good-bg: #d9f4eb;       /* Hintergrund für positive Etiketten */
+  --bad-bg: #fee2e2;        /* Hintergrund für Warnungen und gesetzliche Bindung */
+  --gruen-fg: #15803d;      /* Symbolfarbe auf grüner Kachel */
+  --orange-fg: #c2410c;     /* Symbolfarbe auf oranger Kachel */
+  --violett-bg: #ede9fe;
+  --violett-fg: #6d28d9;
+  --rest: #9fb3c8;          /* „Weitere“/Rest-Knoten in Diagrammen */
+  --linie-hell: #9cc3ee;    /* ruhende Balken und Nebenlinien */
+  --spark: #475569;         /* Mini-Verlaufslinien */
+  --on-color: #ffffff;      /* Text auf farbigen Blöcken (Karte, Säulen) */
+  --abzug-bg: #bfdbfe;
+  --abzug-fg: #1e40af;
+  --abzug-border: #60a5fa;
+  --warn: #f59e0b;
   color-scheme: light;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   font-size: 14px;
   line-height: 1.45;
   color: var(--fg);
   background: var(--bg);
+}
+
+/* Dunkelmodus (Spec §4.12): per Wahl (data-theme) oder Systemeinstellung; Datenfarben des Sankey und der Parteien bleiben. */
+:root[data-theme="dark"] {
+  --bg: #0f1a2a; --fg: #e6eef8; --muted: #9db3cc; --panel: #16243a; --border: #27405f; --accent: #6ea8ff; --header: #e6eef8; --header-fg: #0f1a2a;
+  --nav-bg: #13203a; --nav-item: #16243a; --nav-on: #3b82f6; --nav-on-fg: #ffffff; --chip-blau: #1e3a5f; --chip-gruen: #14402f; --chip-orange: #4a3418;
+  --good: #4ade80; --bad: #f87171; --good-bg: #14402f; --bad-bg: #4a1d1d; --gruen-fg: #86efac; --orange-fg: #fdba74; --violett-bg: #2e1f5e; --violett-fg: #c4b5fd;
+  --rest: #5b7391; --linie-hell: #2f5a8a; --spark: #9db3cc; --on-color: #ffffff; --abzug-bg: #1e3a5f; --abzug-fg: #bfdbfe; --abzug-border: #3b82f6; --warn: #fbbf24;
+  color-scheme: dark;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0f1a2a; --fg: #e6eef8; --muted: #9db3cc; --panel: #16243a; --border: #27405f; --accent: #6ea8ff; --header: #e6eef8; --header-fg: #0f1a2a;
+    --nav-bg: #13203a; --nav-item: #16243a; --nav-on: #3b82f6; --nav-on-fg: #ffffff; --chip-blau: #1e3a5f; --chip-gruen: #14402f; --chip-orange: #4a3418;
+    --good: #4ade80; --bad: #f87171; --good-bg: #14402f; --bad-bg: #4a1d1d; --gruen-fg: #86efac; --orange-fg: #fdba74; --violett-bg: #2e1f5e; --violett-fg: #c4b5fd;
+    --rest: #5b7391; --linie-hell: #2f5a8a; --spark: #9db3cc; --on-color: #ffffff; --abzug-bg: #1e3a5f; --abzug-fg: #bfdbfe; --abzug-border: #3b82f6; --warn: #fbbf24;
+    color-scheme: dark;
+  }
 }
 
 *, *::before, *::after { box-sizing: border-box; }

@@ -69,7 +69,7 @@
       {#each graph.nodes as n}
         {@const x0 = n.x0 ?? 0}{@const x1 = n.x1 ?? 0}{@const y0 = n.y0 ?? 0}{@const y1 = n.y1 ?? 0}
         <g class="knoten" class:klickbar={n.art === "titel" || (n.art === "quelle" && n.id.startsWith("epl:"))} role="button" tabindex="0" onclick={() => klick(n)} onkeydown={(e) => e.key === "Enter" && klick(n)}>
-          <rect x={x0} y={y0} width={x1 - x0} height={Math.max(2, y1 - y0)} rx="4" fill={n.art === "mitte" ? "var(--header)" : n.art === "rest" ? "#9fb3c8" : modell.quelle === "lobby" ? "var(--muted)" : "var(--nav-on)"} />
+          <rect x={x0} y={y0} width={x1 - x0} height={Math.max(2, y1 - y0)} rx="4" fill={n.art === "mitte" ? "var(--header)" : n.art === "rest" ? "var(--rest)" : modell.quelle === "lobby" ? "var(--muted)" : "var(--nav-on)"} />
           {#if n.art === "quelle"}
             <foreignObject x={x1 + 6} y={(y0 + y1) / 2 - 11} width="22" height="22"><span class="kachel"><Landmark size={13} /></span></foreignObject>
             <text x={x1 + 32} y={(y0 + y1) / 2} dy="-0.15em">{kurz(n.label, 34)}<tspan x={x1 + 32} dy="1.2em" class="betrag">{modell.quelle === "lobby" ? "ab " : ""}{fmtEuro(n.wert)}{anteil(n)}</tspan></text>

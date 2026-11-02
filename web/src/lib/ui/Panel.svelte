@@ -238,7 +238,7 @@
   .note.warn { background: var(--chip-orange); color: var(--header); }
   .status { display: flex; gap: 6px; align-items: baseline; flex-wrap: wrap; margin: 8px 0; }
   .tag { font-size: 10px; padding: 2px 6px; border-radius: 4px; background: var(--chip-blau); color: var(--header); font-weight: 700; }
-  .tag.gesetz { background: #fee2e2; color: var(--bad); }
+  .tag.gesetz { background: var(--bad-bg); color: var(--bad); }
   .tag.frei { background: var(--chip-gruen); color: var(--good); }
   .box { background: var(--bg); border-left: 3px solid var(--accent); border-radius: 6px; padding: 8px 10px; margin-top: 8px; }
   .box p { margin: 2px 0 6px; }

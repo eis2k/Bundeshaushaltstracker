@@ -42,6 +42,6 @@
   .chip small { font-size: 9px; opacity: .7; margin-left: 2px; }
   .label.sep { margin-left: 10px; }
   .solver { font-size: 12px; color: var(--fg); background: var(--chip-orange); border-radius: 8px; padding: 4px 10px; }
-  .solver.warn { background: #fee2e2; }
+  .solver.warn { background: var(--bad-bg); }
   .share-hint { font-size: 12px; color: var(--muted); font-style: italic; }
 </style>
