@@ -106,3 +106,17 @@ describe("Empfänger-Link e=<id> (Stufe 2)", () => {
     expect(encodeScenario(base, "fluss", [])).not.toContain("e=");
   });
 });
+
+describe("Personen- und Netz-Links (Stufe 3)", () => {
+  test("pe=<id> und n=<knoten> werden kodiert und dekodiert", () => {
+    const h = encodeScenario(base, "personen", [], "ressort", "gesamt", null, "sanae-abdi");
+    expect(h).toContain("a=personen");
+    expect(h).toContain("pe=sanae-abdi");
+    expect(decodeScenario(h, fixtureYear).person).toBe("sanae-abdi");
+    const n = encodeScenario(base, "netz", [], "ressort", "gesamt", null, null, "e:amadeu-antonio-stiftung");
+    expect(n).toContain("n=e:amadeu-antonio-stiftung");
+    expect(decodeScenario(n, fixtureYear).netz).toBe("e:amadeu-antonio-stiftung");
+    expect(decodeScenario("v1;n=x:bad", fixtureYear).netz).toBeNull();
+    expect(decodeScenario("v1;pe=../x", fixtureYear).person).toBeNull();
+  });
+});

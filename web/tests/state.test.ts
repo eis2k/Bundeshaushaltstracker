@@ -155,3 +155,50 @@ describe("Empfänger (Stufe 2)", () => {
     expect(s.empfaengerFilterEpl).toBe("11");
   });
 });
+
+describe("Personen und Netz (Stufe 3)", () => {
+  const personIndex = { stand: "2026-11-02", modus: "relevant", eintraege: [
+    { id: "sanae-abdi", name: "Sanae Abdi", funktion_kurz: "MdB", amt: true, sichtbar: true, n_organisationen: 0, shard: "aa" },
+    { id: "timo-reinfrank", name: "Timo Reinfrank", funktion_kurz: "Vorstand", amt: false, sichtbar: false, n_organisationen: 1, shard: "bb" } ] };
+  const akteAbdi = { id: "sanae-abdi", name: "Sanae Abdi", sichtbar: true, grund_sichtbar: "amt", gleichnamig: [], quellen_ids: ["x"], amt: true, verbindung: false, freigabe: false,
+    funktionen: [], angaben: [], organisationen: [], spenden: [], zeitlinie: [], quellen: [], stand: "2026-11-02" };
+  const umfeld = { start: "p:sanae-abdi", knoten: [{ id: "p:sanae-abdi", art: "person", label: "Sanae Abdi", sichtbar: true, seite: "v1;a=personen;pe=sanae-abdi" }], kanten: [], weitere: 0 };
+  const ploader: Loader = {
+    ...loader,
+    loadPersonIndex: async () => personIndex as never,
+    loadPersonShard: async (shard: string) => (shard === "aa" ? { "sanae-abdi": akteAbdi } : {}) as never,
+    loadNetzIndex: async () => ({ "p:sanae-abdi": "cc" }) as never,
+    loadNetzShard: async (shard: string) => (shard === "cc" ? { "p:sanae-abdi": umfeld } : {}) as never,
+  };
+
+  test("openAkte lädt die Akte aus dem Shard und schreibt pe= in den Link", async () => {
+    const s = new AppState(ploader);
+    await s.init("");
+    await s.openAkte("sanae-abdi");
+    expect(s.view).toBe("personen");
+    expect(s.akte?.name).toBe("Sanae Abdi");
+    expect(s.toHash()).toContain("pe=sanae-abdi");
+  });
+
+  test("openAkte auf nicht freigeschaltete Akte meldet das statt zu scheitern", async () => {
+    const s = new AppState(ploader);
+    await s.init("");
+    await s.openAkte("timo-reinfrank");
+    expect(s.akte).toBeNull();
+    expect(s.akteFehlt).toBe("nicht freigeschaltet");
+    await s.openAkte("gibt-es-nicht");
+    expect(s.akteFehlt).toBe("unbekannt");
+    expect(s.toHash()).not.toContain("pe=");
+  });
+
+  test("openNetz lädt das Umfeld; init mit n= öffnet das Netz", async () => {
+    const s = new AppState(ploader);
+    await s.init("#v1;j=2025;a=netz;n=p:sanae-abdi");
+    expect(s.view).toBe("netz");
+    expect(s.netz?.start).toBe("p:sanae-abdi");
+    expect(s.toHash()).toContain("n=p:sanae-abdi");
+    await s.openNetz("e:unbekannt");
+    expect(s.netz).toBeNull();
+    expect(s.netzFehlt).toBe("e:unbekannt");
+  });
+});

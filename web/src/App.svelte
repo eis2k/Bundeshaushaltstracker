@@ -1,6 +1,6 @@
 <script lang="ts">
   import { onMount } from "svelte";
-  import { loadEmpfaenger, loadEmpfaengerIndex, loadGesetzFrei, loadIndex, loadKonkordanz, loadPresets, loadSozialkassen, loadSteuern, loadTexte, loadVpi, loadYear, loadZeitreihe } from "./lib/model/load";
+  import { loadEmpfaenger, loadEmpfaengerIndex, loadGesetzFrei, loadIndex, loadKonkordanz, loadNetzIndex, loadNetzShard, loadPersonIndex, loadPersonShard, loadPresets, loadSozialkassen, loadSteuern, loadTexte, loadVpi, loadYear, loadZeitreihe } from "./lib/model/load";
   import { AppState } from "./lib/state.svelte";
   import Jahresleiste from "./lib/ui/Jahresleiste.svelte";
   import Kopfzeile from "./lib/ui/Kopfzeile.svelte";
@@ -14,7 +14,7 @@
   import EmpfaengerSeite from "./lib/views/EmpfaengerSeite.svelte";
   import Schnittwechsel from "./lib/ui/Schnittwechsel.svelte";
 
-  const app = new AppState({ loadIndex, loadYear, loadPresets, loadGesetzFrei, loadZeitreihe, loadVpi, loadSozialkassen, loadTexte, loadKonkordanz, loadSteuern, loadEmpfaengerIndex, loadEmpfaenger });
+  const app = new AppState({ loadIndex, loadYear, loadPresets, loadGesetzFrei, loadZeitreihe, loadVpi, loadSozialkassen, loadTexte, loadKonkordanz, loadSteuern, loadEmpfaengerIndex, loadEmpfaenger, loadPersonIndex, loadPersonShard, loadNetzIndex, loadNetzShard });
   let ready = $state(false);
 
   onMount(() => {

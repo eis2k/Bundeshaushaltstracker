@@ -3,6 +3,8 @@ import type { Vpi, Zeitreihe } from "./zeitreihe";
 import type { SozialkassenYear } from "./toepfe";
 import type { SteuerSzenario } from "./steuern";
 import type { EmpfaengerIndex, EmpfaengerSeite } from "./empfaenger";
+import type { Akte, PersonIndex } from "./personen";
+import type { Umfeld } from "./netz";
 
 const BASE = `${import.meta.env.BASE_URL ?? "/"}data/`;
 const cache = new Map<string, Promise<unknown>>();
@@ -24,6 +26,10 @@ export const loadZeitreihe = () => getJson<Zeitreihe>("zeitreihe.json");
 export const loadSteuern = async () => (await getJson<{ szenarien: SteuerSzenario[] }>("steuern.json")).szenarien;
 export const loadEmpfaengerIndex = () => getJson<EmpfaengerIndex>("empfaenger/index.json");
 export const loadEmpfaenger = (id: string) => getJson<EmpfaengerSeite>(`empfaenger/${id}.json`);
+export const loadPersonIndex = () => getJson<PersonIndex>("personen/index.json");
+export const loadPersonShard = (shard: string) => getJson<Record<string, Akte>>(`personen/${shard}.json`);
+export const loadNetzIndex = () => getJson<Record<string, string>>("netz/index.json");
+export const loadNetzShard = (shard: string) => getJson<Record<string, Umfeld>>(`netz/${shard}.json`);
 export type Texte = Record<string, { text: string; quelle: string[]; stand: string }>;
 export const loadTexte = () => getJson<Texte>("texte.json");
 export const loadKonkordanz = async (): Promise<Record<string, { ab: number; hinweis: string; quelle?: string }>> => {

@@ -7,6 +7,8 @@ import type { Balance, GesetzFreiMap, Index, NodeId, Preset, Scenario, SolverRep
 import { deflate, type Vpi, type Zeitreihe } from "./model/zeitreihe";
 import type { Schnitt } from "./model/schnitte";
 import type { EmpfaengerIndex, EmpfaengerSeite } from "./model/empfaenger";
+import type { Akte, PersonIndex } from "./model/personen";
+import type { Umfeld } from "./model/netz";
 
 export interface Loader {
   loadIndex: () => Promise<Index>;
@@ -21,6 +23,10 @@ export interface Loader {
   loadKonkordanz?: () => Promise<Record<string, { ab: number; hinweis: string; quelle?: string }>>;
   loadEmpfaengerIndex?: () => Promise<EmpfaengerIndex>;
   loadEmpfaenger?: (id: string) => Promise<EmpfaengerSeite>;
+  loadPersonIndex?: () => Promise<PersonIndex>;
+  loadPersonShard?: (shard: string) => Promise<Record<string, Akte>>;
+  loadNetzIndex?: () => Promise<Record<string, string>>;
+  loadNetzShard?: (shard: string) => Promise<Record<string, Umfeld>>;
 }
 
 export type Stand = "soll" | "ist";
@@ -81,6 +87,15 @@ export class AppState {
   empfaengerFehlt = $state<string | null>(null);
   empfaengerFilterEpl = $state<string | null>(null);
   empfaengerByTitel = $derived<Record<string, { id: string; name: string }>>(this.empfaengerIndex?.titel ?? {});
+  /** Personen und Netz (Stufe 3). */
+  personIndex = $state<PersonIndex | null>(null);
+  akteId = $state<string | null>(null);
+  akte = $state<Akte | null>(null);
+  akteFehlt = $state<"nicht freigeschaltet" | "unbekannt" | null>(null);
+  netzIndex = $state<Record<string, string> | null>(null);
+  netzStart = $state<string | null>(null);
+  netz = $state<Umfeld | null>(null);
+  netzFehlt = $state<string | null>(null);
 
   bezugsjahr = $derived(this.index ? this.index.jahre[this.index.jahre.length - 1] : this.jahr);
   viewData = $derived<YearData | null>(this.data
@@ -145,6 +160,11 @@ export class AppState {
         await this.ensureEmpfaenger();
         if (final.empfaenger) await this.openEmpfaenger(final.empfaenger);
       }
+      if (final.view === "personen" || final.person) {
+        await this.ensurePersonen();
+        if (final.person) await this.openAkte(final.person);
+      }
+      if (final.view === "netz" && final.netz) await this.openNetz(final.netz);
     } catch (e) {
       this.error = e instanceof Error ? e.message : String(e);
     } finally {
@@ -205,6 +225,64 @@ export class AppState {
   setView(view: ViewId): void {
     this.view = view;
     if (view === "empfaenger") void this.ensureEmpfaenger();
+    if (view === "personen") void this.ensurePersonen();
+  }
+
+  async ensurePersonen(): Promise<void> {
+    if (!this.personIndex && this.loader.loadPersonIndex) {
+      try { this.personIndex = await this.loader.loadPersonIndex(); } catch { this.personIndex = { stand: "", modus: "relevant", eintraege: [] }; }
+    }
+  }
+
+  openPersonenListe(): void {
+    this.view = "personen";
+    this.akteId = null;
+    this.akte = null;
+    this.akteFehlt = null;
+    void this.ensurePersonen();
+  }
+
+  /** Öffnet eine Akte; nicht freigeschaltete oder unbekannte Ids werden benannt statt zu scheitern. */
+  async openAkte(id: string | null): Promise<void> {
+    this.view = "personen";
+    await this.ensurePersonen();
+    this.akte = null;
+    this.akteId = null;
+    this.akteFehlt = null;
+    if (!id) return;
+    const eintrag = this.personIndex?.eintraege.find((e) => e.id === id);
+    if (!eintrag) { this.akteFehlt = "unbekannt"; return; }
+    if (!eintrag.sichtbar) { this.akteFehlt = "nicht freigeschaltet"; return; }
+    try {
+      if (!this.loader.loadPersonShard) throw new Error("kein Loader");
+      const sh = await this.loader.loadPersonShard(eintrag.shard);
+      const a = sh[id];
+      if (!a) { this.akteFehlt = "unbekannt"; return; }
+      this.akte = a;
+      this.akteId = id;
+    } catch {
+      this.akteFehlt = "unbekannt";
+    }
+  }
+
+  /** Öffnet das Umfeld eines Knotens (p:, e:, m:, partei:). */
+  async openNetz(knotenId: string | null): Promise<void> {
+    this.view = "netz";
+    this.netz = null;
+    this.netzFehlt = null;
+    this.netzStart = knotenId;
+    if (!knotenId) return;
+    try {
+      if (!this.netzIndex && this.loader.loadNetzIndex) this.netzIndex = await this.loader.loadNetzIndex();
+      const sh = this.netzIndex?.[knotenId];
+      if (!sh || !this.loader.loadNetzShard) { this.netzFehlt = knotenId; return; }
+      const data = await this.loader.loadNetzShard(sh);
+      const u = data[knotenId];
+      if (!u) { this.netzFehlt = knotenId; return; }
+      this.netz = u;
+    } catch {
+      this.netzFehlt = knotenId;
+    }
   }
 
   async ensureEmpfaenger(): Promise<void> {
@@ -275,7 +353,8 @@ export class AppState {
   }
 
   toHash(): string {
-    return encodeScenario(this.scenario, this.view, this.focus, this.schnitt, this.topf, this.view === "empfaenger" ? this.empfaengerId : null);
+    return encodeScenario(this.scenario, this.view, this.focus, this.schnitt, this.topf, this.view === "empfaenger" ? this.empfaengerId : null,
+                          this.view === "personen" ? this.akteId : null, this.view === "netz" ? this.netzStart : null);
   }
 
   get istVerfuegbar(): boolean {

@@ -2,8 +2,10 @@ import { revenueGroupId } from "./tree";
 import type { NodeId, Scenario, ViewId, YearData } from "./types";
 import { EMPFAENGERART_LABELS, KOSTENART_LABELS, type Schnitt } from "./schnitte";
 
-const VIEWS: ViewId[] = ["fluss", "karte", "saeulen", "gewachsen", "empfaenger"];
+const VIEWS: ViewId[] = ["fluss", "karte", "saeulen", "gewachsen", "empfaenger", "personen", "netz"];
 const EMPFAENGER_ID = /^[a-z0-9-]{1,80}$/;
+const PERSON_ID = /^[a-z0-9-]{1,100}$/;
+const KNOTEN_ID = /^(p|e|m|partei):[a-z0-9-]{1,100}$/;
 const SCHNITTE: Schnitt[] = ["ressort", "kostenart", "empfaengerart"];
 export const TOEPFE = ["gesamt", "bund", "grv", "gkv", "spv", "ba"] as const;
 export type TopfId = (typeof TOEPFE)[number];
@@ -13,9 +15,12 @@ export type TopfId = (typeof TOEPFE)[number];
  * v1;j=2025;a=fluss;f=11/1102/63681;p=rentenzuschuss_halbieren;o=11-1102-63681:50,14:200;sv=1
  * Nur Abweichungen von 100 % werden gespeichert, Prozent ganzzahlig.
  */
-export function encodeScenario(s: Scenario, view: ViewId, focus: NodeId[], schnitt: Schnitt = "ressort", topf: TopfId = "gesamt", empfaenger: string | null = null): string {
+export function encodeScenario(s: Scenario, view: ViewId, focus: NodeId[], schnitt: Schnitt = "ressort", topf: TopfId = "gesamt", empfaenger: string | null = null,
+                               person: string | null = null, netz: string | null = null): string {
   const parts = ["v1", `j=${s.jahr}`, `a=${view}`];
   if (empfaenger && EMPFAENGER_ID.test(empfaenger)) parts.push(`e=${empfaenger}`);
+  if (person && PERSON_ID.test(person)) parts.push(`pe=${person}`);
+  if (netz && KNOTEN_ID.test(netz)) parts.push(`n=${netz}`);
   if (schnitt !== "ressort") parts.push(`sc=${schnitt}`);
   if (topf !== "gesamt") parts.push(`t=${topf}`);
   if (focus.length) parts.push(`f=${focus.map((id) => id.split("-").pop()).join("/")}`);
@@ -54,8 +59,8 @@ export function knownIds(data: YearData): Set<string> {
   return ids;
 }
 
-export function decodeScenario(hash: string, data: YearData, steuerIds?: string[]): { scenario: Scenario; view: ViewId; focus: NodeId[]; unknownIds: NodeId[]; schnitt: Schnitt; topf: TopfId; empfaenger: string | null } {
-  const fallback = { scenario: { jahr: data.jahr, factors: {}, presets: [], includeSv: false } as Scenario, view: "fluss" as ViewId, focus: [] as NodeId[], unknownIds: [] as NodeId[], schnitt: "ressort" as Schnitt, topf: "gesamt" as TopfId, empfaenger: null as string | null };
+export function decodeScenario(hash: string, data: YearData, steuerIds?: string[]): { scenario: Scenario; view: ViewId; focus: NodeId[]; unknownIds: NodeId[]; schnitt: Schnitt; topf: TopfId; empfaenger: string | null; person: string | null; netz: string | null } {
+  const fallback = { scenario: { jahr: data.jahr, factors: {}, presets: [], includeSv: false } as Scenario, view: "fluss" as ViewId, focus: [] as NodeId[], unknownIds: [] as NodeId[], schnitt: "ressort" as Schnitt, topf: "gesamt" as TopfId, empfaenger: null as string | null, person: null as string | null, netz: null as string | null };
   const raw = hash.startsWith("#") ? hash.slice(1) : hash;
   const parts = raw.split(";");
   if (parts[0] !== "v1") return fallback;
@@ -70,6 +75,10 @@ export function decodeScenario(hash: string, data: YearData, steuerIds?: string[
   const topf = (TOEPFE as readonly string[]).includes(kv.get("t") ?? "") ? (kv.get("t") as TopfId) : "gesamt";
   const eRaw = kv.get("e") ?? "";
   const empfaenger = EMPFAENGER_ID.test(eRaw) ? eRaw : null;
+  const peRaw = kv.get("pe") ?? "";
+  const person = PERSON_ID.test(peRaw) ? peRaw : null;
+  const nRaw = kv.get("n") ?? "";
+  const netz = KNOTEN_ID.test(nRaw) ? nRaw : null;
   const focus: NodeId[] = [];
   if (kv.get("f")) {
     let acc = "";
@@ -112,5 +121,5 @@ export function decodeScenario(hash: string, data: YearData, steuerIds?: string[
   }
   const scenario: Scenario = { jahr: Number.isFinite(jahr) ? jahr : data.jahr, factors, presets, includeSv: kv.get("sv") === "1" };
   if (Object.keys(steuern).length) scenario.steuern = steuern;
-  return { scenario, view, focus, unknownIds, schnitt, topf, empfaenger };
+  return { scenario, view, focus, unknownIds, schnitt, topf, empfaenger, person, netz };
 }
