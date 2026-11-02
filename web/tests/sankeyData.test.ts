@@ -1,5 +1,5 @@
 import { describe, expect, test } from "vitest";
-import { buildSankey } from "../src/lib/views/sankeyData";
+import { EMPFAENGER_UNBEKANNT, buildSankey } from "../src/lib/views/sankeyData";
 import type { Scenario } from "../src/lib/model/types";
 import { fixtureYear, KREDITE, SUM_A_KERN } from "./fixtures";
 import type { BudgetRow } from "../src/lib/model/types";
@@ -145,5 +145,19 @@ describe("Modell-Einnahmen aus Steuer-Szenarien (Stufe 1b)", () => {
     expect(s.ghosts.find((g) => g.id === "x:vermoegensteuer")).toBeUndefined();
     // Kredite-Knoten sinkt um den Bund-Anteil
     expect(s.nodes.find((n) => n.id === "E:kredite")!.effective).toBe(KREDITE - 5_950_000_000);
+  });
+});
+
+describe("Empfänger-Spalte (Stufe 2)", () => {
+  test("Spalte 5 löst namentlich bekannte Titel zum Empfänger auf, Rest bleibt gebündelt", () => {
+    const s = buildSankey(fixtureYear, base, {}, ["11", "11-1102"], { ...opts, empfaengerByTitel: { "11-1102-63681": { id: "deutsche-rentenversicherung", name: "Deutsche Rentenversicherung Bund" } } });
+    const node = s.nodes.find((n) => n.id === "empfaenger:deutsche-rentenversicherung");
+    expect(node?.label).toBe("Deutsche Rentenversicherung Bund");
+    expect(node?.column).toBe(5);
+    expect(node?.kind).toBe("empfaenger");
+    expect(s.links.find((l) => l.source === "11-1102-63681")?.target).toBe("empfaenger:deutsche-rentenversicherung");
+    expect(s.links.find((l) => l.source === "11-1102-63682")?.target).toBe(EMPFAENGER_UNBEKANNT);
+    const unbekannt = s.nodes.find((n) => n.id === EMPFAENGER_UNBEKANNT)!;
+    expect(unbekannt.effective).toBe(100);  // nur der nicht zugeordnete Titel
   });
 });

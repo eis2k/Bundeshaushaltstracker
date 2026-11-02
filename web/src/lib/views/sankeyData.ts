@@ -124,7 +124,7 @@ export function addModelle(modelle: Modell[] | undefined, add: (n: Omit<SNode, "
 }
 
 export function buildSankey(data: YearData, scenario: Scenario, factors: Record<NodeId, number>, focus: NodeId[],
-                            opts: { maxPerColumn: number; maxRevenue?: number; modelle?: Modell[] }): SankeyData {
+                            opts: { maxPerColumn: number; maxRevenue?: number; modelle?: Modell[]; empfaengerByTitel?: Record<string, { id: string; name: string }> }): SankeyData {
   const nodes: SNode[] = [];
   const links: SLink[] = [];
   const ghosts: SGhost[] = [];
@@ -213,15 +213,30 @@ export function buildSankey(data: YearData, scenario: Scenario, factors: Record<
       const titelAggs = byKap.get(focusKap)!.map((r) => aggregate(r.id, r.text, [r], factors, focusEpl));
       const c4 = pick(titelAggs, focusTitel, opts.maxPerColumn, "rest:4");
       let sum = 0;
+      const bekannt = new Map<string, { name: string; original: number; effective: number; dim: boolean }>();
       for (const a of [...c4.shown, ...(c4.rest ? [c4.rest] : [])]) {
         const dim = focusTitel !== undefined && a.id !== focusTitel;
         add({ id: a.id, label: a.label, column: 4, kind: a.id === "rest:4" ? "rest" : "titel", original: a.original, effective: a.effective, netOriginal: a.netOriginal, netEffective: a.netEffective, changed: a.changed, dim, colorKey: focusEpl });
         link(focusKap, a.id, a.effective, focusEpl, dim);
-        link(a.id, EMPFAENGER_UNBEKANNT, a.effective, focusEpl, dim);
-        sum += a.effective;
+        const emp = a.id === "rest:4" ? undefined : opts.empfaengerByTitel?.[a.id];
+        if (emp) {
+          // Titel, dessen Zweckbestimmung den Empfänger nennt → eigener Knoten mit Link zur Empfänger-Seite
+          const cur = bekannt.get(emp.id) ?? { name: emp.name, original: 0, effective: 0, dim: true };
+          cur.original += a.original; cur.effective += a.effective; cur.dim = cur.dim && dim;
+          bekannt.set(emp.id, cur);
+          link(a.id, `empfaenger:${emp.id}`, a.effective, focusEpl, dim);
+        } else {
+          link(a.id, EMPFAENGER_UNBEKANNT, a.effective, focusEpl, dim);
+          sum += a.effective;
+        }
         if (a.id !== "rest:4") ghost(a);
       }
-      add({ id: EMPFAENGER_UNBEKANNT, label: "Empfänger nicht veröffentlicht", column: 5, kind: "empfaenger", original: sum, effective: sum, changed: false, colorKey: "rest" });
+      for (const [id, e] of bekannt) {
+        add({ id: `empfaenger:${id}`, label: e.name, column: 5, kind: "empfaenger", original: e.original, effective: e.effective, changed: false, dim: e.dim, colorKey: "rest" });
+      }
+      if (sum > 0 || bekannt.size === 0) {
+        add({ id: EMPFAENGER_UNBEKANNT, label: "Empfänger nicht veröffentlicht", column: 5, kind: "empfaenger", original: sum, effective: sum, changed: false, colorKey: "rest" });
+      }
     }
   }
 

@@ -7,7 +7,7 @@
   import { fmtEuro } from "../model/format";
   import type { NodeId, Scenario, YearData } from "../model/types";
   import { CHANGED_STROKE, GHOST_STROKE, colorFor } from "./colors";
-  import { buildSankey, type Modell, type SLink, type SNode } from "./sankeyData";
+  import { EMPFAENGER_UNBEKANNT, buildSankey, type Modell, type SLink, type SNode } from "./sankeyData";
   import { buildGesamtSankey } from "./sankeyGesamt";
   import type { SozialkassenYear } from "../model/toepfe";
   import type { TopfId } from "../model/share";
@@ -21,11 +21,13 @@
     topf?: TopfId;
     sozialkassen?: SozialkassenYear | null;
     modelle?: Modell[];
+    empfaengerByTitel?: Record<string, { id: string; name: string }>;
+    onEmpfaenger?: (id: string) => void;
     onFocus: (path: NodeId[]) => void;
     onSelect: (id: NodeId | null) => void;
     onTopf?: (topf: TopfId) => void;
   }
-  let { data, scenario, factors, focus, selected, topf = "bund", sozialkassen = null, modelle = [], onFocus, onSelect, onTopf }: Props = $props();
+  let { data, scenario, factors, focus, selected, topf = "bund", sozialkassen = null, modelle = [], empfaengerByTitel = {}, onFocus, onSelect, onTopf, onEmpfaenger }: Props = $props();
   const gesamtModus = $derived(topf !== "bund" && sozialkassen !== null);
 
   let width = $state(900);
@@ -62,7 +64,7 @@
 
   const sdata = $derived(gesamtModus
     ? buildGesamtSankey(data, sozialkassen!, scenario, factors, { maxPerColumn, maxRevenue: width < 720 ? 4 : 6, only: topf === "gesamt" ? undefined : topf, modelle })
-    : buildSankey(data, scenario, factors, focus, { maxPerColumn, maxRevenue: width < 720 ? 5 : 7, modelle }));
+    : buildSankey(data, scenario, factors, focus, { maxPerColumn, maxRevenue: width < 720 ? 5 : 7, modelle, empfaengerByTitel }));
 
   type LNode = SankeyNode<SNode, SLink>;
   type LLink = SankeyLink<SNode, SLink>;
@@ -134,6 +136,7 @@
       }
       return;
     }
+    if (n.kind === "empfaenger" && n.id !== EMPFAENGER_UNBEKANNT) { onEmpfaenger?.(n.id.slice("empfaenger:".length)); return; }
     if (n.kind === "topf" || n.kind === "rest" || n.kind === "empfaenger" || n.kind === "abzug") { onFocus([]); onSelect(null); return; }
     if (n.kind === "revenue" || n.kind === "kredit" || n.kind === "minderausgabe") { onSelect(n.kind === "revenue" ? n.id : null); return; }
     onFocus(pathFor(n));
@@ -180,7 +183,7 @@
         <g
           class="node"
           class:dim={node.dim}
-          class:clickable={node.kind !== "empfaenger"}
+          class:clickable={node.id !== EMPFAENGER_UNBEKANNT}
           role="button"
           tabindex="0"
           onclick={() => click(node)}

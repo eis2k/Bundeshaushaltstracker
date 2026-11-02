@@ -117,6 +117,7 @@ export class AppState {
       this.steuern = steuern;
       if (this.loader.loadTexte) this.loader.loadTexte().then((t) => (this.texte = t)).catch(() => undefined);
       if (this.loader.loadKonkordanz) this.loader.loadKonkordanz().then((k) => (this.konkordanz = k)).catch(() => undefined);
+      void this.ensureEmpfaenger();
       const latest = index.jahre[index.jahre.length - 1];
       const probe = await this.loader.loadYear(latest);
       const steuerIds = steuern.map((s) => s.id);

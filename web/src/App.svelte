@@ -45,6 +45,7 @@
       {:else if app.view === "fluss"}
         <Fluss data={app.viewData} scenario={app.scenario} factors={app.factors} focus={app.focus} selected={app.selected}
                topf={app.topf} sozialkassen={app.viewSozialkassen} modelle={app.aktiveSteuern.je}
+               empfaengerByTitel={app.empfaengerByTitel} onEmpfaenger={(id) => void app.openEmpfaenger(id)}
                onFocus={(p) => app.setFocus(p)} onSelect={(id) => app.setSelected(id)} onTopf={(t) => app.setTopf(t)} />
       {:else if app.view === "karte"}
         <Schnittwechsel {app} />

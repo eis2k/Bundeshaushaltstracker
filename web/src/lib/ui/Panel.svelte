@@ -187,6 +187,14 @@
         {/if}
       </div>
     {/if}
+    {#if info.row}
+      {@const emp = app.empfaengerByTitel[info.id]}
+      {#if emp}
+        <div class="note"><b>Empfänger:</b> {emp.name} · <button class="link" onclick={() => void app.openEmpfaenger(emp.id)}>Empfänger-Seite öffnen</button></div>
+      {:else if /^(6[3-9]|8[89])/.test(info.row.titel) && info.kind !== "einnahmen"}
+        <div class="note">Empfänger nicht veröffentlicht: Dieser Titel nennt keinen Empfänger. <button class="link" onclick={() => app.openEmpfaengerListe({ epl: info!.row!.epl })}>Bekannte Empfänger dieses Ministeriums laut Lobbyregister</button> · <a href="https://fragdenstaat.de/anfrage-stellen/" target="_blank" rel="noopener">Anfrage nach dem Informationsfreiheitsgesetz stellen</a></div>
+      {/if}
+    {/if}
     <div class="box">
       <b>Was das ist</b>
       {#if erklaerung}
@@ -210,6 +218,7 @@
 
 <style>
   .panel { background: var(--panel); border: 1px solid var(--border); border-radius: 12px; padding: 14px; font-size: 12px; }
+  .link { background: none; border: 0; color: var(--header); text-decoration: underline; cursor: pointer; font: inherit; padding: 0; }
   .empty b { font-size: 13px; }
   .empty p { margin: 6px 0 0; }
   .muted { color: var(--muted); }
