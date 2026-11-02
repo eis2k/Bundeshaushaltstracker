@@ -95,11 +95,16 @@ def baue_graph(empfaenger_seiten: dict[str, dict], akten: list[Akte], spenden_by
 
 
 def umfeld(start: str, knoten: dict[str, Knoten], kanten: list[Kante], *, max_knoten: int = MAX_KNOTEN) -> dict:
+    # Gewicht eines Knotens = Summe seiner Geld-Kanten; Posten-Kanten ohne Betrag sortieren nach dem Gewicht des Nachbarn („die größten nach Geld zuerst“)
+    gewicht: dict[str, int] = defaultdict(int)
+    for k in kanten:
+        if k.art == "geld" and k.wert:
+            gewicht[k.von] += k.wert
+            gewicht[k.nach] += k.wert
     adj: dict[str, list[tuple[int, str, Kante]]] = defaultdict(list)
     for k in kanten:
-        w = k.wert or 0
-        adj[k.von].append((w, k.nach, k))
-        adj[k.nach].append((w, k.von, k))
+        adj[k.von].append((max(k.wert or 0, gewicht[k.nach]), k.nach, k))
+        adj[k.nach].append((max(k.wert or 0, gewicht[k.von]), k.von, k))
 
     def nachbarn(kid: str) -> list[str]:
         out, seen = [], set()
