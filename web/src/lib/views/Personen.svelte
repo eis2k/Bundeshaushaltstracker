@@ -2,6 +2,9 @@
   import { onMount } from "svelte";
   import { filterePersonen, type PersonFilter } from "../model/personen";
   import type { AppState } from "../state.svelte";
+  import { parteiKurz, parteiVon } from "../model/verantwortung";
+  import Avatar from "../ui/Avatar.svelte";
+  import Partei from "../ui/Partei.svelte";
 
   let { app }: { app: AppState } = $props();
 
@@ -53,8 +56,8 @@
       <tbody>
         {#each shown as e (e.id)}
           <tr>
-            <td><a href={`#v1;j=${app.jahr};a=personen;pe=${e.id}`} onclick={(ev) => { ev.preventDefault(); void app.openAkte(e.id); }}>{e.name}</a></td>
-            <td>{e.funktion_kurz}</td>
+            <td class="name"><Avatar name={e.name} size={28} /><a href={`#v1;j=${app.jahr};a=personen;pe=${e.id}`} onclick={(ev) => { ev.preventDefault(); void app.openAkte(e.id); }}>{e.name}</a></td>
+            <td>{e.funktion_kurz.replace(/^(Mitglied des Bundestages(?: bis [^,]+)?), .+$/, "$1")} {#if parteiVon(e)}<Partei name={parteiKurz(parteiVon(e)!)} />{/if}</td>
             <td class="num tabular">{e.n_organisationen || "–"}</td>
           </tr>
         {/each}
@@ -82,6 +85,7 @@
   table { width: 100%; border-collapse: collapse; }
   th { text-align: left; font-size: 10px; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); padding: 6px; border-bottom: 1px solid var(--border); }
   td { padding: 6px; border-bottom: 1px solid var(--border); }
+  td.name { display: flex; align-items: center; gap: 8px; }
   td a { color: var(--header); font-weight: 700; text-decoration: none; }
   td a:hover { text-decoration: underline; }
   .num { text-align: right; white-space: nowrap; }

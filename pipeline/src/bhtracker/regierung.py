@@ -76,6 +76,7 @@ class Amtstraeger:
     quelle: str
     stand: str
     mdb_id: int | None = None
+    partei: str | None = None                  # aus regierung.yaml (Kabinettsseite), für Mitglieder ohne Fraktion (Spec §4.11 Parteien)
 
 
 def amt_zu_ressort(amt: str, ressorts: dict) -> tuple[str, str | None]:
@@ -129,6 +130,8 @@ def validate_regierung(data: dict) -> list[str]:
         q = str(m.get("quelle") or "")
         if q and not q.startswith("http"):
             errors.append(f"{wer}: quelle muss eine URL sein")
+        if m.get("partei") is not None and not str(m["partei"]).strip():
+            errors.append(f"{wer}: partei darf nicht leer sein")
     return errors
 
 
@@ -152,7 +155,8 @@ def lade_regierung(manual_file: Path, raw_dir: Path, ressorts: dict) -> list[Amt
         a = Amtstraeger(name=str(m["name"]), amt=amt, ressort=str(m.get("ressort") or ressort),
                         epl=str(m["epl"]) if m.get("epl") else (ressort_zu_epl(str(m.get("ressort") or ""), ressorts) or epl_auto),
                         seit=str(m.get("seit")) if m.get("seit") else None, bis=str(m.get("bis")) if m.get("bis") else None,
-                        quelle=str(m["quelle"]), stand=stand, mdb_id=int(m["mdb_id"]) if m.get("mdb_id") else None)
+                        quelle=str(m["quelle"]), stand=stand, mdb_id=int(m["mdb_id"]) if m.get("mdb_id") else None,
+                        partei=str(m["partei"]).strip() if m.get("partei") else None)
         out = [x for x in out if not (x.name == a.name and x.amt.split()[0] == a.amt.split()[0])]
         out.append(a)
     return out

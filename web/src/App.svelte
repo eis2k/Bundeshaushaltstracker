@@ -20,6 +20,7 @@
   import Akte from "./lib/views/Akte.svelte";
   import Netz from "./lib/views/Netz.svelte";
   import Ministerien from "./lib/views/Ministerien.svelte";
+  import PolitikVerantwortung from "./lib/views/PolitikVerantwortung.svelte";
   import Dashboard from "./lib/views/Dashboard.svelte";
   import Schnittwechsel from "./lib/ui/Schnittwechsel.svelte";
 
@@ -83,7 +84,7 @@
           {:else if app.view === "simulator"}
             <div class="soon">Haushaltssimulator: Diese Ansicht entsteht gerade. Die Regler stehen rechts im Seitenpanel und auf den Haushaltsansichten.</div>
           {:else if app.view === "politik"}
-            <Personen {app} />
+            <PolitikVerantwortung {app} />
           {:else if app.view === "empfaenger"}
             {#if app.empfaengerSeite}
               <EmpfaengerSeite {app} seite={app.empfaengerSeite} />

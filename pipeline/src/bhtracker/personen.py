@@ -55,6 +55,7 @@ class Funktion:
     aemter: list[str] = field(default_factory=list)   # mdb: „Rolle: Gremium“ aus der Biografie (Amtszulage, § 11 Abs. 2 AbgG)
     seit_hinweis: str | None = None              # mdb: woher `seit` stammt (Biografie, Biografie des Vorgängers) oder warum es fehlt
     seit_quelle: str | None = None               # mdb: URL der Biografie, die den Eintritt belegt (bei Nachrückern die des Vorgängers)
+    partei: str | None = None                    # regierung: Partei laut regierung.yaml (Kabinettsseite), wenn keine Fraktion vorliegt
 
 
 @dataclass
@@ -160,11 +161,23 @@ def roh_identitaeten(profile: list[Profil], abgeordnete: list[Abgeordneter], reg
     for m in regierung:
         quelle = {"kurz": "bundesregierung.de" if "bundesregierung.de" in m.quelle else "Ressortseite", "url": m.quelle, "stand": m.stand, "etikett": "amtlich"}
         funktionen = [Funktion(art="regierung", text=f"{m.amt}, {m.ressort}", organisation_id=None, organisation=m.ressort, epl=m.epl, seit=m.seit, bis=m.bis,
-                               stand=m.stand, quelle=quelle, amt=m.amt)]
+                               stand=m.stand, quelle=quelle, amt=m.amt, partei=m.partei)]
         akten.append(Akte(id=f"{slug(m.name)}-breg", name=m.name, quellen_ids=[f"{slug(m.name)}-breg"], funktionen=funktionen, amt=True, verbindung=False,
                           freigabe=False, sichtbar=False, gleichnamig=[], angaben=[], organisationen=[], spenden=[], zeitlinie=[], quellen=[quelle],
                           stand=m.stand, quelle_art="breg", mdb_id=m.mdb_id))
     return akten
+
+
+def partei_von(a: Akte) -> str | None:
+    """Partei für den Index (Spec §4.11): Fraktion der Bundestags-Funktion („Mitglied des Bundestages[ bis …], <Fraktion>“),
+    sonst `partei` einer Regierungsfunktion aus regierung.yaml; ohne Beleg None."""
+    for f in a.funktionen:
+        if f.art == "mdb" and f.text.startswith("Mitglied des Bundestages") and ", " in f.text:
+            return f.text.split(", ", 1)[1].strip() or None
+    for f in a.funktionen:
+        if f.art == "regierung" and f.partei:
+            return f.partei
+    return None
 
 
 # ---------------------------------------------------------------- Zusammenführung
@@ -514,7 +527,7 @@ def build_personen_akten(manual_dir: Path, raw_dir: Path, out: Path, empfaenger_
             if f.art not in arten:
                 arten.append(f.art)
         eintraege.append({"id": a.id, "name": a.name, "funktion_kurz": a.funktionen[0].text if a.funktionen else "", "amt": a.amt, "sichtbar": a.sichtbar,
-                          "arten": arten,
+                          "arten": arten, "partei": partei_von(a),
                           "epl_leitung": [{"epl": f.epl, "amt": f.amt or f.text.split(",")[0], "seit": f.seit, "bis": f.bis} for f in a.funktionen if f.art == "regierung" and f.epl],
                           "n_organisationen": len(orgs), "shard": shard(a.id)})
         if a.sichtbar:

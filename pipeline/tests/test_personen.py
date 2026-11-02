@@ -401,3 +401,18 @@ def test_haushalt_soll_mit_globalem_jahr():
         {"id": "a", "werte": {"2024": {"soll": 100}, "2025": {"soll": 300}}}, {"id": "b", "werte": {"2024": {"soll": 50}}}]}}
     assert _geld_der_seite(seite, letztes_jahr=2026)["haushalt_soll_letztes_jahr"] == 0     # wie die Empfängerliste: kein Wert im globalen letzten Jahr
     assert _geld_der_seite(seite, letztes_jahr=2024)["haushalt_soll_letztes_jahr"] == 150
+
+
+def test_index_traegt_partei_aus_fraktion_oder_regierungsdatei(tmp_path):
+    # Stufe 4c: Partei im Index – Fraktion der Bundestags-Funktion, sonst `partei` aus regierung.yaml (Kabinettsseite)
+    raw, manual = _raw_mit_abdi(tmp_path)
+    (manual / "regierung.yaml").write_text(
+        'stand: "2026-11-02"\nmitglieder:\n'
+        '  - {name: "Sanae Abdi", amt: "Parlamentarische Staatssekretärin", ressort: "Bundesministerium für Arbeit und Soziales", epl: "11", seit: "2025-05-06", quelle: "https://www.bundestag.de/abgeordnete/biografien/A/abdi_sanae-1043330", mdb_id: 1043330}\n'
+        '  - {name: "Katherina Reiche", amt: "Bundesministerin für Wirtschaft und Energie", ressort: "Bundesministerium für Wirtschaft und Energie", epl: "09", seit: "2025-05-06", partei: "CDU", quelle: "https://dserver.bundestag.de/btp/21/21002.pdf"}\n',
+        encoding="utf-8")
+    idx = json.loads(build_personen(manual, raw, tmp_path / "build", _seiten(), [], "2026-11-02").read_text(encoding="utf-8"))
+    by_id = {e["id"]: e for e in idx["eintraege"]}
+    assert by_id["sanae-abdi"]["partei"] == "SPD"
+    assert by_id["katherina-reiche"]["partei"] == "CDU"
+    assert by_id["timo-reinfrank"]["partei"] is None
