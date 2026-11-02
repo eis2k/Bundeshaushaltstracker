@@ -220,6 +220,7 @@ Florian hat Sprache, Bibliotheken und Architektur dem Builder überlassen. Vorsc
 2b. **Personal-Regler** (§4.9): Stellen je Behörde × Durchschnittskosten, Berater-Regler; eigene Quellen (Stellenpläne, Destatis, Kleine Anfragen), eigenes Link-Format.
 3. **Personen**: Lobbyregister, Nebentätigkeiten, Register-Daten, Akten, Netz, Melde- und Korrekturweg.
 4. **Ländervergleich**: Tafeln, dann "System übernehmen"-Presets.
+3c. **Beitragsbemessungsgrenzen** (Florians Anforderung vom 2.11.2026): Regler für die Beitragsbemessungsgrenzen in Renten-, Kranken- und Pflegeversicherung (und die Versicherungspflichtgrenze) als Einnahmen-Modell der Sozialkassen, analog zu den Steuer-Modellen: Basis aus der Einkommensverteilung (Destatis, Lohn- und Einkommensteuerstatistik, DRV-Versichertenstatistik), jede Annahme mit Quelle und als Regler, Wirkung auf Beiträge und Leistungsansprüche getrennt ausgewiesen, Kasten „Wer hat das beschlossen“ (Sozialversicherungs-Rechengrößenverordnungen). Zeigt, was eine Anhebung oder Aufhebung der Grenze den Kassen brächte und was an späteren Rentenansprüchen dagegensteht.
 
 Jede Stufe ist für sich veröffentlichbar.
 
