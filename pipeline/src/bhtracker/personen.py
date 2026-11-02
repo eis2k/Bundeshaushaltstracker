@@ -14,7 +14,7 @@ from pathlib import Path
 
 import yaml
 
-from .bezuege import WP_BEGINN, berechne_bezuege, lade_bezuege, lade_vorsitz_ab
+from .bezuege import WP_BEGINN, berechne_bezuege, lade_bezuege, lade_vorsitz_ab, tag_danach
 from .bundestag import KATEGORIE_VORHER, Abgeordneter, lade_abgeordnete
 from .empfaenger import norm_name, slug
 from .lobbyregister import Profil, lade_profile
@@ -53,6 +53,8 @@ class Funktion:
     ausschuesse: list[str] = field(default_factory=list)
     amt: str | None = None                       # regierung: Amtsbezeichnung (Bundeskanzler, Bundesminister …, Staatssekretär)
     aemter: list[str] = field(default_factory=list)   # mdb: „Rolle: Gremium“ aus der Biografie (Amtszulage, § 11 Abs. 2 AbgG)
+    seit_hinweis: str | None = None              # mdb: woher `seit` stammt (Biografie, Biografie des Vorgängers) oder warum es fehlt
+    seit_quelle: str | None = None               # mdb: URL der Biografie, die den Eintritt belegt (bei Nachrückern die des Vorgängers)
 
 
 @dataclass
@@ -111,15 +113,43 @@ def roh_identitaeten(profile: list[Profil], abgeordnete: list[Abgeordneter], reg
                               funktionen=funktionen, amt=False, verbindung=verbindung, freigabe=False, sichtbar=False, gleichnamig=[],
                               angaben=[], organisationen=[], spenden=[], zeitlinie=[], quellen=[quelle], stand=p.stand,
                               quelle_art="lr", lr_nummern=[p.nummer], org_normen=[norm_name(p.name)], frueheres_mandat=frueheres_mandat))
+    # Nachrücker: Eintritt = Tag nach dem Ausscheiden des Vorgängers, belegt durch dessen Biografie (nach Kennung, sonst nach Name)
+    _MON = ("Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember")
+    nachfolge_by_id: dict[int, tuple[str, str, str]] = {}
+    nachfolge_by_name: dict[str, tuple[str, str, str]] = {}
+    for v in abgeordnete:
+        aus = getattr(v, "ausgeschieden", None)
+        if not aus:
+            continue
+        eintrag = (tag_danach(aus), v.name, v.url)
+        if getattr(v, "nachfolger_mdb_id", None):
+            nachfolge_by_id[v.nachfolger_mdb_id] = eintrag
+        if getattr(v, "nachfolger_name", None):
+            nachfolge_by_name[name_key(v.nachfolger_name)] = eintrag
     for a in sorted(abgeordnete, key=lambda x: x.mdb_id):
         quelle = {"kurz": "bundestag.de", "url": a.url, "stand": a.stand, "etikett": "Eigenangabe"}
         bis = getattr(a, "ausgeschieden", None)
         kopf = f"Mitglied des Bundestages bis {bis}" if bis else "Mitglied des Bundestages"
         text = f"{kopf}, {a.fraktion}" if a.fraktion else kopf
         eintritt = getattr(a, "mitglied_seit", None)
-        funktionen = [Funktion(art="mdb", text=text, organisation_id=None, organisation="Deutscher Bundestag", epl=None,
-                               seit=eintritt if eintritt and eintritt > WP_BEGINN else None, bis=bis,
-                               stand=a.stand, quelle={**quelle, "etikett": "amtlich"}, ausschuesse=list(a.ausschuesse), aemter=list(getattr(a, "aemter", [])))]
+        seit: str | None = None
+        seit_hinweis: str | None = None
+        seit_quelle: str | None = None
+        vorgaenger = nachfolge_by_id.get(a.mdb_id) or nachfolge_by_name.get(name_key(a.name))
+        if vorgaenger:
+            seit, v_name, seit_quelle = vorgaenger
+            seit_hinweis = f"Eintritt am {seit}, dem Tag nach dem Ausscheiden von {v_name} (Biografie des Vorgängers)."
+        elif eintritt and len(eintritt) == 10 and eintritt > WP_BEGINN:
+            seit = eintritt
+            seit_quelle = a.url
+            seit_hinweis = f"Eintritt laut Biografie: {_MON[int(eintritt[5:7]) - 1]} {eintritt[:4]}, gerechnet ab dem Monatsersten."
+        elif eintritt and eintritt[:4] > WP_BEGINN[:4]:
+            seit_hinweis = f"Eintritt laut Biografie im Jahr {eintritt[:4]} ohne Monat; gerechnet ab Beginn der 21. Wahlperiode ({WP_BEGINN}), Summe deshalb möglicherweise zu hoch."
+        elif eintritt:
+            seit_hinweis = f"Mitglied seit {eintritt[:4] if len(eintritt) == 4 else eintritt} laut Biografie; gerechnet ab Beginn der 21. Wahlperiode ({WP_BEGINN})."
+        funktionen = [Funktion(art="mdb", text=text, organisation_id=None, organisation="Deutscher Bundestag", epl=None, seit=seit, bis=bis,
+                               stand=a.stand, quelle={**quelle, "etikett": "amtlich"}, ausschuesse=list(a.ausschuesse), aemter=list(getattr(a, "aemter", [])),
+                               seit_hinweis=seit_hinweis, seit_quelle=seit_quelle)]
         angaben = [{"kategorie": x.kategorie, "organisation": x.organisation, "ort": x.ort, "funktion": x.funktion, "stand": a.stand, "quelle": quelle} for x in a.angaben]
         akten.append(Akte(id=f"{slug(a.name)}-mdb-{a.mdb_id}", name=a.name, quellen_ids=[f"{slug(a.name)}-mdb-{a.mdb_id}"], funktionen=funktionen,
                           amt=True, verbindung=False, freigabe=False, sichtbar=False, gleichnamig=[], angaben=angaben, organisationen=[], spenden=[],

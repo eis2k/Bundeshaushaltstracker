@@ -36,7 +36,7 @@
         <li>
           <span class="tag">{FUNKTION_LABELS[f.art] ?? f.art}</span>
           <b>{f.text}</b>{#if f.organisation && f.art !== "mdb"} bei {#if f.organisation_id}<button class="link" onclick={() => void app.openEmpfaenger(f.organisation_id!)}>{f.organisation}</button>{:else}{f.organisation}{/if}{/if}
-          {#if f.seit} · seit {f.seit}{/if}{#if f.bis} · bis {f.bis}{/if}
+          {#if f.seit} · seit {f.seit}{#if f.seit_hinweis} <span class="muted" title={f.seit_hinweis}>(laut Biografie)</span>{/if}{/if}{#if f.bis} · bis {f.bis}{/if}
           <small class="muted">Quelle: <a href={f.quelle.url ?? "#"} target="_blank" rel="noopener">{f.quelle.kurz}</a>{#if f.quelle.etikett} · {f.quelle.etikett}{/if} · Stand {f.stand}</small>
           {#if f.ausschuesse?.length}<small class="muted">Ausschüsse und Gremien: {f.ausschuesse.join("; ")}</small>{/if}
         </li>
@@ -128,8 +128,8 @@
           </table>
         </div>
       {/each}
-      <p class="summe"><b>An die Person ausgezahlt</b> (gerechnet aus den Monatsbeträgen): <span class="tabular">{fmtEuroCent(akte.bezuege.summe_person)}</span></p>
-      <p class="summe"><b>Für die Person aufgewendet</b> (Mitarbeiter, Sachleistungen): <span class="tabular">{fmtEuroCent(akte.bezuege.summe_aufwand)}</span></p>
+      <p class="summe"><b>Gesetzlicher Anspruch der Person</b> (gerechnet aus den Monatsbeträgen, keine Auszahlungsbestätigung): <span class="tabular">{fmtEuroCent(akte.bezuege.summe_person)}</span></p>
+      <p class="summe"><b>Höchstbeträge für Mitarbeiter und Sachleistungen</b> (nicht je Person abgerechnet): <span class="tabular">{fmtEuroCent(akte.bezuege.summe_aufwand)}</span></p>
       {#if akte.bezuege.hinweise.length}<ul class="muted small hinweise">{#each akte.bezuege.hinweise as h}<li>{h}</li>{/each}</ul>{/if}
       {#if akte.bezuege.nicht_bezifferbar.length}
         <h4>Nicht bezifferbar</h4>

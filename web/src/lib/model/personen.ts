@@ -27,6 +27,10 @@ export interface Funktion {
   stand: string;
   quelle: Quelle;
   ausschuesse: string[];
+  amt?: string | null;
+  aemter?: string[];
+  seit_hinweis?: string | null;
+  seit_quelle?: string | null;
 }
 
 export interface AkteOrganisation {

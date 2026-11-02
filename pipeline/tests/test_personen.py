@@ -327,9 +327,30 @@ def test_akte_traegt_bezuege(tmp_path):
     sh = json.loads((tmp_path / "build" / "personen" / f"{by_id['sanae-abdi']['shard']}.json").read_text(encoding="utf-8"))
     b = sh["sanae-abdi"]["bezuege"]
     k = {x["komponente"]: x for x in b["zeilen"]}
-    assert k["Abgeordnetenentschädigung"]["summe"] == 246077.79 and k["Amtsgehalt"]["monatlich"] == 16084.36
+    assert k["Abgeordnetenentschädigung"]["summe"] == 237470.27 and k["Amtsgehalt"]["monatlich"] == 16084.36   # März 2025 tageweise (§ 32 Abs. 8 AbgG)
     assert k["Kürzung der Abgeordnetenentschädigung (Amt und Mandat)"]["monate"] == 19
     assert b["summe_person"] < b["summe_person"] + b["summe_aufwand"]
     reinfrank = next(a for a in idx["eintraege"] if a["id"] == "timo-reinfrank")
     assert reinfrank["sichtbar"] is False    # Vertreter ohne Amt haben keine Bezüge und bleiben wie bisher
     assert all(f.get("amt") is None or f["art"] == "regierung" for f in sh["sanae-abdi"]["funktionen"])
+
+
+def test_nachruecker_erbt_eintritt_vom_vorgaenger(tmp_path):
+    # C2: Eintritt des Nachrückers = Tag nach dem Ausscheiden des Vorgängers (Biografie des Vorgängers als Quelle)
+    raw, manual = _raw_mit_abdi(tmp_path)
+    (manual / "bezuege.yaml").write_text((MANUAL / "bezuege.yaml").read_text(encoding="utf-8"), encoding="utf-8")
+    vor = (FIXTURES / "mdb_bio_ausschnitt.html").read_text(encoding="utf-8")
+    vor = vor.replace('<h1 class="m-biography__introName">Sanae Abdi</h1>',
+                      '<h1 class="m-biography__introName">Vera Vorgaenger</h1><p>Vera Vorgaenger ist mit Ablauf des 31. Mai 2026 aus dem Deutschen Bundestag ausgeschieden. '
+                      'Nachfolgerin ist die Abgeordnete <a href="/abgeordnete/biografien/A/abdi_sanae-1043330" class="a-link --inline"><span class="a-link__label">Sanae Abdi, SPD</span></a>.</p>', 1)
+    (raw / "bundestag" / "1099999.html").write_text(vor, encoding="utf-8")
+    (raw / "bundestag" / "1099999.url").write_text("https://www.bundestag.de/abgeordnete/biografien/V/vorgaenger_vera-1099999", encoding="utf-8")
+    idx = json.loads(build_personen(manual, raw, tmp_path / "build", _seiten(), [], "2026-11-02").read_text(encoding="utf-8"))
+    by_id = {e["id"]: e for e in idx["eintraege"]}
+    sh = json.loads((tmp_path / "build" / "personen" / f"{by_id['sanae-abdi']['shard']}.json").read_text(encoding="utf-8"))
+    f = sh["sanae-abdi"]["funktionen"][0]
+    assert f["seit"] == "2026-06-01" and "Vorgänger" in f["seit_hinweis"] and "1099999" in f["seit_quelle"]
+    e = {z["komponente"]: z for z in sh["sanae-abdi"]["bezuege"]["zeilen"]}["Abgeordnetenentschädigung"]
+    assert e["zeitraum_von"] == "2026-06-01" and e["monate"] == 6
+    assert not any("Beginn der 21. Wahlperiode" in h for h in sh["sanae-abdi"]["bezuege"]["hinweise"])
+    assert any("Vorgänger" in h for h in sh["sanae-abdi"]["bezuege"]["hinweise"])

@@ -66,4 +66,18 @@ def test_parse_bio_eintritt_nur_jahr_und_ohne_satz():
     html = fixture_text("mdb_bio_ausschnitt.html")
     assert parse_bio(html, "https://x/-1", "2026-11-01").mitglied_seit is None
     html2 = html.replace("</h1>", "</h1><p>Mitglied des Deutschen Bundestages seit 2005; von 2013 bis 2017 Vorsitzender des X.</p>", 1)
-    assert parse_bio(html2, "https://x/-1", "2026-11-01").mitglied_seit == "2005-01-01"
+    assert parse_bio(html2, "https://x/-1", "2026-11-01").mitglied_seit == "2005"   # nur Jahr bekannt → kein Tag erfunden
+
+
+def test_parse_bio_liest_nachfolger():
+    # C2: die Biografie des Ausgeschiedenen nennt Austritt und Nachfolger (Link mit mdb_id oder nur Name)
+    html = fixture_text("mdb_bio_ausschnitt.html").replace("</h1>",
+        '</h1><p>Sanae Abdi hat auf ihre Mitgliedschaft im 21. Deutschen Bundestag verzichtet und ist mit Ablauf des 31. Mai 2026 aus dem Deutschen Bundestag ausgeschieden. '
+        'Nachfolger ist der Abgeordnete <a href="/abgeordnete/biografien/B/breilmann_michael-1183252" class="a-link --inline --icon --icon-richtextInternal"><span class="a-link__label">Michael Breilmann, CDU/CSU</span><span class="a-link__label --hidden">(Interner Link)</span></a>.</p>', 1)
+    a = parse_bio(html, "https://x/-1", "2026-11-01")
+    assert a.ausgeschieden == "2026-05-31" and a.nachfolger_mdb_id == 1183252 and a.nachfolger_name == "Michael Breilmann"
+    html2 = fixture_text("mdb_bio_ausschnitt.html").replace("</h1>",
+        "</h1><p>Sanae Abdi ist mit Ablauf des 30. Juni 2025 aus dem Deutschen Bundestag ausgeschieden. Nachfolgerin ist die Abgeordnete Mayra Vriesema, Bündnis 90/Die Grünen.</p>", 1)
+    b = parse_bio(html2, "https://x/-1", "2026-11-01")
+    assert b.nachfolger_mdb_id is None and b.nachfolger_name == "Mayra Vriesema"
+    assert parse_bio(fixture_text("mdb_bio_ausschnitt.html"), "https://x/-1", "2026-11-01").nachfolger_name is None

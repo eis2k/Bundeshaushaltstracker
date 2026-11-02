@@ -28,6 +28,8 @@ _TAG = re.compile(r"<[^>]+>")
 _WS = re.compile(r"\s+")
 _MONATE = {m: i + 1 for i, m in enumerate(("Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"))}
 _MITGLIED_SEIT = re.compile(r"Mitglied des (?:Deutschen )?Bundestages seit (?:(Januar|Februar|März|April|Mai|Juni|Juli|August|September|Oktober|November|Dezember) )?(\d{4})")
+_NACHFOLGER_LINK = re.compile(r'Nachfolger(?:in)? ist (?:der|die) Abgeordnete\s*(?:</span>)?\s*<a href="[^"]*-(\d+)"[^>]*>(.*?)</a>', re.S)
+_NACHFOLGER_TEXT = re.compile(r"Nachfolger(?:in)? ist (?:der|die) Abgeordnete ([^,.<]+)")
 _ROLLE_BLOCK = re.compile(r'<h3 class="m-biography__subHeading">(.*?)</h3>\s*<ul[^>]*>(.*?)</ul>', re.S)
 _AUSGESCHIEDEN = re.compile(r"mit Ablauf des (\d{1,2})\. (Januar|Februar|März|April|Mai|Juni|Juli|August|September|Oktober|November|Dezember) (\d{4}) aus dem Deutschen Bundestag ausgeschieden")
 
@@ -64,7 +66,9 @@ class Abgeordneter:
     hinweis: str | None = None
     ausgeschieden: str | None = None   # ISO-Datum des Ausscheidens aus dem Bundestag (Biografie-Text), sonst None
     aemter: list[str] = field(default_factory=list)   # „Rolle: Gremium“ aus dem Block „Mitgliedschaften und Ämter im Bundestag“
-    mitglied_seit: str | None = None   # Eintritt laut Biografie („Mitglied des Bundestages seit <Monat> <Jahr>“), ISO, Monat oder Jahresanfang
+    mitglied_seit: str | None = None   # Eintritt laut Biografie: „YYYY-MM-01“ bei Monatsangabe, „YYYY“ bei bloßer Jahresangabe
+    nachfolger_mdb_id: int | None = None   # Ausgeschiedene: Nachfolger laut Biografie (Link-Kennung), sonst None
+    nachfolger_name: str | None = None     # Ausgeschiedene: Name des Nachfolgers laut Biografie (ohne Fraktion)
 
 
 # ---------------------------------------------------------------- Liste
@@ -166,14 +170,25 @@ def parse_bio(page_html: str, url: str, stand: str) -> Abgeordneter:
     volltext = _text(page_html)
     aus = _AUSGESCHIEDEN.search(volltext)
     ms = _MITGLIED_SEIT.search(volltext)
-    mitglied_seit = f"{ms.group(2)}-{_MONATE[ms.group(1)]:02d}-01" if ms and ms.group(1) else (f"{ms.group(2)}-01-01" if ms else None)
+    mitglied_seit = f"{ms.group(2)}-{_MONATE[ms.group(1)]:02d}-01" if ms and ms.group(1) else (ms.group(2) if ms else None)
+    nachfolger_id: int | None = None
+    nachfolger_name: str | None = None
+    nl = _NACHFOLGER_LINK.search(page_html)
+    if nl:
+        nachfolger_id = int(nl.group(1))
+        label = re.search(r'<span class="a-link__label">(.*?)</span>', nl.group(2), re.S)
+        nachfolger_name = _text(label.group(1) if label else nl.group(2)).split(",")[0].split(" (")[0].strip() or None
+    else:
+        nt = _NACHFOLGER_TEXT.search(volltext)
+        if nt:
+            nachfolger_name = nt.group(1).strip() or None
     ausgeschieden = f"{aus.group(3)}-{_MONATE[aus.group(2)]:02d}-{int(aus.group(1)):02d}" if aus else None
     hinweise = [f"aus dem Bundestag ausgeschieden mit Ablauf des {ausgeschieden}"] if ausgeschieden else []
     block = _block(page_html, "Veröffentlichungspflichtige Angaben")
     if block is None:
         hinweise.append("keine veröffentlichungspflichtigen Angaben")
     return Abgeordneter(name, fraktion, url, mdb_id, ausschuesse, _angaben(block) if block is not None else [], stand,
-                        "; ".join(hinweise) or None, ausgeschieden, aemter, mitglied_seit)
+                        "; ".join(hinweise) or None, ausgeschieden, aemter, mitglied_seit, nachfolger_id, nachfolger_name)
 
 
 # ---------------------------------------------------------------- Abruf und Ablage

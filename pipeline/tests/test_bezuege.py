@@ -34,6 +34,7 @@ def test_rolle_amt_und_amtszulage():
     assert amtszulage_faktor(["Amtierender Vorsitzender: Haushaltsausschuss", "Stellvertretende Vorsitzende: Rechtsausschuss"]) == 0
     assert amtszulage_faktor(["Vorsitzende: Unterausschuss Globale Gesundheit", "Vorsitzender: Parlamentarischer Beirat für nachhaltige Entwicklung"]) == 0
     assert amtszulage_faktor(["Vorsitzende: 1. Untersuchungsausschuss", "Vorsitzender: Enquete-Kommission KI"]) == Decimal("0.15")
+    assert amtszulage_faktor(["Vorsitzender: Rechnungsprüfungsausschuss"]) == 0   # Unterausschuss des Haushaltsausschusses
     assert amtszulage_faktor(["Präsidentin des Deutschen Bundestages: Präsidium"]) == 1 and amtszulage_faktor(["Vizepräsident: Präsidium"]) == Decimal("0.5")
 
 
@@ -42,12 +43,13 @@ def test_abgeordnete_seit_wahlperiode():
     z = {x["komponente"]: x for x in b["zeilen"]}
     e = z["Abgeordnetenentschädigung"]
     assert e["zeitraum_von"] == WP_BEGINN and e["zeitraum_bis"] == "2026-11-02" and e["monate"] == 21
-    assert e["monatlich"] == 11833.47 and e["summe"] == 246077.79   # 4 × 11.227,20 + 17 × 11.833,47
+    assert e["monatlich"] == 11833.47 and e["summe"] == 237470.27   # 7/30 × 11.227,20 + 3 × 11.227,20 + 17 × 11.833,47
+    assert any("§ 32 Abs. 8" in h for h in b["hinweise"])
     assert z["Kostenpauschale"]["summe"] == 60139.97 and z["Kostenpauschale"]["monate"] == 11
     assert any("Kostenpauschale" in h and "2025" in h and "10 Monate" in h for h in b["hinweise"])
     assert z["Mitarbeiterpauschale"]["empfaenger"] == "dritte" and z["Mitarbeiterpauschale"]["summe"] == 191772.0
     assert z["Sachleistungskonto"]["monatlich"] == 1000.0 and z["Sachleistungskonto"]["summe"] == 11000.0
-    assert b["summe_person"] == round(246077.79 + 60139.97, 2) and b["summe_aufwand"] == 191772.0 + 11000.0
+    assert b["summe_person"] == round(237470.27 + 60139.97, 2) and b["summe_aufwand"] == 191772.0 + 11000.0
     assert any("12.330,48" in h for h in b["hinweise"])            # Juli/August 2026
     assert any("Wahlperiode" in h for h in b["hinweise"])         # Eintrittsdatum nicht ausgewertet
     assert any("§ 18" in s for s in b["nicht_bezifferbar"]) and any("§ 27" in s for s in b["nicht_bezifferbar"])
@@ -59,7 +61,9 @@ def test_nachruecker_und_ausgeschiedene():
     assert not any("Wahlperiode" in h for h in b["hinweise"])
     b2 = berechne_bezuege([f("mdb", "MdB bis 2025-08-31", bis="2025-08-31")], SAETZE, "2026-11-02")
     e = {x["komponente"]: x for x in b2["zeilen"]}["Abgeordnetenentschädigung"]
-    assert e["monate"] == 6 and e["summe"] == round(4 * 11227.20 + 2 * 11833.47, 2)
+    assert e["monate"] == 6 and e["summe"] == round(2619.68 + 3 * 11227.20 + 2 * 11833.47, 2)   # August voll (31/30 → 1)
+    kp = {x["komponente"]: x for x in b2["zeilen"]}["Kostenpauschale"]
+    assert kp["zeitraum_bis"] == "2025-09-30" and any("§ 32 Abs. 2" in h for h in b2["hinweise"])   # läuft bis Ende des Folgemonats
 
 
 def test_amtszulage_nur_monatsbetrag_ohne_beginn():
@@ -96,3 +100,20 @@ def test_parlamentarischer_staatssekretaer_und_beamter():
     b2 = berechne_bezuege([f("regierung", "Staatssekretär, BMF", seit="2025-05-06", amt="Staatssekretär")], SAETZE, "2026-11-02")
     assert {x["komponente"]: x for x in b2["zeilen"]}["Amtsgehalt"]["monatlich"] == 16084.36
     assert "Dienstaufwandsentschädigung" not in {x["komponente"] for x in b2["zeilen"]}
+
+
+def test_parlamentarischer_staatssekretaer_mit_mandat_kappung():
+    # C1: § 29 Abs. 1 AbgG — Kürzungsbetrag höchstens 30 % des Amtseinkommens: 30 % von 16.084,36 = 4.825,31 < 5.916,74
+    fn = [f("mdb", "MdB", seit="2025-05-06"), f("regierung", "Parlamentarische Staatssekretärin, BMAS", seit="2025-05-06", amt="Parlamentarische Staatssekretärin")]
+    b = berechne_bezuege(fn, SAETZE, "2026-11-02")
+    k = {x["komponente"]: x for x in b["zeilen"]}["Kürzung der Abgeordnetenentschädigung (Amt und Mandat)"]
+    assert k["monatlich"] == -4825.31 and k["monate"] == 19 and k["summe"] == round(-19 * 4825.31, 2)
+    assert any("30 %" in h and "Ortszuschlag" in h for h in b["hinweise"])
+
+
+def test_seit_hinweis_wird_uebernommen():
+    # I4: der Eintritt aus der Biografie wird beschriftet
+    fn = [{**f("mdb", "MdB", seit="2026-03-01"), "seit_hinweis": "Eintritt laut Biografie: März 2026, gerechnet ab dem Monatsersten"}]
+    b = berechne_bezuege(fn, SAETZE, "2026-11-02")
+    assert any("Eintritt laut Biografie" in h for h in b["hinweise"])
+    assert not any("Beginn der 21. Wahlperiode" in h for h in b["hinweise"])
