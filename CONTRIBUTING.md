@@ -21,6 +21,7 @@ Nur amtliche Quellen oder Selbstauskünfte der Genannten zählen: Bundeshaushalt
 | `data/manual/personen.yaml` | Zusammenführung oder Trennung gleicher Namen mit Beleg; Freischaltung von Akten (`freigabe`) |
 | `data/manual/regierung.yaml` | Mitglieder der Bundesregierung, Staatsminister, Staatssekretäre mit Quelle und Datum |
 | `data/manual/jahresabschluss.yaml` | Kennzahlen aus Jahresabschlüssen mit Seitenangabe |
+| `data/manual/bezuege.yaml` | Gesetzlich festgelegte Bezüge (Abgeordnetenentschädigung, Pauschalen, B 11, Dienstaufwandsentschädigung) je Gültigkeitszeitraum mit Fundstelle; Beginn von Ausschussvorsitzen (`vorsitz_ab`) |
 | `data/manual/ressorts.yaml` | Geldgeber-Namen → Einzelplan |
 | `data/texts/titel/*.md` | Erklärtexte zu Haushaltstiteln (zwei Sätze, Quelle Pflicht) |
 
