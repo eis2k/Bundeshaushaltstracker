@@ -489,6 +489,7 @@ def build_empfaenger(manual_dir: Path, raw_dir: Path, out: Path, years: dict[int
     out_dir.mkdir(parents=True, exist_ok=True)
     eintraege: list[dict] = []
     titel_map: dict[str, dict] = {}
+    geschrieben: set[str] = {"index.json"}
     letztes_jahr = max(years) if years else None
     for sid, s in stamm.items():
         p = profil_by_nr.get(s.lobbyregister) if s.lobbyregister else None
@@ -577,11 +578,16 @@ def build_empfaenger(manual_dir: Path, raw_dir: Path, out: Path, years: dict[int
             "foerderkatalog": fk, "foerderkatalog_auszug": len(fk) >= 100, "personen": personen, "verbindungen": verbindungen, "pflichtangaben": pflicht, "quellen": quellen,
         }
         (out_dir / f"{sid}.json").write_text(json.dumps(seite, ensure_ascii=False, indent=0), encoding="utf-8", newline="\n")
+        geschrieben.add(f"{sid}.json")
         eintraege.append({"id": sid, "name": s.name, "art": s.art, "rechtsform": seite["rechtsform"], "sitz": seite["sitz"],
                           "lobby_untergrenze_bund": seite["lobby_untergrenze_bund"], "haushalt_soll_letztes_jahr": haushalt_letztes,
                           "foerderkatalog_summe": round(sum(x["summe"] for x in fk), 2), "n_personen": len(personen),
                           "n_verbindungen": len(verbindungen), "lobbyregister": p.nummer if p else None, "epls": sorted(epls)})
     eintraege.sort(key=lambda e: (-e["lobby_untergrenze_bund"], -e["haushalt_soll_letztes_jahr"], e["name"]))
+    # Seiten früherer Läufe, deren Empfänger es nicht mehr gibt, entfernen (sonst bleiben sie per Link erreichbar)
+    for alt in out_dir.glob("*.json"):
+        if alt.name not in geschrieben:
+            alt.unlink()
     index_path = out_dir / "index.json"
     index_path.write_text(json.dumps({"stand": stand, "mit_personen": mit_personen, "eintraege": eintraege, "titel": titel_map}, ensure_ascii=False), encoding="utf-8", newline="\n")
 
