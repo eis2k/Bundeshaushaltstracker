@@ -391,3 +391,11 @@ def test_haushalt_soll_nur_juengstes_jahr():
     seite = {"lobby_zuwendungen": [], "foerderkatalog": [], "haushalt": {"titel": [
         {"id": "a", "werte": {"2024": {"soll": 100}, "2026": {"soll": 300}}}, {"id": "b", "werte": {"2024": {"soll": 50}}}]}}
     assert _geld_der_seite(seite)["haushalt_soll_letztes_jahr"] == 300
+
+
+def test_haushalt_soll_mit_globalem_jahr():
+    from bhtracker.personen import _geld_der_seite
+    seite = {"lobby_zuwendungen": [], "foerderkatalog": [], "haushalt": {"titel": [
+        {"id": "a", "werte": {"2024": {"soll": 100}, "2025": {"soll": 300}}}, {"id": "b", "werte": {"2024": {"soll": 50}}}]}}
+    assert _geld_der_seite(seite, letztes_jahr=2026)["haushalt_soll_letztes_jahr"] == 0     # wie die Empfängerliste: kein Wert im globalen letzten Jahr
+    assert _geld_der_seite(seite, letztes_jahr=2024)["haushalt_soll_letztes_jahr"] == 150

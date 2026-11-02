@@ -128,13 +128,13 @@ def lade_bezuege(path: Path) -> list[Satz]:
     return sorted(out, key=lambda x: (x.art, x.ab))
 
 
-def lade_vorsitz_ab(path: Path) -> dict[str, str]:
-    """akte_id → ISO-Datum des Beginns eines Ausschussvorsitzes (gepflegt mit Quelle)."""
+def lade_vorsitz_ab(path: Path) -> dict[str, dict]:
+    """akte_id → {ab, quelle, fundstelle} für den Beginn eines Vorsitzes oder Präsidiumsamts (gepflegt mit Quelle)."""
     if not path.exists():
         return {}
     with open(path, encoding="utf-8") as fh:
         data = yaml.safe_load(fh) or {}
-    return {str(v["akte_id"]): str(v["ab"]) for v in data.get("vorsitz_ab") or []}
+    return {str(v["akte_id"]): {"ab": str(v["ab"]), "quelle": str(v.get("quelle") or ""), "fundstelle": str(v.get("fundstelle") or "")} for v in data.get("vorsitz_ab") or []}
 
 
 def satz_am(saetze: list[Satz], art: str, datum: str) -> Satz | None:
@@ -284,7 +284,12 @@ def _zeile(posten: str, komponente: str, rechtsgrundlage: str, art: str, faktor:
     return zeile, je_monat
 
 
-def berechne_bezuege(funktionen: list[dict], saetze: list[Satz], stand: str, vorsitz_ab: str | None = None) -> dict:
+def berechne_bezuege(funktionen: list[dict], saetze: list[Satz], stand: str, vorsitz_ab: str | dict | None = None) -> dict:
+    """`vorsitz_ab`: ISO-Datum oder {ab, quelle, fundstelle} für den Beginn von Vorsitz oder Präsidiumsamt."""
+    vorsitz_quelle: dict | None = None
+    if isinstance(vorsitz_ab, dict):
+        vorsitz_quelle = {"kurz": _kurz(vorsitz_ab.get("quelle") or ""), "url": vorsitz_ab.get("quelle") or None, "fundstelle": vorsitz_ab.get("fundstelle") or ""}
+        vorsitz_ab = vorsitz_ab.get("ab") or None
     zeilen: list[dict] = []
     hinweise: list[str] = []
     nicht: list[str] = []
@@ -319,15 +324,22 @@ def berechne_bezuege(funktionen: list[dict], saetze: list[Satz], stand: str, vor
         if faktor:
             komponente = "Amtszulage Präsidium" if faktor >= Decimal("0.5") else "Amtszulage Ausschussvorsitz"
             z_von = max(vorsitz_ab, von) if vorsitz_ab else None
-            zeilen.append(_zeile(posten, komponente, "§ 11 Abs. 2 AbgG", "abgeordnetenentschaedigung", faktor, z_von, bis, saetze, stand, "person", luecken,
-                                 tageweise=True, echtes_bis=echtes_bis)[0])
+            zz = _zeile(posten, komponente, "§ 11 Abs. 2 AbgG", "abgeordnetenentschaedigung", faktor, z_von, bis, saetze, stand, "person", luecken,
+                        tageweise=True, echtes_bis=echtes_bis)[0]
+            if vorsitz_quelle and vorsitz_quelle.get("url"):
+                zz["quellen"] = [vorsitz_quelle] + list(zz.get("quellen") or [])
+            zeilen.append(zz)
             if not vorsitz_ab:
                 merke(f"{komponente}: Beginn des Vorsitzes nicht belegt, deshalb nur Monatsbetrag ohne Summe.")
             else:
-                merke(f"{komponente}: gerechnet ab {vorsitz_ab} (Beginn laut Pflegedatei bezuege.yaml mit Fundstelle).")
+                fund = f" ({vorsitz_quelle['fundstelle']})" if vorsitz_quelle and vorsitz_quelle.get("fundstelle") else " (Beginn laut Pflegedatei bezuege.yaml)"
+                merke(f"{komponente}: gerechnet ab {vorsitz_ab}{fund}.")
             if faktor >= Decimal("0.5"):
                 art = "amtsaufwand_praesident" if faktor == 1 else "amtsaufwand_vize"
-                zeilen.append(_zeile(posten, "Amtsaufwandsentschädigung Präsidium", "§ 12 Abs. 5 AbgG", art, Fraction(1), z_von, bis, saetze, stand, "person", luecken)[0])
+                za = _zeile(posten, "Amtsaufwandsentschädigung Präsidium", "§ 12 Abs. 5 AbgG", art, Fraction(1), z_von, bis, saetze, stand, "person", luecken)[0]
+                if vorsitz_quelle and vorsitz_quelle.get("url"):
+                    za["quellen"] = [vorsitz_quelle] + list(za.get("quellen") or [])
+                zeilen.append(za)
         kp_bis = _folgemonat_ende(bis) if echtes_bis else bis
         if kp_bis > stand:
             kp_bis = stand

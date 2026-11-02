@@ -176,7 +176,7 @@
         {#each seite.personen as p}
           <li>{#if p.akte_id && p.akte_sichtbar}<button class="link" onclick={() => void app.openAkte(p.akte_id!)}><b>{p.name}</b></button>{:else}<b>{p.name}</b>{#if p.akte_id === null || p.akte_sichtbar === false} <span class="tag">Akte nicht freigeschaltet</span>{/if}{/if} · {p.funktion || (p.rolle === "interessenvertreter" ? "Interessenvertretung" : "gesetzliche Vertretung")}
             {#if p.rolle === "interessenvertreter"}<span class="tag">Interessenvertreter laut Lobbyregister</span>{/if}
-            {#if p.regierungsfunktion}<span class="tag">frühere öffentliche Funktion: {p.regierungsfunktion.funktion}{#if p.regierungsfunktion.stelle}, {p.regierungsfunktion.stelle}{/if}{#if p.regierungsfunktion.ende} bis {p.regierungsfunktion.ende}{/if}</span>{/if}
+            {#if p.regierungsfunktion}<span class="tag">{p.regierungsfunktion.beendet ? "frühere öffentliche Funktion" : "öffentliche Funktion, laufend"}: {p.regierungsfunktion.funktion}{#if p.regierungsfunktion.stelle}, {p.regierungsfunktion.stelle}{/if}{#if p.regierungsfunktion.beendet && p.regierungsfunktion.ende} bis {p.regierungsfunktion.ende}{/if}</span>{/if}
             <small class="muted">Quelle: <a href={p.quelle.url ?? "#"} target="_blank" rel="noopener">{p.quelle.kurz}</a>, Stand {p.quelle.stand}</small>
           </li>
         {/each}

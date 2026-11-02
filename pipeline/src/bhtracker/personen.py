@@ -364,8 +364,9 @@ def profile_mit_seite(profile: list[Profil], seiten: dict[str, dict]) -> list[Pr
     return [p for p in profile if p.nummer in nummern or norm_name(p.name) in normen]
 
 
-def _geld_der_seite(seite: dict) -> dict:
-    """Geldkennzahlen einer Empfänger-Seite für die Organisationsliste der Akte (Quellen nebeneinander, nicht addiert)."""
+def _geld_der_seite(seite: dict, letztes_jahr: int | None = None) -> dict:
+    """Geldkennzahlen einer Empfänger-Seite für die Organisationsliste der Akte (Quellen nebeneinander, nicht addiert).
+    `letztes_jahr`: das jüngste Haushaltsjahr des ganzen Builds (wie in der Empfängerliste); ohne Angabe das jüngste Jahr der Seite."""
     geld_aus: list[str] = []
     for z in sorted(seite.get("lobby_zuwendungen") or [], key=lambda x: -x.get("von", 0)):
         if z["geber"] not in geld_aus:
@@ -373,7 +374,8 @@ def _geld_der_seite(seite: dict) -> dict:
     # Soll des jüngsten Jahres über alle Titel (ausgelaufene Titel mischen sich nicht mit aktuellen Werten)
     titel = (seite.get("haushalt") or {}).get("titel") or []
     jahre_alle = sorted({j for t in titel for j in (t.get("werte") or {})})
-    letztes = sum(int((t.get("werte") or {}).get(jahre_alle[-1], {}).get("soll") or 0) for t in titel) if jahre_alle else 0
+    jahr = str(letztes_jahr) if letztes_jahr is not None else (jahre_alle[-1] if jahre_alle else None)
+    letztes = sum(int((t.get("werte") or {}).get(jahr, {}).get("soll") or 0) for t in titel) if jahr else 0
     return {"lobby_untergrenze_bund": seite.get("lobby_untergrenze_bund", 0), "haushalt_soll_letztes_jahr": letztes,
             "foerderkatalog_summe": round(sum(p.get("summe", 0) for p in seite.get("foerderkatalog") or []), 2), "geld_aus": geld_aus}
 
@@ -404,6 +406,8 @@ def build_personen_akten(manual_dir: Path, raw_dir: Path, out: Path, empfaenger_
         raise ValueError("personen.yaml: " + "; ".join(fehler))
     saetze = lade_bezuege(manual_dir / "bezuege.yaml")
     vorsitz_ab = lade_vorsitz_ab(manual_dir / "bezuege.yaml")
+    jahre_global = {j for s in empfaenger_seiten.values() for t in (s.get("haushalt") or {}).get("titel") or [] for j in (t.get("werte") or {})}
+    letztes_jahr = int(max(jahre_global)) if jahre_global else None
     ressorts = _lade_yaml(manual_dir / "ressorts.yaml")
     profile = profile_mit_seite(lade_profile(raw_dir), empfaenger_seiten)
     profile_by_nr = {p.nummer: p for p in profile}
@@ -457,7 +461,7 @@ def build_personen_akten(manual_dir: Path, raw_dir: Path, out: Path, empfaenger_
             f.organisation_id = seite["id"]
             orgs.append({"id": seite["id"], "name": seite["name"], "funktion": f.text, "rolle": f.art, "stand": f.stand,
                          "quelle": {"kurz": "Lobbyregister", "url": (seite.get("lobbyregister") or {}).get("url") or f.quelle.get("url"), "etikett": "Eigenangabe"},
-                         **_geld_der_seite(seite)})
+                         **_geld_der_seite(seite, letztes_jahr)})
             if name_key(a.name) in verbindungs_namen and any(name_key(v.get("person", "")) == name_key(a.name) for v in seite.get("verbindungen") or []):
                 a.verbindung = True
         # Posten laut veröffentlichungspflichtigen Angaben (Bundestag) bei Empfängern mit Seite: nur für Akten mit Bundestags-Identität
@@ -469,7 +473,7 @@ def build_personen_akten(manual_dir: Path, raw_dir: Path, out: Path, empfaenger_
                 q = (v.get("quellen") or [{}])[0]
                 orgs.append({"id": seite["id"], "name": seite["name"], "funktion": v.get("funktion_beim_empfaenger") or "Funktion laut Bundestagsangabe",
                              "rolle": "abgeordneter_funktion", "stand": q.get("stand") or stand,
-                             "quelle": {"kurz": "bundestag.de", "url": q.get("url"), "etikett": "Eigenangabe"}, **_geld_der_seite(seite)})
+                             "quelle": {"kurz": "bundestag.de", "url": q.get("url"), "etikett": "Eigenangabe"}, **_geld_der_seite(seite, letztes_jahr)})
                 a.verbindung = True
         a.organisationen = orgs
         # Spenden der verbundenen Organisationen

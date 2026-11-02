@@ -163,3 +163,20 @@ def test_ressort_zu_epl_ohne_rueckwaerts_praefix_und_exakte_aliasse():
     assert ressort_zu_epl("Bund/BMBF", r) is None
     assert ressort_zu_epl("Bundesministerium für Verkehr (BMV)", r) == "12"
     assert ressort_zu_epl("Bundesministerium", r) is None   # Name kürzer als Alias: kein Rückwärts-Präfix
+
+
+def test_laufende_regierungsfunktion_auf_der_empfaenger_seite():
+    # Fix-Pass Nacharbeiten: laufende Funktion (ended False) heißt nicht „früher“ und der Satz behauptet kein „zuvor“
+    from bhtracker.empfaenger import verbindungen_aus_profil, verbindungssatz
+    from bhtracker.lobbyregister import Person, Regierungsfunktion, extract_profil
+    import dataclasses, json
+    p = extract_profil(json.loads((Path(__file__).parent / "fixtures" / "lobby_detail_R004511.json").read_text(encoding="utf-8")))
+    lauf = Person("Kappert", "Kirsten", "Vorstand", "gesetzlicher_vertreter", Regierungsfunktion("HOUSE_OF_REPRESENTATIVES", "Mitglied des Deutschen Bundestages", "Deutscher Bundestag", False, None))
+    alt = Person("Alt", "Bert", "Vorstand", "gesetzlicher_vertreter", Regierungsfunktion("STATE_SECRETARY", "Staatssekretär", "Bundesministerium X", True, "2021-12-08"))
+    p2 = dataclasses.replace(p, personen=[lauf, alt])
+    v = {x.person: x for x in verbindungen_aus_profil(p2)}
+    assert v["Kirsten Kappert"].kategorie.startswith("Laufende") and v["Bert Alt"].kategorie.startswith("Frühere")
+    s1 = verbindungssatz(v["Kirsten Kappert"], "Verein X", [])
+    s2 = verbindungssatz(v["Bert Alt"], "Verein X", [])
+    assert "hat zugleich eine öffentliche Funktion" in s1 and "zuvor" not in s1
+    assert "hatte zuvor eine öffentliche Funktion" in s2 and "bis 2021-12-08" in s2

@@ -263,12 +263,12 @@ def verbindungen_aus_profil(p: Profil) -> list[Verbindung]:
         if not rf:
             continue
         teile = [rf.funktion or rf.art, rf.stelle]
-        if rf.ende:
+        if rf.beendet and rf.ende:
             teile.append(f"bis {rf.ende}")
         out.append(Verbindung(
             typ="regierungsfunktion", person=f"{person.vorname} {person.nachname}".strip(),
             funktion_person=", ".join(t for t in teile if t), funktion_beim_empfaenger=person.funktion,
-            kategorie="Frühere Regierungs- oder Bundestagsfunktion laut Lobbyregister", abgleich="eigenangabe",
+            kategorie=("Frühere" if rf.beendet else "Laufende") + " Regierungs- oder Bundestagsfunktion laut Lobbyregister", abgleich="eigenangabe",
             ausschuesse=[], quellen=[{"kurz": "Lobbyregister", "url": p.url, "stand": p.stand}], stand=p.stand,
         ))
     return out
@@ -310,7 +310,8 @@ def _satz_angabe(v: Verbindung, q: str, name: str) -> str:
 def verbindungssatz(v: Verbindung, empfaenger_name: str, geld_aus: list[str]) -> str:
     q = v.quellen[0]["kurz"] if v.quellen else "Quelle"
     if v.typ == "regierungsfunktion":
-        satz = f"{v.person} ist laut {q} {v.funktion_beim_empfaenger or 'in leitender Funktion'} bei {empfaenger_name} und hatte zuvor eine öffentliche Funktion: {v.funktion_person}."
+        verb = "hat zugleich eine öffentliche Funktion" if v.kategorie.startswith("Laufende") else "hatte zuvor eine öffentliche Funktion"
+        satz = f"{v.person} ist laut {q} {v.funktion_beim_empfaenger or 'in leitender Funktion'} bei {empfaenger_name} und {verb}: {v.funktion_person}."
     elif v.typ == "abgeordneter_funktion":
         satz = _satz_angabe(v, q, empfaenger_name)
     else:

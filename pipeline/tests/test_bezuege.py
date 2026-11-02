@@ -147,3 +147,13 @@ def test_repo_vorsitz_ab_praesidium():
     ids = {v["akte_id"] for v in data["vorsitz_ab"]}
     assert {"julia-kloeckner", "andrea-lindholz", "josephine-ortleb", "omid-nouripour", "bodo-ramelow"} <= ids
     assert all(v["ab"] == "2025-03-25" and "21001" in v["quelle"] for v in data["vorsitz_ab"])
+
+
+def test_vorsitz_ab_mit_fundstelle_im_hinweis_und_in_quellen():
+    from bhtracker.bezuege import lade_vorsitz_ab
+    v = lade_vorsitz_ab(MANUAL / "bezuege.yaml")["julia-kloeckner"]
+    assert v["ab"] == "2025-03-25" and "21001" in v["quelle"] and "Plenarprotokoll 21/1" in v["fundstelle"]
+    b = berechne_bezuege([f("mdb", "MdB", aemter=["Präsidentin: Der Ältestenrat"])], SAETZE, "2026-11-02", vorsitz_ab=v)
+    z = {x["komponente"]: x for x in b["zeilen"]}["Amtszulage Präsidium"]
+    assert any("Plenarprotokoll 21/1" in h for h in b["hinweise"])
+    assert any("21001" in (q["url"] or "") for q in z["quellen"])
