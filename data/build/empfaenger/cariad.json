@@ -93,7 +93,58 @@
 }
 ],
 "lobby_untergrenze_bund": 1290009,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "19A22006E",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: STADT:up - Solutions and Technologies for Automated Driving in Town: an urban mobility project, Teilvorhaben: Durchgängige skalierbare Automation mit funktionalen Modulen entlang der Wirkkette",
+"von": "2023-01-01",
+"bis": "2026-06-30",
+"summe": 2009231.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "19S23002B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: ELISA - Elektromobilität durch Interoperable und Sichere Architekturen, Teilvorhaben: Optimierung der Fahrzeugvernetzung mit Hilfe von Trusted Computing & diskretem Sicherheitschip als Root of Trust",
+"von": "2023-07-01",
+"bis": "2026-06-30",
+"summe": 140739.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16ME0839",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Elektroniksystem mit besonders hoher Zuverlässigkeit für das autonome Fahren - e2LEAD -",
+"von": "2023-04-01",
+"bis": "2026-12-31",
+"summe": 180569.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01MN23013E",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: TwinSpace - Ressourcengekoppelte Hardware-Software-Co-Entwicklung im Zwillingsraum, Teilvorhaben: Anwendung ressourcenschonender Methoden in der Funktionsentwicklung und Softwareintegration",
+"von": "2023-05-01",
+"bis": "2026-09-30",
+"summe": 464497.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "19A24004I",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Safe AI Engineering - Sicherheitsargumentation befähigendes AI Engineering über den gesamten Lebenszyklus einer KI-Funktion, Teilvorhaben: Systematische ODD-Erweiterung",
+"von": "2025-03-01",
+"bis": "2028-02-29",
+"summe": 221514.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -188,6 +239,11 @@
 "stand": "2026-06-30",
 "etikett": "Eigenangabe",
 "version": 7
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

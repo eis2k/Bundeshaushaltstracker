@@ -37,7 +37,18 @@
 }
 ],
 "lobby_untergrenze_bund": 80002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03DPC1201B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "DATIpilot - Community - MEHRCE - Communitymanagement für Innovative Mehrwegsysteme, TP2: CM-MEHRCE-B",
+"von": "2025-02-01",
+"bis": "2028-12-31",
+"summe": 299746.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -145,6 +156,11 @@
 "stand": "2026-07-10",
 "etikett": "Eigenangabe",
 "version": 6
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

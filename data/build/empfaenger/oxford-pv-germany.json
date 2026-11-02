@@ -29,7 +29,38 @@
 }
 ],
 "lobby_untergrenze_bund": 380001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EE1181C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: SuperSolid - Stabile und leistungsstarke Perowskit/Silizium-Tandemsolarmodule hergestellt in Deutschland, Teilvorhaben: Erforschung industrienaher Prozesse der PVSK/Si Tandemzelle",
+"von": "2023-07-01",
+"bis": "2026-06-30",
+"summe": 959011.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE1182D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: PERLE - Perowskit-Tandemsolarzellen: Metrologie für die PV Industrie, Teilvorhaben: Schnelle Metrologie in einer Perowskit-Tandem-Pilotlinie",
+"von": "2024-05-01",
+"bis": "2027-04-30",
+"summe": 294182.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE1228D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: IP2T - Industrielle Perowskit-TOPCon Tandem Module, Teilvorhaben: Erforschung industrieller Prozesse für Perowskit/TOPCon Tandemzellen und -module",
+"von": "2025-07-01",
+"bis": "2028-06-30",
+"summe": 266538.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -115,6 +146,11 @@
 "stand": "2026-01-08",
 "etikett": "Eigenangabe",
 "version": 6
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

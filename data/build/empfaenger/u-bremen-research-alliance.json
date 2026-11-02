@@ -29,7 +29,18 @@
 }
 ],
 "lobby_untergrenze_bund": 70001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "16DKZ2026E",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Interdisziplinäres Datenkompetenzzentrum für Region Bremen - DataNord, Teilvorhaben: Teilvorhaben des U Bremen Research Alliance e.V. lData Train 4 DataNord",
+"von": "2023-11-15",
+"bis": "2026-11-14",
+"summe": 239374.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -114,6 +125,11 @@
 "stand": "2026-02-11",
 "etikett": "Eigenangabe",
 "version": 5
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

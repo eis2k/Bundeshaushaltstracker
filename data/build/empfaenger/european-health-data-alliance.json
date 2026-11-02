@@ -29,7 +29,28 @@
 }
 ],
 "lobby_untergrenze_bund": 110001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "16DTM414A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Verbindung von MII/NUM und Gaia-X Gesundheitsdatenräumen anhand des MII DTM - MII-Gaia, Teilvorhaben: Koordination und Kommunikation der Verbindung von MII/NUM und Gaia-X Gesundheitsdatenräumen",
+"von": "2025-04-01",
+"bis": "2026-03-31",
+"summe": 134724.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "02K25A090",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Gemeinwohlorientiertes Gesundheitsdatenökosystem für Nutzung in Versorgung und Forschung (Data4Good), Teilprojekt: Rahmenbedingungen für Kooperationen und Projektkoordination",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 366954.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -92,6 +113,11 @@
 "stand": "2026-06-08",
 "etikett": "Eigenangabe",
 "version": 2
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

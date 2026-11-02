@@ -29,7 +29,48 @@
 }
 ],
 "lobby_untergrenze_bund": 240001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "01N126026A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Biomechanische Diagnostik und personalisierte Quervernetzung für die Behandlung des Keratokonus (BiPeX) - Teilvorhaben: Personalisierte Keratokonus-Behandlung durch optische Kohärenzelastographie und gezielte Quervernetzung",
+"von": "2026-07-01",
+"bis": "2029-06-30",
+"summe": 374321.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13XP5214B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Superamphiphobe, robuste Oberflächenstrukturen für optische Systeme (SATORIS) - Teilvorhaben: Erforschung von superamphiphoben, optisch transparenten und mechanisch robusten Oberflächen durch Optische Simulation und Charakterisierung",
+"von": "2024-08-01",
+"bis": "2027-07-31",
+"summe": 55688.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N123085B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Integriert-optisches Mehrwellenlängen-Lasersystem für die holographische 3D-Oberflächenmesstechnik in der industriellen Qualitätssicherung (MultiLambdaChip) - Teilvorhaben: Konzeption, Realisierung und Erprobung eines neuartigen flächig 3D digital-holographischen Systems",
+"von": "2023-10-01",
+"bis": "2027-06-30",
+"summe": 564048.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03XPB045A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "ReUseBat - Reuse-orientierte Batteriekreisläufe durch datengestützte Prozessketten",
+"von": "2026-07-01",
+"bis": "2029-06-30",
+"summe": 206468.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -147,6 +188,11 @@
 "stand": "2026-06-24",
 "etikett": "Eigenangabe",
 "version": 24
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

@@ -77,7 +77,48 @@
 }
 ],
 "lobby_untergrenze_bund": 3670007,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "01UG2450GY",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben: Forschungsinstitut Gesellschaftlicher Zusammenhalt (FGZ). Teilvorhaben: Teilinstitut Jena",
+"von": "2024-06-01",
+"bis": "2029-05-31",
+"summe": 2312107.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01UG2613C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben: Antisemitismus seit dem 7. Oktober 2023 in der Offenen Kinder- und Jugendarbeit. Teilvorhaben: Praxisentwicklung und- erprobung von Bildungsangeboten.",
+"von": "2026-03-01",
+"bis": "2029-02-28",
+"summe": 215074.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16DTM404D",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Community Data Sprint: Dateneigner in die AVERA Community Datentreuhand einbeziehen - Com-DS, Teilvorhaben: Accounts des Rechtsaußenspektrums auf deutschsprachigen Social-Media-Plattformen",
+"von": "2025-04-01",
+"bis": "2026-04-30",
+"summe": 89565.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01UG2220C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben: Wissensnetzwerk Rechtsextremismusforschung. Teilvorhaben: Kommunikation zwischen Rechtsextremismusforschung und Zivilgesellschaft durch die 'Plattform Transfer'",
+"von": "2023-01-01",
+"bis": "2027-12-31",
+"summe": 458710.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -148,6 +189,11 @@
 "stand": "2026-09-02",
 "etikett": "Eigenangabe",
 "version": 12
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 },
 {
 "kurz": "Jahresabschluss des Empfängers",

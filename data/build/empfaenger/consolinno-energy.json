@@ -29,7 +29,38 @@
 }
 ],
 "lobby_untergrenze_bund": 450001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "16MEE0341",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Open-Source RISC-V-Ökosystem für Prozessoren in hoch-performanten und sicherheitskritischen Anwendungen - ISOLDE -",
+"von": "2023-05-01",
+"bis": "2026-10-31",
+"summe": 406625.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01MV23015C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: SPIRIT-E - Shared Private Charging Infrastructure and Reservation for Bidirectionally Integrated Truck Electrification, Teilvorhaben: Entwicklung von Cloud-Anwendungen für die Aggregation von Flexibilitätsdaten und kundennahe Erfassung und Bereitstellung von Messdaten",
+"von": "2023-08-01",
+"bis": "2026-10-31",
+"summe": 371803.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01MV22013D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Bid-E-V - Demonstrationsprojekt Bidirektionale Elektrische Vans, Teilvorhaben: Bidirektionales Last-Lademanagement mit Aggregationsservice plus Flexhandelssoftware",
+"von": "2023-02-01",
+"bis": "2026-07-31",
+"summe": 522669.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -92,6 +123,11 @@
 "stand": "2026-08-27",
 "etikett": "Eigenangabe",
 "version": 2
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

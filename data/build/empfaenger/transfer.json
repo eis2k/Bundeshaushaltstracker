@@ -29,7 +29,18 @@
 }
 ],
 "lobby_untergrenze_bund": 130001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03FHP125L",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Personalentwicklungsstrategie für Wissenschaft und Innovation, Teilvorhaben transfer e.V.",
+"von": "2024-03-01",
+"bis": "2026-08-31",
+"summe": 60338.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -136,6 +147,11 @@
 "stand": "2026-03-10",
 "etikett": "Eigenangabe",
 "version": 7
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

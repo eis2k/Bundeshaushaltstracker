@@ -29,7 +29,98 @@
 }
 ],
 "lobby_untergrenze_bund": 4220001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "01N126220B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Photonics for Quantum (P4Q) - Teilvorhaben: TFLN PIC Testbett für fehlerkorrigierte digitale Quantencomputer mit Neutralatomen",
+"von": "2026-05-01",
+"bis": "2029-04-30",
+"summe": 1392357.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N124001C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Algorithmic and Modelling Advancements from Noise Analysis of Quantum Computers (ALMANAQC) - Teilvorhaben: Auf dem Weg zu einem nützlichen Quantenvorteil",
+"von": "2025-01-01",
+"bis": "2027-12-31",
+"summe": 634260.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N125306A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: QUantum Algorithms to SImulate MAny-body Physics (QuASi-MaP) - Teilvorhaben: Algorithmen/-Hardware Co-Design",
+"von": "2025-10-01",
+"bis": "2028-09-30",
+"summe": 248920.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N125287C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Skalierbare modulare faseroptisch-robuste Tweezer-Array-Quantentechnologie (SUPERARRAY) - Teilvorhaben: Test und Integration des Faserarray",
+"von": "2025-10-01",
+"bis": "2028-09-30",
+"summe": 575104.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N125288A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Skalierbare Quantencomputer Adressiereinheit basierend auf Lithiumniobat Eingebetteten photonischen Schaltkreisen (SQALES) - Teilvorhaben: Test und Integration des SQALES Demonstrators",
+"von": "2025-09-01",
+"bis": "2028-08-31",
+"summe": 3400992.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N125244B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Quanteninformierte approximative Optimierung auf NISQ und partiell fehlertoleranten Quantencomputern (QIAPO) - Teilvorhaben: Hardwareoptimierte Implementierung quanteninformierter Optimierungsverfahren auf Neutralatomplattformen",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 327272.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N121134T",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: MQV Neutral-Atom Quantum Computing Demonstrator (MUNIQC-Atoms) - Teilvorhaben: Neutralatom-basierter Quantencomputer-Demonstrator",
+"von": "2025-12-01",
+"bis": "2026-12-31",
+"summe": 376520.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N126300A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Dynamische Arrays logischer Qubits (DynArray) - Teilvorhaben: Entwicklung eines physikalischen Gattercontrollers für zonenbasiertes Quantencomputing",
+"von": "2026-09-01",
+"bis": "2029-08-31",
+"summe": 807773.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N123136A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Multikern Atomare Quantencomputing Systeme (MAQCS) - Teilvorhaben: Bau des MAQCS Demonstrators",
+"von": "2023-12-01",
+"bis": "2027-11-30",
+"summe": 11407634.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -92,6 +183,11 @@
 "stand": "2026-06-30",
 "etikett": "Eigenangabe",
 "version": 2
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

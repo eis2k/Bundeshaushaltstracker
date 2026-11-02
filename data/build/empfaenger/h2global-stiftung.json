@@ -37,7 +37,18 @@
 }
 ],
 "lobby_untergrenze_bund": 720002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03SF0717",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Plattform für den Wissenstransfer zwischen Stakeholdern aus Wirtschaft, Politik, Wissenschaft und interessierter Öffentlichkeit zum Vorantreiben der Energietransformation und des Klimaschutzes ( H2Global Knowledge Hub)",
+"von": "2023-06-05",
+"bis": "2026-12-31",
+"summe": 1196678.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -123,6 +134,11 @@
 "stand": "2026-07-21",
 "etikett": "Eigenangabe",
 "version": 9
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

@@ -37,7 +37,28 @@
 }
 ],
 "lobby_untergrenze_bund": 150002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "01MK26002C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: OpenDECT-X -Konzept zur Entwicklung eines Open-Source DECT NR+ Ökosystems, Teilvorhaben: DECT NR+ Audiokonzepte und Referenzarchitekturen",
+"von": "2026-05-01",
+"bis": "2027-02-28",
+"summe": 74404.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "02L23B055",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Produktive und gesunde Arbeit in Wertschöpfungsnetzwerken teamorientiert entwickeln (ProTeam), Teilprojekt: Entwicklung eines digitalen Assistenzsystems zur effizienten Produktionssystemplanung für die Montage von Audioprodukten",
+"von": "2025-01-01",
+"bis": "2027-12-31",
+"summe": 256750.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -99,6 +120,11 @@
 "stand": "2026-05-28",
 "etikett": "Eigenangabe",
 "version": 8
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

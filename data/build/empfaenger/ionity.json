@@ -29,7 +29,18 @@
 }
 ],
 "lobby_untergrenze_bund": 170001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EMF0501G",
+"ressort": "BMV",
+"epl": "12",
+"thema": "Verbundvorhaben/ SeQueRe: Innovationen für eine nachhaltige Mobilität, Elektromobilität: 'SeQueRe - Standardized Management of Queueing and Reservation for EV charging stations'",
+"von": "2023-06-01",
+"bis": "2026-05-31",
+"summe": 658832.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -104,6 +115,11 @@
 "stand": "2026-07-24",
 "etikett": "Eigenangabe",
 "version": 7
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

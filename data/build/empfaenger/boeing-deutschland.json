@@ -61,7 +61,88 @@
 }
 ],
 "lobby_untergrenze_bund": 720005,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "20D2205B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Digitale Prozesskette für eine KI-gestützte Bohrlochfertigung und -vermessung in der Flugzeugproduktion",
+"von": "2023-06-01",
+"bis": "2026-05-31",
+"summe": 267750.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03LB2047D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: BUENA - Branchenuebergreifende Industrialisierung von additiver Produktion, Teilvorhaben: Simulation und nicht zerstörende Prüfung für branchenübergreifende Industrialisierung von additiver Produktion",
+"von": "2022-11-01",
+"bis": "2026-03-31",
+"summe": 424000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20D2119B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Durchgängige digitale Prozesskette für eine automatisierte, shimfreie Montage dünnwandiger Luftfahrzeugstrukturen",
+"von": "2022-10-01",
+"bis": "2026-03-31",
+"summe": 1053500.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20F2402A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Konzeptionierung und Integration von KI-Assistenzsystemen für Trajectory Based Operations für ältere, aktuelle und zukünftige Flugzeuggenerationen",
+"von": "2026-05-01",
+"bis": "2029-07-31",
+"summe": 962400.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20K2401B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Emissionsarme Kabine",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 918950.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20X2401B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Digitale Lösungen zur Qualitätssicherung für die In-Prozess-Überwachung und die Zerstörungsfreie Prüfung",
+"von": "2025-10-01",
+"bis": "2029-03-31",
+"summe": 576950.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20Y2501A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Automatisierter Turnaround durch autonome Bodensysteme",
+"von": "2026-06-01",
+"bis": "2029-05-31",
+"summe": 850250.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20M2233A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Simulation und Konstruktion von strukturintegrierter Brennstoffzelle, elektrischem Energiespeicher und Wasserstofftank in einen laminaren Flügel großer Streckung",
+"von": "2024-11-01",
+"bis": "2028-10-31",
+"summe": 1200000.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -145,6 +226,11 @@
 "stand": "2026-07-06",
 "etikett": "Eigenangabe",
 "version": 8
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

@@ -29,7 +29,48 @@
 }
 ],
 "lobby_untergrenze_bund": 160001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03XP0579L",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "ENTISE - Entwicklung der Natrium-Ionen-Technologie für Industriell Skalierbare Energiespeicher",
+"von": "2024-06-01",
+"bis": "2027-05-31",
+"summe": 68079.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03XP0541A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "MiKoBatt - Fabrik- und Maschinenkonzepte für wirtschaftlich effiziente Batteriezellproduktionen mit Microenvironments",
+"von": "2023-07-01",
+"bis": "2027-12-31",
+"summe": 2291302.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03XP0553G",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "DiRecReg - Agile Prozesskette zum Direkten Recycling von Lithium-Ionen-Batterien und Regeneration der Aktivmaterialien",
+"von": "2023-10-01",
+"bis": "2027-03-31",
+"summe": 123461.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16BZF366AI",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Unified Container - Europäische Batteriecontainerlösung für netzdienliche, cyberresiliente und skalierbare stationäre Energiespeicherung",
+"von": "2026-09-01",
+"bis": "2029-09-30",
+"summe": 22361532.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -168,6 +209,11 @@
 "stand": "2026-09-28",
 "etikett": "Eigenangabe",
 "version": 17
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

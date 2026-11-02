@@ -29,7 +29,78 @@
 }
 ],
 "lobby_untergrenze_bund": 1290001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03ZU2111DI",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "SaxoCell: Ex vivo-modifizierte Natürliche Killerzellen zur Immuntherapie von Tumoren und Autoimmunerkrankungen (NK-Alliance) - I",
+"von": "2024-10-01",
+"bis": "2027-09-30",
+"summe": 272308.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N125080A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Inline-Qualitätskontrolle zur automatisierten Produktion von Zelltherapeutika mittels digitalem Zellanalysemodul (DigiZell) - Teilvorhaben: Erforschung und Integration eines digitalisierten und automatisierten Zellanalysemoduls für die Produktion von Zell- und Gentherapieprodukten",
+"von": "2026-02-01",
+"bis": "2029-01-31",
+"summe": 813233.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N122247A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Quanten-Licht für eine neue Bildgebung zur frühen und differenzierten Erkennung von Biomarkern in der personalisierten Medizin (QEED) - Teilvorhaben: Schnelle korrelative Mikroskopie-Plattform zur hyper-spektralen MIR- und Mehrkanal-Fluoreszenz-Bildgebung",
+"von": "2023-01-01",
+"bis": "2027-12-31",
+"summe": 787443.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N122247B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Quanten-Licht für eine neue Bildgebung zur frühen und differenzierten Erkennung von Biomarkern in der personalisierten Medizin (QEED) - Teilvorhaben: MIR-Mikroskopie-Plattform mit integrierter Fluoreszenzeinheit",
+"von": "2023-01-01",
+"bis": "2027-12-31",
+"summe": 304987.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01KD2421B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "ResCPa - Ansprechverhalten, Wirksamkeit und Sicherheit einer auf CD318 ausgerichteten CAR-T-Zelltherapie gegen Bauchspeicheldrüsenkrebs - Miltenyi, Bergisch Gladbach",
+"von": "2024-12-01",
+"bis": "2027-11-30",
+"summe": 989833.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01EN2007E",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "GD2-IL18CART - Klinische Phase I-Studie der Sicherheit, Dosisfindung und Machbarkeit einer adoptiven T-Zell-Therapie mit GD2-IL18 CART-Zellen bei Patientinnen und Patienten mit rezidivierten oder refraktären GD2-positiven soliden Tumoren - Teilprojekt Herstellung",
+"von": "2020-11-01",
+"bis": "2027-04-30",
+"summe": 773365.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01KT2314",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "ERA-NET Transcan - PerImmune - Intraperitoneale Immunmodulation für kolorektale peritoneale Metastasen - Standort: Miltenyi Biotec B.V. & Co. KG",
+"von": "2023-04-01",
+"bis": "2026-08-31",
+"summe": 239574.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -136,6 +207,11 @@
 "stand": "2026-08-18",
 "etikett": "Eigenangabe",
 "version": 6
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

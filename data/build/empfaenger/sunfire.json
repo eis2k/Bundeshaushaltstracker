@@ -85,7 +85,58 @@
 }
 ],
 "lobby_untergrenze_bund": 36510008,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EI3087A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: GrInHy3.0 - Grüner industrieller Wasserstoff durch Hochtemperatur-Dampfelektrolyse in einer Stahlwerksumgebung, Teilvorhaben: Betrieb von SOEC-Modulen der 3. Generation im Verbund",
+"von": "2023-06-01",
+"bis": "2027-11-30",
+"summe": 1269623.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03H2I062B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Sunfire1500_NRW - Industrialisierung von AEL und SOEC Elektrolyseuren",
+"von": "2022-06-30",
+"bis": "2027-06-30",
+"summe": 4929145.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03H2I062A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Sunfire1500_SN - Industrialisierung von AEL und SOEC Elektrolyseuren",
+"von": "2022-06-30",
+"bis": "2027-06-30",
+"summe": 113468457.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI3094C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: 'Wind to Hydrogen' : Transienter Betrieb von alkalischen Wasserelektrolyseuren der nächsten Generation, die mit Elektrizität aus Offshore-Windkraft betrieben werden können: Teilvorhaben: AEL für druckoptimierte Anwendungen auf Basis erneuerbarer Stromerzeugung",
+"von": "2024-07-01",
+"bis": "2027-02-28",
+"summe": 246292.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI3109A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: H3P2C - Entwicklung einer industrialisierbaren Hochleistungs-Hochdruck-Hochtemperatur-Elektrolyse-Technologie für Power-to-Chemicals, Teilvorhaben: Gen 3 Hochdruck-Stack-Verifikation & PtC Vorentwicklung",
+"von": "2024-12-01",
+"bis": "2027-11-30",
+"summe": 304043.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -170,6 +221,11 @@
 "stand": "2026-11-01",
 "etikett": "Eigenangabe",
 "version": 11
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

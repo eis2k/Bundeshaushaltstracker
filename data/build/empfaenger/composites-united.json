@@ -45,7 +45,58 @@
 }
 ],
 "lobby_untergrenze_bund": 70003,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03TR09W02C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "T!Raum - syntral - SFI - Shared Factory Industriecampus, TP3: Werkstattbereich - Shared Factory - Industriecampus",
+"von": "2024-04-01",
+"bis": "2027-03-31",
+"summe": 135636.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03TR09L02B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "T!Raum - syntral - LauTrans, TP2: Entwicklung eines synergetischen Transferraum in der Lausitz",
+"von": "2024-05-01",
+"bis": "2027-04-30",
+"summe": 216576.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03TR09W22A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "T!Raum - syntral - SynPro - Synergetische Projektwerkstatt Lausitz, TP1: Composites United",
+"von": "2026-09-01",
+"bis": "2028-08-31",
+"summe": 94784.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01DR25012B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben: Composites für Schlüsseltechnologien in Japan und Korea, Teilprojekt: Kommunikation & Vernetzung für OSAKA - Connect4OSAKA",
+"von": "2025-11-01",
+"bis": "2028-10-31",
+"summe": 94192.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "02J25C150",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Eureka-Verbundprojekt: Circularity of carbon fibres for sport applications - Kreislauffähigkeit von Kohlenstofffasern für Sportanwendungen (rCF4Sports), Teilprojekt: Leitlinien und Strukturaufbau",
+"von": "2026-06-01",
+"bis": "2029-05-31",
+"summe": 345848.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -252,6 +303,11 @@
 "stand": "2026-07-08",
 "etikett": "Eigenangabe",
 "version": 8
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

@@ -37,7 +37,28 @@
 }
 ],
 "lobby_untergrenze_bund": 130002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "01UF2500H",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben: Schriftenreihe 'Vordenker der liberalen Moderne'. Teilvorhaben: Themenschwerpunkte 'Soziale Marktwirtschaft', 'Freie Märkte und ihre Voraussetzungen' und 'Der soziologische Liberalismus'.",
+"von": "2025-04-01",
+"bis": "2029-12-31",
+"summe": 545534.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01UF2501",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Weiterführung des Ludwig-Erhard-Forums für Wirtschaft und Gesellschaft",
+"von": "2025-11-01",
+"bis": "2029-12-31",
+"summe": 1677654.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -246,6 +267,11 @@
 "stand": "2026-06-20",
 "etikett": "Eigenangabe",
 "version": 10
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

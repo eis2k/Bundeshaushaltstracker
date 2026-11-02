@@ -173,5 +173,19 @@
   "abgerufen": "2026-11-01T15:54:45+00:00",
   "bytes": 1747677,
   "sha256": "75e976b18d2c0d5720320f9ebb9600dd2124b15982bdea7ac1a06305b6215208"
+ },
+ {
+  "zeit": "2026-11-02T00:32:58+00:00",
+  "kommando": "fetch-empfaenger",
+  "quellen": [
+   "lobbyregister"
+  ]
+ },
+ {
+  "zeit": "2026-11-02T02:05:17+00:00",
+  "kommando": "fetch-empfaenger",
+  "quellen": [
+   "foerderkatalog"
+  ]
  }
 ]

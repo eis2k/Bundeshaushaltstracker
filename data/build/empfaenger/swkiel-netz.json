@@ -29,7 +29,38 @@
 }
 ],
 "lobby_untergrenze_bund": 40001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EN3116D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "EnEff:Wärme: INTEND - INTegrierte WärmewENDe - Optimierter Ausbau und systemdienlicher Betrieb von Wärmenetzen und dezentralen Wärmepumpen, Teilvorhaben: Zukünftige Wärmelösungen und Netzflexibilität: Auswirkungen auf das Stromnetz in gasversorgten Bestandsgebieten",
+"von": "2025-03-01",
+"bis": "2028-02-29",
+"summe": 187219.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN3137C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: FlexWaerme - Erhöhung der Marktflexibilität von Fernwärmesystemen durch Ende-zu-Ende Optimierung im Echtzeit-Betrieb Teilvorhaben: Pilotprojekt Kiel",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 122858.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SFK1X0-3",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben ENSURE3: V06 Neue EnergieNetzStruktURen für die Energiewende - Teilvorhaben SWKiel Netz GmbH (SWKN)",
+"von": "2023-08-01",
+"bis": "2026-12-31",
+"summe": 306853.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -91,6 +122,11 @@
 "stand": "2026-02-11",
 "etikett": "Eigenangabe",
 "version": 4
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

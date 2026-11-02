@@ -29,7 +29,18 @@
 }
 ],
 "lobby_untergrenze_bund": 310001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "M541910",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Bundesbericht Wissenschaftlerinnen und Wissenschaftler in frühen Karrierephasen (BuWiK 2028)",
+"von": "2025-12-01",
+"bis": "2029-08-31",
+"summe": 2235757.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -92,6 +103,11 @@
 "stand": "2026-06-30",
 "etikett": "Eigenangabe",
 "version": 7
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

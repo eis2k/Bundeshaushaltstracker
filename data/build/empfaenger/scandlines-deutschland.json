@@ -29,7 +29,28 @@
 }
 ],
 "lobby_untergrenze_bund": 3710001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "19NK22005",
+"ressort": "BMV",
+"epl": "12",
+"thema": "Umrüstung des Küstenschiffes (RoPax-Fähre) 'Schleswig-Holstein' auf ein innovatives Energiespeichersystem mit dem Ziel, 80% des Gesamtenergiebedarfes des Schiffes durch Batteriespeicher und damit emissionsfrei zu decken",
+"von": "2022-12-01",
+"bis": "2026-12-31",
+"summe": 6658000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "19NK22006",
+"ressort": "BMV",
+"epl": "12",
+"thema": "Umrüstung des Küstenschiffes (RoPax-Fähre) 'Deutschland' auf ein innovatives Energiespeichersystem mit dem Ziel, 80% des Gesamtenergiebedarfes des Schiffes durch Batteriespeicher und damit emissionsfrei zu decken",
+"von": "2022-12-01",
+"bis": "2026-04-30",
+"summe": 6658000.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -80,6 +101,11 @@
 "stand": "2025-06-30",
 "etikett": "Eigenangabe",
 "version": 4
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

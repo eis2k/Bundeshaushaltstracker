@@ -37,7 +37,18 @@
 }
 ],
 "lobby_untergrenze_bund": 2730002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "16IPCEI211",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Nächste Generation Ferroelektrischer Speicher-Technologie für fortschrittliches Chip Design - NextGenFerro",
+"von": "2022-12-14",
+"bis": "2028-08-31",
+"summe": 18479579.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -100,6 +111,11 @@
 "stand": "2026-08-14",
 "etikett": "Eigenangabe",
 "version": 4
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

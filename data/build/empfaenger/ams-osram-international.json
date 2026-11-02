@@ -61,7 +61,88 @@
 }
 ],
 "lobby_untergrenze_bund": 72060005,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "13IK033D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Spezifischer Einsatz von Digitalisierung, KI und Kompetenzaufbau in der Fahrzeugzulieferfertigung und im Qualitätsmanagement (SmartMan) - Teilvorhaben: Entwicklung smarter, digitaler Analyseprozesse zur Fehlerreduktion in der Fertigung optoelektr. Komponenten für elektrische/autonome Fahrzeuge",
+"von": "2023-09-01",
+"bis": "2026-08-31",
+"summe": 1183992.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ZU1209BA",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "QVLS-iLabs: Quantum Photonic Integrated Components (QPIC) - A",
+"von": "2023-03-01",
+"bis": "2026-02-28",
+"summe": 997976.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ZU2209BA",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "QVLS-iLabs: Quantum Photonic Integrated Components (QPIC-2) - A",
+"von": "2026-03-01",
+"bis": "2029-02-28",
+"summe": 1010298.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16ME0486",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Verteilte Fertigung für neuartige und vertrauenswürdige Elektronik - T4T -",
+"von": "2022-04-01",
+"bis": "2026-11-30",
+"summe": 877286.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE1132",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Datenbasierte Automatisierung und Optimierung von Fertigungsprozessen in der Mikroelektronik - TREASURY -",
+"von": "2026-06-01",
+"bis": "2029-04-30",
+"summe": 334440.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE1143",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Materialien und Prozesse für die nachhaltige Mikroelektronikfertigung - GreenFab-X -",
+"von": "2026-06-01",
+"bis": "2029-05-31",
+"summe": 425949.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13F1015C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Diodenlaser-Pumpquellen für Hochenergielaser in Fusionskraftwerken (DIOHELIOS) - Teilvorhaben: Entwicklung von kostengünstigen Diodenlaserbarren höchster Ausgangsleistung und Effizienz für den Einsatz in der Laserfusion",
+"von": "2024-10-01",
+"bis": "2027-09-30",
+"summe": 4257100.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16IPCEI221",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Resiliente und effiziente Verbundhalbleiter für ein nachhaltiges Europa - OptoSuRe",
+"von": "2023-01-01",
+"bis": "2027-12-31",
+"summe": 323563105.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -178,6 +259,11 @@
 "stand": "2026-10-15",
 "etikett": "Eigenangabe",
 "version": 8
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

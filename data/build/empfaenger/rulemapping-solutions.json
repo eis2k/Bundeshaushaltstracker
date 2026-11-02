@@ -29,7 +29,18 @@
 }
 ],
 "lobby_untergrenze_bund": 110001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "16IS25005A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "KMU-innovativ - Verbundprojekt ARUM: Artificial Generated Rulemaps. Automatische Normformalisierung mit Generativen Sprachmodellen",
+"von": "2025-03-01",
+"bis": "2027-02-28",
+"summe": 324726.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -131,6 +142,11 @@
 "stand": "2026-05-28",
 "etikett": "Eigenangabe",
 "version": 1
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

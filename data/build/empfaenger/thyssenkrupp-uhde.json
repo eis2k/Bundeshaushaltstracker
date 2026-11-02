@@ -61,7 +61,28 @@
 }
 ],
 "lobby_untergrenze_bund": 490005,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EN2120B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: SuNiPro - Verbesserte Nachhaltigkeit und Energieeffizienz der Salpetersäureproduktion durch Optimierung der Materialeigenschaften des Katalysators, Reaktors und von Prozessbedingungen. - Sustainable Nitrates Production, Teilvorhaben: Effiziente Analyse und Optimierung von Reaktoren und Prozessen",
+"von": "2024-08-01",
+"bis": "2027-07-31",
+"summe": 513766.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI3096B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Wasserstoffgewinnung aus Ammoniak in einem direkt strombeheizten Katalysatorbett mit Validierungsproduktion - AmmoniaValid, Teilvorhaben: 'Scale-up eines elektrisch beheizten Reaktors und Entwicklung eines kommerziellen Verfahrens für das Cracken von Ammoniak'",
+"von": "2024-05-01",
+"bis": "2027-04-30",
+"summe": 138741.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -157,6 +178,11 @@
 "stand": "2026-03-19",
 "etikett": "Eigenangabe",
 "version": 9
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

@@ -29,7 +29,18 @@
 }
 ],
 "lobby_untergrenze_bund": 1240001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EWR026D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: Next-MeBa - Megawatt-Batteriespeicher der nächsten Generation: hocheffizient, sicher, kostengünstig, Teilvorhaben: SAX Power",
+"von": "2024-02-01",
+"bis": "2027-01-31",
+"summe": 8551777.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -113,6 +124,11 @@
 "stand": "2026-04-16",
 "etikett": "Eigenangabe",
 "version": 2
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

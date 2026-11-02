@@ -37,7 +37,18 @@
 }
 ],
 "lobby_untergrenze_bund": 390002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03ZU2115CB",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "SupplHyInno Rhineland: Hydrogen Evolution Coupled with DAC (HyInnoHECC) - B",
+"von": "2025-02-01",
+"bis": "2028-01-31",
+"summe": 997996.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -111,6 +122,11 @@
 "stand": "2026-07-28",
 "etikett": "Eigenangabe",
 "version": 4
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

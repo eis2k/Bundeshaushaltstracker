@@ -29,7 +29,18 @@
 }
 ],
 "lobby_untergrenze_bund": 90001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EWR008J",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Reallabor: Reallabor_GWP - Großwärmepumpen in Fernwärmenetzen - Installation, Betrieb, Monitoring und Systemeinbindung, Teilvorhaben: Stadtwerke Rosenheim (FuE)",
+"von": "2021-04-01",
+"bis": "2028-06-30",
+"summe": 101261.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -81,6 +92,11 @@
 "stand": "2026-06-30",
 "etikett": "Eigenangabe",
 "version": 5
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

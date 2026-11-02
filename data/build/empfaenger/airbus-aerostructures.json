@@ -29,7 +29,148 @@
 }
 ],
 "lobby_untergrenze_bund": 5060001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "20K2203D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Entwicklung von Methoden und Technologien für den Bau von klimafreundlichen Kabinen- und Frachtraumverkleidungen aus thermoplastischen Materialien mit Rezyklatanteil",
+"von": "2023-10-01",
+"bis": "2026-12-31",
+"summe": 1061100.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20W2203F",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "EntwickLung thErmoplasTischer FaserverbundStrukturen und Fertigungsverfahren für das Emissionsfreie Flugzeug der Zukunft",
+"von": "2023-11-01",
+"bis": "2026-12-31",
+"summe": 1452350.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20D2204A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Technologieentwicklung zur Flexibilisierung und Nachhaltigkeitsoptimierung von Prozessen im Schalen- und Sektionsbau von Luftfahrzeugen",
+"von": "2024-09-01",
+"bis": "2027-06-30",
+"summe": 3081700.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20W2207A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Nachhaltige Leichtbaustrukturen mit Duromer Materialien für eine umweltfreundliche Luftfahrt",
+"von": "2023-10-01",
+"bis": "2027-06-30",
+"summe": 1948900.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20D2210D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Hoch Effiziente RTM Produktion für Nachhaltige Großkomponenten",
+"von": "2023-12-01",
+"bis": "2027-09-30",
+"summe": 2560200.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20W2202B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Entwicklung ressourceneffizienter beheizbarer Vorrichtung & abfallfreier Vakuumtechnik für linienorientierten Klebeprozess",
+"von": "2023-10-01",
+"bis": "2027-06-30",
+"summe": 2014500.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20X2201A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Modellintegration zur digitalen Gesamtauslegung von zeroE-Produkten",
+"von": "2023-11-01",
+"bis": "2026-12-31",
+"summe": 1850000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20W2106B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Entwicklung von Formgebungs- und Oberflaechenschutzprozessen für komplex gekrümmten Profile aus thermoplastischen Faserverbundwerkstoffen",
+"von": "2022-11-01",
+"bis": "2026-12-31",
+"summe": 246250.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20W2401B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Entwicklung von Fertigungsverfahren für zukünftige hocheffiziente Flügelbauteile in RTM-Technologie",
+"von": "2025-09-01",
+"bis": "2028-11-30",
+"summe": 1192850.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20W2405G",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Entwicklung Fertigungsprinzipien auf Basis innovativer Herstellverfahren für thermoplastische Faserverbundstrukturen mit dem Fokus auf Spanten und Türrahmenstrukturen",
+"von": "2025-07-01",
+"bis": "2028-09-30",
+"summe": 1399950.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20W2410B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Entwicklung einer hochratenfähigen Fertigung von duroplastischen Rumpfschalen in Co-Curing-Technologie",
+"von": "2025-11-01",
+"bis": "2029-01-31",
+"summe": 1899700.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20D2401B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Architektur- und Plattformentwicklung für zertifizierbare KI-Anwendungen in einem KI-Governance Framework für Luftfahrt-Produktionssysteme",
+"von": "2025-12-01",
+"bis": "2029-05-31",
+"summe": 2958100.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20W2407G",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Entwicklung hochratenfähiger Montagekonzepte für CFK-Rumpfstrukturen auf Basis innovativer, toleranzoptimierter und zeiteffizienter Fügetechnologien",
+"von": "2026-07-01",
+"bis": "2029-09-30",
+"summe": 739950.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20C2402A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Metallische Technologien für umweltfreundliche, wettbewerbsfähige und effiziente Luftfahrt",
+"von": "2025-12-01",
+"bis": "2028-09-30",
+"summe": 1788900.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -180,6 +321,11 @@
 "stand": "2026-08-03",
 "etikett": "Eigenangabe",
 "version": 16
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

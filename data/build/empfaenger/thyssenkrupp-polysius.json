@@ -53,7 +53,48 @@
 }
 ],
 "lobby_untergrenze_bund": 60004,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EE5115F",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: MemKoWI - Membranverfahren zur Abtrennung von Kohlendioxid und Wasserstoff aus Industriegasen, Teilvorhaben: Membrantechnologie für die CO2-Abtrennung in der Zementindustrie",
+"von": "2022-11-01",
+"bis": "2027-04-30",
+"summe": 85317.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03CC2008A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: OxyC2link - Implementierung von Carbon Capture Technologien im Zementbrennprozess - Sicherung der Produktqualität des unter Oxyfuel-Bedingungen hergestellten Net-Zero-Klinkers - Teilvorhaben: Technologische Umsetzung und Prozessoptimierung der Oxyfuel-Technologie",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 523224.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE5154C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: CARMEN - Carbonate Looping mit einer mobilen Anlage, Teilvorhaben: Konzeption und Preisermittlung einer Carbonate Looping Demonstrationsanlage basiert auf Wirbelschichten",
+"von": "2023-11-01",
+"bis": "2026-07-31",
+"summe": 201919.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SFK3A5-3",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben SynErgie3: Synchronisierte und energieadaptive Produktionstechnik zur flexiblen Ausrichtung von Industrieprozessen auf eine fluktuierende Energieversorgung. Teilvorhaben: A5-3_thyssenkrupp Polysius",
+"von": "2023-10-01",
+"bis": "2026-06-30",
+"summe": 128722.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -127,6 +168,11 @@
 "stand": "2026-03-26",
 "etikett": "Eigenangabe",
 "version": 8
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

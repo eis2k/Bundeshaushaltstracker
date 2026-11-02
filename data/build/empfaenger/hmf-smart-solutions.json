@@ -37,7 +37,18 @@
 }
 ],
 "lobby_untergrenze_bund": 50002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "13N17550",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Adhoc-Notfall-KOMMunikation: ENtwicklung und Evaluierung (ANKOMMEN) - Teilvorhaben: Integration MCX-Services mit 5G-Kernnetz",
+"von": "2025-12-01",
+"bis": "2028-11-30",
+"summe": 153785.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -99,6 +110,11 @@
 "stand": "2026-06-25",
 "etikett": "Eigenangabe",
 "version": 6
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

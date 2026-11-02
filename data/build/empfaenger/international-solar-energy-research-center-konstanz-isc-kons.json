@@ -29,7 +29,128 @@
 }
 ],
 "lobby_untergrenze_bund": 4710001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EE1185A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: IndiFiduell - individuelle Draht-Finger Verbindungen für langzeitstabile Hocheffizienzmodule, Teilvorhaben: Kosteneffiziente und langzeitstabile Zell-Zell Verbindung für Rückkontaktsolarmodule",
+"von": "2024-01-01",
+"bis": "2026-12-31",
+"summe": 1347322.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE1184E",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: OLIVIA - Hochperformante kostengünstige IBC-Solarzellen für eine zukünftige PV Produktion in Deutschland, Teilvorhaben: Laserstrukturierte pIBC Solarzellen",
+"von": "2024-03-01",
+"bis": "2026-08-31",
+"summe": 477299.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE1200B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: TOUCAN-Evolution - Entwicklung von Prozess und Fertigungstechniken von 'Tunnel Oxide under Contacts on n-Type Silicon Solar Cells' evolutionär, hin zur industriellen Fertigung, Teilvorhaben: Technologieintegration in die Zell-Konzepte TOUCAN und poly-ZEBRA",
+"von": "2025-06-01",
+"bis": "2028-05-31",
+"summe": 331532.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE1216A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: PariS - Passivierende Kontakte für kostengünstige und hocheffiziente IBC-Solarzellen, Teilvorhaben: Entwicklung von TOPCon IBC Zellen mit gesputterten Poly-Si Kontak-ten, Innovative Strukturierung von PVD-Schichten",
+"von": "2024-06-01",
+"bis": "2027-05-31",
+"summe": 2757177.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE1225E",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: BuKuMu - Kostensenkung bei der Solarstromproduktion - Silbereinsparung durch busbarlose, Kupfer-metallisierte Multi-Wire Solarmodule, Teilvorhaben: Entwicklung einer silbersparenden Metallisierung von busbarlosen TOPCon Solarzellen",
+"von": "2025-04-01",
+"bis": "2028-03-31",
+"summe": 850952.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE1228A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: IP2T - Industrielle Perowskit-TOPCon Tandem Module, Teilvorhaben: Invertierte TOPCon als Tandem-Unterzelle und deren Modulintegration",
+"von": "2025-07-01",
+"bis": "2028-06-30",
+"summe": 840468.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE1245A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: SPRINT - Schnelle Laserprozesse für die Strukturierung von TBC Solarzellen, Teilvorhaben: Kostengünstige TBC Solarzellen mit optimierten Strukturen für schnelle Laserprozesse",
+"von": "2026-06-01",
+"bis": "2029-05-31",
+"summe": 647024.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE1248B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: PV-ACTION - Forschungs- und Pilotumgebung für fortschrittliche vernetzte Technologien und branchenorientierte operative Pilotnetze, Teilvorhaben: Anforderungsanalyse und detaillierte Planung einer verknüpften Pilotlinie",
+"von": "2025-11-01",
+"bis": "2026-10-31",
+"summe": 175228.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE1254A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: DREAM-PV - Design und Zuverlässigkeitsoptimierung an Modulen der Photovoltaik-Technologie mit neu entwickelten Solarzellen, Teilvorhaben: Entwicklung von Prozessen zur umweltfreundlicheren Verschaltung von zukunftsorientierten PV Zellkonzepten und Zuverlässigkeit im Modul",
+"von": "2025-12-01",
+"bis": "2028-11-30",
+"summe": 433223.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE1261A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: SmartFab - Smarte Fabrikplanung für vollintegrierte, intelligente Hochdurchsatzlinien, Teilvorhaben: Demonstrator ISC Konstanz - Smarte Forschung für smarte Fertigung",
+"von": "2026-06-01",
+"bis": "2029-05-31",
+"summe": 398563.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE1266A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: LAPIS - Laserstrukturierte passivierte Kontakte für innovative TOPCon Solarzellen, Teilvorhaben: Optimierung von TOPCon Solarzellen durch die Anwendung einer innovativen PEALD AlOx Passivierung und strukturierter n+ poly-Si und in-situ dotierter p+ poly-Si passivierter Kontakte",
+"von": "2026-06-01",
+"bis": "2029-05-31",
+"summe": 735526.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE1275A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: BC-Pilot - Höchsteffiziente Polysilizium-passivierte IBC Zellen mit kostengünstiger Cu-Metallisierung für zukünftige Turnkey Aufträge, Teilvorhaben: Rückkontakt-Solarzellen mit Kupfer-Metallisierung mittels Schablonendruck-Verfahren",
+"von": "2026-08-01",
+"bis": "2029-07-31",
+"summe": 695979.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -149,6 +270,11 @@
 "stand": "2026-10-12",
 "etikett": "Eigenangabe",
 "version": 3
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

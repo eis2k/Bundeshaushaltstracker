@@ -77,7 +77,48 @@
 }
 ],
 "lobby_untergrenze_bund": 320007,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "16KIS2068",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Sicheres industriell anwendbares genormtes HSM basierend auf offenen EDA-Tools und Prozessoren - DI-SIGN-HEP -",
+"von": "2024-06-01",
+"bis": "2027-05-31",
+"summe": 158222.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "19A23001F",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: AutomatedTrain - Entwicklung und Erprobung intelligenter Technologien für die vollautomatisierte Zugfahrt, Teilvorhaben: Verifikation und Validierung der Onboard-Diagnosefunktion und Diagnosedienste",
+"von": "2023-07-01",
+"bis": "2026-09-30",
+"summe": 155997.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01F2288F",
+"ressort": "BMV",
+"epl": "12",
+"thema": "Verbundprojekt: Kombinierte Untersuchung von Feinstaub und Mobilität - KoFeMo -, Teilvorhaben: IAV GmbH Ingenieurgesellschaft Auto und Verkehr",
+"von": "2024-07-01",
+"bis": "2027-06-30",
+"summe": 164516.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16IS26017E",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "ITEA24: Collaborative Design Exploration Framework (Enginuity)",
+"von": "2026-05-01",
+"bis": "2029-04-30",
+"summe": 316207.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -163,6 +204,11 @@
 "stand": "2026-06-19",
 "etikett": "Eigenangabe",
 "version": 10
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

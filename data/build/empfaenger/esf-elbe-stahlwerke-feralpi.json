@@ -37,7 +37,18 @@
 }
 ],
 "lobby_untergrenze_bund": 100002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EN2112B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: FlexHybHeat - Verfahrensentwicklung für ein hybrides Beheizungskonzept zur hochflexiblen und CO2-armen Knüppelerwärmung in Elektrostahlwerken, Teilvorhaben: Modifikation des industriellen Prozessführungssystems und Untersuchung der Einflüsse auf den Betrieb sowie Validierungsversuche",
+"von": "2024-07-01",
+"bis": "2027-06-30",
+"summe": 315589.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -111,6 +122,11 @@
 "stand": "2026-07-24",
 "etikett": "Eigenangabe",
 "version": 6
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

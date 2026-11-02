@@ -29,7 +29,18 @@
 }
 ],
 "lobby_untergrenze_bund": 70001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "02L22C155",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: RessourcenEntwicklung in Dienstleistungsarbeit (RessourcE), Teilprojekt: Entwicklung, Erprobung und Verbreitung von Maßnahmen der Kompetenz- und Qualifikationsentwicklung von Hilfskräften in gesundheitsbezogenen Dienstleistungen",
+"von": "2023-07-01",
+"bis": "2028-06-30",
+"summe": 653045.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -92,6 +103,11 @@
 "stand": "2026-07-02",
 "etikett": "Eigenangabe",
 "version": 7
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

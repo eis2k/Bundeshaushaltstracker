@@ -45,7 +45,38 @@
 }
 ],
 "lobby_untergrenze_bund": 110003,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EE4066B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: ConvEx - Integrierte Explorationsmethoden zur räumlichen Abbildung hydrothermaler Konvektion als Zielstrukturen der tiefengeothermischen Erschließung, Teilvorhaben: Feldarbeiten zur Erkundung hydrothermaler Konvektionszellen und Optimierung tiefengeothermischer Reservoirerkundung",
+"von": "2025-11-01",
+"bis": "2028-10-31",
+"summe": 763237.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01LJ2201B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt KlimPro: Verfahrensentwicklung zur klimaneutralen Produktion von Grundchemikalien mittels innovativer Membranverfahren am Beispiel von Alkalicarbonaten - Teilprojekt 2: Untersuchungen zur Nutzung der Tiefengeothermie für chemische Prozesse",
+"von": "2023-05-01",
+"bis": "2026-12-31",
+"summe": 56930.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16BZF362A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "CO2-neutrale LHM-Gewinnung aus geothermalen LiCl-Lösungen: Zero Carbon Extraktion und Elektrolyse",
+"von": "2025-01-01",
+"bis": "2027-06-30",
+"summe": 1963205.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -152,6 +183,11 @@
 "stand": "2026-01-05",
 "etikett": "Eigenangabe",
 "version": 5
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

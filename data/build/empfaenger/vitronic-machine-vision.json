@@ -37,7 +37,18 @@
 }
 ],
 "lobby_untergrenze_bund": 110002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "45AVF7F061",
+"ressort": "BMV",
+"epl": "12",
+"thema": "In IMoGer soll ein innovativer, barrierefreier, automatisierter Personen- und Gütertransport (SAE L4) ohne Sicherheitsfahrer realisiert werden. Das modulare U-Shift-Fahrzeugkonzept wird als Kleinflotte im Braunschweiger Stadtteil 'Schwarzer Berg' so eingesetzt, dass daraus ein Regelbetrieb ableitbar wird.",
+"von": "2024-12-13",
+"bis": "2027-12-31",
+"summe": 250699.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -143,6 +154,11 @@
 "stand": "2026-06-29",
 "etikett": "Eigenangabe",
 "version": 4
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

@@ -29,7 +29,18 @@
 }
 ],
 "lobby_untergrenze_bund": 80001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "13BDA0014B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Konzeptionelle Integration des Capraferm®-Verfahrens an einem Biogasanlagenstandort (CapConcept) - Teilvorhaben: Konzeptentwicklung zur Integration in Biogasanlagen",
+"von": "2026-05-01",
+"bis": "2028-01-31",
+"summe": 159320.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -113,6 +124,11 @@
 "stand": "2026-09-16",
 "etikett": "Eigenangabe",
 "version": 12
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

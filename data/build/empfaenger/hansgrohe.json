@@ -53,7 +53,28 @@
 }
 ],
 "lobby_untergrenze_bund": 260004,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "13XPM524B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Nachhaltige Metallbeschichtung biobasierter und bioabbaubarer Kunststoffe durch galvanische Verfahren (GreenCoat) - Teilvorhaben: Anwendungsnahe Untersuchung und Bewertung chrom(VI)-frei metallisierter biobasierter und bioabbaubarer Kunststoffe für dekorative Sanitäranwendungen",
+"von": "2026-09-01",
+"bis": "2029-08-31",
+"summe": 109831.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13XP5195A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Digitale Werkzeuge zur Verbesserung galvanischer Schichten am Beispiel Chrom(III)-basierter Prozesse (DigiChrom) - Teilvorhaben: Ontologie galvanischer Prozesse für dekorative Chromschichten aus dreiwertigen Elektrolyten im Produktionsprozess für Sanitärprodukte",
+"von": "2023-12-01",
+"bis": "2027-05-31",
+"summe": 232860.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -171,6 +192,11 @@
 "stand": "2026-10-30",
 "etikett": "Eigenangabe",
 "version": 8
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

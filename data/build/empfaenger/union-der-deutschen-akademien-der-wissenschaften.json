@@ -29,7 +29,28 @@
 }
 ],
 "lobby_untergrenze_bund": 39850001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "ADW2026",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Gemeinsame Förderung eines von der Union der deutschen Akademien der Wissenschaften koordinierten Programms (Akademienprogramm 2026)",
+"von": "2026-01-01",
+"bis": "2026-12-31",
+"summe": 41052000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01WJ2623",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "WJ-2026_AU - Gesunde Zukunft für alle durch datenbasierte Prävention!",
+"von": "2026-04-01",
+"bis": "2026-12-31",
+"summe": 74500.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -144,6 +165,11 @@
 "stand": "2026-04-20",
 "etikett": "Eigenangabe",
 "version": 5
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 },
 {
 "kurz": "Jahresabschluss des Empfängers",

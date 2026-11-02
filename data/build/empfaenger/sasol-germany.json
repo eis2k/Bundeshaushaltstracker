@@ -29,7 +29,18 @@
 }
 ],
 "lobby_untergrenze_bund": 1610001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03SF0673D",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben CARE-o-SENE: Katalysatorforschung für nachhaltige Flugzeugtreibstoffe, Teilvorhaben: Synthese und Testung von neuartigen Fischer-Tropsch- Katalysatoren",
+"von": "2022-09-01",
+"bis": "2027-12-31",
+"summe": 14662617.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -92,6 +103,11 @@
 "stand": "2026-04-30",
 "etikett": "Eigenangabe",
 "version": 16
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

@@ -37,7 +37,38 @@
 }
 ],
 "lobby_untergrenze_bund": 4530002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "16KIS2326",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Cybersecurity Assessment Framework - CySAF -",
+"von": "2025-06-01",
+"bis": "2028-05-31",
+"summe": 122827.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ENM3007",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "KEWinnA Mikroprojekt: AEDDN - Untersuchung der Machbarkeit einer innovativen Abwärme-Einbindung aus dem Dresdner Norden",
+"von": "2026-06-01",
+"bis": "2027-02-28",
+"summe": 99654.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI6082D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: DymoBat - KI unterstützte Kommunikationstechnologien zur dynamischen Optimierung von Mobilität und Energiespeichern zur Frequenzstabilisierung und Energieversorgung, Teilvorhaben SachsenEnergie: Bidirektionales Alltagsladen",
+"von": "2022-10-01",
+"bis": "2026-12-31",
+"summe": 39595.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -178,6 +209,11 @@
 "stand": "2026-06-30",
 "etikett": "Eigenangabe",
 "version": 5
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 },
 {
 "kurz": "bundestag.de",

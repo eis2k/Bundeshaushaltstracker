@@ -29,7 +29,28 @@
 }
 ],
 "lobby_untergrenze_bund": 2240001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EIM3153",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "AZRA - Entwicklung einer Automatisierten Zell-Rahmen-Assemblierung",
+"von": "2026-09-01",
+"bis": "2027-02-28",
+"summe": 139511.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SF0802A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben SUN2H2-KLX: Direktkopplung von PV-Anlagen mit Wasserelektrolyseuren, Teilvorhaben: Laborzellen-Stacks, Short-Stack und theoretische Betrachtung",
+"von": "2026-01-01",
+"bis": "2026-12-31",
+"summe": 1265992.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -131,6 +152,11 @@
 "stand": "2026-10-06",
 "etikett": "Eigenangabe",
 "version": 5
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

@@ -29,7 +29,18 @@
 }
 ],
 "lobby_untergrenze_bund": 390001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03CC2010",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "CALA - CO2-Abscheidung aus Rauchgasen mittels L-Arginin-Prozess für Steamcracker",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 579823.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -158,6 +169,11 @@
 "stand": "2026-06-24",
 "etikett": "Eigenangabe",
 "version": 8
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

@@ -29,7 +29,18 @@
 }
 ],
 "lobby_untergrenze_bund": 140001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EKIBY009",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "SE3Labs",
+"von": "2025-01-01",
+"bis": "2026-06-30",
+"summe": 179483.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -143,6 +154,11 @@
 "stand": "2026-09-11",
 "etikett": "Eigenangabe",
 "version": 5
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

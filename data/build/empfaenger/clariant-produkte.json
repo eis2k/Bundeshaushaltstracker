@@ -77,7 +77,88 @@
 }
 ],
 "lobby_untergrenze_bund": 710007,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "033RC041A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "DISCO2-Verbundvorhaben: SOFT - Synthese von Olefinen via Fischer-Tropsch-Synthese - TP: Entwicklung und Skalierung von Katalysatoren für die FT-Olefin Synthese",
+"von": "2026-03-01",
+"bis": "2029-02-28",
+"summe": 210880.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ENM2013",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Mikroprojekt: ADAPT - Anwendbares Design für fortgeschrittene Prozess-Wärmeintegration",
+"von": "2026-09-01",
+"bis": "2027-08-30",
+"summe": 99949.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16RK14009D",
+"ressort": "BMV",
+"epl": "12",
+"thema": "Verbundprojekt: Sustainable Aviation Fuels based on Advanced Reaction and Process Intensification (SAFari)",
+"von": "2022-12-01",
+"bis": "2028-11-30",
+"summe": 481650.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16RK34003E",
+"ressort": "BMV",
+"epl": "12",
+"thema": "Verbundprojekt: Synergien durch Integration von Biomassenutzung und Power-to-X in der Produktion erneuerbarer Kraftstoffe (SynergyFuels)",
+"von": "2023-01-01",
+"bis": "2026-12-31",
+"summe": 224628.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03LWH0143B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Alternativmethoden: Entwicklung des IHSC-Tox Assays auf Basis humaner induzierter pluripotenter Stammzellen zur Bewertung entwicklungsbedingter Immuntoxizität (ImmuReplace) - Teilprojekt B",
+"von": "2026-04-01",
+"bis": "2029-03-31",
+"summe": 55887.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI3112",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: AMAZE - Ammoniak als kohlenstofffreier Brennstoff und H2-Träger, Teilvorhaben: Entwicklung und Skalierung von Katalysatoren für die Niedertemperatur Synthese und das Cracken von Ammoniak",
+"von": "2024-12-01",
+"bis": "2027-11-30",
+"summe": 105826.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SF0739B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben H2FLEX: Katalysator-Entwicklung und Optimierung zur nachhaltigen Synthese von Methanol aus CO2 sowie CO2-reichen Substratströmen und regenerativ gewonnenem Wasserstoff.",
+"von": "2024-05-01",
+"bis": "2027-04-30",
+"summe": 377390.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SF0789B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben C2C3-L-MeOH: Methanolsynthese aus industriellen CO2 Abgasströmen",
+"von": "2025-01-01",
+"bis": "2028-12-31",
+"summe": 939700.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -141,6 +222,11 @@
 "stand": "2026-06-24",
 "etikett": "Eigenangabe",
 "version": 13
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

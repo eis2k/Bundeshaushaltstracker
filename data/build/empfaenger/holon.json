@@ -37,7 +37,38 @@
 }
 ],
 "lobby_untergrenze_bund": 2230002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "45AVF3D041",
+"ressort": "BMV",
+"epl": "12",
+"thema": "Integration von autonomen Fahrzeugen in Mobilitätsanwendungen",
+"von": "2023-10-23",
+"bis": "2027-06-30",
+"summe": 7136862.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01ME2618MI",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: MILA.mobility - Middleware-Integration von Leitstellen- und Dispositionssystemen für Autonome Mobilität, Teilvorhaben: Herstellerseitige Integration und Erprobung autonomer ÖPNV-Shuttles im Testfeld KIRAplus",
+"von": "2026-08-01",
+"bis": "2030-03-31",
+"summe": 5448790.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "19S23003H",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: NeMo.bil - System kooperierender Fahrzeuge für einen individualisierten Öffentlichen Verkehr, Teilvorhaben: Skalierbare E-Achse, Fahrwerk, Lenkungssystem, Bremssystem, Fahrzeugauslegung",
+"von": "2023-07-01",
+"bis": "2026-06-30",
+"summe": 1840180.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -100,6 +131,11 @@
 "stand": "2026-07-01",
 "etikett": "Eigenangabe",
 "version": 3
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

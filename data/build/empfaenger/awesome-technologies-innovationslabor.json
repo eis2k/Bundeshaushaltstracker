@@ -37,7 +37,38 @@
 }
 ],
 "lobby_untergrenze_bund": 10610002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EE3077B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: WISP - Windkraftanlagen Inspektion, Teilvorhaben: Vermessungs-Payload und Bodenstation",
+"von": "2022-12-01",
+"bis": "2026-03-31",
+"summe": 359404.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03DPC0213E",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "DATIpilot - Community - CIP - Pflege-KIonTour, TP5: Integration KI-Agenten",
+"von": "2026-05-01",
+"bis": "2027-10-31",
+"summe": 50190.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SV9146",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "HILDE: Haptische Interfaces für Lebendige Erfahrungen",
+"von": "2023-05-01",
+"bis": "2026-07-31",
+"summe": 145289.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -99,6 +130,11 @@
 "stand": "2026-05-17",
 "etikett": "Eigenangabe",
 "version": 1
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

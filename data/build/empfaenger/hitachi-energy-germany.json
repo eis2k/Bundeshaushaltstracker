@@ -29,7 +29,18 @@
 }
 ],
 "lobby_untergrenze_bund": 640001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03SFK1G0-3",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben ENSURE3: ENSURE - Neue EnergieNetzStruktURen für die Energiewende - Teilvorhaben Hitachi Energy",
+"von": "2023-08-01",
+"bis": "2026-12-31",
+"summe": 1277179.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -147,6 +158,11 @@
 "stand": "2026-09-21",
 "etikett": "Eigenangabe",
 "version": 11
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

@@ -53,7 +53,58 @@
 }
 ],
 "lobby_untergrenze_bund": 1510004,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "16KIS2069",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Sicheres industriell anwendbares genormtes HSM basierend auf offenen EDA-Tools und Prozessoren - DI-SIGN-HEP -",
+"von": "2024-06-01",
+"bis": "2027-05-31",
+"summe": 121828.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16ME1052",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Fortschrittliche Aufbau- und Verbindungstechnologien für hohe Zuverlässigkeit in Automobil, Industrie und Energieversorgung - HyPACT -",
+"von": "2025-07-01",
+"bis": "2028-06-30",
+"summe": 300000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0508",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Europäische Technologieplattform für heterogene Systemintegration - E2PACKMAN -",
+"von": "2025-07-01",
+"bis": "2028-06-30",
+"summe": 271026.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16ME1157K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Quelloffener Entwurfsflow für die Heterointegration von elektronisch-photonischen Systemen - DI-CHOPS -",
+"von": "2026-02-01",
+"bis": "2029-01-31",
+"summe": 272552.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16IPCEI229",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Vertrauenswürdige europäische Mikroelektronikfertigung von innovativen Speicherkomponenten für kritische Systeme - TruE-MeM",
+"von": "2022-10-21",
+"bis": "2027-03-31",
+"summe": 6577646.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -126,6 +177,11 @@
 "stand": "2026-07-17",
 "etikett": "Eigenangabe",
 "version": 4
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

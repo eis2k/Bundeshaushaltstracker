@@ -45,7 +45,48 @@
 }
 ],
 "lobby_untergrenze_bund": 940003,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03DPS1281B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "DATIPilot - Sprint - SURVIVE: Schnelle und zuverlässige Diagnose des kardiogenen und septischen Schocks mittels DPP3-Bluttest in der Akut- und Notfallmedizin, TP B",
+"von": "2024-09-01",
+"bis": "2026-02-28",
+"summe": 149222.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03LWB0015A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "KMUi-Biomedizin-7: Klinische Evaluation eines neuartigen DPP3-neutralisierenden Antikörpers (Procizumab) in einer Phase-2a-Studie bei kardiogenem Schock (SURVIVE-CS)",
+"von": "2026-07-01",
+"bis": "2029-06-30",
+"summe": 1582559.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16IS26043B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "KMUi38: Integriertes Qualitätsmanagement durch agentische Prozessautomatisierung (Gru-KI)",
+"von": "2026-08-01",
+"bis": "2029-01-31",
+"summe": 161040.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16IS24002B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "KMU-innovativ - Verbundprojekt ComplianceControl: Management von IT-Compliance durch Object-Centric Process Mining (OCPM)",
+"von": "2024-04-01",
+"bis": "2027-03-31",
+"summe": 128145.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -130,6 +171,11 @@
 "stand": "2026-02-16",
 "etikett": "Eigenangabe",
 "version": 1
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

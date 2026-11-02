@@ -29,7 +29,18 @@
 }
 ],
 "lobby_untergrenze_bund": 3040001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "67K28040",
+"ressort": "BMUKN",
+"epl": "16",
+"thema": "KSI: Einführung eines EMS für den kompletten Wohnungs- und Gebäudebestand der Wohnungsbau Ludwigsburg GmbH",
+"von": "2025-10-01",
+"bis": "2028-09-30",
+"summe": 191101.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -81,6 +92,11 @@
 "stand": "2025-08-28",
 "etikett": "Eigenangabe",
 "version": 4
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

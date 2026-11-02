@@ -29,7 +29,18 @@
 }
 ],
 "lobby_untergrenze_bund": 2340001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "M532703",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Auf- und Ausbau des Direktorats der Nationalen Forschungsdateninfrastruktur (NFDI)",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 7499682.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -168,6 +179,11 @@
 "stand": "2026-07-24",
 "etikett": "Eigenangabe",
 "version": 13
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

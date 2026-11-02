@@ -45,7 +45,38 @@
 }
 ],
 "lobby_untergrenze_bund": 9020003,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03B10706A",
+"ressort": "BMV",
+"epl": "12",
+"thema": "NIP II - FuE - Verbund: Entwicklung eines Wasserstoff-Brennstoffzellen-Stacks für die Anwendung im Hauptantrieb für Fluganwendungen",
+"von": "2021-09-01",
+"bis": "2026-02-28",
+"summe": 17050076.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20M2419B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Entwicklung zur Effizienzsteigerung und mechanischen Stabilisierung eines LT-PEM-Brennstoffzellenstacks",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 4847150.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20M2423",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Stack-Performance-Leverage - Erhöhung der Leistungsdichte des Brennstoffzellen-Stapels über ausgewählte Technologiebausteine",
+"von": "2026-04-01",
+"bis": "2029-03-31",
+"summe": 4691500.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -120,6 +151,11 @@
 "stand": "2026-06-11",
 "etikett": "Eigenangabe",
 "version": 7
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

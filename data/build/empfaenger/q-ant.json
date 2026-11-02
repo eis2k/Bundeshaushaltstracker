@@ -69,7 +69,28 @@
 }
 ],
 "lobby_untergrenze_bund": 3630006,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "01N124121A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Lithiumniobat-Dünnschichtsubstrate und Strukturierung von Bausteinen für die integrierte Quantenoptik (LichtBriQ) - Teilvorhaben: Etablierung und Integration der photonischen Plattform für LNOI",
+"von": "2024-07-01",
+"bis": "2027-06-30",
+"summe": 4555591.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N121222A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Photonische Quantencomputer (PhoQuant) - Teilvorhaben: Quantenphotonischer Prozessor",
+"von": "2022-01-01",
+"bis": "2027-06-30",
+"summe": 4274111.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -133,6 +154,11 @@
 "stand": "2026-10-14",
 "etikett": "Eigenangabe",
 "version": 6
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

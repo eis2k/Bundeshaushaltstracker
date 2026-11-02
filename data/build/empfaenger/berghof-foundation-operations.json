@@ -61,7 +61,18 @@
 }
 ],
 "lobby_untergrenze_bund": 7510005,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "13N17263",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Monitoringsystem und Transferplattform Radikalisierung (MOTRA II) - Teilvorhaben: Expert:innenpanels",
+"von": "2025-02-01",
+"bis": "2028-03-31",
+"summe": 330660.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -135,6 +146,11 @@
 "stand": "2026-08-03",
 "etikett": "Eigenangabe",
 "version": 12
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

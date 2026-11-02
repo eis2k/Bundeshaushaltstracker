@@ -101,7 +101,88 @@
 }
 ],
 "lobby_untergrenze_bund": 690010,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EN3067E",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: EnEff:Wärme: Optinetz_Bosbuell - Betriebsoptimierung des Wärmenetzes einschließlich der Nutzung von Strom aus EE und Abwärme aus der Wasserstoffproduktion in Bosbüll, Teilvorhaben: Datennormalisierung und Bereitstellung",
+"von": "2022-11-01",
+"bis": "2026-10-31",
+"summe": 167970.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN3077G",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: EnEff:Stadt: NEED - Neue Daten für die Energiewende, Teilvorhaben: Anbindung an ein Netzleitsystem",
+"von": "2023-09-01",
+"bis": "2027-08-31",
+"summe": 344136.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI6108A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: MeGA - Messsysteme für Großerzeugungs-Anlage, Teilvorhaben: Erweiterung der Backend-Architektur",
+"von": "2023-10-01",
+"bis": "2027-03-31",
+"summe": 1097797.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03TNW019D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "DPP4.0-basierte Digitalisierung in der Energiewirtschaft von Produktgruppen, Anlagen und Prozessen",
+"von": "2026-06-01",
+"bis": "2028-05-31",
+"summe": 197192.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI6095A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: CACTUS - Connect, Assist & Control: Transparenz und Systemstabilität für Smart Energy Systeme, Teilvorhaben: VIVAVIS",
+"von": "2023-01-01",
+"bis": "2026-06-30",
+"summe": 247584.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI6118B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: PICNIC - Powerquality Improvement by deCeNtralized IntelligenCe, Teilvorhaben: Messwertaufnahme",
+"von": "2024-06-01",
+"bis": "2027-05-31",
+"summe": 251390.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI6127E",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "DiGO 2.0 - Distribution and Optimisation 2.0, Teilprojekt: evidenzbasierte Netzplanungs-Werkzeuge",
+"von": "2025-01-01",
+"bis": "2028-12-31",
+"summe": 867235.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EIM4116",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Mikroprojekt: OPium - Optimierte Platzierung intelligenter Überwachungsmessstellen",
+"von": "2025-11-01",
+"bis": "2026-10-31",
+"summe": 99978.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -196,6 +277,11 @@
 "stand": "2025-12-19",
 "etikett": "Eigenangabe",
 "version": 12
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

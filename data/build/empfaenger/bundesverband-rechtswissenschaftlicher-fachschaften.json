@@ -29,7 +29,18 @@
 }
 ],
 "lobby_untergrenze_bund": 10001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "16PM516226",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Förderung hochschulpolitischer zentraler Maßnahmen studentischer Verbände und anderer Organisationen",
+"von": "2025-11-01",
+"bis": "2026-07-31",
+"summe": 28560.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -243,6 +254,11 @@
 "stand": "2026-07-01",
 "etikett": "Eigenangabe",
 "version": 13
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

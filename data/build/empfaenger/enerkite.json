@@ -45,7 +45,28 @@
 }
 ],
 "lobby_untergrenze_bund": 420003,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EE3110A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: EKElevate - Erforschung und Konzeption von EnerKite-Gesamtanlagen bis zur vorkommerziellen Reife und Systemintegration mittels datengesteuerter und automatisierter Prozesse, Teilvorhaben: Errichtung & Dauerbetrieb skalierbarer Höhenwindanlage: Integration in Planungstools & Genehmigungspraxis",
+"von": "2024-07-01",
+"bis": "2027-06-30",
+"summe": 767166.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE3124A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: WingScale - Hochratenfähige und automatisierte Fertigungstechnologien für ultraleichte Hochleistungsflügel von Flugwindenergieanlagen, Teilvorhabentitel: Auslegung der Fertigungsprozesse vor dem Hintergrund des Flügeldesigns und Erprobung der Fertigungstechnologien",
+"von": "2025-06-01",
+"bis": "2028-05-31",
+"summe": 498654.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -108,6 +129,11 @@
 "stand": "2026-06-09",
 "etikett": "Eigenangabe",
 "version": 2
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

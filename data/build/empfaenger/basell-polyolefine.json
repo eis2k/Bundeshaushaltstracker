@@ -29,7 +29,18 @@
 }
 ],
 "lobby_untergrenze_bund": 2640001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "13XP5213C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Adaptive Strukturbildung unter tribologischer Belastung von Antriebskomponenten aus sortenreinen Kompositen (AdapTribo-2) - Teilvorhaben: Darstellung von Mehrzentrenkatalysatorsystemen für die Polymerisation Nanophasen-separierter UHMWPE-PE-Reaktorblends mit gesteigertem UHMWPE-Anteil",
+"von": "2024-09-01",
+"bis": "2027-08-31",
+"summe": 138750.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -168,6 +179,11 @@
 "stand": "2026-10-16",
 "etikett": "Eigenangabe",
 "version": 19
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

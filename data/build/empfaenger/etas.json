@@ -29,7 +29,38 @@
 }
 ],
 "lobby_untergrenze_bund": 1490001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "13IPC021B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "IPCEI-CIS: Cyber-Physical Systems (CPS) Cloud Continuum - Absicherung und Validierung des Edge-Cloud-Kontinuums (MP-CEC) für sicherheitskritische automobile Anwendungen und das Software Defined Vehicle (SDV)",
+"von": "2026-01-01",
+"bis": "2026-11-30",
+"summe": 657122.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0456",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Hardwareabstraktionsschicht für das Software-definierte Automobil der Zukunft - HAL4SDV -",
+"von": "2024-06-01",
+"bis": "2027-05-31",
+"summe": 403034.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0515",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Europäische Softwarearchitektur und Entwicklungswerkzeuge für das Automobil der Zukunft - Shift2SDV -",
+"von": "2025-07-01",
+"bis": "2028-06-30",
+"summe": 325225.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -103,6 +134,11 @@
 "stand": "2026-07-23",
 "etikett": "Eigenangabe",
 "version": 3
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

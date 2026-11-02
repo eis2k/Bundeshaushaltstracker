@@ -61,7 +61,378 @@
 }
 ],
 "lobby_untergrenze_bund": 15630005,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "45AOV1001M",
+"ressort": "BMV",
+"epl": "12",
+"thema": "Weiterentwicklung und Optimierung des öffentlichen Personennahverkehrs durch Automatisierung und digitale Vernetzung. Aufbau eines Ridepoolingsystems mit 3 bis 5 automatisierten Fahrzeugen im On-Demand (OD) Betrieb und Linienbetrieb eines automatisierten Solobusses und zweier Bus-Platoons in München.",
+"von": "2023-03-30",
+"bis": "2027-06-30",
+"summe": 1380167.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "19DZ24001B",
+"ressort": "BMV",
+"epl": "12",
+"thema": "Verbundprojekt: C2CBridge2 - Country to City Bridge - Erprobung und Evaluation der Konzepte, Karlsruhe, Teilvorhaben: FZI Forschungszentrum Informatik",
+"von": "2024-08-01",
+"bis": "2027-07-31",
+"summe": 2164283.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "19DZ23003B",
+"ressort": "BMV",
+"epl": "12",
+"thema": "Verbundprojekt: C2CBridge1 - Country to City Bridge - Analyse und funktionale Konzepte, Karlsruhe, Teilvorhaben: FZI Forschungszentrum Informatik",
+"von": "2024-01-01",
+"bis": "2027-06-30",
+"summe": 701501.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03FHP132B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Aufbau und Implementierung des House of Talents zur Einführung neuer Qualifizierungswege zur Professur und Ausgestaltung des Professurportfolios an der HHN, Teilvorhaben: Tandem-Maßnahmen KI-Sensoranalyse und Kognitive Systeme",
+"von": "2023-11-01",
+"bis": "2027-03-31",
+"summe": 459638.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0334",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Open-Source RISC-V-Ökosystem für Prozessoren in hoch-performanten und sicherheitskritischen Anwendungen - ISOLDE -",
+"von": "2023-05-01",
+"bis": "2026-10-31",
+"summe": 396902.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS1737",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "KMU-innovativ Verbundprojekt: Generierung Seitenkanalfreier Software für Eingebettete Systeme - FreeSBee -",
+"von": "2023-02-01",
+"bis": "2026-04-30",
+"summe": 658258.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "02WDG1755A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Digital GreenTech-Robotik - Wissenschaftliches Begleitvorhaben BRIDGE: Begleitvorhaben mit integrativer Betrachtung von Robotik, Informationsrecht, Dissemination, Green-Tech und Ethik, Teilprojekt 1",
+"von": "2025-11-01",
+"bis": "2028-10-31",
+"summe": 680124.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN1078C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: EnOB: Hybrenergy - Entwicklung eines Verfahrens zum Aufbau eines dynamischen hybriden Zwillings von Gebäuden zur Energieeffizienzsteigerung durch datengetriebene Planung, Umsetzung, Nutzung und Sanierung, Teilvorhaben: Datenmodell - Fusion, Analyse, Visualisierung großer heterogener Datenmengen",
+"von": "2023-10-01",
+"bis": "2026-09-30",
+"summe": 492867.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN6035C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: FlexBlue - Flexible Kälteversorgungssysteme vor dem Hintergrund zunehmender Dekarbonisierung, Teilvorhaben: Datengetriebene Modellierung und Entwicklung generischer Algorithmen zur skalierbaren Fahrplanoptimierung heterogener Kälteanwendungen",
+"von": "2024-01-01",
+"bis": "2027-06-30",
+"summe": 463431.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13IK032G",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Die modulare Toolbox für flexible mobile Robotik kleinerer und mittlerer Automotive-Zulieferer (FlexTools) - Teilvorhaben: IT-Systeme zur Systemkoordination für anpassungsfähige AMR",
+"von": "2023-09-01",
+"bis": "2026-08-31",
+"summe": 874512.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "02L19C722",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Bausteine für einen professionellen Wissens- und Technologietransfer (Next_KARL), Teilprojekt: KI-gestützte Transferinfrastruktur für dynamischen Wissenszugang",
+"von": "2026-06-01",
+"bis": "2026-12-31",
+"summe": 442422.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13N16540",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Kompetenzzentrum: Robotersysteme für die Dekontamination in menschenfeindlichen Umgebungen Phase II (ROBDEKON II) - Teilvorhaben: Assistenzsysteme und KI-Methoden für die Dekontamination mit Robotern",
+"von": "2022-12-01",
+"bis": "2026-11-30",
+"summe": 978588.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SV9387",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "VINNIE: Verhaltenstherapeutisches KI-Spielzeug für Kinder und Jugendliche mit psychosomatischen Beschwerden",
+"von": "2025-03-01",
+"bis": "2028-02-29",
+"summe": 339805.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SV9519",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "HELIA: Helfender Roboter im Klinikalltag",
+"von": "2025-10-01",
+"bis": "2028-09-30",
+"summe": 591179.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01MQ25001D",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: FullStaQD - Full Stack Quantencomputing für Deutschland, Teilvorhaben: Domänenorientierte Problemformulierung für Quantenlösungen",
+"von": "2025-12-01",
+"bis": "2029-05-31",
+"summe": 639229.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01ME2624MI",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: MILA.mobility - Middleware-Integration von Leitstellen- und Dispositionssystemen für Autonome Mobilität, Teilvorhaben: Testsiteübergreifende Integration autonomer Fahrzeuge in den ÖPNV",
+"von": "2026-08-01",
+"bis": "2030-03-31",
+"summe": 785501.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "50RA2404",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "intelliRISK3 - Robuste Langzeitautonomie für selbstbewusste Roboterteams",
+"von": "2024-07-01",
+"bis": "2028-06-30",
+"summe": 1300074.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "19A23014J",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: nxtAIM - NXT GEN AI METHODS: Generative Methoden für Perzeption, Prädiktion und Planung, Teilvorhaben: Skalierte Weltmodelle",
+"von": "2024-01-01",
+"bis": "2026-12-31",
+"summe": 2597846.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01MS23001B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Transferstelle Cybersicherheit, Teilvorhaben: Detektion und Reaktion",
+"von": "2023-07-01",
+"bis": "2027-06-30",
+"summe": 1721957.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01MS26001B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt FERN-KOMPASS Teilvorhaben: FZI",
+"von": "2026-04-01",
+"bis": "2029-03-31",
+"summe": 521914.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "19A23003H",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: jbDATA - effiziente und charakteristische Datenerzeugung, Teilvorhaben: Corner Cases, Smart Data Capturing und Augmentierung",
+"von": "2023-07-01",
+"bis": "2026-06-30",
+"summe": 2201263.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "19A23002I",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: RepliCar - Referenzsensorik zur hochpräzisen Sensorvalidierung für das automatisierte Fahren, Teilvorhaben: Einbindung in die Gesamtmethodik",
+"von": "2023-07-01",
+"bis": "2026-06-30",
+"summe": 1012841.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "02L19C253",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Kompetenzzentrum KARL - Künstliche Intelligenz für Arbeit und Lernen in der Region Karlsruhe (KARL), Teilprojekt: ERB - Einführungsprozesse und rechtliche Betrachtung",
+"von": "2021-07-01",
+"bis": "2026-03-31",
+"summe": 1039489.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0468",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Hardwareabstraktionsschicht für das Software-definierte Automobil der Zukunft - HAL4SDV -",
+"von": "2024-06-01",
+"bis": "2027-05-31",
+"summe": 199004.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0547",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Europäische RISC-V Hardware-Plattform für hochleistungsfähige Automobil-Prozessoren - RIGOLETTO -",
+"von": "2025-07-01",
+"bis": "2028-06-30",
+"summe": 276166.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0517",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Europäische Softwarearchitektur und Entwicklungswerkzeuge für das Automobil der Zukunft - Shift2SDV -",
+"von": "2025-07-01",
+"bis": "2028-06-30",
+"summe": 626742.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16ME1082",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Energieeffiziente hybride KI-Perzeption mit neuromorpher und klassischer Elektronik für mobile Plattformen - HybridNeuroPerception -",
+"von": "2025-08-01",
+"bis": "2028-07-31",
+"summe": 614803.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16ME1166K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Offene Design-Methodik zur Standardisierung und Automatisierung der IP-Integration in Chip-Architekturen - DI-FITS -",
+"von": "2026-02-01",
+"bis": "2029-01-31",
+"summe": 569569.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "19DNS2601P",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: BRAVE10k - Bedingungen für die Rahmenausschreibung, Abwicklung, Verkehrszulassung & Einführung von mehr als 10.000 öffentlichen autonomen Fahrzeugen, Teilvorhaben: Autonome Fahrfunktion, Analyse Leitstand und technische Aufsicht",
+"von": "2026-07-01",
+"bis": "2029-06-30",
+"summe": 740409.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "19A24004N",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Safe AI Engineering - Sicherheitsargumentation befähigendes AI Engineering über den gesamten Lebenszyklus einer KI-Funktion, Teilvorhaben: Erklärbarkeit, Überwachung und Datengrundlage",
+"von": "2025-03-01",
+"bis": "2028-02-29",
+"summe": 668325.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "19DNS2505B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: EM 4.0 - BuildUp - Erforschung und Konzeption einer Plattform für skalierbare Mobilitätssysteme, Teilvorhaben: Entwicklung, Aufbau und Organisationsstruktur der Plattform",
+"von": "2026-01-01",
+"bis": "2026-12-31",
+"summe": 178632.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS2503K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Anonymisierung für vernetzte Mobilitätssysteme - ANYMOS II -",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 2297044.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS2514K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Kulturalisierungssensible KI-Assistenz für eine desinformationsresiliente multilinguale Gesellschaft - kuKI -",
+"von": "2026-03-15",
+"bis": "2029-03-31",
+"summe": 1414494.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16IS22084B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt GenerIoT: Generating and Deploying Lightweight, Secure and Zero-overhead Software for Multipurpose IoT Devices",
+"von": "2022-11-01",
+"bis": "2026-04-30",
+"summe": 701680.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16IS26029A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "IKTexplorativ: Entwicklung einer modellbasierten Engineering Methodik für softwaredefinierte Mobilitätssysteme (COSMOS) - Modellbasierter Entwurf verteilter Softwarearchitekturen",
+"von": "2026-04-01",
+"bis": "2029-03-31",
+"summe": 809381.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI4090I",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: AMAZING - Automatisierte Modellierung, Analyse und Zustandsschätzung mittels Intelligenter Netzalgorithmen und Graphenmethoden, Teilvorhaben: Robuste, Modulare und Skalierbare IT Komponenten",
+"von": "2024-10-01",
+"bis": "2027-09-30",
+"summe": 933931.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01ME23002E",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: MediCar4.0 - Hochautomatisierte E-Fahrzeugsysteme für On-Demand-Transportprozesse in Krankenhäusern nach dem Plug&Work-Ansatz der Industrie 4.0, Teilvorhaben: KI-gestützte Systemgestaltung und Optimierung",
+"von": "2023-09-01",
+"bis": "2026-08-31",
+"summe": 827808.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -190,6 +561,11 @@
 "stand": "2026-09-04",
 "etikett": "Eigenangabe",
 "version": 47
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

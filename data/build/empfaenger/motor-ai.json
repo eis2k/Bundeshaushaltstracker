@@ -29,7 +29,28 @@
 }
 ],
 "lobby_untergrenze_bund": 4530001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "45AVF7E051",
+"ressort": "BMV",
+"epl": "12",
+"thema": "Modulares Konzept des hochverfügbar automatisierten U-Shift-Systems für innovative, barrierefreie, kombinierte Mobilitäts- und Logistikangebote Made in Germany",
+"von": "2024-12-13",
+"bis": "2027-12-31",
+"summe": 10716514.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01ME2615MI",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: MILA.mobility - Middleware-Integration von Leitstellen- und Dispositionssystemen für Autonome Mobilität Teilvorhaben: MILA-MAi - Middleware-Anbindung Autonomer Fahrzeuge im Testfeld VLP",
+"von": "2026-08-01",
+"bis": "2030-03-31",
+"summe": 423929.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -132,6 +153,11 @@
 "stand": "2026-05-28",
 "etikett": "Eigenangabe",
 "version": 5
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

@@ -29,7 +29,18 @@
 }
 ],
 "lobby_untergrenze_bund": 2790001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "16ME0440",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Datenfunknetz mit Adaptivhardware und KI-Optimierung zur Reduktion des Energieverbrauches - DAKORE-GreenICT -",
+"von": "2022-07-01",
+"bis": "2026-06-30",
+"summe": 76716.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -152,6 +163,11 @@
 "stand": "2026-08-31",
 "etikett": "Eigenangabe",
 "version": 8
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

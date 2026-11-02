@@ -29,7 +29,18 @@
 }
 ],
 "lobby_untergrenze_bund": 470001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03XP0552D",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "DemoRec - Entwicklung einer industriellen Batterierecycling-Prozessstraße zur automatischen Zustandsklassifizierung, Entladung und robotergestützten Gehäusedemontage von gebrauchten hochkapazitativen Li-Ionen Batterien",
+"von": "2023-09-01",
+"bis": "2026-08-31",
+"summe": 396542.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -81,6 +92,11 @@
 "stand": "2026-06-10",
 "etikett": "Eigenangabe",
 "version": 9
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

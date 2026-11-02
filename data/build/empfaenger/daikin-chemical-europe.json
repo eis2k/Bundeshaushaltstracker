@@ -37,7 +37,38 @@
 }
 ],
 "lobby_untergrenze_bund": 80002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03XPB051E",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "DRY-GI - Dry Coating Goes Industry",
+"von": "2026-06-01",
+"bis": "2029-05-31",
+"summe": 273656.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03XPB053D",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "ReTroLIB - (Direkt-)Recycling von Trockenprozessierten LIB-Elektroden",
+"von": "2026-06-01",
+"bis": "2029-05-31",
+"summe": 144768.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03XP0557E",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "NIBlog - Natrium-Ionen Batterien zur Anwendung in der Intralogistik: von der skalierbaren Kathoden-Aktivmaterialherstellung bis zur Prototypzelle",
+"von": "2023-12-01",
+"bis": "2026-11-30",
+"summe": 221360.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -198,6 +229,11 @@
 "stand": "2026-10-01",
 "etikett": "Eigenangabe",
 "version": 19
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

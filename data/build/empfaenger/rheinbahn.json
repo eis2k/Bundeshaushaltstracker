@@ -29,7 +29,18 @@
 }
 ],
 "lobby_untergrenze_bund": 60001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03TB4036E",
+"ressort": "BMV",
+"epl": "12",
+"thema": "75 Batteriebusse (35 Solo + 40 Gelenk) für die Rheinbahn AG Düsseldorf",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 14999390.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -102,6 +113,11 @@
 "stand": "2026-08-26",
 "etikett": "Eigenangabe",
 "version": 6
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

@@ -45,7 +45,58 @@
 }
 ],
 "lobby_untergrenze_bund": 40003,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03ZU1209HB",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "QVLS-iLabs: Integration von Elektronikkomponenten in einem Glas-Interposer mit Saphir-ähnlicher Wärmeleitfähigkeit (INTEGER) - B",
+"von": "2023-03-15",
+"bis": "2026-03-14",
+"summe": 104607.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ZU2209FA",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "QVLS-iLabs: Industrielle Wertschöpfungskette für die Automatisierte Integration von Ionenfallen-Quantenprozessoren (AMETIQ) - A",
+"von": "2026-03-15",
+"bis": "2029-03-14",
+"summe": 167926.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ZU2209LA",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "QVLS-iLabs: Cloud-Zugriff auf ionenfallenbasierte Quantencomputer (CLIQC) - A",
+"von": "2026-03-15",
+"bis": "2029-03-14",
+"summe": 1067584.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N125010A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Hybride Architektur für Ionenfallen-Quantenprozessoren mit integrierter CMOS-Elektronik (QuSTAC) - Teilvorhaben: Design und Fabrikation von Quantenprozessoren in hybrider Architektur mit Ionenfallen- und CMOS-Technologie",
+"von": "2025-09-01",
+"bis": "2028-08-31",
+"summe": 8021448.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N125008A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Integrierte Wellenleiter auf Saphirsubstraten für Ionenfallen Quantencomputer (SmaraQ) - Teilvorhaben: Design und Charakterisierung integrierter Wellenleiter und photonischer Kopper für Ionenfallen Quantencomputer",
+"von": "2025-09-01",
+"bis": "2028-08-31",
+"summe": 1235769.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -130,6 +181,11 @@
 "stand": "2026-07-01",
 "etikett": "Eigenangabe",
 "version": 5
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

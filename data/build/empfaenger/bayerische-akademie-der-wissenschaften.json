@@ -37,7 +37,158 @@
 }
 ],
 "lobby_untergrenze_bund": 26850002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "01N15689",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Digital-Analoge Quantencomputer (DAQC) - Teilvorhaben: DAQC und HPC Integration",
+"von": "2021-02-01",
+"bis": "2026-02-28",
+"summe": 6587096.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N124228C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Prozessinnovation für Supraleitende Quantenschaltkreise mit verbesserter Charakterisierung (QuantumSPICE) - Teilvorhaben: Optimierung, Skalierung und Reproduzierbarkeit",
+"von": "2024-11-01",
+"bis": "2027-10-31",
+"summe": 1254790.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N125266A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Quantum Exzellence Centre (QUEX) - Teilvorhaben: Softwarespezialisierungen für QUEX Use Cases",
+"von": "2025-07-01",
+"bis": "2029-06-30",
+"summe": 513587.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N125112C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Kryogene photonische Mikrowellengeneration für supraleitende Quantenschaltkreise (KRYOWAVE) - Teilvorhaben: Inbetriebnahme und Charakterisierung von supraleitenden Qubits unter optischer Ansteuerung",
+"von": "2025-10-01",
+"bis": "2028-09-30",
+"summe": 741045.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N123136B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Multikern Atomare Quantencomputing Systeme (MAQCS) - Teilvorhaben: Integration eines Neutral-Atom Systems in ein Rechenzentrum",
+"von": "2023-12-01",
+"bis": "2027-11-30",
+"summe": 1385470.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N123197",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Europäisches Quantencomputing für Exascale-HPC",
+"von": "2023-09-01",
+"bis": "2028-08-31",
+"summe": 13479230.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N121139H",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Munich Quantum Valley Quantencomputer Demonstratoren - Supraleitende Qubits (MUNIQC-SC) - Teilvorhaben: HPC-Systemintegration und Cloudzugang",
+"von": "2022-01-01",
+"bis": "2026-12-31",
+"summe": 2154620.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N121134K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: MQV Neutral-Atom Quantum Computing Demonstrator (MUNIQC-Atoms) - Teilvorhaben: HPC und Cloud Integration",
+"von": "2022-01-01",
+"bis": "2026-12-31",
+"summe": 2425288.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16HPC113",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Digitale Zwillinge des menschlichen Körpers für Exascale Supercomputer - dealii-X -",
+"von": "2025-01-01",
+"bis": "2026-12-31",
+"summe": 146937.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16HPC108",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Software for Efficient and Energy-Aware Supercomputers - SEANERGYS -",
+"von": "2025-10-01",
+"bis": "2029-05-31",
+"summe": 892259.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16HPC126",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Al Factory zum Betrieb einer KI-optimierten Infrastruktur und Services für Fertigung, Ingenieurswissenschaften und Forschung @ HLRS - HammerHAI -",
+"von": "2025-07-01",
+"bis": "2028-03-31",
+"summe": 464087.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16HPC136",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Europäisches Netzwerk nationaler Kompetenzzentren für Höchstleistungsrechnen im EuroHPC - EuroCC-3 -",
+"von": "2026-04-01",
+"bis": "2029-03-31",
+"summe": 83487.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS2631",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Skalierbare, offene und umfassende Erkennung von Desinformationskampagnen im Web - SOURCE -",
+"von": "2026-04-01",
+"bis": "2029-03-31",
+"summe": 705824.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16IS24067B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt Ethyde: Ethische Implikationen hybrider Teams aus Mensch und KI-System",
+"von": "2024-08-01",
+"bis": "2027-07-31",
+"summe": 566400.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N124228D",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Prozessinnovation für Supraleitende Quantenschaltkreise mit verbesserter Charakterisierung (QuantumSPICE) - Teilvorhaben: Optimierung, Skalierung und Reproduzierbarkeit",
+"von": "2025-11-01",
+"bis": "2027-10-31",
+"summe": 6034170.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -304,6 +455,11 @@
 "stand": "2026-03-11",
 "etikett": "Eigenangabe",
 "version": 1
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

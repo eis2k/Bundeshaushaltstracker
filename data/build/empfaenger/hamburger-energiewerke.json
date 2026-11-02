@@ -53,7 +53,58 @@
 }
 ],
 "lobby_untergrenze_bund": 6970004,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EN3064B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: EnEff:Wärme: CTRL-Peaks - Spitzenlastreduktion im Fernwärmesystem Hamburg durch Anpassung der kundenseitigen Regelung, Teilvorhaben: Prototypische Umsetzung",
+"von": "2022-04-01",
+"bis": "2026-06-30",
+"summe": 281819.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN3147B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: CTRLPeaks2 - Spitzenlastreduktion im Fernwärmesystem Hamburg durch Anpassung der kundenseitigen Regelung, Teilvorhaben: Betriebsverhalten",
+"von": "2026-07-01",
+"bis": "2029-06-30",
+"summe": 389567.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EWR006SB",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Reallabor: IW3 - Integrierte WärmeWende Wilhelmsburg, Teilverbundvorhaben: IWs-UBH - Systemintegration, Teilvorhaben: Wärmewende im Stadtquartier - Demonstrator für ein regeneratives Energieverbundsystem in Hamburg-Wilhelmsburg",
+"von": "2020-08-01",
+"bis": "2027-02-28",
+"summe": 2782069.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EWR007R2",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Reallabor: NRL - Norddeutsches Reallabor, Teilvorhaben: Integrierte Netzplanung, Aquiferspeicher, Wärme HH",
+"von": "2021-04-01",
+"bis": "2026-03-31",
+"summe": 239602.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EWR006SF",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Reallabor: IW3 - Integrierte WärmeWende Wilhelmsburg, Teilverbundvorhaben: IWs-FUE - Systemintegration, Teilvorhaben: Wärmewende im Stadtquartier - Demonstrator für ein regeneratives Energieverbundsystem in Hamburg-Wilhelmsburg",
+"von": "2023-01-15",
+"bis": "2027-02-28",
+"summe": 701303.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -171,6 +222,11 @@
 "stand": "2026-06-24",
 "etikett": "Eigenangabe",
 "version": 16
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

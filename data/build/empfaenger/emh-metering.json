@@ -29,7 +29,18 @@
 }
 ],
 "lobby_untergrenze_bund": 1030001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EI6109A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: PISA - Performance in SMGW Applications, Teilvorhaben: Entwicklung eines SMGW basierten Messsystems zum zentralen Sicherheitsanker am Netzanschluss - in Anwendungen des intelligenten Messsystems für Erzeugungs- und Verbrauchsanlagen > 100 kW.",
+"von": "2023-12-01",
+"bis": "2026-11-30",
+"summe": 1833831.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -81,6 +92,11 @@
 "stand": "2026-07-06",
 "etikett": "Eigenangabe",
 "version": 4
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

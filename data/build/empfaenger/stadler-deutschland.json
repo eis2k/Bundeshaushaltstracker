@@ -29,7 +29,28 @@
 }
 ],
 "lobby_untergrenze_bund": 710001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03TZ1006D",
+"ressort": "BMV",
+"epl": "12",
+"thema": "HyRaLo_Stadler_1Schienenfahrzeug",
+"von": "2022-01-01",
+"bis": "2026-12-31",
+"summe": 240000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EMF0403A",
+"ressort": "BMV",
+"epl": "12",
+"thema": "Verbundvorhaben/ MOSENAS: Modularer skalierbarer Energiespeicher für einen nachhaltigen Schienenpersonennahverkehr",
+"von": "2022-01-01",
+"bis": "2026-06-30",
+"summe": 2883270.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -125,6 +146,11 @@
 "stand": "2026-09-11",
 "etikett": "Eigenangabe",
 "version": 12
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

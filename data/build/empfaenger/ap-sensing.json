@@ -29,7 +29,28 @@
 }
 ],
 "lobby_untergrenze_bund": 20001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "01N123073A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Hybrid Integrated Light Sources for Optical Metrology and Sensor Systems (HILYTE) - Teilvorhaben: Systemintegration und Funktionsdemonstration in der Fasersensorik",
+"von": "2024-04-01",
+"bis": "2027-03-31",
+"summe": 278698.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI6155B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: Faseroptische Sensornetzwerke zur Windmessung für den Witterungsabhängigen Freileitungsbetrieb, Teilvorhaben: Rein optische Bestimmung von Windgeschwindigkeit und -richtung und Entwicklung des Sensorsystems",
+"von": "2026-03-01",
+"bis": "2029-02-28",
+"summe": 914175.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -103,6 +124,11 @@
 "stand": "2026-06-03",
 "etikett": "Eigenangabe",
 "version": 2
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

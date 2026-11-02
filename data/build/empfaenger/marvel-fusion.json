@@ -45,7 +45,58 @@
 }
 ],
 "lobby_untergrenze_bund": 650003,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "13F1000C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Optische Materialien und Komponenten als Basis für effiziente Hochenergielaser für die Trägheitsfusion (PriFUSIO) - Teilvorhaben: Spezifizierung der Anforderungen an Optiken, Untersuchung, Charakterisierung und Evaluierung von dotiertem CaF2 als Laserverstärkermaterial",
+"von": "2024-02-01",
+"bis": "2028-01-31",
+"summe": 760560.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13F1016A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Validierung des Nanobeschleunigers getrieben durch Kurzpuls-Lasertechnologie für Inertial Fusion Energy (VANLIFE) - Teilvorhaben: Nanobeschleuniger und deren Integration in das Fusionskonzept",
+"von": "2024-11-01",
+"bis": "2027-10-31",
+"summe": 2324448.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13F1008A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Skalierung von Pulskompressorgittern für die Laserfusion (FusioTile) - Teilvorhaben: Spezifizierung der Anforderungen & Untersuchung, Charakterisierung und Evaluierung der optischen Eigenschaften von Pulskompressorgittern für die Laserfusion",
+"von": "2025-02-01",
+"bis": "2028-01-31",
+"summe": 712140.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13F1052B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: IFE Hub Germany (VEGA) - Teilvorhaben: Hub-Management Marvel Fusion GmbH",
+"von": "2026-08-01",
+"bis": "2031-07-31",
+"summe": 1469475.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13F1039A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Vorfelduntersuchungen für ein integriertes Prozess-Modell (IPM) eines end-to-end Kraftwerkskonzepts am Beispiel der Laserfusion (KONZEPT) - Teilvorhaben: Laser- und Target-Systeme sowie der Fusionsprozess am Beispiel nicht-kryogener Brennstoffe",
+"von": "2026-03-01",
+"bis": "2028-02-29",
+"summe": 611071.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -141,6 +192,11 @@
 "stand": "2026-08-12",
 "etikett": "Eigenangabe",
 "version": 7
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

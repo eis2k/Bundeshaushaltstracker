@@ -53,7 +53,38 @@
 }
 ],
 "lobby_untergrenze_bund": 250004,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "16KISQ101",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Interoperables sicheres Quantenschlüssel Management System - QuNET+ISQKMS -",
+"von": "2022-10-01",
+"bis": "2026-12-31",
+"summe": 515203.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS1774",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben: Miniaturisierte Quantenschlüssel-Einheit - MiQuE -",
+"von": "2023-03-01",
+"bis": "2026-08-31",
+"summe": 172699.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI6089G",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: KRITIS3M - KRITIS Scalable Safe and Secure Modules, Teilvorhaben: Systemverschlüsselung unter Verwendung von Secure Elements auf Ressourcen-beschränkten Plattformen",
+"von": "2023-01-01",
+"bis": "2026-04-30",
+"summe": 216100.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -126,6 +157,11 @@
 "stand": "2026-09-18",
 "etikett": "Eigenangabe",
 "version": 9
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

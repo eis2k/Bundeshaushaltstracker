@@ -61,7 +61,18 @@
 }
 ],
 "lobby_untergrenze_bund": 13320005,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "01WJ2608",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "MINTmachtage 2026 unter dem Motto 'Sag mal Aaah! Gesund in die Zukunft'",
+"von": "2026-01-01",
+"bis": "2026-12-31",
+"summe": 220009.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -200,6 +211,11 @@
 "stand": "2026-07-06",
 "etikett": "Eigenangabe",
 "version": 6
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 },
 {
 "kurz": "bundestag.de",

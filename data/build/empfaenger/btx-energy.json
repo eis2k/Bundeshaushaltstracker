@@ -53,7 +53,38 @@
 }
 ],
 "lobby_untergrenze_bund": 140004,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "13BDB60032",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Dezentrale Bio-Methanol-Herstellung als Substituent in der fossilen Synthesegaschemie und Wertschöpfungsalternative zur Biogasverstromung (BioMeSyn) - Teilvorhaben: Technisches Engineering und Kostenanalyse für einen Biogasreformer mit Methanolsynthese und Destillation",
+"von": "2024-09-01",
+"bis": "2026-08-31",
+"summe": 68325.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI5483C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: WasteWood2Fuel - Entwicklung einer Technologie zur dezentralen Synthese von Flüssigkraftstoffen aus festen biogenen Reststoffen, Teilvorhaben: Entwicklung einer neuartigen Aufbereitungstechnologie für biogene Synthesegase zur Verwendung für die Flüssigkraftstoffsynthese",
+"von": "2025-01-01",
+"bis": "2027-12-31",
+"summe": 198906.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI5498A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: BioH2Evo - Optimierung der Systemeffizienz der Wasserstoffgewinnung aus Biogas, Teilvorhaben: Detailauslegung, Integration und experimentelle Validierung der technisch-realisierbaren effizienzsteigernden Maßnahmen",
+"von": "2026-07-01",
+"bis": "2028-12-31",
+"summe": 258221.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -105,6 +136,11 @@
 "stand": "2026-09-21",
 "etikett": "Eigenangabe",
 "version": 6
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

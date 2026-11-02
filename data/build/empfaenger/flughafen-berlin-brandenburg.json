@@ -53,7 +53,48 @@
 }
 ],
 "lobby_untergrenze_bund": 970004,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "45BS400005",
+"ressort": "BMV",
+"epl": "12",
+"thema": "Ausstattung von 17 Luftfahrzeug-Stellplätzen mit stationären Bodenstromanlagen",
+"von": "2027-01-01",
+"bis": "2029-09-30",
+"summe": 1592383.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "45BS400006",
+"ressort": "BMV",
+"epl": "12",
+"thema": "Aufbau einer leistungsfähigen Ladeinfrastruktur für batterie-elektrische Bodenstromgeräte",
+"von": "2026-08-20",
+"bis": "2029-09-30",
+"summe": 238000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "45PCA00003",
+"ressort": "BMV",
+"epl": "12",
+"thema": "Installation von 25 stationären, dezentralen PCA-Anlagen und Ausbau der benötigten Netzinfrastruktur",
+"von": "2026-10-01",
+"bis": "2029-12-31",
+"summe": 7657000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "VBBMM2613B",
+"ressort": "BMV",
+"epl": "12",
+"thema": "Einführung eines innovativen Konzepts am Flughafen BER: zukunftsorientierte Kombination aus Mitarbeitendenshuttle, App-basierten On-Demand-Diensten und aktiver Mobilität mit Sharing für die letzte Meile einer flexiblen, MIV-unabhängigen Mitarbeitendenmobilität - digital gesteuert, und bedarfsgerecht skalierbar.",
+"von": "2026-05-01",
+"bis": "2027-06-30",
+"summe": 187044.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -148,6 +189,11 @@
 "stand": "2026-07-03",
 "etikett": "Eigenangabe",
 "version": 5
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

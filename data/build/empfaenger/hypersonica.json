@@ -29,7 +29,18 @@
 }
 ],
 "lobby_untergrenze_bund": 920001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "5602570G",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "MISSION HS-1 - INTEGRATION & DURCHFÜHRUNG 1. TESTFLUG",
+"von": "2025-09-01",
+"bis": "2026-03-31",
+"summe": 999912.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -165,6 +176,11 @@
 "stand": "2026-10-08",
 "etikett": "Eigenangabe",
 "version": 7
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

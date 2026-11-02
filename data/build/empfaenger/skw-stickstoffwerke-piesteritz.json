@@ -61,7 +61,38 @@
 }
 ],
 "lobby_untergrenze_bund": 110005,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "281D303D22",
+"ressort": "BMLEH",
+"epl": "10",
+"thema": "Verbundprojekt: Einzelpflanzenspezifische Düngung zum ressourceneffizienten und bedarfsoptimierten Anbau von Raps und Mais in Gleichstandsaat (EXACT) - Teilprojekt D",
+"von": "2025-01-15",
+"bis": "2028-01-14",
+"summe": 93161.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "281D107B21",
+"ressort": "BMLEH",
+"epl": "10",
+"thema": "Verbundprojekt: Nachhaltiger Winterrapsanbau durch züchterische Verbesserung der NUE und Optimierung des Anbausystems (NaWiRa) - Teilprojekt B",
+"von": "2023-08-15",
+"bis": "2028-08-14",
+"summe": 124521.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI4104G",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: SALSA - Entwicklung applikationsspezifischer Aluminium-Ionen-Batterien unter Nutzung innovativer Passiv- und Aktivmaterialien, Teilvorhaben: Entwicklung, Testung und Anpassung von harnstoffbasierten Elektrolyten als innovativer Bestandteil für applikationsspezifische Aluminium-Ionen-Batterien",
+"von": "2025-08-01",
+"bis": "2028-07-31",
+"summe": 178799.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -146,6 +177,11 @@
 "stand": "2026-08-12",
 "etikett": "Eigenangabe",
 "version": 7
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

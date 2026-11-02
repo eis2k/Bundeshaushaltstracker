@@ -29,7 +29,58 @@
 }
 ],
 "lobby_untergrenze_bund": 1920001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "01N124226A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Projekt zur Entwicklung einer laserbasierten Neutronenquelle für die zerstörungsfreie Prüfung von industriell relevanten Objekten (PLANET) - Teilvorhaben: Systemintegration der Laserneutronenquelle und Demonstration der Anwendbarkeit",
+"von": "2024-06-01",
+"bis": "2028-05-31",
+"summe": 7593572.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13F1000B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Optische Materialien und Komponenten als Basis für effiziente Hochenergielaser für die Trägheitsfusion (PriFUSIO) - Teilvorhaben: Optische Komponenten für Trägheitsfusions-Kraftwerk-Lasersysteme",
+"von": "2024-02-01",
+"bis": "2027-01-31",
+"summe": 814868.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13F1013B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Inertial Fusion Energy (IFE) Targetry HUB für die DT-Trägheitsfusion (IFE-Targetry-HUB) - Teilvorhaben: Kryogene Mikro-Targetry für die lasergetriebene DT-Trägheitsfusion",
+"von": "2024-11-01",
+"bis": "2027-10-31",
+"summe": 4191525.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13F1003D",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Demonstration der industriellen Fertigung einer neutronenresistenten Ersten-Wand mit maximierter Betriebsdauer (DINERWA) - Teilvorhaben: Entwicklung und Design eines Ersten-Wand Konzepts für ein lasergetriebenes Laserfusionskraftwerk",
+"von": "2025-01-01",
+"bis": "2027-12-31",
+"summe": 1269480.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13F1052A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: IFE Hub Germany (VEGA) - Teilvorhaben: Hub-Management Focused Energy GmbH",
+"von": "2026-08-01",
+"bis": "2031-07-31",
+"summe": 1469475.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -213,6 +264,11 @@
 "stand": "2026-10-30",
 "etikett": "Eigenangabe",
 "version": 14
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

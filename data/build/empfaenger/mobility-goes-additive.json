@@ -29,7 +29,18 @@
 }
 ],
 "lobby_untergrenze_bund": 120001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "13IK031D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Digitale Zulassung 3D-gedruckter Komponenten für Schienenfahrzeuge (DigiZug3D) - Teilvorhaben: Wissenstransfer in und aus verschiedenen Branchen zur anwendungsnahen Entwicklung",
+"von": "2023-10-01",
+"bis": "2026-08-31",
+"summe": 216849.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -115,6 +126,11 @@
 "stand": "2026-04-14",
 "etikett": "Eigenangabe",
 "version": 5
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

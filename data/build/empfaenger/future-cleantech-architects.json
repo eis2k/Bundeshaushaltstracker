@@ -45,7 +45,28 @@
 }
 ],
 "lobby_untergrenze_bund": 70003,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "01LJ2509B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt KlimPro: Elektrifizierung industrieller Hochtemperaturanwendungen am Beispiel des Schmiedens (EBF2P) - Teilprojekt 2: Scale-Up Konzept und techno-ökonomische Analyse",
+"von": "2026-10-05",
+"bis": "2029-10-04",
+"summe": 209000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "02L23B023",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Digitale Kollaboration in internationalen Netzwerken: Eine Kompetenzplattform für produzierende Unternehmen (DiCoLab), Teilprojekt: Prototypische Implementierung mit internationalen Unternehmen",
+"von": "2025-01-01",
+"bis": "2027-12-31",
+"summe": 239795.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -130,6 +151,11 @@
 "stand": "2026-07-22",
 "etikett": "Eigenangabe",
 "version": 9
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

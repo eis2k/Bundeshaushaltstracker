@@ -37,7 +37,28 @@
 }
 ],
 "lobby_untergrenze_bund": 1790002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "13F1001D",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Bearbeitung grundlegender Themen der Magnetfusion auf dem Weg zum Fusionskraftwerk (FPP-MC) - Teilvorhaben: Erforschung und Anwendung von demontierbaren, niederohmigen und hochstromfähigen Supraleiterkontakten",
+"von": "2024-02-01",
+"bis": "2027-01-31",
+"summe": 5240664.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13F1011E",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Synergie-Verbund Brennstoffkreislauf Tritium Technologien (SyrVBreTT) - Teilvorhaben: Optimierung und Integration des Tritium-Brutblankets und des Brennstoffkreislaufs für das Fusionskraftwerk GIGA",
+"von": "2024-12-01",
+"bis": "2027-11-30",
+"summe": 3723772.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -112,6 +133,11 @@
 "stand": "2026-06-30",
 "etikett": "Eigenangabe",
 "version": 8
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

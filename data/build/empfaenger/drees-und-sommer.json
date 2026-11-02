@@ -29,7 +29,48 @@
 }
 ],
 "lobby_untergrenze_bund": 870001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "16KIS1951K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Sichere heterogene IoT-Systeme in Immobilien und Quartieren - SHIQ -",
+"von": "2023-11-15",
+"bis": "2027-05-14",
+"summe": 143221.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN3093F",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: EnEff.Wärme: TrafoWaermeNetz - Einsatz von Wärmepumpen für die Transformation von Wärmenetzen - Energiewirtschaftliche Bewertung, Planung, Umsetzung und Betrieb Teilprojekt: Planungsprozesse und Analyse in Vorhaben der Drees & Sommer SE",
+"von": "2024-01-01",
+"bis": "2026-12-31",
+"summe": 130071.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN1107D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: GraphEET - Graphen und KI-Verfahren für das Technische Monitoring von energieeffizienten Gebäuden, Teilvorhaben: Demonstration und Validierung der softwaregestützten Monitoringprozesse",
+"von": "2025-07-01",
+"bis": "2028-06-30",
+"summe": 212470.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01FV2067G",
+"ressort": "BMV",
+"epl": "12",
+"thema": "Verbundprojekt: Hybrid Bridge Generator: KI-basierter Brückengenerator mit Wissens- und Erfahrungsdaten und früher Bürgerbeteiligung - HyBridGen -, Teilvorhaben: Drees & Sommer SE",
+"von": "2024-04-01",
+"bis": "2027-03-31",
+"summe": 143512.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -113,6 +154,11 @@
 "stand": "2026-06-24",
 "etikett": "Eigenangabe",
 "version": 2
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

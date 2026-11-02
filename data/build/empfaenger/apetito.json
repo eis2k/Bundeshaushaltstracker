@@ -45,7 +45,18 @@
 }
 ],
 "lobby_untergrenze_bund": 110003,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "281A909I22",
+"ressort": "BMLEH",
+"epl": "10",
+"thema": "Verbundprojekt: Ballaststoffangereicherte texturierte pflanzliche Menübestandteile (TMC) - Integrativer Designansatz für Entwicklung und Einsatz innovativer Produkte nach bioökonomischen Nachhaltigkeitskriterien (BallanceID) - Teilprojekt I",
+"von": "2025-11-15",
+"bis": "2028-05-14",
+"summe": 42323.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -196,6 +207,11 @@
 "stand": "2026-08-17",
 "etikett": "Eigenangabe",
 "version": 7
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

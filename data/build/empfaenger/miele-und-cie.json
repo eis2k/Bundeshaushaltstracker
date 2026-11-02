@@ -53,7 +53,48 @@
 }
 ],
 "lobby_untergrenze_bund": 2920004,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EN1093D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: EnOB: EnOptI - Flexible und nachhaltige Energieoptimierung in Gebäuden durch intelligente Virtualisierung, Teilvorhaben: Flexibilisierung des Lastmanagements in der gewerblichen Wäschereitechnik durch Integration in ein intelligentes Gebäudeenergiemanagement",
+"von": "2024-10-01",
+"bis": "2027-09-30",
+"summe": 160572.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01MN26001B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: GRROW - Growth-oriented Remanufacturing and Refurbishment of Washing Machines, Teilvorhaben: Konzeption und Pilotierung einer produktdatengestützten Kreislaufwirtschaft am Beispiel von Waschautomaten der Miele & Cie. KG",
+"von": "2026-02-01",
+"bis": "2028-12-31",
+"summe": 484015.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01MN23016D",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: ProDINA - Intelligente Prototypentestung am digitalen Zwilling zur Nachhaltigkeitsoptimierung von Antriebssystemen, Teilvorhaben: Entwicklung und Validierung von Machine Learning Methoden für eine nachhaltigere Prüfstandstestung und Produktentwicklung von Geschirrspülerpumpen",
+"von": "2023-05-01",
+"bis": "2026-08-31",
+"summe": 511974.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01MN23022F",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: DiCES - Digital Transformation of Circular Economy for Industrial Sustainability, Teilvorhaben: Konzeption und Pilotierung einer Kreislaufwirtschaft im Rahmen der digitalen Transformation der Business Unit Laundry der Miele & Cie. KG",
+"von": "2023-06-01",
+"bis": "2026-09-30",
+"summe": 610966.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -225,6 +266,11 @@
 "stand": "2026-07-01",
 "etikett": "Eigenangabe",
 "version": 12
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

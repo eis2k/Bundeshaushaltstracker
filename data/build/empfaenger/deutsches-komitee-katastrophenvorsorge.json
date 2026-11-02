@@ -29,7 +29,18 @@
 }
 ],
 "lobby_untergrenze_bund": 130001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "13N18027",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Wissenschaftliches Begleitvorhaben für Sektorübergreifende Maßnahmen resilienter Versorgung (Sektor-X-Net) - Teilvorhaben: Vernetzung und Wissensmanagement sektorübergreifender Versorgung",
+"von": "2026-08-01",
+"bis": "2030-07-31",
+"summe": 1039060.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "foerderkatalog_auszug": false,
 "personen": [
 {
@@ -372,6 +383,11 @@
 "stand": "2026-06-18",
 "etikett": "Eigenangabe",
 "version": 11
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 },
 {
 "kurz": "bundestag.de",
