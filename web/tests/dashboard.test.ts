@@ -1,5 +1,6 @@
 import { describe, expect, test } from "vitest";
 import { entwicklungIndex, herkunftVerwendung, kennzahlen } from "../src/lib/model/dashboard";
+import { balance } from "../src/lib/model/scenario";
 import type { EmpfaengerIndex } from "../src/lib/model/empfaenger";
 import type { PersonIndex } from "../src/lib/model/personen";
 import type { YearData } from "../src/lib/model/types";
@@ -53,5 +54,36 @@ describe("kennzahlen: Veränderung zum Vorjahr (Review I4)", () => {
     const k = kennzahlen(ansicht, year2019, false, {}, empf, personen, fixtureYear);
     expect(k.haushalt).toBe(2 * kennzahlen(fixtureYear, year2019, false, {}, empf, personen).haushalt);
     expect(k.veraenderung).toBe(kennzahlen(fixtureYear, year2019, false, {}, empf, personen).veraenderung);
+  });
+});
+
+describe("Stufe 4d: Dashboard-Grundlagen", () => {
+  const z: Zeitreihe = { jahre: [2015, 2016, 2017], kap: {}, epl: {
+    "11": { text: "A", art: "A", soll: [60, 66, 72.6], ist: [60, 66, 72.6] },
+  }, titel: {
+    "11-1101-68101": { text: "Bürgergeld", epl: "11", kap: "1101", art: "A", soll: [50, 55, 60], ist: [50, null, 60] },
+    "12-1201-74101": { text: "Bau", epl: "12", kap: "1201", art: "A", soll: [10, 11, 12.1], ist: [10, 11, 12] },
+    "12-1201-89101": { text: "Investitionszuschuss", epl: "12", kap: "1201", art: "A", soll: [10, 11, 12.1], ist: [10, 11, 12] },
+    "60-6001-01101": { text: "Lohnsteuer", epl: "60", kap: "6001", art: "E", soll: [100, 100, 100], ist: [100, 100, 100] },
+  } };
+  test("entwicklungIndex: Investitionen aus Hauptgruppen 7 und 8 als Index", () => {
+    const e = entwicklungIndex(z, "soll");
+    expect(e.map((x) => x.investitionen)).toEqual([100, 110, 121]);
+  });
+  test("entwicklungIndex: Ist nicht mit Soll gemischt", () => {
+    const e = entwicklungIndex(z, "ist");
+    expect(e[1].investitionen).toBe(110);
+    expect(e[0].gesamt).toBe(100);
+  });
+  test("kennzahlen: Einnahmen und Haushalt wie der Seitenkopf inklusive Steuer-Modelle", () => {
+    const ohne = kennzahlen(fixtureYear, null, false, {}, null, null);
+    const mit = kennzahlen(fixtureYear, null, false, {}, null, null, fixtureYear, 100);
+    expect(mit.einnahmen).toBe(ohne.einnahmen + 100);
+  });
+  test("herkunftVerwendung: Kredite aus der Bilanz des Szenarios", () => {
+    const h = herkunftVerwendung(fixtureYear, false, { "11": 0.5 });
+    const kredit = h.herkunft.find((p) => p.id === "E:kredite")!;
+    expect(kredit.wert).toBeCloseTo(balance(fixtureYear, { "11": 0.5 }, false).neueSchulden, 3);
+    expect(Math.abs(h.herkunft.reduce((s, x) => s + x.anteil, 0) - 100)).toBeLessThan(0.2);
   });
 });

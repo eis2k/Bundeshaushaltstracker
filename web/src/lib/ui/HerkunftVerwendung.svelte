@@ -6,8 +6,8 @@
   import type { Factors } from "../model/scenario";
   import type { YearData } from "../model/types";
 
-  let { data, includeSv, factors, max = 5, getrennt = false }: { data: YearData; includeSv: boolean; factors: Factors; max?: number; getrennt?: boolean } = $props();
-  const hv = $derived(herkunftVerwendung(data, includeSv, factors));
+  let { data, includeSv, factors, extraBund = 0, max = 5, getrennt = false }: { data: YearData; includeSv: boolean; factors: Factors; extraBund?: number; max?: number; getrennt?: boolean } = $props();
+  const hv = $derived(herkunftVerwendung(data, includeSv, factors, extraBund));
   function kompakt(liste: Posten[]): Posten[] {
     const top = liste.slice(0, max);
     const rest = liste.slice(max);

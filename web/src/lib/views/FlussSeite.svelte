@@ -17,7 +17,8 @@
   $effect(() => { app.jahr; void app.ensureVorjahr(); });
 
   const data = $derived(app.viewData!);
-  const k = $derived(kennzahlen(data, app.vorjahrData, app.scenario.includeSv, app.factors, app.empfaengerIndex, app.personIndex, app.data ?? data));
+  const extraBund = $derived(app.aktiveSteuern.bund);
+  const k = $derived(kennzahlen(data, app.vorjahrData, app.scenario.includeSv, app.factors, app.empfaengerIndex, app.personIndex, app.data ?? data, extraBund));
   const fokusEpl = $derived(app.topf === "bund" && app.focus.length ? app.focus[0] : null);
   const letztesJahr = $derived(app.index?.jahre.at(-1) ?? app.jahr);
   const v = $derived(verantwortung(fokusEpl, app.jahr, letztesJahr, data, app.scenario.includeSv, app.personIndex));
@@ -49,7 +50,7 @@
 <div class="seite">
   <aside class="links">
     <Kennzahl label={`Bundeshaushalt ${app.jahr}`} wert={fmtEuro(k.haushalt)} neben={k.veraenderung == null ? "" : `${k.veraenderung > 0 ? "+" : ""}${k.veraenderung.toLocaleString("de-DE")} % ggü. ${app.jahr - 1}`} ton="blau" icon={k.veraenderung != null && k.veraenderung > 0 ? TrendingUp : Wallet} />
-    <HerkunftVerwendung {data} includeSv={app.scenario.includeSv} factors={app.factors} max={4} getrennt />
+    <HerkunftVerwendung {data} includeSv={app.scenario.includeSv} factors={app.factors} {extraBund} max={4} getrennt />
   </aside>
   <section class="mitte" aria-busy={app.loading}>
     <h3>Geldfluss – Vom Steuerzahler zum Empfänger</h3>

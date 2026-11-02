@@ -1,12 +1,13 @@
 <script lang="ts">
   import { Building2, Coins, Landmark, Receipt, Search, Share2, SlidersHorizontal, Users, Wallet } from "lucide-svelte";
   import { onMount } from "svelte";
-  import { entwicklungIndex, herkunftVerwendung, kennzahlen } from "../model/dashboard";
+  import { entwicklungIndex, kennzahlen } from "../model/dashboard";
   import { fmtEuro, fmtPct } from "../model/format";
   import { ministerien } from "../model/ministerien";
   import { kabinett as kabinettDes, parteiKurz } from "../model/verantwortung";
   import Partei from "../ui/Partei.svelte";
-  import { effectiveFactor } from "../model/scenario";
+  import { effectiveFactor, effectiveValue } from "../model/scenario";
+  import { includeRow } from "../model/tree";
   import type { AppState } from "../state.svelte";
   import Avatar from "../ui/Avatar.svelte";
   import Kennzahl from "../ui/Kennzahl.svelte";
@@ -18,8 +19,8 @@
   $effect(() => { app.jahr; void app.ensureVorjahr(); });
 
   const data = $derived(app.viewData!);
-  const k = $derived(kennzahlen(data, app.vorjahrData, app.scenario.includeSv, app.factors, app.empfaengerIndex, app.personIndex, app.data ?? data));
-  const hv = $derived(herkunftVerwendung(data, app.scenario.includeSv, app.factors));
+  const extraBund = $derived(app.aktiveSteuern.bund);
+  const k = $derived(kennzahlen(data, app.vorjahrData, app.scenario.includeSv, app.factors, app.empfaengerIndex, app.personIndex, app.data ?? data, extraBund));
   const entwicklung = $derived(app.zeitreihe ? entwicklungIndex(app.zeitreihe, app.stand).filter((e) => e.gesamt != null) : []);
   const mins = $derived(ministerien(data, app.stand, app.scenario.includeSv, app.jahr, app.index?.jahre.at(-1) ?? app.jahr, app.personIndex, app.empfaengerIndex));
   const groesstes = $derived(mins.find((m) => m.epl !== "60" && m.epl !== "32") ?? mins[0]);
@@ -29,14 +30,23 @@
   const topEmpfaenger = $derived([...(app.empfaengerIndex?.eintraege ?? [])].sort((a, b) => b.haushalt_soll_letztes_jahr - a.haushalt_soll_letztes_jahr).slice(0, 5));
   const kabinett = $derived(kabinettDes(app.personIndex, app.jahr, app.index?.jahre.at(-1) ?? app.jahr).filter((m) => LEITUNG.test(m.amt)).slice(0, 5));
   const simulatorEpls = ["14", "30", "11"];
-  const summeEntwicklung = $derived(hv.verwendung.reduce((s, x) => s + x.wert, 0));
+  /** Anteil des größten Einzelplans mit denselben Faktoren wie die Summe (Review M8). */
+  const groesstesEffektiv = $derived(groesstes ? data.rows.filter((r) => r.art === "A" && r.epl === groesstes.epl && includeRow(r, app.scenario.includeSv)).reduce((s, r) => s + effectiveValue(r, app.factors), 0) : 0);
+  const groesstesAnteil = $derived(app.balance && app.balance.ausgaben > 0 ? Math.round((groesstesEffektiv / app.balance.ausgaben) * 1000) / 10 : 0);
 
-  function linie(werte: { jahr: number; gesamt: number | null }[]): string {
-    const vals = werte.map((w) => w.gesamt ?? 0);
-    const min = Math.min(...vals, 100), max = Math.max(...vals, 100);
+  /** Gemeinsame Skala für beide Linien; fehlende Werte unterbrechen die Linie nicht (werden übersprungen). */
+  const skala = $derived.by(() => {
+    const vals = entwicklung.flatMap((e) => [e.gesamt, e.investitionen]).filter((v): v is number => v != null);
+    return { min: Math.min(...vals, 100), max: Math.max(...vals, 100) };
+  });
+  function punkt(i: number, v: number): string {
     const w = 320, h = 120;
-    return vals.map((v, i) => `${(i / Math.max(1, vals.length - 1)) * w},${h - ((v - min) / Math.max(1, max - min)) * (h - 10) - 5}`).join(" ");
+    return `${(i / Math.max(1, entwicklung.length - 1)) * w},${h - ((v - skala.min) / Math.max(1, skala.max - skala.min)) * (h - 10) - 5}`;
   }
+  function linie(key: "gesamt" | "investitionen"): string {
+    return entwicklung.map((e, i) => (e[key] != null ? punkt(i, e[key]!) : null)).filter((p): p is string => p !== null).join(" ");
+  }
+  const hatInvestitionen = $derived(entwicklung.some((e) => e.investitionen != null));
 </script>
 
 <div class="dashboard">
@@ -49,11 +59,11 @@
 
   <div class="reihe">
     <section class="karte">
-      <HerkunftVerwendung {data} includeSv={app.scenario.includeSv} factors={app.factors} />
+      <HerkunftVerwendung {data} includeSv={app.scenario.includeSv} factors={app.factors} {extraBund} />
     </section>
     <section class="karte breit">
       <h3>Geldflüsse im Überblick <small class="muted">Steuern → Bundeshaushalt → größte Einzelpläne · {app.stand === "ist" ? "Ist" : "Soll"} {app.jahr}</small></h3>
-      <MiniFluss {app} {data} factors={app.factors} includeSv={app.scenario.includeSv} />
+      <MiniFluss {app} {data} factors={app.factors} includeSv={app.scenario.includeSv} {extraBund} />
     </section>
     <section class="karte">
       <h3>Schnelleinstiege</h3>
@@ -66,12 +76,17 @@
       </div>
       <h3>Aktuelle Entwicklung <small class="muted">Gesamtausgaben, Index {entwicklung[0]?.jahr ?? ""} = 100</small></h3>
       {#if entwicklung.length > 1}
-        <svg viewBox="0 0 320 130" class="linie" role="img" aria-label="Entwicklung der Gesamtausgaben als Index">
-          <polyline points={linie(entwicklung)} fill="none" stroke="var(--nav-on)" stroke-width="2.5" />
-          {#each entwicklung as e, i}<circle cx={(i / Math.max(1, entwicklung.length - 1)) * 320} cy={linie(entwicklung).split(" ")[i].split(",")[1]} r="3" fill="var(--nav-on)"><title>{e.jahr}: {e.gesamt?.toLocaleString("de-DE")}</title></circle>{/each}
+        <svg viewBox="0 0 320 130" class="linie" role="img" aria-label="Entwicklung der Gesamtausgaben und der Investitionen als Index">
+          {#if hatInvestitionen}<polyline points={linie("investitionen")} fill="none" stroke="var(--beitraege)" stroke-width="2" stroke-dasharray="5 3" />{/if}
+          <polyline points={linie("gesamt")} fill="none" stroke="var(--nav-on)" stroke-width="2.5" />
+          {#each entwicklung as e, i}
+            {#if e.gesamt != null}<circle cx={punkt(i, e.gesamt).split(",")[0]} cy={punkt(i, e.gesamt).split(",")[1]} r="3" fill="var(--nav-on)"><title>{e.jahr}: Gesamtausgaben {e.gesamt.toLocaleString("de-DE")}</title></circle>{/if}
+            {#if e.investitionen != null}<circle cx={punkt(i, e.investitionen).split(",")[0]} cy={punkt(i, e.investitionen).split(",")[1]} r="2.5" fill="var(--beitraege)"><title>{e.jahr}: Investitionen {e.investitionen.toLocaleString("de-DE")}</title></circle>{/if}
+          {/each}
         </svg>
-        <div class="achse"><span>{entwicklung[0].jahr}</span><span>{entwicklung[entwicklung.length - 1].jahr}: {entwicklung[entwicklung.length - 1].gesamt?.toLocaleString("de-DE")}</span></div>
-        <p class="muted small">Quelle: bundeshaushalt.de, Einzelpläne ohne Sondervermögen; Investitionen als eigene Reihe folgen.</p>
+        <div class="achse"><span>{entwicklung[0].jahr}</span><span>{entwicklung[entwicklung.length - 1].jahr}: {entwicklung[entwicklung.length - 1].gesamt?.toLocaleString("de-DE")}{#if entwicklung[entwicklung.length - 1].investitionen != null} · Investitionen {entwicklung[entwicklung.length - 1].investitionen?.toLocaleString("de-DE")}{/if}</span></div>
+        <div class="legende"><span><i style="background:var(--nav-on)"></i> Gesamtausgaben</span>{#if hatInvestitionen}<span><i class="dash" style="border-color:var(--beitraege)"></i> Investitionen (Hauptgruppen 7, 8)</span>{/if}</div>
+        <p class="muted small">Quelle: bundeshaushalt.de, {app.stand === "ist" ? "Ist" : "Soll"}, Einzelpläne ohne Sondervermögen; Investitionen = Baumaßnahmen und sonstige Investitionen nach Gruppierungsplan.</p>
       {:else}
         <p class="muted small">Zeitreihe wird geladen …</p>
       {/if}
@@ -96,7 +111,7 @@
       {#if groesstes}
         <div class="minister">
           {#if chef}<Avatar name={chef.name} size={44} />{:else}<Avatar name={groesstes.name} art="organisation" size={44} />{/if}
-          <div><b>{groesstes.name}</b><small class="muted">{chef ? `${chef.amt}: ${chef.name}` : groesstes.leitungHinweis}</small><small>Haushalt {app.jahr}: <b class="tabular">{fmtEuro(groesstes.ausgaben)}</b> · {(summeEntwicklung ? Math.round((groesstes.ausgaben / summeEntwicklung) * 1000) / 10 : 0).toLocaleString("de-DE")} % der Ausgaben</small></div>
+          <div><b>{groesstes.name}</b><small class="muted">{chef ? `${chef.amt}: ${chef.name}` : groesstes.leitungHinweis}</small><small>Haushalt {app.jahr}: <b class="tabular">{fmtEuro(groesstes.ausgaben)}</b> · {groesstesAnteil.toLocaleString("de-DE")} % der Ausgaben</small></div>
         </div>
         <button class="mehr" onclick={() => app.setView("ministerien")}>Alle Ministerien</button>
       {/if}
@@ -137,6 +152,9 @@
   .einstiege button:hover { background: var(--chip-blau); }
   .linie { width: 100%; height: auto; }
   .achse { display: flex; justify-content: space-between; font-size: 11px; color: var(--muted); }
+  .legende { display: flex; gap: 12px; font-size: 11px; color: var(--muted); margin-top: 4px; flex-wrap: wrap; }
+  .legende i { display: inline-block; width: 14px; height: 3px; vertical-align: middle; margin-right: 4px; border-radius: 2px; }
+  .legende i.dash { background: none; border-top: 2px dashed; height: 0; }
   table { width: 100%; border-collapse: collapse; font-size: 12px; }
   th { text-align: left; font-size: 10px; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); padding: 4px 0; }
   td { padding: 5px 0; border-top: 1px solid var(--border); }

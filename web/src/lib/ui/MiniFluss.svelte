@@ -2,12 +2,12 @@
   /** Kompakter Geldfluss für das Dashboard (Spec §4.11): Einnahmegruppen → Bundeshaushalt → größte Einzelpläne, Klick führt in den Fluss. */
   import { sankey, sankeyLinkHorizontal, sankeyJustify, type SankeyLink, type SankeyNode } from "d3-sankey";
   import { fmtEuro } from "../model/format";
-  import { effectiveValue, type Factors } from "../model/scenario";
+  import { balance, effectiveValue, type Factors } from "../model/scenario";
   import { includeRow, revenueGroups } from "../model/tree";
   import type { YearData } from "../model/types";
   import type { AppState } from "../state.svelte";
 
-  let { app, data, factors, includeSv, max = 5, height = 300 }: { app: AppState; data: YearData; factors: Factors; includeSv: boolean; max?: number; height?: number } = $props();
+  let { app, data, factors, includeSv, extraBund = 0, max = 5, height = 300 }: { app: AppState; data: YearData; factors: Factors; includeSv: boolean; extraBund?: number; max?: number; height?: number } = $props();
   type N = { id: string; label: string; wert: number; art: "einnahme" | "haushalt" | "epl" | "rest" };
   type L = { source: string; target: string; value: number };
 
@@ -15,7 +15,8 @@
   const graph = $derived.by(() => {
     const nodes: N[] = [];
     const links: L[] = [];
-    const alle = revenueGroups(data, includeSv).map((g) => ({ id: g.id, label: g.label, wert: g.rows.reduce((s, r) => s + effectiveValue(r, factors), 0), kredit: g.isKredit })).filter((g) => g.wert > 0);
+    const bilanz = balance(data, factors, includeSv, extraBund);
+    const alle = revenueGroups(data, includeSv).map((g) => ({ id: g.id, label: g.label, wert: g.isKredit ? bilanz.neueSchulden : g.rows.reduce((s, r) => s + effectiveValue(r, factors), 0), kredit: g.isKredit })).filter((g) => g.wert > 0);
     // Einnahmeseite kompakt: die größten Steuerarten einzeln, der Rest gebündelt, Kredite immer eigener Knoten.
     const steuern = alle.filter((g) => !g.kredit).sort((a, b) => b.wert - a.wert);
     const gruppen = steuern.slice(0, max);
@@ -34,7 +35,7 @@
       else rest += w;
     });
     if (rest > 0) { nodes.push({ id: "rest", label: "Weitere Einzelpläne", wert: rest, art: "rest" }); links.push({ source: "haushalt", target: "rest", value: rest }); }
-    const gen = sankey<N, L>().nodeId((d) => d.id).nodeWidth(14).nodePadding(10).nodeAlign(sankeyJustify).extent([[8, 8], [Math.max(320, width) - 8, height - 8]]);
+    const gen = sankey<N, L>().nodeId((d) => d.id).nodeWidth(14).nodePadding(10).nodeAlign(sankeyJustify).extent([[8, 8], [Math.max(320, width) - 8, height - 30]]);
     return gen({ nodes: nodes.map((n) => ({ ...n })), links: links.map((l) => ({ ...l })) });
   });
   const pfad = sankeyLinkHorizontal();
@@ -59,8 +60,8 @@
     {#each graph.nodes as n}
       <g class="knoten" role="button" tabindex="0" onclick={() => klick(n)} onkeydown={(e) => e.key === "Enter" && klick(n)}>
         <rect x={n.x0} y={n.y0} width={(n.x1 ?? 0) - (n.x0 ?? 0)} height={Math.max(2, (n.y1 ?? 0) - (n.y0 ?? 0))} rx="4" fill={farbe(n)} />
-        <text x={n.art === "einnahme" ? (n.x1 ?? 0) + 6 : n.art === "haushalt" ? (n.x0 ?? 0) + 7 : (n.x0 ?? 0) - 6} y={((n.y0 ?? 0) + (n.y1 ?? 0)) / 2} dy="0.35em"
-              text-anchor={n.art === "einnahme" ? "start" : n.art === "haushalt" ? "start" : "end"} class:hell={n.art === "haushalt"}>
+        <text x={n.art === "einnahme" ? (n.x1 ?? 0) + 6 : n.art === "haushalt" ? ((n.x0 ?? 0) + (n.x1 ?? 0)) / 2 : (n.x0 ?? 0) - 6} y={n.art === "haushalt" ? (n.y1 ?? 0) + 14 : ((n.y0 ?? 0) + (n.y1 ?? 0)) / 2} dy="0.35em"
+              text-anchor={n.art === "einnahme" ? "start" : n.art === "haushalt" ? "middle" : "end"} class:hell={n.art === "haushalt"}>
           {n.label.length > 30 ? n.label.slice(0, 29) + "…" : n.label} · {fmtEuro(n.wert)}
         </text>
       </g>

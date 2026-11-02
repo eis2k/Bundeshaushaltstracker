@@ -5,7 +5,7 @@ import type { PersonIndex } from "./personen";
 import { balance, effectiveValue, type Factors } from "./scenario";
 import { includeRow, revenueGroups } from "./tree";
 import type { YearData } from "./types";
-import type { Zeitreihe } from "./zeitreihe";
+import type { Series, Zeitreihe } from "./zeitreihe";
 
 export interface Kennzahlen {
   haushalt: number;
@@ -18,8 +18,8 @@ export interface Kennzahlen {
 }
 
 /** `roh` = unveränderte Soll-Daten des Jahres für die Veränderung zum Vorjahr (nominal, ohne Faktoren, ohne Ist- oder Preisumrechnung); Vorgabe `data`. */
-export function kennzahlen(data: YearData, vorjahr: YearData | null, includeSv: boolean, factors: Factors, empfaenger: EmpfaengerIndex | null, personen: PersonIndex | null, roh: YearData = data): Kennzahlen {
-  const b = balance(data, factors, includeSv);
+export function kennzahlen(data: YearData, vorjahr: YearData | null, includeSv: boolean, factors: Factors, empfaenger: EmpfaengerIndex | null, personen: PersonIndex | null, roh: YearData = data, extraBund = 0): Kennzahlen {
+  const b = balance(data, factors, includeSv, extraBund);
   const r = balance(roh, {}, includeSv);
   const v = vorjahr ? balance(vorjahr, {}, includeSv) : null;
   const steuern = revenueGroups(data, includeSv).filter((g) => g.id.startsWith("E:steuern")).reduce((s, g) => s + g.soll, 0);
@@ -36,9 +36,11 @@ export function kennzahlen(data: YearData, vorjahr: YearData | null, includeSv: 
 export interface Posten { label: string; wert: number; anteil: number; id: string }
 
 /** Herkunft aus den Einnahmegruppen; Verwendung (negative Posten wie die Globale Minderausgabe bleiben sichtbar, damit die Anteile 100 ergeben) nach Ministerien (alle Einzelpläne außer 32 und 60), Allgemeine Finanzverwaltung (60), Bundesschuld (32). */
-export function herkunftVerwendung(data: YearData, includeSv: boolean, factors: Factors): { herkunft: Posten[]; verwendung: Posten[] } {
+export function herkunftVerwendung(data: YearData, includeSv: boolean, factors: Factors, extraBund = 0): { herkunft: Posten[]; verwendung: Posten[] } {
   const gruppen = revenueGroups(data, includeSv);
-  const herkunftRoh = gruppen.map((g) => ({ id: g.id, label: g.label, wert: g.rows.reduce((s, r) => s + effectiveValue(r, factors), 0) })).filter((x) => x.wert !== 0);
+  // Kredite aus der Bilanz des Szenarios (wie Seitenkopf und Fluss), nicht aus den Kreditzeilen des Plans
+  const kredite = balance(data, factors, includeSv, extraBund).neueSchulden;
+  const herkunftRoh = gruppen.map((g) => ({ id: g.id, label: g.label, wert: g.isKredit ? kredite : g.rows.reduce((s, r) => s + effectiveValue(r, factors), 0) })).filter((x) => x.wert !== 0);
   const hs = herkunftRoh.reduce((s, x) => s + x.wert, 0) || 1;
   const herkunft = herkunftRoh.sort((a, b) => b.wert - a.wert).map((x) => ({ ...x, anteil: Math.round((x.wert / hs) * 1000) / 10 }));
 
@@ -59,19 +61,36 @@ export function herkunftVerwendung(data: YearData, includeSv: boolean, factors: 
   return { herkunft, verwendung };
 }
 
-/** Gesamtausgaben je Jahr als Index (erstes Jahr mit Wert = 100). Ist nur, wenn alle Reihen Ist haben (kein Mischen mit Soll). Investitionen liegen in der Zeitreihe nicht als Reihe vor → null. */
-export function entwicklungIndex(z: Zeitreihe, stand: "soll" | "ist"): { jahr: number; gesamt: number | null; investitionen: number | null }[] {
-  const summen = z.jahre.map((_, i) => {
+/** Summe der Reihen je Jahr; bei Ist nur Ist (eine Reihe mit Soll, aber ohne Ist → Jahr null, kein Mischen). */
+function summenJeJahr(reihen: Series[], jahre: number, stand: "soll" | "ist"): (number | null)[] {
+  return jahre === 0 ? [] : Array.from({ length: jahre }, (_, i) => {
     let s = 0;
     let hat = false;
-    for (const serie of Object.values(z.epl)) {
-      if (serie.art !== "A" || serie.sv) continue;
+    for (const serie of reihen) {
       const w = stand === "ist" ? serie.ist[i] : serie.soll[i];
       if (w == null) { if (serie.soll[i] != null) return null; continue; }
       s += w; hat = true;
     }
     return hat ? s : null;
   });
+}
+
+function alsIndex(summen: (number | null)[]): (number | null)[] {
   const basis = summen.find((s) => s != null && s > 0) ?? null;
-  return z.jahre.map((jahr, i) => ({ jahr, gesamt: basis && summen[i] != null ? Math.round((summen[i]! / basis) * 1000) / 10 : null, investitionen: null }));
+  return summen.map((s) => (basis && s != null ? Math.round((s / basis) * 1000) / 10 : null));
+}
+
+/** Hauptgruppen 7 (Baumaßnahmen) und 8 (sonstige Investitionen) nach Gruppierungsplan: erste Ziffer der Titelnummer. */
+export function istInvestition(titelId: string): boolean {
+  const nr = titelId.split("-")[2] ?? "";
+  return nr.startsWith("7") || nr.startsWith("8");
+}
+
+/** Gesamtausgaben und Investitionen (Hauptgruppen 7/8 aus den Titelreihen) je Jahr als Index (erstes Jahr mit Wert = 100), ohne Sondervermögen. */
+export function entwicklungIndex(z: Zeitreihe, stand: "soll" | "ist"): { jahr: number; gesamt: number | null; investitionen: number | null }[] {
+  const ausgaben = Object.values(z.epl).filter((s) => s.art === "A" && !s.sv);
+  const investitionen = Object.entries(z.titel ?? {}).filter(([id, s]) => s.art === "A" && !s.sv && istInvestition(id)).map(([, s]) => s);
+  const g = alsIndex(summenJeJahr(ausgaben, z.jahre.length, stand));
+  const inv = alsIndex(summenJeJahr(investitionen, z.jahre.length, stand));
+  return z.jahre.map((jahr, i) => ({ jahr, gesamt: g[i] ?? null, investitionen: inv[i] ?? null }));
 }
