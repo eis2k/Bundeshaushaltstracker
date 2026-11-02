@@ -67,8 +67,8 @@ class Stamm:
 # ---------------------------------------------------------------- Empfänger aus Titeltexten
 
 _ZUSCHUSS = re.compile(
-    r"^(?:Zuschuss|Zuschüsse|Zuwendung|Zuwendungen|Beitrag|Beiträge|Einlage|Zuweisung|Zuweisungen|Institutionelle Förderung|Förderung)"
-    r"\s+(?:an|in|der|des)\s+(?:die\s+|den\s+|das\s+|der\s+)?(?P<name>.+?)(?:\s+-\s+.*|,\s+[A-ZÄÖÜ][\wäöüß.\- ]+(?:\s+\(Main\))?|\s+für\s+.*|\s+zur\s+.*|\s+zum\s+.*)?$"
+    r"^(?:Zuschuss|Zuschüsse|Zuwendung|Zuwendungen|Beitrag|Beiträge|Einlage|Einlagen|Zuführung|Zuführungen|Zuweisung|Zuweisungen|Darlehen|Institutionelle Förderung|Förderung|Baumaßnahme|Baumaßnahmen|Baumaßnahmen|Zuschüsse für Baumaßnahmen)"
+    r"\s+(?:(?:an|in|der|des|für)\s+)?(?:die\s+|den\s+|das\s+|der\s+)?(?P<name>.+?)(?:\s+-\s+.*|,\s+[A-ZÄÖÜ][\wäöüß.\- ]+(?:\s+\(Main\))?|\s+zur\s+.*|\s+zum\s+.*)?$"
 )
 _NAME_ORT_ZWECK = re.compile(
     r"^(?P<name>.+?(?:e\. ?V\.|gGmbH|GmbH|Stiftung[^,]*|Institut[^,]*|Gesellschaft[^,]*|Akademie[^,]*|Verband[^,]*|Zentrum[^,]*)),?\s+[A-ZÄÖÜ][\wäöüß\-]+(?:\s+\(Main\))?\s+-\s+.*$"

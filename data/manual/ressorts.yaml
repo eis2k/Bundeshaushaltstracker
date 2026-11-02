@@ -6,7 +6,7 @@ quelle: "https://www.bundeshaushalt.de/"
 ressorts:
   - epl: "04"
     kurz: BKAmt
-    namen: ["Bundeskanzleramt", "Die Beauftragte der Bundesregierung für Kultur und Medien", "Der Beauftragte der Bundesregierung für Kultur und Medien", "Beauftragte der Bundesregierung für Kultur und Medien", "Beauftragter der Bundesregierung für Kultur und Medien", "BKM", "Bundesbeauftragte für Kultur und Medien", "Presse- und Informationsamt der Bundesregierung", "Bundespresseamt", "BPA", "Kulturstiftung des Bundes"]
+    namen: ["Bundeskanzleramt", "Die Beauftragte der Bundesregierung für Kultur und Medien", "Der Beauftragte der Bundesregierung für Kultur und Medien", "Beauftragte der Bundesregierung für Kultur und Medien", "Beauftragter der Bundesregierung für Kultur und Medien", "BKM", "Bundesbeauftragte für Kultur und Medien", "Presse- und Informationsamt der Bundesregierung", "Bundespresseamt", "BPA", "Kulturstiftung des Bundes", "Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration", "Die Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration", "Beauftragter der Bundesregierung für Antirassismus", "Beauftragte der Bundesregierung für Ostdeutschland"]
   - epl: "05"
     kurz: AA
     namen: ["Auswärtiges Amt", "AA", "Auswaertiges Amt", "Federal Foreign Office", "Institut für Auslandsbeziehungen", "ifa"]
@@ -44,7 +44,7 @@ ressorts:
     namen: ["Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit", "Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz", "Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit", "BMUKN", "BMUV", "BMU", "Umweltbundesamt", "UBA", "Bundesamt für Naturschutz", "BfN", "Bundesamt für die Sicherheit der nuklearen Entsorgung", "Zukunft – Umwelt – Gesellschaft (ZUG) gGmbH", "ZUG gGmbH"]
   - epl: "17"
     kurz: BMBFSFJ
-    namen: ["Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend", "Bundesministerium für Familie, Senioren, Frauen und Jugend", "BMBFSFJ", "BMFSFJ", "Bundesamt für Familie und zivilgesellschaftliche Aufgaben", "BAFzA"]
+    namen: ["Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend", "Bundesministerium für Familie, Senioren, Frauen und Jugend", "BMBFSFJ", "BMFSFJ", "Bundesamt für Familie und zivilgesellschaftliche Aufgaben", "BAFzA", "Deutsche Stiftung für Engagement und Ehrenamt", "DSEE"]
   - epl: "23"
     kurz: BMZ
     namen: ["Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung", "BMZ", "Deutsche Gesellschaft für Internationale Zusammenarbeit", "GIZ", "Engagement Global", "Engagement Global gGmbH", "Deutsches Evaluierungsinstitut der Entwicklungszusammenarbeit", "DEval"]

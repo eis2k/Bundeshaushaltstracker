@@ -12,6 +12,7 @@ from __future__ import annotations
 
 import argparse
 import json
+from datetime import date, datetime, timezone
 import re
 import sys
 from pathlib import Path
@@ -25,6 +26,10 @@ from .parse_csv import parse_soll_csv
 from .parse_xml import parse_rechnung_xml
 from .sozialkassen import build_sozialkassen
 from .steuern import build_steuern
+from .empfaenger import baue_stamm, build_empfaenger
+from . import bundestag as bt_mod
+from . import foerderkatalog as fk_mod
+from . import lobbyregister as lr_mod
 from .texts import build_texts
 from .texts import build_texts
 from .sv import load_manual, mark_sv, mark_transfers
@@ -202,6 +207,50 @@ def cmd_build(args: argparse.Namespace) -> int:
         ids_by_year = {j: {r.id for r in rows} for j, rows in years.items()}
         written = build_sozialkassen(sk, sorted(years), out, ids_by_year)
         print(f"sozialkassen: {len(written)} Jahre")
+    lr_dir = raw / "lobbyregister"
+    if lr_dir.exists() and any(lr_dir.glob("R*_*.json")):
+        ohne = bool(getattr(args, "ohne_personen", False))
+        idx = build_empfaenger(manual_dir, raw, out, years, ist_years, mit_personen=not ohne, stand=date.today().isoformat())
+        n = len(json.loads(idx.read_text(encoding="utf-8"))["eintraege"])
+        print(f"empfaenger: {n} Seiten" + (" (ohne Personen)" if ohne else ""))
+    else:
+        print("empfaenger: keine Rohdaten, übersprungen")
+    return 0
+
+
+def cmd_fetch_empfaenger(args: argparse.Namespace) -> int:
+    """Lädt Lobbyregister (Gesamtexport), Biografien der Abgeordneten und Förderkatalog-Treffer nach data/raw/."""
+    raw, manual_dir = Path(args.raw), Path(args.manual)
+    quellen = {q.strip() for q in args.quellen.split(",") if q.strip()}
+    if "lobbyregister" in quellen:
+        datei = Path(args.gesamtexport) if args.gesamtexport else None
+        n = lr_mod.fetch_gesamtexport(raw, datei=datei)
+        print(f"lobbyregister: {n} Profile aus dem Gesamtexport")
+    if "bundestag" in quellen:
+        urls = bt_mod.alle_bio_urls(pause=args.pause)
+        if args.limit:
+            urls = urls[: args.limit]
+        w = bt_mod.fetch_bios(raw, urls, pause=args.pause)
+        print(f"bundestag: {len(urls)} Biografien, {len(w)} neu geladen")
+    if "foerderkatalog" in quellen:
+        import yaml
+        manual = {}
+        mf = manual_dir / "empfaenger.yaml"
+        if mf.exists():
+            with open(mf, encoding="utf-8") as f:
+                manual = yaml.safe_load(f) or {}
+        stamm, _ = baue_stamm(manual, lr_mod.lade_profile(raw), {})
+        ziele = [(s.id, s.foerderkatalog or s.name) for s in stamm.values() if s.foerderkatalog or s.lobbyregister or s.titel]
+        if args.limit:
+            ziele = ziele[: args.limit]
+        w = fk_mod.fetch_projekte(raw, ziele, fk_mod.Sitzung(pause=args.pause))
+        print(f"foerderkatalog: {len(ziele)} Empfänger gesucht, {len(w)} neu")
+    log = raw / "fetch_log.json"
+    alt = json.loads(log.read_text(encoding="utf-8")) if log.exists() else []
+    if not isinstance(alt, list):
+        alt = [alt]
+    alt.append({"zeit": datetime.now(timezone.utc).isoformat(timespec="seconds"), "kommando": "fetch-empfaenger", "quellen": sorted(quellen)})
+    log.write_text(json.dumps(alt, ensure_ascii=False, indent=1), encoding="utf-8", newline="\n")
     return 0
 
 
@@ -232,8 +281,17 @@ def main(argv: list[str] | None = None) -> int:
     b = sub.add_parser("build", help="Build-Dateien erzeugen")
     b.add_argument("--from", dest="von", type=int, default=2015)
     b.add_argument("--to", dest="bis", type=int, default=2026)
+    b.add_argument("--ohne-personen", dest="ohne_personen", action="store_true", help="Empfänger-Seiten ohne Personen und Verbindungen bauen")
     common(b)
     b.set_defaults(func=cmd_build)
+
+    fe = sub.add_parser("fetch-empfaenger", help="Lobbyregister, Bundestags-Biografien und Förderkatalog laden")
+    fe.add_argument("--quellen", default="lobbyregister,bundestag,foerderkatalog")
+    fe.add_argument("--limit", type=int, default=0)
+    fe.add_argument("--pause", type=float, default=1.5)
+    fe.add_argument("--gesamtexport", default=None, help="bereits geladene Gesamtexport-Datei statt Download")
+    common(fe)
+    fe.set_defaults(func=cmd_fetch_empfaenger)
 
     c = sub.add_parser("check", help="nur Summenprüfung eines Jahres")
     c.add_argument("jahr", type=int)

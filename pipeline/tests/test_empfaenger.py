@@ -104,3 +104,13 @@ def test_verbindungssatz_ist_tatsachensatz():
     assert "Verdacht" not in s
     assert "DEval gGmbH erhielt laut Lobbyregister Mittel von: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung" in s
     assert "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung" in s
+
+
+def test_empfaenger_aus_titeln_zufuehrung_und_baumassnahme():
+    rows = [row("07-0705-68601", "Zuführung an die Stiftung Forum Recht"),
+            row("04-0452-89401", "Baumaßnahme Stiftung Denkmal für die ermordeten Juden Europas"),
+            row("04-0452-68531", "Beitrag an die Stiftung Preußischer Kulturbesitz")]
+    e = empfaenger_aus_titeln(rows)
+    assert e[norm_name("Stiftung Forum Recht")][1] == ["07-0705-68601"]
+    assert e[norm_name("Stiftung Denkmal für die ermordeten Juden Europas")][1] == ["04-0452-89401"]
+    assert e[norm_name("Stiftung Preußischer Kulturbesitz")][1] == ["04-0452-68531"]

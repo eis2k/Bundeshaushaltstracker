@@ -18,7 +18,7 @@ Und weil Zuschauen nicht reicht: Jeder kann den Haushalt umbauen. Rentenzuschuss
 
 **Zehn Jahre zurück.** Eine Jahresleiste von 2015 bis 2025, zum Ziehen oder Abspielen, umschaltbar zwischen Plan (Soll), tatsächlicher Ausgabe (Ist) und inflationsbereinigt. Dazu die Rangliste **„Was ist gewachsen?“**: jeder Titel mit Wert damals, Wert heute, Zuwachs und Verlaufskurve, filterbar nach Zuwendungen an Vereine, Firmen, Personal oder Geschrumpftes. Auffälliges rutscht von selbst nach oben.
 
-**Wer bekommt es.** Jeder Empfänger hat eine Seite: Geld vom Bund über zehn Jahre, aus welchen Titeln und Ministerien, Rang unter Empfängern gleicher Art, Rechtsform, Lobbyregister-Eintrag, Vorstand und Geschäftsführung. Und eine Zeitlinie, in der Zahlungen und Postenwechsel nebeneinanderstehen.
+**Wer bekommt es.** Jeder Empfänger von Bundesmitteln, der aus amtlichen Quellen hervorgeht, hat eine Seite (Ansicht „Empfänger“): ganz oben die **belegten Verbindungen** zu Abgeordneten und Regierungsmitgliedern als Tatsachensätze mit Fundstelle, dann das Geld vom Bund aus drei Quellen nebeneinander (Haushaltstitel über zehn Jahre, Zuwendungen laut Lobbyregister in Spannen, Projekte aus dem Förderkatalog; nie addiert), dann wer dahintersteht (gesetzliche Vertreter und Interessenvertreter laut Lobbyregister) und die Pflichtangaben des Empfängers (Finanzierungsquellen, Spenden, Lobbyausgaben, Jahresabschluss mit abgelesenen Kennzahlen und Seitenangabe). Eigenangaben sind als solche gekennzeichnet. Verbindungen erscheinen automatisch nur bei exakt gleichem Organisationsnamen in beiden Quellen; alles Ähnliche wartet in einer Prüfliste (`data/review/`) auf einen Menschen. Im Geldfluss führt ein Titel, dessen Zweckbestimmung den Empfänger nennt, direkt zur Empfänger-Seite; alle anderen enden bei „Empfänger nicht veröffentlicht“ mit Link zur Liste des Ministeriums und zur IFG-Anfrage.
 
 **Wer entscheidet.** Jede Person in öffentlicher Funktion (Regierung, Staatssekretäre, Abgeordnete, Vorstände von Empfängern, registrierte Lobbyisten) hat eine Akte: Ämter, Mandate, Posten, Nebentätigkeiten, mit Zeitraum und Quelle. Ein Knopf „Umfeld zeigen“ öffnet ein Netz, zwei Schritte weit, nie das ganze Knäuel. Das Netz dient zum Finden, die Akte zum Belegen.
 
@@ -101,7 +101,7 @@ Tests: `cd pipeline && uv run pytest` und `cd web && npm test && npm run check`.
 
 Der Bundeshaushaltstracker lebt davon, dass viele nachprüfen. Drei Wege:
 
-- **Beleg einreichen.** Du kennst eine amtliche Quelle für eine Zahlung, einen Posten, eine Verbindung, die fehlt? Issue oder Pull Request mit Link, Datum und dem, was die Quelle belegt. Ohne amtliche Quelle wird nichts aufgenommen, auch nicht, wenn es plausibel klingt.
+- **Beleg einreichen.** Du kennst eine amtliche Quelle für eine Zahlung, einen Posten, eine Verbindung, die fehlt? Issue oder Pull Request mit Link, Datum und dem, was die Quelle belegt. Ohne amtliche Quelle wird nichts aufgenommen, auch nicht, wenn es plausibel klingt. Auf jeder Empfänger-Seite öffnet „Fehler melden / Beleg einreichen“ ein vorausgefülltes Issue; die Prüflisten unter `data/review/` zeigen, welche Zuordnungen noch auf Bestätigung warten.
 - **Fehler melden.** Eine Zahl stimmt nicht, eine Zuordnung ist falsch, ein Text ist unklar? Issue mit Link auf die Stelle.
 - **Erklärtexte schreiben.** Jeder Haushaltstitel soll in zwei Sätzen erklärt sein, was er ist und wer ihn bekommt, mit Paragraf oder Quelle. Es sind einige tausend. Jede Hilfe zählt.
 

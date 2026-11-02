@@ -20,6 +20,7 @@ from typing import Callable
 from .portal import TIMEOUT, USER_AGENT
 
 LISTE_URL = "https://www.lobbyregister.bundestag.de/sucheJson"
+GESAMT_URL = "https://www.lobbyregister.bundestag.de/sucheDetailJson"
 FEDERAL = "GERMAN_PUBLIC_SECTOR_FEDERAL"
 
 
@@ -257,3 +258,38 @@ def lade_profile(raw_dir: Path) -> list[Profil]:
         with open(p, encoding="utf-8") as f:
             out.append(extract_profil(json.load(f)))
     return out
+
+
+def split_gesamtexport(text: str, raw_dir: Path) -> int:
+    """Zerlegt den Gesamtexport aller Detailprofile (eine Anfrage statt tausender) in Einzeldateien; natürliche Personen bleiben weg."""
+    d = _dir(raw_dir)
+    start = text.find('"results"')
+    if start < 0:
+        return 0
+    pos = text.index("[", start) + 1
+    dec = json.JSONDecoder()
+    n = 0
+    while True:
+        while pos < len(text) and text[pos] in " \r\n\t,":
+            pos += 1
+        if pos >= len(text) or text[pos] == "]":
+            break
+        obj, end = dec.raw_decode(text, pos)
+        pos = end
+        li = obj.get("lobbyistIdentity") or {}
+        nr = obj.get("registerNumber")
+        eid = (obj.get("registerEntryDetails") or {}).get("registerEntryId")
+        if nr and eid is not None and li.get("identity") != "NATURAL":
+            (d / f"{nr}_{eid}.json").write_text(json.dumps(obj, ensure_ascii=False), encoding="utf-8", newline="\n")
+            n += 1
+    return n
+
+
+def fetch_gesamtexport(raw_dir: Path, http: Callable[[str], bytes] = _urlopen_bytes, datei: Path | None = None) -> int:
+    """Lädt den Gesamtexport (oder nutzt eine bereits geladene Datei) und zerlegt ihn in Profile."""
+    if datei is not None:
+        data = Path(datei).read_bytes()
+    else:
+        data = http(GESAMT_URL)
+        (_dir(raw_dir) / "gesamtexport.json").write_bytes(data)
+    return split_gesamtexport(data.decode("utf-8"), raw_dir)
