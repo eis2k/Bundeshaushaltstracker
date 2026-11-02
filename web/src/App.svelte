@@ -21,6 +21,7 @@
   import Netz from "./lib/views/Netz.svelte";
   import Ministerien from "./lib/views/Ministerien.svelte";
   import PolitikVerantwortung from "./lib/views/PolitikVerantwortung.svelte";
+  import Simulator from "./lib/views/Simulator.svelte";
   import Dashboard from "./lib/views/Dashboard.svelte";
   import Schnittwechsel from "./lib/ui/Schnittwechsel.svelte";
 
@@ -43,7 +44,7 @@
 
   const haushalt = $derived(app.view === "fluss" || app.view === "karte" || app.view === "saeulen" || app.view === "gewachsen");
   /** Geldflüsse bringen ihre Spalten selbst mit (Spec §4.11). */
-  const mitPanel = $derived((haushalt && app.view !== "fluss") || app.view === "simulator");
+  const mitPanel = $derived(haushalt && app.view !== "fluss");
 </script>
 
 <div class="app">
@@ -82,7 +83,7 @@
           {:else if app.view === "ministerien"}
             <Ministerien {app} />
           {:else if app.view === "simulator"}
-            <div class="soon">Haushaltssimulator: Diese Ansicht entsteht gerade. Die Regler stehen rechts im Seitenpanel und auf den Haushaltsansichten.</div>
+            <Simulator {app} />
           {:else if app.view === "politik"}
             <PolitikVerantwortung {app} />
           {:else if app.view === "empfaenger"}
