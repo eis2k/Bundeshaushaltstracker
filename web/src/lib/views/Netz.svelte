@@ -45,7 +45,8 @@
 
   $effect(() => {
     if (!svgEl) return;
-    const z = zoom<SVGSVGElement, unknown>().scaleExtent([0.4, 4]).on("zoom", (e) => (transform = e.transform));
+    // kompakt: Mausrad scrollt die Seite, Zoom nur mit Strg (Spec §4.12)
+    const z = zoom<SVGSVGElement, unknown>().scaleExtent([0.4, 4]).filter((e: Event) => !kompakt || e.type !== "wheel" || (e as WheelEvent).ctrlKey).on("zoom", (e) => (transform = e.transform));
     select(svgEl).call(z);
     return () => { select(svgEl!).on(".zoom", null); };
   });
@@ -87,7 +88,7 @@
         <line x1={s.x} y1={s.y} x2={t.x} y2={t.y} stroke={aktiv ? "var(--accent)" : "var(--header)"} stroke-opacity={aktiv ? 1 : 0.45} stroke-width={aktiv ? st.width + 1.5 : st.width} stroke-dasharray={st.dasharray || undefined} role="presentation" />
         <!-- breite, unsichtbare Trefferfläche: klickbar und per Tastatur erreichbar -->
         <line class="treffer" x1={s.x} y1={s.y} x2={t.x} y2={t.y} stroke="transparent" stroke-width="12" role="button" tabindex="0" aria-label={l.kante.text}
-              onclick={() => (gewaehlt = aktiv ? null : l.kante)} onkeydown={(e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); gewaehlt = aktiv ? null : l.kante; } }}
+              onclick={() => { if (!kompakt) gewaehlt = aktiv ? null : l.kante; }} onkeydown={(e) => { if (!kompakt && (e.key === "Enter" || e.key === " ")) { e.preventDefault(); gewaehlt = aktiv ? null : l.kante; } }}
               onmouseenter={(e) => (hover = { x: e.clientX, y: e.clientY, text: `${l.kante.text} · ${l.kante.quelle.kurz}${l.kante.quelle.etikett ? " · " + l.kante.quelle.etikett : ""}${l.kante.stand ? " · Stand " + l.kante.stand : ""}` })}
               onmouseleave={() => (hover = null)} />
       {/each}

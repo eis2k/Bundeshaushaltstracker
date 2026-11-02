@@ -1,6 +1,6 @@
 <script lang="ts">
   /** Empfänger-Detailseite „Wer profitiert? – <Name>“ (Spec §4.11): Profilkarte links, Reiter, Übersicht mit Fluss, „Auf einen Blick“ und Karten. */
-  import { onMount } from "svelte";
+  import { onMount, untrack } from "svelte";
   import { BarChart3, Building2, FileText, Landmark, Scale, Share2, Users, Waypoints } from "lucide-svelte";
   import { EMPFAENGER_ART_LABELS, aufEinenBlick, fmtSpanne, geldAus, issueUrl, summeSeit, titelZeitreihe, zuwendungenJahr, type EmpfaengerSeite } from "../model/empfaenger";
   import { fmtEuro } from "../model/format";
@@ -17,7 +17,7 @@
   onMount(() => { void app.ensurePersonen(); });
   /** Eingebettetes Umfeld (Spec §4.12), je Seite nachgeladen. */
   let umfeld = $state<Umfeld | null>(null);
-  $effect(() => { const id = seite.id; umfeld = null; void app.ladeUmfeld(`e:${id}`).then((u) => { if (seite.id === id) umfeld = u; }); });
+  $effect(() => { const id = seite.id; umfeld = null; void untrack(() => app.ladeUmfeld(`e:${id}`)).then((u) => { if (seite.id === id) umfeld = u; }); });
 
   type Reiter = "uebersicht" | "geldfluesse" | "verbindungen" | "personen" | "zeitverlauf" | "quellen";
   let reiter = $state<Reiter>("uebersicht");

@@ -5,8 +5,7 @@
   import { kennzahlen } from "../model/dashboard";
   import { fmtEuro } from "../model/format";
   import { anzahlEmpfaenger, topEmpfaenger, verantwortung } from "../model/profiteure";
-  import { ausgabenNachEinzelplan } from "../model/bereiche";
-  import { colorFor } from "./colors";
+  import { ausgabenNachEinzelplan, ringFarben } from "../model/bereiche";
   import Ring from "../ui/Ring.svelte";
   import type { AppState } from "../state.svelte";
   import HerkunftVerwendung from "../ui/HerkunftVerwendung.svelte";
@@ -31,7 +30,13 @@
   const spalteGesamt = $derived(fokusEpl && app.jahr === letztesJahr ? anzahlEmpfaenger(fokusEpl, app.empfaengerIndex) : 0);
   /** Reiter „Nach Bereichen“ (Spec §4.12): Ring der Ausgaben je Einzelplan statt des Sankeys; lokal, nicht im Link. */
   let bereiche = $state(false);
-  const teile = $derived(ausgabenNachEinzelplan(data, app.scenario.includeSv, app.factors, 8).map((b) => ({ id: b.epl, label: b.label, wert: b.wert, anteil: b.anteil, farbe: colorFor(b.epl ?? "rest") })));
+  const teile = $derived.by(() => {
+    const b = ausgabenNachEinzelplan(data, app.scenario.includeSv, app.factors, 8);
+    const farben = ringFarben(b.map((x) => x.epl));
+    return b.map((x, i) => ({ id: x.epl, label: x.label, wert: x.wert, anteil: x.anteil, farbe: farben[i] }));
+  });
+  // Fokuswechsel von außen (Verantwortung, Suche, Links) beendet die Bereichsansicht
+  $effect(() => { app.focus; app.topf; bereiche = false; });
   const reiter = $derived([
     { id: "gesamt", label: "Gesamtübersicht", on: !bereiche && app.topf === "bund" && app.focus.length === 0 },
     { id: "ministerien", label: "Nach Ministerien", on: !bereiche && app.topf === "bund" && app.focus.length > 0 },
@@ -105,7 +110,8 @@
   .mitte[aria-busy="true"] { opacity: .7; }
   h3 { margin: 0 0 8px; font-size: 14px; color: var(--header); display: flex; gap: 8px; align-items: baseline; flex-wrap: wrap; }
   h3 small { font-weight: 400; font-size: 11px; }
-  .ring { display: grid; grid-template-columns: 240px minmax(0, 1fr); gap: 18px; align-items: center; }
+  .ring { display: grid; grid-template-columns: minmax(160px, 240px) minmax(0, 1fr); gap: 18px; align-items: center; }
+  .ring :global(svg) { width: 100%; height: auto; }
   .teile { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 6px; font-size: 12px; }
   .teile li { display: grid; grid-template-columns: 12px 1fr auto auto; gap: 8px; align-items: center; }
   .teile i { width: 12px; height: 12px; border-radius: 4px; display: inline-block; }

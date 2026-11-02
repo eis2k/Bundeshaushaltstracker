@@ -74,7 +74,7 @@
         <button onclick={() => app.waehleUnteransicht("netz")}><Share2 size={16} />Verflechtungen zeigen</button>
         <button onclick={() => app.setView("simulator")}><SlidersHorizontal size={16} />Haushalt verändern</button>
       </div>
-      <h3>Aktuelle Entwicklung <small class="muted">Gesamtausgaben, Index {entwicklung[0]?.jahr ?? ""} = 100</small></h3>
+      <h3>Aktuelle Entwicklung <small class="muted">Gesamtausgaben und Investitionen, Index {entwicklung[0]?.jahr ?? ""} = 100</small></h3>
       {#if entwicklung.length > 1}
         <svg viewBox="0 0 320 130" class="linie" role="img" aria-label="Entwicklung der Gesamtausgaben und der Investitionen als Index">
           {#if hatInvestitionen}<polyline points={linie("investitionen")} fill="none" stroke="var(--beitraege)" stroke-width="2" stroke-dasharray="5 3" />{/if}
@@ -84,7 +84,7 @@
             {#if e.investitionen != null}<circle cx={punkt(i, e.investitionen).split(",")[0]} cy={punkt(i, e.investitionen).split(",")[1]} r="2.5" fill="var(--beitraege)"><title>{e.jahr}: Investitionen {e.investitionen.toLocaleString("de-DE")}</title></circle>{/if}
           {/each}
         </svg>
-        <div class="achse"><span>{entwicklung[0].jahr}</span><span>{entwicklung[entwicklung.length - 1].jahr}: {entwicklung[entwicklung.length - 1].gesamt?.toLocaleString("de-DE")}{#if entwicklung[entwicklung.length - 1].investitionen != null} · Investitionen {entwicklung[entwicklung.length - 1].investitionen?.toLocaleString("de-DE")}{/if}</span></div>
+        <div class="achse"><span>{entwicklung[0].jahr}</span><span>{entwicklung[entwicklung.length - 1].jahr}: {entwicklung[entwicklung.length - 1].gesamt?.toLocaleString("de-DE")}{#if entwicklung[entwicklung.length - 1].investitionen != null}&nbsp;· Investitionen {entwicklung[entwicklung.length - 1].investitionen?.toLocaleString("de-DE")}{/if}</span></div>
         <div class="legende"><span><i style="background:var(--nav-on)"></i> Gesamtausgaben</span>{#if hatInvestitionen}<span><i class="dash" style="border-color:var(--beitraege)"></i> Investitionen (Hauptgruppen 7, 8)</span>{/if}</div>
         <p class="muted small">Quelle: bundeshaushalt.de, {app.stand === "ist" ? "Ist" : "Soll"}, Einzelpläne ohne Sondervermögen; Investitionen = Baumaßnahmen und sonstige Investitionen nach Gruppierungsplan.</p>
       {:else}
@@ -111,7 +111,7 @@
       {#if groesstes}
         <div class="minister">
           {#if chef}<Avatar name={chef.name} size={44} />{:else}<Avatar name={groesstes.name} art="organisation" size={44} />{/if}
-          <div><b>{groesstes.name}</b><small class="muted">{chef ? `${chef.amt}: ${chef.name}` : groesstes.leitungHinweis}</small><small>Haushalt {app.jahr}: <b class="tabular">{fmtEuro(groesstes.ausgaben)}</b> · {groesstesAnteil.toLocaleString("de-DE")} % der Ausgaben</small></div>
+          <div><b>{groesstes.name}</b><small class="muted">{chef ? `${chef.amt}: ${chef.name}` : groesstes.leitungHinweis}</small><small>Haushalt {app.jahr}: <b class="tabular">{fmtEuro(groesstesEffektiv)}</b> · {groesstesAnteil.toLocaleString("de-DE")} % der Ausgaben</small></div>
         </div>
         <button class="mehr" onclick={() => app.setView("ministerien")}>Alle Ministerien</button>
       {/if}

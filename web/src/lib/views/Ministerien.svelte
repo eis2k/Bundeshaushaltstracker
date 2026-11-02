@@ -28,7 +28,7 @@
   let darstellung = $state<"karten" | "tabelle">("karten");
   let sortiere = $state<"haushalt" | "veraenderung" | "epl">("haushalt");
   const tabelle = $derived.by(() => {
-    const t = ministerienTabelle(liste, app.vorjahrData, app.scenario.includeSv);
+    const t = ministerienTabelle(liste, app.data ?? app.viewData!, app.vorjahrData, app.scenario.includeSv);
     if (sortiere === "epl") return [...t].sort((a, b) => a.epl.localeCompare(b.epl));
     if (sortiere === "veraenderung") return [...t].sort((a, b) => (b.veraenderung ?? -Infinity) - (a.veraenderung ?? -Infinity));
     return t;
@@ -146,7 +146,7 @@
           {@const leit = chefVon(x.leitung)}
           <tr class:on={m?.epl === x.epl} onclick={() => { gewaehlt = x.epl; reiter = "geldfluesse"; }}>
             <td><span class="epl">{x.epl}</span> <b>{x.name}</b></td>
-            <td>{#if leit}<span class="leit"><Avatar name={leit.name} size={24} />{leit.name} {#if leit.partei}<Partei name={parteiKurz(leit.partei)} />{/if}</span>{:else}<span class="muted">{x.leitungHinweis}</span>{/if}</td>
+            <td>{#if leit}<span class="leit"><Avatar name={leit.name} size={24} /><span class="leitname">{leit.name} {#if leit.partei}<Partei name={parteiKurz(leit.partei)} />{/if}<small class="muted">{leit.amt}{#if x.leitungHinweis} · {x.leitungHinweis}{/if}</small></span></span>{:else}<span class="muted">{x.leitungHinweis}</span>{/if}</td>
             <td class="num tabular">{fmtEuro(x.ausgaben)}</td>
             <td class="num tabular">{pct(x.veraenderung)}</td>
             <td class="num tabular">{summe ? (Math.round((x.ausgaben / summe) * 1000) / 10).toLocaleString("de-DE") : 0} %</td>
@@ -154,7 +154,7 @@
         {/each}
       </tbody>
     </table>
-    <p class="muted small">Änderung: Soll gegen Soll des Vorjahres, nominal, ohne deine Regler; „–“ ohne Vorjahr im Bestand. Ressortzuschnitte wechseln zwischen Wahlperioden.</p>
+    <p class="muted small">Änderung: Soll gegen Soll des Vorjahres, nominal, ohne deine Regler, unabhängig von Ist- oder Preisansicht; „–“ ohne Vorjahr im Bestand. Ressortzuschnitte wechseln zwischen Wahlperioden.</p>
   </div>
   {:else}
   <div class="karten">
@@ -219,6 +219,8 @@
   .sort { background: none; border: 0; padding: 0; font: inherit; color: inherit; cursor: pointer; text-transform: inherit; letter-spacing: inherit; }
   .sort.on { color: var(--header); text-decoration: underline; }
   .leit { display: inline-flex; align-items: center; gap: 6px; }
+  .leitname { display: flex; flex-direction: column; }
+  .leitname small { font-size: 10px; }
   .karten { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 10px; }
   .karte { text-align: left; font: inherit; background: var(--panel); border: 1px solid var(--border); border-radius: var(--radius); padding: 12px 14px; display: flex; flex-direction: column; gap: 8px; cursor: pointer; }
   .karte:hover { border-color: var(--nav-on); }

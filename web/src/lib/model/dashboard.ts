@@ -41,6 +41,7 @@ export function herkunftVerwendung(data: YearData, includeSv: boolean, factors: 
   // Kredite aus der Bilanz des Szenarios (wie Seitenkopf und Fluss), nicht aus den Kreditzeilen des Plans
   const kredite = balance(data, factors, includeSv, extraBund).neueSchulden;
   const herkunftRoh = gruppen.map((g) => ({ id: g.id, label: g.label, wert: g.isKredit ? kredite : g.rows.reduce((s, r) => s + effectiveValue(r, factors), 0) })).filter((x) => x.wert !== 0);
+  if (extraBund > 0) herkunftRoh.push({ id: "modell", label: "Steuer-Modelle (Annahme)", wert: extraBund });
   const hs = herkunftRoh.reduce((s, x) => s + x.wert, 0) || 1;
   const herkunft = herkunftRoh.sort((a, b) => b.wert - a.wert).map((x) => ({ ...x, anteil: Math.round((x.wert / hs) * 1000) / 10 }));
 

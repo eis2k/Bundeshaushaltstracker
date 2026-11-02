@@ -19,7 +19,7 @@
 {#snippet liste(posten: Posten[], ton: "gruen" | "blau")}
   <ul class="liste">
     {#each posten as p (p.id)}
-      <li><span class="kachel {ton}">{#if ton === "gruen"}<Coins size={14} />{:else}<Landmark size={14} />{/if}</span><span class="l">{p.label}</span><b class="tabular">{fmtEuro(p.wert)}</b><small class="tabular">{p.anteil.toLocaleString("de-DE")} %</small></li>
+      <li class:modell={p.id === "modell"}><span class="kachel {ton}">{#if ton === "gruen"}<Coins size={14} />{:else}<Landmark size={14} />{/if}</span><span class="l">{p.label}</span><b class="tabular">{fmtEuro(p.wert)}</b><small class="tabular">{p.anteil.toLocaleString("de-DE")} %</small></li>
     {/each}
   </ul>
 {/snippet}
@@ -43,4 +43,5 @@
   .kachel { width: 26px; height: 26px; border-radius: 8px; display: inline-flex; align-items: center; justify-content: center; }
   .kachel.gruen { background: var(--chip-gruen); color: var(--gruen-fg); }
   .kachel.blau { background: var(--chip-blau); color: var(--nav-on); }
+  .liste li.modell { border: 1px dashed var(--accent); background: transparent; }
 </style>

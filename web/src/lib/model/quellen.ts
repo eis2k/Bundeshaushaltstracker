@@ -2,6 +2,7 @@
 
 import type { EmpfaengerIndex } from "./empfaenger";
 import type { PersonIndex } from "./personen";
+import type { Texte } from "./load";
 import type { Index } from "./types";
 
 export interface QuellenZeile { quelle: string; inhalt: string; zeitraum: string; stand: string | null; lizenz: string; url: string; datei: string | null }
@@ -13,6 +14,8 @@ export interface QuellenEingabe {
   vpi: { quelle?: string; stand?: string } | null;
   /** Zahl der Steuer-Modelle im Build. */
   steuern: number;
+  /** Erklärtexte (Stand je Text). */
+  texte: Texte | null;
 }
 
 const DL_DE = "Datenlizenz Deutschland – Namensnennung 2.0";
@@ -30,17 +33,20 @@ function spanne(jahre: number[] | undefined): string {
 export function quellenTabelle(e: QuellenEingabe): QuellenZeile[] {
   const erzeugt = datum(e.index?.erzeugt);
   const haushaltZeitraum = e.index ? `${spanne(e.index.jahre)}${e.index.ist_bis ? `, Ist bis ${e.index.ist_bis}` : ""}` : "–";
+  const svJahre = e.index?.sv_jahre?.length ? e.index.sv_jahre.join(", ") : null;
+  const letztesJahr = e.index?.jahre?.length ? Math.max(...e.index.jahre) : null;
+  const texteStand = e.texte ? Object.values(e.texte).map((t) => t.stand).filter(Boolean).sort().at(-1) ?? null : null;
   return [
-    { quelle: "Bundeshaushalt (bundeshaushalt.de, BMF)", inhalt: "Soll je Titel aller Einzelpläne, Ist aus der Haushaltsrechnung; Zeitreihe je Einzelplan, Kapitel und Titel", zeitraum: haushaltZeitraum, stand: erzeugt, lizenz: DL_DE, url: "https://www.bundeshaushalt.de", datei: "/data/zeitreihe.json" },
-    { quelle: "Sozialkassen (Wirtschaftspläne, Bundesanzeiger)", inhalt: "Einnahmen und Ausgaben von Rente, Krankenversicherung, Pflege und Bundesagentur", zeitraum: e.index ? spanne(e.index.sv_jahre) : "–", stand: erzeugt, lizenz: "Amtliche Veröffentlichung", url: "https://www.bundesanzeiger.de", datei: "/data/index.json" },
+    { quelle: "Bundeshaushalt (bundeshaushalt.de, BMF)", inhalt: `Soll je Titel aller Einzelpläne, Ist aus der Haushaltsrechnung; Zeitreihe je Einzelplan, Kapitel und Titel${svJahre ? `; Wirtschaftspläne der Sondervermögen für ${svJahre}` : ""}`, zeitraum: haushaltZeitraum, stand: erzeugt, lizenz: DL_DE, url: "https://www.bundeshaushalt.de", datei: "/data/zeitreihe.json" },
+    { quelle: "Sozialkassen (DRV, BMG KJ 1 und SPV-Finanzentwicklung, BA-Geschäftsberichte)", inhalt: "Einnahmen und Ausgaben von Rente, Krankenversicherung, Pflege und Bundesagentur je Jahr, Quelle je Datei vermerkt", zeitraum: e.index ? spanne(e.index.jahre) : "–", stand: erzeugt, lizenz: "Amtliche Veröffentlichungen", url: "https://www.deutsche-rentenversicherung.de/DRV/DE/Experten/Zahlen-und-Fakten/zahlen-und-fakten_node.html", datei: letztesJahr ? `/data/sozialkassen/${letztesJahr}.json` : null },
     { quelle: "Lobbyregister des Deutschen Bundestages", inhalt: "Eintragungen, Zuwendungen des Bundes (Spannen), gesetzliche Vertreter, Jahresabschlüsse; Eigenangaben der Organisationen", zeitraum: "laufende Versionen", stand: datum(e.empfaenger?.stand), lizenz: "Amtliche Veröffentlichung (§ 1 LobbyRG)", url: "https://www.lobbyregister.bundestag.de", datei: "/data/empfaenger/index.json" },
     { quelle: "Förderkatalog des Bundes", inhalt: "Projektförderung (Kennzeichen, Ressort, Laufzeit, Bundesanteil); höchstens 100 Projekte je Suche", zeitraum: "laufende Projekte", stand: datum(e.empfaenger?.stand), lizenz: DL_DE, url: "https://foerderportal.bund.de/foekat/", datei: "/data/empfaenger/index.json" },
     { quelle: "Biografien auf bundestag.de", inhalt: "Mandate, Fraktion, Ausschüsse, veröffentlichungspflichtige Angaben der Abgeordneten (Selbstauskünfte)", zeitraum: "21. Wahlperiode", stand: datum(e.personen?.stand), lizenz: "Amtliche Veröffentlichung", url: "https://www.bundestag.de/abgeordnete", datei: "/data/personen/index.json" },
     { quelle: "Kabinett (bundesregierung.de) und Pflegedatei", inhalt: "Mitglieder der Bundesregierung, Staatssekretäre, Ernennungsdaten mit Fundstelle", zeitraum: "aktuelles Kabinett", stand: datum(e.personen?.stand), lizenz: "Amtliche Veröffentlichung", url: "https://www.bundesregierung.de/breg-de/bundesregierung/bundeskabinett", datei: null },
     { quelle: "Parteispenden (Bundestagspräsident)", inhalt: "Veröffentlichungspflichtige Spenden über 35.000 € (davor 50.000 €) an Parteien, Drucksachen", zeitraum: "seit 2015", stand: datum(e.personen?.stand), lizenz: "Amtliche Veröffentlichung", url: "https://www.bundestag.de/parlament/praesidium/parteienfinanzierung/fundstellen50000", datei: null },
     { quelle: "Verbraucherpreisindex (Destatis)", inhalt: "Preisbereinigung für den Zeitvergleich", zeitraum: "ab 2015", stand: datum(e.vpi?.stand), lizenz: DL_DE, url: e.vpi?.quelle ?? "https://www.destatis.de", datei: "/data/vpi.json" },
-    { quelle: "Steuer-Modelle", inhalt: `${e.steuern} Modelle mit Annahmen, jede mit Quelle (BMF, DIW, Drucksachen)`, zeitraum: "Basisjahr je Modell", stand: erzeugt, lizenz: "Quellen je Annahme", url: "https://www.bundesfinanzministerium.de", datei: "/data/steuern.json" },
-    { quelle: "Erklärtexte", inhalt: "Kurze Einordnungen zu großen Titeln mit Belegen", zeitraum: "–", stand: erzeugt, lizenz: "CC BY 4.0", url: "https://github.com/eis2k/Bundeshaushaltstracker", datei: "/data/texte.json" },
+    { quelle: "Steuer-Modelle", inhalt: `${e.steuern} Modelle mit Annahmen, jede mit Quelle und Basisjahr (BMF, DIW, Drucksachen)`, zeitraum: "Basisjahr je Modell", stand: null, lizenz: "Quellen je Annahme", url: "https://www.bundesfinanzministerium.de", datei: "/data/steuern.json" },
+    { quelle: "Erklärtexte", inhalt: "Kurze Einordnungen zu großen Titeln mit Belegen", zeitraum: "–", stand: texteStand, lizenz: "CC BY 4.0", url: "https://github.com/eis2k/Bundeshaushaltstracker", datei: "/data/texte.json" },
   ];
 }
 

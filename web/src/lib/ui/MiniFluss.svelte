@@ -22,6 +22,7 @@
     const gruppen = steuern.slice(0, max);
     const restE = steuern.slice(max).reduce((s, g) => s + g.wert, 0);
     if (restE > 0) gruppen.push({ id: "E:weitere", label: "Weitere Einnahmen", wert: restE, kredit: false });
+    if (extraBund > 0) gruppen.push({ id: "modell", label: "Steuer-Modelle (Annahme)", wert: extraBund, kredit: false });
     gruppen.push(...alle.filter((g) => g.kredit));
     for (const g of gruppen) { nodes.push({ id: g.id, label: g.label, wert: g.wert, art: "einnahme" }); links.push({ source: g.id, target: "haushalt", value: g.wert }); }
     const ausgaben = new Map<string, number>();
@@ -44,7 +45,7 @@
     else { app.spur = []; app.setTopf("bund"); app.setView("fluss"); }
   }
   function farbe(n: SankeyNode<N, L>): string {
-    if (n.art === "einnahme") return n.id.startsWith("E:steuern") ? "var(--steuern)" : n.id.includes("kredit") ? "var(--bad)" : "var(--beitraege)";
+    if (n.art === "einnahme") return n.id.startsWith("E:steuern") ? "var(--steuern)" : n.id.includes("kredit") ? "var(--bad)" : n.id === "modell" ? "var(--accent)" : "var(--beitraege)";
     if (n.art === "haushalt") return "var(--header)";
     if (n.art === "rest") return "var(--rest)";
     return "var(--nav-on)";

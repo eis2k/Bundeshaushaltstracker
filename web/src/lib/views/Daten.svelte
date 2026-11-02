@@ -3,13 +3,14 @@
   import { onMount } from "svelte";
   import { Database, Download, ExternalLink } from "lucide-svelte";
   import { loadVpiInfo } from "../model/load";
+  import { fmtDatum } from "../model/format";
   import { LIZENZEN, LUECKEN, quellenTabelle } from "../model/quellen";
   import type { AppState } from "../state.svelte";
 
   let { app }: { app: AppState } = $props();
   let vpi = $state<{ quelle?: string; stand?: string } | null>(null);
   onMount(() => { void app.ensureEmpfaenger(); void app.ensurePersonen(); loadVpiInfo().then((v) => (vpi = v)).catch(() => (vpi = null)); });
-  const zeilen = $derived(quellenTabelle({ index: app.index, empfaenger: app.empfaengerIndex, personen: app.personIndex, vpi, steuern: app.steuern.length }));
+  const zeilen = $derived(quellenTabelle({ index: app.index, empfaenger: app.empfaengerIndex, personen: app.personIndex, vpi, steuern: app.steuern.length, texte: app.texte }));
 </script>
 
 <div class="daten">
@@ -24,7 +25,7 @@
               <td><b>{z.quelle}</b></td>
               <td class="inhalt">{z.inhalt}</td>
               <td class="tabular">{z.zeitraum}</td>
-              <td class="tabular">{z.stand ?? "–"}</td>
+              <td class="tabular stand">{z.stand ? fmtDatum(z.stand) : "–"}</td>
               <td class="lizenz">{z.lizenz}</td>
               <td class="links"><a href={z.url} target="_blank" rel="noopener" title="Quelle öffnen"><ExternalLink size={14} /> Quelle</a>{#if z.datei}<a href={z.datei} download title="Aufbereitete Datei (JSON)"><Download size={14} /> JSON</a>{/if}</td>
             </tr>
@@ -61,6 +62,7 @@
   td b { color: var(--header); }
   .inhalt { color: var(--fg); min-width: 220px; }
   .lizenz { color: var(--muted); white-space: nowrap; }
+  .stand { white-space: nowrap; }
   .links { white-space: nowrap; }
   .links a { display: inline-flex; align-items: center; gap: 4px; margin-right: 10px; color: var(--accent); text-decoration: none; }
   .links a:hover { text-decoration: underline; }

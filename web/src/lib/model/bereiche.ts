@@ -3,8 +3,20 @@
 import { effectiveValue, type Factors } from "./scenario";
 import { includeRow } from "./tree";
 import type { YearData } from "./types";
+import { EPL_PALETTE, colorFor } from "../views/colors";
 
 export interface Bereich { epl: string | null; label: string; wert: number; anteil: number }
+
+/** Farben wie im Sankey; bei Doppelung innerhalb des Rings die nächste freie Palettenfarbe (stabil nach Reihenfolge); Rest grau. */
+export function ringFarben(ids: (string | null)[]): string[] {
+  const belegt = new Set<string>();
+  return ids.map((id) => {
+    let f = id === null ? "var(--rest)" : colorFor(id);
+    if (id !== null && belegt.has(f)) f = EPL_PALETTE.find((c) => !belegt.has(c)) ?? f;
+    belegt.add(f);
+    return f;
+  });
+}
 
 export function ausgabenNachEinzelplan(data: YearData, includeSv: boolean, factors: Factors, max = 8): Bereich[] {
   const je = new Map<string, number>();

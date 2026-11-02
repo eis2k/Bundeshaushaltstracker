@@ -69,8 +69,8 @@ describe("Stufe 4d: Leitung im Wechseljahr, Tabelle", () => {
   test("ministerienTabelle: Änderung zum Vorjahr nominal, ohne Vorjahr null", () => {
     const liste = ministerien(fixtureYear, "soll", false, 2025, 2025, personen, null);
     const vorjahr: YearData = { ...fixtureYear, jahr: 2024, rows: fixtureYear.rows.map((r) => ({ ...r, soll: Math.round(r.soll * 0.8) })) };
-    const t = ministerienTabelle(liste, vorjahr, false);
+    const t = ministerienTabelle(liste, fixtureYear, vorjahr, false);
     expect(t.find((x) => x.epl === "11")?.veraenderung).toBe(25);
-    expect(ministerienTabelle(liste, null, false).every((x) => x.veraenderung === null)).toBe(true);
+    expect(ministerienTabelle(liste, fixtureYear, null, false).every((x) => x.veraenderung === null)).toBe(true);
   });
 });

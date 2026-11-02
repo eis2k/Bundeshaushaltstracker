@@ -1,7 +1,7 @@
 <script lang="ts">
   /** Karte „Politische Verantwortung“ (Spec §4.11): Leitung des fokussierten Einzelplans, Haushalt, Anteil, Top-Empfänger je Quelle. */
   import { ChevronRight, Info } from "lucide-svelte";
-  import { fmtEuro } from "../model/format";
+  import { fmtDatum, fmtEuro } from "../model/format";
   import type { TopEmpfaenger, Verantwortung } from "../model/profiteure";
   import Avatar from "./Avatar.svelte";
   import Partei from "./Partei.svelte";
@@ -32,11 +32,11 @@
       <div class="text">
         <b>{v.name}</b>
         {#if chef}
-          <span class="zeile">{rolle}: <button class="link" onclick={() => onAkte(chef.id)}>{chef.name}</button> <Partei name={chef.partei ? parteiKurz(chef.partei) : null} /></span>
+          <span class="zeile">{rolle}: <button class="link" onclick={() => onAkte(chef.id)}>{chef.name}</button> <Partei name={chef.partei ? parteiKurz(chef.partei) : null} />{#if chef.seit}<small class="muted">seit {fmtDatum(chef.seit)}</small>{/if}</span>
         {:else}
           <span class="zeile muted">{v.hinweis}</span>
         {/if}
-        {#each zuvor as z (z.id)}<span class="zeile muted">zuvor: <button class="link" onclick={() => onAkte(z.id)}>{z.name}</button>{#if z.bis} (bis {z.bis}){/if}</span>{/each}
+        {#each zuvor as z (z.id)}<span class="zeile muted">zuvor: <button class="link" onclick={() => onAkte(z.id)}>{z.name}</button>{#if z.bis} (bis {fmtDatum(z.bis)}){/if}</span>{/each}
         <span class="zeile">Haushalt: <b class="tabular">{fmtEuro(v.haushalt)}</b></span>
         <span class="zeile">Anteil: <b class="tabular">{v.anteil.toLocaleString("de-DE")} %</b></span>
       </div>

@@ -66,7 +66,8 @@ export function ministerien(data: YearData, stand: "soll" | "ist", includeSv: bo
         if (undatiert.length) { leitung = [...leitung, ...undatiert]; hinweis = `Ernennungsdatum nicht belegt: ${undatiert.map((l) => l.name).join(", ")}; Stand des Kabinettsabrufs`; }
       }
       if (!leitung.length) hinweis = `Leitung für ${jahr} nicht erfasst`;
-      leitung.sort((a, b) => rang(a.amt) - rang(b.amt) || (b.seit ?? "").localeCompare(a.seit ?? "") || a.name.localeCompare(b.name, "de"));
+      // Rang, dann amtierend (ohne bis) vor ausgeschieden, dann seit absteigend, dann Name
+      leitung.sort((a, b) => rang(a.amt) - rang(b.amt) || Number(!!a.bis) - Number(!!b.bis) || (b.seit ?? "").localeCompare(a.seit ?? "") || a.name.localeCompare(b.name, "de"));
       return { epl, name: data.epl[epl] ?? `Einzelplan ${epl}`, ausgaben: ausgaben.get(epl) ?? 0, leitung, leitungHinweis: hinweis, empfaenger: zaehler.get(epl) ?? 0 };
     })
     .sort((a, b) => b.ausgaben - a.ausgaben || a.epl.localeCompare(b.epl));
@@ -82,12 +83,15 @@ export function vorgaenger(leitung: Leitung[], chef: Leitung | null): Leitung[] 
   return leitung.filter((l) => rang(l.amt) <= 1 && l !== chef);
 }
 
-/** Tabellenansicht (Spec §4.12): Änderung zum Vorjahr nominal, Soll gegen Soll, ohne Regler; null ohne Vorjahr oder ohne positiven Vorjahreswert. */
-export function ministerienTabelle(liste: Ministerium[], vorjahr: YearData | null, includeSv: boolean): (Ministerium & { veraenderung: number | null })[] {
-  const vj = new Map<string, number>();
-  if (vorjahr) for (const r of vorjahr.rows) if (r.art === "A" && includeRow(r, includeSv)) vj.set(r.epl, (vj.get(r.epl) ?? 0) + r.soll);
+/** Tabellenansicht (Spec §4.12): Änderung zum Vorjahr nominal, Soll gegen Soll aus den Rohdaten beider Jahre (`jahr` = unveränderte Daten des
+ *  laufenden Jahres, nicht die Ist- oder Preisansicht), ohne Regler; null ohne Vorjahr oder ohne positiven Vorjahreswert. */
+export function ministerienTabelle(liste: Ministerium[], jahr: YearData, vorjahr: YearData | null, includeSv: boolean): (Ministerium & { veraenderung: number | null })[] {
+  const summe = (d: YearData) => { const m = new Map<string, number>(); for (const r of d.rows) if (r.art === "A" && includeRow(r, includeSv)) m.set(r.epl, (m.get(r.epl) ?? 0) + r.soll); return m; };
+  const jetzt = summe(jahr);
+  const vj = vorjahr ? summe(vorjahr) : new Map<string, number>();
   return liste.map((m) => {
     const v = vj.get(m.epl);
-    return { ...m, veraenderung: v && v > 0 ? Math.round(((m.ausgaben - v) / v) * 1000) / 10 : null };
+    const n = jetzt.get(m.epl) ?? 0;
+    return { ...m, veraenderung: v && v > 0 ? Math.round(((n - v) / v) * 1000) / 10 : null };
   });
 }
