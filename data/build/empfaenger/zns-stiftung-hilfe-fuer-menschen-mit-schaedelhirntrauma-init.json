@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003913/83015",
 "stand": "2026-07-21"
-}
+},
+"akte_id": "susanne-schaefer",
+"akte_sichtbar": false
 },
 {
 "name": "Christian Rainer Igel",
@@ -58,7 +60,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003913/83015",
 "stand": "2026-07-21"
-}
+},
+"akte_id": "christian-rainer-igel",
+"akte_sichtbar": true
 },
 {
 "name": "Christian Gerloff",
@@ -69,7 +73,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003913/83015",
 "stand": "2026-07-21"
-}
+},
+"akte_id": "christian-gerloff",
+"akte_sichtbar": false
 },
 {
 "name": "Edlyn Höller",
@@ -80,7 +86,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003913/83015",
 "stand": "2026-07-21"
-}
+},
+"akte_id": "edlyn-hoeller",
+"akte_sichtbar": false
 },
 {
 "name": "Matthias Schmolz",
@@ -91,7 +99,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003913/83015",
 "stand": "2026-07-21"
-}
+},
+"akte_id": "matthias-schmolz",
+"akte_sichtbar": false
 },
 {
 "name": "Andreas Storm",
@@ -102,7 +112,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003913/83015",
 "stand": "2026-07-21"
-}
+},
+"akte_id": "andreas-storm",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [

@@ -47,7 +47,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002315/86630",
 "stand": "2026-09-29"
-}
+},
+"akte_id": "martin-gerster",
+"akte_sichtbar": true
 },
 {
 "name": "Marc Henrichmann",
@@ -64,7 +66,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002315/86630",
 "stand": "2026-09-29"
-}
+},
+"akte_id": "marc-henrichmann",
+"akte_sichtbar": true
 },
 {
 "name": "Maik Pawlowsky",
@@ -75,7 +79,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002315/86630",
 "stand": "2026-09-29"
-}
+},
+"akte_id": "maik-pawlowsky",
+"akte_sichtbar": false
 },
 {
 "name": "Markus Jaugitz",
@@ -86,7 +92,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002315/86630",
 "stand": "2026-09-29"
-}
+},
+"akte_id": "markus-jaugitz",
+"akte_sichtbar": false
 },
 {
 "name": "Michael Matrian",
@@ -97,7 +105,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002315/86630",
 "stand": "2026-09-29"
-}
+},
+"akte_id": "michael-matrian",
+"akte_sichtbar": false
 },
 {
 "name": "Zippora Lojenburg",
@@ -108,7 +118,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002315/86630",
 "stand": "2026-09-29"
-}
+},
+"akte_id": "zippora-lojenburg",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [

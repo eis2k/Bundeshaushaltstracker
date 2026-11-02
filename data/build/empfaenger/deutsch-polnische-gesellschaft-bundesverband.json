@@ -47,7 +47,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000329/81965",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "simona-koss",
+"akte_sichtbar": true
 },
 {
 "name": "Jakob Reinhold",
@@ -58,7 +60,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000329/81965",
 "stand": "2026-07-06"
-}
+},
+"akte_id": "jakob-reinhold",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [

@@ -41,7 +41,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005460/79729",
 "stand": "2026-08-04"
-}
+},
+"akte_id": "kai-lanz",
+"akte_sichtbar": false
 },
 {
 "name": "Melanie Eckert",
@@ -52,7 +54,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005460/79729",
 "stand": "2026-08-04"
-}
+},
+"akte_id": "melanie-eckert",
+"akte_sichtbar": false
 },
 {
 "name": "Maria Herrmann",
@@ -69,7 +73,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005460/79729",
 "stand": "2026-08-04"
-}
+},
+"akte_id": "maria-herrmann",
+"akte_sichtbar": true
 }
 ],
 "verbindungen": [

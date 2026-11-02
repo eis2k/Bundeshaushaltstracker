@@ -88,7 +88,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002954/85826",
 "stand": "2026-09-16"
-}
+},
+"akte_id": "albrecht-foerster",
+"akte_sichtbar": false
 },
 {
 "name": "Julia Klinger",
@@ -99,7 +101,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002954/85826",
 "stand": "2026-09-16"
-}
+},
+"akte_id": "julia-klinger",
+"akte_sichtbar": false
 },
 {
 "name": "Thomas Schmidt",
@@ -110,7 +114,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002954/85826",
 "stand": "2026-09-16"
-}
+},
+"akte_id": "thomas-schmidt",
+"akte_sichtbar": false
 },
 {
 "name": "Jan Helmrich",
@@ -121,7 +127,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002954/85826",
 "stand": "2026-09-16"
-}
+},
+"akte_id": "jan-helmrich",
+"akte_sichtbar": false
 },
 {
 "name": "Philip Krämer",
@@ -138,7 +146,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002954/85826",
 "stand": "2026-09-16"
-}
+},
+"akte_id": "philip-kraemer",
+"akte_sichtbar": true
 },
 {
 "name": "Marcel Wolsing",
@@ -149,7 +159,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002954/85826",
 "stand": "2026-09-16"
-}
+},
+"akte_id": "marcel-wolsing",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [

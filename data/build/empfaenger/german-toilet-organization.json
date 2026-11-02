@@ -57,7 +57,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000550/81737",
 "stand": "2026-07-02"
-}
+},
+"akte_id": "reinhard-marth",
+"akte_sichtbar": false
 },
 {
 "name": "Barbara Wagner",
@@ -74,7 +76,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000550/81737",
 "stand": "2026-07-02"
-}
+},
+"akte_id": "barbara-wagner-lr-r000550",
+"akte_sichtbar": true
 },
 {
 "name": "Kilian Langenbach",
@@ -85,7 +89,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000550/81737",
 "stand": "2026-07-02"
-}
+},
+"akte_id": "kilian-langenbach",
+"akte_sichtbar": false
 },
 {
 "name": "Thilo Panzerbieter",
@@ -96,7 +102,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000550/81737",
 "stand": "2026-07-02"
-}
+},
+"akte_id": "thilo-panzerbieter",
+"akte_sichtbar": false
 },
 {
 "name": "Johannes Rück",
@@ -107,7 +115,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R000550/81737",
 "stand": "2026-07-02"
-}
+},
+"akte_id": "johannes-rueck",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [

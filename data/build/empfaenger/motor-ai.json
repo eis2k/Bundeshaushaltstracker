@@ -62,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007935/77446",
 "stand": "2026-05-28"
-}
+},
+"akte_id": "roy-uhlmann",
+"akte_sichtbar": false
 },
 {
 "name": "Adam Bahlke",
@@ -73,7 +75,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007935/77446",
 "stand": "2026-05-28"
-}
+},
+"akte_id": "adam-bahlke",
+"akte_sichtbar": false
 },
 {
 "name": "Constance Wendrich",
@@ -90,7 +94,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R007935/77446",
 "stand": "2026-05-28"
-}
+},
+"akte_id": "constance-wendrich",
+"akte_sichtbar": true
 }
 ],
 "verbindungen": [

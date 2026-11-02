@@ -102,7 +102,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003857/83358",
 "stand": "2026-08-04"
-}
+},
+"akte_id": "christoph-neuberger",
+"akte_sichtbar": false
 },
 {
 "name": "Ricarda Opitz",
@@ -113,7 +115,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003857/83358",
 "stand": "2026-08-04"
-}
+},
+"akte_id": "ricarda-opitz",
+"akte_sichtbar": false
 },
 {
 "name": "Johanna Hampf",
@@ -124,7 +128,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003857/83358",
 "stand": "2026-08-04"
-}
+},
+"akte_id": "johanna-hampf",
+"akte_sichtbar": false
 },
 {
 "name": "Charlotte Mysegades",
@@ -141,7 +147,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003857/83358",
 "stand": "2026-08-04"
-}
+},
+"akte_id": "charlotte-mysegades",
+"akte_sichtbar": true
 },
 {
 "name": "Sina Born",
@@ -152,7 +160,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R003857/83358",
 "stand": "2026-08-04"
-}
+},
+"akte_id": "sina-born",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [

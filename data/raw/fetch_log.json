@@ -187,5 +187,14 @@
   "quellen": [
    "foerderkatalog"
   ]
+ },
+ {
+  "zeit": "2026-11-02T10:08:06+00:00",
+  "kommando": "fetch-personen",
+  "quellen": [
+   "ausgeschiedene",
+   "kabinett",
+   "spenden"
+  ]
  }
 ]

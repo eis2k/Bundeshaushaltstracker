@@ -49,7 +49,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005567/85257",
 "stand": "2026-08-31"
-}
+},
+"akte_id": "dominic-schwickert",
+"akte_sichtbar": false
 },
 {
 "name": "Wolfgang Schroeder",
@@ -60,7 +62,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005567/85257",
 "stand": "2026-08-31"
-}
+},
+"akte_id": "wolfgang-schroeder",
+"akte_sichtbar": false
 },
 {
 "name": "Judith Siller",
@@ -77,7 +81,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005567/85257",
 "stand": "2026-08-31"
-}
+},
+"akte_id": "judith-siller",
+"akte_sichtbar": true
 },
 {
 "name": "Joachim Knodt",
@@ -94,7 +100,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005567/85257",
 "stand": "2026-08-31"
-}
+},
+"akte_id": "joachim-knodt",
+"akte_sichtbar": true
 },
 {
 "name": "Paul Jürgensen",
@@ -105,7 +113,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005567/85257",
 "stand": "2026-08-31"
-}
+},
+"akte_id": "paul-juergensen",
+"akte_sichtbar": false
 },
 {
 "name": "Andreas Oldenbourg",
@@ -116,7 +126,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R005567/85257",
 "stand": "2026-08-31"
-}
+},
+"akte_id": "andreas-oldenbourg",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [

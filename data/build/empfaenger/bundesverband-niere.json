@@ -47,7 +47,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002933/83778",
 "stand": "2026-07-29"
-}
+},
+"akte_id": "isabelle-jordans",
+"akte_sichtbar": true
 },
 {
 "name": "Carola Qual",
@@ -58,7 +60,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002933/83778",
 "stand": "2026-07-29"
-}
+},
+"akte_id": "carola-qual",
+"akte_sichtbar": false
 },
 {
 "name": "Norbert Hofste",
@@ -69,7 +73,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002933/83778",
 "stand": "2026-07-29"
-}
+},
+"akte_id": "norbert-hofste",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [

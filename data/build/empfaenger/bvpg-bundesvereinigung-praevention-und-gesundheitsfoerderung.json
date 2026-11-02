@@ -47,7 +47,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002856/79720",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "simone-borchardt",
+"akte_sichtbar": true
 },
 {
 "name": "Ellen Lundershausen",
@@ -58,7 +60,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002856/79720",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "ellen-lundershausen-lr-r002856",
+"akte_sichtbar": false
 },
 {
 "name": "Ulrike Pernack",
@@ -69,7 +73,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002856/79720",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "ulrike-pernack-lr-r002856",
+"akte_sichtbar": false
 },
 {
 "name": "Thomas Altgeld",
@@ -80,7 +86,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002856/79720",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "thomas-altgeld-lr-r002856",
+"akte_sichtbar": false
 },
 {
 "name": "Gisela Nellessen-Martens",
@@ -91,7 +99,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002856/79720",
 "stand": "2026-06-24"
-}
+},
+"akte_id": "gisela-nellessen-martens",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [

@@ -63,7 +63,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002716/81312",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "michael-gross-lr-r002716",
+"akte_sichtbar": true
 },
 {
 "name": "Evelin Schneyer",
@@ -74,7 +76,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002716/81312",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "evelin-schneyer",
+"akte_sichtbar": false
 },
 {
 "name": "Achim Meyer auf der Heyde",
@@ -85,7 +89,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002716/81312",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "achim-meyer-auf-der-heyde",
+"akte_sichtbar": false
 },
 {
 "name": "Eva Maria Welskop-Deffaa",
@@ -96,7 +102,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002716/81312",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "eva-maria-welskop-deffaa-lr-r002716",
+"akte_sichtbar": false
 },
 {
 "name": "Katrin Goßens",
@@ -107,7 +115,9 @@
 "kurz": "Lobbyregister",
 "url": "https://www.lobbyregister.bundestag.de/suche/R002716/81312",
 "stand": "2026-09-30"
-}
+},
+"akte_id": "katrin-gossens",
+"akte_sichtbar": false
 }
 ],
 "verbindungen": [
