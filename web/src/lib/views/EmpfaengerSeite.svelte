@@ -235,7 +235,7 @@
   .seite { font-size: 12px; max-width: 980px; }
   .back { background: none; border: 0; color: var(--header); cursor: pointer; font: inherit; font-size: 12px; padding: 0; margin-bottom: 6px; }
   .top { display: flex; justify-content: space-between; align-items: center; gap: 8px; }
-  .netz { font: inherit; font-size: 12px; background: var(--header); color: #fff; border: 0; border-radius: 8px; padding: 5px 10px; cursor: pointer; }
+  .netz { font: inherit; font-size: 12px; background: var(--nav-on); color: var(--nav-on-fg); border: 0; border-radius: 8px; padding: 5px 10px; cursor: pointer; }
   .path { color: var(--muted); font-size: 11px; }
   h2 { margin: 2px 0 4px; font-size: 18px; }
   h3 { margin: 0 0 6px; font-size: 13px; }
@@ -250,7 +250,7 @@
   .tag { display: inline-block; font-size: 10px; background: var(--bg); border-radius: 999px; padding: 1px 8px; margin-left: 4px; color: var(--muted); font-weight: 400; }
   table { width: 100%; border-collapse: collapse; }
   th { text-align: left; font-size: 10px; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); padding: 5px 6px; border-bottom: 1px solid var(--border); }
-  td { padding: 5px 6px; border-bottom: 1px solid #f0f0f2; vertical-align: top; }
+  td { padding: 5px 6px; border-bottom: 1px solid var(--border); vertical-align: top; }
   td small { display: block; font-size: 10px; }
   .num { text-align: right; white-space: nowrap; }
   .zweck { color: var(--muted); font-size: 11px; }
@@ -266,7 +266,7 @@
   dt { color: var(--muted); }
   dd { margin: 0; }
   .quellen { padding-left: 16px; margin: 0; }
-  .melden { display: inline-block; margin-top: 8px; margin-right: 8px; font-size: 12px; background: var(--header); color: #fff; border-radius: 8px; padding: 6px 12px; text-decoration: none; }
+  .melden { display: inline-block; margin-top: 8px; margin-right: 8px; font-size: 12px; background: var(--nav-on); color: var(--nav-on-fg); border-radius: 8px; padding: 6px 12px; text-decoration: none; }
   .melden.second { background: var(--bg); color: var(--fg); border: 1px solid var(--border); }
   .muted { color: var(--muted); }
   .small { font-size: 11px; }

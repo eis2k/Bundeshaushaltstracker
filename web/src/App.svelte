@@ -18,6 +18,7 @@
   import Personen from "./lib/views/Personen.svelte";
   import Akte from "./lib/views/Akte.svelte";
   import Netz from "./lib/views/Netz.svelte";
+  import Ministerien from "./lib/views/Ministerien.svelte";
   import Schnittwechsel from "./lib/ui/Schnittwechsel.svelte";
 
   const app = new AppState({ loadIndex, loadYear, loadPresets, loadGesetzFrei, loadZeitreihe, loadVpi, loadSozialkassen, loadTexte, loadKonkordanz, loadSteuern, loadEmpfaengerIndex, loadEmpfaenger, loadPersonIndex, loadPersonShard, loadNetzIndex, loadNetzShard });
@@ -72,7 +73,7 @@
         {:else if app.view === "gewachsen"}
           <Gewachsen {app} />
         {:else if app.view === "ministerien"}
-          <div class="soon">Ministerien: Diese Ansicht ist im Aufbau. Bis dahin: Einzelplan im Geldfluss wählen oder die Empfängerliste nach Einzelplan filtern.</div>
+          <Ministerien {app} />
         {:else if app.view === "empfaenger"}
           {#if app.empfaengerSeite}
             <EmpfaengerSeite {app} seite={app.empfaengerSeite} />

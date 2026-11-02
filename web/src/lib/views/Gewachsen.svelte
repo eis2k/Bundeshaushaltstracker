@@ -126,16 +126,16 @@
   .gewachsen { font-size: 12px; }
   .controls { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; margin-bottom: 8px; }
   .controls label { display: flex; gap: 4px; align-items: center; color: var(--muted); }
-  select { font: inherit; font-size: 12px; padding: 3px 6px; border: 1px solid var(--border); border-radius: 6px; background: #fff; color: var(--fg); }
+  select { font: inherit; font-size: 12px; padding: 3px 6px; border: 1px solid var(--border); border-radius: 6px; background: var(--panel); color: var(--fg); }
   .chips { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 10px; }
-  .chip { font-size: 11px; padding: 5px 10px; border-radius: 999px; border: 1px solid #d1d1d6; background: #fff; cursor: pointer; color: var(--fg); }
-  .chip.on { background: var(--header); color: #fff; border-color: var(--header); }
+  .chip { font-size: 11px; padding: 5px 10px; border-radius: 999px; border: 1px solid var(--border); background: var(--panel); cursor: pointer; color: var(--fg); }
+  .chip.on { background: var(--nav-on); color: var(--nav-on-fg); border-color: var(--nav-on); }
   .total { background: var(--bg); border-radius: 8px; padding: 6px 10px; margin-bottom: 10px; color: var(--muted); }
   table { width: 100%; border-collapse: collapse; }
   th { text-align: left; font-size: 10px; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); padding: 6px; border-bottom: 1px solid var(--border); }
-  td { padding: 7px 6px; border-bottom: 1px solid #f0f0f2; vertical-align: middle; }
+  td { padding: 7px 6px; border-bottom: 1px solid var(--border); vertical-align: middle; }
   tbody tr { cursor: pointer; }
-  tbody tr:hover { background: #fafafa; }
+  tbody tr:hover { background: var(--nav-item); }
   td small { display: block; font-size: 10px; font-weight: 400; }
   .num { text-align: right; white-space: nowrap; }
   .grow { font-weight: 800; }

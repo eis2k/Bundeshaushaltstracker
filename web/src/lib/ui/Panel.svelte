@@ -217,7 +217,7 @@
 </aside>
 
 <style>
-  .panel { background: var(--panel); border: 1px solid var(--border); border-radius: 12px; padding: 14px; font-size: 12px; }
+  .panel { background: var(--panel); border: 1px solid var(--border); border-radius: var(--radius); padding: 14px; font-size: 12px; }
   .link { background: none; border: 0; color: var(--header); text-decoration: underline; cursor: pointer; font: inherit; padding: 0; }
   .empty b { font-size: 13px; }
   .empty p { margin: 6px 0 0; }
@@ -230,16 +230,16 @@
   .scale { display: flex; justify-content: space-between; font-size: 10px; color: var(--muted); }
   .scale span:nth-child(2) { font-weight: 700; color: var(--fg); }
   .quick { display: flex; gap: 4px; flex-wrap: wrap; margin: 8px 0; align-items: center; }
-  .quick button { font-size: 11px; padding: 4px 8px; border-radius: 999px; border: 1px solid #d1d1d6; background: #fff; cursor: pointer; color: var(--fg); }
-  .quick button.on { background: var(--header); color: #fff; border-color: var(--header); }
+  .quick button { font-size: 11px; padding: 4px 8px; border-radius: 999px; border: 1px solid var(--border); background: var(--panel); cursor: pointer; color: var(--fg); }
+  .quick button.on { background: var(--nav-on); color: var(--nav-on-fg); border-color: var(--nav-on); }
   .betrag { display: flex; gap: 4px; margin-left: auto; }
-  .betrag input { width: 70px; font-size: 11px; padding: 3px 6px; border: 1px solid #d1d1d6; border-radius: 6px; }
+  .betrag input { width: 70px; font-size: 11px; padding: 3px 6px; border: 1px solid var(--border); border-radius: 6px; }
   .note { background: var(--bg); border-radius: 8px; padding: 6px 8px; margin: 6px 0; color: var(--muted); }
-  .note.warn { background: #fef3c7; color: #92400e; }
+  .note.warn { background: var(--chip-orange); color: var(--header); }
   .status { display: flex; gap: 6px; align-items: baseline; flex-wrap: wrap; margin: 8px 0; }
-  .tag { font-size: 10px; padding: 2px 6px; border-radius: 4px; background: #e5e7eb; color: #374151; font-weight: 700; }
-  .tag.gesetz { background: #fee2e2; color: #991b1b; }
-  .tag.frei { background: #dcfce7; color: #166534; }
+  .tag { font-size: 10px; padding: 2px 6px; border-radius: 4px; background: var(--chip-blau); color: var(--header); font-weight: 700; }
+  .tag.gesetz { background: #fee2e2; color: var(--bad); }
+  .tag.frei { background: var(--chip-gruen); color: var(--good); }
   .box { background: var(--bg); border-left: 3px solid var(--accent); border-radius: 6px; padding: 8px 10px; margin-top: 8px; }
   .box p { margin: 2px 0 6px; }
   .good { color: var(--good); font-weight: 700; }

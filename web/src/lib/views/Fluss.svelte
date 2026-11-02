@@ -262,7 +262,7 @@
   .cols span:last-child { text-align: right; }
   svg { display: block; width: 100%; height: auto; overflow: hidden; cursor: grab; touch-action: none; }
   svg.zoomed { cursor: move; }
-  .zoomreset { position: absolute; right: 10px; top: 28px; font-size: 11px; background: var(--header); color: #fff; border: 0; border-radius: 6px; padding: 4px 8px; cursor: pointer; opacity: .9; }
+  .zoomreset { position: absolute; right: 10px; top: 28px; font-size: 11px; background: var(--nav-on); color: var(--nav-on-fg); border: 0; border-radius: 6px; padding: 4px 8px; cursor: pointer; opacity: .9; }
 
   .node.clickable { cursor: pointer; }
   .node.dim { opacity: .45; }

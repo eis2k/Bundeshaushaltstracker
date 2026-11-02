@@ -144,7 +144,7 @@
   .knoten text { fill: var(--fg); pointer-events: none; }
   .knoten.klickbar { cursor: pointer; }
   .knoten.start path { fill: var(--accent); }
-  .tip { position: fixed; z-index: 10; max-width: 360px; background: var(--header); color: #fff; font-size: 11px; padding: 6px 8px; border-radius: 6px; pointer-events: none; }
+  .tip { position: fixed; z-index: 10; max-width: 360px; background: var(--nav-on); color: var(--nav-on-fg); font-size: 11px; padding: 6px 8px; border-radius: 6px; pointer-events: none; }
   .legende { display: flex; gap: 14px; flex-wrap: wrap; margin-top: 6px; color: var(--muted); font-size: 11px; }
   .legende span { display: inline-flex; align-items: center; gap: 4px; }
   .muted { color: var(--muted); }

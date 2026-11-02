@@ -184,12 +184,12 @@
   .funktionen small { display: block; }
   .tag { display: inline-block; font-size: 10px; background: var(--bg); border-radius: 999px; padding: 1px 8px; margin-right: 4px; color: var(--muted); font-weight: 400; }
   .note { background: var(--bg); border-left: 3px solid var(--accent); border-radius: 6px; padding: 6px 10px; margin: 6px 0; }
-  .netz { font: inherit; font-size: 12px; background: var(--header); color: #fff; border: 0; border-radius: 8px; padding: 6px 12px; cursor: pointer; }
+  .netz { font: inherit; font-size: 12px; background: var(--nav-on); color: var(--nav-on-fg); border: 0; border-radius: 8px; padding: 6px 12px; cursor: pointer; }
   .block { background: var(--panel); border: 1px solid var(--border); border-radius: 10px; padding: 10px 12px; margin-top: 10px; }
   table { width: 100%; border-collapse: collapse; }
   th { text-align: left; font-size: 10px; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); padding: 5px 6px; border-bottom: 1px solid var(--border); vertical-align: bottom; }
   th small { display: block; text-transform: none; letter-spacing: 0; font-weight: 400; }
-  td { padding: 5px 6px; border-bottom: 1px solid #f0f0f2; vertical-align: top; }
+  td { padding: 5px 6px; border-bottom: 1px solid var(--border); vertical-align: top; }
   td small { display: block; font-size: 10px; }
   .num { text-align: right; white-space: nowrap; }
   .scroll { overflow-x: auto; }
@@ -197,9 +197,9 @@
   .angaben { margin: 0 0 4px 16px; padding: 0; }
   .zl { width: 100%; max-width: 760px; height: 90px; display: block; }
   .zlliste { list-style: none; padding: 0; margin: 6px 0 0; max-height: 220px; overflow-y: auto; }
-  .zlliste li { padding: 2px 0; border-top: 1px solid #f0f0f2; }
+  .zlliste li { padding: 2px 0; border-top: 1px solid var(--border); }
   .quellen { padding-left: 16px; margin: 0; }
-  .melden { display: inline-block; margin-top: 8px; margin-right: 8px; font-size: 12px; background: var(--header); color: #fff; border-radius: 8px; padding: 6px 12px; text-decoration: none; }
+  .melden { display: inline-block; margin-top: 8px; margin-right: 8px; font-size: 12px; background: var(--nav-on); color: var(--nav-on-fg); border-radius: 8px; padding: 6px 12px; text-decoration: none; }
   .melden.second { background: var(--bg); color: var(--fg); border: 1px solid var(--border); }
   .muted { color: var(--muted); }
   .small { font-size: 11px; }

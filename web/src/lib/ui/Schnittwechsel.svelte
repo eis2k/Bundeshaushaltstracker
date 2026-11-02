@@ -21,7 +21,7 @@
 <style>
   .schnitt { display: flex; gap: 6px; align-items: center; flex-wrap: wrap; margin-bottom: 10px; font-size: 11px; }
   .label { text-transform: uppercase; letter-spacing: .06em; color: var(--muted); font-size: 10px; }
-  button { font-size: 11px; padding: 4px 9px; border-radius: 999px; border: 1px solid #d1d1d6; background: #fff; cursor: pointer; color: var(--fg); }
-  button.on { background: var(--header); color: #fff; border-color: var(--header); }
+  button { font-size: 11px; padding: 4px 9px; border-radius: 999px; border: 1px solid var(--border); background: var(--panel); cursor: pointer; color: var(--fg); }
+  button.on { background: var(--nav-on); color: var(--nav-on-fg); border-color: var(--nav-on); }
   .hint { color: var(--muted); }
 </style>

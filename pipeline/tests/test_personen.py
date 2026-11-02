@@ -329,6 +329,7 @@ def test_akte_traegt_bezuege(tmp_path):
     k = {x["komponente"]: x for x in b["zeilen"]}
     assert k["Abgeordnetenentschädigung"]["summe"] == 237470.27 and k["Amtsgehalt"]["monatlich"] == 16084.36   # März 2025 tageweise (§ 32 Abs. 8 AbgG)
     assert k["Kürzung der Abgeordnetenentschädigung (Amt und Mandat)"]["monate"] == 19
+    assert by_id["sanae-abdi"]["epl_leitung"] == ["11"] and by_id["timo-reinfrank"]["epl_leitung"] == []   # Stufe 4a: Ministerien-Ansicht
     assert b["summe_person"] < b["summe_person"] + b["summe_aufwand"]
     reinfrank = next(a for a in idx["eintraege"] if a["id"] == "timo-reinfrank")
     assert reinfrank["sichtbar"] is False    # Vertreter ohne Amt haben keine Bezüge und bleiben wie bisher
