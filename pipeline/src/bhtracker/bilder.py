@@ -11,6 +11,7 @@ import html
 import json
 import re
 import time
+import sys
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -32,11 +33,12 @@ SPARQL_MDB = f"""SELECT ?item ?itemLabel ?bild WHERE {{
 }}"""
 SPARQL_LOBBY = """SELECT ?item ?lr ?logo WHERE {
   ?item wdt:P10301 ?lr .
-  OPTIONAL { ?item wdt:P154 ?logo }
+  OPTIONAL { ?item p:P154 ?ls . ?ls ps:P154 ?logo . FILTER NOT EXISTS { ?ls pq:P582 ?ende } }
 }"""
 
-_TITEL = re.compile(r"\b(Prof|Dr|Dipl|Ing|Mag|Med|Jur|Rer|Nat|Phil|Pol|h\.\s?c|habil|oec|publ|theol)\.?(?:-[A-Za-z]+\.?)?", re.I)
+_TITEL = re.compile(r"(?<![\w-])(?:Prof|Dr|Dipl|Ing|Mag|Med|Jur|Rer|Nat|Phil|Pol|habil|oec|publ|theol)\.(?:-[A-Za-z]+\.?)?(?=[\s-]|$)|(?<![\w-])h\.\s?c\.(?=\s|$)", re.I)
 _TAG = re.compile(r"<[^>]+>")
+_VERSTECKT = re.compile(r"<[^>]*display:\s*none[^>]*>.*?</[^>]+>", re.I | re.S)
 _WS = re.compile(r"\s+")
 
 
@@ -75,8 +77,8 @@ def datei_aus_url(u: str) -> str:
 def validate_bilder(data: dict) -> list[str]:
     errors: list[str] = []
     for i, z in enumerate(data.get("zuordnungen") or []):
-        if not z.get("akte_id") or not str(z.get("qid", "")).startswith("Q"):
-            errors.append(f"zuordnungen[{i}]: akte_id und qid (Q…) nötig")
+        if not z.get("akte_id") or not str(z.get("qid", "")).startswith("Q") or not str(z.get("quelle", "")).startswith("http"):
+            errors.append(f"zuordnungen[{i}]: akte_id, qid (Q…) und quelle (URL der Fundstelle) nötig")
     for i, g in enumerate(data.get("gesperrt") or []):
         if not g.get("id") or not g.get("grund"):
             errors.append(f"gesperrt[{i}]: id und grund nötig")
@@ -103,10 +105,14 @@ def zuordnen_personen(akten: list[dict], mdb: list[dict], suche: dict[str, list[
             continue
         gesehen.add(m["qid"])
         wd.setdefault(norm_person(m.get("label") or ""), []).append(m)
-    bild_je_qid = {m["qid"]: m.get("bild") for m in mdb}
+    bild_je_qid: dict[str, str | None] = {}
+    for m in mdb:
+        if m.get("bild") and not bild_je_qid.get(m["qid"]):
+            bild_je_qid[m["qid"]] = m["bild"]
     for liste in suche.values():
         for t in liste:
-            bild_je_qid.setdefault(t["qid"], t.get("bild"))
+            if t.get("bild") and not bild_je_qid.get(t["qid"]):
+                bild_je_qid[t["qid"]] = t["bild"]
     treffer: dict[str, dict] = {}
     pruefliste: list[dict] = []
     for a in relevant:
@@ -125,9 +131,11 @@ def zuordnen_personen(akten: list[dict], mdb: list[dict], suche: dict[str, list[
         if len(namen.get(key, [])) > 1:
             pruefliste.append({"akte_id": aid, "name": a["name"], "grund": "Name im Index mehrdeutig", "kandidaten": [m["qid"] for m in wd.get(key, [])]})
             continue
-        kandidaten = wd.get(key, [])
-        if not kandidaten and "mdb" not in (a.get("arten") or []):
-            kandidaten = [t for t in suche.get(a["name"], []) if re.search(r"politiker", t.get("beschreibung") or "", re.I)]
+        if "mdb" in (a.get("arten") or []):
+            kandidaten = wd.get(key, [])
+        else:
+            # ohne Mandat kein Abgleich mit der Abgeordnetenliste (Namensvetter): nur Suchtreffer mit gleichem Label und Politiker-Beschreibung
+            kandidaten = [t for t in suche.get(a["name"], []) if norm_person(t.get("label") or "") == key and re.search(r"politiker|politician", t.get("beschreibung") or "", re.I)]
         if len(kandidaten) == 1:
             bild = kandidaten[0].get("bild")
             if bild:
@@ -139,36 +147,61 @@ def zuordnen_personen(akten: list[dict], mdb: list[dict], suche: dict[str, list[
 
 def zuordnen_organisationen(empfaenger: list[dict], lobby: list[dict], manual: dict) -> dict[str, dict]:
     """Empfänger → {qid, datei} über die Lobbyregister-Nummer; nur mit Logo, nicht gesperrt."""
+    return zuordnen_organisationen_mit_pruefliste(empfaenger, lobby, manual)[0]
+
+
+def zuordnen_organisationen_mit_pruefliste(empfaenger: list[dict], lobby: list[dict], manual: dict) -> tuple[dict[str, dict], list[dict]]:
+    """Wie zuordnen_organisationen; dazu Prüfliste für Items, die im Index mehreren Nummern gehören (Mutter und Tochter mit einem Wikidata-Item)."""
     gesperrt = _gesperrt(manual)
-    je_lr = {str(l["lr"]): l for l in lobby if l.get("lr")}
+    je_lr: dict[str, dict] = {}
+    for l in lobby:
+        if not l.get("lr"):
+            continue
+        cur = je_lr.setdefault(str(l["lr"]), {"qid": l["qid"], "logos": []})
+        if l.get("logo"):
+            cur["logos"].append(datei_aus_url(l["logo"]))
+    nummern_je_qid: dict[str, set[str]] = {}
+    for e in empfaenger:
+        nr = e.get("lobbyregister")
+        if nr and str(nr) in je_lr:
+            nummern_je_qid.setdefault(je_lr[str(nr)]["qid"], set()).add(str(nr))
     out: dict[str, dict] = {}
+    pruefliste: list[dict] = []
     for e in empfaenger:
         nr = e.get("lobbyregister")
         if not nr or e["id"] in gesperrt:
             continue
         l = je_lr.get(str(nr))
-        if l and l.get("logo"):
-            out[e["id"]] = {"qid": l["qid"], "datei": datei_aus_url(l["logo"])}
-    return out
+        if not l or not l["logos"]:
+            continue
+        if len(nummern_je_qid.get(l["qid"], set())) > 1:
+            pruefliste.append({"id": e["id"], "grund": "Wikidata-Item trägt mehrere Lobbyregister-Nummern des Index", "kandidaten": [l["qid"]]})
+            continue
+        out[e["id"]] = {"qid": l["qid"], "datei": sorted(l["logos"])[0]}
+    return out, pruefliste
 
 
 def commons_meta(datei: str, info: dict) -> dict | None:
     """Verweis mit Lizenz und Urheber aus einer imageinfo-Seite; None, wenn die Lizenz nicht erlaubt ist oder ein nötiger Urheber fehlt."""
     ii = (info.get("imageinfo") or [{}])[0]
     em = ii.get("extmetadata") or {}
-    val = lambda k: html.unescape(_TAG.sub("", str((em.get(k) or {}).get("value", "")))).strip()  # noqa: E731
+    val = lambda k: _WS.sub(" ", html.unescape(_TAG.sub(" ", _VERSTECKT.sub("", str((em.get(k) or {}).get("value", "")))))).strip()  # noqa: E731
     lizenz = val("LicenseShortName")
     if not lizenz_erlaubt(lizenz):
         return None
-    urheber = _WS.sub(" ", val("Artist"))[:120]
+    # Vom Urheber vorgegebene Nennung (Attribution) vor dem Artist-Feld; „Unknown author“ u. Ä. gilt als leer
+    urheber = val("Attribution") or val("Artist")
+    if re.fullmatch(r"(unknown( author)?|unbekannt|anonymous|anonym|n/?a|-)", urheber, re.I):
+        urheber = ""
+    if len(urheber) > 120:
+        urheber = urheber[:119].rstrip() + "…"
     nennung = val("AttributionRequired").lower() != "false" and not (lizenz.lower().startswith("cc0") or lizenz.lower().startswith("public domain"))
     if not urheber:
         if nennung:
             return None
         urheber = "unbekannt"
-    thumb = (ii.get("thumburl") or ii.get("url") or "").split("?", 1)[0]
-    if not thumb:
-        return None
+    thumb = (ii.get("thumburl") or "").split("?", 1)[0] or f"https://commons.wikimedia.org/wiki/Special:FilePath/{urllib.parse.quote(datei)}?width=120"
+    restriktionen = val("Restrictions") or None
     lizenz_url = val("LicenseUrl") or None
     return {
         "datei": datei,
@@ -178,6 +211,7 @@ def commons_meta(datei: str, info: dict) -> dict | None:
         "lizenz": lizenz,
         "lizenz_url": lizenz_url,
         "urheber": urheber,
+        "restriktionen": restriktionen,
     }
 
 
@@ -204,8 +238,6 @@ def fetch_bilder(raw_dir: Path, akten: list[dict], empfaenger: list[dict], http:
     mdb = [{"qid": _qid(_wert(b, "item")), "label": _wert(b, "itemLabel") or "", "bild": _wert(b, "bild")} for b in _sparql(SPARQL_MDB, http)]
     time.sleep(pause)
     lobby = [{"qid": _qid(_wert(b, "item")), "lr": _wert(b, "lr"), "logo": _wert(b, "logo")} for b in _sparql(SPARQL_LOBBY, http)]
-    (d / "mdb.json").write_text(json.dumps(mdb, ensure_ascii=False), encoding="utf-8", newline="\n")
-    (d / "lobby.json").write_text(json.dumps(lobby, ensure_ascii=False), encoding="utf-8", newline="\n")
 
     # Regierungsmitglieder ohne Mandat: Suche nach Name, Bild über wbgetentities
     mdb_namen = {norm_person(m["label"]) for m in mdb}
@@ -215,10 +247,12 @@ def fetch_bilder(raw_dir: Path, akten: list[dict], empfaenger: list[dict], http:
         if not a.get("sichtbar") or "regierung" not in arten or "mdb" in arten or norm_person(a["name"]) in mdb_namen:
             continue
         time.sleep(pause)
-        url = f"{WIKIDATA_API}?action=wbsearchentities&format=json&language=de&type=item&limit=10&search={urllib.parse.quote(a['name'])}"
+        suchname = _TITEL.sub(" ", a["name"]).strip()
+        suchname = _WS.sub(" ", suchname)
+        url = f"{WIKIDATA_API}?action=wbsearchentities&format=json&language=de&uselang=de&type=item&limit=10&search={urllib.parse.quote(suchname)}"
         hits = json.loads(http(url).decode("utf-8")).get("search", [])
         treffer = [{"qid": h["id"], "label": h.get("label", ""), "beschreibung": h.get("description", ""), "bild": None} for h in hits]
-        polit = [t for t in treffer if re.search(r"politiker", t["beschreibung"], re.I)]
+        polit = [t for t in treffer if re.search(r"politiker|politician", t["beschreibung"], re.I)]
         if polit:
             time.sleep(pause)
             ids = "|".join(t["qid"] for t in polit[:10])
@@ -228,8 +262,6 @@ def fetch_bilder(raw_dir: Path, akten: list[dict], empfaenger: list[dict], http:
                 if claims:
                     t["bild"] = claims[0]["mainsnak"]["datavalue"]["value"]
         suche[a["name"]] = treffer
-    (d / "suche.json").write_text(json.dumps(suche, ensure_ascii=False), encoding="utf-8", newline="\n")
-
     # Commons-Metadaten aller Kandidaten, 50 je Anfrage
     dateien: list[str] = []
     for m in mdb:
@@ -255,6 +287,10 @@ def fetch_bilder(raw_dir: Path, akten: list[dict], empfaenger: list[dict], http:
             name = title[5:] if title.startswith("File:") else title
             commons[name] = p
         time.sleep(pause)
+    # alles erst am Ende schreiben, damit ein Abbruch keine gemischten Stände hinterlässt
+    (d / "mdb.json").write_text(json.dumps(mdb, ensure_ascii=False), encoding="utf-8", newline="\n")
+    (d / "lobby.json").write_text(json.dumps(lobby, ensure_ascii=False), encoding="utf-8", newline="\n")
+    (d / "suche.json").write_text(json.dumps(suche, ensure_ascii=False), encoding="utf-8", newline="\n")
     (d / "commons.json").write_text(json.dumps(commons, ensure_ascii=False), encoding="utf-8", newline="\n")
     (d / "stand.json").write_text(json.dumps({"stand": time.strftime("%Y-%m-%d")}), encoding="utf-8", newline="\n")
     return {"mdb": len(mdb), "lobby": len(lobby), "suche": len(suche), "commons": len(commons)}
@@ -270,8 +306,8 @@ def build_bilder(manual_dir: Path, raw_dir: Path, out: Path, akten: list[dict], 
     d = raw_dir / "bilder"
     ziel = out / "bilder.json"
     if not (d / "mdb.json").exists():
-        if ziel.exists():
-            ziel.unlink()
+        # Rohdaten sind nicht versioniert: ohne sie bleibt eine vorhandene bilder.json erhalten (sonst verschwänden alle Verweise still)
+        print(f"bilder: keine Rohdaten unter {d}; {'vorhandene bilder.json bleibt' if ziel.exists() else 'keine bilder.json'} – bht fetch-bilder zum Aktualisieren", file=sys.stderr)
         return None
     manual_file = manual_dir / "bilder.yaml"
     manual = yaml.safe_load(manual_file.read_text(encoding="utf-8")) or {} if manual_file.exists() else {}
@@ -285,7 +321,8 @@ def build_bilder(manual_dir: Path, raw_dir: Path, out: Path, akten: list[dict], 
     roh_stand = (_lade(d / "stand.json") or {}).get("stand", stand)
 
     personen_treffer, pruefliste = zuordnen_personen(akten, mdb, suche, manual)
-    org_treffer = zuordnen_organisationen(empfaenger, lobby, manual)
+    org_treffer, org_pruefliste = zuordnen_organisationen_mit_pruefliste(empfaenger, lobby, manual)
+    pruefliste = pruefliste + org_pruefliste
     personen: dict[str, dict] = {}
     organisationen: dict[str, dict] = {}
     verworfen: list[dict] = []
@@ -301,6 +338,8 @@ def build_bilder(manual_dir: Path, raw_dir: Path, out: Path, akten: list[dict], 
                     em = ((info.get("imageinfo") or [{}])[0]).get("extmetadata") or {}
                     lizenz = str((em.get("LicenseShortName") or {}).get("value", ""))
                 verworfen.append({"id": oid, "datei": t["datei"], "lizenz": lizenz or "unbekannt"})
+    relevant = [a["id"] for a in akten if a.get("sichtbar") and any(x in ("mdb", "regierung") for x in a.get("arten") or [])]
+    ohne = sorted(aid for aid in relevant if aid not in personen)
     ziel.write_text(json.dumps({"stand": roh_stand, "quelle": "Wikidata/Wikimedia Commons", "personen": personen, "organisationen": organisationen,
-                                "pruefliste": pruefliste, "verworfen": verworfen}, ensure_ascii=False, indent=0), encoding="utf-8", newline="\n")
-    return {"personen": len(personen), "organisationen": len(organisationen), "pruefliste": len(pruefliste), "verworfen": len(verworfen)}
+                                "pruefliste": pruefliste, "verworfen": verworfen, "ohne_bild": {"anzahl": len(ohne), "ids": ohne}}, ensure_ascii=False, indent=0), encoding="utf-8", newline="\n")
+    return {"personen": len(personen), "organisationen": len(organisationen), "pruefliste": len(pruefliste), "verworfen": len(verworfen), "ohne_bild": len(ohne)}

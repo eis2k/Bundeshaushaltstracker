@@ -13,6 +13,7 @@ from bhtracker.bilder import (
     norm_person,
     validate_bilder,
     zuordnen_organisationen,
+    zuordnen_organisationen_mit_pruefliste,
     zuordnen_personen,
 )
 
@@ -143,14 +144,13 @@ def test_build_bilder_schreibt_verweise_pruefliste_und_verworfen(tmp_path):
     assert any(v["id"] == "dr-bernd-beispiel-mdb-2" and v["lizenz"] == "CC BY-NC 2.0" for v in b["verworfen"])
     assert b["organisationen"]["verein-a"]["art"] == "organisation" and b["organisationen"]["verein-a"]["urheber"] == "Verein A"
     assert any(p["akte_id"] == "carla-doppelt-mdb-3" for p in b["pruefliste"])
-    assert erg == {"personen": 2, "organisationen": 1, "pruefliste": 2, "verworfen": 1}
+    assert erg == {"personen": 2, "organisationen": 1, "pruefliste": 2, "verworfen": 1, "ohne_bild": 3}   # Bernd (verworfen), Carla ×2 (mehrdeutig)
 
 
 def test_build_bilder_ohne_rohdaten_schreibt_nichts(tmp_path):
     out = tmp_path / "build"; out.mkdir()
-    (out / "bilder.json").write_text("{}", encoding="utf-8")
     assert build_bilder(tmp_path / "manual", tmp_path / "raw", out, AKTEN, [], "2026-11-02") is None
-    assert not (out / "bilder.json").exists()
+    assert not (out / "bilder.json").exists()   # ohne Rohdaten entsteht keine Datei; eine vorhandene bleibt (siehe unten)
 
 
 def test_fetch_bilder_schreibt_rohdateien_und_fragt_commons_in_bloecken(tmp_path):
@@ -188,3 +188,77 @@ def test_zuordnen_personen_mehrere_bilder_je_item_sind_kein_konflikt():
     treffer, pruefliste = zuordnen_personen(AKTEN, mdb, SUCHE, LEER)
     assert treffer["anna-muster-mdb-1"]["qid"] == "Q1"
     assert not any(p["akte_id"] == "anna-muster-mdb-1" for p in pruefliste)
+
+
+# ---------------------------------------------------------------- Fix-Pass nach Review
+def test_norm_person_laesst_vornamen_mit_titelkuerzel_in_ruhe():
+    assert norm_person("Ingrid Pahlmann") == "ingrid pahlmann"
+    assert norm_person("Philipp Amthor") == "philipp amthor"
+    assert norm_person("Falko Droßmann") == "falko droßmann"
+    assert norm_person("Dr. Ingrid Pahlmann-Drossmann") == "ingrid pahlmann-drossmann"
+
+
+def test_suche_nur_mit_gleichem_label_und_auch_englischer_beschreibung():
+    suche = {"Erika Ohne Mandat": [
+        {"qid": "Q7", "label": "Erika Ohne Mandat", "beschreibung": "German politician (CDU)", "bild": "Erika.jpg"},
+        {"qid": "Q8", "label": "Erika Ohne Mandat-Meier", "beschreibung": "deutsche Politikerin", "bild": "Andere.jpg"},   # Alias/Namensanfang: anderes Label
+    ]}
+    treffer, pruefliste = zuordnen_personen(AKTEN, MDB, suche, LEER)
+    assert treffer["erika-ohne-mandat"] == {"qid": "Q7", "datei": "Erika.jpg"}
+    assert not any(p["akte_id"] == "erika-ohne-mandat" for p in pruefliste)
+
+
+def test_regierungsmitglied_ohne_mandat_nimmt_kein_abgeordnetenbild_gleichen_namens():
+    akten = [{"id": "x-y-breg", "name": "X Y", "sichtbar": True, "arten": ["regierung"]}]
+    mdb = [{"qid": "Q99", "label": "X Y", "bild": "http://commons.wikimedia.org/wiki/Special:FilePath/X.jpg"}]
+    treffer, _ = zuordnen_personen(akten, mdb, {}, LEER)
+    assert treffer == {}
+
+
+def test_commons_meta_unbekannter_urheber_und_attribution():
+    versteckt = 'Unknown author<span style="display: none;">Unknown author</span>'
+    assert commons_meta("A.jpg", _info("CC BY 4.0", artist=versteckt)) is None
+    assert commons_meta("A.jpg", _info("Public domain", artist=versteckt))["urheber"] == "unbekannt"
+    info = _info("CC BY-SA 4.0", artist='<a href="x">Foto Grafin</a>')
+    info["imageinfo"][0]["extmetadata"]["Attribution"] = {"value": "Foto Grafin / Agentur, CC BY-SA 4.0"}
+    assert commons_meta("A.jpg", info)["urheber"] == "Foto Grafin / Agentur, CC BY-SA 4.0"
+    lang = _info("CC BY-SA 4.0", artist="A" * 130)
+    assert commons_meta("A.jpg", lang)["urheber"].endswith("…") and len(commons_meta("A.jpg", lang)["urheber"]) == 120
+    info2 = _info("CC BY 4.0"); info2["imageinfo"][0]["extmetadata"]["Restrictions"] = {"value": "trademarked"}
+    assert commons_meta("A.jpg", info2)["restriktionen"] == "trademarked"
+    ohne_thumb = _info("CC0", artist=""); del ohne_thumb["imageinfo"][0]["thumburl"]
+    assert commons_meta("A.jpg", ohne_thumb)["url"] == "https://commons.wikimedia.org/wiki/Special:FilePath/A.jpg?width=120"
+
+
+def test_build_bilder_ohne_rohdaten_behaelt_alte_datei(tmp_path, capsys):
+    out = tmp_path / "build"; out.mkdir()
+    (out / "bilder.json").write_text('{"personen": {}}', encoding="utf-8")
+    assert build_bilder(tmp_path / "manual", tmp_path / "raw", out, AKTEN, [], "2026-11-02") is None
+    assert (out / "bilder.json").exists()
+    assert "fetch-bilder" in capsys.readouterr().err
+
+
+def test_organisation_item_mit_mehreren_nummern_kommt_in_pruefliste():
+    empf = [{"id": "mutter", "lobbyregister": "R000001"}, {"id": "tochter", "lobbyregister": "R000002"}, {"id": "andere", "lobbyregister": "R000003"}]
+    lobby = [{"qid": "Q1", "lr": "R000001", "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/K.svg"},
+             {"qid": "Q1", "lr": "R000002", "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/K.svg"},
+             {"qid": "Q3", "lr": "R000003", "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/B.svg"},
+             {"qid": "Q3", "lr": "R000003", "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/A.svg"}]
+    treffer, pruefliste = zuordnen_organisationen_mit_pruefliste(empf, lobby, LEER)
+    assert "mutter" not in treffer and "tochter" not in treffer
+    assert treffer["andere"]["datei"] == "A.svg"          # mehrere Logos: deterministisch das alphabetisch erste
+    assert {p["id"] for p in pruefliste} == {"mutter", "tochter"}
+
+
+def test_validate_bilder_verlangt_fundstelle():
+    assert validate_bilder({"zuordnungen": [{"akte_id": "x", "qid": "Q1"}]})
+    assert validate_bilder({"zuordnungen": [{"akte_id": "x", "qid": "Q1", "quelle": "https://www.wikidata.org/wiki/Q1"}]}) == []
+
+
+def test_build_bilder_zaehlt_ohne_bild(tmp_path):
+    raw = _raw(tmp_path)
+    out = tmp_path / "build"; out.mkdir()
+    erg = build_bilder(tmp_path / "manual", raw, out, AKTEN, [{"id": "verein-a", "lobbyregister": "R000001"}], "2026-11-02")
+    b = json.loads((out / "bilder.json").read_text(encoding="utf-8"))
+    assert erg["ohne_bild"] == b["ohne_bild"]["anzahl"] and b["ohne_bild"]["anzahl"] >= 1
+    assert "carla-doppelt-mdb-3" in b["ohne_bild"]["ids"]

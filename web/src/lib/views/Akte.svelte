@@ -2,6 +2,7 @@
   import { fmtDatum, fmtEuro, fmtEuroCent } from "../model/format";
   import { FUNKTION_LABELS, bezuegeNachPosten, issueUrlAkte, zeigeBei, zeitlinieJahre, type Akte } from "../model/personen";
   import type { AppState } from "../state.svelte";
+  import Avatar from "../ui/Avatar.svelte";
 
   let { app, akte }: { app: AppState; akte: Akte } = $props();
 
@@ -30,7 +31,7 @@
   <button class="back" onclick={() => app.openPersonenListe()}>‹ Alle Personen</button>
   <header>
     <div class="path">Akte · sichtbar wegen: {grund}</div>
-    <h2>{akte.name}</h2>
+    <div class="kopfzeile"><Avatar name={akte.name} size={56} id={`p:${akte.id}`} /><h2>{akte.name}</h2></div>
     <ul class="funktionen">
       {#each akte.funktionen as f}
         <li>
@@ -177,6 +178,7 @@
   .back { background: none; border: 0; color: var(--header); cursor: pointer; font: inherit; font-size: 12px; padding: 0; margin-bottom: 6px; }
   .path { color: var(--muted); font-size: 11px; }
   h2 { margin: 2px 0 6px; font-size: 18px; }
+  .kopfzeile { display: flex; align-items: center; gap: 12px; }
   h3 { margin: 0 0 6px; font-size: 13px; }
   h4 { margin: 8px 0 2px; font-size: 12px; }
   .funktionen { list-style: none; padding: 0; margin: 0 0 8px; }

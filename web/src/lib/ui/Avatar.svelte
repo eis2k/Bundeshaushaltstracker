@@ -20,7 +20,7 @@
 </script>
 
 {#if bild && !fehler}
-  <img class="avatar bild" class:org={art === "organisation"} src={size > 96 ? bild.url_gross : bild.url} alt={name} title={tooltip(bild)} loading="lazy" width={size} height={size}
+  <img class="avatar bild" class:org={art === "organisation"} src={size > 96 ? bild.url_gross : bild.url} alt={name} title={tooltip(bild)} loading="lazy" referrerpolicy="no-referrer" width={size} height={size}
        style="width:{size}px;height:{size}px" onerror={() => (fehler = true)} />
 {:else}
   <span class="avatar" class:org={art === "organisation"} style="width:{size}px;height:{size}px;font-size:{Math.max(9, Math.round(size * 0.34))}px;background:{ton}" aria-hidden="true" title={name}>{kuerzel}</span>
@@ -29,6 +29,6 @@
 <style>
   .avatar { display: inline-flex; align-items: center; justify-content: center; border-radius: 50%; color: var(--header); font-weight: 700; letter-spacing: .02em; flex: none; border: 1px solid var(--border); }
   .avatar.org { border-radius: 8px; }
-  .avatar.bild { object-fit: cover; background: var(--panel); }
-  .avatar.bild.org { object-fit: contain; padding: 2px; }
+  .avatar.bild { object-fit: cover; object-position: 50% 20%; background: var(--panel); }
+  .avatar.bild.org { object-fit: contain; object-position: 50% 50%; padding: 2px; background: var(--logo-bg); }
 </style>

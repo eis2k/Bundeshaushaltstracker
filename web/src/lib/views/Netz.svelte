@@ -5,7 +5,7 @@
   import { fmtEuro } from "../model/format";
   import { KNOTEN_LABELS, kanteBeschreibung, kantenStil, legende, type NetzKante, type NetzKnoten, type Umfeld } from "../model/netz";
   import type { AppState } from "../state.svelte";
-  import { bildFuer } from "../model/bilder";
+  import { bildFuer, tooltip } from "../model/bilder";
   import { bilderStore } from "../ui/bilder.svelte";
 
   /** kompakt: eingebettete Vorschau (Spec §4.12) ohne Kopf, Belegpanel und Legende; Knotenklick öffnet die Seite, „Umfeld zeigen“ die volle Ansicht. */
@@ -110,7 +110,7 @@
             {@const b = bild(n)!}
             {@const r = radius(n) - 1}
             <clipPath id={`clip-${n.id.replace(/[^a-z0-9]/gi, "-")}`}>{#if n.art === "person"}<circle cx={n.x} cy={n.y} r={r} />{:else}<rect x={(n.x ?? 0) - r} y={(n.y ?? 0) - r} width={2 * r} height={2 * r} />{/if}</clipPath>
-            <image href={b.url} x={(n.x ?? 0) - r} y={(n.y ?? 0) - r} width={2 * r} height={2 * r} preserveAspectRatio="xMidYMid slice" clip-path={`url(#clip-${n.id.replace(/[^a-z0-9]/gi, "-")})`} />
+            <image href={b.url} x={(n.x ?? 0) - r} y={(n.y ?? 0) - r} width={2 * r} height={2 * r} preserveAspectRatio="xMidYMid slice" clip-path={`url(#clip-${n.id.replace(/[^a-z0-9]/gi, "-")})`}><title>{tooltip(b)}</title></image>
           {/if}
           <text x={n.x} y={(n.y ?? 0) + (n.id === umfeld.start ? 26 : 22)} text-anchor="middle" style="font-size:{10 * invK}px">{n.label.length > 28 ? n.label.slice(0, 27) + "…" : n.label}</text>
         </g>
