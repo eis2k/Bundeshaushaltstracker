@@ -2,7 +2,7 @@
 
 import type { ViewId } from "./types";
 
-export type EintragId = "dashboard" | "haushalt" | "geldfluesse" | "ministerien" | "empfaenger" | "simulator" | "zeitvergleich" | "politik" | "verflechtungen";
+export type EintragId = "dashboard" | "haushalt" | "geldfluesse" | "ministerien" | "empfaenger" | "simulator" | "zeitvergleich" | "politik" | "verflechtungen" | "daten";
 
 export interface NavEintrag {
   id: EintragId;
@@ -27,6 +27,7 @@ export const EINTRAEGE: NavEintrag[] = [
   { id: "zeitvergleich", label: "Zeitvergleich", kurz: "Zeit", titel: "Zeitvergleich", untertitel: "Was ist seit 2015 gewachsen, was geschrumpft? Soll und Ist, nominal und in Preisen.", view: "gewachsen", icon: "TrendingUp" },
   { id: "politik", label: "Politik & Verantwortung", kurz: "Politik", titel: "Politik & Verantwortung", untertitel: "Welche Personen entscheiden über welche Gelder? Kabinett, Abgeordnete, Akten.", view: "politik", icon: "Users", mobil: true },
   { id: "verflechtungen", label: "Verflechtungen", kurz: "Netz", titel: "Verflechtungen", untertitel: "Belegte Beziehungen zwischen Ministerien, Organisationen, Personen und Parteien.", view: "netz", icon: "Share2", mobil: true },
+  { id: "daten", label: "Daten & Quellen", kurz: "Daten", titel: "Daten & Quellen", untertitel: "Verwendete Datensätze, Stand, Lizenzen und bekannte Lücken.", view: "daten", icon: "Database" },
 ];
 
 export function aktiverEintrag(view: ViewId): EintragId {
@@ -39,6 +40,7 @@ export function aktiverEintrag(view: ViewId): EintragId {
     case "dashboard": return "dashboard";
     case "ministerien": return "ministerien";
     case "simulator": return "simulator";
+    case "daten": return "daten";
     default: return "empfaenger";
   }
 }

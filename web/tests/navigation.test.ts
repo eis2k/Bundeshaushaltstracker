@@ -2,8 +2,9 @@ import { describe, expect, test } from "vitest";
 import { EINTRAEGE, aktiverEintrag, titelFuer, unteransichten } from "../src/lib/model/navigation";
 
 describe("navigation (GUI v3)", () => {
-  test("neun Einträge in der Reihenfolge des Dashboard-Entwurfs", () => {
-    expect(EINTRAEGE.map((e) => e.id)).toEqual(["dashboard", "haushalt", "geldfluesse", "ministerien", "empfaenger", "simulator", "zeitvergleich", "politik", "verflechtungen"]);
+  test("neun Einträge in der Reihenfolge des Dashboard-Entwurfs, dazu Daten & Quellen (Stufe 4d)", () => {
+    expect(EINTRAEGE.map((e) => e.id)).toEqual(["dashboard", "haushalt", "geldfluesse", "ministerien", "empfaenger", "simulator", "zeitvergleich", "politik", "verflechtungen", "daten"]);
+    expect(aktiverEintrag("daten")).toBe("daten");
     expect(EINTRAEGE.every((e) => typeof e.icon === "string" && e.icon.length > 0)).toBe(true);
   });
   test("aktiver Eintrag folgt der Ansicht", () => {

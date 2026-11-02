@@ -22,6 +22,7 @@
   import Ministerien from "./lib/views/Ministerien.svelte";
   import PolitikVerantwortung from "./lib/views/PolitikVerantwortung.svelte";
   import Simulator from "./lib/views/Simulator.svelte";
+  import Daten from "./lib/views/Daten.svelte";
   import Dashboard from "./lib/views/Dashboard.svelte";
   import Schnittwechsel from "./lib/ui/Schnittwechsel.svelte";
 
@@ -45,7 +46,7 @@
   const haushalt = $derived(app.view === "fluss" || app.view === "karte" || app.view === "saeulen" || app.view === "gewachsen");
   /** Geldflüsse, Dashboard und Simulator bringen ihre Spalten selbst mit und laufen über die volle Breite (Spec §4.11). */
   const mitPanel = $derived(haushalt && app.view !== "fluss");
-  const breit = $derived(!mitPanel || app.view === "dashboard" || app.view === "simulator");
+  const breit = $derived(!mitPanel || app.view === "dashboard" || app.view === "simulator" || app.view === "daten");
 </script>
 
 <div class="app">
@@ -85,6 +86,8 @@
             <Ministerien {app} />
           {:else if app.view === "simulator"}
             <Simulator {app} />
+          {:else if app.view === "daten"}
+            <Daten {app} />
           {:else if app.view === "politik"}
             <PolitikVerantwortung {app} />
           {:else if app.view === "empfaenger"}

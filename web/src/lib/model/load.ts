@@ -37,6 +37,12 @@ export const loadKonkordanz = async (): Promise<Record<string, { ab: number; hin
   return Object.fromEntries(raw.epl.map((e) => [e.epl, { ab: e.ab, hinweis: e.hinweis, quelle: e.quelle }]));
 };
 export const loadSozialkassen = (jahr: number) => getJson<SozialkassenYear>(`sozialkassen/${jahr}.json`);
+/** Metadaten des Verbraucherpreisindex (Quelle, Stand) für die Seite „Daten & Quellen“. */
+export const loadVpiInfo = async (): Promise<{ quelle?: string; stand?: string }> => {
+  const raw = await getJson<{ quelle?: string; stand?: string }>("vpi.json");
+  return { quelle: raw.quelle, stand: raw.stand };
+};
+
 export const loadVpi = async (): Promise<Vpi> => {
   const raw = await getJson<{ werte: Record<string, number> }>("vpi.json");
   return Object.fromEntries(Object.entries(raw.werte).map(([k, v]) => [Number(k), v]));

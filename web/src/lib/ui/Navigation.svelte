@@ -1,12 +1,12 @@
 <script lang="ts">
-  import { Building2, Landmark, LayoutDashboard, Menu, Share2, SlidersHorizontal, TrendingUp, Users, Wallet, Waypoints } from "lucide-svelte";
+  import { Building2, Database, Landmark, LayoutDashboard, Menu, Share2, SlidersHorizontal, TrendingUp, Users, Wallet, Waypoints } from "lucide-svelte";
   import { EINTRAEGE, aktiverEintrag, type NavEintrag } from "../model/navigation";
   import type { AppState } from "../state.svelte";
   import type { IconComp } from "./icons";
 
   let { app }: { app: AppState } = $props();
   const aktiv = $derived(aktiverEintrag(app.view));
-  const ICONS: Record<string, IconComp> = { LayoutDashboard, Wallet, Waypoints, Landmark, Building2, SlidersHorizontal, TrendingUp, Users, Share2 };
+  const ICONS: Record<string, IconComp> = { LayoutDashboard, Wallet, Waypoints, Landmark, Building2, SlidersHorizontal, TrendingUp, Users, Share2, Database };
   let mehr = $state(false);
   const mobilEintraege = $derived(EINTRAEGE.filter((e) => e.mobil));
   const weitereEintraege = $derived(EINTRAEGE.filter((e) => !e.mobil));

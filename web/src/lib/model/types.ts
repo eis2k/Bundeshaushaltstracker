@@ -94,7 +94,7 @@ export interface RevenueGroup {
   rows: BudgetRow[];
 }
 
-export type ViewId = "dashboard" | "fluss" | "karte" | "saeulen" | "gewachsen" | "ministerien" | "empfaenger" | "simulator" | "politik" | "personen" | "netz";
+export type ViewId = "dashboard" | "fluss" | "karte" | "saeulen" | "gewachsen" | "ministerien" | "empfaenger" | "simulator" | "politik" | "personen" | "netz" | "daten";
 
 /** Preset-Regel: Faktor auf ein Ziel ("11", "11-1102-63681", "HG:4", "G:526", "E:steuern") oder eine Nebenbedingung. */
 export type PresetRule = { ziel: string; faktor: number } | { bedingung: "schwarze_null" };
