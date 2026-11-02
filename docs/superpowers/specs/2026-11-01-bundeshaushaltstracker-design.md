@@ -262,6 +262,26 @@ Leitlinie sind die drei Detail-Entwürfe unter `docs/recherche-cockpit/images/` 
 
 **Nicht gebaut (bewusst, aus den Entwürfen).** Vergabeanalyse, Verträge/Projekte, Auffälligkeiten (Stufen 5 und 6), Korrelationsanalyse, Abstimmungen, Dossiers/Favoriten/Einstellungen, Benachrichtigungen, Berichte & Export. Diese Elemente erscheinen nicht als leere Hüllen.
 
+### 4.12 GUI v3 – Nacharbeiten (Stufe 4d, Florians Vorgabe vom 2.11.2026: „erst die GUI weitermachen, alles was mit der GUI zu tun hat abarbeiten“)
+
+Quellen: das 16-Kachel-Bild „Vollständiges Mockup-Paket“ (`docs/recherche-cockpit/images/04-…png`, Befund im README) und die zurückgestellten Befunde des 4c-Reviews (`docs/superpowers/plans/2026-11-02-stufe-4c-gui-v3.ledger.md`). Gebaut wird nur, was ohne neue Datenquelle geht; Vergaben, Auffälligkeiten, Zeitachse, Regionen, Dossiers, Favoriten und Konten bleiben außen vor (§7, Stufen 5/6; Entscheidung Florians).
+
+**Dashboard.** Zweite Linie „Investitionen“ aus der Zeitreihe: Summe der Ausgabetitel mit Hauptgruppe 7 und 8 (Baumaßnahmen, sonstige Investitionen, Gruppierungsplan), als Index wie die Gesamtausgaben; beide Linien mit Legende. Einheitliche Grundlage der Kennzahlen: „Einnahmen“ wie im Seitenkopf inklusive aktiver Steuer-Modelle, Herkunft und kompakter Fluss nehmen die Kredite aus der Bilanz des Szenarios, der Anteil im Ministeriums-Teaser rechnet mit denselben Faktoren wie die Summe. Beschriftung des Haushaltsknotens im kompakten Fluss unter dem Knoten, nicht über den Einzelplänen.
+
+**Geldflüsse: „Nach Bereichen“.** Vierter Reiter: Ring („Donut“) der Ausgaben nach Einzelplan (die acht größten, Rest „Weitere“) mit Betrag und Anteil, daneben die Liste wie in Kachel 02; Klick fokussiert den Einzelplan im Fluss. Farben wie im Sankey (`colors.ts`), Anteile aus denselben Werten wie der Fluss.
+
+**Ministerien.** Umschalter Karten | Tabelle. Tabelle wie Kachel 03: Einzelplan, Leitung mit Partei, Haushalt des Jahres, Änderung gegenüber dem Vorjahr (nominal, Soll gegen Soll, ohne Regler; „–“ ohne Vorjahr), Anteil; sortierbar nach Haushalt, Änderung, Einzelplan. Leitung im Wechseljahr: alle Personen mit Zeitraum, als „Minister/in“ zuerst die zuletzt amtierende; ohne belegtes Datum im aktuellen Jahr erscheint die Person zusätzlich zu datierten (mit Hinweis), nicht erst, wenn niemand sonst passt.
+
+**Seite „Daten & Quellen“.** Eigener Eintrag in der Seitenleiste (nach Verflechtungen; mobil unter „Mehr“) wie Kachel 09: Tabelle Quelle, Inhalt, Zeitraum, Stand (Erzeugung oder Abruf laut Daten), Lizenz, Link zur Quelle, Download der aufbereiteten Datei. Zeilen: Bundeshaushalt (bundeshaushalt.de, Soll alle Jahre, Ist bis `ist_bis`), Sozialkassen (Wirtschaftspläne, `sv_jahre`), Lobbyregister, Förderkatalog, Biografien bundestag.de, Kabinett bundesregierung.de, Parteispenden, Verbraucherpreisindex (Destatis), Steuer-Modelle (Quellen je Annahme), Erklärtexte. Darunter „Bekannte Lücken“ (feste Liste: Kostenpauschale 2025 und B 11 nach 3/2024 nicht erfasst; Ernennungsdaten ohne Beleg; Förderkatalog höchstens 100 Projekte je Suche; Empfänger nur, wo Titel sie nennen) und die Lizenzen (Code MIT, Daten/Texte CC BY 4.0, Quellen überwiegend Datenlizenz Deutschland 2.0, Lucide ISC, D3 ISC). Keine Status-Ampel: nur Daten.
+
+**Dunkelmodus.** Umschalter in der Kopfleiste (Hell | Dunkel | System, Symbol), Wahl im Browser gespeichert (`localStorage`, kein Cookie), Vorgabe System. Zweiter Token-Satz in `app.css` (`:root[data-theme="dark"]` und `prefers-color-scheme`), alle Oberflächenfarben nur über Tokens (hart kodierte Farben in Ansichten durch Tokens ersetzen); Datenfarben des Sankey und der Parteien bleiben. Kontrast mindestens AA für Text.
+
+**Empfänger-Seite.** „Verbindungsanalyse – Netzwerk“ zeigt das Umfeld eingebettet (kompakte Netz-Komponente, 300 px, ohne Belegpanel; Klick auf einen Knoten öffnet dessen Seite, „Umfeld zeigen“ öffnet die volle Ansicht). Partei nur bei sichtbarer Akte.
+
+**Links.** Ein Fokus im Gesamt-Topf wird mit `t=gesamt` kodiert, damit ein geteilter Link dieselbe Ansicht öffnet; `f=` ohne `t=` bleibt Bundesfluss.
+
+**Nicht gebaut (bewusst):** Kacheln 05, 06, 07, 08, 12, 14, 15 (außer Darstellung Hell/Dunkel) des Mockup-Pakets; Ressortwechsel-Konkordanz (keine Daten); Glocke, Konto.
+
 ## 5. Datenquellen (alle öffentlich)
 
 | Quelle | Was | Format / Zugang |
@@ -307,6 +327,7 @@ Florian hat Sprache, Bibliotheken und Architektur dem Builder überlassen. Vorsc
 
 4a. **GUI v2** ✅ (umgesetzt am 2.11.2026, Branch `stufe-4a`, Plan `docs/superpowers/plans/2026-11-02-stufe-4a-gui-v2.md`; Festlegung in §4.10): Seitenleiste mit den sechs Einträgen des Mockups, Ministerien-Ansicht, helle Kopfzeile mit Kennzahlenkarten, Datenstatus-Leiste, Recherchepfad, Belegpanel für Kanten, mobile untere Navigation, Design Tokens aus den Mockups.
 4c. **GUI v3 – Detail-Mockups** ✅ (umgesetzt am 2.11.2026, Branch `stufe-4c`, Plan `docs/superpowers/plans/2026-11-02-stufe-4c-gui-v3.md`; Florians Vorgabe vom 2.11.2026, Festlegung in §4.11): Rahmen mit Suche, Dashboard, Geldflüsse & Profiteure mit Empfänger-Spalte und Karte „Politische Verantwortung“, Empfänger-Detailseite „Wer profitiert?“, Ministerien-Detailkarte, Politik & Verantwortung, Haushaltssimulator-Ansicht; Platzhalter für Bilder.
+4d. **GUI v3 – Nacharbeiten** (Florians Vorgabe vom 2.11.2026, Festlegung in §4.12): Investitionen-Linie, einheitliche Dashboard-Grundlagen, Reiter „Nach Bereichen“ mit Ring, Ministerien-Tabelle mit Vorjahresänderung, Seite „Daten & Quellen“, Dunkelmodus, eingebettetes Umfeld auf der Empfänger-Seite, Link-Kodierung des Topfes.
 4b. **Porträts und Logos** (Florians Wunsch vom 2.11.2026): Bilder von Personen und Organisationen mit Lizenz und Urheber über Wikidata/Commons und Website-Favicons, Platzhalter mit Initialen; siehe §4.10.
 5. **Vergabeanalyse** (Vorschlag aus PR 9, nicht entschieden): Auftraggeber, Auftragnehmer, Vergabeart, Vertragswert aus Vergabebekanntmachungen (service.bund.de, TED) mit Zuordnung zu Empfängern; braucht Florians Entscheidung zu Datenbeschaffung und Aufwand.
 6. **Auffälligkeiten-Explorer** (Vorschlag aus PR 9, nicht entschieden): regelbasierte Recherchehinweise (Kostenanstieg, Konzentration, zeitliche Überschneidung); steht in Spannung zur Quellenregel „keine Wertung“ und ist vor einer Veröffentlichung rechtlich zu prüfen; braucht Florians Entscheidung.
