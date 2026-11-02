@@ -9,6 +9,7 @@
   import Avatar from "../ui/Avatar.svelte";
   import Kennzahl from "../ui/Kennzahl.svelte";
   import MiniFluss from "../ui/MiniFluss.svelte";
+  import HerkunftVerwendung from "../ui/HerkunftVerwendung.svelte";
 
   let { app }: { app: AppState } = $props();
   onMount(() => { void app.ensureEmpfaenger(); void app.ensurePersonen(); void app.ensureZeitreihe(); });
@@ -22,13 +23,7 @@
   const groesstes = $derived(mins.find((m) => m.epl !== "60" && m.epl !== "32") ?? mins[0]);
   const LEITUNG = /^(bundeskanzler|bundesminister|chef)/i;
   const chef = $derived(groesstes ? (groesstes.leitung.find((l) => LEITUNG.test(l.amt)) ?? groesstes.leitung[0]) : undefined);
-  /** Herkunft kompakt: fünf größte Posten, der Rest gebündelt. */
-  const herkunftKompakt = $derived.by(() => {
-    const top = hv.herkunft.slice(0, 5);
-    const rest = hv.herkunft.slice(5);
-    if (!rest.length) return top;
-    return [...top, { id: "rest", label: `Weitere Einnahmen (${rest.length})`, wert: rest.reduce((a, x) => a + x.wert, 0), anteil: Math.round(rest.reduce((a, x) => a + x.anteil, 0) * 10) / 10 }];
-  });
+
   const topEmpfaenger = $derived([...(app.empfaengerIndex?.eintraege ?? [])].sort((a, b) => b.haushalt_soll_letztes_jahr - a.haushalt_soll_letztes_jahr).slice(0, 5));
   const kabinett = $derived(mins.flatMap((m) => m.leitung.map((l) => ({ ...l, epl: m.epl, ressort: m.name }))).filter((l) => LEITUNG.test(l.amt)).slice(0, 5));
   const simulatorEpls = ["14", "30", "11"];
@@ -52,14 +47,7 @@
 
   <div class="reihe">
     <section class="karte">
-      <h3>Geldherkunft</h3>
-      <ul class="liste">
-        {#each herkunftKompakt as p (p.id)}<li><span class="kachel gruen"><Coins size={14} /></span><span class="l">{p.label}</span><b class="tabular">{fmtEuro(p.wert)}</b><small class="tabular">{p.anteil.toLocaleString("de-DE")} %</small></li>{/each}
-      </ul>
-      <h3>Geldverwendung</h3>
-      <ul class="liste">
-        {#each hv.verwendung as p (p.id)}<li><span class="kachel blau"><Landmark size={14} /></span><span class="l">{p.label}</span><b class="tabular">{fmtEuro(p.wert)}</b><small class="tabular">{p.anteil.toLocaleString("de-DE")} %</small></li>{/each}
-      </ul>
+      <HerkunftVerwendung {data} includeSv={app.scenario.includeSv} factors={app.factors} />
     </section>
     <section class="karte breit">
       <h3>Geldflüsse im Überblick <small class="muted">Steuern → Bundeshaushalt → größte Einzelpläne · {app.stand === "ist" ? "Ist" : "Soll"} {app.jahr}</small></h3>
@@ -142,13 +130,6 @@
   .karte { background: var(--panel); border: 1px solid var(--border); border-radius: var(--radius); padding: 14px 16px; min-width: 0; }
   h3 { margin: 0 0 10px; font-size: 14px; color: var(--header); display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
   h3 small { font-weight: 400; font-size: 11px; }
-  .liste { list-style: none; margin: 0 0 14px; padding: 0; display: flex; flex-direction: column; gap: 6px; }
-  .liste li { display: grid; grid-template-columns: 26px 1fr auto auto; gap: 8px; align-items: center; font-size: 12px; background: var(--bg); border-radius: 10px; padding: 6px 8px; }
-  .liste b { color: var(--header); }
-  .liste small { color: var(--muted); min-width: 44px; text-align: right; }
-  .kachel { width: 26px; height: 26px; border-radius: 8px; display: inline-flex; align-items: center; justify-content: center; }
-  .kachel.gruen { background: var(--chip-gruen); color: #15803d; }
-  .kachel.blau { background: var(--chip-blau); color: var(--nav-on); }
   .einstiege { display: flex; flex-direction: column; gap: 6px; margin-bottom: 14px; }
   .einstiege button { display: flex; align-items: center; gap: 8px; background: var(--bg); border: 1px solid var(--border); border-radius: 10px; padding: 8px 10px; font: inherit; font-size: 12px; color: var(--header); cursor: pointer; text-align: left; }
   .einstiege button:hover { background: var(--chip-blau); }

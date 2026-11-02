@@ -11,6 +11,10 @@
   import { buildGesamtSankey } from "./sankeyGesamt";
   import type { SozialkassenYear } from "../model/toepfe";
   import type { TopfId } from "../model/share";
+  import { Coins, GraduationCap, HeartHandshake, Landmark, List, Share2, Shield, Stethoscope, TrainFront, Waypoints } from "lucide-svelte";
+  import type { IconComp } from "../ui/icons";
+  import Avatar from "../ui/Avatar.svelte";
+  import type { EmpfaengerSpalteEintrag } from "./sankeyData";
 
   interface Props {
     data: YearData;
@@ -22,12 +26,21 @@
     sozialkassen?: SozialkassenYear | null;
     modelle?: Modell[];
     empfaengerByTitel?: Record<string, { id: string; name: string }>;
+    /** Vierte Spalte bei Fokus auf einen Einzelplan: Empfänger mit Seite (Spec §4.11). */
+    empfaengerSpalte?: EmpfaengerSpalteEintrag[];
+    empfaengerJahr?: number | null;
     onEmpfaenger?: (id: string) => void;
+    /** Umschalter „Netzwerk“: Umfeld des fokussierten Einzelplans. */
+    onNetz?: (epl: string) => void;
     onFocus: (path: NodeId[]) => void;
     onSelect: (id: NodeId | null) => void;
     onTopf?: (topf: TopfId) => void;
   }
-  let { data, scenario, factors, focus, selected, topf = "bund", sozialkassen = null, modelle = [], empfaengerByTitel = {}, onFocus, onSelect, onTopf, onEmpfaenger }: Props = $props();
+  let { data, scenario, factors, focus, selected, topf = "bund", sozialkassen = null, modelle = [], empfaengerByTitel = {}, empfaengerSpalte = [], empfaengerJahr = null, onFocus, onSelect, onTopf, onEmpfaenger, onNetz }: Props = $props();
+  /** Sankey | Netzwerk | Liste (Spec §4.11); Netzwerk springt ins Umfeld, Liste zeigt die Knoten der tiefsten Spalte als Tabelle. */
+  let modus = $state<"sankey" | "liste">("sankey");
+  const ICONS: Record<string, IconComp> = { "08": Coins, "14": Shield, "11": HeartHandshake, "30": GraduationCap, "12": TrainFront, "15": Stethoscope };
+  function iconFor(epl: string): IconComp { return ICONS[epl] ?? Landmark; }
   const gesamtModus = $derived(topf !== "bund" && sozialkassen !== null);
 
   let width = $state(900);
@@ -59,12 +72,13 @@
   /** Bei Zoom bleiben Schrift und Linienstärken lesbar: Gegenskalierung. */
   const invK = $derived(1 / transform.k);
   const columnsNeeded = $derived(focus.length >= 2 ? 6 : focus.length === 1 ? 4 : 3);
+  const mitEmpfaengerSpalte = $derived(!gesamtModus && focus.length === 1 && empfaengerSpalte.some((e) => e.wert > 0));
   const height = $derived((width < 720 ? 560 : 440) + Math.max(0, columnsNeeded - 4) * 80 + (gesamtModus ? 200 : 0));
   const maxPerColumn = $derived(width < 720 ? 5 : columnsNeeded >= 6 ? 6 : 8);
 
   const sdata = $derived(gesamtModus
     ? buildGesamtSankey(data, sozialkassen!, scenario, factors, { maxPerColumn, maxRevenue: width < 720 ? 4 : 6, only: topf === "gesamt" ? undefined : topf, modelle })
-    : buildSankey(data, scenario, factors, focus, { maxPerColumn, maxRevenue: width < 720 ? 5 : 7, modelle, empfaengerByTitel }));
+    : buildSankey(data, scenario, factors, focus, { maxPerColumn, maxRevenue: width < 720 ? 5 : 7, modelle, empfaengerByTitel }, empfaengerSpalte));
 
   type LNode = SankeyNode<SNode, SLink>;
   type LLink = SankeyLink<SNode, SLink>;
@@ -153,10 +167,46 @@
     if (layout.columns >= 5 && n.dim) return false;
     return nodeHeight(n) >= 9;
   }
-  const columnTitles = $derived(gesamtModus ? (topf === "gesamt" ? ["Woher", "Bund", "Kassen · Ministerien", "Wofür"] : ["Woher", "Kasse", "Wofür"]) : ["Woher", "Topf", "Ministerium", "Kapitel", "Titel", "Empfänger"]);
+  const columnTitles = $derived(gesamtModus ? (topf === "gesamt" ? ["Woher", "Bund", "Kassen · Ministerien", "Wofür"] : ["Woher", "Kasse", "Wofür"]) : mitEmpfaengerSpalte ? ["Woher", "Topf", "Ministerium", `Kapitel · Empfänger${empfaengerJahr ? ` (Soll ${empfaengerJahr})` : ""}`] : ["Woher", "Topf", "Ministerium", "Kapitel", "Titel", "Empfänger"]);
+  /** Anteil eines Knotens am Topf, für die Beschriftung der Ministerien (wie im Entwurf „(21,3 %)“). */
+  const topfWert = $derived(sdata.nodes.find((n) => n.kind === "topf")?.effective ?? 0);
+  function anteil(n: SNode): string { return topfWert > 0 && n.kind === "epl" ? ` (${(Math.round((n.effective / topfWert) * 1000) / 10).toLocaleString("de-DE")} %)` : ""; }
+  /** Knoten der tiefsten Spalte für die Listenansicht. */
+  const listenKnoten = $derived.by(() => {
+    const tiefste = Math.max(...sdata.nodes.map((n) => n.column));
+    const spalte = sdata.nodes.filter((n) => n.column === tiefste && n.kind !== "empfaenger");
+    const quelle = spalte.length ? spalte : sdata.nodes.filter((n) => n.column === tiefste);
+    return [...quelle].sort((a, b) => b.effective - a.effective);
+  });
+  const listenSumme = $derived(listenKnoten.reduce((s, n) => s + Math.max(0, n.netEffective), 0));
+  const empfaengerKnoten = $derived(mitEmpfaengerSpalte ? sdata.nodes.filter((n) => n.kind === "empfaenger" && n.column === 3) : []);
+  const TILE = 18;
 </script>
 
 <div class="fluss" bind:clientWidth={width}>
+  {#if !gesamtModus}
+    <div class="umschalter" role="tablist" aria-label="Darstellung">
+      <button role="tab" aria-selected={modus === "sankey"} class:on={modus === "sankey"} onclick={() => (modus = "sankey")}><Waypoints size={13} /> Sankey</button>
+      <button role="tab" aria-selected="false" disabled={!focus.length || !onNetz} title={focus.length ? "Umfeld des fokussierten Ministeriums" : "Erst ein Ministerium wählen"} onclick={() => onNetz?.(focus[0])}><Share2 size={13} /> Netzwerk</button>
+      <button role="tab" aria-selected={modus === "liste"} class:on={modus === "liste"} onclick={() => (modus = "liste")}><List size={13} /> Liste</button>
+    </div>
+  {/if}
+  {#if modus === "liste" && !gesamtModus}
+    <table class="liste">
+      <thead><tr><th>{columnTitles[Math.min(columnTitles.length - 1, layout.columns - 1)]}</th><th class="num">Betrag</th><th class="num">Anteil</th></tr></thead>
+      <tbody>
+        {#each listenKnoten as n (n.id)}
+          <tr class:dim={n.dim}><td><button class="zeile" onclick={() => click(n)}>{#if n.kind === "epl"}{@const Icon = iconFor(n.id)}<span class="kachel" style="background:{colorFor(n.colorKey)}22;color:{colorFor(n.colorKey)}"><Icon size={14} /></span>{/if}{n.label}</button></td><td class="num tabular">{fmtEuro(n.netEffective)}</td><td class="num tabular">{listenSumme > 0 ? `${(Math.round((Math.max(0, n.netEffective) / listenSumme) * 1000) / 10).toLocaleString("de-DE")} %` : "–"}</td></tr>
+        {/each}
+      </tbody>
+    </table>
+    {#if empfaengerKnoten.length}
+      <h4>Empfänger mit Seite{empfaengerJahr ? ` (Soll ${empfaengerJahr})` : ""}</h4>
+      <ul class="empf">
+        {#each empfaengerKnoten as n (n.id)}<li><Avatar name={n.label} art="organisation" size={24} /><button class="zeile" onclick={() => click(n)}>{n.label}</button><b class="tabular">{fmtEuro(n.effective)}</b></li>{/each}
+      </ul>
+    {/if}
+  {:else}
   <div class="cols" style="grid-template-columns: repeat({layout.columns}, 1fr)">
     {#each columnTitles.slice(0, layout.columns) as t}<span>{t}</span>{/each}
   </div>
@@ -173,7 +223,7 @@
           opacity={link.dim ? 0.18 : 0.55}
           fill="none"
         >
-          <title>{fmtEuro(link.value)}</title>
+          <title>{fmtEuro(link.value)}{link.quelle === "lobbyregister" ? " (Lobbyregister, Untergrenze – Eigenangabe)" : link.quelle === "haushalt" ? " (Haushalts-Soll aus Titeln mit genanntem Empfänger)" : ""}</title>
         </path>
       {/each}
     </g>
@@ -208,15 +258,23 @@
             />
           {/if}
           {#if showLabel(node) || transform.k >= 2.5}
-            <text x={labelX(node)} y={labelY(node)} dy={twoLines(node) ? "-0.2em" : "0.35em"} text-anchor={labelAnchor(node)} class="label" class:strong={node.id === selected || focus.includes(node.id)} style="font-size:{11 * invK}px">
+            {#if node.kind === "epl" && nodeHeight(node) >= 22}
+              {@const Icon = iconFor(node.id)}
+              {@const tx = labelAnchor(node) === "start" ? labelX(node) : labelX(node) - TILE}
+              <rect x={tx} y={labelY(node) - TILE - 2} width={TILE} height={TILE} rx="5" fill={colorFor(node.colorKey)} fill-opacity="0.15" />
+              <svg x={tx + 2} y={labelY(node) - TILE} width={TILE - 4} height={TILE - 4} style="color:{colorFor(node.colorKey)}"><Icon size={TILE - 4} /></svg>
+            {:else if node.kind === "empfaenger" && node.id !== EMPFAENGER_UNBEKANNT && nodeHeight(node) >= 14}
+              <foreignObject x={labelAnchor(node) === "start" ? labelX(node) : labelX(node) - 22} y={labelY(node) - 11} width="22" height="22"><Avatar name={node.label} art="organisation" size={20} /></foreignObject>
+            {/if}
+            <text x={labelX(node) + ((node.kind === "epl" && nodeHeight(node) >= 22) || (node.kind === "empfaenger" && node.id !== EMPFAENGER_UNBEKANNT && nodeHeight(node) >= 14) ? (labelAnchor(node) === "start" ? 24 : -24) : 0)} y={labelY(node)} dy={twoLines(node) ? "-0.2em" : "0.35em"} text-anchor={labelAnchor(node)} class="label" class:strong={node.id === selected || focus.includes(node.id)} style="font-size:{11 * invK}px">
               {shortLabel(node)}
               {#if node.kind === "modell" && twoLines(node)}
                 <tspan class="amount" x={labelX(node)} dy="1.15em" style="font-size:{10 * invK}px">
                   Mehreinnahmen {fmtEuro(node.netEffective)} · Bund {fmtEuro(node.effective)}
                 </tspan>
               {:else if nodeHeight(node) >= 22}
-                <tspan class="amount" x={labelX(node)} dy="1.15em" style="font-size:{10 * invK}px">
-                  {fmtEuro(node.netEffective)}{#if node.changed && node.netOriginal !== node.netEffective} · war {fmtEuro(node.netOriginal)}{/if}
+                <tspan class="amount" x={labelX(node) + (node.kind === "epl" ? (labelAnchor(node) === "start" ? 24 : -24) : node.kind === "empfaenger" && node.id !== EMPFAENGER_UNBEKANNT ? (labelAnchor(node) === "start" ? 24 : -24) : 0)} dy="1.15em" style="font-size:{10 * invK}px">
+                  {fmtEuro(node.netEffective)}{anteil(node)}{#if node.changed && node.netOriginal !== node.netEffective} · war {fmtEuro(node.netOriginal)}{/if}
                 </tspan>
               {/if}
             </text>
@@ -227,7 +285,8 @@
     </g>
     </g>
   </svg>
-  {#if zoomed}
+  {/if}
+  {#if zoomed && modus === "sankey"}
     <button class="zoomreset" onclick={resetZoom} title="Zoom zurücksetzen (auch Doppelklick)">Zoom {Math.round(transform.k * 100)} % · zurücksetzen</button>
   {/if}
   <div class="legend">
@@ -246,6 +305,9 @@
       <button class="reset" onclick={() => onTopf?.("gesamt")}>‹ Gesamtfluss</button>
     {:else if !gesamtModus && sozialkassen}
       <button class="reset" onclick={() => onTopf?.("gesamt")}>‹ Gesamtfluss mit Sozialkassen</button>
+    {/if}
+    {#if mitEmpfaengerSpalte}
+      <span class="minder">Empfänger-Spalte: die größten Empfänger mit Seite aus diesem Einzelplan, Betrag je Quelle (Haushalts-Soll oder Lobbyregister-Untergrenze), nicht addiert{#if empfaengerSpalte.length > empfaengerKnoten.length} · weitere Empfänger in der Empfängerliste{/if}.</span>
     {/if}
     {#if focus.length}
       <button class="reset" onclick={() => { onFocus([]); onSelect(null); }}>‹ Alle Ministerien</button>
@@ -273,5 +335,21 @@
   .legend i { display: inline-block; width: 12px; height: 8px; border-radius: 2px; vertical-align: middle; margin-right: 4px; }
   .legend i.dash { background: none; border: 2px dashed; height: 6px; width: 10px; }
   .legend .minder { color: var(--fg); }
+  .umschalter { position: absolute; right: 0; top: -34px; display: inline-flex; gap: 2px; background: var(--nav-bg); border-radius: 10px; padding: 3px; }
+  .umschalter button { display: inline-flex; align-items: center; gap: 4px; background: none; border: 0; color: var(--header); padding: 4px 10px; border-radius: 8px; cursor: pointer; font-size: 12px; font-weight: 600; opacity: .75; }
+  .umschalter button.on { background: var(--nav-on); color: var(--nav-on-fg); opacity: 1; }
+  .umschalter button:disabled { opacity: .35; cursor: default; }
+  table.liste { width: 100%; border-collapse: collapse; font-size: 12px; margin-top: 4px; }
+  table.liste th { text-align: left; font-size: 10px; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); padding: 6px 4px; }
+  table.liste td { padding: 6px 4px; border-top: 1px solid var(--border); }
+  table.liste tr.dim { opacity: .5; }
+  .num { text-align: right; }
+  .zeile { background: none; border: 0; padding: 0; font: inherit; color: var(--header); cursor: pointer; display: inline-flex; align-items: center; gap: 8px; text-align: left; }
+  .zeile:hover { text-decoration: underline; }
+  .kachel { width: 24px; height: 24px; border-radius: 7px; display: inline-flex; align-items: center; justify-content: center; }
+  h4 { margin: 14px 0 6px; font-size: 12px; color: var(--header); }
+  .empf { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 6px; font-size: 12px; }
+  .empf li { display: grid; grid-template-columns: 24px 1fr auto; gap: 8px; align-items: center; }
+  .empf b { color: var(--header); }
   .reset { margin-left: auto; font-size: 11px; background: var(--panel); border: 1px solid var(--border); border-radius: 6px; padding: 4px 8px; cursor: pointer; color: var(--fg); }
 </style>

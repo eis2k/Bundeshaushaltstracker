@@ -14,6 +14,8 @@ export interface PersonIndexEintrag {
   arten: string[];
   /** Regierungsämter mit Einzelplan, Amt und Zeitraum (Stufe 4a, Ministerien-Ansicht); Zuordnung nur im Zeitraum. */
   epl_leitung?: { epl: string; amt: string; seit: string | null; bis: string | null }[];
+  /** Partei (aus Fraktion oder regierung.yaml), nur bei Regierungsmitgliedern und Abgeordneten (Spec §4.11 Parteien). */
+  partei?: string | null;
 }
 
 export interface PersonIndex { stand: string; modus: "relevant" | "alle" | string; eintraege: PersonIndexEintrag[] }

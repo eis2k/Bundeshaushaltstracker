@@ -6,7 +6,7 @@ import type { PersonIndex } from "./personen";
 import { includeRow } from "./tree";
 import type { YearData } from "./types";
 
-export interface Leitung { id: string; name: string; amt: string; seit: string | null; bis: string | null }
+export interface Leitung { id: string; name: string; amt: string; seit: string | null; bis: string | null; partei?: string | null }
 
 export interface Ministerium {
   epl: string;
@@ -51,7 +51,7 @@ export function ministerien(data: YearData, stand: "soll" | "ist", includeSv: bo
     if (!p.sichtbar || !p.arten?.includes("regierung")) continue;
     for (const l of p.epl_leitung ?? []) {
       if (!l.epl) continue;
-      alle.set(l.epl, [...(alle.get(l.epl) ?? []), { id: p.id, name: p.name, amt: l.amt, seit: l.seit ?? null, bis: l.bis ?? null }]);
+      alle.set(l.epl, [...(alle.get(l.epl) ?? []), { id: p.id, name: p.name, amt: l.amt, seit: l.seit ?? null, bis: l.bis ?? null, partei: p.partei ?? null }]);
     }
   }
   const epls = new Set<string>([...Object.keys(data.epl), ...ausgaben.keys()]);

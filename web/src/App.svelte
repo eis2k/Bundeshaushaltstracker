@@ -10,7 +10,7 @@
   import Presets from "./lib/ui/Presets.svelte";
   import Seitenkopf from "./lib/ui/Seitenkopf.svelte";
   import Unteransichten from "./lib/ui/Unteransichten.svelte";
-  import Fluss from "./lib/views/Fluss.svelte";
+  import FlussSeite from "./lib/views/FlussSeite.svelte";
   import Karte from "./lib/views/Karte.svelte";
   import Saeulen from "./lib/views/Saeulen.svelte";
   import Gewachsen from "./lib/views/Gewachsen.svelte";
@@ -41,7 +41,8 @@
   });
 
   const haushalt = $derived(app.view === "fluss" || app.view === "karte" || app.view === "saeulen" || app.view === "gewachsen");
-  const mitPanel = $derived(haushalt || app.view === "simulator");
+  /** Geldflüsse bringen ihre Spalten selbst mit (Spec §4.11). */
+  const mitPanel = $derived((haushalt && app.view !== "fluss") || app.view === "simulator");
 </script>
 
 <div class="app">
@@ -52,10 +53,13 @@
       <Seitenkopf {app} />
       <Datenstatus {app} />
       <Pfad {app} />
-      {#if haushalt}
+      {#if haushalt && app.view !== "fluss"}
         <Presets {app} />
       {/if}
       <main class:breit={!mitPanel}>
+        {#if app.view === "fluss" && app.viewData && !app.error}
+          <FlussSeite {app} />
+        {:else}
         <section class="view" aria-busy={app.loading}>
           <Unteransichten {app} />
           {#if app.error}
@@ -64,11 +68,6 @@
             <div class="loading">Lade Haushalt …</div>
           {:else if app.view === "dashboard"}
             <Dashboard {app} />
-          {:else if app.view === "fluss"}
-            <Fluss data={app.viewData} scenario={app.scenario} factors={app.factors} focus={app.focus} selected={app.selected}
-                   topf={app.topf} sozialkassen={app.viewSozialkassen} modelle={app.aktiveSteuern.je}
-                   empfaengerByTitel={app.empfaengerByTitel} onEmpfaenger={(id) => void app.openEmpfaenger(id)}
-                   onFocus={(p) => app.setFocus(p)} onSelect={(id) => app.setSelected(id)} onTopf={(t) => app.setTopf(t)} />
           {:else if app.view === "karte"}
             <Schnittwechsel {app} />
             <Karte data={app.viewData} scenario={app.scenario} factors={app.factors} focus={app.focus} selected={app.selected} schnitt={app.schnitt}
@@ -134,6 +133,7 @@
           </aside>
         {:else}
           <Panel {app} />
+        {/if}
         {/if}
       </main>
       <footer>

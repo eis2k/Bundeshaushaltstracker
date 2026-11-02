@@ -72,7 +72,8 @@ export function decodeScenario(hash: string, data: YearData, steuerIds?: string[
   const jahr = Number.parseInt(kv.get("j") ?? "", 10);
   const view = !kv.has("a") ? "dashboard" : (VIEWS as string[]).includes(kv.get("a") ?? "") ? (kv.get("a") as ViewId) : "fluss";
   const schnitt = (SCHNITTE as string[]).includes(kv.get("sc") ?? "") ? (kv.get("sc") as Schnitt) : "ressort";
-  const topf = (TOEPFE as readonly string[]).includes(kv.get("t") ?? "") ? (kv.get("t") as TopfId) : "gesamt";
+  // Ein Fokus (f=) gehört zum Bundesfluss: ohne t= wird dann „bund“ angenommen (Spec §4.11, Reiter „Nach Ministerien“).
+  const topf = (TOEPFE as readonly string[]).includes(kv.get("t") ?? "") ? (kv.get("t") as TopfId) : kv.has("f") ? "bund" : "gesamt";
   const eRaw = kv.get("e") ?? "";
   const empfaenger = EMPFAENGER_ID.test(eRaw) ? eRaw : null;
   const peRaw = kv.get("pe") ?? "";
