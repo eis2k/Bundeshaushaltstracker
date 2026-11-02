@@ -30,3 +30,13 @@ describe("quellenTabelle (Seite Daten & Quellen)", () => {
     expect(LIZENZEN.some((l) => l.lizenz === "MIT")).toBe(true);
   });
 });
+
+describe("Stufe 4b: Bildquellen", () => {
+  test("Zeile Wikidata/Commons mit Stand aus bilder.json", () => {
+    const t = quellenTabelle({ index: null, empfaenger: null, personen: null, vpi: null, steuern: 0, texte: null, bilder: { stand: "2026-11-02" } });
+    const z = t.find((x) => /Wikidata/.test(x.quelle))!;
+    expect(z.stand).toBe("2026-11-02");
+    expect(z.datei).toBe("/data/bilder.json");
+    expect(quellenTabelle({ index: null, empfaenger: null, personen: null, vpi: null, steuern: 0, texte: null }).find((x) => /Wikidata/.test(x.quelle))?.stand).toBeNull();
+  });
+});

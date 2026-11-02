@@ -16,6 +16,8 @@ export interface QuellenEingabe {
   steuern: number;
   /** Erklärtexte (Stand je Text). */
   texte: Texte | null;
+  /** Porträts und Logos (Stand aus bilder.json); fehlt ohne Bildabruf. */
+  bilder?: { stand: string } | null;
 }
 
 const DL_DE = "Datenlizenz Deutschland – Namensnennung 2.0";
@@ -46,6 +48,7 @@ export function quellenTabelle(e: QuellenEingabe): QuellenZeile[] {
     { quelle: "Parteispenden (Bundestagspräsident)", inhalt: "Veröffentlichungspflichtige Spenden über 35.000 € (davor 50.000 €) an Parteien, Drucksachen", zeitraum: "seit 2015", stand: datum(e.personen?.stand), lizenz: "Amtliche Veröffentlichung", url: "https://www.bundestag.de/parlament/praesidium/parteienfinanzierung/fundstellen50000", datei: null },
     { quelle: "Verbraucherpreisindex (Destatis)", inhalt: "Preisbereinigung für den Zeitvergleich", zeitraum: "ab 2015", stand: datum(e.vpi?.stand), lizenz: DL_DE, url: e.vpi?.quelle ?? "https://www.destatis.de", datei: "/data/vpi.json" },
     { quelle: "Steuer-Modelle", inhalt: `${e.steuern} Modelle mit Annahmen, jede mit Quelle und Basisjahr (BMF, DIW, Drucksachen)`, zeitraum: "Basisjahr je Modell", stand: null, lizenz: "Quellen je Annahme", url: "https://www.bundesfinanzministerium.de", datei: "/data/steuern.json" },
+    { quelle: "Wikidata und Wikimedia Commons (Porträts, Logos)", inhalt: "Porträts der Abgeordneten und Regierungsmitglieder (P18), Logos über die Lobbyregister-ID (P10301 → P154); nur CC-Lizenzen und Public domain, Urheber und Lizenz je Bild (siehe Bildnachweise)", zeitraum: "aktueller Stand", stand: datum(e.bilder?.stand), lizenz: "Wikidata CC0; Bilder je Datei", url: "https://www.wikidata.org", datei: "/data/bilder.json" },
     { quelle: "Erklärtexte", inhalt: "Kurze Einordnungen zu großen Titeln mit Belegen", zeitraum: "–", stand: texteStand, lizenz: "CC BY 4.0", url: "https://github.com/eis2k/Bundeshaushaltstracker", datei: "/data/texte.json" },
   ];
 }

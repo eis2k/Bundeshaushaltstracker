@@ -95,8 +95,13 @@ def zuordnen_personen(akten: list[dict], mdb: list[dict], suche: dict[str, list[
     namen: dict[str, list[dict]] = {}
     for a in relevant:
         namen.setdefault(norm_person(a["name"]), []).append(a)
+    # je Item nur eine Zeile (SPARQL liefert je Bild eine), das erste Bild zählt
+    gesehen: set[str] = set()
     wd: dict[str, list[dict]] = {}
     for m in mdb:
+        if m["qid"] in gesehen:
+            continue
+        gesehen.add(m["qid"])
         wd.setdefault(norm_person(m.get("label") or ""), []).append(m)
     bild_je_qid = {m["qid"]: m.get("bild") for m in mdb}
     for liste in suche.values():

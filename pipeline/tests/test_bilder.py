@@ -180,3 +180,11 @@ def test_fetch_bilder_schreibt_rohdateien_und_fragt_commons_in_bloecken(tmp_path
     assert len(commons) == 2 and all(u.count("File%3A") <= 50 for u in commons)    # 60 Porträts + 1 Logo + Erika = 62 Dateien → 2 Blöcke
     suche = json.loads((raw / "suche.json").read_text(encoding="utf-8"))
     assert suche["Erika Ohne Mandat"][0]["bild"] == "Erika.jpg"
+
+
+def test_zuordnen_personen_mehrere_bilder_je_item_sind_kein_konflikt():
+    # SPARQL liefert je P18-Wert eine Zeile; dasselbe Item zweimal darf nicht als „mehrdeutig“ gelten
+    mdb = MDB + [{"qid": "Q1", "label": "Anna Muster", "bild": "http://commons.wikimedia.org/wiki/Special:FilePath/Anna%20Muster%202023.jpg"}]
+    treffer, pruefliste = zuordnen_personen(AKTEN, mdb, SUCHE, LEER)
+    assert treffer["anna-muster-mdb-1"]["qid"] == "Q1"
+    assert not any(p["akte_id"] == "anna-muster-mdb-1" for p in pruefliste)
