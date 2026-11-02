@@ -37,7 +37,19 @@
 }
 ],
 "lobby_untergrenze_bund": 820002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EN4080C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: InnoWP - Innovative Leistungselektronik für hocheffiziente Kompressor-Antriebe im Wärmepumpen-Massenmarkt, Teilvorhaben: Kompressoren, Prototypen und Testing",
+"von": "2024-04-01",
+"bis": "2027-03-31",
+"summe": 438235.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Norbert Schiedeck",
@@ -175,6 +187,11 @@
 "stand": "2026-10-09",
 "etikett": "Eigenangabe",
 "version": 12
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

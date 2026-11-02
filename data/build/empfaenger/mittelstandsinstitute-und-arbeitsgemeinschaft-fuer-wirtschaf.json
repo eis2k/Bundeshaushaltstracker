@@ -1,0 +1,84 @@
+{
+"id": "mittelstandsinstitute-und-arbeitsgemeinschaft-fuer-wirtschaf",
+"name": "Mittelstandsinstitute und Arbeitsgemeinschaft für wirtschaftliche Verwaltung e. V.",
+"art": "forschung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "09-0902-68602",
+"text": "Mittelstandsinstitute",
+"epl": "09",
+"epl_text": "Bundesministerium für Wirtschaft und Energie",
+"werte": {
+"2015": {
+"soll": 10453000,
+"ist": 10287000
+},
+"2016": {
+"soll": 10753000,
+"ist": 10535000
+},
+"2017": {
+"soll": 10880000,
+"ist": 10788500
+},
+"2018": {
+"soll": 10989000,
+"ist": 10918500
+},
+"2019": {
+"soll": 11479000,
+"ist": 11378000
+},
+"2020": {
+"soll": 11626000,
+"ist": 11575000
+},
+"2021": {
+"soll": 11643000,
+"ist": 10973500
+},
+"2022": {
+"soll": 11795000,
+"ist": 11367967
+},
+"2023": {
+"soll": 11830000,
+"ist": 11534900
+},
+"2024": {
+"soll": 11774000,
+"ist": 11773500
+},
+"2025": {
+"soll": 13105000,
+"ist": 13041264
+},
+"2026": {
+"soll": 11408000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

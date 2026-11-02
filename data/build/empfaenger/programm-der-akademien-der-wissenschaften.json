@@ -1,0 +1,84 @@
+{
+"id": "programm-der-akademien-der-wissenschaften",
+"name": "Programm der Akademien der Wissenschaften",
+"art": "forschung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "30-3003-68511",
+"text": "Programm der Akademien der Wissenschaften",
+"epl": "30",
+"epl_text": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"werte": {
+"2015": {
+"soll": 31463000,
+"ist": 31462500
+},
+"2016": {
+"soll": 31463000,
+"ist": 31455682
+},
+"2017": {
+"soll": 32408000,
+"ist": 32407500
+},
+"2018": {
+"soll": 33380000,
+"ist": 33380000
+},
+"2019": {
+"soll": 34381000,
+"ist": 34381000
+},
+"2020": {
+"soll": 35412000,
+"ist": 35412000
+},
+"2021": {
+"soll": 35412000,
+"ist": 35412000
+},
+"2022": {
+"soll": 36474000,
+"ist": 36474000
+},
+"2023": {
+"soll": 37568000,
+"ist": 37568000
+},
+"2024": {
+"soll": 38696000,
+"ist": 38695500
+},
+"2025": {
+"soll": 39856000,
+"ist": 39856000
+},
+"2026": {
+"soll": 41052000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

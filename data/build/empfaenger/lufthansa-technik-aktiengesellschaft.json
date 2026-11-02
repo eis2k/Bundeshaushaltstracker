@@ -37,7 +37,59 @@
 }
 ],
 "lobby_untergrenze_bund": 970002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "20T2207A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Entwicklung eines neuartigen smarten minimalinvasiven Reparatursystems für die Schaufelkanten der ersten Hochdruckverdichterstufe von Flugzeugtriebwerken",
+"von": "2025-01-01",
+"bis": "2027-12-31",
+"summe": 202800.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20W2409B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Qualifizierbare additiv gefertigte Kabinen- und Strukturbauteile",
+"von": "2026-08-01",
+"bis": "2029-07-31",
+"summe": 299700.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20A2404A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Erforschung und Validierung verbesserter Riblet Geometrien",
+"von": "2026-08-01",
+"bis": "2029-07-31",
+"summe": 437100.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20M2236E",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Entwicklung eines Innentanks aus CFK für die kryogene H2-Speicherung zur Realisierung emissionsfreier Passagierflugzeuge bei gleichzeitiger Sensoridentifikation und -integration",
+"von": "2023-07-01",
+"bis": "2026-12-31",
+"summe": 465000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20M2220A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Entwicklung zukünftiger klimaoptimaler MRO-Prozesse für LH2-Systeme der nächsten Generation von Verkehrsflugzeugen anhand des Hydrogen Aviation Lab und seines digitalen Zwillings",
+"von": "2023-07-01",
+"bis": "2026-12-31",
+"summe": 893000.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Sören Stark",
@@ -198,6 +250,11 @@
 "stand": "2026-10-19",
 "etikett": "Eigenangabe",
 "version": 13
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

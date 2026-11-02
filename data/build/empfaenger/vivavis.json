@@ -45,7 +45,7 @@
 },
 {
 "geber": "Bundesrepublik Deutschland - BMWK",
-"epl": "60",
+"epl": null,
 "von": 330001,
 "bis": 340000,
 "zweck": "Verbundvorhaben: MeGA - Messsysteme für Großerzeugungs-Anlage; Teilvorhaben: Erweiterung der Backend-Architektur https://foerderportal.bund.de/foekat/jsp/SucheAction.do?actionMode=view&fkz=03EI6108A",
@@ -53,7 +53,7 @@
 },
 {
 "geber": "Bundesrepublik Deutschland BMWK, Referat IIB5",
-"epl": "60",
+"epl": null,
 "von": 20001,
 "bis": 30000,
 "zweck": "Verbundvorhaben: EnEff:Wärme: Optinetz_Bosbuell - Betriebsoptimierung des Wärmenetzes einschließlich der Nutzung von Strom aus EE und Abwärme aus der Wasserstoffproduktion in Bosbüll; Teilvorhaben: Datennormalisierung und Bereitstellung https://foerderportal.bund.de/foekat/jsp/SucheAction.do?actionMode=view&fkz=03EN3067E",
@@ -61,7 +61,7 @@
 },
 {
 "geber": "Bundesrepublik Deutschland BMWK, Referat IVA6",
-"epl": "60",
+"epl": null,
 "von": 60001,
 "bis": 70000,
 "zweck": "Verbundprojekt: RESIGENT - Strommarkt- und netzorientiertes Energiemanagement von flexiblen Verbrauchseinrichtungen auf Basis resilienter Steuerungsfunktionen; Teilvorhaben: Entwicklung einer FNN-konformen Steuerbox und Anbindung an das iMsys https://foerderportal.bund.de/foekat/jsp/SucheAction.do?actionMode=view&fkz=01MV21018G",
@@ -69,7 +69,7 @@
 },
 {
 "geber": "BUndesrepublik Deutschland, BMWK, Referat IIB5",
-"epl": "60",
+"epl": null,
 "von": 80001,
 "bis": 90000,
 "zweck": "Verbundvorhaben: EnEff:Stadt: NEED - Neue Daten für die Energiewende; Teilvorhaben: Anbindung an ein Netzleitsystem https://foerderportal.bund.de/foekat/jsp/SucheAction.do?actionMode=view&fkz=03EN3077G",
@@ -77,7 +77,7 @@
 },
 {
 "geber": "Bundesrepublik Deutschland BMWK, Referat IIB5",
-"epl": "60",
+"epl": null,
 "von": 30001,
 "bis": 40000,
 "zweck": "Verbundvorhaben: SmartGridCluster - Betrieb eines Smart-Grid-Clusters als virtuelles Kraftwerk unter Berücksichtigung einer BSI-konformen Kommunikation: Teilprojekt 4 - Netzleittechnik https://foerderportal.bund.de/foekat/jsp/SucheAction.do?actionMode=view&fkz=0350064F",
@@ -85,7 +85,7 @@
 },
 {
 "geber": "Bundesrepublik Deutschland - BMWE",
-"epl": "60",
+"epl": null,
 "von": 1,
 "bis": 10000,
 "zweck": "Verbundvorhaben: PICNIC - Powerquality Improvement by deCeNtralized IntelligenCe; Teilvorhaben: Messwertaufnahme https://foerderportal.bund.de/foekat/jsp/SucheAction.do?actionMode=view&fkz=03EI6118B",
@@ -93,7 +93,7 @@
 },
 {
 "geber": "Bundesrepublik Deutschland - BMFTR",
-"epl": "60",
+"epl": null,
 "von": 20001,
 "bis": 30000,
 "zweck": "Verbundprojekt: Gestaltung eines Serviceproduktes zum lokalen Stromhandel - Smart Microgrids as a Service (SMaaS); Teilprojekt: Steuerungs- und Datenplattform https://foerderportal.bund.de/foekat/jsp/SucheAction.do?actionMode=view&fkz=02K18D006",
@@ -102,6 +102,7 @@
 ],
 "lobby_untergrenze_bund": 690010,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Luis Goncalves",

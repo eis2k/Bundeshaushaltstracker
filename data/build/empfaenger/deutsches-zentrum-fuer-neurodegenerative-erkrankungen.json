@@ -61,7 +61,7 @@
 },
 {
 "geber": "Bundesministerium für wirtschaftliche Zusammenarbeit",
-"epl": "23",
+"epl": null,
 "von": 80001,
 "bis": 90000,
 "zweck": "Projektförderung des Bundesministeriums von wissenschaftlichen Forschungsprojekten auf dem Gebiet der Neurodegenerativen Erkrankungen",
@@ -70,6 +70,7 @@
 ],
 "lobby_untergrenze_bund": 103420006,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Joachim Schultze",

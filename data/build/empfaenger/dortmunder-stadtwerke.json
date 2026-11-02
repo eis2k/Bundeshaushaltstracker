@@ -30,6 +30,7 @@
 ],
 "lobby_untergrenze_bund": 40001,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Harald Kraus",
@@ -88,7 +89,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/P/peick_jens-1046504",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004526/81447",
+"stand": "2026-08-13",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

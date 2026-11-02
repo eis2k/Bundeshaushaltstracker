@@ -21,7 +21,7 @@
 "lobby_zuwendungen": [
 {
 "geber": "Deutsches Zentrum für Luft- und Raumfahrt (DLR)",
-"epl": "30",
+"epl": null,
 "von": 1960001,
 "bis": 1970000,
 "zweck": "Forschungstätigkeiten im Rahmen von Zuwendungsprojekten des DLR",
@@ -29,7 +29,39 @@
 }
 ],
 "lobby_untergrenze_bund": 1960001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "50RL2005",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Entwicklung eines Sensorsystems für Trägerraketen basierend auf kommerziellen elektronischen Komponenten und modernen intelligenten Sensoren und dessen Bewertung in Bezug auf seine Flugtauglichkeit",
+"von": "2020-08-01",
+"bis": "2027-04-01",
+"summe": 339757.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "50RL2410",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "EFFiziente Entwicklung von KernTechnologien",
+"von": "2024-07-01",
+"bis": "2027-06-30",
+"summe": 1837248.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "50RL2510",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "ELSA - Weiterentwicklung von Flüssigkeitsraketenmotoren für Ariane",
+"von": "2025-07-01",
+"bis": "2027-12-31",
+"summe": 2857798.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Pierre Godart",
@@ -157,6 +189,11 @@
 "stand": "2026-10-13",
 "etikett": "Eigenangabe",
 "version": 14
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

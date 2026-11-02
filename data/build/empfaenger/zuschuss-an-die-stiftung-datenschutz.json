@@ -1,0 +1,48 @@
+{
+"id": "zuschuss-an-die-stiftung-datenschutz",
+"name": "Zuschuss an die \"Stiftung Datenschutz",
+"art": "verein_stiftung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "06-0601-68643",
+"text": "Zuschuss an die \"Stiftung Datenschutz\"",
+"epl": "06",
+"epl_text": "Bundesministerium des Innern, für Bau und Heimat",
+"werte": {
+"2015": {
+"soll": 0,
+"ist": 0
+},
+"2016": {
+"soll": 0,
+"ist": 0
+},
+"2021": {
+"soll": 700000,
+"ist": 700000
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

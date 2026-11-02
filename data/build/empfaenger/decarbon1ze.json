@@ -29,7 +29,29 @@
 }
 ],
 "lobby_untergrenze_bund": 390001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "19DNS2602A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Peak Saver - Strommarktintegration von E-Fahrzeugen auf der Basis von Fahrzeugdaten, Teilvorhaben: Energiewirtschaftliche Prozessintegration, Feldtests, Koordination",
+"von": "2026-04-01",
+"bis": "2028-09-30",
+"summe": 532154.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI6142D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: SkIES - Skalierbare Integration von Energy Sharing - Teilvorhaben: Virtualisierte Zeitreihenaggregation und Bilanzkreiszuordnung für Energiegemeinschaften",
+"von": "2025-09-01",
+"bis": "2028-08-31",
+"summe": 187372.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Arwen Colell",
@@ -102,6 +124,11 @@
 "stand": "2026-07-01",
 "etikett": "Eigenangabe",
 "version": 10
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

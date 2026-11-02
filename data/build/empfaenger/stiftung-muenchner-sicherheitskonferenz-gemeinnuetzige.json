@@ -46,6 +46,7 @@
 ],
 "lobby_untergrenze_bund": 1590003,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Benedikt Franke",
@@ -195,7 +196,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/F/frei_thorsten-1044370",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005546/69063",
+"stand": "2026-01-26",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -218,7 +226,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/W/warken_nina-1047986",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005546/69063",
+"stand": "2026-01-26",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

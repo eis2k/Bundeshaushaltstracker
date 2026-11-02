@@ -45,7 +45,149 @@
 }
 ],
 "lobby_untergrenze_bund": 7610003,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03WIR1216C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "WIR! - SMART RAIL CONNECTIVITY CAMPUS - Verbundprojekt: Multi-Path-Communication, TP3",
+"von": "2024-01-01",
+"bis": "2026-12-31",
+"summe": 20241.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13IK031B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Digitale Zulassung 3D-gedruckter Komponenten für Schienenfahrzeuge (DigiZug3D) - Teilvorhaben: Qualifizierung Zulassungsstruktur und Standardisierung",
+"von": "2023-10-01",
+"bis": "2026-08-31",
+"summe": 241152.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13IPC039A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Entwicklung eines Datenraums in der internationalen Bahnindustrie unter Nutzung von Cloud-Edge Technologie zur Datenerfassung und Verarbeitung (Railway-X) - Teilvorhaben: Nutzung der Potenziale der Datenraumtechnologie für das Management der Lebenszyklusdaten eines Schienenfahrzeugherstellers",
+"von": "2025-01-01",
+"bis": "2026-12-31",
+"summe": 1950614.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "53T24003SM",
+"ressort": "BMV",
+"epl": "12",
+"thema": "VSS - Smart Screen für Lokomotiven der Vectron-Plattform",
+"von": "2024-10-01",
+"bis": "2027-09-30",
+"summe": 2230135.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "53D24011SM",
+"ressort": "BMV",
+"epl": "12",
+"thema": "VDC - Praxiserprobung und Weiterentwicklung Vectron Digital Connect (Push-Zugriff auf Triebfahrzeuge (Tfz.) über eine App)",
+"von": "2024-12-15",
+"bis": "2027-03-31",
+"summe": 1010223.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "53T21035SM",
+"ressort": "BMV",
+"epl": "12",
+"thema": "eLM-Lok - Vollelektrische Last-Mile-Lokomotive zur Bedienung von nicht-elektrifizierten Gleisanschlüssen",
+"von": "2022-03-01",
+"bis": "2026-12-31",
+"summe": 1872112.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "5317000019",
+"ressort": "BMV",
+"epl": "12",
+"thema": "Technische Machbarkeitsstudie zur Rissdetektion an Eisenbahn-Spannbetonschwellen mit Methoden der zerstörungsfreien Prüfung (Los C)",
+"von": "2023-12-31",
+"bis": "2027-03-31",
+"summe": 368172.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "19A23001I",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: AutomatedTrain - Entwicklung und Erprobung intelligenter Technologien für die vollautomatisierte Zugfahrt, Teilvorhaben: Erprobung des vollautomatisierten Fahrens auf der Schiene (ATO GoA 4) mit einem Mireo Regionalzug",
+"von": "2023-07-01",
+"bis": "2026-09-30",
+"summe": 11562603.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N125140C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Nachweis von Quantenvorteilen für Mobilität und Logistik (NaQuaMo) - Teilvorhaben: Quanten-Computing für Online-Disposition im Schienenverkehr",
+"von": "2025-10-01",
+"bis": "2028-09-30",
+"summe": 76392.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "19DNS2501O",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: CONTROL - Controlling Risk for Highly Automated Transportation Systems Operating in Complex Open Environments, Teilvorhaben: Sicherere hochpräzise Lokalisierungssysteme für fahrerlose Schienenfahrzeuge",
+"von": "2025-10-01",
+"bis": "2028-09-30",
+"summe": 1173077.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "19DNS2503A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: RemODtrAIn - Entwicklung und Erprobung einer sicheren Remotesteuerung und modularen Hinderniserkennung mit KI für die Zugfahrt, Teilvorhaben: Sichere Fernsteuerung, Hinderniserkennung mit KI, Gesamtfahrzeugintegration und Demonstration",
+"von": "2025-10-01",
+"bis": "2028-09-30",
+"summe": 9358538.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01FV2060B",
+"ressort": "BMV",
+"epl": "12",
+"thema": "Verbundprojekt: Smartphone-based Track Monitoring for digitalized Maintenance Planning of Railway Infrastructure - Smart.TRAM -, Teilvorhaben: Siemens Mobility GmbH",
+"von": "2023-10-01",
+"bis": "2026-09-30",
+"summe": 497915.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ETE045B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: HyFlexBahn - Hybride und Flexible Batteriesysteme im Bahnverkehr, Teilvorhaben: Rahmenbedingungen, Anwendbarkeit und Wirtschaftlichkeit",
+"von": "2023-01-01",
+"bis": "2026-03-31",
+"summe": 34963.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01MV23011A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: E|FORM - Dreistufig automatisiertes Endformen von Flachleiterspulen im Blechpaket, Teilvorhaben: Produktionstechnische Integration der automatisierten Endform-Technologie von Flachleiterspulen",
+"von": "2023-09-01",
+"bis": "2026-08-31",
+"summe": 507930.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Michael Peter",
@@ -150,6 +292,11 @@
 "stand": "2026-03-31",
 "etikett": "Eigenangabe",
 "version": 14
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

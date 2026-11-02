@@ -29,7 +29,29 @@
 }
 ],
 "lobby_untergrenze_bund": 4500001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03LW0683",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "BiodivKI-2: KI und Citizen Science gestütztes Monitoring von zertifizierten Biodiversitätsprojekten (KICS-Zert-2) - Citizen Science basiertes KI-Tool",
+"von": "2024-12-01",
+"bis": "2027-11-30",
+"summe": 146897.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "67KF0133A",
+"ressort": "BMUKN",
+"epl": "16",
+"thema": "Verbundprojekt: NKI: ELAN: Entwaldungsfreie Lieferketten - Aktiv für mehr Nachhaltigkeit!",
+"von": "2021-06-01",
+"bis": "2026-02-28",
+"summe": 362007.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Marion Hammerl",
@@ -104,6 +126,11 @@
 "stand": "2026-03-31",
 "etikett": "Eigenangabe",
 "version": 14
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

@@ -29,7 +29,7 @@
 },
 {
 "geber": "Bundesministerium für Wirtschaftliche Zusammenarbeit",
-"epl": "23",
+"epl": null,
 "von": 1190001,
 "bis": 1200000,
 "zweck": "Internationale gemeinnützige Tätigkeiten",
@@ -85,7 +85,7 @@
 },
 {
 "geber": "Bundesamt für Bevölkerungsschutz",
-"epl": "06",
+"epl": null,
 "von": 1370001,
 "bis": 1380000,
 "zweck": "Katastrophen- und Bevölkerungsschutz",
@@ -129,6 +129,7 @@
 "foerderart": "Direkte Projektförderung"
 }
 ],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Elmar Pankau",

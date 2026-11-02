@@ -45,7 +45,7 @@
 },
 {
 "geber": "Bundesministerium für wirtschaftliche Zusammenarbeit (BMZ)",
-"epl": "23",
+"epl": null,
 "von": 4400001,
 "bis": 4410000,
 "zweck": "Projektmittel für Projekte in Afghanistan und Yemen.",
@@ -62,6 +62,7 @@
 ],
 "lobby_untergrenze_bund": 24180005,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Jan Sebastian Friedrich-Rust",

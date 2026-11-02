@@ -29,7 +29,7 @@
 },
 {
 "geber": "Bundesministerium für wirtschaftliche Zusammenarbeit",
-"epl": "23",
+"epl": null,
 "von": 980001,
 "bis": 990000,
 "zweck": "PRO-PLANTEURS ist ein Gemeinschaftsprojekt des Forum Nachhaltiger Kakao e.V., des Bundesministeriums für Ernährung und Landwirtschaft (BMEL), des Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) und dem ivorischen Kaffee-Kakao-Rat (Conseil du Café-Cacao), das zum Ziel hat die Lebensbedingungen von 30.000 Kakaobauern und bäuerinnen in der Côte d'Ivoire zu verbessern. Die Projektmittel werden für Personal, Sachgüter und Trainings und Trainingsmaterialien vor Ort (in der Cote d'Ivoire) verwendet. Neben den öffentlichen Zuwendungen, kommt ein wichtiger Teil der Finanzierung aus den freiwilligen Beiträgen der Mitglieder des Forum nachhaltiger Kakao zum Projekt und dessen Umsetzung vor Ort.",
@@ -38,6 +38,7 @@
 ],
 "lobby_untergrenze_bund": 1500002,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Aldo Cristiano",

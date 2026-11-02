@@ -30,6 +30,7 @@
 ],
 "lobby_untergrenze_bund": 290001,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Dirk Lüerßen",
@@ -89,7 +90,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/T/troff_schaffarzyk_anja-1047796",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000408/85942",
+"stand": "2026-09-17",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

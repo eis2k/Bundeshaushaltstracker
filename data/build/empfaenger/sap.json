@@ -133,7 +133,89 @@
 }
 ],
 "lobby_untergrenze_bund": 37200014,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "13IK040E",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Catena-X Automotive Network NEXT (CX-NEXT) - Teilvorhaben: SAP SE",
+"von": "2024-08-01",
+"bis": "2026-09-30",
+"summe": 1144820.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13IPC007",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Open Reference Architecture",
+"von": "2023-02-01",
+"bis": "2027-12-31",
+"summe": 229105226.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ZU2105DB",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "MCube: Reallabor Future Mobility Campus Garching (ReFuMoLab_Garching) - B",
+"von": "2024-11-01",
+"bis": "2027-10-31",
+"summe": 291005.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13MX001T",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Aufbau eines Datenraums für die ausrüstende Industrie - die Ausrüster von Fabriken weltweit (Factory-X) - Teilvorhaben: Software für Fabrikausrüster und -betreiber zur datensouveränen Abwicklung von Mehrwertszenarien",
+"von": "2024-01-01",
+"bis": "2026-08-31",
+"summe": 9448000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13MX008F",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Initiative zur Digitalisierung der Lieferketten in der Halbleiterindustrie (Semiconductor-X) - Teilvorhaben: Software für die datensouveräne Vernetzung in der Halbleiterindustrie",
+"von": "2024-05-01",
+"bis": "2026-09-30",
+"summe": 1022600.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13MX010H",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Aufbau eines Datenraums der chemischen Industrie sowie Schnittstellen der mit ihr verbundener Wertschöpfungsketten am Beispiel des digitalen Produkt Passes (Chem-X) - Teilvorhaben: Softwareunterstützung für nachhaltige und datensouveräne Wertschöpfungsketten in der chemischen Industrie",
+"von": "2024-12-01",
+"bis": "2026-11-30",
+"summe": 392000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N121264B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Quantum Computing User Network (QuCUN) - Teilvorhaben: Entwurf und Prototyping einer Quantum Computing Plattform mit Cloud-Schnittstelle und Erstellung einer Bibliothek mit Standard Use Cases",
+"von": "2021-12-01",
+"bis": "2026-11-30",
+"summe": 1728230.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI6082B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: DymoBat - KI unterstützte Kommunikationstechnologien zur dynamischen Optimierung von Mobilität und Energiespeichern zur Frequenzstabilisierung und Energieversorgung, Teilvorhaben SAP SE: Interzellurare Echtzeit Energie Optimierung",
+"von": "2022-10-01",
+"bis": "2026-12-31",
+"summe": 850842.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Christian Klein",
@@ -591,6 +673,11 @@
 "stand": "2026-09-30",
 "etikett": "Eigenangabe",
 "version": 48
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

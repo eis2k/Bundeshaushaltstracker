@@ -30,6 +30,7 @@
 ],
 "lobby_untergrenze_bund": 640001,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Volker Beck",
@@ -249,7 +250,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/H/hardt_juergen-1044742",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005190/82436",
+"stand": "2026-07-06",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

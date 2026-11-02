@@ -21,7 +21,7 @@
 "lobby_zuwendungen": [
 {
 "geber": "Bund, BMFTR",
-"epl": "60",
+"epl": null,
 "von": 2500001,
 "bis": 2510000,
 "zweck": "Projektförderung BMFTR verschiedene Programme",
@@ -29,7 +29,7 @@
 },
 {
 "geber": "Bund, BMFTR",
-"epl": "60",
+"epl": null,
 "von": 10000001,
 "bis": 10010000,
 "zweck": "Großprojektförderung FAIR FAR1118- BuE PMA Bund, Gesamtfördersumme: 158 Mio. Förderzeitraum: 01.08.2011 - 30.06.2029",
@@ -37,7 +37,7 @@
 },
 {
 "geber": "Bund, BMFTR",
-"epl": "60",
+"epl": null,
 "von": 209880001,
 "bis": 209890000,
 "zweck": "Institutionelle, jährliche Zuwendung für Betrieb und Investitionen",
@@ -45,7 +45,7 @@
 },
 {
 "geber": "Bund, BMWE",
-"epl": "60",
+"epl": null,
 "von": 450001,
 "bis": 460000,
 "zweck": "Projektförderung BMWE verschiedene Programme.",
@@ -54,6 +54,7 @@
 ],
 "lobby_untergrenze_bund": 222830004,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Jörg Blaurock",

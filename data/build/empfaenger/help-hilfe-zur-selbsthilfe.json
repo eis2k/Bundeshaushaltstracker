@@ -29,7 +29,7 @@
 },
 {
 "geber": "Bundesministerium für wirtschaftliche Zusammenarbeit",
-"epl": "23",
+"epl": null,
 "von": 6350001,
 "bis": 6360000,
 "zweck": "Projektförderungen in: Bosnien und Herzegowina Burkina Faso Jemen Malawi Mali Philippinen Simbabwe Syrien Tschad/Sudan Ukraine",
@@ -62,6 +62,7 @@
 ],
 "lobby_untergrenze_bund": 28450005,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Thorsten Klose-Zuber",
@@ -167,7 +168,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/F/fey_katrin-1044300",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001056/83890",
+"stand": "2026-07-29",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

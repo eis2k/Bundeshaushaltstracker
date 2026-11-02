@@ -29,7 +29,19 @@
 }
 ],
 "lobby_untergrenze_bund": 10001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "02L22C013",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Transformation im Zukunftskorridor Saar-Pfalz gestalten: Werteorientiertes Arbeiten und Lernen in der Kreislaufwirtschaft (KOMATRA), Teilprojekt: Kollaboration in der Wertschöpfungskette sowie werteorientiertes und individualbasiertes Lernen zur Förderung nachhaltigen Wirtschaftens",
+"von": "2023-01-01",
+"bis": "2027-12-31",
+"summe": 261926.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Thomas Menitz",
@@ -123,6 +135,11 @@
 "stand": "2026-08-05",
 "etikett": "Eigenangabe",
 "version": 11
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

@@ -134,6 +134,7 @@
 ],
 "lobby_untergrenze_bund": 960014,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Ansgar Hinz",
@@ -210,7 +211,7 @@
 "funktion_beim_empfaenger": "Beratender Regionalleiter West, monatlich, 2.895,00 EUR, Brutto (bis 30.04.2025); monatlich, 2.955,67 EUR, Brutto (01.05. 2025 bis 31.01.2026); monatlich, 3.009,40 EUR, Brutto (ab 01.02.2026), zuzüglich 2025, 5.127,85 EUR, Brutto, zuzüglich 2026, 5.437,25 EUR, Brutto",
 "kategorie": "Entgeltliche Tätigkeiten neben dem Mandat",
 "abgleich": "exakt",
-"satz": "Daniel Rinkert (MdB, SPD) ist laut bundestag.de Beratender Regionalleiter West, monatlich, 2.895,00 EUR, Brutto (bis 30.04.2025); monatlich, 2.955,67 EUR, Brutto (01.05. 2025 bis 31.01.2026); monatlich, 3.009,40 EUR, Brutto (ab 01.02.2026), zuzüglich 2025, 5.127,85 EUR, Brutto, zuzüglich 2026, 5.437,25 EUR, Brutto bei VDE Verband der Elektrotechnik Elektronik Informationstechnik e.V.. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit; Ausschuss für Recht und Verbraucherschutz; Enquete-Kommission „Corona“. VDE Verband der Elektrotechnik Elektronik Informationstechnik e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Forschung, Technologie und Raumfahrt; Bundesministerium für Wirtschaft und Energie; Bundesamt für Wirtschaft und Ausfuhrkontrolle.",
+"satz": "Daniel Rinkert (MdB, SPD) übte laut bundestag.de eine entgeltliche Tätigkeit bei VDE Verband der Elektrotechnik Elektronik Informationstechnik e.V. aus: „Beratender Regionalleiter West, monatlich, 2.895,00 EUR, Brutto (bis 30.04.2025); monatlich, 2.955,67 EUR, Brutto (01.05. 2025 bis 31.01.2026); monatlich, 3.009,40 EUR, Brutto (ab 01.02.2026), zuzüglich 2025, 5.127,85 EUR, Brutto, zuzüglich 2026, 5.437,25 EUR, Brutto“. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit; Ausschuss für Recht und Verbraucherschutz; Enquete-Kommission „Corona“. VDE Verband der Elektrotechnik Elektronik Informationstechnik e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Forschung, Technologie und Raumfahrt; Bundesministerium für Wirtschaft und Energie; Bundesamt für Wirtschaft und Ausfuhrkontrolle.",
 "ausschuesse": [
 "Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
 "Ausschuss für Recht und Verbraucherschutz",
@@ -225,7 +226,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/R/rinkert_daniel-1046796",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R006792/87463",
+"stand": "2026-10-12",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

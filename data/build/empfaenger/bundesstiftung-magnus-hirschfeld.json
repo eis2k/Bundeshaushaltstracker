@@ -30,6 +30,7 @@
 ],
 "lobby_untergrenze_bund": 700001,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Helmut Metzner",
@@ -65,7 +66,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/B/bernstein_melanie-1043686",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005470/77887",
+"stand": "2026-07-15",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -90,7 +98,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/D/drossmann_falko-1044108",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005470/77887",
+"stand": "2026-07-15",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -115,7 +130,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/H/heil_mechthild-1044822",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005470/77887",
+"stand": "2026-07-15",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -142,7 +164,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/L/lucks_max-1045878",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005470/77887",
+"stand": "2026-07-15",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -168,7 +197,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/L/luczak_jan-1045880",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005470/77887",
+"stand": "2026-07-15",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -193,7 +229,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/N/neuhaeuser_charlotte-1046310",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005470/77887",
+"stand": "2026-07-15",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -218,7 +261,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/S/slawik_nyke-1047458",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005470/77887",
+"stand": "2026-07-15",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -245,7 +295,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/W/wegge_carmen-1048014",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005470/77887",
+"stand": "2026-07-15",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -257,7 +314,7 @@
 "funktion_beim_empfaenger": "Mitglied des Kuratoriums (bis 02.10.2025)",
 "kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
 "abgleich": "exakt",
-"satz": "Jens Spahn (MdB, CDU/CSU) ist laut bundestag.de Mitglied des Kuratoriums (bis 02.10.2025) bei Bundesstiftung Magnus Hirschfeld. Bundesstiftung Magnus Hirschfeld erhielt laut Lobbyregister Mittel von: Bundesministerium der Justiz und für Verbraucherschutz.",
+"satz": "Jens Spahn (MdB, CDU/CSU) war laut bundestag.de Mitglied des Kuratoriums (bis 02.10.2025) bei Bundesstiftung Magnus Hirschfeld. Bundesstiftung Magnus Hirschfeld erhielt laut Lobbyregister Mittel von: Bundesministerium der Justiz und für Verbraucherschutz.",
 "ausschuesse": [],
 "geld_aus": [
 "Bundesministerium der Justiz und für Verbraucherschutz"
@@ -266,7 +323,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/S/spahn_jens-1049240",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005470/77887",
+"stand": "2026-07-15",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

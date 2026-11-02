@@ -30,6 +30,7 @@
 ],
 "lobby_untergrenze_bund": 490001,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Andrea Wechsler",
@@ -198,7 +199,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/H/hofreiter_anton-1045040",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002271/80945",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

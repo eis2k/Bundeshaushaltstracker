@@ -101,7 +101,7 @@
 },
 {
 "geber": "Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR)",
-"epl": "30",
+"epl": null,
 "von": 160001,
 "bis": 170000,
 "zweck": "Verbundvorhaben: Resilient Zero-Trust Avionics Platform supported by Digital Security Twins and Aircraft-SOCs (RESISTANT)",
@@ -110,6 +110,7 @@
 ],
 "lobby_untergrenze_bund": 1130011,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Rudolf Schwarz",

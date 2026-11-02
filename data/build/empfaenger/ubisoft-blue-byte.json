@@ -29,7 +29,39 @@
 }
 ],
 "lobby_untergrenze_bund": 2220001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "01SC26026",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Blueprint",
+"von": "2025-11-01",
+"bis": "2026-12-31",
+"summe": 220590.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01SC26043",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Projekt Echo",
+"von": "2026-01-01",
+"bis": "2026-09-30",
+"summe": 800729.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01SC26095",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Projekt ORBIT",
+"von": "2026-07-01",
+"bis": "2027-11-30",
+"summe": 818240.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Benedikt Grindel",
@@ -102,6 +134,11 @@
 "stand": "2025-09-29",
 "etikett": "Eigenangabe",
 "version": 7
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

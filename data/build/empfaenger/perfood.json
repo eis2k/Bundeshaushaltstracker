@@ -21,7 +21,7 @@
 "lobby_zuwendungen": [
 {
 "geber": "Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR)",
-"epl": "30",
+"epl": null,
 "von": 50001,
 "bis": 60000,
 "zweck": "Förderung von zwei ernährungsbezogenen Forschungsprojekten",
@@ -46,6 +46,7 @@
 ],
 "lobby_untergrenze_bund": 870003,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Dominik Burziwoda-von Papen",

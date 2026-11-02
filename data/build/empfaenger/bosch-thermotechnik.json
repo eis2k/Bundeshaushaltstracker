@@ -29,7 +29,19 @@
 }
 ],
 "lobby_untergrenze_bund": 160001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EN4052B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: Future-Hybrid - Komplexitätsreduktion für Wärmepumpen-Hybridsysteme der Zukunft, Teilvorhaben: Komplexitätsreduktion und Autoparametrierung",
+"von": "2023-07-01",
+"bis": "2027-06-30",
+"summe": 478236.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Jan Brockmann",
@@ -90,6 +102,11 @@
 "stand": "2026-06-29",
 "etikett": "Eigenangabe",
 "version": 7
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

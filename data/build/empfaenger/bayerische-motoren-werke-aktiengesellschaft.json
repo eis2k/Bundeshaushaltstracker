@@ -429,7 +429,329 @@
 }
 ],
 "lobby_untergrenze_bund": 145840051,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "16MEE0352",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: KI-unterstützte Elektroniksysteme für die nachhaltige Produktion - AIMS5.0 -",
+"von": "2023-06-01",
+"bis": "2026-09-30",
+"summe": 1004261.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03LB2082A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: AutoBeam - Befähigung der Additiven Fertigung durch Prozessadaption und Beam Shaping für Leichtbaustrukturen im Automobilbereich, Teilvorhaben: Erprobung prototypische Beam-Shaping-Anlage im AM",
+"von": "2023-12-01",
+"bis": "2026-11-30",
+"summe": 251099.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03CC2003B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: E3CO2-SUV - Entwicklung effizienter Entnahmeprozesse für CO2 aus der Atmosphäre für die Speicherung und Verwendung, Teilvorhaben: CO2-Abscheidung und -Nutzung für Anwendungen in der Automobilindustrie",
+"von": "2025-12-01",
+"bis": "2028-11-30",
+"summe": 238486.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03B11033D",
+"ressort": "BMV",
+"epl": "12",
+"thema": "NIP II - FuE - Verbund: Innovative, skalierbare Brennstoffzellenproduktion",
+"von": "2022-12-01",
+"bis": "2026-05-31",
+"summe": 395514.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03P0120001",
+"ressort": "BMV",
+"epl": "12",
+"thema": "HyCET - Hydrogen Combustion Engine Trucks",
+"von": "2022-01-26",
+"bis": "2027-12-31",
+"summe": 275854.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03IPCEI004",
+"ressort": "BMV",
+"epl": "12",
+"thema": "Hydrogen Powered Drivetrain 'HyPowerDrive'",
+"von": "2023-01-01",
+"bis": "2028-07-31",
+"summe": 191261000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13IK037B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Predictive Failure Management with AI in Production (PrePAIR) - Teilvorhaben: Anwendungsfälle A3 und A5: Proaktive Fehlererkennung und -vermeidung mithilfe von künstlicher Intelligenz",
+"von": "2023-11-01",
+"bis": "2026-07-31",
+"summe": 358852.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13IK040A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Catena-X Automotive Network NEXT (CX-NEXT) - Teilvorhaben: BMW",
+"von": "2024-08-01",
+"bis": "2026-09-30",
+"summe": 1851490.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ZU2105CC",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "MCube: Komfortables und effizientes Fahrzeug-Sharing auf Privatgrund (ComfficientShare 2.0) - C",
+"von": "2024-11-01",
+"bis": "2027-10-31",
+"summe": 78725.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "19S22006B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: DigiTain - Digitalization for Sustainability, Teilvorhaben: Prozesse, Methoden und Modelle zur volldigitalen Produktentwicklung nachhaltiger Elektroantriebsarchitekturen",
+"von": "2023-01-01",
+"bis": "2026-03-31",
+"summe": 1109775.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01F2269C",
+"ressort": "BMV",
+"epl": "12",
+"thema": "Verbundprojekt: Tyre Road Noise - Data-based study of effects on controlled and real drive noise emission - TyRoN -, Teilvorhaben: BMW AG",
+"von": "2023-10-01",
+"bis": "2027-03-31",
+"summe": 22128.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13XP5226I",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Digitale Materialbetrachtung entlang der gesamten Wertschöpfungskette für Stahlkomponenten zur Effizienzsteigerung, Lebensdauerprognose und Bestimmung des CO2-Fußabdrucks (DiStEL) - Teilvorhaben: Definition von Standards und Schnittstellen zur Integration digitaler Technologien",
+"von": "2025-01-01",
+"bis": "2028-06-30",
+"summe": 172124.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13XPM504D",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Automotive End-of-Life Datenaustausch für Circular Economy (EDCar) - Teilvorhaben: Bidirektionale Datenversorgungsstruktur zur Verwertungsoptimierung der Entwicklungsprozesse und Materialdatenflüsse in der automobilen Wertschöpfungskette",
+"von": "2025-07-01",
+"bis": "2026-06-30",
+"summe": 100047.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16ME0898",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Entwicklungsplattform für KI-basierte und hochdynamische Regelungsverfahren für die Leistungselektronik - ZuSE-KI-Power -",
+"von": "2024-02-01",
+"bis": "2026-10-31",
+"summe": 147974.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0457",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Hardwareabstraktionsschicht für das Software-definierte Automobil der Zukunft - HAL4SDV -",
+"von": "2024-06-01",
+"bis": "2027-05-31",
+"summe": 236616.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0512",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Europäische Softwarearchitektur und Entwicklungswerkzeuge für das Automobil der Zukunft - Shift2SDV -",
+"von": "2025-07-01",
+"bis": "2028-06-30",
+"summe": 212771.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0598",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Europäische Chiplet-Integrations-Plattform für hochleistungsfähige Automobil-Prozessoren - CHASSIS -",
+"von": "2025-11-01",
+"bis": "2028-10-31",
+"summe": 1828935.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE1109",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: RISC-V-basierte Edge-KI-Architektur für echtzeitkritische Anwendungen - HumAMI -",
+"von": "2026-09-01",
+"bis": "2029-08-31",
+"summe": 418272.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N125244D",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Quanteninformierte approximative Optimierung auf NISQ und partiell fehlertoleranten Quantencomputern (QIAPO) - Teilvorhaben: Quanteninformierte Optimierung von Sonderausstattungspaketen in der Automobilindustrie",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 269785.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "19S22005A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: FSCM - Future Sustainable Car Materials, Teilvorhaben: Zirkularität von Werkstoffen, neue Fertigungsrouten, Design for Recycling Demonstratoren",
+"von": "2022-10-01",
+"bis": "2026-03-31",
+"summe": 6768990.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "19S24001A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: KIMBA - Künstliche Intelligenz für SystemModell-Bildung und Anforderungen, Teilvorhaben: Qualität, Systemmodelle, Umsetzung",
+"von": "2024-09-01",
+"bis": "2027-08-31",
+"summe": 1604294.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "02J25C016",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Systemische Gestaltung von Kreislaufökosystemen in der Automobilindustrie zur Optimierung der End-of-Life-Wertschöpfung von Licht- und Elektronikprodukten (KOLLEKT), Teilprojekt: Demontageinfrastruktur und Logistik",
+"von": "2026-06-01",
+"bis": "2029-05-31",
+"summe": 193851.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI4068D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: BattLifeBoost - Lebenszyklusverlängerung von bestehenden und zukünftigen stationären Batteriespeichersystemen durch hybride Zustandsprognose, Teilvorhaben: Produktlebenszyklus HVS: Anforderungen an Automotive Speicher mit nachgelagertem 2nd Life",
+"von": "2023-10-01",
+"bis": "2026-12-31",
+"summe": 140969.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ETE046B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: ProMoBiS - Progressive Multizell-Verbund-Konzepte für Batteriesysteme mit integrierter Sensorik, Teilvorhaben: Ausarbeitung relevanter Anwendungsfälle, Komponentenspezifikation und Aufbau des Batteriesystems",
+"von": "2023-04-01",
+"bis": "2026-05-31",
+"summe": 427181.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01MV23013D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: BDL Next - Bidirektionales Lademanagement der nächsten Generation im massenfähigen Realbetrieb, Teilvorhaben: Stabile Wirkkette des bidirektionalen Ladens von Elektrofahrzeugen durch Flexiblitätsnutzung & marktorientierte Flexibiliätsvermarktung, netzdienliches Verhalten und Standardisierung",
+"von": "2023-11-01",
+"bis": "2027-01-31",
+"summe": 4086314.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01MV23031C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Opt4E - Multikriterielle Synthese und Optimierung von Antriebssträngen für Elektrische Fahrzeuge, Teilvorhaben: Getriebeanforderungen Wirkungsgrad, Akustik und Fertigungstoleranzen",
+"von": "2024-02-01",
+"bis": "2026-09-30",
+"summe": 188837.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EMF0501I",
+"ressort": "BMV",
+"epl": "12",
+"thema": "Verbundvorhaben/ SeQueRe: Innovationen für eine nachhaltige Mobilität, Elektromobilität: 'SeQueRe - Standardized Management of Queueing and Reservation for EV charging stations'",
+"von": "2023-06-01",
+"bis": "2026-05-31",
+"summe": 131722.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03XPB001C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "ProB@tman - Prozesse für das Direkte Recycling von Kathoden aus zyklisierten Lithium-Ionen-Batterien zur Maximierung der rückgewinnbaren Funktionsmaterialien",
+"von": "2025-07-01",
+"bis": "2028-06-30",
+"summe": 533641.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03XPB053B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "ReTroLIB - (Direkt-)Recycling von Trockenprozessierten LIB-Elektroden",
+"von": "2026-06-01",
+"bis": "2029-05-31",
+"summe": 265499.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03XPB063H",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "RevEl - Reversible Elektroden für ressourcenschonende, wirtschaftliche und kreislauffähige Stromspeicher",
+"von": "2026-06-01",
+"bis": "2029-05-31",
+"summe": 246736.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03XPB073A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "geZelle - Formations- und PFAS-freie gebrauchsfertige Lithium-Ionen-Zelle",
+"von": "2026-07-01",
+"bis": "2029-06-30",
+"summe": 1216598.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03XPB034A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "NEPTUNE - New Electrode Production Technology Used for Next-Generation Energy Storage",
+"von": "2026-07-01",
+"bis": "2029-06-30",
+"summe": 940410.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Milan Nedeljković",
@@ -677,6 +999,11 @@
 "stand": "2026-10-08",
 "etikett": "Eigenangabe",
 "version": 53
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

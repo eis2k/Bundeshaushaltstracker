@@ -21,7 +21,7 @@
 "lobby_zuwendungen": [
 {
 "geber": "Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR)",
-"epl": "30",
+"epl": null,
 "von": 30001,
 "bis": 40000,
 "zweck": "Mit dem Projekt DISTANCE (Digital Smart Hub for Advanced Connected Care) soll ein im Rahmen der Medizininformatik-Initiative (MII) des BMBF, und insbesondere des SMITH-Konsortiums (www.smith.care), entwickeltes technisches Konzept der Interoperabilität und des Data Sharing auf Einrichtungen außerhalb der Universitätsmedizin ausgedehnt und weiterentwickelt werden. Dabei sind die Pilotierung der Roll-out-Prozesse und die Abschätzung der Aufwände bei den Roll-out-Partnern wichtige Gesichtspunkte für die deutschlandweite Ausdehnung der MII auf die gesamte Gesundheitswirtschaft. Die DGTelemed ist Akademischer Partner in den Bereichen Öffentlichkeitsarbeit und der Erarbeitung eines Konzepts für Kommunikation und Information Konsortialpartner bei der Umsetzung des Projektes.",
@@ -30,6 +30,7 @@
 ],
 "lobby_untergrenze_bund": 30001,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Gernot Marx",

@@ -53,7 +53,19 @@
 }
 ],
 "lobby_untergrenze_bund": 240004,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "01GP2503D",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "ETHIC-AID - Ethisch ausgerichtete KI-Diagnostik für Seltene Erkrankungen: Ein wertezentrierter partizipativer Ansatz für Leitlinien zur Gestaltung, Entwicklung und Integration von KI - TP Patienteneinbezug",
+"von": "2026-03-01",
+"bis": "2029-01-31",
+"summe": 111249.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Geske Wehr",
@@ -227,6 +239,11 @@
 "stand": "2026-06-24",
 "etikett": "Eigenangabe",
 "version": 11
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

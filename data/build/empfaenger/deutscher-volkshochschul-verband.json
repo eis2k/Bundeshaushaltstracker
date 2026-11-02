@@ -86,6 +86,7 @@
 ],
 "lobby_untergrenze_bund": 30160008,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Martin Rabanus",
@@ -313,7 +314,7 @@
 "funktion_beim_empfaenger": "Mitglied des Beirates für Weiterbildung (bis 31.12.2025)",
 "kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
 "abgleich": "exakt",
-"satz": "Nicole Gohlke (MdB, Die Linke) ist laut bundestag.de Mitglied des Beirates für Weiterbildung (bis 31.12.2025) bei Deutscher Volkshochschul-Verband. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung; Ausschuss für Bildung, Familie, Senioren, Frauen und Jugend. Deutscher Volkshochschul-Verband erhielt laut Lobbyregister Mittel von: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung; Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend; Bundesministerium für Bildung, Frauen, Senioren, Frauen und Jugend; Auswärtiges Amt; Gesellschaft für Integration und Zusammenarbeit; Engagement Global.",
+"satz": "Nicole Gohlke (MdB, Die Linke) war laut bundestag.de Mitglied des Beirates für Weiterbildung (bis 31.12.2025) bei Deutscher Volkshochschul-Verband. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung; Ausschuss für Bildung, Familie, Senioren, Frauen und Jugend. Deutscher Volkshochschul-Verband erhielt laut Lobbyregister Mittel von: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung; Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend; Bundesministerium für Bildung, Frauen, Senioren, Frauen und Jugend; Auswärtiges Amt; Gesellschaft für Integration und Zusammenarbeit; Engagement Global.",
 "ausschuesse": [
 "Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung",
 "Ausschuss für Bildung, Familie, Senioren, Frauen und Jugend"
@@ -330,7 +331,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/G/gohlke_nicole-1044540",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002443/88162",
+"stand": "2026-10-29",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -360,7 +368,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/R/reinalter_anja-1046726",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002443/88162",
+"stand": "2026-10-29",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

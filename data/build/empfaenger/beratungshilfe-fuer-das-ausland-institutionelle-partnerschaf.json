@@ -1,0 +1,84 @@
+{
+"id": "beratungshilfe-fuer-das-ausland-institutionelle-partnerschaf",
+"name": "Beratungshilfe für das Ausland, Institutionelle Partnerschaften (inkl. EU-Twinning)",
+"art": "forschung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "09-0904-68701",
+"text": "Beratungshilfe für das Ausland: Institutionelle Partnerschaften (inkl. EU-Twinning) und Regierungsberatung",
+"epl": "09",
+"epl_text": "Bundesministerium für Wirtschaft und Energie",
+"werte": {
+"2015": {
+"soll": 1200000,
+"ist": 929044
+},
+"2016": {
+"soll": 1071000,
+"ist": 847129
+},
+"2017": {
+"soll": 1062000,
+"ist": 955495
+},
+"2018": {
+"soll": 1068000,
+"ist": 949088
+},
+"2019": {
+"soll": 2700000,
+"ist": 1701417
+},
+"2020": {
+"soll": 3128000,
+"ist": 1720289
+},
+"2021": {
+"soll": 3627000,
+"ist": 2656050
+},
+"2022": {
+"soll": 3305000,
+"ist": 3620352
+},
+"2023": {
+"soll": 3154000,
+"ist": 3132429
+},
+"2024": {
+"soll": 6310000,
+"ist": 6300539
+},
+"2025": {
+"soll": 6265000,
+"ist": 6333381
+},
+"2026": {
+"soll": 5905000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

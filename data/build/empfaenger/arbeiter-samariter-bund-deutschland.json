@@ -21,7 +21,7 @@
 "lobby_zuwendungen": [
 {
 "geber": "Bundesministerium für wirtschaftliche Zusammenarbeit",
-"epl": "23",
+"epl": null,
 "von": 6980001,
 "bis": 6990000,
 "zweck": "Zuwendungen für Projekte im Bereich Auslandshilfe",
@@ -62,6 +62,7 @@
 ],
 "lobby_untergrenze_bund": 24540005,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Knut Fleckenstein",

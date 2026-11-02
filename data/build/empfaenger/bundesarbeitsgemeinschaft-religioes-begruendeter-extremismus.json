@@ -38,6 +38,7 @@
 ],
 "lobby_untergrenze_bund": 710002,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Dervis Hizarci",
@@ -149,7 +150,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/K/kaddor_lamya-1045258",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004925/78122",
+"stand": "2026-07-06",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

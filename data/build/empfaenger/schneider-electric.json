@@ -45,7 +45,39 @@
 }
 ],
 "lobby_untergrenze_bund": 170003,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EN1078A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: EnOB: Hybrenergy - Entwicklung eines Verfahrens zum Aufbau eines dynamischen hybriden Zwillings von Gebäuden zur Energieeffizienzsteigerung durch datengetriebene Planung, Umsetzung, Nutzung und Sanierung, Teilvorhaben: Projektleitung, Anbindung an die GA, das EMS sowie Aufbau des Demonstrators",
+"von": "2023-10-01",
+"bis": "2026-09-30",
+"summe": 225248.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN1113E",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: Comm-X - freier Datenraum und Marktplatz für den optimierten Betrieb kommunaler Gebäude, Teilvorhaben: Integration und Analyse innovativer Gebäudeservices für Gebäude in einem Datenmarktplatz",
+"von": "2025-11-01",
+"bis": "2028-10-31",
+"summe": 68820.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI4071H",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: energy-data-X - Energiedatenraum zum Datenaustausch in Gaia-X, Teilvorhaben: Entwicklung und Erprobung neuer Produktportfolien im Reallabor",
+"von": "2024-05-01",
+"bis": "2026-09-30",
+"summe": 557859.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Michael Hughes",
@@ -139,6 +171,11 @@
 "stand": "2026-06-30",
 "etikett": "Eigenangabe",
 "version": 17
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

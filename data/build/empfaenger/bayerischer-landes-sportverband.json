@@ -46,6 +46,7 @@
 ],
 "lobby_untergrenze_bund": 2150003,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Ammon Jörg",
@@ -169,7 +170,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/K/kiessling_michael-1048786",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R007601/78783",
+"stand": "2026-06-29",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

@@ -1,0 +1,84 @@
+{
+"id": "gesellschafts-und-europapolitische-massnahmen-der-politische",
+"name": "Gesellschafts- und europapolitische Maßnahmen der Politischen Stiftungen",
+"art": "verein_stiftung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "05-0502-68727",
+"text": "Gesellschafts- und europapolitische Maßnahmen der Politischen Stiftungen",
+"epl": "05",
+"epl_text": "Auswärtiges Amt",
+"werte": {
+"2015": {
+"soll": 50000000,
+"ist": 50000000
+},
+"2016": {
+"soll": 50000000,
+"ist": 50000000
+},
+"2017": {
+"soll": 55000000,
+"ist": 55000000
+},
+"2018": {
+"soll": 58000000,
+"ist": 57734400
+},
+"2019": {
+"soll": 58000000,
+"ist": 58000000
+},
+"2020": {
+"soll": 58000000,
+"ist": 58000000
+},
+"2021": {
+"soll": 68000000,
+"ist": 67828456
+},
+"2022": {
+"soll": 68000000,
+"ist": 70236350
+},
+"2023": {
+"soll": 74000000,
+"ist": 72500000
+},
+"2024": {
+"soll": 76000000,
+"ist": 74500000
+},
+"2025": {
+"soll": 76000000,
+"ist": 74499939
+},
+"2026": {
+"soll": 86032000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

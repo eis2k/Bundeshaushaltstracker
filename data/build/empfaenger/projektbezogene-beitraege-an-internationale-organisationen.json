@@ -1,0 +1,76 @@
+{
+"id": "projektbezogene-beitraege-an-internationale-organisationen",
+"name": "Projektbezogene Beiträge an internationale Organisationen",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "09-0904-68707",
+"text": "Wasserstoffstrategie Außenwirtschaft - Internationale Kooperation Wasserstoff",
+"epl": "09",
+"epl_text": "Bundesministerium für Wirtschaft und Energie",
+"werte": {
+"2015": {
+"soll": 0,
+"ist": 0
+},
+"2016": {
+"soll": 0,
+"ist": 0
+},
+"2020": {
+"soll": 200000000,
+"ist": 88000
+}
+}
+},
+{
+"id": "16-1601-68703",
+"text": "Projektbezogene Beiträge an internationale Organisationen",
+"epl": "16",
+"epl_text": "Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit",
+"werte": {
+"2015": {
+"soll": 2252000,
+"ist": 2287048
+},
+"2016": {
+"soll": 2209000,
+"ist": 2187719
+},
+"2017": {
+"soll": 2154000,
+"ist": 2104801
+},
+"2018": {
+"soll": 1924000,
+"ist": 1881033
+},
+"2019": {
+"soll": 1502000,
+"ist": 1479044
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

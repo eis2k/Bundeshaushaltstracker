@@ -37,7 +37,139 @@
 }
 ],
 "lobby_untergrenze_bund": 120002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03WIR6913B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "WIR! - MR4B - MR4HeatPump - Energetische Planung und adaptive Steuerung in Mixed Reality auf Basis von LiDAR-Scans für den Einsatz von Wärmepumpen in Bestandsgebäuden, TP2: Anforderungsanalyse und Evaluierung optische Erfassung, Mixed Reality und Adaptive Steuerung an Wärmepumpendemonstrator",
+"von": "2025-06-01",
+"bis": "2028-05-31",
+"summe": 172275.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN4076B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben - ENLARGE: Bewertung von Konzepten zur Erweiterung des Betriebsbereiches von Wärmepumpen für den Gebäudebestand, Teilvorhaben: Simulative und experimentelle Untersuchung von Wärmepumpen und Entwicklung eines Wärmepumpendemonstrators zur Erweiterung der Betriebsgrenzen",
+"von": "2024-01-01",
+"bis": "2027-09-30",
+"summe": 446472.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN1091B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: EnOB: HeaTwin: Automatisierte Erstellung thermo-hydraulischer Simulationsmodelle aus BIM-basierten Anlageninformationsgraphen zur Fehlerdetektion und Betriebsoptimierung von komplexen Wärmeversorgungssystemen, Teilvorhaben: Erprobung der Methodik im anwendungsnahen Umfeld",
+"von": "2024-04-01",
+"bis": "2027-12-31",
+"summe": 130789.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN1050C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: EnOB: BIM2Praxis - Integration von Methoden zur Erstellung von Simulationsmodellen auf Basis des Building Information Modeling in die Praxis, Teilvorhaben: Erhöhung der PIM-Datenqualität von TGA-Komponenten und automatisierte Planung von modularen Energiezentralen",
+"von": "2021-12-01",
+"bis": "2026-02-28",
+"summe": 54316.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN6029B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: DARING - Digitalisierte Wärmespeicher für die Energiewende, Teilvorhaben: Integration einer Sensorhaut zur Effizienzsteigerung von Wärmespeichern",
+"von": "2023-08-01",
+"bis": "2027-04-30",
+"summe": 79283.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN1081D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: EnOB: PECSnet - Vernetzte lokale Klimatisierungssysteme zur Steigerung der Gesamtenergieeffizienz von Gebäuden, Teilvorhaben: Entwicklung, Erprobung und Bewertung technischer Lösungen für Personal Ventilation hinsichtlich Lüftungseffektivität, Regelung und Energieeffizienz",
+"von": "2024-01-01",
+"bis": "2027-06-30",
+"summe": 83826.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN4064C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: Sherlock - Untersuchung der Öl-Kältemittel Interaktion in Wärmepumpen: Vom Fluid bis zur Anlage, Teilvorhaben: CFD-Analyse des Kältemittelkreislaufs mit Fokus auf den Wärmeübertragern, sowie Bewertung des Systems durch experimentelle Verdichteruntersuchungen",
+"von": "2024-01-01",
+"bis": "2027-09-30",
+"summe": 565726.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN6033C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: SolKaN2.0 - Solare kalte Nahwärme der zweiten Generation, Teilvorhaben: Rahmenbedingungen und Implementierung",
+"von": "2024-01-01",
+"bis": "2027-12-31",
+"summe": 291567.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN6040E",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: HighSTEPS - Nachhaltige thermische Energieversorgungssysteme mit hohem Deckungsgrad für die Industrie, Teilvorhaben: Planungsgrundlagen für den Einsatz von Wärmepumpen und Solarthermie in der Industrie",
+"von": "2024-01-01",
+"bis": "2026-12-31",
+"summe": 94504.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN1096C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: EnOB: eLOS-Deutschland - Energetisch Lokal Optimiertes System für einen emissionsarmen Gebäudebestand mittels Digitalen Zwillingen, Teilvorhaben: Entwicklung eines Produktzwillings zur Produktionsflexibilisierung",
+"von": "2024-07-01",
+"bis": "2027-06-30",
+"summe": 210239.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN6061D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: SolarOpt - Digitale Innovation für leistungsstarke solarthermische Großprojekte, Teilvorhaben: Verwertung und Geschäftsmodelle",
+"von": "2025-12-01",
+"bis": "2028-11-30",
+"summe": 83300.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ENM6006",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Mikroprojekt: InnoTra-PVT - Innovative PVT-Trapezkollektoren",
+"von": "2026-02-01",
+"bis": "2026-11-30",
+"summe": 91351.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI6160B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: Batt4Flex - Ganzheitlicher Modellierungsansatz für Batteriesys-tembaukästen zur Lösung flexibler, dynamischer Infrastrukturherausforderungen über die Nutzung wiederverwendbarer Entwicklungsartefakte, Teilvorhaben.: MBSE-gestützte Betriebsparameter und Systemvalidierung für Residentialspeicher",
+"von": "2026-07-01",
+"bis": "2029-06-30",
+"summe": 167535.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Markus Klausner",
@@ -143,6 +275,11 @@
 "stand": "2026-07-31",
 "etikett": "Eigenangabe",
 "version": 37
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

@@ -30,6 +30,7 @@
 ],
 "lobby_untergrenze_bund": 10001,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Anja Maria-Antonia  Karliczek",
@@ -193,7 +194,7 @@
 "funktion_beim_empfaenger": "Vizepräsidentin (bis 13.05.2025)",
 "kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
 "abgleich": "exakt",
-"satz": "Martina Englhardt-Kopf (MdB, CDU/CSU) ist laut bundestag.de Vizepräsidentin (bis 13.05.2025) bei Katholischer Deutscher Frauenbund e.V. (KDFB). Katholischer Deutscher Frauenbund e.V. (KDFB) erhielt laut Lobbyregister Mittel von: Bundesministerium für Landwirtschaft, Ernährung und Heimat.",
+"satz": "Martina Englhardt-Kopf (MdB, CDU/CSU) war laut bundestag.de Vizepräsidentin (bis 13.05.2025) bei Katholischer Deutscher Frauenbund e.V. (KDFB). Katholischer Deutscher Frauenbund e.V. (KDFB) erhielt laut Lobbyregister Mittel von: Bundesministerium für Landwirtschaft, Ernährung und Heimat.",
 "ausschuesse": [],
 "geld_aus": [
 "Bundesministerium für Landwirtschaft, Ernährung und Heimat"
@@ -202,7 +203,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/E/englhardt_kopf_martina-1044208",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001252/73652",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

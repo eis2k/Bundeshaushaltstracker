@@ -78,6 +78,7 @@
 ],
 "lobby_untergrenze_bund": 1902630007,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Christian Fischer",
@@ -495,7 +496,7 @@
 "funktion_beim_empfaenger": "Syndikusrechtsanwalt (bis 31.05.2025), 2025, 8.682,06 EUR, Brutto, zuzüglich 2026, 6.873,08 EUR, Brutto",
 "kategorie": "Entgeltliche Tätigkeiten neben dem Mandat",
 "abgleich": "exakt",
-"satz": "Dr. David Preisendanz (MdB, CDU/CSU) ist laut bundestag.de Syndikusrechtsanwalt (bis 31.05.2025), 2025, 8.682,06 EUR, Brutto, zuzüglich 2026, 6.873,08 EUR, Brutto bei Robert Bosch GmbH. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für die Angelegenheiten der Europäischen Union; Ausschuss für Recht und Verbraucherschutz; Innenausschuss; Unterausschuss Europarecht; Enquete-Kommission „Corona“. Robert Bosch GmbH erhielt laut Lobbyregister Mittel von: BMWE; BMFTR; BMV; Bundesagentur für Arbeit; Bundesministerium für Wirtschaft und Ausfuhrkontrolle; Nationale Agentur für Bildung.",
+"satz": "Dr. David Preisendanz (MdB, CDU/CSU) übte laut bundestag.de eine entgeltliche Tätigkeit bei Robert Bosch GmbH aus: „Syndikusrechtsanwalt (bis 31.05.2025), 2025, 8.682,06 EUR, Brutto, zuzüglich 2026, 6.873,08 EUR, Brutto“. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für die Angelegenheiten der Europäischen Union; Ausschuss für Recht und Verbraucherschutz; Innenausschuss; Unterausschuss Europarecht; Enquete-Kommission „Corona“. Robert Bosch GmbH erhielt laut Lobbyregister Mittel von: BMWE; BMFTR; BMV; Bundesagentur für Arbeit; Bundesministerium für Wirtschaft und Ausfuhrkontrolle; Nationale Agentur für Bildung.",
 "ausschuesse": [
 "Ausschuss für die Angelegenheiten der Europäischen Union",
 "Ausschuss für Recht und Verbraucherschutz",
@@ -515,7 +516,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/P/preisendanz_david-1049074",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000999/83665",
+"stand": "2026-10-15",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

@@ -46,6 +46,7 @@
 ],
 "lobby_untergrenze_bund": 1630003,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Anna-Maija Mertens",
@@ -200,7 +201,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/J/joswig_julian-1045232",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000751/75908",
+"stand": "2026-04-29",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -228,7 +236,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/W/winkler_tobias-1049378",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000751/75908",
+"stand": "2026-04-29",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

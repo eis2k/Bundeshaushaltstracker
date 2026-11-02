@@ -30,6 +30,7 @@
 ],
 "lobby_untergrenze_bund": 420001,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Alexander Bonde",
@@ -454,7 +455,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/B/blankenburg_jakob-1043716",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001532/79214",
+"stand": "2026-06-18",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -478,7 +486,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/E/ebner_harald-1044140",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001532/79214",
+"stand": "2026-06-18",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -490,7 +505,7 @@
 "funktion_beim_empfaenger": "Mitglied des Kuratoriums, von Amts wegen (bis 06.05.2025)",
 "kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
 "abgleich": "exakt",
-"satz": "Elisabeth Kaiser (MdB, SPD) ist laut bundestag.de Mitglied des Kuratoriums, von Amts wegen (bis 06.05.2025) bei Deutsche Bundesstiftung Umwelt. Deutsche Bundesstiftung Umwelt erhielt laut Lobbyregister Mittel von: Stiftung „Zukunft des Kohlenstoffmarktes“ in Liquidation.",
+"satz": "Elisabeth Kaiser (MdB, SPD) war laut bundestag.de Mitglied des Kuratoriums, von Amts wegen (bis 06.05.2025) bei Deutsche Bundesstiftung Umwelt. Deutsche Bundesstiftung Umwelt erhielt laut Lobbyregister Mittel von: Stiftung „Zukunft des Kohlenstoffmarktes“ in Liquidation.",
 "ausschuesse": [],
 "geld_aus": [
 "Stiftung „Zukunft des Kohlenstoffmarktes“ in Liquidation"
@@ -499,7 +514,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/K/kaiser_elisabeth-1045268",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001532/79214",
+"stand": "2026-06-18",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -520,7 +542,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/R/rohde_dennis-1046814",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001532/79214",
+"stand": "2026-06-18",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -532,7 +561,7 @@
 "funktion_beim_empfaenger": "Mitglied des Kuratoriums (bis 20.05.2026)",
 "kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
 "abgleich": "exakt",
-"satz": "Steffen Bilger (MdB, CDU/CSU) ist laut bundestag.de Mitglied des Kuratoriums (bis 20.05.2026) bei Deutsche Bundesstiftung Umwelt. Ausschüsse und Gremien im Bundestag laut bundestag.de: Wahlausschuss. Deutsche Bundesstiftung Umwelt erhielt laut Lobbyregister Mittel von: Stiftung „Zukunft des Kohlenstoffmarktes“ in Liquidation.",
+"satz": "Steffen Bilger (MdB, CDU/CSU) war laut bundestag.de Mitglied des Kuratoriums (bis 20.05.2026) bei Deutsche Bundesstiftung Umwelt. Ausschüsse und Gremien im Bundestag laut bundestag.de: Wahlausschuss. Deutsche Bundesstiftung Umwelt erhielt laut Lobbyregister Mittel von: Stiftung „Zukunft des Kohlenstoffmarktes“ in Liquidation.",
 "ausschuesse": [
 "Wahlausschuss"
 ],
@@ -543,7 +572,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/B/bilger_steffen-1048434",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001532/79214",
+"stand": "2026-06-18",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

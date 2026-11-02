@@ -37,7 +37,29 @@
 }
 ],
 "lobby_untergrenze_bund": 50002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "281E104C23",
+"ressort": "BMLEH",
+"epl": "10",
+"thema": "Verbundprojekt: Kreatin-Supplementation in der Aquakultur von Forellen zur Steigerung der Leistung und Verbesserung von Nachhaltigkeit und Tiergerechtheit (KreAktiv) - Teilprojekt C",
+"von": "2025-11-01",
+"bis": "2029-06-30",
+"summe": 113432.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI4128A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: NIBAT - Nitrile als Elektrolytbestandteile in Batterien, Teilvorhaben: Evaluierung, Synthese und Bereitstellung von Nitrilen für den Gebrauch in Elektrolyten",
+"von": "2026-09-01",
+"bis": "2029-08-31",
+"summe": 560550.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Andreas Niedermaier",
@@ -142,6 +164,11 @@
 "stand": "2026-09-30",
 "etikett": "Eigenangabe",
 "version": 8
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

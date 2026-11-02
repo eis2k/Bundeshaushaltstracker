@@ -93,7 +93,39 @@
 }
 ],
 "lobby_untergrenze_bund": 5210009,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "01FP21093M",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Metavorhaben zur Vernetzung, Förderung des fachlichen Austausches und Unterstützung der Öffentlichkeitsarbeit sowie des Transfers im Rahmen der Förderrichtlinie ?Innovative Frauen im Fokus? (Meta_IFIF)",
+"von": "2022-03-01",
+"bis": "2028-03-31",
+"summe": 3595426.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01FP24M03B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Tech2stay - Frauen in der IT stärken und halten: Reallaborforschung zu innovativen Interventionen, Untersuchung von Fluktuation und nachhaltige Strategien zum Verbleib von Frauen in IT-Berufen und -Spitzenpositionen. Teilvorhaben 2: Quantitative Sozialforschung und Öffentlichkeitsarbeit",
+"von": "2025-01-01",
+"bis": "2027-12-31",
+"summe": 493814.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N126158",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Quantenkarrieren: Orientierung, Begegnung und Sichtbarkeit von Studentinnen und Expertinnen in den Quantentechnologien (QFEM)",
+"von": "2026-09-01",
+"bis": "2029-08-31",
+"summe": 1694943.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Barbara Schwarze",
@@ -201,6 +233,11 @@
 "stand": "2026-06-23",
 "etikett": "Eigenangabe",
 "version": 5
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

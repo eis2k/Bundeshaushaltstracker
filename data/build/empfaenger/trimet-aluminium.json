@@ -101,7 +101,69 @@
 }
 ],
 "lobby_untergrenze_bund": 7030010,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EWR025A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Reallabor: SuprAl - Ersatz einer 600 m langen, konventionellen Stromschiene durch einen Supraleiter, Teilvorhaben: Umsetzung, Errichtung eines Hoch-Temperatur-Supraleiters (HTS) im Werk Hamburg und Einbindung in das bestehende Stromschienensystem der Aluminiumelektrolyse",
+"von": "2024-02-01",
+"bis": "2027-07-31",
+"summe": 5364894.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EWR025C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Reallabor: SuprAl - Ersatz einer 600 m langen, konventionellen Stromschiene durch einen Supraleiter, Teilvorhaben: Forschung- und Entwicklung, Messtechnische Erfassung, Evaluierung und Optimierung der Betriebsweise eines Hoch-Temperatur-Supraleiters (HTS) in der Hamburger Aluminiumelektrolyse",
+"von": "2024-02-01",
+"bis": "2027-07-31",
+"summe": 82324.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03LB2054C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: SUPA-Wheel - Nachhaltige und kosteneffiziente Produktion von Aluminiumrädern aus Sekundär-Gusslegierungen, Teilvorhaben: Entwicklung einer Sekundär-Aluminiumlegierung",
+"von": "2023-01-01",
+"bis": "2026-06-30",
+"summe": 159473.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "67DDI057-0",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "DDI: Flexible CO2-freie Herstellung von Aluminium",
+"von": "2025-01-01",
+"bis": "2028-12-31",
+"summe": 2987668.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01LJ2602B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt KlimPro: Emissionsminderung durch eine modulare Prozessregelung und -überwachung in der Aluminiumelektrolyse (EMPRO-Al) - Teilprojekt 2: Konzeption und Entwicklung der Systemarchitektur sowie Integration der optimierten Prozessregelung und -überwachung",
+"von": "2026-10-01",
+"bis": "2029-09-30",
+"summe": 135805.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SX592K",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: LAYER - Lebensdauersteigerung von additiv gefertigten (DED) Bauteilen mittels hybrider Fertigungsverfahren, Vorhaben: Entwicklung einer Prozessroute für eine AlMgSi-Legierung (6xxx-Serie) mit optimierten Eigenschaften für die Verwendung in hybrid gefertigten WAAM-Bauteilen",
+"von": "2023-09-01",
+"bis": "2026-08-31",
+"summe": 83975.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Philipp Schlüter",
@@ -207,6 +269,11 @@
 "stand": "2026-06-16",
 "etikett": "Eigenangabe",
 "version": 12
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

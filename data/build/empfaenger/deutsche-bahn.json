@@ -86,7 +86,7 @@
 "lobby_zuwendungen": [
 {
 "geber": "Bundesrepublik Deutschland - BMV",
-"epl": "60",
+"epl": null,
 "von": 4190001,
 "bis": 4200000,
 "zweck": "Zivile Verteidigung nach der Vereinbarung auf Basis des Verkehrssicherstellungsgesetzes (VSG) zwischen dem BMVBW und der DB AG vom 05./20.12.2001.",
@@ -94,7 +94,7 @@
 },
 {
 "geber": "Bundesrepublik Deutschland - BMV",
-"epl": "60",
+"epl": null,
 "von": 110001,
 "bis": 120000,
 "zweck": "Förderung der Entwicklung, des Baus, der Validierung und Zulassung eines EMU-Triebzugs. Im Rahmen des Projekt H2goes Rail wird ein Electronic-Multiple-Unit-Zug mit Wasserstoffantrieb entwickelt.",
@@ -102,7 +102,7 @@
 },
 {
 "geber": "Bundesrepublik Deutschland - BMV",
-"epl": "60",
+"epl": null,
 "von": 1320001,
 "bis": 1330000,
 "zweck": "Förderung der Gigabit-Ausleuchtung am Gleis. Die Förderung erfolgt im Rahmen des Gigabit Innovation Track (GINT) Programms des Bundesverkehrsministeriums nach der Förderrichtlinie Innovative Netztechnologien im Mobilfunk (InnoNT) vom 23.08.2022.",
@@ -110,7 +110,7 @@
 },
 {
 "geber": "Bundesrepublik Deutschland - BMV",
-"epl": "60",
+"epl": null,
 "von": 10001,
 "bis": 20000,
 "zweck": "Ein Forschungsprojekt zur Gigabit-Konnektivität an Hochgeschwindigkeitszügen BMDV GZ-30 (Gigabit-Zug 2030) mit Prüfung einer Erprobung von Nutzbarkeit neuer WLAN-Access Points, neuartiger Mobilfunkantennen und Breitband-Internet über LEO Satelliten. Die Förderung erfolgt im Rahmen des Projekts Gigabit-Zug 2030 (GZ-30) nach der Förderrichtlinie InnoNT (Richtlinie zur Förderung innovativer Netztechnologien im Mobilfunk Vom 23. August 2022).",
@@ -118,7 +118,7 @@
 },
 {
 "geber": "Bundesrepublik Deutschland - BMV",
-"epl": "60",
+"epl": null,
 "von": 70001,
 "bis": 80000,
 "zweck": "Förderung der digitalen Haltestelleninformation (Projekt Data4PoM). Entwicklung eines bundesweiten Standards für digitale Haltestelleninformationen (gemäß Bescheid BMDV vom 14.06.2023 und 25.11.2024)",
@@ -126,7 +126,7 @@
 },
 {
 "geber": "Bundesrepublik Deutschland - BMV",
-"epl": "60",
+"epl": null,
 "von": 110001,
 "bis": 120000,
 "zweck": "Verbundprojekt DEFLECTOR zur digitalen Fahrzeugüberwachung und Echtzeit-Leistungstracking mit Fokus auf Retrofitting mit der Erarbeitung von Lösungen zur Ausstattung von Bestandsfahrzeugen mit Sensoren, die den Fahrzeugzustand erfassen. FKZ: 19FS2063B",
@@ -135,6 +135,7 @@
 ],
 "lobby_untergrenze_bund": 5810006,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Evelyn Palla",
@@ -417,7 +418,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/S/schmidt_uwe-1047170",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001662/87218",
+"stand": "2026-10-26",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -442,7 +450,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/S/simon_bjoern-1047448",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001662/87218",
+"stand": "2026-10-26",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

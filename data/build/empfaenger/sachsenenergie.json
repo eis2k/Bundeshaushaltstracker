@@ -38,6 +38,7 @@
 ],
 "lobby_untergrenze_bund": 4530002,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Frank Brinkmann",
@@ -129,7 +130,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/L/ladzinski_thomas-1045706",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005643/79698",
+"stand": "2026-06-30",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

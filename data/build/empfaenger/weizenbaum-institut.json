@@ -29,7 +29,69 @@
 }
 ],
 "lobby_untergrenze_bund": 7250001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "01UG2615C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben: DAYVid = Decoding Antisemitism in YouTube Videos Teilvorhaben: Decoding Online Right-Wing Antisemitism (DECORA)",
+"von": "2026-03-01",
+"bis": "2029-02-28",
+"summe": 472713.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16DII141",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Weizenbaum-Institut für die vernetzte Gesellschaft - Das deutsche Internet-Institut - Zweite Etablierungsphase - WI, Teilvorhaben: Weizenbaum-Institut e.V.",
+"von": "2025-10-15",
+"bis": "2027-10-14",
+"summe": 17733059.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS2655K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Erkennung Genderbasierter Desinformation mithilfe Künstlicher Intelligenz - GENDIS -",
+"von": "2026-07-01",
+"bis": "2029-06-30",
+"summe": 784401.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01PA2606",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "CDCe - Community Data Centers",
+"von": "2026-05-01",
+"bis": "2027-04-30",
+"summe": 107974.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01PA2605",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Data Donation als Citizen Science - Partizipative Plattformforschung zur Stärkung digitaler Demokratie",
+"von": "2026-04-01",
+"bis": "2027-03-31",
+"summe": 108945.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16RBM1013",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Generative KI in der Wissenschaft. Wie verändert sich wissenschaftliche Praxis?",
+"von": "2025-01-01",
+"bis": "2027-12-31",
+"summe": 345643.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Christoph Neuberger",
@@ -151,6 +213,11 @@
 "stand": "2026-08-04",
 "etikett": "Eigenangabe",
 "version": 13
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

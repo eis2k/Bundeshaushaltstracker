@@ -21,7 +21,7 @@
 "lobby_zuwendungen": [
 {
 "geber": "Bundesrepublik Deutschland und die Länder",
-"epl": "60",
+"epl": null,
 "von": 20170001,
 "bis": 20180000,
 "zweck": "Das WZB ist als außeruniversitäre Forschungseinrichtung Mitglied der Leibniz-Gemeinschaft. Die Förderung außeruniversitärer Forschung erfolgt gemäß den Vorgaben des Art. 91b GG als sogenannte Gemeinschaftsaufgabe von Bund und Ländern in Verbindung mit dem Verwaltungsabkommen zwischen Bund und Ländern über die Errichtung der Gemeinsamen Wissenschaftskonferenz (GWK) sowie der Ausführungsvereinbarung zum GWK-Abkommen über die Förderung der Leibniz-Einrichtungen. Das WZB erhält auf dieser Grundlage institutionelle Zuwendungen durch die Bundesrepublik Deutschland und die Länder.",
@@ -30,6 +30,7 @@
 ],
 "lobby_untergrenze_bund": 20170001,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Nicola Fuchs-Schündeln",

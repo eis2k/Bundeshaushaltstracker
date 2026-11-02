@@ -38,6 +38,7 @@
 ],
 "lobby_untergrenze_bund": 450002,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Karl-Heinz Banse",
@@ -210,7 +211,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/S/schmidt_sebastian-1047166",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000554/87965",
+"stand": "2026-10-23",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

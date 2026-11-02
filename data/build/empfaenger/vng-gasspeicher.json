@@ -21,7 +21,7 @@
 "lobby_zuwendungen": [
 {
 "geber": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium für Wirtschaft und Energie",
-"epl": "60",
+"epl": null,
 "von": 1160001,
 "bis": 1170000,
 "zweck": "Zuwendung für das Vorhaben: „Reallabor: EnergieparkBL -Demonstration von Sektorkopplung: Wind-Elektrolyse für Erzeugung, Speicherung und Transport von grünem Wasserstoff - Teilvorhaben: Großtechnische Speicherung von Wasserstoff aus erneuerbaren Energien“",
@@ -29,7 +29,7 @@
 },
 {
 "geber": "Bundesrepublik Deutschland, vertreten durch das Bundesministerium für Wirtschaft und Energie, sowie das Land Sachsen-Anhalt",
-"epl": "60",
+"epl": null,
 "von": 260001,
 "bis": 270000,
 "zweck": "Förderung für IPCEI-Projekt GoSpeicher - Green Octopus Mitteldeutschland, Kavernenspeicher für Wasserstoff",
@@ -59,6 +59,7 @@
 "foerderart": "Direkte Projektförderung"
 }
 ],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Bernd Protze",

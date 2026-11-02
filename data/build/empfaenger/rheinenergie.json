@@ -69,7 +69,29 @@
 }
 ],
 "lobby_untergrenze_bund": 830006,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EN3102C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: EnEff:Wärme: D2HeaTEC - Dekarbonisierung der Nahwärmeversorgung im Bestandsquartier durch techno-ökonomische Betriebsführung, Teilvorhaben: Technische Implementierung",
+"von": "2024-10-01",
+"bis": "2028-06-30",
+"summe": 375368.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN3097B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: EnEff: Wärme: WATT-IS - Wärmewende durch Transparenz, Tipps, Incentives und smarte Steuerung, Teilvorhaben: Smart Metering als Basis für Zusammenarbeit zwischen Kunden und Stadtwerk für eine erfolgreiche Wärmewende",
+"von": "2024-03-01",
+"bis": "2027-02-28",
+"summe": 870505.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Andreas Feicht",
@@ -216,6 +238,11 @@
 "stand": "2026-10-08",
 "etikett": "Eigenangabe",
 "version": 27
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

@@ -29,7 +29,89 @@
 }
 ],
 "lobby_untergrenze_bund": 3530001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03B20221",
+"ressort": "BMV",
+"epl": "12",
+"thema": "NIP II - Marktaktivierung: Errichtung öffentlicher Wasserstofftankstellen für den Transitverkehr in Metropolregionen",
+"von": "2020-01-01",
+"bis": "2026-06-30",
+"summe": 2395000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03B20223",
+"ressort": "BMV",
+"epl": "12",
+"thema": "NIP II - Marktaktivierung: Errichtung öffentlicher Wasserstofftankstellen in Kooperation mit regionalen Wasserstoffpionieren - Teil 1",
+"von": "2020-01-01",
+"bis": "2026-12-31",
+"summe": 3964000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03B20225",
+"ressort": "BMV",
+"epl": "12",
+"thema": "NIP II-Marktaktivierung: Errichtung öffentlicher Wasserstofftankstellen für leichte LKW und Kleinlaster - Teil 1",
+"von": "2019-10-01",
+"bis": "2026-12-31",
+"summe": 3120500.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03B20227",
+"ressort": "BMV",
+"epl": "12",
+"thema": "NIP II - Marktaktivierung: Errichtung öffentlicher Wasserstofftankstellen für leichte LKW und Kleinlaster - Teil 3",
+"von": "2020-01-01",
+"bis": "2026-06-30",
+"summe": 3137000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03B20291",
+"ressort": "BMV",
+"epl": "12",
+"thema": "NIP II - HyPerformer2 - Beschaffung von: 2 HRS",
+"von": "2023-10-01",
+"bis": "2027-12-31",
+"summe": 7113600.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03B20292",
+"ressort": "BMV",
+"epl": "12",
+"thema": "NIP II - HyPerformer2 - Beschaffung von: Entwicklung zweier ortsbeweglicher Wasserstofftankstellen basierend auf der 700 bar und 350 bar Technologie für lokale Flotten mit dem Ziel die HRS-Infrastruktur längerfristig weitläufig auszubauen und verfügbar zu machen.",
+"von": "2023-09-01",
+"bis": "2027-12-31",
+"summe": 3600408.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03B20262",
+"ressort": "BMV",
+"epl": "12",
+"thema": "NIP II-HyLand_HyWays4Future_H2MOBILITY_Bremen-Nord_Wasserstofftankstelle",
+"von": "2022-06-01",
+"bis": "2027-06-30",
+"summe": 2054400.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03B20286",
+"ressort": "BMV",
+"epl": "12",
+"thema": "NIP II - Marktaktivierung: Beschaffung einer öffentlich-zugänglichen Wasserstofftankstelle für Nutzfahrzeuge",
+"von": "2022-09-01",
+"bis": "2027-06-30",
+"summe": 5830566.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Frank Fronzke",
@@ -134,6 +216,11 @@
 "stand": "2026-03-03",
 "etikett": "Eigenangabe",
 "version": 10
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

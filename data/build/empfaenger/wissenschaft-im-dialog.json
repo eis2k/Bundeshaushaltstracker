@@ -29,7 +29,69 @@
 }
 ],
 "lobby_untergrenze_bund": 3030001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "01BF2603A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "mit:forschen! Gemeinsam Wissen schaffen - Projektskizze für die Förderung von 01.01.2026 bis 31.12.2028 - Teilprojekt WiD",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 1186288.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01WK2405",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Impact Unit - Plattform für Wirkung und Evaluation in der Wissenschaftskommunikation",
+"von": "2024-06-01",
+"bis": "2027-05-31",
+"summe": 629347.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "0150881",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Wisskomm_Portal - Die Plattform für Wissenschaftskommunikation",
+"von": "2025-04-01",
+"bis": "2028-03-31",
+"summe": 350286.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01WK2604B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Transfer Unit Wissenschaftskommunikation - Teilvorhaben Wissenschaft im Dialog",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 587289.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01WJ2505",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Zeigt eure Forschung! Der Hochschulwettbewerb im Wissenschaftsjahr",
+"von": "2025-01-01",
+"bis": "2027-12-31",
+"summe": 661468.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SF0625F",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben WissKommEnergiewende: Wissenschaftskommunikation Energiewende - Teilvorhaben F",
+"von": "2021-04-01",
+"bis": "2026-12-31",
+"summe": 3547803.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Benedikt Fecher",
@@ -81,6 +143,11 @@
 "stand": "2026-06-08",
 "etikett": "Eigenangabe",
 "version": 8
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

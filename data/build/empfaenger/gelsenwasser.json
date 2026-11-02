@@ -61,7 +61,29 @@
 }
 ],
 "lobby_untergrenze_bund": 170005,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03TR04W01C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "T!Raum - H2R - H2!Reallabor CR - H2!Transformation Reallabor Castrop-Rauxel (Check) und der Transfer über Köpfe (Connect), TP3: Ökonomische und ökologische Untersuchungen",
+"von": "2023-12-01",
+"bis": "2026-11-30",
+"summe": 72722.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN2086C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: IMProvT_II - Intelligente Messverfahren zur energetischen Prozessoptimierung von Trinkwasserbereitstellung und -verteilung II, Teilvorhaben: Bereitstellung von Betriebsdaten und Erprobung des Gesamtsystems auf Wirtschaftlichkeit und Praktikabilität",
+"von": "2022-10-01",
+"bis": "2026-06-30",
+"summe": 139657.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Henning Deters",
@@ -189,6 +211,11 @@
 "stand": "2026-09-21",
 "etikett": "Eigenangabe",
 "version": 9
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

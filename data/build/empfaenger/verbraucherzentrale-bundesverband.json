@@ -40,46 +40,6 @@
 "ist": 26409000
 }
 }
-},
-{
-"id": "07-0701-68401",
-"text": "Zuschüsse an die Vertretung der Verbraucher",
-"epl": "07",
-"epl_text": "Bundesministerium der Justiz und für Verbraucherschutz",
-"werte": {
-"2015": {
-"soll": 10779000,
-"ist": 10779000
-},
-"2016": {
-"soll": 11086000,
-"ist": 11086000
-},
-"2017": {
-"soll": 12007000,
-"ist": 11699433
-},
-"2018": {
-"soll": 12222000,
-"ist": 12222000
-},
-"2019": {
-"soll": 13471000,
-"ist": 13471000
-},
-"2020": {
-"soll": 23985000,
-"ist": 23925000
-},
-"2021": {
-"soll": 23371000,
-"ist": 23300000
-},
-"2026": {
-"soll": 26194000,
-"ist": null
-}
-}
 }
 ]
 },
@@ -119,6 +79,7 @@
 ],
 "lobby_untergrenze_bund": 53250004,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Ramona Pop",

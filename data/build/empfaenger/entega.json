@@ -45,7 +45,39 @@
 }
 ],
 "lobby_untergrenze_bund": 1530003,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EN4111C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: ENIPRO ? Energieintegrierte Betriebsoptimierung Cyber-Physischer Produktionssysteme, Teilvorhaben: Marktmodelle, regulatorische Rahmenbedingungen",
+"von": "2025-09-01",
+"bis": "2028-08-31",
+"summe": 98209.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EWR002B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Reallabor: DELTA - Darmstädter Energie-Labor für Technologien in der Anwendung, Teilvorhaben: Sektorübergreifende Energie-Maßnahmen in bestehenden Strukturen (Entwicklung und Erprobung)",
+"von": "2021-05-01",
+"bis": "2027-04-30",
+"summe": 3916857.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EWR002C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Reallabor: DELTA - Darmstädter Energie-Labor für Technologien in der Anwendung, Teilvorhaben: Sektorübergreifende Energie-Maßnahmen in bestehenden Strukturen (Umsetzung und Demonstration)",
+"von": "2021-05-01",
+"bis": "2027-04-30",
+"summe": 5567940.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Albrecht Förster",
@@ -180,6 +212,11 @@
 "stand": "2026-09-16",
 "etikett": "Eigenangabe",
 "version": 28
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

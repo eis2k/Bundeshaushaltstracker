@@ -37,7 +37,79 @@
 }
 ],
 "lobby_untergrenze_bund": 530002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EN6018B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: ReFaTEk - Ressourcenschonende Fassadentechnologien: Energieklinker, Teilvorhaben: Einbindung der innovativen Fassadentechnologie in die Baupraxis - gebäudebasiert",
+"von": "2022-08-01",
+"bis": "2026-03-31",
+"summe": 41339.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN3092D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: EnEff:Wärme: ZAHLEN - Zukünftiges Automatisiertes Hierarchisches und Lokales EnergiemaNagement, Teilvorhaben: Nachgewiesene Übertragbarkeit",
+"von": "2024-07-01",
+"bis": "2027-06-30",
+"summe": 219507.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN3092C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: EnEff:Wärme: ZAHLEN - Zukünftiges Automatisiertes Hierarchisches und Lokales EnergiemaNagement, Teilvorhaben: Serielles Renovieren",
+"von": "2024-07-01",
+"bis": "2027-06-30",
+"summe": 138904.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN3106B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: EnEff:Wärme: EMSiQ - Sektorenübergreifendes Energiemanagement im intelligenten Bestandsquartier, Teilvorhaben: Integration, Demonstration und wirtschaftliche Bewertung eines intelligenten Mikro-Strom-Wärme-Netzes in einem Bestandswohnquartier",
+"von": "2024-11-01",
+"bis": "2028-10-31",
+"summe": 1023009.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN1111C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "OPTIHEAT - Optimierte Wärmeversorgung im Mehrfamilienhaus (MFH) / Quartier durch intelligente Technologien, Erneuerbare Energien und Dynamische Stromtarife, Teilvorhaben: technische Integration im Bestand sowie Lösungsansätze zur Steigerung der sozialen Akzeptanz",
+"von": "2025-08-01",
+"bis": "2028-07-31",
+"summe": 114874.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN1112D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: BuildHPFlex - Flexible Energiesteuerung in bestehenden Gebäuden für Demand Response mit dezentralen Wärmepumpen, Teilvorhaben: Herausforderungen und Lösungen für die technische Integration von Energieversorgungs-Anlagen in Demand-Response-Programme sowie Erhöhung deren sozialer Akzeptanz",
+"von": "2025-08-01",
+"bis": "2028-07-31",
+"summe": 63297.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI1090B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Klimaneutrale Wärme in industriell geprägten Ballungsräumen - Systemische Bewertung des Beitrags von innovativen Technologien für die Wärmewende im Gebäudebestand, Teilvorhaben: Untersuchung von Möglichkeiten zur Integration innovativer Technologien im Gebäudebestand",
+"von": "2024-10-01",
+"bis": "2027-09-30",
+"summe": 90216.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Luka Mucic",
@@ -326,6 +398,11 @@
 "stand": "2026-10-29",
 "etikett": "Eigenangabe",
 "version": 100
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

@@ -21,7 +21,7 @@
 "lobby_zuwendungen": [
 {
 "geber": "Bund & Länder gemäß AV-WGL",
-"epl": "60",
+"epl": null,
 "von": 3000001,
 "bis": 3010000,
 "zweck": "Es erfolgten und erfolgen keinerlei persönliche Zuwendungen/Zuschüsse. Das Leibniz-Institut für Verbundwerkstoffe GmbH ist eine gemeinnützige Forschungsgesellschaft im Besitz des Landes RLP sowie der RPTU. Das Institut erhält institutionelle Zuwendungen des Bunder und der Länder gemäß AV-WGL.",
@@ -30,6 +30,7 @@
 ],
 "lobby_untergrenze_bund": 3000001,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Ulf Breuer",

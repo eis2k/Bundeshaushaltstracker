@@ -37,7 +37,169 @@
 }
 ],
 "lobby_untergrenze_bund": 2630002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03SX661C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: 3D-ESP - Effizienzoptimierung durch Drehzahlsteigerung und Lärmminderung maritimer Pumpen mittels additiver Fertigung, Vorhaben: Additive Manufacturing als Enabler-Technologie für maritime Pumpen der nächsten Generation",
+"von": "2026-09-01",
+"bis": "2029-08-31",
+"summe": 658164.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS1660K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Sicherheit von IoT-Pumpen-Aggregaten in sensiblen Infrastrukturen - SIPSENSIN -",
+"von": "2022-08-01",
+"bis": "2026-01-31",
+"summe": 540477.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS2063K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Post-Quanten-sichere Public-Key-Infrastruktur (PKI) für die Cloud-Anbindung in kritischen Infrastrukturen - PoQ-KIKI -",
+"von": "2024-05-01",
+"bis": "2027-04-30",
+"summe": 717449.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN2100E",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: REUNION - VeRnetzter DEmonstrator-VerbUNd für optImierte PrOzessketteN, Teilvorhaben: Pumpenmodul B mit erweitertem MTP",
+"von": "2024-01-01",
+"bis": "2026-12-31",
+"summe": 438013.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ENM2006",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "PumpSTARplus - Pumpenlaufräder mit einer mindestens 15 µm dicken ta-C-Beschichtung.",
+"von": "2025-10-01",
+"bis": "2026-09-30",
+"summe": 85861.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN4122C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: NEILOS - Neuartiges Elektroerhitzersystem für Salzschmelzen zur Elektrifizierung von Hochtemperatur-Industrieprozessen, Teilvorhaben: Salzpumpen und -ventile",
+"von": "2026-02-01",
+"bis": "2029-07-31",
+"summe": 406397.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN3151A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: ROTOR - Rotationswärmepumpen zur Dekarbonisierung industrieller Wärmenetze, Teilvorhaben: Betrieb und Anpassung des RHP-Systems sowie werkstoffwissenschaftliche Analysen",
+"von": "2026-07-01",
+"bis": "2029-06-30",
+"summe": 427319.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03LB4016A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: Light-Pump - Ressourcenoptimierung durch Systemintegration von Pumpe, Antrieb und Regelsystem für Abwasserpumpen, Teilvorhaben: Entwicklung, Bau und Test von ressourcenoptimierten Abwasserpumpen-Versuchsträgern und -Prototypen",
+"von": "2023-03-01",
+"bis": "2027-02-28",
+"summe": 2811423.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13IPC032",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Sichere IIoT-Verbindung heterogener Pumpen-Anwendungen mit getrennten Datenpools",
+"von": "2024-05-01",
+"bis": "2026-12-31",
+"summe": 1755005.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01MN26002B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: CraftForward - Digitaler Produktpass für zirkuläre Service-Geschäftsmodelle im Handwerk, Teilvorhaben: Zirkuläre Geschäftsmodell-Operationalisierung für Pumpen- und Armaturendienstleistungen",
+"von": "2026-02-01",
+"bis": "2029-01-31",
+"summe": 179383.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE5050A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: LIMELISA - Schlüsselkomponenten für Flüssigmetall- und Flüssigsalz-Wärmespeicher der nächsten Generation, Teilvorhaben: Entwicklung von Pumpen und Armaturen für Flüssigmetall- und Flüssigsalz-Speicher der nächsten Generation",
+"von": "2021-02-01",
+"bis": "2027-01-31",
+"summe": 1438262.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03TN0060A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Normung und Standardisierung von Prüfstandsverfahren für die Bewertung von Elektromotoren in Unterwassermotorpumpen",
+"von": "2024-01-01",
+"bis": "2026-04-30",
+"summe": 198453.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "02L24C063",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Konfigurierbare Serious Games zum Training von persönlicher, organisationaler und Prozessresilienz (RES-GAME), Teilprojekt: Ganzheitliche Resilienz für modulare Geschäftsmodellwechsel",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 415524.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "02NUK094A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt HITEMAGEN4 2: Hochtemperaturwerkstoffe für Flüssigsalz-Reaktoren der Generation IV, Teilprojekt A",
+"von": "2024-09-01",
+"bis": "2027-08-31",
+"summe": 469303.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13XP5199C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Vollständig digitalisierte & vereinheitlichte Materialmodellierung zur Echtzeitanalyse des prozess- & betriebsbedingten Deformations- & Schädigungsverhaltens innerhalb digitaler Bauteilzwillinge (DigitalModelling) - Teilvorhaben: Workflows und Implementierungsmethoden für industrielle Anwendungen",
+"von": "2024-01-01",
+"bis": "2026-12-31",
+"summe": 27600.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "02J25C173",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Eureka-Verbundprojekt: CIRCular Value Systems for Human-Centered, Data-Driven and Scalable Resource LOOPS - Zirkuläre Wertschöpfungssysteme für menschzentrierte, datengetriebene und skalierbare Ressourcenkreisläufe (CIRCLOOPS), Teilprojekt: Instandhaltung und Wiederaufbereitung eigens gefertigter Pumpen",
+"von": "2026-09-01",
+"bis": "2029-08-31",
+"summe": 326974.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Stephan-Jörg Timmermann",
@@ -142,6 +304,11 @@
 "stand": "2026-07-22",
 "etikett": "Eigenangabe",
 "version": 10
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

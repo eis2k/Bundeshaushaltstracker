@@ -61,7 +61,29 @@
 }
 ],
 "lobby_untergrenze_bund": 1940005,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "02L19C023",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Wissens- und Innovations-Netzwerk: Arbeitsforschung (WIN-A), Teilprojekt: Entwicklung von wirkungsvollen Transferstrukturen für KMU und Handwerk",
+"von": "2021-10-01",
+"bis": "2026-12-31",
+"summe": 730099.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI5273C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "VV: SoPaEn - Sozialpartnerschaftliche Energiewende - Akzeptanz, Wissensproduktion und Reorganisation in der handwerklichen Selbstverwaltung, TV: Betriebliche Ebene der Energiewende: Identifikation von Einstellungsmustern und Förderung und Verbreitung guter Praxis im Handwerk",
+"von": "2025-07-01",
+"bis": "2028-06-30",
+"summe": 232134.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Holger Schwannecke",
@@ -157,6 +179,11 @@
 "stand": "2026-05-18",
 "etikett": "Eigenangabe",
 "version": 6
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

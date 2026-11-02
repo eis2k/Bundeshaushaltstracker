@@ -21,7 +21,7 @@
 "lobby_zuwendungen": [
 {
 "geber": "Bundesrepublik Deutschland, über Bund Deutscher Landjugend",
-"epl": "60",
+"epl": null,
 "von": 20001,
 "bis": 30000,
 "zweck": "Förderung Bundesjugendreferent",
@@ -30,6 +30,7 @@
 ],
 "lobby_untergrenze_bund": 20001,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Eberhard Hartelt",

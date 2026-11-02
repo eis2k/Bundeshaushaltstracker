@@ -21,7 +21,7 @@
 "lobby_zuwendungen": [
 {
 "geber": "Bundesministerium für Umwelt",
-"epl": "16",
+"epl": null,
 "von": 1810001,
 "bis": 1820000,
 "zweck": "Projektförderungen aus dem Bundesprogramm Biologische Vielfalt, Verbändeförderung und Aktionsprogramm nationaler Klimaschutz",
@@ -38,6 +38,7 @@
 ],
 "lobby_untergrenze_bund": 2070002,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Gerhard Bronner",

@@ -38,6 +38,7 @@
 ],
 "lobby_untergrenze_bund": 2960002,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Thomas Enders",
@@ -504,7 +505,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/A/ahmetovic_adis-1043370",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003566/81980",
+"stand": "2026-07-01",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -529,7 +537,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/K/kopf_chantal-1045532",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003566/81980",
+"stand": "2026-07-01",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

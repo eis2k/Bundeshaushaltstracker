@@ -1,0 +1,80 @@
+{
+"id": "deutsches-zentrum-fuer-luft-und-raumfahrt-e-v-betrieb",
+"name": "Deutsches Zentrum für Luft- und Raumfahrt e. V. - Betrieb",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "09-0901-68531",
+"text": "Deutsches Zentrum für Luft- und Raumfahrt e. V. - Betrieb",
+"epl": "09",
+"epl_text": "Bundesministerium für Wirtschaft und Energie",
+"werte": {
+"2015": {
+"soll": 293561000,
+"ist": 293561000
+},
+"2016": {
+"soll": 300553000,
+"ist": 294697906
+},
+"2017": {
+"soll": 358640000,
+"ist": 358640000
+},
+"2018": {
+"soll": 369029000,
+"ist": 369029000
+},
+"2019": {
+"soll": 443221000,
+"ist": 443221000
+},
+"2020": {
+"soll": 521619000,
+"ist": 561619000
+},
+"2021": {
+"soll": 546661000,
+"ist": 694661000
+},
+"2022": {
+"soll": 681816000,
+"ist": 681816000
+},
+"2023": {
+"soll": 718799000,
+"ist": 726045000
+},
+"2024": {
+"soll": 549373000,
+"ist": 570073000
+},
+"2025": {
+"soll": 642711000,
+"ist": 674094000
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

@@ -46,6 +46,7 @@
 ],
 "lobby_untergrenze_bund": 110003,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Jörg Waniek",
@@ -157,7 +158,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/W/wallstein_maja-1047966",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001588/60547",
+"stand": "2025-07-01",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

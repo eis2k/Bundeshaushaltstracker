@@ -21,7 +21,7 @@
 "lobby_zuwendungen": [
 {
 "geber": "Bundesrepublik Deutschland, über das Bundesministerium der Finanzen / Forschungszulagengesetz",
-"epl": "60",
+"epl": null,
 "von": 0,
 "bis": 0,
 "zweck": "Im Rahmen des Forschungszulagengesetzes (FZulG) wurden für mehrere Projekte aus den Jahren 2020 bis 2024 Anträge auf steuerliche Forschungsförderung gestellt bzw. sind diese als genehmigt oder genehmigungsfähig bestätigt worden. Eine tatsächliche steuerliche Anrechnung der Forschungszulage ist im Berichtsjahr 2024 noch nicht erfolgt. Die steuerliche Wirkung wird voraussichtlich im Rahmen der Steuerveranlagung 2025 eintreten. Eine Meldung des Förderbetrags erfolgt nach tatsächlichem Zufluss.",
@@ -38,6 +38,7 @@
 ],
 "lobby_untergrenze_bund": 0,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Jens Kurth",

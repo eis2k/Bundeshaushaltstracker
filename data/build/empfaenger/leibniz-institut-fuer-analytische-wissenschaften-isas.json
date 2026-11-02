@@ -21,7 +21,7 @@
 "lobby_zuwendungen": [
 {
 "geber": "Bundesrepublik Deutschland, Bundesministerium für Forschung, Technologie und Raumfahrt",
-"epl": "60",
+"epl": null,
 "von": 970001,
 "bis": 980000,
 "zweck": "Zuschüsse zu Durchführung von Forschungsprojekten",
@@ -38,6 +38,7 @@
 ],
 "lobby_untergrenze_bund": 1670002,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Albert Sickmann",

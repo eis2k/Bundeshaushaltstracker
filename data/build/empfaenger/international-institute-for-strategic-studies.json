@@ -1,0 +1,56 @@
+{
+"id": "international-institute-for-strategic-studies",
+"name": "International Institute for Strategic Studies (IISS)",
+"art": "forschung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "05-0502-68791",
+"text": "International Institute for Strategic Studies (IISS)",
+"epl": "05",
+"epl_text": "Auswärtiges Amt",
+"werte": {
+"2021": {
+"soll": 2000000,
+"ist": 1565075
+},
+"2022": {
+"soll": 1000000,
+"ist": 930503
+},
+"2023": {
+"soll": 1000000,
+"ist": 884879
+},
+"2024": {
+"soll": 1000000,
+"ist": 996764
+},
+"2025": {
+"soll": 1000000,
+"ist": 1000000
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

@@ -45,7 +45,19 @@
 }
 ],
 "lobby_untergrenze_bund": 170003,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EI6096C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: UtiliSpaces - IKT-Lösungen für CLS-Anwendungen in Datenräumen für die Energieversorgung, Teilvorhaben: Umsetzung und Demonstration in Mannheim",
+"von": "2023-12-01",
+"bis": "2027-11-30",
+"summe": 262513.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Gabriël Clemens",
@@ -150,6 +162,11 @@
 "stand": "2026-09-08",
 "etikett": "Eigenangabe",
 "version": 26
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

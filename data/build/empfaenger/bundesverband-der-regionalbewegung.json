@@ -45,7 +45,19 @@
 }
 ],
 "lobby_untergrenze_bund": 750003,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "2822OE171",
+"ressort": "BMLEH",
+"epl": "10",
+"thema": "Qualifizierungs- und Coaching-programm Regionales Bio-Wertschöpfungskettenmanagement",
+"von": "2023-09-01",
+"bis": "2027-03-31",
+"summe": 232225.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Heiner Sindel",
@@ -130,6 +142,11 @@
 "stand": "2026-06-30",
 "etikett": "Eigenangabe",
 "version": 8
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

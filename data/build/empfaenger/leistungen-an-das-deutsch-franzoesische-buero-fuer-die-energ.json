@@ -1,0 +1,60 @@
+{
+"id": "leistungen-an-das-deutsch-franzoesische-buero-fuer-die-energ",
+"name": "Leistungen an das Deutsch-Französische Büro für die Energiewende e. V.",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "09-0903-68606",
+"text": "Zuschüsse an Vereine der Energiewende",
+"epl": "09",
+"epl_text": "Bundesministerium für Wirtschaft und Energie",
+"werte": {
+"2021": {
+"soll": 275000,
+"ist": 327250
+},
+"2022": {
+"soll": 328000,
+"ist": 319904
+},
+"2023": {
+"soll": 328000,
+"ist": 327250
+},
+"2024": {
+"soll": 1678000,
+"ist": 1766500
+},
+"2025": {
+"soll": 2287000,
+"ist": 2286500
+},
+"2026": {
+"soll": 2445000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

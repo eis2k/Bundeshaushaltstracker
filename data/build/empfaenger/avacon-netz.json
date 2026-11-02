@@ -29,7 +29,39 @@
 }
 ],
 "lobby_untergrenze_bund": 570001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "13MX011E",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Verknüpfung von Datenökosystemen für die Anbindung von Flexibilitäten an Netzstrukturen (DataFleX) - Teilvorhaben: Hüllkurve zur markt- und netzdienlichen Integration von Kleinstflexibilität",
+"von": "2025-10-01",
+"bis": "2027-01-31",
+"summe": 139386.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SFK1S0-3",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben ENSURE3: Neue EnergieNetzStruktURen für die Energiewende - Teilvorhaben AVA",
+"von": "2023-08-01",
+"bis": "2026-12-31",
+"summe": 892414.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SF0694B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben Beautiful: Belastungsoptimierte Arbeitsgestaltung für Netzleitstellen kritischer Infrastrukturen - Kognitive Ergonomie, Assistenzsysteme und Leitwarten-Simulatoren, Teilprojekt AVA: Belastungsoptimierung und Nutzung von Assistenzsystemen in der Gas- und Stromnetzführung eines Verteilnetzbetreib",
+"von": "2023-01-01",
+"bis": "2026-04-30",
+"summe": 719122.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "André  Bruschek",
@@ -145,6 +177,11 @@
 "stand": "2026-06-23",
 "etikett": "Eigenangabe",
 "version": 13
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

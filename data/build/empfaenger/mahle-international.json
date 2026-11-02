@@ -21,7 +21,7 @@
 "lobby_zuwendungen": [
 {
 "geber": "Deutsches Zentrum für Luft- und Raumfahrt",
-"epl": "30",
+"epl": null,
 "von": 780001,
 "bis": 790000,
 "zweck": "Verbundprojekt: KoHSE - Komponentenentwicklung für Hochvoltheizer-Systeme in der Elektromobilität",
@@ -85,6 +85,7 @@
 "foerderart": "Direkte Projektförderung"
 }
 ],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Arnd Franz",

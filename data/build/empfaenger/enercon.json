@@ -37,7 +37,19 @@
 }
 ],
 "lobby_untergrenze_bund": 1180002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EE3116I",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: ReWert - Ressourcenschonende Verwertung von Rotorblättern, Teilvorhaben: Aufbau Zerlegezentrum und Bewertung des Kostenmodells",
+"von": "2026-07-01",
+"bis": "2029-06-30",
+"summe": 248696.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Udo Bauer",
@@ -133,6 +145,11 @@
 "stand": "2026-06-30",
 "etikett": "Eigenangabe",
 "version": 9
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

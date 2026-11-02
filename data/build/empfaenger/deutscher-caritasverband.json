@@ -206,6 +206,7 @@
 ],
 "lobby_untergrenze_bund": 109930023,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Eva Maria Welskop-Deffaa",
@@ -1544,7 +1545,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/S/sassenrath_carl-1046970",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000896/88201",
+"stand": "2026-10-30",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

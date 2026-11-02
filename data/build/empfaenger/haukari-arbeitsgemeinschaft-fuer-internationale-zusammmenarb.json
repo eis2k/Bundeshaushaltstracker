@@ -21,7 +21,7 @@
 "lobby_zuwendungen": [
 {
 "geber": "Bundesministerium für wirtschaftliche Zusammenarbeit (BMZ)",
-"epl": "23",
+"epl": null,
 "von": 280001,
 "bis": 290000,
 "zweck": "Zuschuss zur Förderung entwicklungspolitischer Projekte im Irak",
@@ -30,6 +30,7 @@
 ],
 "lobby_untergrenze_bund": 280001,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Karin Dorsch",

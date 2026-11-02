@@ -29,7 +29,19 @@
 }
 ],
 "lobby_untergrenze_bund": 3530001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EI6143D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: SyNerGy-H2 - Systemdienliche Netzintegration von Multi-Mega-/ Gigawatt-Elektrolyseanlagen, Teilvorhaben: Ökonomische Bewertung der technischen Lösungen zur Erfüllung der Netzanschlusskriterien mit dem Ziel der Sicherstellung wettbewerbsfähiger Wasserstoffgestehungskosten",
+"von": "2025-07-01",
+"bis": "2028-06-30",
+"summe": 219946.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Peter Schmidt",
@@ -168,6 +180,11 @@
 "stand": "2026-06-25",
 "etikett": "Eigenangabe",
 "version": 13
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

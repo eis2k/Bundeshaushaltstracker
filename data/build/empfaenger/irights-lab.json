@@ -45,7 +45,59 @@
 }
 ],
 "lobby_untergrenze_bund": 730003,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "16INS203D",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Automatisierte Moderation und demokratische Öffentlichkeit: Soziale KI-Agenten im digitalen Diskursraum - AGORA-KI, Teilvorhaben: Rechtliche Analyse, Policy-Transfer und Governance-Integration",
+"von": "2026-06-01",
+"bis": "2028-05-31",
+"summe": 147935.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16INS205A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Kindheit im KI-Zeitalter - Identität, Beziehungs- und Zukunftsfähigkeit - KIKI 2036, Teilvorhaben: Ethik, Recht und Governance",
+"von": "2026-06-01",
+"bis": "2028-05-31",
+"summe": 228145.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS2477",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Desinformation und ihre Muster: Identifikation populistischer Emotionalisierung mit einem hybriden KI-Ansatz - DeMasKI -",
+"von": "2026-03-15",
+"bis": "2029-03-31",
+"summe": 237347.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01F1221A",
+"ressort": "BMV",
+"epl": "12",
+"thema": "Projekt: Open Data für transnationale Digitale Zwillinge: Empfehlungen und Entwicklung von Strategien, um die Integration und Nutzung Digitaler Zwillinge in verschiedenen Sektoren zu steigern - OpenTwin - iRights.Lab GmbH",
+"von": "2025-05-01",
+"bis": "2026-06-30",
+"summe": 198289.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16IS24068",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "GenKI-IR: Generative KI - Innovation und Recht in Arbeitsprozessen",
+"von": "2024-07-01",
+"bis": "2028-06-30",
+"summe": 1486153.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Philipp Otto",
@@ -96,6 +148,11 @@
 "stand": "2026-08-19",
 "etikett": "Eigenangabe",
 "version": 7
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

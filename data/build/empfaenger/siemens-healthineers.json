@@ -45,7 +45,79 @@
 }
 ],
 "lobby_untergrenze_bund": 820003,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EN4137B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: ELMBA - Energie-effiziente Leistungselektronik für medizinische Bildgebungs-Anwendungen, Teilvorhaben: Anforderungen und EMV",
+"von": "2026-10-01",
+"bis": "2029-09-30",
+"summe": 215870.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ZU1210EB",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "SEMECO: Neue Datenübertragungstechnologie für Computertomographen (A1) - Teilvorhaben B",
+"von": "2023-05-01",
+"bis": "2026-04-30",
+"summe": 409026.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ZU2210ED",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "SEMECO - A1: Neue Datenübertragungstechnologie für Computertomographen (DataCT) - Teilvorhaben D",
+"von": "2026-05-01",
+"bis": "2029-04-30",
+"summe": 329765.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SV9467",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "KIRA-med: KI-gestützte Robotische Pflege-Assistenz für die medizinische Versorgung",
+"von": "2025-10-01",
+"bis": "2028-09-30",
+"summe": 164186.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03GW0682A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Industrie-in-Klinik-Plattform FTMT - Modellvorhaben: Neue Möglichkeiten der schnellen anatomischen und metabolischen MR-Bildgebung bei höchster Auflösung: Künstliche Intelligenz für die Ultra-Hochfeld MR-Tomographie, Integriertes Deep Learning bei 7 Tesla (IDL@7T) - Teilvorhaben: Deep Learning T1-MPRAGE&T2-SPACE",
+"von": "2023-10-01",
+"bis": "2027-03-31",
+"summe": 762928.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13MX007H",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Digitale Produktions- und Lieferkette in der Gesundheitswirtschaft auf den Prinzipien von Gaia-X (Health-Track-X) - Teilvorhaben: Erhöhung der Datentransparenz der Liefer- und Produktionskette zur Nachhaltigkeitsbewertung",
+"von": "2024-05-01",
+"bis": "2026-07-31",
+"summe": 217292.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "05K24XUB",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt 05K2024 - HIMALAYA: Holistic Imaging and Molecular Analysis in life-threatening Ailments. Teilprojekt 3.",
+"von": "2024-02-01",
+"bis": "2027-12-31",
+"summe": 481000.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Bernhard Montag",
@@ -367,6 +439,11 @@
 "stand": "2026-04-29",
 "etikett": "Eigenangabe",
 "version": 20
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

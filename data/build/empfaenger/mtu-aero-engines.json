@@ -69,7 +69,359 @@
 }
 ],
 "lobby_untergrenze_bund": 18920006,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "20T2203A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Beschleunigung der analytischen Prozesse in der industriellen Auslegung von Verdichtern",
+"von": "2024-04-01",
+"bis": "2027-06-30",
+"summe": 1278500.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20X2205",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Digitale Werkstoffauslegung zur Steigerung der Festigkeit vom Rohteil bis zum Turbinenbauteil",
+"von": "2023-08-01",
+"bis": "2028-07-31",
+"summe": 1864775.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20T2214A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Lebensdauersteigerung schnelllaufender Niederdruckturbinen für konventionelle und revolutionäre Luftfahrtantriebe",
+"von": "2024-10-01",
+"bis": "2028-07-31",
+"summe": 3154000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20T2213",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Auslegung und Validierung eines World-Class-HDV-Rigs mit minimalen Klimaauswirkungen",
+"von": "2023-06-01",
+"bis": "2028-05-31",
+"summe": 5445000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20D2202A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Aero-thermodynamische Auslegungsfähigkeit für klimafreundliche Luftfahrtantriebe",
+"von": "2024-01-01",
+"bis": "2027-06-30",
+"summe": 1458200.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20T2215A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Integriertes Verdichtungssystem mit einem aerodynamisch aggressiven Übergangskanal und bionischem, gewichtsoptimiertem Verstellsystem",
+"von": "2023-09-01",
+"bis": "2026-12-31",
+"summe": 1846550.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE5116B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: DigITecT - Digitalisierung und interdisziplinäre Auslegungstechnologien von Turbomaschinen für die Energiewende, Teilvorhaben: AP 1.1a, 1.2b, 2.4, 3.1a, 3.4a und AP 4.2",
+"von": "2022-12-01",
+"bis": "2027-09-30",
+"summe": 1558308.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE5137A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: H2_Turb - Demonstration der emissionsarmen direkten H2-Verbrennung in Turbinen (für stationäre und mobile Anwendungen), Teilvorhaben: Numerisch/experimentelle Untersuchungen in Hinblick auf zukünftige Turbinen",
+"von": "2023-01-01",
+"bis": "2026-12-31",
+"summe": 1085968.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE5158B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: TurboHyTec - Turbomaschinen für Hydrogen Technologien, Teil-vorhaben: 1.4a, 3.4, 4.3b, 4.6a, 4.7a und 4.9 komplexe Simulationsverfahren",
+"von": "2023-10-01",
+"bis": "2027-03-31",
+"summe": 1735026.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE5185A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: TurboTrans - Turbomaschinen für die Transformation in das integrierte Energiesystem der Zukunft, Teilvorhaben: 3.1a, 3.2a, 3.4a und 4.2b - Flexibilität im Betrieb",
+"von": "2025-01-01",
+"bis": "2028-06-30",
+"summe": 1593489.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE5194B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: FokusTurbo - Flexible Turbomaschinen für klimaneutrale und resiliente Energiesysteme, Teilvorhaben: 3.4a, 3.6b und 4.5a - Flexibilisierung im Betrieb und Brennstoffeinsatz",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 743919.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE5203B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: DiWaTurb - Diversifizierung des Energiesystems durch Wasserstoff, Wärmepumpen und Energiespeicher - Turbomaschinen, Teilvorhaben: AP 4.6, 5.1, 5.2 und 5.3 Simulationsverfahren zur Bewertung von Turbokomponenten bei transienten Betriebszuständen",
+"von": "2026-10-01",
+"bis": "2029-09-30",
+"summe": 1086432.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE5034C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: OPTISYSKOM - Optimierung der Prozesse und Systeme sowie der Lebensdauer der Gesamtanlage und ihrer Komponenten, Teilvorhaben: 1.4a",
+"von": "2020-03-01",
+"bis": "2026-03-31",
+"summe": 573243.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20T2107A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Erweiterung der strukturmechanischen und aeroakustischen Auslegungsfähigkeit von Triebwerkskomponenten",
+"von": "2023-01-01",
+"bis": "2026-12-31",
+"summe": 3034800.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20T2109A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Kompetenzausbau für hintere Stufen des HDV mit Blick auf Verbesserung des gesamten Moduls",
+"von": "2022-10-01",
+"bis": "2026-12-31",
+"summe": 3640550.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20D2112A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Digitalisierte Turbinenauslegung",
+"von": "2023-01-01",
+"bis": "2027-03-31",
+"summe": 2906800.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20D2107A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Automatisierte und vernetzte Triebwerksfertigung",
+"von": "2022-01-01",
+"bis": "2026-03-31",
+"summe": 5280477.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20T2108A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Heißgasstabile Werkstoffe und Oberflächen für zukünftige Niederdruckturbinen",
+"von": "2022-08-01",
+"bis": "2027-04-30",
+"summe": 4687500.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20M2110A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Technologie-Bausteine für ein Flugtriebwerk mit Dampfeinspritzung und Wasserrückgewinnung bzw. Freikolbensystem",
+"von": "2022-06-01",
+"bis": "2026-12-31",
+"summe": 6216600.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20T2402C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Modellierung und Analyse von Turbomaschinenlärm",
+"von": "2025-10-01",
+"bis": "2028-12-31",
+"summe": 925000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20X2402A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Optimierte Flugantriebe durch digitale Vernetzung über den gesamten Lebenszyklus",
+"von": "2026-05-01",
+"bis": "2029-10-31",
+"summe": 5656000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20X2401E",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Additive Herstellroute von Triebwerksbauteilen",
+"von": "2025-10-01",
+"bis": "2029-03-31",
+"summe": 1424950.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20N2204A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Leichtbau-Brennstoffzellenstack für Luftfahrtanwendungen",
+"von": "2023-11-01",
+"bis": "2028-01-31",
+"summe": 1700200.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20N2205A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Prozessüberwachung und Simulation zerspanender Bearbeitung von Triebwerksbauteilen",
+"von": "2023-09-01",
+"bis": "2027-08-31",
+"summe": 953200.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20N2206A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Digitalisierung der Fertigung für komplexe Triebwerkskomponenten",
+"von": "2024-01-01",
+"bis": "2027-12-31",
+"summe": 1925700.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20N2201A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Simulation und experimentelle Charakterisierung des Einflusses von Gussporosität auf die Bauteillebensdauer",
+"von": "2023-10-01",
+"bis": "2027-09-30",
+"summe": 900000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13XP5199B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Vollständig digitalisierte & vereinheitlichte Materialmodellierung zur Echtzeitanalyse des prozess- & betriebsbedingten Deformations- & Schädigungsverhaltens innerhalb digitaler Bauteilzwillinge (DigitalModelling) - Teilvorhaben: Erstellung und Validierung, Kriechmodell für Triebwerksanwendungen",
+"von": "2024-01-01",
+"bis": "2026-12-31",
+"summe": 155100.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20M2237A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Optimierte System- und Komponentenauslegung für Turbinen der nächsten Generation",
+"von": "2023-06-01",
+"bis": "2028-05-31",
+"summe": 8824950.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20M2238A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Werkstoffe, Verbrennungs-, Turbinen- und Wärmetauscher-Technologien für den Water-Enhanced Turbofan",
+"von": "2023-10-01",
+"bis": "2026-12-31",
+"summe": 3887886.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20M2239B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Entwicklung eines brennstoffzellengetriebenen Antriebssystems für eine Do228",
+"von": "2023-08-01",
+"bis": "2027-12-31",
+"summe": 7152076.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20M2223",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Metallischer Brennstoffzellen-Stack für die Flying Fuel Cell",
+"von": "2023-08-01",
+"bis": "2026-12-31",
+"summe": 3682500.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20M2235A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Auslegung und Simulation von Gesamt- und Kühlsystem der Flying Fuel Cell",
+"von": "2024-07-01",
+"bis": "2027-09-30",
+"summe": 2745100.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20M2421A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Virtuelle Flying Fuel Cell durch Simulation und Versuche am Stack und Simulation des Gesamtsystems",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 3225000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20M2418A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbesserte Auslegungsfähigkeit und Klimawirkungsbestimmung für revolutionäre klimaschonende Luftfahrtantriebe",
+"von": "2025-10-01",
+"bis": "2029-09-30",
+"summe": 3883900.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20M2425",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Dynamische Validierung des Flying Fuel Cell Gesamtsystems",
+"von": "2026-06-01",
+"bis": "2030-02-28",
+"summe": 6008200.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Johannes Bußmann",
@@ -219,6 +571,11 @@
 "stand": "2026-06-18",
 "etikett": "Eigenangabe",
 "version": 22
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

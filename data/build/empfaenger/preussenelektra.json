@@ -29,7 +29,39 @@
 }
 ],
 "lobby_untergrenze_bund": 40001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "02S9447C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "VP: Experimentell gestützte Berechnungen von Neutronenfeldern und den daraus resultierenden Aktivitäten in reaktorfernen Räumen - TP: Probenahme und Bewertung",
+"von": "2024-04-01",
+"bis": "2027-09-30",
+"summe": 34377.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "02S9459B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "VP: Konzepte zur Diagnostik und Planung des Rückbaus kontaminierter Betonbaukörper kerntechnischer Anlagen (KOBEKA-II) - TP: Vorbereitung und Umsetzung von Qualifizierungsmessungen und Bewertung der regulatorischen Realisierbarkeit, Beprobungsplanung und Wissensmanagement",
+"von": "2026-04-01",
+"bis": "2029-03-31",
+"summe": 153749.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "02S9461C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "VP: Detektion und Ausbau von asbesthaltigen Abstandhaltern in Stahlbeton, TP: Bereitstellung der Infrastruktur sowie Bewertung der Konzepte auf Umsetzbarkeit und der regulatorischen Realisierbarkeit unter Rückbaubedingungen",
+"von": "2026-05-01",
+"bis": "2029-04-30",
+"summe": 163640.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Guido Knott",
@@ -112,6 +144,11 @@
 "stand": "2026-09-30",
 "etikett": "Eigenangabe",
 "version": 9
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

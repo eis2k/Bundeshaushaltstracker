@@ -29,7 +29,19 @@
 }
 ],
 "lobby_untergrenze_bund": 40001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EMF0404M",
+"ressort": "BMV",
+"epl": "12",
+"thema": "Verbundvorhaben/ HoLa: Hochleistungsladen im Lkw-Fernverkehr (HoLa)",
+"von": "2021-09-01",
+"bis": "2027-01-15",
+"summe": 1182902.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Markus Weckesser",
@@ -101,6 +113,11 @@
 "stand": "2026-07-23",
 "etikett": "Eigenangabe",
 "version": 7
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

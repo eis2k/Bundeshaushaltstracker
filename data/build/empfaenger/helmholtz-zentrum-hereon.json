@@ -21,7 +21,7 @@
 "lobby_zuwendungen": [
 {
 "geber": "Bundesrepublik Deutschland, BMFTR",
-"epl": "60",
+"epl": null,
 "von": 111740001,
 "bis": 111750000,
 "zweck": "Institutionelle Zuwendung mit Zuwendungsbescheid für den Betrieb und die Investitionen des Helmholtz-Zentrum Hereon. Dies beinhaltet z. B. Zuwendung für Gehälter, Verbrauchsmaterialien, Investitionen.",
@@ -93,7 +93,669 @@
 }
 ],
 "lobby_untergrenze_bund": 126630009,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "20X2206G",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Klimaschonende Fügeverfahren für einseitig zugängliche Längsnähte",
+"von": "2023-08-01",
+"bis": "2027-07-31",
+"summe": 424700.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03XPM020B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "EVAEND - Entwicklung neuer verunreinigungstoleranter Aluminiumlegierungen aus Endverbraucherschrott",
+"von": "2025-11-01",
+"bis": "2028-10-31",
+"summe": 560682.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "02WAS1714B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "WASA - Verbundprojekt WaRisCo: Risiken und Resilienz hydrologischer Extreme in städtisch-ländlichen Gebieten im südlichen Afrika - Co-Produktion von Wasser- und Klimadienstleistungen für ein angepasstes und nachhaltiges Risikomanagement, Teilprojekt 2",
+"von": "2024-05-01",
+"bis": "2028-04-30",
+"summe": 536450.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01UT2611",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "CUL-Adaptive Wissensinfrastrukturen für lernende Städte. Evidenzbasierte urbane Lernfähigkeit für transformative Governance",
+"von": "2026-10-01",
+"bis": "2027-09-30",
+"summe": 85000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13N16622",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "WPN2030 - Analyse der Forschungsarten und Forschungszwecke für die wissenschaftliche Politikberatung im Rahmen der Wissenschaftsplattform Nachhaltigkeit 2030 (wpn2030)",
+"von": "2023-03-01",
+"bis": "2026-12-31",
+"summe": 567410.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE3087C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: C2-Wakes - Controlled Cluster Wakes - Steuerung und Mitigation großskaliger Windparkeffekte, Teilvorhaben: Analyse von Satellitendaten für optimierte Offshore Windpark Konfiguration und Steuerung",
+"von": "2023-05-01",
+"bis": "2026-12-31",
+"summe": 372015.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03LB3091A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: S3-Alu - Simulationsmethodiken zur Bewertung von Bauteilen und Systemen für nachhaltigen Leichtbau mit Sekundär-Aluminium, Teilvorhaben: Digitaler Zwilling, Simulationsumgebung und Administration",
+"von": "2023-04-01",
+"bis": "2026-12-31",
+"summe": 479959.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03LB2063B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: LHEA - Lightweight High Entropy Alloys: Entwicklung von Hochentropielegierungen mit geringer spezifischer Dichte für den Leichtbau, Teilvorhaben: Optimierung der Eigenschaften von LHEA im Guss- und SLM-Zustand und Entwicklung von Wärmebehandlungsrouten",
+"von": "2023-05-01",
+"bis": "2026-06-30",
+"summe": 388096.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE5115A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: MemKoWI - Membranverfahren zur Abtrennung von Kohlendioxid und Wasserstoff aus Industriegasen, Teilvorhaben: Polymermembrantechnologie für die Abtrennung von Kohlendioxid und Wasserstoff",
+"von": "2022-11-01",
+"bis": "2027-04-30",
+"summe": 1034515.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI3089A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: KOMPRHY - Entwicklung eines Kompressors für Wasserstoff mit Hilfe von Metallhydriden",
+"von": "2023-10-01",
+"bis": "2027-07-31",
+"summe": 537234.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16RK14016C",
+"ressort": "BMV",
+"epl": "12",
+"thema": "Verbundprojekt: Skalierbare Erzeugung regenerativer flüssiger Kraftstoffe mit Niedertemperatur-Mikrowellen-Plasma (Plasma2X)",
+"von": "2023-09-01",
+"bis": "2027-08-31",
+"summe": 1673073.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "45BT204001",
+"ressort": "BMV",
+"epl": "12",
+"thema": "Bau, Erprobung und Transfer eines Wasserstoffsystemlabors für die Erzeugung von Bordstrom - BOrdstromCORiolis",
+"von": "2024-01-01",
+"bis": "2026-12-31",
+"summe": 560000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03IO2302",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Hereon Transformation Cases",
+"von": "2023-06-01",
+"bis": "2026-12-31",
+"summe": 1082546.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03LW0642K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "GBi4M: Intelligente Implantatabdeckung (SIC-2) - Bench-top-Bewertung der Intelligenten Implantatabdeckung",
+"von": "2025-01-01",
+"bis": "2027-06-30",
+"summe": 486341.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03LWH0088C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "GBi5M: Entwicklung eines Gewebeimplantats zur kausalen Therapie der traumatisch bedingten Rückenmarksverletzung und die daraus folgende Querschnittslähmung (NEUROLITH-2) (Teilprojekt 3)",
+"von": "2025-12-01",
+"bis": "2027-11-30",
+"summe": 250000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01LK2308B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "ITMS - Modul Q & S II - Verbundprojekt CoastGEM - Treibhausgasemissionen aus deutschen Küstengewässern, Teilprojekt 2: Erfassung von THG-Daten in Elbe und deutscher Bucht",
+"von": "2024-05-01",
+"bis": "2027-04-30",
+"summe": 124184.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01LK2314B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "WarmWorld - Verbundprojekt ProImpact: Prototyp Workflows für Nutzerrelevante Klimainformation und Impactmodellierung, Teilprojekt 2 - technische Umsetzung und Integration der Workflows in den WarmWorld-Datenstrom",
+"von": "2024-05-01",
+"bis": "2027-04-30",
+"summe": 270904.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01LP2322B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "ClimXtreme II - Verbundprojekt Modul A Physik und Prozesse, Teilprojekt 2: Verbesserung der Beschreibung und Attribution der extremsten Zentraleuropäischen Hitzewellen (A5 DesAttHeat)",
+"von": "2023-08-01",
+"bis": "2026-12-31",
+"summe": 190286.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01LP2324H",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "ClimXtreme II, Modul C 'Impacts' - ECCES-II: Auswirkungen des globalen Klimawandels auf extreme Hochwasserstände in der Nordsee unter Berücksichtigung von Rückkoppelungsmechanismen zwischen Ozean und Atmosphäre",
+"von": "2023-10-01",
+"bis": "2026-09-30",
+"summe": 519438.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01LP2326D",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt UDAG - Aktualisierung der Datenbasis für die Anpassung an den Klimawandel in Deutschland, Teilprojekt 4: Auswahl der optimalen ICON-CLM-Konfigurationen (Hereon)",
+"von": "2023-09-01",
+"bis": "2026-08-31",
+"summe": 1042281.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01LR2001A1",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt RegIKlim: Wissenschaftliche Koordination zur Entwicklung eines regionalen Klimakatasters (WIRKsam), Teilprojekt 1: Prototypische Entwicklung des Klimakatasters und überregionaler Transfer",
+"von": "2023-12-01",
+"bis": "2026-11-30",
+"summe": 497245.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01LR2003A1",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt RegIKlim: Wasser an den Küsten Ostfrieslands: Maßgeschneiderte Klimaservices für die Anpassung (WAKOS-2), Teilprojekt 1: Digitales Web-Tool und Ereignisbasierte Storylines (WAKOS-2-A)",
+"von": "2024-03-01",
+"bis": "2027-04-30",
+"summe": 519287.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01LN2201A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Nachwuchsgruppen Klima, Umwelt und Gesundheit: Gemeinsame Entwicklung von Klimadienstleistungen für die Pflegewirtschaft und die Pflegende Gesellschaft (CoCareSociety)",
+"von": "2022-10-01",
+"bis": "2027-09-30",
+"summe": 2164575.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01LN2204A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Nachwuchsgruppen Klima, Umwelt und Gesundheit: Konflikte und Synergien zwischen Szenarien für CO2-neutrale und gesunde Städte (CoSynHealth)",
+"von": "2022-10-01",
+"bis": "2027-09-30",
+"summe": 1660119.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01LG2292A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt WASCAL CICLES: Maßgeschneiderte und integrierte Klimadienstleistungen für verbesserte Resilienz und nachhaltige sozio-ökonomische Entwicklung in Westafrika - Teilprojekt 1: Co-Entwicklung, Co-Etablierung und Coaching",
+"von": "2023-08-01",
+"bis": "2026-12-31",
+"summe": 396212.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01LR2002A1",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt RegIKlim: Nutzbare Lokale Klimainformationen für Deutschland (NUKLEUS2), Teilprojekt 1: Klimakataster, Schnittstellen zur Anwendung, Aerosol Analysen (KAAlys)",
+"von": "2023-06-01",
+"bis": "2026-11-30",
+"summe": 552496.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01LG2049B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "SASSCAL 2.0 Verbundprojekt: Informationen zum Klimawandel zur Anpassung an regionale Kipppunkte im südlichen Afrika (TIPPECC). Teilprojekt B: Stärkung des Klimaservice-Aspekts durch bedarfsorientierte Bereitstellung regionaler Klimainformationen' (SKALA)",
+"von": "2022-08-01",
+"bis": "2026-06-30",
+"summe": 241688.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01LJ2507D",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt KlimPro: Justierbare und langzeitstabile Katalysator- und Membraninnovationen zur Realisierung von katalytischen Membranreaktoren für die Herstellung von Hydroformylierungs-Produkten (Julia) - Teilprojekt 5: Membranentwicklung und Membranreaktormodellierung",
+"von": "2026-05-01",
+"bis": "2029-04-30",
+"summe": 470369.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01LS2501E",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt CDRterra: Synthese- und Transferprojekt von CDRterra II (CDRSynTra2) - Teilprojekt 5: Entwicklung von Konzepten zur regionalen Umsetzung von CDR",
+"von": "2025-11-01",
+"bis": "2028-10-31",
+"summe": 274756.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SX642D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: KoSyShip - Korrosionsbeständige Systemkomponenten für emissionsreduzierte Schiffskraftstoffe, Vorhaben: Entwicklung numerischer und datenbasierter Modelle zur Erstellung von Materialkarten",
+"von": "2025-08-01",
+"bis": "2028-07-31",
+"summe": 356096.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SX658B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: H2MASS - Erforschung und Entwicklung maritimer Wasserstoffspeichersysteme zur Energieerzeugung an Bord von Passagierschiffen, Vorhaben: Entwicklung und Demonstration eines skalierbaren Metallhydridspeichers für maritime Anwendungen",
+"von": "2026-05-01",
+"bis": "2030-04-30",
+"summe": 469274.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "031L0328F",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "MONID - Phase II - Verbundprojekt: VBD-MODE - 'Vector-borne disease modelling in Germany - preparing for contemporary and future risk' - Modellierung von durch Vektoren übertragenen Krankheiten in Deutschland - Vorbereitung auf aktuelle und zukünftige Risiken - Teilprojekt F",
+"von": "2026-01-01",
+"bis": "2029-12-31",
+"summe": 293860.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01DR21024",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Aufbau und Etablierung eines deutsch-neuseeländischen Forschungszentrums für grünen Wasserstoff",
+"von": "2021-10-01",
+"bis": "2027-09-30",
+"summe": 758600.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01DP25003",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Wiederverwertung von Titanschrott für die Additive Fertigung mittels Materialextrusion unter Verwendung eines umweltfreundlichen Bindemittels. Teilvorhaben: Herstellungsroute von verunreinigungsarmen Metallpulvern.",
+"von": "2025-10-01",
+"bis": "2028-09-30",
+"summe": 99610.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01QE2405C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Prüfung der Wasserstoffversprödungsaffinität von Komponenten für Wasserstoffspeichermaterialien, Teilprojekt: Entwicklung eines Wasserstoffversprödungsphasenfeldmodells.",
+"von": "2024-07-01",
+"bis": "2026-12-31",
+"summe": 249712.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01QE2422C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekttitel: Früherkennung von Korrosion durch intelligente Klimaprüfkammern, Teilprojekttitel: Intelligente Vorhersagen der Korrosionsrate",
+"von": "2024-12-01",
+"bis": "2027-08-31",
+"summe": 249621.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01QE2614C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Resiliente Infrastrukturen mittels Fernerkundung, digitaler Zwillinge und Modellierung, Teilprojekt: Korrosions- und Schadensprognosen aus Klima- und Umweltdaten.",
+"von": "2026-05-01",
+"bis": "2028-10-31",
+"summe": 299477.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01QE2605C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Next-Generation Eisen-Luft-Batterien: Leistungssteigerung durch fortschrittliche Elektrolytadditive und Künstliche Intelligenz, Teilprojekt: Datengetriebene Identifizierung von Elektrolyt-Additiven für Eisenanoden.",
+"von": "2026-06-01",
+"bis": "2029-05-31",
+"summe": 342650.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "05D23CG1",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt 05D2022 - KI4D4E: Ein KI-basiertes Framework für die Visualisierung und Auswertung der massiven Datenmengen der 4D-Tomographie für Endanwender von Beamlines. Teilprojekt 7.",
+"von": "2023-03-01",
+"bis": "2026-08-31",
+"summe": 363369.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "05D23CG2",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt 05D2022 - EvalSpek-ML: Entwicklung und Evaluierung von Machine-Learning-Algorithmen für die Analyse konvexkombinierter spektraler Daten. Teilprojekt 1.",
+"von": "2023-03-01",
+"bis": "2026-08-31",
+"summe": 202491.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "05D25CG1",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbund 05D2025 - CmarT: Entwicklung von lokal adaptiver Tomographie für die Untersuchung von hierarchisch komplexer Materie - Teilprojekt 6",
+"von": "2025-11-01",
+"bis": "2028-10-31",
+"summe": 746775.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "05D25CG2",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbund 05D2025 - BeyondVoxels: Hierarchical Analysis, Processing and Visualization of Large-Scale Synchrotron Radiation Imaging Data - Teilprojekt 3",
+"von": "2025-11-01",
+"bis": "2028-10-31",
+"summe": 389240.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "05D25CG3",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbund 05D2025 - Physics-LLM: Anwendung von großen Sprachmodellen für Forschungsdatenmanagement in der Physik, Teilprojekt 6",
+"von": "2025-11-01",
+"bis": "2028-10-31",
+"summe": 405932.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "05D25CG5",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbund 05D2025 - ErUM-IFT-2: Informationsfeldtheorie für Experimente an Großforschungsanlagen - Teilprojekt 8",
+"von": "2025-11-01",
+"bis": "2028-10-31",
+"summe": 283259.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "05D25CG4",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbund 05D2025 - FASTER: Auf dem Weg zu schnellen Feedback-Mechanismen und autonomen Experimenten in der Synchrotron- und Neutronenforschung. Teilprojekt 4",
+"von": "2025-11-01",
+"bis": "2028-10-31",
+"summe": 405932.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20M2113H",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Anwendung von Festphasen-Fügeprozessen bei der Fertigung von H2-Tanks für emissionsfreie Flugzeuge",
+"von": "2022-09-01",
+"bis": "2026-02-28",
+"summe": 800400.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20E2406B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "In-situ Experimente bei tiefen Temperaturen am Synchrotron",
+"von": "2026-03-01",
+"bis": "2029-02-28",
+"summe": 404300.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "281D118C21",
+"ressort": "BMLEH",
+"epl": "10",
+"thema": "Verbundprojekt: Zuckerrübe der Zukunft: Modell- und datenbasierte Ertragsszenarien für eine klimaangepasste Selektion in der Züchtung (Beets4Future) - Teilprojekt C",
+"von": "2023-03-01",
+"bis": "2026-06-30",
+"summe": 170084.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03XP0609B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "COBRA - CO2 basierte Alkoxycarbonylierungsreaktionen",
+"von": "2024-07-01",
+"bis": "2027-06-30",
+"summe": 512840.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13IHS284B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "TrICo - Transformation durch Innovation und Kooperation in Communities, Teilvorhaben Community Nachhaltige Produktion, Helmholtz-Zentrum hereon GmbH",
+"von": "2023-01-01",
+"bis": "2027-06-30",
+"summe": 415912.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03F0950A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "WTZ China: NECO - Naturgefahren und Reaktion des marinen Ökosystems - Kausalzusammenhang und Vorhersagbarkeit",
+"von": "2023-09-01",
+"bis": "2026-08-31",
+"summe": 494064.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03F0954D",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "DAM Extrem: ElbeXtreme - Auswirkungen physikalisch-ozeanographischer Extremereignisse auf Ökosystemdienstleistungen im Elbe-Ästuar-Küstensystem, Vorhaben: Beobachtungen, Modellierung und Dienstleistungen für Stakeholder",
+"von": "2024-01-01",
+"bis": "2026-12-31",
+"summe": 828804.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03F0955C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "DAM Extrem: METAscales - Neue Strategien zur Anpassung an zukünftige physikalisch-ozeanografische Extremszenarien an deutschen Küsten, Vorhaben: Saisonale Vorhersagen, Auswirkungen und Storylines mariner Extremereignisse",
+"von": "2024-01-01",
+"bis": "2026-12-31",
+"summe": 412460.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03G0305TC",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "SO305/2 - E-POLIO: Neue Schadstoffe und Mikroplastik im Oberflächenwasser des Indischen Ozeans, Vorhaben: Luft-Meer-Austausch und atmosphärische Deposition neuartiger organischer Schadstoffe im Indischen Ozean",
+"von": "2024-03-15",
+"bis": "2026-07-31",
+"summe": 30725.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03F0936B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "DAM Schutz und Nutzen: MGF Nordsee - Ausschluss mobiler grundberührender Fischerei in marinen Schutzgebieten der Nordsee, Vorhaben: Benthische Partikeldynamik und Stoffflüsse",
+"von": "2023-03-01",
+"bis": "2026-02-28",
+"summe": 222926.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03F0965C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "DAM Dekarbonisierung-2: RETAKE-2 - CO2-Entnahme durch Alkalinitätserhöhung - Potenzial, Nutzen und Risiken, Vorhaben: Untersuchung regionaler Implikationen, optimaler Ausbringungskonzepte und Umweltfolgen von Alkalinitätserhöhung sowie Simulationen zur Maßnahmenbewertung für die Nordsee",
+"von": "2024-08-01",
+"bis": "2027-07-31",
+"summe": 583946.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03F0980A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "DAM Schutz und Nutzen-2: CoastalFutures-2 - Zukunftsszenarien zur Förderung einer nachhaltigen Nutzung mariner Räume, Leitantrag, Vorhaben: Kumulative anthropogene Eingriffe in das Ökosystem Nordsee im Zusammenhang mit Offshore-Windenergie, Klimawandel, Fischerei und Meeresschutz",
+"von": "2024-12-01",
+"bis": "2027-11-30",
+"summe": 1500181.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03F0973A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Horizont Europa SBEP 1: MEDSEAPLAN - Daten und Szenarien für eine nachhaltige Blaue Wirtschaft im Mittelmeer, Vorhaben: Gestaltung und Umsetzung von Sensorsystemen",
+"von": "2024-07-01",
+"bis": "2027-06-30",
+"summe": 285985.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03F0985A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "JPI-Oceans Lightscapes: ALANIS - Auswirkungen von künstlichem Licht bei Nacht auf pelagische Ökosysteme in europäischen Meeren, Vorhaben: Koordination",
+"von": "2025-07-01",
+"bis": "2028-06-30",
+"summe": 638464.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03F0993A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "SBEP 2 - DTO4OWE: Digital Twins of the Oceans (DTO) für die umfassende Auswirkung der Offshore-Windenergieproduktion auf die Meeresumwelt, Vorhaben: Modellierung und Anwendung von KI-gestützter Berechnungsmethoden",
+"von": "2025-09-01",
+"bis": "2028-08-31",
+"summe": 196989.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "05K24CGA",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Die MATRAC-Schulen 'German-Swedish School on the Application of Neutrons and Synchrotron Radiation in Materials Science' bieten einen systematischen Überblick über die Anwendung von Neutronen und Synchrotronstrahlung bei der Strukturanalyse von Materialien für junge Wissenschaftler aus Forschung und Industrie.",
+"von": "2024-01-01",
+"bis": "2028-12-31",
+"summe": 395545.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "05K26CGA",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt 05K2026 - EveL: Entwicklung neuer und fortschrittlicher 4D-in-situ-Messstrategien für Computer-Tomographie Messungen an Verbundwerkstoffen und metallischen Biomaterialien. Teilprojekt 3.",
+"von": "2026-04-01",
+"bis": "2029-03-31",
+"summe": 421810.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI5252B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: ExtrA - Graswurzelbewegung bei der Energiewende: Die Rolle von Extremereignissen für die gesellschaftliche Akzeptanz nachhaltiger Wärmeversorgung, Teilvorhaben: Hemmnisse und Hebel für die Transformation der Wärmeversorgung in Deutschland aus Sicht von Bürger:innen und Expert:innen",
+"von": "2023-04-01",
+"bis": "2026-09-30",
+"summe": 285793.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20M2452D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Optimierte Festphase-Fügeprozesse für komplexe Geometrien",
+"von": "2026-07-01",
+"bis": "2029-06-30",
+"summe": 450000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SF0740A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben GreenH2Metals: Nachhaltige und kreislauffähige Metalllegierungen zur effizienten und sicheren Speicherung von Wasserstoff für stationäre Anwendungen, Teilvorhaben: Materialsynthese, Charakterisierung und mesoskalige kinetische Simulationen",
+"von": "2024-04-01",
+"bis": "2027-03-31",
+"summe": 866205.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SF0691",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verwendung neuseeländischer Ressourcen zur Entwicklung von TiFe-basierten Wasserstoffspeichermaterialien (NZMat4H2Sto)",
+"von": "2022-08-01",
+"bis": "2026-03-31",
+"summe": 394570.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Theresia Elisabeth Gerndt",
@@ -156,6 +818,11 @@
 "stand": "2026-08-24",
 "etikett": "Eigenangabe",
 "version": 16
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

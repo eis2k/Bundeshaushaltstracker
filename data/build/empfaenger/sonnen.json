@@ -29,7 +29,19 @@
 }
 ],
 "lobby_untergrenze_bund": 50001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EI4068A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: BattLifeBoost - Lebenszyklusverlängerung von bestehenden und zukünftigen stationären Batteriespeichersystemen durch hybride Zustandsprognose, Teilvorhaben: Bestimmung, Prädiktion und Modellierung des SOHs basierend auf Felddaten",
+"von": "2023-10-01",
+"bis": "2026-12-31",
+"summe": 226865.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Oliver Koch",
@@ -134,6 +146,11 @@
 "stand": "2025-09-30",
 "etikett": "Eigenangabe",
 "version": 12
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

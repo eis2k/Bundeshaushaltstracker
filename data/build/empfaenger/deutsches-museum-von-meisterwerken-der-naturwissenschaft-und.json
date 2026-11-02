@@ -30,6 +30,7 @@
 ],
 "lobby_untergrenze_bund": 47360001,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Michael Decker",
@@ -60,7 +61,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/B/baer_dorothee-1043526",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003818/57405",
+"stand": "2025-07-02",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

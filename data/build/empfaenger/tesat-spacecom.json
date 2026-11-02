@@ -37,7 +37,169 @@
 }
 ],
 "lobby_untergrenze_bund": 19300002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "16KISK129K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Nitrid basierte, dispersionsarme, effiziente Millimeterwellenbauelemente für strahlungsfeste Satelliten-Kommunikation Technologie für Übermorgen - Nitrides-4-6G -",
+"von": "2022-11-01",
+"bis": "2026-10-31",
+"summe": 310000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS1723",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Etablierung einer Photonischen Lithiumniobat-Siliziumnitrid-Plattform für die Quantenkommunikation - PoLiSiQ -",
+"von": "2023-03-15",
+"bis": "2026-11-14",
+"summe": 140000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "50EE2424B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben: TRM und unterstützende Technologien, Teilvorhaben: Hardware-Entwicklung",
+"von": "2024-09-01",
+"bis": "2027-03-31",
+"summe": 964828.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "50YH2306",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Entwicklung SCOT20 CPA + Prozesstechnologie",
+"von": "2023-07-01",
+"bis": "2026-04-30",
+"summe": 3183659.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "50YB2209A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben: KI-unterstützter Produktlebenszyklus, Teilvorhaben: Auslegung und Verifikation in einer repräsentativen industriellen Umgebung",
+"von": "2022-10-01",
+"bis": "2027-03-31",
+"summe": 1942655.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "50YH2210A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben: QKD TRansmItter und Protokollmanager, Teilvorhaben: Entwicklung von Labordemonstratoren mit TRL3",
+"von": "2022-10-01",
+"bis": "2027-05-31",
+"summe": 1615810.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "50YB2614",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Evaluation eines SiGe Ka-Band Kanalverstärkers mit Linearisierer zum Nachweis der Raumfahrtfähigkeit",
+"von": "2026-10-01",
+"bis": "2028-11-30",
+"summe": 599089.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "50RK2320A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben: SiGe-Komponentenentwicklung für selbstabgleichende HF-Module in Raumfahrtanwendungen, Teilvorhaben: Ka-Band SiGe-basierter und selbstabgleichender Linearisierer mit Demonstratorverifikation",
+"von": "2023-06-01",
+"bis": "2026-03-31",
+"summe": 983550.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "50RK2100",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Hochvolumige Optische Elemente",
+"von": "2021-08-01",
+"bis": "2026-12-31",
+"summe": 1145978.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "50RK2220A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben: Inter-Satellite V-Band Flüssigkristall Antennen in 3D-Drucktechnologien, Teilvorhaben: Projektleitung und technischer Support",
+"von": "2022-10-01",
+"bis": "2026-03-31",
+"summe": 422065.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "50PS2401D",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: ENSPECT - Enabling New Space Power Electronics, Teilvorhaben: Enabling New Space Power Electronics - TP 4: Tesat-Spacecom GmbH & Co. KG",
+"von": "2024-11-01",
+"bis": "2027-10-31",
+"summe": 213758.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "50YB2605E",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben: Mission zur Technologie- und Anwendungsdemonstration zum Thema 'Künstliche Intelligenz und IoT Technologie mit Satellitenkommunikation im Artenschutz und der Wildtierforschung', Teilvorhaben: In-orbit Demonstration einer Ka-Band High-Gain Patch Antenne für Cubesat Intersatellitenlinks",
+"von": "2026-02-01",
+"bis": "2027-06-30",
+"summe": 743922.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "50YH2606A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben: SCOT30 - Entwicklung und Prozesstechnologie eines kompakten Laserkommunikations-Terminals mit Grobausrichtungseinheit, Teilvorhaben Laserkommunikations-Terminal",
+"von": "2026-05-01",
+"bis": "2027-09-30",
+"summe": 1799061.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "50YB2608",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "DigPA - Digitale Payload Architektur",
+"von": "2026-03-01",
+"bis": "2026-10-31",
+"summe": 79979.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "50YB2610B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben: TUQANS - MMIC Komponenten Entwicklung für militärische Q-Band Kommunikation: Teilvorhaben, Tesat",
+"von": "2026-04-01",
+"bis": "2028-09-30",
+"summe": 229495.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "50LA2601A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben: HETPACS - Heterogene Packaging-Technologien für Space-Anwendungen, Teilvorhaben: Integrations-Demonstrator und Thermalzyklen-Erprobung",
+"von": "2026-02-01",
+"bis": "2028-12-31",
+"summe": 374444.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Rolf Leonhardt",
@@ -121,6 +283,11 @@
 "stand": "2026-07-03",
 "etikett": "Eigenangabe",
 "version": 14
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

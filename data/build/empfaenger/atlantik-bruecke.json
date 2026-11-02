@@ -30,6 +30,7 @@
 ],
 "lobby_untergrenze_bund": 100001,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Sigmar Gabriel",
@@ -87,7 +88,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/H/hakverdi_metin-1044714",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002357/77213",
+"stand": "2026-06-12",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -111,7 +119,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/N/nouripour_omid-1046368",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002357/77213",
+"stand": "2026-06-12",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

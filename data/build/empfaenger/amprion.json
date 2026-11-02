@@ -61,7 +61,49 @@
 }
 ],
 "lobby_untergrenze_bund": 190005,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EI4085B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "ProMetheUs - Probabilisti-sche Methoden für eine sichere Netzbetriebsplanung unter Unsicherheiten, Teilprojekt: Erpro-bung und Bewertung praxistauglicher probabilistischer Methoden für die Netzbetriebsplanung in einem Feldtest",
+"von": "2024-05-01",
+"bis": "2027-04-30",
+"summe": 339556.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI6122A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: SysStab2030 - Systemstabilität durch marktbasierte Systemdienstleistungen und technische Mindestanforderungen an zukünftige elektrische Anlagen, Teilvorhaben: Systemstabilität durch marktbasierte SDL und techn. Mindestanforderungen an zukünftige elektrische Anlagen aus Sicht der Amprion GmbH",
+"von": "2024-07-01",
+"bis": "2027-03-31",
+"summe": 102154.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI4071B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: energy-data-X - Energiedatenraum zum Datenaustausch in Gaia-X, Teilvorhaben: Aufbau und Betrieb eines Energiedatenraums zum Austausch von energiewirtschaftlichen Stamm- und Bewegungsdaten unter Einbindung von intelligenten Messsystemen",
+"von": "2023-10-01",
+"bis": "2026-09-30",
+"summe": 308872.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI4120C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: OWiMO - Offshore Windenergie Wartungsoptimierung, Teilvorhaben: Datenharmonisierung, Feature Engineering und Predictive Maintenance",
+"von": "2026-02-01",
+"bis": "2029-01-31",
+"summe": 286432.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Christoph Müller",
@@ -903,6 +945,11 @@
 "stand": "2026-10-06",
 "etikett": "Eigenangabe",
 "version": 46
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

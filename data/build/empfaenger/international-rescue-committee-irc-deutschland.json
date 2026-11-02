@@ -29,7 +29,7 @@
 },
 {
 "geber": "Bundesministerium für wirtschaftliche Zusammenarbeit (BMZ)",
-"epl": "23",
+"epl": null,
 "von": 7850001,
 "bis": 7860000,
 "zweck": "Projektbezogene Zuwendungen für Entwicklungszusammenarbeit im Ausland",
@@ -86,6 +86,7 @@
 ],
 "lobby_untergrenze_bund": 39400008,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Madlin Sadler",

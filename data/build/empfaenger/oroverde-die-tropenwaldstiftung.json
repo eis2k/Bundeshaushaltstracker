@@ -125,7 +125,19 @@
 }
 ],
 "lobby_untergrenze_bund": 7560013,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "67KF0133B",
+"ressort": "BMUKN",
+"epl": "16",
+"thema": "Verbundprojekt: NKI: ELAN: Entwaldungsfreie Lieferketten - Aktiv für mehr Nachhaltigkeit!",
+"von": "2021-06-01",
+"bis": "2026-02-28",
+"summe": 403113.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Martina Schaub",
@@ -210,6 +222,11 @@
 "stand": "2026-05-20",
 "etikett": "Eigenangabe",
 "version": 15
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

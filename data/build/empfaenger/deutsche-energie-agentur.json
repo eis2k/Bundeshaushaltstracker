@@ -30,6 +30,7 @@
 ],
 "lobby_untergrenze_bund": 1210001,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Corinna Enders",
@@ -453,7 +454,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/K/kellner_michael-1045350",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -479,7 +487,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/K/kleebank_helmut-1045402",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -491,7 +506,7 @@
 "funktion_beim_empfaenger": "Mitglied des Aufsichtsrates, ehrenamtlich (bis 31.08.2025)",
 "kategorie": "Funktionen in Unternehmen",
 "abgleich": "exakt",
-"satz": "Claudia Müller (MdB, Bündnis 90 Die Grünen) ist laut bundestag.de Mitglied des Aufsichtsrates, ehrenamtlich (bis 31.08.2025) bei Deutsche Energie-Agentur GmbH (dena). Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung; Haushaltsausschuss; Verkehrsausschuss. Deutsche Energie-Agentur GmbH (dena) erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Energie (BMWE).",
+"satz": "Claudia Müller (MdB, Bündnis 90 Die Grünen) war laut bundestag.de Mitglied des Aufsichtsrates, ehrenamtlich (bis 31.08.2025) bei Deutsche Energie-Agentur GmbH (dena). Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung; Haushaltsausschuss; Verkehrsausschuss. Deutsche Energie-Agentur GmbH (dena) erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Energie (BMWE).",
 "ausschuesse": [
 "Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung",
 "Haushaltsausschuss",
@@ -504,7 +519,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/M/mueller_claudia-1046228",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -525,7 +547,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/R/rouenhoff_stefan-1046876",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -548,7 +577,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/B/bareiss_thomas-1048368",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003336/86339",
+"stand": "2026-10-14",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

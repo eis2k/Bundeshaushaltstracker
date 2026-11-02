@@ -21,7 +21,7 @@
 "lobby_zuwendungen": [
 {
 "geber": "Bundesrepublik Deutschland, vertreten durch das zuständige Finanzamt",
-"epl": "60",
+"epl": null,
 "von": 760001,
 "bis": 770000,
 "zweck": "Steuerliche Forschungsförderung gemäß Forschungszulagengesetz (FZulG) in Form einer rückwirkenden Körperschaftsteuererstattung für förderfähige Aufwendungen im Rahmen eines anerkannten Forschungs- und Entwicklungsvorhabens.",
@@ -30,6 +30,7 @@
 ],
 "lobby_untergrenze_bund": 760001,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Benny Bennet Jürgens",

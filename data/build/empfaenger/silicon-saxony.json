@@ -37,7 +37,39 @@
 }
 ],
 "lobby_untergrenze_bund": 80002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03ZU1210DB",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "SEMECO: Wirtschaftlicher Transfer und Wissenschaftskommunikation (Q4) - Teilvorhaben B",
+"von": "2023-05-01",
+"bis": "2026-04-30",
+"summe": 48866.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "02L25A083",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Entwicklung eines menschzentrierten, didaktischen und intelligenten Datensystems für ein wertschöpfungs- und kleinserienorientiertes Multi-Cobot-System (MultiDATBot), Teilprojekt: Entwicklung digitaler Lernformate und Aufbau eines Trainingszentrum für berufliche Aus- und Weiterbildung",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 216851.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "02L19C305",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: PerspektiveArbeit Lausitz - Kompetenzzentrum für die Arbeit der Zukunft in Sachsen und Brandenburg (PAL), Teilprojekt: Entwicklung von Meta-Analysen zur KI-spezifischen Kompetenzentwicklung und Ergebnistransfer in die Hightech-Branchen Sachsens und Brandenburgs",
+"von": "2021-11-01",
+"bis": "2027-04-30",
+"summe": 283580.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Frank Schönefeld",
@@ -166,6 +198,11 @@
 "stand": "2026-03-16",
 "etikett": "Eigenangabe",
 "version": 10
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

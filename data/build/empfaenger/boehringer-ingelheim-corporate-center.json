@@ -29,7 +29,19 @@
 }
 ],
 "lobby_untergrenze_bund": 60001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EN2130D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "RAMP - Roboter-assistierte modulare rohrlose Produktion (RAMP), Teilvorhaben: Produktionsnahes Testfeld und Validierung",
+"von": "2025-01-01",
+"bis": "2027-12-31",
+"summe": 184929.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Paola Casarosa",
@@ -332,6 +344,11 @@
 "stand": "2026-07-28",
 "etikett": "Eigenangabe",
 "version": 40
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

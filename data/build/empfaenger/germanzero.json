@@ -37,7 +37,19 @@
 }
 ],
 "lobby_untergrenze_bund": 120002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "67KF0211",
+"ressort": "BMUKN",
+"epl": "16",
+"thema": "NKI: Zukunftsklima: Ehrenamtliche Lokalteams machen kommunale Klimaneutralität praktisch erreichbar",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 1602652.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Albrecht von Sonntag",
@@ -609,6 +621,11 @@
 "stand": "2026-10-21",
 "etikett": "Eigenangabe",
 "version": 19
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

@@ -37,7 +37,7 @@
 },
 {
 "geber": "Bundesministerium für wirtschaftliche Zusammenarbeit",
-"epl": "23",
+"epl": null,
 "von": 130001,
 "bis": 140000,
 "zweck": "Fördermittel zur Durchführung von Entsendungen im Programm Weltwärts",
@@ -46,6 +46,7 @@
 ],
 "lobby_untergrenze_bund": 960003,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Martin Schulze",

@@ -21,7 +21,7 @@
 "lobby_zuwendungen": [
 {
 "geber": "Deutsches Zentrum für Luft- und Raumfahrt e.V.",
-"epl": "30",
+"epl": null,
 "von": 40001,
 "bis": 50000,
 "zweck": "Zuwendung aus Bundeshaushalt unter dem Programm \"Digital Jetzt - Investitionsförderung für KMU\" für die Weiterentwicklung und die Anschaffung neuer Module zum DMS + CRM, sowie der Einführung eines kaufmännischen Reportingtools.",
@@ -30,6 +30,7 @@
 ],
 "lobby_untergrenze_bund": 40001,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Carsten Helmut Paatsch",

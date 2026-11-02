@@ -38,6 +38,7 @@
 ],
 "lobby_untergrenze_bund": 1980002,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Heidemarie Haeske-Seeberg",
@@ -106,7 +107,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/S/schwartze_stefan-1047344",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002644/82500",
+"stand": "2026-07-14",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

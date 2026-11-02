@@ -157,7 +157,79 @@
 }
 ],
 "lobby_untergrenze_bund": 2130017,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "16KIS2181",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Quantenrepeater.Net - QR.N -",
+"von": "2025-01-01",
+"bis": "2027-12-31",
+"summe": 144072.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS2240",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Sustainable Technologies for Advanced Resilient and Energy-Efficient Networks - Guided utilities for automation, resilience, and Digital innovation in advanced networks - SUSTAINET-guarDian -",
+"von": "2025-01-01",
+"bis": "2027-12-31",
+"summe": 750721.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS2396K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: KI Operations in 6G Netzen - KIOps6G -",
+"von": "2025-12-01",
+"bis": "2028-11-30",
+"summe": 370846.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01MN23002B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Green-Streaming - Technologien für eine nachhaltige Wertschöpfungskette digitaler Medien, Teilvorhaben: Energieverbrauchsoptimierung der Streaming-Wirkkette",
+"von": "2023-05-01",
+"bis": "2026-07-31",
+"summe": 308163.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS2524",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: SENSing demonstriert anhand echter ApplikaTIONen - SENSATION -",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 328169.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS2601K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Quantum Secure Transmission, Authentication, Resilience & Sensing - Q-STARS -",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 361521.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS2717",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: 3D-Netzwerke für 6G Mobilfunk Anwendungen - 3D-NET -",
+"von": "2026-06-01",
+"bis": "2029-05-31",
+"summe": 126540.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Timotheus Höttges",
@@ -410,7 +482,7 @@
 "funktion_beim_empfaenger": "Vergünstigter Telekomvertrag mit Smartphone für Mitarbeiter der Deutsche Telekom AG",
 "kategorie": "Vereinbarungen über künftige Tätigkeiten oder Vermögensvorteile",
 "abgleich": "exakt",
-"satz": "Matthias David Mieves (MdB, SPD) ist laut bundestag.de Vergünstigter Telekomvertrag mit Smartphone für Mitarbeiter der Deutsche Telekom AG bei Deutsche Telekom AG. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Digitales und Staatsmodernisierung; Ausschuss für Gesundheit; Verkehrsausschuss. Deutsche Telekom AG erhielt laut Lobbyregister Mittel von: Bundesministerium für Digitales und Staatsmodernisierung; Bundesministerium für Forschung, Technologie und Raumfahrt; Bundesministerium für Wirtschaft und Energie.",
+"satz": "Matthias David Mieves (MdB, SPD) hat laut bundestag.de eine Vereinbarung mit Deutsche Telekom AG angezeigt: „Vergünstigter Telekomvertrag mit Smartphone für Mitarbeiter der Deutsche Telekom AG“. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Digitales und Staatsmodernisierung; Ausschuss für Gesundheit; Verkehrsausschuss. Deutsche Telekom AG erhielt laut Lobbyregister Mittel von: Bundesministerium für Digitales und Staatsmodernisierung; Bundesministerium für Forschung, Technologie und Raumfahrt; Bundesministerium für Wirtschaft und Energie.",
 "ausschuesse": [
 "Ausschuss für Digitales und Staatsmodernisierung",
 "Ausschuss für Gesundheit",
@@ -425,7 +497,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/M/mieves_matthias-1046124",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R002346/87792",
+"stand": "2026-10-20",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -467,6 +546,11 @@
 "stand": "2026-10-20",
 "etikett": "Eigenangabe",
 "version": 39
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 },
 {
 "kurz": "bundestag.de",

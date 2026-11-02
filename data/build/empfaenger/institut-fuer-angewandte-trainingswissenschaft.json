@@ -16,42 +16,6 @@
 "epl": "06",
 "epl_text": "Bundesministerium des Innern",
 "werte": {
-"2015": {
-"soll": 15600000,
-"ist": 15600000
-},
-"2016": {
-"soll": 15600000,
-"ist": 15600000
-},
-"2017": {
-"soll": 15600000,
-"ist": 15600000
-},
-"2018": {
-"soll": 19190000,
-"ist": 19190000
-},
-"2019": {
-"soll": 16300000,
-"ist": 16300000
-},
-"2020": {
-"soll": 16980000,
-"ist": 16980000
-},
-"2021": {
-"soll": 16580000,
-"ist": 16580000
-},
-"2022": {
-"soll": 19820000,
-"ist": 19820000
-},
-"2023": {
-"soll": 21215000,
-"ist": 21215000
-},
 "2024": {
 "soll": 22600000,
 "ist": 22600000
@@ -67,6 +31,7 @@
 "lobby_zuwendungen": [],
 "lobby_untergrenze_bund": 0,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [],
 "verbindungen": [],
 "pflichtangaben": null,

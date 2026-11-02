@@ -32,18 +32,6 @@
 "ist": 490000
 }
 }
-},
-{
-"id": "07-0701-68407",
-"text": "Zuschuss an die Bundesarbeitsgemeinschaft Schuldnerberatung e. V.",
-"epl": "07",
-"epl_text": "Bundesministerium der Justiz und für Verbraucherschutz",
-"werte": {
-"2026": {
-"soll": 490000,
-"ist": null
-}
-}
 }
 ]
 },
@@ -59,6 +47,7 @@
 ],
 "lobby_untergrenze_bund": 440001,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Thomas Seethaler",

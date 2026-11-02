@@ -1,0 +1,68 @@
+{
+"id": "forschung-an-fachhochschulen-hochschulen-fuer-angewandte-wis",
+"name": "Forschung an Fachhochschulen, Hochschulen für angewandte Wissenschaften",
+"art": "forschung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "30-3004-68511",
+"text": "Forschung an Fachhochschulen, Hochschulen für angewandte Wissenschaften",
+"epl": "30",
+"epl_text": "Bundesministerium für Bildung und Forschung",
+"werte": {
+"2015": {
+"soll": 45880000,
+"ist": 42879057
+},
+"2016": {
+"soll": 48000000,
+"ist": 44081128
+},
+"2017": {
+"soll": 55000000,
+"ist": 55000000
+},
+"2018": {
+"soll": 56000000,
+"ist": 55976631
+},
+"2019": {
+"soll": 56000000,
+"ist": 50591967
+},
+"2020": {
+"soll": 70000000,
+"ist": 62712073
+},
+"2021": {
+"soll": 75000000,
+"ist": 68781184
+},
+"2022": {
+"soll": 75000000,
+"ist": 66024566
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

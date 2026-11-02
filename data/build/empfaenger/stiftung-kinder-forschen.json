@@ -62,6 +62,7 @@
 ],
 "lobby_untergrenze_bund": 13320005,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Tobias Ernst",
@@ -105,7 +106,7 @@
 "funktion_beim_empfaenger": "Mitglied des Stiftungsrates, ehrenamtlich (bis 19.03.2026)",
 "kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
 "abgleich": "exakt",
-"satz": "Dr. Wiebke Esdar (MdB, SPD) ist laut bundestag.de Mitglied des Stiftungsrates, ehrenamtlich (bis 19.03.2026) bei Stiftung Kinder forschen. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung; Ausschuss für Kultur und Medien; Finanzen; Haushaltsausschuss. Stiftung Kinder forschen erhielt laut Lobbyregister Mittel von: Bundesministerium für Bildung und Forschung.",
+"satz": "Dr. Wiebke Esdar (MdB, SPD) war laut bundestag.de Mitglied des Stiftungsrates, ehrenamtlich (bis 19.03.2026) bei Stiftung Kinder forschen. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung; Ausschuss für Kultur und Medien; Finanzen; Haushaltsausschuss. Stiftung Kinder forschen erhielt laut Lobbyregister Mittel von: Bundesministerium für Bildung und Forschung.",
 "ausschuesse": [
 "Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung",
 "Ausschuss für Kultur und Medien",
@@ -119,7 +120,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/E/esdar_wiebke-1044222",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005776/80109",
+"stand": "2026-07-06",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -143,7 +151,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/A/asghari_reza-1086638",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R005776/80109",
+"stand": "2026-07-06",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

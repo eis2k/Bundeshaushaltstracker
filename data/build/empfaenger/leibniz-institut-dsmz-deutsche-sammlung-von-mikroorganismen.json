@@ -29,7 +29,7 @@
 },
 {
 "geber": "Bund/Land/EU/DFG und andere",
-"epl": "60",
+"epl": null,
 "von": 3780001,
 "bis": 3790000,
 "zweck": "Drittmittel inkl. Bund-Land",
@@ -37,7 +37,19 @@
 }
 ],
 "lobby_untergrenze_bund": 10310002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "281D124C21",
+"ressort": "BMLEH",
+"epl": "10",
+"thema": "Verbundprojekt: Sicherung von qualitativ hochwertigem, gesundem Heidelbeervermehrungsgut durch Identifizierung der Ursache der 'Off-Types' (HeiNO) - Teilprojekt C",
+"von": "2023-03-01",
+"bis": "2026-10-31",
+"summe": 47857.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Yvonne Mast",
@@ -98,6 +110,11 @@
 "stand": "2026-07-17",
 "etikett": "Eigenangabe",
 "version": 14
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

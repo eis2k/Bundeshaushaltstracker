@@ -30,6 +30,7 @@
 ],
 "lobby_untergrenze_bund": 90001,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Macit Karaahmetoğlu",
@@ -130,7 +131,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/L/limburg_helge-1045826",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003792/70187",
+"stand": "2026-01-15",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -155,7 +163,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/P/plum_martin-1046564",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003792/70187",
+"stand": "2026-01-15",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

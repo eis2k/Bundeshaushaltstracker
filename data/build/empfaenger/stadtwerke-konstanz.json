@@ -45,7 +45,19 @@
 }
 ],
 "lobby_untergrenze_bund": 1270003,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EI6127C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "DIGO 2.0 - Distribution Grid Optimization 2.0, Teilprojekt: Intelligente Stromnetze für Konstanz",
+"von": "2025-01-01",
+"bis": "2028-12-31",
+"summe": 706968.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Norbert Reuter",
@@ -107,6 +119,11 @@
 "stand": "2026-08-03",
 "etikett": "Eigenangabe",
 "version": 7
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

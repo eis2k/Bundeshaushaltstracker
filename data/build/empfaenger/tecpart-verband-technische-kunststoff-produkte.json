@@ -29,7 +29,19 @@
 }
 ],
 "lobby_untergrenze_bund": 60001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "02L22C211",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Kompetenzen Aufbauen für die Kreislaufwirtschaft von Kunststoffen (KARE), Teilprojekt: Identifikation von Bedarfen bei der kreislauforientierten Arbeitsgestaltung und Ableitung von Qualifikationsmaßnahmen",
+"von": "2023-10-01",
+"bis": "2028-09-30",
+"summe": 307656.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Michael Weigelt",
@@ -214,6 +226,11 @@
 "stand": "2026-08-20",
 "etikett": "Eigenangabe",
 "version": 10
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

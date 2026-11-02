@@ -29,7 +29,49 @@
 }
 ],
 "lobby_untergrenze_bund": 590001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EI6119E",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: kurSyV - Kurative Systemführung im Verteilnetz, Teilvorhaben: Ent-wicklung und Vorbereitung kurativer Systemführungsmaßnahmen für die Umsetzung in 110-kV-Netzen",
+"von": "2024-05-01",
+"bis": "2027-04-30",
+"summe": 92527.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI3110A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "HydroNet - Klimaschutzmodellregion Sauerland - Teilvorhaben: Aufbau der Infrastruktur für ein Wasserstoff-/Biogas-Leitungsnetz",
+"von": "2024-10-01",
+"bis": "2029-09-30",
+"summe": 2924511.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI4072D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: KlimaNetz - Auswirkungen des Klimawandels auf Planung und Betrieb von Verteilnetzen, Teilvorhaben: Ableitung von Handlungsempfehlungen für die Planung und den Betrieb resilienter Verteilnetze gegen die Extremwetterereignisse Starkregen, Sturm und Gewitter",
+"von": "2023-08-01",
+"bis": "2026-07-31",
+"summe": 184362.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI6123A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: SUREVIVE - Stabilitäts-Versuche zur Momentanreserve-Erbringung aus Verteilnetz-Anlagen, Teilvorhaben: Durchführung von Feldtests und Ableitung von Konzepten, Werkzeugen und eines Best Practice Guide für die stabile, interoperable und sichere Netzintegration netzbildender Wechselrichter",
+"von": "2024-07-01",
+"bis": "2028-06-30",
+"summe": 939483.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Alexander Montebaur",
@@ -134,6 +176,11 @@
 "stand": "2026-09-10",
 "etikett": "Eigenangabe",
 "version": 11
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

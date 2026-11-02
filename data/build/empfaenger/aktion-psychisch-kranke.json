@@ -115,6 +115,7 @@
 ],
 "lobby_untergrenze_bund": 900005,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Kirsten Kappert-Gonther",
@@ -568,7 +569,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/K/kappert_gonther_kirsten-1045310",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"stand": "2026-10-23",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -594,7 +602,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/R/reddig_pascal-1046704",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001970/87959",
+"stand": "2026-10-23",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

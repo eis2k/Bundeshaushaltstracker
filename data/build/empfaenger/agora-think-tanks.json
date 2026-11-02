@@ -37,7 +37,19 @@
 }
 ],
 "lobby_untergrenze_bund": 1260002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EWT001E",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben Trans4ReaL: Wissenschaftliche Transferforschung für Reallabore zu Sektorkopplung und Wasserstofftechnologien, Teilvorhaben: Umfeld, Wissenstransfer, Handlungsoptionen",
+"von": "2021-04-01",
+"bis": "2026-03-31",
+"summe": 750728.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Markus Steigenberger",
@@ -723,6 +735,11 @@
 "stand": "2026-10-19",
 "etikett": "Eigenangabe",
 "version": 100
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

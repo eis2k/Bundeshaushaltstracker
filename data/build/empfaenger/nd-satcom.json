@@ -21,7 +21,7 @@
 "lobby_zuwendungen": [
 {
 "geber": "Deutsches Zentrum für Luft- und Raumfahrt (DLR)",
-"epl": "30",
+"epl": null,
 "von": 140001,
 "bis": 150000,
 "zweck": "Performanceverbesserung von Internetprotokollen und Anwendungen für geostationäre Satellitenverbindungen (Quality of Service), Untersuchung neuer Protokolle und Technologien, Implementierung und Standardisierung",
@@ -38,6 +38,7 @@
 ],
 "lobby_untergrenze_bund": 150002,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Alexander Müller-Gastell",

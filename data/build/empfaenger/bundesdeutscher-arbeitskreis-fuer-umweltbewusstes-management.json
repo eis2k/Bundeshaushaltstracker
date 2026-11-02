@@ -46,6 +46,7 @@
 ],
 "lobby_untergrenze_bund": 180003,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Yvonne Zwick",
@@ -144,7 +145,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/T/traeger_carsten-1047782",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001563/87911",
+"stand": "2026-10-22",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

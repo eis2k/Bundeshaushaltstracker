@@ -1,0 +1,60 @@
+{
+"id": "baukostenzuschuss-an-deutsche-raumfahrtausstellung-e-v-zur-k",
+"name": "Baukostenzuschuss an Deutsche Raumfahrtausstellung e. V. zur Kapazitätserweiterung",
+"art": "verein_stiftung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "12-1205-89301",
+"text": "Baukostenzuschuss an Deutsche Raumfahrtausstellung e. V. zur Kapazitätserweiterung",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr",
+"werte": {
+"2020": {
+"soll": 3200000,
+"ist": 300000
+},
+"2021": {
+"soll": 0,
+"ist": 0
+},
+"2022": {
+"soll": 300000,
+"ist": 550000
+},
+"2023": {
+"soll": 500000,
+"ist": 400000
+},
+"2024": {
+"soll": 500000,
+"ist": 1600000
+},
+"2025": {
+"soll": 0,
+"ist": 1500000
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

@@ -53,7 +53,39 @@
 }
 ],
 "lobby_untergrenze_bund": 410004,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "13N17702",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Proaktive Versorgungssicherheit durch dynamische Simulation mit selbstlernenden LLM-Agenten (PROVIDER) - Teilvorhaben: Data Engineering und Szenarien",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 410059.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N124270B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Quantum Read-Once-Memory - Verwandlung von klassischen Daten zu Quantenzuständen - Teilvorhaben: Quantum Market Potentials (QMPs)",
+"von": "2025-01-01",
+"bis": "2027-12-31",
+"summe": 303332.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16IS26032B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "ITEA24: Intelligente Entscheidungsunterstützung für den Mittelstand (Excellent-AI)",
+"von": "2026-05-01",
+"bis": "2029-04-30",
+"summe": 813599.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Robert Mayr",
@@ -156,7 +188,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/G/guentzler_fritz-1044656",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R003153/84915",
+"stand": "2026-08-20",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -197,6 +236,11 @@
 "stand": "2026-08-20",
 "etikett": "Eigenangabe",
 "version": 18
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 },
 {
 "kurz": "bundestag.de",

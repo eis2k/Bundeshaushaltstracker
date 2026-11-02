@@ -37,7 +37,39 @@
 }
 ],
 "lobby_untergrenze_bund": 250002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "16KIS2270",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Meta-Consent Framework for Responsible Patient-Centered Health Data Disclosure - EMPOWER-U -",
+"von": "2025-01-01",
+"bis": "2027-12-31",
+"summe": 91536.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03GW0693A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Industrie-in-Klinik-Plattform INVENTOR - Modellvorhaben: Multimodale Planung & OP-Unterstützung für die funktionelle Gesichtsrekonstruktion (ReFACE) - Teilvorhaben: Entwicklung einer KI-unterstützten, teilautomatisierten Planungssoftware für die Knochenrekonstruktion bei komplexen Gesichts- und Schädeltraumata",
+"von": "2024-04-01",
+"bis": "2027-03-31",
+"summe": 694237.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03GW0730A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Intelligente Tumorverfolgung für die Strahlentherapie (INSIGHT) - Teilvorhaben: Entwicklung der erweiterten Röntgenkomponente des ETD Systems im Hinblick auf Tumordetektion im Weichteilgewebe",
+"von": "2024-06-01",
+"bis": "2027-05-31",
+"summe": 707262.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Rainer Birkenbach",
@@ -142,6 +174,11 @@
 "stand": "2026-03-27",
 "etikett": "Eigenangabe",
 "version": 17
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

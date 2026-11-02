@@ -61,7 +61,49 @@
 }
 ],
 "lobby_untergrenze_bund": 410005,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EI6122B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: SysStab2030 - Systemstabilität durch marktbasierte Systemdienstleistungen und technische Mindestanforderungen an zukünftige elektrische Anlagen, Teilvorhaben: Systemstabilität durch marktbasierte SDL und techn. Mindestanforderungen an zukünftige elektrische Anlagen aus Sicht der TransnetBW GmbH",
+"von": "2024-07-01",
+"bis": "2027-03-31",
+"summe": 100969.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13MX011B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Verknüpfung von Datenökosystemen für die Anbindung von Flexibilitäten an Netzstrukturen (DataFleX) - Teilvorhaben: Modellregion Baden-Württemberg: Vernetzte Datenökosysteme für Redispatch 3.0 Abrufe",
+"von": "2025-10-01",
+"bis": "2027-01-31",
+"summe": 683759.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI4083D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: RESILIENT - Resiliente Energieinfrastrukturplanung für Industriewende, E-Fuels und Netzausbau, Teilvorhaben: Netzplanung unter unsicherem Industriewandel in Deutschland",
+"von": "2023-12-01",
+"bis": "2027-05-31",
+"summe": 94552.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI6142C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: SkIES - Skalierbare Integration von Energy Sharing, Teilvorhaben: Digitale Integration'",
+"von": "2025-09-01",
+"bis": "2028-08-31",
+"summe": 146820.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Werner Götz",
@@ -829,6 +871,11 @@
 "stand": "2026-10-05",
 "etikett": "Eigenangabe",
 "version": 34
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

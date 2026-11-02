@@ -16,18 +16,6 @@
 "epl": "17",
 "epl_text": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
 "werte": {
-"2015": {
-"soll": 51000000,
-"ist": 50497051
-},
-"2016": {
-"soll": 51000000,
-"ist": 48315499
-},
-"2017": {
-"soll": 51000000,
-"ist": 49299045
-},
 "2018": {
 "soll": 51000000,
 "ist": 49008472
@@ -71,6 +59,7 @@
 "lobby_zuwendungen": [],
 "lobby_untergrenze_bund": 0,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [],
 "verbindungen": [],
 "pflichtangaben": null,

@@ -21,7 +21,7 @@
 "lobby_zuwendungen": [
 {
 "geber": "Deutsches Zentrum für Luft- und Raumfahrt e.V.",
-"epl": "30",
+"epl": null,
 "von": 360001,
 "bis": 370000,
 "zweck": "Kollektive Modelle zur Förderung der Biodiversität / Bundesprogramm Biologische Vielfalt (KoMBI), Teilvorhaben: Kommunikation in der Praxis",
@@ -110,6 +110,7 @@
 ],
 "lobby_untergrenze_bund": 2380011,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Hubertus Paetow",

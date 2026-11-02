@@ -1,0 +1,92 @@
+{
+"id": "zuschuesse-zur-errichtung-eines-museums-fuer-die-kunst-des-2",
+"name": "Zuschüsse zur Errichtung eines Museums für die Kunst des 20. Jahrhunderts",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "04-0405-89434",
+"text": "Zuschüsse zur Errichtung eines Museums für die Kunst des 20. Jahrhunderts",
+"epl": "04",
+"epl_text": "Bundeskanzlerin und Bundeskanzleramt",
+"werte": {
+"2015": {
+"soll": 0,
+"ist": 72000
+}
+}
+},
+{
+"id": "04-0452-89434",
+"text": "Zuschüsse zur Errichtung des Museums Neue Nationalgalerie - Museum des 20. Jahrhunderts\"\"",
+"epl": "04",
+"epl_text": "Bundeskanzler und Bundeskanzleramt",
+"werte": {
+"2016": {
+"soll": 0,
+"ist": 2905376
+},
+"2017": {
+"soll": 3400000,
+"ist": 297620
+},
+"2018": {
+"soll": 1000000,
+"ist": 5951600
+},
+"2019": {
+"soll": 10000000,
+"ist": 8707000
+},
+"2020": {
+"soll": 11877000,
+"ist": 9949000
+},
+"2021": {
+"soll": 25000000,
+"ist": 17767228
+},
+"2022": {
+"soll": 26750000,
+"ist": 19200000
+},
+"2023": {
+"soll": 47100000,
+"ist": 15000000
+},
+"2024": {
+"soll": 69000000,
+"ist": 34700000
+},
+"2025": {
+"soll": 77000000,
+"ist": 31900000
+},
+"2026": {
+"soll": 72000000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

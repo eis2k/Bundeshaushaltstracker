@@ -46,6 +46,7 @@
 ],
 "lobby_untergrenze_bund": 250003,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Henning Ellermann",
@@ -330,7 +331,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/A/alhamwi_alaa-1043402",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000255/86521",
+"stand": "2026-10-05",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -355,7 +363,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/H/helfrich_mark-1044862",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000255/86521",
+"stand": "2026-10-05",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -380,7 +395,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/V/verlinden_julia-1047856",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000255/86521",
+"stand": "2026-10-05",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -407,7 +429,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/L/lenz_andreas-1048878",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000255/86521",
+"stand": "2026-10-05",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

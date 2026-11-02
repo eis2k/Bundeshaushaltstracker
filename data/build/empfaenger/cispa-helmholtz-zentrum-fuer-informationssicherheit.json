@@ -21,7 +21,7 @@
 "lobby_zuwendungen": [
 {
 "geber": "Bundesrepublik Deutschland - BMBF/BMFTR, BMWi, BMWK, BMDV",
-"epl": "60",
+"epl": null,
 "von": 53220001,
 "bis": 53230000,
 "zweck": "1. Institutionelle Förderung 2. Nachstehende Projektförderung des BMBF/BMFTR: - CISPA-Stanford Center for Cybersecurity - CISPA-Gründungsinkubator für Startups im IT-Sicherheitsbereich - Folgende Projekte: KMU FUZZ (AZA), CPSec (AZA), UbiTrans (AZA), PriSyn (AZA), PrivateAIM, ASRIOT, KMU-FUZZ, UbiTrans, CPSec, AlgenCY, ILLUMINATION, InputLab, Aletheia, FUZZWARE, SiSWiss 3. Nachstehende Projektförderung des BMWi: Folgende Projekte: Kamaeleon, VoloSTREAM 4. Nachstehende Projektförderung des BMWK: Folgendes Projekt: ProSeCA 5. Nachstehende Projektförderung des BMDV: Folgendes Projekt: CYPHER-AV,",
@@ -46,6 +46,7 @@
 ],
 "lobby_untergrenze_bund": 54770003,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Michael Backes",

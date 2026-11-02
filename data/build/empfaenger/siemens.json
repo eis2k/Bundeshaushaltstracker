@@ -45,7 +45,7 @@
 },
 {
 "geber": "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)",
-"epl": "30",
+"epl": null,
 "von": 150001,
 "bis": 160000,
 "zweck": "Forschungs- und Entwicklungsprojekte. Details können dem Förderkatalog der Bundesregierung entnommen werden: https://foerderportal.bund.de/foekat/jsp/SucheAction.do?actionMode=searchmask (Zuwendungsempfänger = Siemens Aktiengesellschaft)",
@@ -94,6 +94,7 @@
 ],
 "lobby_untergrenze_bund": 36620009,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Roland Busch",

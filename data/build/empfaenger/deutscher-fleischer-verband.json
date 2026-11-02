@@ -30,6 +30,7 @@
 ],
 "lobby_untergrenze_bund": 30001,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Herbert Dohrmann",
@@ -177,7 +178,7 @@
 "funktion_beim_empfaenger": "Vizepräsidentin, ehrenamtlich (bis 19.10.2025)",
 "kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
 "abgleich": "exakt",
-"satz": "Nora Seitz (MdB, CDU/CSU) ist laut bundestag.de Vizepräsidentin, ehrenamtlich (bis 19.10.2025) bei Deutscher Fleischer-Verband e.V.. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Arbeit und Soziales; Ausschuss für Gesundheit; Ausschuss für Kultur und Medien; Ausschuss für Landwirtschaft, Ernährung und Heimat. Deutscher Fleischer-Verband e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Energie.",
+"satz": "Nora Seitz (MdB, CDU/CSU) war laut bundestag.de Vizepräsidentin, ehrenamtlich (bis 19.10.2025) bei Deutscher Fleischer-Verband e.V.. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Arbeit und Soziales; Ausschuss für Gesundheit; Ausschuss für Kultur und Medien; Ausschuss für Landwirtschaft, Ernährung und Heimat. Deutscher Fleischer-Verband e.V. erhielt laut Lobbyregister Mittel von: Bundesministerium für Wirtschaft und Energie.",
 "ausschuesse": [
 "Ausschuss für Arbeit und Soziales",
 "Ausschuss für Gesundheit",
@@ -191,7 +192,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/S/seitz_nora-1047392",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004605/85699",
+"stand": "2026-09-24",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

@@ -1,0 +1,84 @@
+{
+"id": "beitraege-an-verschiedene-organisationen",
+"name": "Beiträge an verschiedene Organisationen",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "06-0611-68720",
+"text": "Beiträge an verschiedene Organisationen",
+"epl": "06",
+"epl_text": "Bundesministerium des Innern",
+"werte": {
+"2015": {
+"soll": 338000,
+"ist": 326442
+},
+"2016": {
+"soll": 332000,
+"ist": 319572
+},
+"2017": {
+"soll": 347000,
+"ist": 331006
+},
+"2018": {
+"soll": 325000,
+"ist": 318791
+},
+"2019": {
+"soll": 326000,
+"ist": 336702
+},
+"2020": {
+"soll": 557000,
+"ist": 552915
+},
+"2021": {
+"soll": 571000,
+"ist": 565208
+},
+"2022": {
+"soll": 620000,
+"ist": 614616
+},
+"2023": {
+"soll": 672000,
+"ist": 655504
+},
+"2024": {
+"soll": 701000,
+"ist": 644077
+},
+"2025": {
+"soll": 796000,
+"ist": 775763
+},
+"2026": {
+"soll": 787000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

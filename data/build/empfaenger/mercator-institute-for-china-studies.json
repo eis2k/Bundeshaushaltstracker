@@ -37,7 +37,29 @@
 }
 ],
 "lobby_untergrenze_bund": 620002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "01DO24001",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "China Technologie-Radar",
+"von": "2024-05-01",
+"bis": "2027-04-30",
+"summe": 460615.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01DO25004",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Chinas Nutzung ziviler Forschung fürs Militär: Auswirkungen für Europa",
+"von": "2025-11-01",
+"bis": "2028-02-28",
+"summe": 455094.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Mikko Huotari",
@@ -166,6 +188,11 @@
 "stand": "2026-06-29",
 "etikett": "Eigenangabe",
 "version": 16
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

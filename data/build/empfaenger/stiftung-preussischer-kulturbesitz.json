@@ -68,38 +68,6 @@
 "epl": "04",
 "epl_text": "Bundeskanzler und Bundeskanzleramt",
 "werte": {
-"2016": {
-"soll": 106208000,
-"ist": 106208000
-},
-"2017": {
-"soll": 136208000,
-"ist": 135679849
-},
-"2018": {
-"soll": 126208000,
-"ist": 126242257
-},
-"2019": {
-"soll": 126208000,
-"ist": 126241088
-},
-"2020": {
-"soll": 106208000,
-"ist": 106240051
-},
-"2021": {
-"soll": 106208000,
-"ist": 106236877
-},
-"2022": {
-"soll": 106208000,
-"ist": 106235047
-},
-"2023": {
-"soll": 114208000,
-"ist": 114208000
-},
 "2024": {
 "soll": 106208000,
 "ist": 106208000
@@ -131,6 +99,7 @@
 "lobby_zuwendungen": [],
 "lobby_untergrenze_bund": 0,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [],
 "verbindungen": [],
 "pflichtangaben": null,

@@ -38,6 +38,7 @@
 ],
 "lobby_untergrenze_bund": 1390002,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Angela Bähr",
@@ -138,7 +139,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/A/abdi_sanae-1043330",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000985/83165",
+"stand": "2026-09-30",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -165,7 +173,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/B/beek_sascha-1043614",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000985/83165",
+"stand": "2026-09-30",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -191,7 +206,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/H/heinrich_gabriela-1044842",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000985/83165",
+"stand": "2026-09-30",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -216,7 +238,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/K/kaminski_maren-1045282",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000985/83165",
+"stand": "2026-09-30",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -228,7 +257,7 @@
 "funktion_beim_empfaenger": "Mitglied des Parlamentarischen Beirates für Bevölkerung & Entwicklung, ehrenamtlich (bis 16.06.2025)",
 "kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
 "abgleich": "exakt",
-"satz": "Dr. Georg Kippels (MdB, CDU/CSU) ist laut bundestag.de Mitglied des Parlamentarischen Beirates für Bevölkerung & Entwicklung, ehrenamtlich (bis 16.06.2025) bei Deutsche Stiftung Weltbevölkerung (DSW). Deutsche Stiftung Weltbevölkerung (DSW) erhielt laut Lobbyregister Mittel von: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ).",
+"satz": "Dr. Georg Kippels (MdB, CDU/CSU) war laut bundestag.de Mitglied des Parlamentarischen Beirates für Bevölkerung & Entwicklung, ehrenamtlich (bis 16.06.2025) bei Deutsche Stiftung Weltbevölkerung (DSW). Deutsche Stiftung Weltbevölkerung (DSW) erhielt laut Lobbyregister Mittel von: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ).",
 "ausschuesse": [],
 "geld_aus": [
 "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)"
@@ -237,7 +266,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/K/kippels_georg-1045390",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000985/83165",
+"stand": "2026-09-30",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -261,7 +297,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/S/schauws_ulle-1047018",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000985/83165",
+"stand": "2026-09-30",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -289,7 +332,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/S/schulze_svenja-1047308",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000985/83165",
+"stand": "2026-09-30",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

@@ -29,7 +29,29 @@
 }
 ],
 "lobby_untergrenze_bund": 50001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "VB2519C",
+"ressort": "BMV",
+"epl": "12",
+"thema": "CCB4U - Entwicklung eines modularen, digitalen Anwendungssystem zur operativen, strategischen und organisatorischen Bewertung und Integration von gewerblichen Lastenrädern bei mittelständischen Logistikdienstleistern",
+"von": "2025-12-01",
+"bis": "2027-05-31",
+"summe": 35764.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "VB2516C",
+"ressort": "BMV",
+"epl": "12",
+"thema": "RadiW - Das Rad im Wirtschaftsverkehr: Vom Konzept zur Anwendung.",
+"von": "2025-12-01",
+"bis": "2027-11-30",
+"summe": 64252.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Ernst Brust",
@@ -102,6 +124,11 @@
 "stand": "2026-10-09",
 "etikett": "Eigenangabe",
 "version": 13
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

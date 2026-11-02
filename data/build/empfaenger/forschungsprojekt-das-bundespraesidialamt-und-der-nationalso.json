@@ -1,0 +1,56 @@
+{
+"id": "forschungsprojekt-das-bundespraesidialamt-und-der-nationalso",
+"name": "Forschungsprojekt: Das Bundespräsidialamt und der Nationalsozialismus",
+"art": "forschung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "01-0112-68501",
+"text": "Forschungsprojekt: Das Bundespräsidialamt und der Nationalsozialismus",
+"epl": "01",
+"epl_text": "Bundespräsident und Bundespräsidialamt",
+"werte": {
+"2020": {
+"soll": 350000,
+"ist": 139471
+},
+"2021": {
+"soll": 350000,
+"ist": 268359
+},
+"2022": {
+"soll": 350000,
+"ist": 125094
+},
+"2023": {
+"soll": 0,
+"ist": 0
+},
+"2024": {
+"soll": 0,
+"ist": 0
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

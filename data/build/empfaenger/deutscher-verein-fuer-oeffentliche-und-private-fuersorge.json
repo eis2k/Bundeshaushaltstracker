@@ -46,6 +46,7 @@
 ],
 "lobby_untergrenze_bund": 5240003,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Verena Staats",
@@ -192,7 +193,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/F/fischer_simone-1044328",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001291/86389",
+"stand": "2026-09-24",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -216,7 +224,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/N/nacke_stefan-1046276",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001291/86389",
+"stand": "2026-09-24",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -241,7 +256,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/R/rietenberg_sylvia-1046792",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001291/86389",
+"stand": "2026-09-24",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

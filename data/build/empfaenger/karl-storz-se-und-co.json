@@ -45,7 +45,29 @@
 }
 ],
 "lobby_untergrenze_bund": 120003,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03FHP205B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "HFU Pro Prof: Professionalisierung der Rekrutierung professoralen Personals an der HFU - Teilvorhaben Karl Storz SE & Co. KG",
+"von": "2024-04-01",
+"bis": "2028-03-31",
+"summe": 86413.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "02K23A116",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "EUREKA-Verbundprojekt: Objektive Messung chirurgischer Qualität durch den Aufbau eines datenbasierten Wertschöpfungsnetzwerks (SurgicalAIHubGermany), Teilprojekt: Entwicklung datenbasierter Medizinprodukt-Lösungen für die Chirurgie",
+"von": "2024-01-01",
+"bis": "2026-12-31",
+"summe": 174899.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Karl-Christian Storz",
@@ -107,6 +129,11 @@
 "stand": "2026-10-05",
 "etikett": "Eigenangabe",
 "version": 20
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

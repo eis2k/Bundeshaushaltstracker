@@ -1,0 +1,60 @@
+{
+"id": "deutsches-zentrum-mobilitaet-der-zukunft",
+"name": "Deutsches Zentrum Mobilität der Zukunft",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "12-1210-68605",
+"text": "Deutsches Zentrum Mobilität der Zukunft",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr",
+"werte": {
+"2021": {
+"soll": 44550000,
+"ist": 995916
+},
+"2022": {
+"soll": 10000000,
+"ist": 1019409
+},
+"2023": {
+"soll": 10000000,
+"ist": 2680125
+},
+"2024": {
+"soll": 19990000,
+"ist": 6715906
+},
+"2025": {
+"soll": 17750000,
+"ist": 17549653
+},
+"2026": {
+"soll": 18750000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

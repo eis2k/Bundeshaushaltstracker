@@ -45,7 +45,29 @@
 }
 ],
 "lobby_untergrenze_bund": 230003,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EE5164D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: Porotherm-Solar - Entwicklung offenporiger monolithischer Perowskitstrukturen als hybride thermische Speicher Teilvorhaben: Design, Entwicklung und Bau der Demonstrator Einheit",
+"von": "2023-10-01",
+"bis": "2027-03-31",
+"summe": 198813.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN4053B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: LuftBlock - Weiterentwicklung und Erprobung eines Hochtemperaturwärmespeichers mit innovativer Füllkörpertechnologie und Luft als Wärmeträger in der Keramikindustrie, Teilvorhaben: Entwicklung des Filterspeichermaterials, Implementierung und Analyse der Eigenschaften in einem Demonstrator",
+"von": "2023-07-01",
+"bis": "2027-06-30",
+"summe": 169019.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Martin Schichtel",
@@ -106,6 +128,11 @@
 "stand": "2025-05-30",
 "etikett": "Eigenangabe",
 "version": 7
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

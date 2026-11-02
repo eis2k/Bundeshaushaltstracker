@@ -341,7 +341,299 @@
 }
 ],
 "lobby_untergrenze_bund": 64350040,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03XP0608D",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "NanoKoM - Nanoskalige Kohlenstoffmembranen für Trennaufgaben zur Umsetzung einer schadstofffreien Ressourceneffizienz",
+"von": "2024-08-01",
+"bis": "2027-07-31",
+"summe": 124573.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "031B1401A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "CO2BioTech: FUMBIO - Biotechnologische Fumarat-Wertschöpfungskette - Von CO2 und Zucker bis hin zu biologisch abbaubaren Chemikalien (Teilprojekt A)",
+"von": "2024-01-01",
+"bis": "2027-06-30",
+"summe": 412393.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "031B1648B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "FA1: SuReMo - Nachhaltige Rheologiemodifizierer: Mix-and-Match-Plattform als Ersatz für fossile Additive (Teilprojekt B)",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 122988.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE2072C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: Digi-RoM - Primäre Recyclingwege für glasfaserverstärkte Kunststoffe in Rotorblättern durch den Einsatz neuer, rezyklierbarer Duromere (Vitrimere) sowie durch die Unterstützung digitaler Methoden, Teilvorhaben: Scale-up von recyclierbaren, vitrimerbasierten Komposit-Materialien",
+"von": "2025-01-01",
+"bis": "2027-12-31",
+"summe": 152280.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ENM2018",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Mikroprojekt: MP346 - Entwicklung eines oxidationsbeständigen Hochtemperatur-Heizelementes in Verbundbauweise für den Einsatz in Luft bis 2200 °C",
+"von": "2026-10-01",
+"bis": "2027-06-30",
+"summe": 99994.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03CC2011D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: CELINA - Chemisches Recycling von Abfällen mittels Wirbelschichtvergasung, Teilvorhaben: Potenzial- und Synergieanalyse von biogenen oder zirkulären chemischen Rohstoffen aus Synthesegas an chemischen Verbundstandorten",
+"von": "2025-11-01",
+"bis": "2029-10-31",
+"summe": 194666.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "67DDI008-0",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "DDI: eFurnace - Erforschung und Demonstration neuartiger, elektrifizierter Spaltöfen mit deutlich reduziertem CO2-Fußabdruck",
+"von": "2022-02-11",
+"bis": "2026-12-31",
+"summe": 14825680.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03H2I025A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Hy4Chem-NG - Wasserstoff für eine CO2-emissionsfreie Chemie - Next Generation Electrolyzer",
+"von": "2022-01-01",
+"bis": "2027-06-30",
+"summe": 4635467.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13IK040B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Catena-X Automotive Network NEXT (CX-NEXT) - Teilvorhaben: BASF",
+"von": "2024-08-01",
+"bis": "2026-09-30",
+"summe": 687622.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "19D25003",
+"ressort": "BMV",
+"epl": "12",
+"thema": "PORTAL - Planning & Optimization for River Traffic via Advanced Logistics",
+"von": "2025-12-01",
+"bis": "2027-09-30",
+"summe": 1625509.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ZU1205CB",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "ETOS: Kathodische 1,5-Diol- und 2-Methyltetrahydrofuransynthese aus nachwachsenden Rohstoffen (KADIOL) - B",
+"von": "2023-04-01",
+"bis": "2026-03-31",
+"summe": 187209.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ZU2205KB",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "ETOS: Kathodische und anodische Umsetzung von nachwachsenden Roh-stoffen zu Monomeren für Polymere (KANOMER) - B",
+"von": "2026-04-01",
+"bis": "2029-03-31",
+"summe": 199460.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03LW0512K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Alternativmethoden: In vitro Assays zur Untersuchung von Chemikalieneffekten auf die Schilddrüsenhormon-Homöostase zur regulatorischen Bewertung (ThyreoSafe) - Assay Validierung",
+"von": "2024-06-01",
+"bis": "2027-05-31",
+"summe": 219931.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03LWH0142B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Alternativmethoden: Standardisierte humane (Alveolar-)Makrophagen als Ersatzmodell für Ratten in der Inhalationstoxikologie von Nanopartikeln (iAM-TOX) - Teilprojekt B",
+"von": "2026-04-01",
+"bis": "2029-03-31",
+"summe": 126490.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03LWH0154B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "ValNAM: Validation of a Sandell-Kolthoff-based MCT8 activity assay (MCT8-SK) (ThyroTransVal) - TP B",
+"von": "2026-06-01",
+"bis": "2029-05-30",
+"summe": 131330.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03LWH0158B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "ValNAM: Validierung eines High-Content Screening ADIPOgenesis Assays für die Risikobewertung der nächsten Generation (AdipoNEXT) - TP B",
+"von": "2026-06-01",
+"bis": "2029-05-31",
+"summe": 151754.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "033R386A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "KuRT Verbundvorhaben (Umsetzungsphase): H2Cycle-II - HydroCycling, Teilvorhaben 1: Verfahren",
+"von": "2023-10-01",
+"bis": "2027-03-31",
+"summe": 1456177.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13MX001B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Aufbau eines Datenraums für die ausrüstende Industrie - die Ausrüster von Fabriken weltweit (Factory-X) - Teilvorhaben: Kollaborative Informationslogistik",
+"von": "2024-02-01",
+"bis": "2026-06-30",
+"summe": 132376.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13MX010A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Aufbau eines Datenraums der chemischen Industrie sowie Schnittstellen der mit ihr verbundener Wertschöpfungsketten am Beispiel des digitalen Produkt Passes (Chem-X) - Teilvorhaben: Digitaler Chemiepass aus Sicht eines hoch vernetzten Chemieunternehmens",
+"von": "2024-12-01",
+"bis": "2026-11-30",
+"summe": 1817902.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13XPM504C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Automotive End-of-Life Datenaustausch für Circular Economy (EDCar) - Teilvorhaben: Datengetriebene Optimierung der Kreislaufführung von Engineering Plastics auf der Materialebene für Bauteile in der Automobilindustrie",
+"von": "2025-07-01",
+"bis": "2026-09-30",
+"summe": 106309.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N124291C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Spektroskopische Untersuchung des Recyclings von Kunststoffen (SpecReK) - Teilvorhaben: Anwendung und Skalierung der Raman inline-Charakterisierungsverfahren während der Extrusion für das hochwertige Recycling von Kunststoffen",
+"von": "2024-09-01",
+"bis": "2027-08-31",
+"summe": 255200.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03XP0612A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "CARBO-DIOL2.0 - Von Kohlenhydraten aus sekundären Rohstoffquellen zu Chemierohstoffen",
+"von": "2024-05-01",
+"bis": "2027-04-30",
+"summe": 57419.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03XP0484A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "UNIKAM - In-silico Design und Synthese einkristalliner ultrahigh-Ni Kathodenmaterialien mit optimierter Beschichtung",
+"von": "2022-11-01",
+"bis": "2026-04-30",
+"summe": 15013.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03XPB095A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "MONOKAM - Monokristalline, nickelreiche Kathodenmaterialien mit minimierter Defektdichte - Teilvorhaben - Synthese, mehrstufige Kalzinierung und Nachbehandlung sowie Transfer in den Pilotmaßstab",
+"von": "2027-01-01",
+"bis": "2029-12-31",
+"summe": 65962.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03XP0627A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "SIB-DE_Forschung - Sodium-Ion-Battery Deutschland (SIB:DE Initiative) - Eignung der Natrium-Ionen-Technologie für die europäische Energie- und Mobilitätswende",
+"von": "2025-01-01",
+"bis": "2027-12-31",
+"summe": 352417.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03XP0632B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "E-MoPEd - Einzel- und Mehrlagenorientierte Prozessintensivierung für die Elektrodenbeschichtung von Batterien mittels Schlitzdüsen",
+"von": "2025-03-01",
+"bis": "2028-02-29",
+"summe": 214276.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SFK3I2-3",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben SynErgie3: Synchronisierte und energieadaptive Produktionstechnik zur flexiblen Ausrichtung von Industrieprozessen auf eine fluktuierende Energieversorgung. Teilvorhaben: I2-3_BASF",
+"von": "2023-10-01",
+"bis": "2026-06-30",
+"summe": 39597.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SF0789D",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben C2C-3-MeOH: Arbeitsinhalte der BASF SE zur Katalysatorbereitstellung bei der Zusammenarbeit/Unterstützung der Uhde GmbH in den Arbeitspaketen AP 4.2 und AP 4.3 des Themenkomplexes Methanol-Downstream 'SAF' im Teilprojekt Methanol-Synthese",
+"von": "2025-01-01",
+"bis": "2028-12-31",
+"summe": 267188.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SF0798D",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben ASCEND: Beschleunigte Katalysatorentwicklung durch den Einsatz neuer Nanotechnologien und digitaler Innovationen",
+"von": "2026-04-01",
+"bis": "2031-03-31",
+"summe": 522056.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Katja Scharpwinkel",
@@ -700,6 +992,11 @@
 "stand": "2026-09-08",
 "etikett": "Eigenangabe",
 "version": 57
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

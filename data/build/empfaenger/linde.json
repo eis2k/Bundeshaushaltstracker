@@ -125,7 +125,89 @@
 }
 ],
 "lobby_untergrenze_bund": 3380013,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EN2145A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: SUSCI - Nachhaltige Ausgangsstoffe für die Chemische Industrie",
+"von": "2025-10-01",
+"bis": "2028-09-30",
+"summe": 707472.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ENM2014",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Mikroprojekt: HiELECT - Technologieübergreifende Versorgungskonzepte für die Elektrifizierung industrieller Hochtemperaturprozesse",
+"von": "2026-09-01",
+"bis": "2027-02-28",
+"summe": 99302.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03CC2004A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: DECIDE - Dekarbonisierung von CO2-intensiven Industrieanlagen - Analyse von kritischen Spurenkomponenten in der deutschen Zementindustrie, Teilvorhaben: Erforschung CO2-Abscheidung und -Aufreinigung",
+"von": "2025-12-01",
+"bis": "2028-11-30",
+"summe": 2673480.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI3088A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: HyPAC - Ammoniak Cracking: Ammoniak als Wasserstoffträger für den interkontinentalen Transport",
+"von": "2023-07-01",
+"bis": "2026-06-30",
+"summe": 1003108.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03B20914C",
+"ressort": "BMV",
+"epl": "12",
+"thema": "NIP II Marktaktivierung: Energiepark Mainz Mobilitätserweiterung: Zur Versorgung von Bussen und Müllsammelfahrzeugen in unterschiedlichen kommunalen Wasserstoffprojekten wird eine Neuinvestition in H2 Elektrolysekapazität beantragt.",
+"von": "2023-03-01",
+"bis": "2026-12-31",
+"summe": 2405522.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03B10207A",
+"ressort": "BMV",
+"epl": "12",
+"thema": "NIP II - FuE - Verbund: Werkstoffleichtbau zur Effizienzsteigerung von mobilem LH2-Equipment für eine effiziente und nachhaltige LieferInfrastruktur für den Schienen- und Straßenverkehr",
+"von": "2024-01-01",
+"bis": "2027-12-31",
+"summe": 1331043.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SX657A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "INNOFLEET - Innovative Ober- und Unterdeck-Speicher- und Versorgungsprozesse für die klimaneutrale Schifffahrt mit flüssigem Wasserstoff.",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 1127130.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SFK3X1-3",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben SynErgie3: Synchronisierte und energieadaptive Produktionstechnik zur flexiblen Ausrichtung von Industrieprozessen auf eine fluktuierende Energieversorgung. Teilvorhaben: X1-3_Linde GmbH",
+"von": "2023-07-01",
+"bis": "2026-06-30",
+"summe": 200059.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Oliver  Pfann",
@@ -220,6 +302,11 @@
 "stand": "2026-07-20",
 "etikett": "Eigenangabe",
 "version": 20
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

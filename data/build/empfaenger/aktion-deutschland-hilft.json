@@ -30,6 +30,7 @@
 ],
 "lobby_untergrenze_bund": 100001,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Carl Alexander Siebel",
@@ -137,7 +138,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/B/baerbock_annalena-1043508",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004689/79898",
+"stand": "2026-07-01",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -158,7 +166,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/B/brand_michael-1043790",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004689/79898",
+"stand": "2026-07-01",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -179,7 +194,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/K/kofler_baerbel-1045482",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004689/79898",
+"stand": "2026-07-01",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -203,7 +225,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/O/oezoguz_aydan-1046460",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004689/79898",
+"stand": "2026-07-01",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -224,7 +253,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/W/wadephul_johann-1047914",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004689/79898",
+"stand": "2026-07-01",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

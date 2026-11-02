@@ -54,6 +54,7 @@
 ],
 "lobby_untergrenze_bund": 210004,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Carolin Schenuit",
@@ -134,7 +135,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/S/scheer_nina-1047022",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004142/79983",
+"stand": "2026-07-29",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

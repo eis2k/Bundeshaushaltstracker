@@ -37,7 +37,59 @@
 }
 ],
 "lobby_untergrenze_bund": 160002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EN3108E",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: EnEff:Stadt: BLWH2 - Erschließung und Versorgung von Bestandsgebäuden und Neubauentwicklungen der Stadt Bad Lauchstädt mit klimaneutraler Wärme, Teilvorhaben: Wirtschaftlichkeitsanalyse und Entwicklung einer Methodik zu Lieferbeziehungen im urbanen Raum",
+"von": "2024-11-01",
+"bis": "2026-10-31",
+"summe": 9770.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI3126B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben H2Store-flex-I: Effiziente und flexible Wasserstoffspeicherung in Kavernen am Energiepark Bad Lauchstädt, Teilvorhaben: Begleitende Forschung, Betriebsstrategien und Dissemination von Ergebnissen",
+"von": "2025-10-01",
+"bis": "2029-09-30",
+"summe": 453236.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EWR012A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Reallabor: EnergieparkBL - Demonstration von Sektorkopplung: Wind-Elektrolyse für Erzeugung, Speicherung und Transport von grünem Wasserstoff - Teilvorhaben: Begleitende Forschung an Regulatorik, Vermarktung und Wirtschaftlichkeit",
+"von": "2021-09-01",
+"bis": "2028-11-30",
+"summe": 984960.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EWR012AV",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Reallabor: EnergieparkBL - Demonstration von Sektorkopplung: Wind-Elektrolyse für Erzeugung, Speicherung und Transport von grünem Wasserstoff - Teilvorhaben: Begleitende Forschung an Regulatorik, Vermarktung und Wirtschaftlichkeit [VE]",
+"von": "2021-09-01",
+"bis": "2026-08-30",
+"summe": 0.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13BDA0014A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Konzeptionelle Integration des Capraferm®-Verfahrens an einem Biogasanlagenstandort (CapConcept) - Teilvorhaben: Geschäftsmodellentwicklung, Marktanalyse und regulatorische Bewertung zur Säureproduktion an Biogasanlagen",
+"von": "2026-05-01",
+"bis": "2028-01-31",
+"summe": 183325.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Ulf Heitmüller",
@@ -215,6 +267,11 @@
 "stand": "2026-09-24",
 "etikett": "Eigenangabe",
 "version": 36
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

@@ -45,7 +45,169 @@
 }
 ],
 "lobby_untergrenze_bund": 3130003,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "20F2201E",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Geodatenbanken für eine energieeffiziente Flugführung",
+"von": "2024-01-01",
+"bis": "2027-12-31",
+"summe": 78350.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS2715",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: 3D-Netzwerke für 6G Mobilfunk Anwendungen - 3D-NET -",
+"von": "2026-06-01",
+"bis": "2029-05-31",
+"summe": 304642.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "50EW1521",
+"ressort": "BMV",
+"epl": "12",
+"thema": "METimage Phase C/D",
+"von": "2015-06-01",
+"bis": "2027-12-31",
+"summe": 319664995.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "50EW2501",
+"ressort": "BMV",
+"epl": "12",
+"thema": "METimage SIOV Support Service",
+"von": "2025-06-01",
+"bis": "2026-09-30",
+"summe": 1083091.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "50EE2424A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben: TRM und unterstützende Technologien, Teilvorhaben: Systemanforderungen und -spezifikationen",
+"von": "2024-09-01",
+"bis": "2027-03-31",
+"summe": 1150000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "50YB2103",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Maschinelles Lernen in Telekommunikations-Satelliten",
+"von": "2021-12-01",
+"bis": "2026-12-31",
+"summe": 1493361.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "50NA2303",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Flexible Ka-Inter-Satellite Link Transceiver (FlexISL-Transceiver)",
+"von": "2023-03-01",
+"bis": "2026-05-31",
+"summe": 962726.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "50WM2260B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben: MY-Combine: µ-Optische Jod Uhr und Frequenzkamm Entwicklung - TP2-Airbus Defence and Space GmbH",
+"von": "2022-08-01",
+"bis": "2027-06-30",
+"summe": 292337.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "50RK2401A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben TOPKON - Technologiekomponenten für Erdbeobachtung mit kleinen hochperformanten Konstellationen im LEO Teilvorhaben: Missionsoptimierung, Bahnregelung und Navigation von Kleinkonsteallationen",
+"von": "2024-03-01",
+"bis": "2027-08-31",
+"summe": 790000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "50RK2101",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Hochvolumige optische Elemente (HVOEL)",
+"von": "2021-08-01",
+"bis": "2026-12-31",
+"summe": 303451.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "50RK2408A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben IOD-PPU: Technologiekomponenten zur In-Orbit-Demonstration einer Power Processing Unit eines elektrischen Antriebssystems mit Iodtreibstoff. Teilvorhaben: Entwicklung eines iodbasierten elektrischen Antriebssystems",
+"von": "2024-09-01",
+"bis": "2027-08-31",
+"summe": 293588.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "50RA2602A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben: Astrone CAiBLE - Robotorlabor zur KI Verifikation und Validierung Teilvorhaben: Astrone CAiBLE Projektleitung, GNC Architektur und Entwicklung, Simulatoren MIL, PIL und FlatSat",
+"von": "2026-09-01",
+"bis": "2029-08-31",
+"summe": 425337.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SX647A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: LetsROC - Remote Operation Center für (teil-)autonome Schifffahrt, Vorhaben: Intelligente Echtzeitüberwachung für domänenübergreifendes Situationsbewusstsein",
+"von": "2025-09-01",
+"bis": "2028-04-30",
+"summe": 589966.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20D2116A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Entwicklung einer widerstandsfähigen Zero-Trust Rechnerplattform für Luftfahrzeuge",
+"von": "2022-11-01",
+"bis": "2026-02-28",
+"summe": 684700.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20T2402D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Methodenentwicklung und -validierung zur Propellerlärmbewertung",
+"von": "2025-10-01",
+"bis": "2028-12-31",
+"summe": 780500.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20M2216C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Optimiertes Sensorsystem zur H2 Überwachung für das Verteilsystem im Luftfahrzeug mit reduzierter Fehlalarmrate und spezialisiertem Prüfstand",
+"von": "2024-12-01",
+"bis": "2027-11-30",
+"summe": 299000.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Michael Schöllhorn",
@@ -539,6 +701,11 @@
 "stand": "2026-10-13",
 "etikett": "Eigenangabe",
 "version": 15
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

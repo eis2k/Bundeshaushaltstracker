@@ -45,7 +45,29 @@
 }
 ],
 "lobby_untergrenze_bund": 340003,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03SX632A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: IntelligenteKlebung - Intelligente Klebverbindungen für Verglasungen im Schiffbau, Vorhaben: Schiffsspezifische Vorgaben für den erfolgreichen Einsatz von überwachten Klebungen im Schiffbau",
+"von": "2025-11-01",
+"bis": "2028-10-31",
+"summe": 266585.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SX606A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: SMARTundEASY - Smarte und leicht nutzbare Informationsversorgung maritimer Montageprozesse, Vorhaben: Smarte Koordinierung von Zulieferer- und Werftmontageprozessen",
+"von": "2024-06-01",
+"bis": "2027-05-31",
+"summe": 775566.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Matthias Hellmann",
@@ -151,6 +173,11 @@
 "stand": "2026-07-08",
 "etikett": "Eigenangabe",
 "version": 10
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

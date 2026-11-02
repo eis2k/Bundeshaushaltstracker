@@ -61,7 +61,7 @@
 },
 {
 "geber": "Bund Sonst. mit Projektträger - Staatliche Zuwendungen - Projektförderungen",
-"epl": "60",
+"epl": null,
 "von": 97540001,
 "bis": 97550000,
 "zweck": "1 Verbund Energietechnologien und Klimaschutz 16.253.589 2 Verbund Gesundheit 3.887.303 3 Verbund IUK-Technologie 22.832.366 4 Verbund Innovationsforschung 2.776.088 5 Verbund Light & Surfaces 944.528 6 Verbund Mikroelektronik 9.096.387 7 Verbund Produktion 16.713.457 8 Ressourcentechnologien und Bioökonomie 10.042.650 9 Verbund Werkstoffe, Bauteile - MATERIALS 14.997.531 FFB 0 - Infrastruktur- 3.600",
@@ -70,6 +70,7 @@
 ],
 "lobby_untergrenze_bund": 1878020006,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Elisabeth Ewen",

@@ -21,7 +21,7 @@
 "lobby_zuwendungen": [
 {
 "geber": "Bund- und Länderzuschüsse Freiwillige Dienste",
-"epl": "60",
+"epl": null,
 "von": 1390001,
 "bis": 1400000,
 "zweck": "Bundes- und Länderzuschüsse für Freiwilligendienste (Freiwilliges Soziales Jahr, Bundesfreiwilligendienst, Internationaler Jugendfreiwilligendienst)",
@@ -38,6 +38,7 @@
 ],
 "lobby_untergrenze_bund": 1450002,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Gaetan Roy",

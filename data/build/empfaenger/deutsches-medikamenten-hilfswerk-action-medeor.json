@@ -38,6 +38,7 @@
 ],
 "lobby_untergrenze_bund": 16830002,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Sid Peruvemba",
@@ -106,7 +107,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/D/dieren_jan-1044048",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R000276/79849",
+"stand": "2026-07-09",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

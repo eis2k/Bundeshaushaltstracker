@@ -21,7 +21,7 @@
 "lobby_zuwendungen": [
 {
 "geber": "Bundesministerium für Wirtschaft",
-"epl": "09",
+"epl": null,
 "von": 20001,
 "bis": 30000,
 "zweck": "Zuwendung für eine Informationsstelle",
@@ -29,7 +29,7 @@
 },
 {
 "geber": "Bundesministerium für Wirtschaft",
-"epl": "09",
+"epl": null,
 "von": 10001,
 "bis": 20000,
 "zweck": "Zuwendung für eine halbe Beraterstelle",
@@ -38,6 +38,7 @@
 ],
 "lobby_untergrenze_bund": 30002,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Rudolf Sagberger",

@@ -53,7 +53,7 @@
 },
 {
 "geber": "Bundesministerium für wirtschaftliche Zusammenarbeit",
-"epl": "23",
+"epl": null,
 "von": 950001,
 "bis": 960000,
 "zweck": "Projektförderung, genauere Angaben zu Forschungsprojekten im Einzelnen finden sich auf der Website des PIK https://www.pik-potsdam.de/de/produkte/projekte/projekte",
@@ -62,6 +62,7 @@
 ],
 "lobby_untergrenze_bund": 17210005,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Hörstrup Bettina",

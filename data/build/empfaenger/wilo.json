@@ -45,7 +45,49 @@
 }
 ],
 "lobby_untergrenze_bund": 230003,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "02WDG1685B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Digital GreenTech 2 - Verbundprojekt agents42watermarkets: Auf dem Weg zu einer effizienten, bedarfsgerechten und robusten sozio-technischen Wassermarktwirtschaft, Teilprojekt 2",
+"von": "2023-09-01",
+"bis": "2026-02-28",
+"summe": 104428.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SF0674K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben Mobility2Grid: Forschungscampus Mobility2Grid: Effiziente und vernetzte Systeme für die klimaneutrale Stadt, Teilvorhaben: AP3.4 H2POWERPLANT",
+"von": "2023-08-01",
+"bis": "2027-02-28",
+"summe": 189493.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03TN0060B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Normung und Standardisierung von Prüfstandsverfahren für die Bewertung von Elektromotoren in Unterwassermotorpumpen",
+"von": "2024-01-01",
+"bis": "2026-04-30",
+"summe": 161566.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI5036E",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: E2-Cycle - Strategische Planung von mehrstufigen Werterhaltungsnetzwerken zur Kreislaufführung von komplexen Verbundprodukten, Teilvorhaben: Rücknahme & Wiederverwendung",
+"von": "2025-07-01",
+"bis": "2028-06-30",
+"summe": 260566.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Oliver Hermes",
@@ -195,6 +237,11 @@
 "stand": "2026-07-30",
 "etikett": "Eigenangabe",
 "version": 7
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

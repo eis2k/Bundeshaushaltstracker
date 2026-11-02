@@ -1,0 +1,84 @@
+{
+"id": "zuschuesse-zu-den-kosten-der-kommission-arbeitsschutz-und-no",
+"name": "Zuschüsse zu den Kosten der Kommission Arbeitsschutz und Normung in der EU",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "11-1107-68406",
+"text": "Zuschüsse zu den Kosten der Kommission Arbeitsschutz und Normung in der EU",
+"epl": "11",
+"epl_text": "Bundesministerium für Arbeit und Soziales",
+"werte": {
+"2015": {
+"soll": 1084000,
+"ist": 1065722
+},
+"2016": {
+"soll": 1100000,
+"ist": 1080634
+},
+"2017": {
+"soll": 1116000,
+"ist": 1097882
+},
+"2018": {
+"soll": 1132000,
+"ist": 1145130
+},
+"2019": {
+"soll": 1132000,
+"ist": 1174462
+},
+"2020": {
+"soll": 1402000,
+"ist": 1397860
+},
+"2021": {
+"soll": 1453000,
+"ist": 1406127
+},
+"2022": {
+"soll": 1522000,
+"ist": 1401193
+},
+"2023": {
+"soll": 1552000,
+"ist": 1552000
+},
+"2024": {
+"soll": 1552000,
+"ist": 1572000
+},
+"2025": {
+"soll": 1552000,
+"ist": 1612000
+},
+"2026": {
+"soll": 1552000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

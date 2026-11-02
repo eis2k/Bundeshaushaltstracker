@@ -134,6 +134,7 @@
 ],
 "lobby_untergrenze_bund": 43540014,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Oliver Blume",
@@ -606,7 +607,7 @@
 "funktion_beim_empfaenger": "Arbeiter (bis 08.05.2025)",
 "kategorie": "Entgeltliche Tätigkeiten neben dem Mandat",
 "abgleich": "exakt",
-"satz": "Cem Ince (MdB, Die Linke) ist laut bundestag.de Arbeiter (bis 08.05.2025) bei Volkswagen AG. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Arbeit und Soziales; Ausschuss für Digitales und Staatsmodernisierung; Ausschuss für Wirtschaft und Energie. Volkswagen AG erhielt laut Lobbyregister Mittel von: Hauptzollamt; Bundesministerium für Wirtschaft und Energie (BMWI); Bundesagentur für Arbeit; Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA); Bundesministerium für Bildung und Forschung (BMBF); Deutsche Rentenversicherung; Bundesministerium für Ernährung und Landwirtschaft (BMEL); Bundesministerium für Digitales und Verkehr.",
+"satz": "Cem Ince (MdB, Die Linke) übte laut bundestag.de eine entgeltliche Tätigkeit bei Volkswagen AG aus: „Arbeiter (bis 08.05.2025)“. Ausschüsse und Gremien im Bundestag laut bundestag.de: Ausschuss für Arbeit und Soziales; Ausschuss für Digitales und Staatsmodernisierung; Ausschuss für Wirtschaft und Energie. Volkswagen AG erhielt laut Lobbyregister Mittel von: Hauptzollamt; Bundesministerium für Wirtschaft und Energie (BMWI); Bundesagentur für Arbeit; Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA); Bundesministerium für Bildung und Forschung (BMBF); Deutsche Rentenversicherung; Bundesministerium für Ernährung und Landwirtschaft (BMEL); Bundesministerium für Digitales und Verkehr.",
 "ausschuesse": [
 "Ausschuss für Arbeit und Soziales",
 "Ausschuss für Digitales und Staatsmodernisierung",
@@ -626,7 +627,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/I/ince_cem-1045160",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R001681/87308",
+"stand": "2026-10-30",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

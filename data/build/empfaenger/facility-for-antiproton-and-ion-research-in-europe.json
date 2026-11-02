@@ -21,7 +21,7 @@
 "lobby_zuwendungen": [
 {
 "geber": "Bund, BMFTR",
-"epl": "60",
+"epl": null,
 "von": 207100001,
 "bis": 207110000,
 "zweck": "FAIR1118B: Bau des FAIR Projekts, Teilprojekt Site and Buildings Fördersumme: 1.773.062.660 Laufzeit: 01.08.2011 - 31.12.2029",
@@ -29,7 +29,7 @@
 },
 {
 "geber": "Bund, BMFTR",
-"epl": "60",
+"epl": null,
 "von": 12990001,
 "bis": 13000000,
 "zweck": "FAIR1118P: Betrieb der FAIR GmbH als Management und Steuerungs-GmbH des FAIR-Projekts Fördersumme: 188.907.468,11 Laufzeit: 01.08.2011 - 31.12.2029",
@@ -38,6 +38,7 @@
 ],
 "lobby_untergrenze_bund": 220090002,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Jörg Blaurock",

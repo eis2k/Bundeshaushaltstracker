@@ -45,7 +45,69 @@
 }
 ],
 "lobby_untergrenze_bund": 5720003,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "20W2208A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Nachhaltige Strukturbauteile als Beitrag zum emissionsfreien Hubschrauber",
+"von": "2023-12-01",
+"bis": "2027-03-31",
+"summe": 1494750.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20F2201A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Konzeptdemonstration für eine automatische Außenlandung eines Hubschraubers",
+"von": "2024-01-01",
+"bis": "2027-12-31",
+"summe": 785750.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ZU2105HD",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "MCube: Digital Mobility Twin Munich (DatSim 2.0) - D",
+"von": "2024-11-01",
+"bis": "2027-10-31",
+"summe": 927949.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20Y2108B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Modulare Türsystemarchitektur für Flugzeuge der nächsten Generation",
+"von": "2022-11-01",
+"bis": "2026-10-31",
+"summe": 1454600.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20Y2403A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Konzeptdemonstration für innovative Pilotenschnittstellen im Hubschrauber",
+"von": "2026-05-01",
+"bis": "2030-04-30",
+"summe": 1440200.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20M2215A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "HYbriD-AntRieb für einen emissionsfreien HelikOpter",
+"von": "2024-07-01",
+"bis": "2028-01-31",
+"summe": 9446350.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Stefan Thomé",
@@ -355,6 +417,11 @@
 "stand": "2026-06-22",
 "etikett": "Eigenangabe",
 "version": 13
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

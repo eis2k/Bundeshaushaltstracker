@@ -46,6 +46,7 @@
 ],
 "lobby_untergrenze_bund": 990003,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Ilse Junkermann",
@@ -122,7 +123,7 @@
 "funktion_beim_empfaenger": "Mitglied des Kuratoriums, ehrenamtlich (bis 05.11.2025)",
 "kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
 "abgleich": "exakt",
-"satz": "Gitta Connemann (MdB, CDU/CSU) ist laut bundestag.de Mitglied des Kuratoriums, ehrenamtlich (bis 05.11.2025) bei Aktion Sühnezeichen Friedensdienste e.V.. Aktion Sühnezeichen Friedensdienste e.V. erhielt laut Lobbyregister Mittel von: Bundesamt für Familie und zivilgesellschaftliche Aufgaben - Demokratie Leben; Bundesamt für Familie und zivilgesellschaftliche Aufgaben; AGDF e.V..",
+"satz": "Gitta Connemann (MdB, CDU/CSU) war laut bundestag.de Mitglied des Kuratoriums, ehrenamtlich (bis 05.11.2025) bei Aktion Sühnezeichen Friedensdienste e.V.. Aktion Sühnezeichen Friedensdienste e.V. erhielt laut Lobbyregister Mittel von: Bundesamt für Familie und zivilgesellschaftliche Aufgaben - Demokratie Leben; Bundesamt für Familie und zivilgesellschaftliche Aufgaben; AGDF e.V..",
 "ausschuesse": [],
 "geld_aus": [
 "Bundesamt für Familie und zivilgesellschaftliche Aufgaben - Demokratie Leben",
@@ -133,7 +134,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/C/connemann_gitta-1043962",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004017/76696",
+"stand": "2026-05-13",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -159,7 +167,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/G/goering_eckardt_katrin-1044556",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004017/76696",
+"stand": "2026-05-13",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"
@@ -182,7 +197,14 @@
 {
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/G/griese_kerstin-1044602",
-"stand": "2026-11-01"
+"stand": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Lobbyregister",
+"url": "https://www.lobbyregister.bundestag.de/suche/R004017/76696",
+"stand": "2026-05-13",
+"etikett": "Eigenangabe"
 }
 ],
 "stand": "2026-11-01"

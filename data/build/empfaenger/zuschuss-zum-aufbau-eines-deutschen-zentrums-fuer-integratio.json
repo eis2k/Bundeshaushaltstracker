@@ -1,0 +1,76 @@
+{
+"id": "zuschuss-zum-aufbau-eines-deutschen-zentrums-fuer-integratio",
+"name": "Zuschuss zum Aufbau eines Deutschen Zentrums für Integrations- und Migrationsforschung",
+"art": "forschung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "17-1702-68406",
+"text": "Maßnahmen der Integrations- und Migrationsforschung",
+"epl": "17",
+"epl_text": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"werte": {
+"2017": {
+"soll": 3000000,
+"ist": 866125
+},
+"2018": {
+"soll": 4800000,
+"ist": 3728171
+},
+"2019": {
+"soll": 5929000,
+"ist": 4270368
+},
+"2020": {
+"soll": 8969000,
+"ist": 7692208
+},
+"2021": {
+"soll": 6475000,
+"ist": 9835169
+},
+"2022": {
+"soll": 14585000,
+"ist": 13960110
+},
+"2023": {
+"soll": 10251000,
+"ist": 13253671
+},
+"2024": {
+"soll": 8969000,
+"ist": 12464203
+},
+"2025": {
+"soll": 8969000,
+"ist": 8808269
+},
+"2026": {
+"soll": 8969000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

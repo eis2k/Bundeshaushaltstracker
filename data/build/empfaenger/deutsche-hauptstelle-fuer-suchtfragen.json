@@ -16,60 +16,7 @@
 "pdf_url": "https://www.lobbyregister.bundestag.de/media/13/cf/846171/Lobbyregister-Registereintraege-Detailansicht-R002345-2026-09-23_09-33-51.pdf"
 },
 "haushalt": {
-"titel": [
-{
-"id": "15-1503-68412",
-"text": "Zuschuss an die Deutsche Hauptstelle für Suchtfragen",
-"epl": "15",
-"epl_text": "Bundesministerium für Gesundheit",
-"werte": {
-"2016": {
-"soll": 693000,
-"ist": 720000
-},
-"2017": {
-"soll": 701000,
-"ist": 701000
-},
-"2018": {
-"soll": 783000,
-"ist": 783000
-},
-"2019": {
-"soll": 823000,
-"ist": 763000
-},
-"2020": {
-"soll": 831000,
-"ist": 831000
-},
-"2021": {
-"soll": 831000,
-"ist": 802000
-},
-"2022": {
-"soll": 831000,
-"ist": 831000
-},
-"2023": {
-"soll": 831000,
-"ist": 831000
-},
-"2024": {
-"soll": 831000,
-"ist": 831000
-},
-"2025": {
-"soll": 831000,
-"ist": 831000
-},
-"2026": {
-"soll": 999000,
-"ist": null
-}
-}
-}
-]
+"titel": []
 },
 "lobby_zuwendungen": [
 {
@@ -83,6 +30,7 @@
 ],
 "lobby_untergrenze_bund": 970001,
 "foerderkatalog": [],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Norbert Scherbaum",
@@ -178,11 +126,6 @@
 "stand": "2026-09-23",
 "etikett": "Eigenangabe",
 "version": 18
-},
-{
-"kurz": "bundeshaushalt.de",
-"url": "https://www.bundeshaushalt.de/",
-"abgerufen": "2026-11-02"
 }
 ]
 }

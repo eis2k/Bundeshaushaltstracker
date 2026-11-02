@@ -29,7 +29,29 @@
 }
 ],
 "lobby_untergrenze_bund": 1150001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EI3037A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben reTURN - Recycling organischer Reststoffe und CO2 zu Kraftstoffen - Teilprojekt 1: Planung, Bau, Errichtung, Inbetriebnahme und Optimierung einer PBR-Testanlage sowie anschließende Verwertung",
+"von": "2023-01-01",
+"bis": "2028-06-30",
+"summe": 5099586.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI3132",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Erneuerbare Kraftstoffe durch optimierte Reaktormodule reFORM",
+"von": "2026-01-01",
+"bis": "2028-03-31",
+"summe": 2986520.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
+"foerderkatalog_auszug": false,
 "personen": [
 {
 "name": "Mark Misselhorn",
@@ -80,6 +102,11 @@
 "stand": "2026-06-11",
 "etikett": "Eigenangabe",
 "version": 8
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }
