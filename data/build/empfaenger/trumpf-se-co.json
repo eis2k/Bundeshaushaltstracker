@@ -228,5 +228,33 @@
 "etikett": "Eigenangabe",
 "version": 17
 }
+],
+"parteispenden": [
+{
+"partei": "CDU",
+"betrag": 100000,
+"eingang": "2024-10-18",
+"veroeffentlicht": "2024-10-30",
+"drucksache": "Drs. 20/14118",
+"drucksache_url": "https://dserver.bundestag.de/btd/20/141/2014118.pdf",
+"quelle": {
+"kurz": "bundestag.de",
+"url": "https://dserver.bundestag.de/btd/20/141/2014118.pdf",
+"etikett": "amtlich"
+}
+},
+{
+"partei": "CDU",
+"betrag": 50000,
+"eingang": "2025-01-31",
+"veroeffentlicht": "2025-01-31",
+"drucksache": "Drs. 20/15153",
+"drucksache_url": "https://dserver.bundestag.de/btd/20/151/2015153.pdf",
+"quelle": {
+"kurz": "bundestag.de",
+"url": "https://dserver.bundestag.de/btd/20/151/2015153.pdf",
+"etikett": "amtlich"
+}
+}
 ]
 }

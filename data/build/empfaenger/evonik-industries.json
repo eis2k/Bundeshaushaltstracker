@@ -562,5 +562,137 @@
 "etikett": "Eigenangabe",
 "version": 52
 }
+],
+"parteispenden": [
+{
+"partei": "CDU",
+"betrag": 90000,
+"eingang": "2015-10-06",
+"veroeffentlicht": "2015-10-08",
+"drucksache": "Drs. 18/6472",
+"drucksache_url": "https://dserver.bundestag.de/btd/18/064/1806472.pdf",
+"quelle": {
+"kurz": "bundestag.de",
+"url": "https://dserver.bundestag.de/btd/18/064/1806472.pdf",
+"etikett": "amtlich"
+}
+},
+{
+"partei": "SPD",
+"betrag": 60000,
+"eingang": "2015-10-06",
+"veroeffentlicht": "2015-10-07",
+"drucksache": "Drs. 18/6472",
+"drucksache_url": "https://dserver.bundestag.de/btd/18/064/1806472.pdf",
+"quelle": {
+"kurz": "bundestag.de",
+"url": "https://dserver.bundestag.de/btd/18/064/1806472.pdf",
+"etikett": "amtlich"
+}
+},
+{
+"partei": "SPD",
+"betrag": 90000,
+"eingang": "2016-10-26",
+"veroeffentlicht": "2016-11-11",
+"drucksache": "Drs. 18/10597",
+"drucksache_url": "https://dserver.bundestag.de/btd/18/105/1810597.pdf",
+"quelle": {
+"kurz": "bundestag.de",
+"url": "https://dserver.bundestag.de/btd/18/105/1810597.pdf",
+"etikett": "amtlich"
+}
+},
+{
+"partei": "CDU",
+"betrag": 90000,
+"eingang": "2016-11-04",
+"veroeffentlicht": "2016-11-07",
+"drucksache": "Drs. 18/10597",
+"drucksache_url": "https://dserver.bundestag.de/btd/18/105/1810597.pdf",
+"quelle": {
+"kurz": "bundestag.de",
+"url": "https://dserver.bundestag.de/btd/18/105/1810597.pdf",
+"etikett": "amtlich"
+}
+},
+{
+"partei": "CDU",
+"betrag": 80000,
+"eingang": "2017-11-13",
+"veroeffentlicht": "2017-11-14",
+"drucksache": "Drs. 19/1144",
+"drucksache_url": "https://dserver.bundestag.de/btd/19/011/1901144.pdf",
+"quelle": {
+"kurz": "bundestag.de",
+"url": "https://dserver.bundestag.de/btd/19/011/1901144.pdf",
+"etikett": "amtlich"
+}
+},
+{
+"partei": "SPD",
+"betrag": 80000,
+"eingang": "2017-11-13",
+"veroeffentlicht": "2017-11-14",
+"drucksache": "Drs. 19/1144",
+"drucksache_url": "https://dserver.bundestag.de/btd/19/011/1901144.pdf",
+"quelle": {
+"kurz": "bundestag.de",
+"url": "https://dserver.bundestag.de/btd/19/011/1901144.pdf",
+"etikett": "amtlich"
+}
+},
+{
+"partei": "CDU",
+"betrag": 80000,
+"eingang": "2018-11-08",
+"veroeffentlicht": "2018-11-08",
+"drucksache": "Drs. 19/6928",
+"drucksache_url": "https://dserver.bundestag.de/btd/19/069/1906928.pdf",
+"quelle": {
+"kurz": "bundestag.de",
+"url": "https://dserver.bundestag.de/btd/19/069/1906928.pdf",
+"etikett": "amtlich"
+}
+},
+{
+"partei": "SPD",
+"betrag": 80000,
+"eingang": "2018-11-08",
+"veroeffentlicht": "2018-11-12",
+"drucksache": "Drs. 19/6928",
+"drucksache_url": "https://dserver.bundestag.de/btd/19/069/1906928.pdf",
+"quelle": {
+"kurz": "bundestag.de",
+"url": "https://dserver.bundestag.de/btd/19/069/1906928.pdf",
+"etikett": "amtlich"
+}
+},
+{
+"partei": "CDU",
+"betrag": 70000,
+"eingang": "2019-11-15",
+"veroeffentlicht": "2019-11-25",
+"drucksache": "Drs. 19/16345",
+"drucksache_url": "https://dserver.bundestag.de/btd/19/163/1916345.pdf",
+"quelle": {
+"kurz": "bundestag.de",
+"url": "https://dserver.bundestag.de/btd/19/163/1916345.pdf",
+"etikett": "amtlich"
+}
+},
+{
+"partei": "SPD",
+"betrag": 80000,
+"eingang": "2019-11-15",
+"veroeffentlicht": "2019-11-18",
+"drucksache": "Drs. 19/16345",
+"drucksache_url": "https://dserver.bundestag.de/btd/19/163/1916345.pdf",
+"quelle": {
+"kurz": "bundestag.de",
+"url": "https://dserver.bundestag.de/btd/19/163/1916345.pdf",
+"etikett": "amtlich"
+}
+}
 ]
 }

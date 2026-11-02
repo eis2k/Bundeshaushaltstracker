@@ -141,11 +141,11 @@
 {
 "typ": "abgeordneter_funktion",
 "person": "Annalena Baerbock",
-"funktion_person": "MdB, Bündnis 90 Die Grünen",
+"funktion_person": "MdB bis 2025-06-30, Bündnis 90 Die Grünen",
 "funktion_beim_empfaenger": "Vorsitzende des Kuratoriums, ehrenamtlich",
 "kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen",
 "abgleich": "exakt",
-"satz": "Annalena Baerbock (MdB, Bündnis 90 Die Grünen) ist laut bundestag.de Vorsitzende des Kuratoriums, ehrenamtlich bei Aktion Deutschland Hilft e.V.. Aktion Deutschland Hilft e.V. erhielt laut Lobbyregister Mittel von: Auswärtiges Amt.",
+"satz": "Annalena Baerbock (MdB bis 2025-06-30, Bündnis 90 Die Grünen) ist laut bundestag.de Vorsitzende des Kuratoriums, ehrenamtlich bei Aktion Deutschland Hilft e.V.. Aktion Deutschland Hilft e.V. erhielt laut Lobbyregister Mittel von: Auswärtiges Amt.",
 "ausschuesse": [],
 "geld_aus": [
 "Auswärtiges Amt"
@@ -351,5 +351,6 @@
 "abgerufen": "2026-11-01",
 "etikett": "Eigenangabe"
 }
-]
+],
+"parteispenden": []
 }
