@@ -231,7 +231,7 @@
     {#if mitEmpfaengerSpalte}
       <h4>{empfaengerTitel} aus diesem Einzelplan</h4>
       <ul class="empf">
-        {#each empfaengerSpalte as e (e.id)}<li><Avatar name={e.name} art="organisation" size={24} /><button class="zeile" onclick={() => onEmpfaenger?.(e.id)}>{e.name}</button><b class="tabular">{fmtEuro(e.wert)}<small> {e.quelle === "haushalt" ? "Soll" : "Lobbyregister, ab"}</small></b></li>{/each}
+        {#each empfaengerSpalte as e (e.id)}<li><Avatar name={e.name} art="organisation" size={24} id={`o:${e.id}`} /><button class="zeile" onclick={() => onEmpfaenger?.(e.id)}>{e.name}</button><b class="tabular">{fmtEuro(e.wert)}<small> {e.quelle === "haushalt" ? "Soll" : "Lobbyregister, ab"}</small></b></li>{/each}
         {#if empfaengerGesamt > empfaengerSpalte.length}<li class="weitere"><button class="zeile" onclick={() => onEmpfaengerListe?.(focus[0])}>+{empfaengerGesamt - empfaengerSpalte.length} weitere Empfänger</button></li>{/if}
       </ul>
     {/if}
@@ -263,7 +263,7 @@
         <g class="ekarte" role="button" tabindex="0" onclick={() => (k.art === "empfaenger" ? onEmpfaenger?.(k.e!.id) : onEmpfaengerListe?.(focus[0]))} onkeydown={(e) => (e.key === "Enter" || e.key === " ") && (k.art === "empfaenger" ? onEmpfaenger?.(k.e!.id) : onEmpfaengerListe?.(focus[0]))}>
           <rect x={k.x} y={k.y} width={k.w} height={k.h} rx="9" fill="var(--panel)" stroke="var(--border)" />
           {#if k.art === "empfaenger"}
-            <foreignObject x={k.x + 7} y={k.y + (k.h - 24) / 2} width="24" height="24"><Avatar name={k.e!.name} art="organisation" size={22} /></foreignObject>
+            <foreignObject x={k.x + 7} y={k.y + (k.h - 24) / 2} width="24" height="24"><Avatar name={k.e!.name} art="organisation" size={22} id={`o:${k.e!.id}`} /></foreignObject>
             <text x={k.x + 38} y={k.y + k.h / 2} dy="-0.2em" class="ktext">{kurz(k.e!.name, 26)}<tspan x={k.x + 38} dy="1.2em" class="amount">{k.e!.quelle === "lobbyregister" ? "ab " : ""}{fmtEuro(k.e!.wert)} · {k.e!.quelle === "haushalt" ? "Soll" : "Lobbyregister"}</tspan></text>
             <title>{k.e!.name}: {fmtEuro(k.e!.wert)}{k.e!.quelle === "haushalt" ? ` Haushalts-Soll ${empfaengerJahr ?? ""} aus Titeln dieses Einzelplans, deren Zweckbestimmung den Empfänger nennt` : " Untergrenze laut Lobbyregister (Eigenangabe), Geber in diesem Einzelplan"}</title>
           {:else}
@@ -310,7 +310,7 @@
               <rect x={tx} y={labelY(node) - TILE - 2} width={TILE} height={TILE} rx="5" fill={colorFor(node.colorKey)} fill-opacity="0.15" />
               <svg x={tx + 2} y={labelY(node) - TILE} width={TILE - 4} height={TILE - 4} style="color:{colorFor(node.colorKey)}"><Icon size={TILE - 4} /></svg>
             {:else if node.kind === "empfaenger" && node.id !== EMPFAENGER_UNBEKANNT && nodeHeight(node) >= 14}
-              <foreignObject x={labelAnchor(node) === "start" ? labelX(node) : labelX(node) - 22} y={labelY(node) - 11} width="22" height="22"><Avatar name={node.label} art="organisation" size={20} /></foreignObject>
+              <foreignObject x={labelAnchor(node) === "start" ? labelX(node) : labelX(node) - 22} y={labelY(node) - 11} width="22" height="22"><Avatar name={node.label} art="organisation" size={20} id={`o:${node.id.slice("empfaenger:".length)}`} /></foreignObject>
             {/if}
             <text x={labelX(node) + ((node.kind === "epl" && nodeHeight(node) >= 22) || (node.kind === "empfaenger" && node.id !== EMPFAENGER_UNBEKANNT && nodeHeight(node) >= 14) ? (labelAnchor(node) === "start" ? 24 : -24) : 0)} y={labelY(node)} dy={twoLines(node) ? "-0.2em" : "0.35em"} text-anchor={labelAnchor(node)} class="label" class:strong={node.id === selected || focus.includes(node.id)} style="font-size:{11 * invK}px">
               {shortLabel(node)}

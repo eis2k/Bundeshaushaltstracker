@@ -28,7 +28,7 @@
   <h3>Politische Verantwortung <span class="info" title="Zuständigkeit für einen Einzelplan laut Bundesregierung. Sie ist keine persönliche Entscheidung über eine einzelne Zahlung."><Info size={14} /></span></h3>
   {#if v}
     <div class="kopf">
-      {#if chef}<Avatar name={chef.name} size={64} />{:else}<Avatar name={v.name} art="organisation" size={64} />{/if}
+      {#if chef}<Avatar name={chef.name} size={64} id={`p:${chef.id}`} />{:else}<Avatar name={v.name} art="organisation" size={64} />{/if}
       <div class="text">
         <b>{v.name}</b>
         {#if chef}
@@ -48,7 +48,7 @@
       <ul>
         {#each top as e (e.id)}
           <li>
-            <Avatar name={e.name} art="organisation" size={28} />
+            <Avatar name={e.name} art="organisation" size={28} id={`o:${e.id}`} />
             <button class="link name" onclick={() => onEmpfaenger(e.id)}>{e.name}</button>
             <span class="betrag"><b class="tabular">{fmtEuro(e.wert)}</b><small>{e.quelle === "haushalt" ? `Soll ${empfaengerJahr ?? ""}` : "Lobbyregister, Untergrenze"}</small></span>
           </li>

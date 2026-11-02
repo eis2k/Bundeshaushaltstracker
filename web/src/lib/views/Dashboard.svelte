@@ -100,7 +100,7 @@
         <thead><tr><th>Empfänger</th><th class="num">Soll {app.index?.jahre.at(-1) ?? ""}</th></tr></thead>
         <tbody>
           {#each topEmpfaenger as e (e.id)}
-            <tr><td><button class="link zeile" onclick={() => void app.openEmpfaenger(e.id)}><Avatar name={e.name} art="organisation" size={24} />{e.name}</button></td><td class="num tabular">{fmtEuro(e.haushalt_soll_letztes_jahr)}</td></tr>
+            <tr><td><button class="link zeile" onclick={() => void app.openEmpfaenger(e.id)}><Avatar name={e.name} art="organisation" size={24} id={`o:${e.id}`} />{e.name}</button></td><td class="num tabular">{fmtEuro(e.haushalt_soll_letztes_jahr)}</td></tr>
           {/each}
         </tbody>
       </table>
@@ -110,7 +110,7 @@
       <h3><Landmark size={16} /> Ministerium – Detailansicht</h3>
       {#if groesstes}
         <div class="minister">
-          {#if chef}<Avatar name={chef.name} size={44} />{:else}<Avatar name={groesstes.name} art="organisation" size={44} />{/if}
+          {#if chef}<Avatar name={chef.name} size={44} id={`p:${chef.id}`} />{:else}<Avatar name={groesstes.name} art="organisation" size={44} />{/if}
           <div><b>{groesstes.name}</b><small class="muted">{chef ? `${chef.amt}: ${chef.name}` : groesstes.leitungHinweis}</small><small>Haushalt {app.jahr}: <b class="tabular">{fmtEuro(groesstesEffektiv)}</b> · {groesstesAnteil.toLocaleString("de-DE")} % der Ausgaben</small></div>
         </div>
         <button class="mehr" onclick={() => app.setView("ministerien")}>Alle Ministerien</button>
@@ -120,7 +120,7 @@
       <h3><Users size={16} /> Politik & Verantwortung</h3>
       <ul class="personen">
         {#each kabinett as p (p.id)}
-          <li><Avatar name={p.name} size={28} /><div><button class="link" onclick={() => void app.openAkte(p.id)}>{p.name}</button><small class="muted">{p.amt} {#if p.partei}<Partei name={parteiKurz(p.partei)} />{/if}</small></div>{#if p.epl}<button class="chip" onclick={() => app.zeigeImFluss([p.epl!])}>Zuständigkeiten</button>{/if}</li>
+          <li><Avatar name={p.name} size={28} id={`p:${p.id}`} /><div><button class="link" onclick={() => void app.openAkte(p.id)}>{p.name}</button><small class="muted">{p.amt} {#if p.partei}<Partei name={parteiKurz(p.partei)} />{/if}</small></div>{#if p.epl}<button class="chip" onclick={() => app.zeigeImFluss([p.epl!])}>Zuständigkeiten</button>{/if}</li>
         {/each}
         {#if !kabinett.length}<li class="muted small">Leitung für {app.jahr} nicht erfasst.</li>{/if}
       </ul>

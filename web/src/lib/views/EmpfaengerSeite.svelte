@@ -72,7 +72,7 @@
   <div class="raster">
     <aside class="profil">
       <div class="kopf">
-        <Avatar name={seite.name} art="organisation" size={52} />
+        <Avatar name={seite.name} art="organisation" size={52} id={`o:${seite.id}`} />
         <div><b>{seite.name}</b><small>{EMPFAENGER_ART_LABELS[seite.art] ?? seite.art}{#if seite.rechtsform} · {seite.rechtsform}{/if}</small>
           {#if seite.haushalt.titel.length}<span class="chip gruen">Öffentliche Mittel</span>{:else if seite.lobbyregister}<span class="chip">Lobbyregister</span>{/if}</div>
       </div>
@@ -115,10 +115,10 @@
                 <li><span class="kachel"><Scale size={15} /></span><div><small>Geldgeber laut Lobbyregister</small><button class="link" onclick={() => app.zeigeImFluss([blick.eplLobby!])}>{eplName(blick.eplLobby)}</button></div></li>
               {/if}
               {#if v}
-                <li>{#if chef}<Avatar name={chef.name} size={30} />{:else}<span class="kachel"><Users size={15} /></span>{/if}<div><small>Politische Verantwortung {app.jahr}</small>{#if chef}<button class="link" onclick={() => void app.openAkte(chef.id)}>{chef.amt.split(" ")[0]}: {chef.name}</button> <Partei name={chef.partei ?? null} />{:else}<span class="muted">{v.hinweis}</span>{/if}</div></li>
+                <li>{#if chef}<Avatar name={chef.name} size={30} id={`p:${chef.id}`} />{:else}<span class="kachel"><Users size={15} /></span>{/if}<div><small>Politische Verantwortung {app.jahr}</small>{#if chef}<button class="link" onclick={() => void app.openAkte(chef.id)}>{chef.amt.split(" ")[0]}: {chef.name}</button> <Partei name={chef.partei ?? null} />{:else}<span class="muted">{v.hinweis}</span>{/if}</div></li>
               {/if}
               {#if blick.vertretung}
-                <li><Avatar name={blick.vertretung.name} size={30} /><div><small>{blick.vertretung.funktion || "Gesetzliche Vertretung"} (laut Lobbyregister)</small><button class="link" onclick={() => void app.openAkte(blick.vertretung!.akte_id!)}>{blick.vertretung.name}</button></div></li>
+                <li><Avatar name={blick.vertretung.name} size={30} id={`p:${blick.vertretung.akte_id}`} /><div><small>{blick.vertretung.funktion || "Gesetzliche Vertretung"} (laut Lobbyregister)</small><button class="link" onclick={() => void app.openAkte(blick.vertretung!.akte_id!)}>{blick.vertretung.name}</button></div></li>
               {/if}
               {#if !blick.eplHaushalt && !blick.eplLobby && !blick.vertretung}<li class="muted">Keine Zuordnung in den ausgewerteten Quellen.</li>{/if}
             </ul>
@@ -136,8 +136,8 @@
                 <Netz {app} {umfeld} kompakt onVoll={() => void app.openNetz(`e:${seite.id}`)} />
               {:else}
               <div class="netzvorschau">
-                <Avatar name={seite.name} art="organisation" size={40} />
-                {#each mitAkte.slice(0, 4) as p}<Avatar name={p.name} size={32} />{/each}
+                <Avatar name={seite.name} art="organisation" size={40} id={`o:${seite.id}`} />
+                {#each mitAkte.slice(0, 4) as p}<Avatar name={p.name} size={32} id={`p:${p.akte_id}`} />{/each}
                 {#if geber.length}<span class="kachel blau" title={geber.join(", ")}><Landmark size={15} /></span>{/if}
               </div>
               <p class="muted small">{mitAkte.length} {mitAkte.length === 1 ? "Person" : "Personen"} mit Akte, {seite.verbindungen.length} belegte {seite.verbindungen.length === 1 ? "Verbindung" : "Verbindungen"}{#if geber.length}, Geld von {geber.length} {geber.length === 1 ? "Stelle" : "Stellen"} des Bundes{/if}.</p>
@@ -154,7 +154,7 @@
             {:else}
               <ul class="pliste">
                 {#each seite.personen.slice(0, 4) as p}
-                  <li><Avatar name={p.name} size={30} /><div><b>{p.name}</b> <Partei name={partei(p)} /><small class="muted">{p.funktion || (p.rolle === "interessenvertreter" ? "Interessenvertretung" : "gesetzliche Vertretung")}{#if p.regierungsfunktion} · {p.regierungsfunktion.funktion}{/if}</small></div>
+                  <li><Avatar name={p.name} size={30} id={p.akte_id && p.akte_sichtbar ? `p:${p.akte_id}` : undefined} /><div><b>{p.name}</b> <Partei name={partei(p)} /><small class="muted">{p.funktion || (p.rolle === "interessenvertreter" ? "Interessenvertretung" : "gesetzliche Vertretung")}{#if p.regierungsfunktion} · {p.regierungsfunktion.funktion}{/if}</small></div>
                     {#if p.akte_id && p.akte_sichtbar}<button class="chip knopfchip" onclick={() => void app.openAkte(p.akte_id!)}>Akte</button>{/if}</li>
                 {/each}
               </ul>
@@ -308,7 +308,7 @@
           {:else}
             <ul class="personen">
               {#each seite.personen as p}
-                <li><Avatar name={p.name} size={32} /><div>
+                <li><Avatar name={p.name} size={32} id={p.akte_id && p.akte_sichtbar ? `p:${p.akte_id}` : undefined} /><div>
                   {#if p.akte_id && p.akte_sichtbar}<button class="link" onclick={() => void app.openAkte(p.akte_id!)}><b>{p.name}</b></button>{:else}<b>{p.name}</b>{#if p.akte_id === null || p.akte_sichtbar === false} <span class="tag">Akte nicht freigeschaltet</span>{/if}{/if} <Partei name={partei(p)} /> · {p.funktion || (p.rolle === "interessenvertreter" ? "Interessenvertretung" : "gesetzliche Vertretung")}
                   {#if p.rolle === "interessenvertreter"}<span class="tag">Interessenvertreter laut Lobbyregister</span>{/if}
                   {#if p.regierungsfunktion}<span class="tag">{p.regierungsfunktion.beendet ? "frühere öffentliche Funktion" : "öffentliche Funktion, laufend"}: {p.regierungsfunktion.funktion}{#if p.regierungsfunktion.stelle}, {p.regierungsfunktion.stelle}{/if}{#if p.regierungsfunktion.beendet && p.regierungsfunktion.ende} bis {p.regierungsfunktion.ende}{/if}</span>{/if}

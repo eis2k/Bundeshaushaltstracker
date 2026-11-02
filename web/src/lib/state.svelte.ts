@@ -1,5 +1,7 @@
 import { applyPresets } from "./model/presets";
 import { attribut, lies, schreibe, type Theme } from "./model/theme";
+import type { Bilder } from "./model/bilder";
+import { setBilder } from "./ui/bilder.svelte";
 import { balance as computeBalance, setFactor as applyFactor } from "./model/scenario";
 import { decodeScenario, encodeScenario, knownIds, type TopfId } from "./model/share";
 import { buildToepfe, type SozialkassenYear, type ToepfeResult } from "./model/toepfe";
@@ -23,6 +25,7 @@ export interface Loader {
   loadSozialkassen?: (jahr: number) => Promise<SozialkassenYear>;
   loadSteuern?: () => Promise<SteuerSzenario[]>;
   loadTexte?: () => Promise<Record<string, { text: string; quelle: string[]; stand: string }>>;
+  loadBilder?: () => Promise<Bilder | null>;
   loadKonkordanz?: () => Promise<Record<string, { ab: number; hinweis: string; quelle?: string }>>;
   loadEmpfaengerIndex?: () => Promise<EmpfaengerIndex>;
   loadEmpfaenger?: (id: string) => Promise<EmpfaengerSeite>;
@@ -72,6 +75,9 @@ export class AppState {
   texte = $state<Record<string, { text: string; quelle: string[]; stand: string }>>({});
   konkordanz = $state<Record<string, { ab: number; hinweis: string; quelle?: string }>>({});
   index = $state<Index | null>(null);
+  /** Porträts und Logos (Spec §4.13), nachgeladen; null ohne Bildabruf im Build. */
+  bilder = $state<Bilder | null>(null);
+
   /** Darstellung Hell | Dunkel | System (Spec §4.12), aus dem Browser-Speicher. */
   theme = $state<Theme>("system");
 
@@ -160,6 +166,7 @@ export class AppState {
       this.gesetz = gesetz;
       this.steuern = steuern;
       if (this.loader.loadTexte) this.loader.loadTexte().then((t) => (this.texte = t)).catch(() => undefined);
+      if (this.loader.loadBilder) this.loader.loadBilder().then((b) => { this.bilder = b; setBilder(b); }).catch(() => undefined);
       if (this.loader.loadKonkordanz) this.loader.loadKonkordanz().then((k) => (this.konkordanz = k)).catch(() => undefined);
       void this.ensureEmpfaenger();
       const latest = index.jahre[index.jahre.length - 1];

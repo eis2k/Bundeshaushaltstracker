@@ -56,7 +56,7 @@
       <tbody>
         {#each shown as e (e.id)}
           <tr>
-            <td class="name"><Avatar name={e.name} size={28} /><a href={`#v1;j=${app.jahr};a=personen;pe=${e.id}`} onclick={(ev) => { ev.preventDefault(); void app.openAkte(e.id); }}>{e.name}</a></td>
+            <td class="name"><Avatar name={e.name} size={28} id={`p:${e.id}`} /><a href={`#v1;j=${app.jahr};a=personen;pe=${e.id}`} onclick={(ev) => { ev.preventDefault(); void app.openAkte(e.id); }}>{e.name}</a></td>
             <td>{e.funktion_kurz.replace(/^(Mitglied des Bundestages(?: bis [^,]+)?), .+$/, "$1")} {#if parteiVon(e)}<Partei name={parteiKurz(parteiVon(e)!)} />{/if}</td>
             <td class="num tabular">{e.n_organisationen || "–"}</td>
           </tr>

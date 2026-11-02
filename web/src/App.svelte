@@ -1,6 +1,6 @@
 <script lang="ts">
   import { onMount } from "svelte";
-  import { loadEmpfaenger, loadEmpfaengerIndex, loadGesetzFrei, loadIndex, loadKonkordanz, loadNetzIndex, loadNetzShard, loadPersonIndex, loadPersonShard, loadPresets, loadSozialkassen, loadSteuern, loadTexte, loadVpi, loadYear, loadZeitreihe } from "./lib/model/load";
+  import { loadBilder, loadEmpfaenger, loadEmpfaengerIndex, loadGesetzFrei, loadIndex, loadKonkordanz, loadNetzIndex, loadNetzShard, loadPersonIndex, loadPersonShard, loadPresets, loadSozialkassen, loadSteuern, loadTexte, loadVpi, loadYear, loadZeitreihe } from "./lib/model/load";
   import { AppState } from "./lib/state.svelte";
   import Datenstatus from "./lib/ui/Datenstatus.svelte";
   import Kopfzeile from "./lib/ui/Kopfzeile.svelte";
@@ -26,7 +26,7 @@
   import Dashboard from "./lib/views/Dashboard.svelte";
   import Schnittwechsel from "./lib/ui/Schnittwechsel.svelte";
 
-  const app = new AppState({ loadIndex, loadYear, loadPresets, loadGesetzFrei, loadZeitreihe, loadVpi, loadSozialkassen, loadTexte, loadKonkordanz, loadSteuern, loadEmpfaengerIndex, loadEmpfaenger, loadPersonIndex, loadPersonShard, loadNetzIndex, loadNetzShard });
+  const app = new AppState({ loadIndex, loadYear, loadPresets, loadGesetzFrei, loadZeitreihe, loadVpi, loadSozialkassen, loadTexte, loadKonkordanz, loadSteuern, loadEmpfaengerIndex, loadEmpfaenger, loadPersonIndex, loadPersonShard, loadNetzIndex, loadNetzShard, loadBilder });
   let ready = $state(false);
 
   onMount(() => {

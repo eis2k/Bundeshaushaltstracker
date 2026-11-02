@@ -1,3 +1,4 @@
+import type { Bilder } from "./bilder";
 import type { GesetzFreiMap, Index, Preset, YearData } from "./types";
 import type { Vpi, Zeitreihe } from "./zeitreihe";
 import type { SozialkassenYear } from "./toepfe";
@@ -32,6 +33,8 @@ export const loadNetzIndex = () => getJson<Record<string, string>>("netz/index.j
 export const loadNetzShard = (shard: string) => getJson<Record<string, Umfeld>>(`netz/${shard}.json`);
 export type Texte = Record<string, { text: string; quelle: string[]; stand: string }>;
 export const loadTexte = () => getJson<Texte>("texte.json");
+/** Porträts und Logos (Spec §4.13); fehlt in Builds ohne Bildabruf → null. */
+export const loadBilder = () => getJson<Bilder>("bilder.json").catch(() => null);
 export const loadKonkordanz = async (): Promise<Record<string, { ab: number; hinweis: string; quelle?: string }>> => {
   const raw = await getJson<{ epl: { epl: string; ab: number; hinweis: string; quelle?: string }[] }>("konkordanz.json");
   return Object.fromEntries(raw.epl.map((e) => [e.epl, { ab: e.ab, hinweis: e.hinweis, quelle: e.quelle }]));

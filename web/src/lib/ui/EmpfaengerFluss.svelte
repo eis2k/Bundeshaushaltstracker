@@ -74,7 +74,7 @@
             <foreignObject x={x1 + 6} y={(y0 + y1) / 2 - 11} width="22" height="22"><span class="kachel"><Landmark size={13} /></span></foreignObject>
             <text x={x1 + 32} y={(y0 + y1) / 2} dy="-0.15em">{kurz(n.label, 34)}<tspan x={x1 + 32} dy="1.2em" class="betrag">{modell.quelle === "lobby" ? "ab " : ""}{fmtEuro(n.wert)}{anteil(n)}</tspan></text>
           {:else if n.art === "mitte"}
-            <foreignObject x={(x0 + x1) / 2 - 16} y={y0 - 2 - 36} width="32" height="34"><Avatar name={n.label} art="organisation" size={30} /></foreignObject>
+            <foreignObject x={(x0 + x1) / 2 - 16} y={y0 - 2 - 36} width="32" height="34"><Avatar name={n.label} art="organisation" size={30} id={`o:${seite.id}`} /></foreignObject>
             <text x={(x0 + x1) / 2} y={y1 + 14} text-anchor="middle" class="mitte">{kurz(n.label, 40)}<tspan x={(x0 + x1) / 2} dy="1.2em" class="betrag">{modell.quelle === "lobby" ? "ab " : ""}{fmtEuro(n.wert)}</tspan></text>
           {:else}
             <text x={x0 - 6} y={(y0 + y1) / 2} dy="-0.15em" text-anchor="end">{kurz(n.label, 36)}<tspan x={x0 - 6} dy="1.2em" class="betrag">{fmtEuro(n.wert)}{anteil(n)}</tspan></text>

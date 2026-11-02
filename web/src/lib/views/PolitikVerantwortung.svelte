@@ -34,7 +34,7 @@
         <ul>
           {#each items as m (m.id)}
             <li>
-              <Avatar name={m.name} size={40} />
+              <Avatar name={m.name} size={40} id={`p:${m.id}`} />
               <div class="text">
                 <button class="link" onclick={() => void app.openAkte(m.id)}>{m.name}</button>
                 <small>{m.amt}{#if m.epl && !LEITUNG.test(m.amt)} · {ressort(m.epl)}{/if} {#if m.partei}<Partei name={parteiKurz(m.partei)} />{/if}</small>

@@ -60,7 +60,7 @@
   {#if m}
     <article class="detail">
       <header>
-        {#if chef}<Avatar name={chef.name} size={64} />{:else}<Avatar name={m.name} art="organisation" size={64} />{/if}
+        {#if chef}<Avatar name={chef.name} size={64} id={`p:${chef.id}`} />{:else}<Avatar name={m.name} art="organisation" size={64} />{/if}
         <div class="kopf">
           <span class="epl">Einzelplan {m.epl}</span>
           <h3>{m.name}</h3>
@@ -87,7 +87,7 @@
         {#if top.length}
           <ul class="empf">
             {#each top as e (e.id)}
-              <li><Avatar name={e.name} art="organisation" size={30} /><button class="link" onclick={() => void app.openEmpfaenger(e.id)}>{e.name}</button><span class="betrag"><b class="tabular">{fmtEuro(e.wert)}</b><small>{e.quelle === "haushalt" ? `Soll ${letztesJahr}` : "Lobbyregister, Untergrenze"}</small></span></li>
+              <li><Avatar name={e.name} art="organisation" size={30} id={`o:${e.id}`} /><button class="link" onclick={() => void app.openEmpfaenger(e.id)}>{e.name}</button><span class="betrag"><b class="tabular">{fmtEuro(e.wert)}</b><small>{e.quelle === "haushalt" ? `Soll ${letztesJahr}` : "Lobbyregister, Untergrenze"}</small></span></li>
             {/each}
           </ul>
           <p class="muted small">Haushaltsbeträge aus Titeln, deren Zweckbestimmung den Empfänger nennt; Lobbyregister-Beträge sind Eigenangaben. Nicht addiert.</p>
@@ -99,7 +99,7 @@
         {#if m.leitung.length}
           <ul class="leitung">
             {#each m.leitung as l (l.id)}
-              <li><Avatar name={l.name} size={36} /><div><button class="link" onclick={() => void app.openAkte(l.id)}>{l.name}</button> {#if l.partei}<Partei name={parteiKurz(l.partei)} />{/if}<small class="muted">{l.amt}{#if l.seit} · seit {l.seit}{/if}{#if l.bis} · bis {l.bis}{/if}</small></div><button class="chip hell" onclick={() => void app.openAkte(l.id)}>Akte</button></li>
+              <li><Avatar name={l.name} size={36} id={`p:${l.id}`} /><div><button class="link" onclick={() => void app.openAkte(l.id)}>{l.name}</button> {#if l.partei}<Partei name={parteiKurz(l.partei)} />{/if}<small class="muted">{l.amt}{#if l.seit} · seit {l.seit}{/if}{#if l.bis} · bis {l.bis}{/if}</small></div><button class="chip hell" onclick={() => void app.openAkte(l.id)}>Akte</button></li>
             {/each}
           </ul>
         {/if}
@@ -146,7 +146,7 @@
           {@const leit = chefVon(x.leitung)}
           <tr class:on={m?.epl === x.epl} onclick={() => { gewaehlt = x.epl; reiter = "geldfluesse"; }}>
             <td><span class="epl">{x.epl}</span> <b>{x.name}</b></td>
-            <td>{#if leit}<span class="leit"><Avatar name={leit.name} size={24} /><span class="leitname">{leit.name} {#if leit.partei}<Partei name={parteiKurz(leit.partei)} />{/if}<small class="muted">{leit.amt}{#if x.leitungHinweis} · {x.leitungHinweis}{/if}</small></span></span>{:else}<span class="muted">{x.leitungHinweis}</span>{/if}</td>
+            <td>{#if leit}<span class="leit"><Avatar name={leit.name} size={24} id={`p:${leit.id}`} /><span class="leitname">{leit.name} {#if leit.partei}<Partei name={parteiKurz(leit.partei)} />{/if}<small class="muted">{leit.amt}{#if x.leitungHinweis} · {x.leitungHinweis}{/if}</small></span></span>{:else}<span class="muted">{x.leitungHinweis}</span>{/if}</td>
             <td class="num tabular">{fmtEuro(x.ausgaben)}</td>
             <td class="num tabular">{pct(x.veraenderung)}</td>
             <td class="num tabular">{summe ? (Math.round((x.ausgaben / summe) * 1000) / 10).toLocaleString("de-DE") : 0} %</td>
@@ -162,7 +162,7 @@
       {@const leit = chefVon(x.leitung)}
       <button class="karte" class:on={m?.epl === x.epl} onclick={() => { gewaehlt = x.epl; reiter = "geldfluesse"; }} aria-pressed={m?.epl === x.epl}>
         <div class="kz">
-          {#if leit}<Avatar name={leit.name} size={34} />{:else}<Avatar name={x.name} art="organisation" size={34} />{/if}
+          {#if leit}<Avatar name={leit.name} size={34} id={`p:${leit.id}`} />{:else}<Avatar name={x.name} art="organisation" size={34} />{/if}
           <div class="kt"><span class="epl">Einzelplan {x.epl}</span><b>{x.name}</b><small class="muted">{leit ? `${leit.name}${leit.partei ? ` (${parteiKurz(leit.partei)})` : ""}` : x.leitungHinweis}</small></div>
         </div>
         <div class="zahl"><b class="tabular">{fmtEuro(x.ausgaben)}</b><small class="muted">{summe ? (Math.round((x.ausgaben / summe) * 1000) / 10).toLocaleString("de-DE") : 0} %</small></div>

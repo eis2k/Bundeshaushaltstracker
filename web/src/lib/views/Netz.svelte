@@ -5,6 +5,8 @@
   import { fmtEuro } from "../model/format";
   import { KNOTEN_LABELS, kanteBeschreibung, kantenStil, legende, type NetzKante, type NetzKnoten, type Umfeld } from "../model/netz";
   import type { AppState } from "../state.svelte";
+  import { bildFuer } from "../model/bilder";
+  import { bilderStore } from "../ui/bilder.svelte";
 
   /** kompakt: eingebettete Vorschau (Spec §4.12) ohne Kopf, Belegpanel und Legende; Knotenklick öffnet die Seite, „Umfeld zeigen“ die volle Ansicht. */
   let { app, umfeld, kompakt = false, onVoll }: { app: AppState; umfeld: Umfeld; kompakt?: boolean; onVoll?: () => void } = $props();
@@ -66,6 +68,13 @@
     else if (n.art === "ministerium") app.zeigeImFluss([n.id.slice(2)]);
   }
   function zentrum(n: N) { void app.openNetz(n.id); }
+  /** Porträt bzw. Logo des Knotens (Spec §4.13): Netz-Ids „p:<akte>“ und „e:<empfänger>“ → Bildkennungen. */
+  function bild(n: N) {
+    if (n.art === "person") return bildFuer(bilderStore.wert, `p:${n.id.slice(2)}`);
+    if (n.art === "organisation") return bildFuer(bilderStore.wert, `o:${n.id.slice(2)}`);
+    return null;
+  }
+  function radius(n: N): number { return n.id === umfeld.start ? 14 : 10; }
   const startKnoten = $derived(umfeld.knoten.find((k) => k.id === umfeld.start));
   const invK = $derived(1 / transform.k);
 </script>
@@ -97,6 +106,12 @@
            onclick={() => klick(n)} ondblclick={() => zentrum(n)} onkeydown={(e) => e.key === "Enter" && klick(n)}
            onmouseenter={(e) => (hover = { x: e.clientX, y: e.clientY, text: `${KNOTEN_LABELS[n.art] ?? n.art}: ${n.label}${n.art === "person" && !n.seite ? " (keine freigeschaltete Akte)" : ""}` })} onmouseleave={() => (hover = null)}>
           <path d={form(n)} fill={n.art === "person" && !n.seite ? "var(--bg)" : "var(--panel)"} stroke="var(--header)" stroke-width={n.id === umfeld.start ? 2.5 : 1.5} />
+          {#if bild(n)}
+            {@const b = bild(n)!}
+            {@const r = radius(n) - 1}
+            <clipPath id={`clip-${n.id.replace(/[^a-z0-9]/gi, "-")}`}>{#if n.art === "person"}<circle cx={n.x} cy={n.y} r={r} />{:else}<rect x={(n.x ?? 0) - r} y={(n.y ?? 0) - r} width={2 * r} height={2 * r} />{/if}</clipPath>
+            <image href={b.url} x={(n.x ?? 0) - r} y={(n.y ?? 0) - r} width={2 * r} height={2 * r} preserveAspectRatio="xMidYMid slice" clip-path={`url(#clip-${n.id.replace(/[^a-z0-9]/gi, "-")})`} />
+          {/if}
           <text x={n.x} y={(n.y ?? 0) + (n.id === umfeld.start ? 26 : 22)} text-anchor="middle" style="font-size:{10 * invK}px">{n.label.length > 28 ? n.label.slice(0, 27) + "…" : n.label}</text>
         </g>
       {/each}
