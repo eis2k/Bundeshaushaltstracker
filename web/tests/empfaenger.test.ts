@@ -1,6 +1,9 @@
 import { describe, expect, test } from "vitest";
 import {
+  aufEinenBlick,
   filtereEmpfaenger,
+  summeSeit,
+  zuwendungenJahr,
   fmtSpanne,
   geldAus,
   issueUrl,
@@ -74,5 +77,30 @@ describe("issueUrl", () => {
     expect(u).toContain(encodeURIComponent("amadeu-antonio-stiftung"));
     expect(decodeURIComponent(u)).toContain("Amadeu Antonio Stiftung");
     expect(decodeURIComponent(u)).toContain("2026-11-01");
+  });
+});
+
+describe("Wer profitiert? (Spec §4.11)", () => {
+  const s: EmpfaengerSeite = { ...seite,
+    haushalt: { titel: [...seite.haushalt.titel, { id: "11-1101-68401", text: "C", epl: "11", epl_text: "BMAS", werte: { "2025": { soll: 500, ist: null } } }] },
+    personen: [
+      { name: "X Y", funktion: "Vorstand", rolle: "gesetzlicher_vertreter", regierungsfunktion: null, quelle: { kurz: "Lobbyregister", url: null }, akte_id: null },
+      { name: "Z W", funktion: "Geschäftsführung", rolle: "gesetzlicher_vertreter", regierungsfunktion: null, quelle: { kurz: "Lobbyregister", url: null }, akte_id: "z-w", akte_sichtbar: true },
+    ] };
+  test("aufEinenBlick: Einzelplan je Quelle und erste Vertretung mit Akte", () => {
+    const b = aufEinenBlick(s);
+    expect(b.eplHaushalt).toBe("11");
+    expect(b.eplLobby).toBe("17");
+    expect(b.vertretung?.name).toBe("Z W");
+    expect(aufEinenBlick({ ...s, haushalt: { titel: [] }, lobby_zuwendungen: [], personen: [] })).toEqual({ eplHaushalt: null, eplLobby: null, vertretung: null });
+  });
+  test("zuwendungenJahr: Summe des Jahres und Vorjahr", () => {
+    expect(zuwendungenJahr(s, 2025, "soll")).toEqual({ wert: 650, vorjahr: 100 });
+    expect(zuwendungenJahr(s, 2024, "soll")).toEqual({ wert: 100, vorjahr: null });
+    expect(zuwendungenJahr(s, 2025, "ist")).toEqual({ wert: 0, vorjahr: 90 });
+  });
+  test("summeSeit: alle Jahre ab dem Startjahr", () => {
+    expect(summeSeit(s, 2015, "soll")).toBe(750);
+    expect(summeSeit(s, 2025, "soll")).toBe(650);
   });
 });

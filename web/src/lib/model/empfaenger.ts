@@ -175,3 +175,31 @@ export function issueUrl(seite: EmpfaengerSeite): string {
   ].join("\n");
   return `https://github.com/eis2k/Bundeshaushaltstracker/issues/new?title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}&labels=${encodeURIComponent("empfaenger,beleg")}`;
 }
+
+/** Karte „Auf einen Blick“ (Spec §4.11): Einzelplan mit dem meisten Haushalts-Soll des letzten Jahres mit Werten, Einzelplan mit der höchsten
+ *  Lobbyregister-Untergrenze, erste gesetzliche Vertretung mit sichtbarer Akte. Quellen getrennt, nichts addiert. */
+export function aufEinenBlick(seite: EmpfaengerSeite): { eplHaushalt: string | null; eplLobby: string | null; vertretung: PersonEintrag | null } {
+  const jahre = seite.haushalt.titel.flatMap((t) => Object.keys(t.werte).map(Number));
+  const letztes = jahre.length ? Math.max(...jahre) : null;
+  const jeEpl = new Map<string, number>();
+  if (letztes !== null) for (const t of seite.haushalt.titel) jeEpl.set(t.epl, (jeEpl.get(t.epl) ?? 0) + (t.werte[String(letztes)]?.soll ?? 0));
+  const eplHaushalt = [...jeEpl.entries()].sort((a, b) => b[1] - a[1])[0]?.[0] ?? null;
+  const lobby = new Map<string, number>();
+  for (const z of seite.lobby_zuwendungen) if (z.epl) lobby.set(z.epl, (lobby.get(z.epl) ?? 0) + z.von);
+  const eplLobby = [...lobby.entries()].sort((a, b) => b[1] - a[1])[0]?.[0] ?? null;
+  const vertretung = seite.personen.find((p) => p.rolle === "gesetzlicher_vertreter" && p.akte_id && p.akte_sichtbar) ?? null;
+  return { eplHaushalt, eplLobby, vertretung };
+}
+
+/** Summe der Haushaltstitel im Jahr (Soll oder Ist) und des Vorjahres; Vorjahr null, wenn kein Titel einen Wert hat. */
+export function zuwendungenJahr(seite: EmpfaengerSeite, jahr: number, stand: "soll" | "ist"): { wert: number; vorjahr: number | null } {
+  const reihe = titelZeitreihe(seite, stand);
+  const wert = reihe.find((r) => r.jahr === jahr)?.wert ?? 0;
+  const vorjahr = reihe.find((r) => r.jahr === jahr - 1)?.wert ?? null;
+  return { wert, vorjahr };
+}
+
+/** Summe der Haushaltstitel über alle Jahre ab `von` (Soll oder Ist). */
+export function summeSeit(seite: EmpfaengerSeite, von: number, stand: "soll" | "ist"): number {
+  return titelZeitreihe(seite, stand).filter((r) => r.jahr >= von).reduce((s, r) => s + r.wert, 0);
+}
