@@ -93,3 +93,16 @@ describe("Steuer-Szenarien im Link (Stufe 1b)", () => {
     expect(encodeScenario(base, "fluss", [])).toBe("v1;j=2025;a=fluss");
   });
 });
+
+describe("Empfänger-Link e=<id> (Stufe 2)", () => {
+  test("wird kodiert und dekodiert; ungültige Zeichen ergeben null", () => {
+    const h = encodeScenario(base, "empfaenger", [], "ressort", "gesamt", "goethe-institut");
+    expect(h).toContain("a=empfaenger");
+    expect(h).toContain("e=goethe-institut");
+    expect(decodeScenario(h, fixtureYear).empfaenger).toBe("goethe-institut");
+    expect(decodeScenario(h, fixtureYear).view).toBe("empfaenger");
+    expect(decodeScenario("v1;e=../x", fixtureYear).empfaenger).toBeNull();
+    expect(decodeScenario("v1;j=2025", fixtureYear).empfaenger).toBeNull();
+    expect(encodeScenario(base, "fluss", [])).not.toContain("e=");
+  });
+});

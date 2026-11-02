@@ -56,3 +56,21 @@ Hinweis zu 2015–2019: In diesen Jahren weist die Kreditaufnahme 0 aus („schw
 - `bund/<jahr>.json`: `{jahr, stand, quelle:{soll, ist, hinweise}, epl:{nr:text}, kap:{nr:text}, rows:[{id, art, epl, kap, titel, text, fkt, flex, tgr, soll, ist, sv}]}`; Beträge in Euro.
 - `zeitreihe.json`: `{jahre:[…], titel:{id:{text, epl, kap, art, sv, soll:[…], ist:[…]}}, kap:{…}, epl:{…}}`; `null` für fehlende Jahre.
 - `index.json`: `{jahre, ist_bis, summen:{jahr:{ausgaben, einnahmen, kredite}}, erzeugt}`.
+
+## Empfänger-Daten (Stufe 2)
+
+Drei amtliche Quellen liefern die Empfänger-Seiten; alle Abrufe laufen über `bht fetch-empfaenger`, der Build liest nur aus `data/raw/` und `data/manual/`.
+
+| Quelle | Kommando | Rohdaten | Dauer |
+|---|---|---|---|
+| Lobbyregister des Bundestags, Gesamtexport aller Detailprofile (eine Anfrage, 480 MB) | `uv run bht fetch-empfaenger --quellen lobbyregister` | `data/raw/lobbyregister/R<Nr>_<Id>.json` (nur Organisationen) | 1 bis 2 Minuten |
+| Biografien der Abgeordneten (bundestag.de), Liste über den Ajax-Endpunkt | `uv run bht fetch-empfaenger --quellen bundestag` | `data/raw/bundestag/<id>.html` plus `.url` | rund 640 Seiten, 15 Minuten bei 1,5 s Pause |
+| Förderkatalog des Bundes, Suche je Empfängername mit CSV-Export | `uv run bht fetch-empfaenger --quellen foerderkatalog` | `data/raw/foerderkatalog/<empfaenger-id>.csv` (leer = kein Treffer) | rund 1.500 Empfänger, 1 bis 2 Stunden |
+
+`--limit N` begrenzt die Zahl der Abrufe (Tests), `--pause` die Wartezeit zwischen Anfragen (Standard 1,5 s), `--gesamtexport DATEI` nutzt einen bereits geladenen Lobbyregister-Export. Vorhandene Rohdateien werden nicht erneut geladen; zum Aktualisieren löschen.
+
+`bht build` schreibt danach `data/build/empfaenger/index.json` und je Empfänger `data/build/empfaenger/<id>.json`, außerdem die Prüflisten `data/review/empfaenger_kandidaten.yaml` (ähnliche Namen zwischen den Quellen) und `data/review/verbindungen_kandidaten.yaml` (Angaben von Abgeordneten, die einem Empfänger nur ähneln). `bht build --ohne-personen` lässt Personen und Verbindungen aus den Build-Dateien weg.
+
+Pflegedaten: `data/manual/empfaenger.yaml` (Stamm, Aliasse, Titel-Zuordnung, Förderkatalog-Suchname), `data/manual/ressorts.yaml` (Geldgeber-Namen → Einzelplan), `data/manual/verbindungen.yaml` (von Hand bestätigte Verbindungen, nur mit `geprueft: true` und Quelle), `data/manual/jahresabschluss.yaml` (Kennzahlen aus Jahresabschlüssen mit Seitenangabe).
+
+Regeln: Beträge aus Haushalt (Euro), Lobbyregister (Spannen, Eigenangabe) und Förderkatalog (Projektsummen) stehen getrennt nebeneinander und werden nie addiert. Verbindungen Person ↔ Organisation werden nur bei exakt gleichem normalisiertem Namen automatisch veröffentlicht; alles andere wartet in der Prüfliste.

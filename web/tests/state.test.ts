@@ -113,3 +113,45 @@ describe("Review-Fixes", () => {
     expect(s.topf).toBe("bund");
   });
 });
+
+describe("Empfänger (Stufe 2)", () => {
+  const empfIndex = { stand: "2026-11-01", mit_personen: true, titel: { "11-1102-63681": { id: "drv", name: "Deutsche Rentenversicherung Bund" } },
+    eintraege: [{ id: "drv", name: "Deutsche Rentenversicherung Bund", art: "oeffentlich", rechtsform: "", sitz: "", lobby_untergrenze_bund: 0, haushalt_soll_letztes_jahr: 400, foerderkatalog_summe: 0, n_personen: 0, n_verbindungen: 0, lobbyregister: null, epls: ["11"] }] };
+  const drv = { id: "drv", name: "Deutsche Rentenversicherung Bund", art: "oeffentlich", rechtsform: "", sitz: "", website: null, stand: "2026-11-01", geprueft: true, lobbyregister: null,
+    haushalt: { titel: [] }, lobby_zuwendungen: [], lobby_untergrenze_bund: 0, foerderkatalog: [], personen: [], verbindungen: [], pflichtangaben: null, quellen: [] };
+  const eloader: Loader = {
+    ...loader,
+    loadEmpfaengerIndex: async () => empfIndex as never,
+    loadEmpfaenger: async (id: string) => { if (id !== "drv") throw new Error("404"); return drv as never; },
+  };
+
+  test("openEmpfaenger lädt die Seite, setzt die Ansicht und schreibt e= in den Link", async () => {
+    const s = new AppState(eloader);
+    await s.init("");
+    await s.openEmpfaenger("drv");
+    expect(s.view).toBe("empfaenger");
+    expect(s.empfaengerSeite?.name).toBe("Deutsche Rentenversicherung Bund");
+    expect(s.toHash()).toContain("e=drv");
+    expect(s.empfaengerByTitel["11-1102-63681"].id).toBe("drv");
+  });
+
+  test("openEmpfaenger mit unbekannter Id setzt empfaengerFehlt und bleibt in der Liste", async () => {
+    const s = new AppState(eloader);
+    await s.init("");
+    await s.openEmpfaenger("gibt-es-nicht");
+    expect(s.view).toBe("empfaenger");
+    expect(s.empfaengerSeite).toBeNull();
+    expect(s.empfaengerFehlt).toBe("gibt-es-nicht");
+    expect(s.toHash()).not.toContain("e=");
+  });
+
+  test("init mit e= im Link öffnet die Seite; openEmpfaengerListe setzt den Ressort-Filter", async () => {
+    const s = new AppState(eloader);
+    await s.init("#v1;j=2025;a=empfaenger;e=drv");
+    expect(s.view).toBe("empfaenger");
+    expect(s.empfaengerSeite?.id).toBe("drv");
+    s.openEmpfaengerListe({ epl: "11" });
+    expect(s.empfaengerId).toBeNull();
+    expect(s.empfaengerFilterEpl).toBe("11");
+  });
+});

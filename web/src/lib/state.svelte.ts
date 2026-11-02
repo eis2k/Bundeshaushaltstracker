@@ -6,6 +6,7 @@ import { defaultWerte, normalisiere, steuerEinnahmen, type SteuerErgebnis, type 
 import type { Balance, GesetzFreiMap, Index, NodeId, Preset, Scenario, SolverReport, ViewId, YearData } from "./model/types";
 import { deflate, type Vpi, type Zeitreihe } from "./model/zeitreihe";
 import type { Schnitt } from "./model/schnitte";
+import type { EmpfaengerIndex, EmpfaengerSeite } from "./model/empfaenger";
 
 export interface Loader {
   loadIndex: () => Promise<Index>;
@@ -18,6 +19,8 @@ export interface Loader {
   loadSteuern?: () => Promise<SteuerSzenario[]>;
   loadTexte?: () => Promise<Record<string, { text: string; quelle: string[]; stand: string }>>;
   loadKonkordanz?: () => Promise<Record<string, { ab: number; hinweis: string; quelle?: string }>>;
+  loadEmpfaengerIndex?: () => Promise<EmpfaengerIndex>;
+  loadEmpfaenger?: (id: string) => Promise<EmpfaengerSeite>;
 }
 
 export type Stand = "soll" | "ist";
@@ -71,6 +74,13 @@ export class AppState {
   vpi = $state<Vpi | null>(null);
   /** Inflationsbereinigt: alle Beträge in Preisen des letzten Jahres. */
   real = $state(false);
+  /** Empfänger (Stufe 2): Index, geöffnete Seite, Filter der Liste. */
+  empfaengerIndex = $state<EmpfaengerIndex | null>(null);
+  empfaengerId = $state<string | null>(null);
+  empfaengerSeite = $state<EmpfaengerSeite | null>(null);
+  empfaengerFehlt = $state<string | null>(null);
+  empfaengerFilterEpl = $state<string | null>(null);
+  empfaengerByTitel = $derived<Record<string, { id: string; name: string }>>(this.empfaengerIndex?.titel ?? {});
 
   bezugsjahr = $derived(this.index ? this.index.jahre[this.index.jahre.length - 1] : this.jahr);
   viewData = $derived<YearData | null>(this.data
@@ -130,6 +140,10 @@ export class AppState {
       this.unknownIds = final.unknownIds;
       this.fromShare = hash.replace(/^#/, "").length > 0 && (Object.keys(final.scenario.factors).length > 0 || final.scenario.presets.length > 0 || Object.keys(final.scenario.steuern ?? {}).length > 0);
       this.error = null;
+      if (final.view === "empfaenger" || final.empfaenger) {
+        await this.ensureEmpfaenger();
+        if (final.empfaenger) await this.openEmpfaenger(final.empfaenger);
+      }
     } catch (e) {
       this.error = e instanceof Error ? e.message : String(e);
     } finally {
@@ -187,7 +201,43 @@ export class AppState {
     this.scenario = { ...this.scenario, presets };
   }
 
-  setView(view: ViewId): void { this.view = view; }
+  setView(view: ViewId): void {
+    this.view = view;
+    if (view === "empfaenger") void this.ensureEmpfaenger();
+  }
+
+  async ensureEmpfaenger(): Promise<void> {
+    if (!this.empfaengerIndex && this.loader.loadEmpfaengerIndex) {
+      try { this.empfaengerIndex = await this.loader.loadEmpfaengerIndex(); } catch { this.empfaengerIndex = { stand: "", mit_personen: false, eintraege: [], titel: {} }; }
+    }
+  }
+
+  /** Öffnet die Liste; `epl` filtert auf Empfänger, die Geld aus diesem Einzelplan erhalten. */
+  openEmpfaengerListe(filter?: { epl?: string }): void {
+    this.view = "empfaenger";
+    this.empfaengerId = null;
+    this.empfaengerSeite = null;
+    this.empfaengerFehlt = null;
+    this.empfaengerFilterEpl = filter?.epl ?? null;
+    void this.ensureEmpfaenger();
+  }
+
+  /** Öffnet eine Empfänger-Seite; unbekannte Id → Liste mit Hinweis. */
+  async openEmpfaenger(id: string | null): Promise<void> {
+    this.view = "empfaenger";
+    await this.ensureEmpfaenger();
+    if (!id) { this.openEmpfaengerListe(); return; }
+    this.empfaengerFehlt = null;
+    try {
+      if (!this.loader.loadEmpfaenger) throw new Error("kein Loader");
+      this.empfaengerSeite = await this.loader.loadEmpfaenger(id);
+      this.empfaengerId = id;
+    } catch {
+      this.empfaengerSeite = null;
+      this.empfaengerId = null;
+      this.empfaengerFehlt = id;
+    }
+  }
   setTopf(topf: TopfId): void {
     if (topf !== this.topf) { this.focus = []; this.selected = null; }
     this.topf = topf;
@@ -224,7 +274,7 @@ export class AppState {
   }
 
   toHash(): string {
-    return encodeScenario(this.scenario, this.view, this.focus, this.schnitt, this.topf);
+    return encodeScenario(this.scenario, this.view, this.focus, this.schnitt, this.topf, this.view === "empfaenger" ? this.empfaengerId : null);
   }
 
   get istVerfuegbar(): boolean {
