@@ -1,6 +1,6 @@
 <script lang="ts">
-  import { fmtEuro, fmtEuroCent } from "../model/format";
-  import { FUNKTION_LABELS, bezuegeNachPosten, issueUrlAkte, zeitlinieJahre, type Akte } from "../model/personen";
+  import { fmtDatum, fmtEuro, fmtEuroCent } from "../model/format";
+  import { FUNKTION_LABELS, bezuegeNachPosten, issueUrlAkte, zeigeBei, zeitlinieJahre, type Akte } from "../model/personen";
   import type { AppState } from "../state.svelte";
 
   let { app, akte }: { app: AppState; akte: Akte } = $props();
@@ -16,9 +16,9 @@
   });
   const grund = $derived(akte.grund_sichtbar === "amt" ? "öffentliches Amt" : akte.grund_sichtbar === "verbindung" ? "belegte Verbindung zur Entscheidungsseite" : akte.grund_sichtbar === "freigabe" ? "von einem Prüfer freigeschaltet" : akte.grund_sichtbar === "alle" ? "vollständige Fassung (alle Akten)" : "");
   const bezuege = $derived(akte.bezuege ? bezuegeNachPosten(akte.bezuege) : []);
-  function zeitraum(von: string | null, bis: string | null, monate: number | null): string {
-    if (!von) return "Zeitraum nicht belegt";
-    return `${von} – ${bis ?? ""}${monate != null ? ` (${monate} Monate)` : ""}`;
+  function zeitraum(von: string | null, bis: string | null, monate: number | null, summe: number | null): string {
+    if (!von || summe == null) return "Zeitraum nicht belegt";
+    return `${fmtDatum(von)} – ${fmtDatum(bis)}${monate != null ? ` (${monate} Monate mit Satz)` : ""}`;
   }
   function host(u: string | null): string {
     if (!u) return "";
@@ -35,8 +35,8 @@
       {#each akte.funktionen as f}
         <li>
           <span class="tag">{FUNKTION_LABELS[f.art] ?? f.art}</span>
-          <b>{f.text}</b>{#if f.organisation && f.art !== "mdb"} bei {#if f.organisation_id}<button class="link" onclick={() => void app.openEmpfaenger(f.organisation_id!)}>{f.organisation}</button>{:else}{f.organisation}{/if}{/if}
-          {#if f.seit} · seit {f.seit}{#if f.seit_hinweis} <span class="muted" title={f.seit_hinweis}>(laut Biografie)</span>{/if}{/if}{#if f.bis} · bis {f.bis}{/if}
+          <b>{f.text}</b>{#if zeigeBei(f)} bei {#if f.organisation_id}<button class="link" onclick={() => void app.openEmpfaenger(f.organisation_id!)}>{f.organisation}</button>{:else}{f.organisation}{/if}{/if}
+          {#if f.seit} · seit {fmtDatum(f.seit)}{#if f.seit_hinweis} <span class="muted" title={f.seit_hinweis}>(laut Biografie)</span>{/if}{/if}{#if f.bis} · bis {fmtDatum(f.bis)}{/if}
           <small class="muted">Quelle: <a href={f.quelle.url ?? "#"} target="_blank" rel="noopener">{f.quelle.kurz}</a>{#if f.quelle.etikett} · {f.quelle.etikett}{/if} · Stand {f.stand}</small>
           {#if f.ausschuesse?.length}<small class="muted">Ausschüsse und Gremien: {f.ausschuesse.join("; ")}</small>{/if}
         </li>
@@ -119,7 +119,7 @@
                 <tr>
                   <td>{z.komponente}{#if z.empfaenger === "dritte"} <span class="tag">an Dritte</span>{/if}<small class="muted">{z.rechtsgrundlage}</small></td>
                   <td class="num tabular">{z.monatlich != null ? fmtEuroCent(z.monatlich) : "–"}</td>
-                  <td class="tabular">{zeitraum(z.zeitraum_von, z.zeitraum_bis, z.monate)}</td>
+                  <td class="tabular">{zeitraum(z.zeitraum_von, z.zeitraum_bis, z.monate, z.summe)}</td>
                   <td class="num tabular">{z.summe != null ? fmtEuroCent(z.summe) : "–"}</td>
                   <td>{#if z.quelle.url}<a href={z.quelle.url} target="_blank" rel="noopener" title={z.quelle.fundstelle ?? ""}>{z.quelle.kurz}</a>{:else}{z.quelle.kurz}{/if}</td>
                 </tr>

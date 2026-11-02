@@ -79,10 +79,10 @@
               onmouseleave={() => (hover = null)} role="presentation" />
       {/each}
       {#each nodes as n (n.id)}
-        <g class="knoten" class:start={n.id === umfeld.start} class:klickbar={!!n.seite} role="button" tabindex="0"
+        <g class="knoten" class:start={n.id === umfeld.start} class:klickbar={!!n.seite} {...(n.seite ? { role: "button", tabindex: 0 } : {})}
            onclick={() => klick(n)} ondblclick={() => zentrum(n)} onkeydown={(e) => e.key === "Enter" && klick(n)}
-           onmouseenter={(e) => (hover = { x: e.clientX, y: e.clientY, text: `${KNOTEN_LABELS[n.art] ?? n.art}: ${n.label}${n.seite ? "" : " (keine freigeschaltete Akte)"}` })} onmouseleave={() => (hover = null)}>
-          <path d={form(n)} fill={n.seite ? "var(--panel)" : "var(--bg)"} stroke="var(--header)" stroke-width={n.id === umfeld.start ? 2.5 : 1.5} />
+           onmouseenter={(e) => (hover = { x: e.clientX, y: e.clientY, text: `${KNOTEN_LABELS[n.art] ?? n.art}: ${n.label}${n.art === "person" && !n.seite ? " (keine freigeschaltete Akte)" : ""}` })} onmouseleave={() => (hover = null)}>
+          <path d={form(n)} fill={n.art === "person" && !n.seite ? "var(--bg)" : "var(--panel)"} stroke="var(--header)" stroke-width={n.id === umfeld.start ? 2.5 : 1.5} />
           <text x={n.x} y={(n.y ?? 0) + (n.id === umfeld.start ? 26 : 22)} text-anchor="middle" style="font-size:{10 * invK}px">{n.label.length > 28 ? n.label.slice(0, 27) + "…" : n.label}</text>
         </g>
       {/each}
@@ -94,7 +94,7 @@
       {@const st = kantenStil(l.art)}
       <span><svg width="34" height="8"><line x1="2" y1="4" x2="32" y2="4" stroke="var(--header)" stroke-width={st.width} stroke-dasharray={st.dasharray || undefined} /></svg> {l.label}</span>
     {/each}
-    <span>Kreis Person · Quadrat Organisation · Raute Ministerium · Sechseck Partei · hell: keine freigeschaltete Akte</span>
+    <span>Kreis Person · Quadrat Organisation · Raute Ministerium · Sechseck Partei · hell: Person ohne freigeschaltete Akte</span>
     <span>Klick öffnet Akte oder Seite, Doppelklick macht den Knoten zur Mitte, Mausrad zoomt. Jede Kante trägt Quelle und Stand (Mauszeiger). Keine Wertung: Das Netz zeigt belegte Beziehungen, nicht mehr.</span>
   </div>
 </div>

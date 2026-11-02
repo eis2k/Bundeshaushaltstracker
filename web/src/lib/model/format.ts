@@ -17,6 +17,13 @@ export function fmtEuroCent(n: number): string {
   return `${n < 0 ? "−" : ""}${deCent.format(Math.abs(n))} €`;
 }
 
+/** ISO-Datum deutsch ohne führende Nullen: "2025-03-25" → "25.3.2025"; anderes unverändert, null → "". */
+export function fmtDatum(iso: string | null | undefined): string {
+  if (!iso) return "";
+  const m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(iso);
+  return m ? `${Number(m[3])}.${Number(m[2])}.${m[1]}` : iso;
+}
+
 export function fmtPct(factor: number): string {
   return `${Math.round(factor * 100)} %`;
 }

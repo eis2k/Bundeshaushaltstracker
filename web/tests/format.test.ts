@@ -1,5 +1,5 @@
 import { expect, test } from "vitest";
-import { fmtEuro, fmtPct } from "../src/lib/model/format";
+import { fmtDatum, fmtEuro, fmtPct } from "../src/lib/model/format";
 
 test("fmtEuro picks Mrd, Mio or Euro and uses German formatting", () => {
   expect(fmtEuro(48_207_871_000)).toBe("48,2 Mrd €");
@@ -15,4 +15,12 @@ test("fmtPct renders factors as whole percent", () => {
   expect(fmtPct(1)).toBe("100 %");
   expect(fmtPct(1.5)).toBe("150 %");
   expect(fmtPct(0.333)).toBe("33 %");
+});
+
+
+test("fmtDatum schreibt ISO-Daten deutsch und lässt anderes unverändert", () => {
+  expect(fmtDatum("2025-03-25")).toBe("25.3.2025");
+  expect(fmtDatum("2026-11-02")).toBe("2.11.2026");
+  expect(fmtDatum("2026-11")).toBe("2026-11");
+  expect(fmtDatum(null)).toBe("");
 });

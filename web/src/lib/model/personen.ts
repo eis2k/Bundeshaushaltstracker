@@ -85,7 +85,14 @@ export const FUNKTION_LABELS: Record<string, string> = {
   gesetzlicher_vertreter: "Gesetzliche Vertretung",
   interessenvertreter: "Interessenvertretung laut Lobbyregister",
   fruehere_regierungsfunktion: "Frühere öffentliche Funktion",
+  regierungsfunktion: "Öffentliche Funktion laut Lobbyregister",
 };
+
+/** „bei <Organisation>“ nur, wenn die Organisation nicht schon im Text steht und es kein Mandat oder Regierungsamt ist. */
+export function zeigeBei(f: { art: string; text: string; organisation: string }): boolean {
+  if (!f.organisation || f.art === "mdb" || f.art === "regierung") return false;
+  return !f.text.toLowerCase().includes(f.organisation.toLowerCase());
+}
 
 function passtFilter(e: PersonIndexEintrag, f: PersonFilter): boolean {
   const arten = e.arten ?? [];

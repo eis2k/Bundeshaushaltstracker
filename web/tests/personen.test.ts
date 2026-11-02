@@ -1,5 +1,5 @@
 import { describe, expect, test } from "vitest";
-import { bezuegeNachPosten, filterePersonen, issueUrlAkte, zeitlinieJahre, type Akte, type Bezuege, type BezugZeile, type PersonIndex, type PersonIndexEintrag } from "../src/lib/model/personen";
+import { FUNKTION_LABELS, bezuegeNachPosten, filterePersonen, issueUrlAkte, zeigeBei, zeitlinieJahre, type Akte, type Bezuege, type BezugZeile, type PersonIndex, type PersonIndexEintrag } from "../src/lib/model/personen";
 import { kantenStil, legende, netzPfad, type Umfeld } from "../src/lib/model/netz";
 
 function e(id: string, name: string, extra: Partial<PersonIndexEintrag> = {}): PersonIndexEintrag {
@@ -78,5 +78,18 @@ describe("bezuegeNachPosten", () => {
     const b: Bezuege = { summe_person: 1, summe_aufwand: 2, hinweise: [], nicht_bezifferbar: [], wp_beginn: "2025-03-25",
       zeilen: [z("Mitglied des Bundestages", "Abgeordnetenentschädigung"), z("Bundeskanzler", "Amtsgehalt"), z("Mitglied des Bundestages", "Kostenpauschale")] };
     expect(bezuegeNachPosten(b).map((g) => [g.posten, g.zeilen.length])).toEqual([["Mitglied des Bundestages", 2], ["Bundeskanzler", 1]]);
+  });
+});
+
+
+describe("Etiketten und „bei“", () => {
+  test("laufende Regierungsfunktion aus dem Lobbyregister heißt nicht „Frühere“", () => {
+    expect(FUNKTION_LABELS.regierungsfunktion).toBe("Öffentliche Funktion laut Lobbyregister");
+    expect(FUNKTION_LABELS.fruehere_regierungsfunktion).toBe("Frühere öffentliche Funktion");
+  });
+  test("zeigeBei unterdrückt doppelte Organisationsnamen und den Bundestag", () => {
+    expect(zeigeBei({ art: "regierung", text: "Bundesminister der Finanzen, Bundesministerium der Finanzen", organisation: "Bundesministerium der Finanzen" })).toBe(false);
+    expect(zeigeBei({ art: "mdb", text: "Mitglied des Bundestages, SPD", organisation: "Deutscher Bundestag" })).toBe(false);
+    expect(zeigeBei({ art: "gesetzlicher_vertreter", text: "Vorstand", organisation: "Amadeu Antonio Stiftung" })).toBe(true);
   });
 });

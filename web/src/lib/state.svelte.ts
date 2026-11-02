@@ -96,6 +96,8 @@ export class AppState {
   netzStart = $state<string | null>(null);
   netz = $state<Umfeld | null>(null);
   netzFehlt = $state<string | null>(null);
+  /** Netzansicht ohne gewählten Knoten (Link `a=netz` ohne `n=`). */
+  netzLeer = $derived(this.view === "netz" && !this.netzStart);
   /** Woher das Netz geöffnet wurde (Akte oder Empfänger-Seite), für „zurück“; die App schreibt keine History-Einträge. */
   netzHerkunft = $state<{ art: "akte"; id: string } | { art: "empfaenger"; id: string } | null>(null);
 

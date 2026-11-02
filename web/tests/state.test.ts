@@ -202,6 +202,16 @@ describe("Personen und Netz (Stufe 3)", () => {
     expect(s.netzFehlt).toBe("e:unbekannt");
   });
 
+  test("a=netz ohne Knoten ist eine leere Netzansicht, kein Fehler", async () => {
+    const s = new AppState(ploader);
+    await s.init("#v1;j=2025;a=netz");
+    expect(s.view).toBe("netz");
+    expect(s.netzLeer).toBe(true);
+    expect(s.netzFehlt).toBeNull();
+    await s.openNetz("p:sanae-abdi");
+    expect(s.netzLeer).toBe(false);
+  });
+
   test("zurück aus dem Netz führt zur Akte, von der es geöffnet wurde (Important 8)", async () => {
     const s = new AppState(ploader);
     await s.init("");

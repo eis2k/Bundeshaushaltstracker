@@ -76,7 +76,7 @@
         {#if app.netz}
           <Netz {app} umfeld={app.netz} />
         {:else}
-          <div class="soon">{app.netzFehlt ? `Für „${app.netzFehlt}“ gibt es kein Umfeld: Der Knoten hat keine Kanten oder keine freigeschaltete Seite.` : "Lade Umfeld …"} <button class="link" onclick={() => app.openPersonenListe()}>Zu den Personen</button></div>
+          <div class="soon">{app.netzFehlt ? `Für „${app.netzFehlt}“ gibt es kein Umfeld: Der Knoten hat keine Kanten oder keine freigeschaltete Seite.` : app.netzLeer ? "Kein Knoten gewählt. Ein Umfeld öffnet sich von einer Akte oder einer Empfänger-Seite aus („Umfeld zeigen“)." : "Lade Umfeld …"} <button class="link" onclick={() => app.openPersonenListe()}>Zu den Personen</button></div>
         {/if}
       {:else}
         <div class="soon">Diese Ansicht ist noch im Aufbau.</div>
