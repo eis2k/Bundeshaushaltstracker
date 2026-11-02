@@ -1,0 +1,20 @@
+# Gesetzlich festgelegte Bezüge (Spec §4.7b). Jeder Satz: art, ab (gültig ab), monat ODER jahr in Euro, quelle (URL), fundstelle, datum.
+# Neue Werte nur mit amtlicher Fundstelle per Pull Request. Faktoren (5/3, 4/3, 75 %, 100/50/15 %, 50 %) stehen im Code (bezuege.py) mit Paragraf.
+# Noch nicht belegt und deshalb leer: Kostenpauschale vor 2026, Mitarbeiterpauschale vor Mai 2026, B 11 nach dem 1. März 2024 (Anpassung 2025/2026 nicht in Anlage IV verkündet).
+stand: "2026-11-02"
+saetze:
+  - {art: abgeordnetenentschaedigung, ab: "2022-07-01", monat: 10323.29, quelle: "https://dserver.bundestag.de/btd/20/015/2001516.pdf", fundstelle: "Drucksache 20/1516, Anpassung zum 1. Juli 2022 (+3,1 %)", datum: "2022-04-25"}
+  - {art: abgeordnetenentschaedigung, ab: "2023-07-01", monat: 10591.70, quelle: "https://dserver.bundestag.de/btd/20/068/2006815.pdf", fundstelle: "Drucksache 20/6815, Anpassung zum 1. Juli 2023 (+2,6 %)", datum: "2023-05-10"}
+  - {art: abgeordnetenentschaedigung, ab: "2024-07-01", monat: 11227.20, quelle: "https://dserver.bundestag.de/btd/20/112/2011298.pdf", fundstelle: "Drucksache 20/11298, Anpassung zum 1. Juli 2024 (+6,0 %)", datum: "2024-05-07"}
+  - {art: abgeordnetenentschaedigung, ab: "2025-07-01", monat: 11833.47, quelle: "https://www.bundestag.de/abgeordnete/mdb_diaeten/mdb_diaeten-214848", fundstelle: "bundestag.de „Entschädigung“; Drucksache 21/5200 Spalte „Betrag seit dem 1. Juli 2025“", datum: "2026-11-02"}
+  - {art: abgeordnetenentschaedigung, ab: "2026-07-01", monat: 11833.47, quelle: "https://dserver.bundestag.de/btd/21/063/2106330.pdf", fundstelle: "Anpassungsverfahrensabweichungsgesetz 2026, Drucksache 21/6330 § 1 (Juli 12.330,48 €, August 11.336,46 €, ab September 11.833,47 €)", datum: "2026-07-10"}
+  - {art: kostenpauschale, ab: "2026-01-01", monat: 5467.27, quelle: "https://www.bundestag.de/abgeordnete/mdb_diaeten/1334e-260800", fundstelle: "bundestag.de „Kostenpauschale“, Stand Januar 2026; WD 3 - 3000 - 099/25", datum: "2026-11-02"}
+  - {art: mitarbeiterpauschale, ab: "2026-05-01", monat: 27396.00, quelle: "https://www.bundestag.de/abgeordnete/mdb_diaeten/1334d-260806", fundstelle: "bundestag.de „Mitarbeiter“, Stand 1. Mai 2026", datum: "2026-11-02"}
+  - {art: sachleistungskonto, ab: "2026-01-01", jahr: 12000.00, quelle: "https://www.bundestag.de/abgeordnete/mdb_diaeten/1334f-260802", fundstelle: "bundestag.de „Büroausstattung“: jährlich höchstens 12.000 Euro", datum: "2026-11-02"}
+  - {art: amtsaufwand_praesident, ab: "2022-01-01", monat: 1023.00, quelle: "https://www.gesetze-im-internet.de/abgg/__12.html", fundstelle: "§ 12 Abs. 5 AbgG", datum: "2026-11-02"}
+  - {art: amtsaufwand_vize, ab: "2022-01-01", monat: 307.00, quelle: "https://www.gesetze-im-internet.de/abgg/__12.html", fundstelle: "§ 12 Abs. 5 AbgG", datum: "2026-11-02"}
+  - {art: b11, ab: "2024-03-01", monat: 16084.36, quelle: "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html", fundstelle: "Anlage IV BBesG, Bundesbesoldungsordnung B, gültig ab 1. März 2024 (BGBl. 2023 I Nr. 414)", datum: "2026-11-02"}
+  - {art: dienstaufwand_kanzler, ab: "2002-01-01", jahr: 12271.01, quelle: "https://www.gesetze-im-internet.de/bming/__11.html", fundstelle: "§ 11 Abs. 1 Buchst. c BMinG: jährlich 24.000 DM, Umrechnung 1,95583", datum: "2026-11-02"}
+  - {art: dienstaufwand_minister, ab: "2002-01-01", jahr: 3681.30, quelle: "https://www.gesetze-im-internet.de/bming/__11.html", fundstelle: "§ 11 Abs. 1 Buchst. c BMinG: jährlich 7.200 DM, Umrechnung 1,95583", datum: "2026-11-02"}
+# optional: Beginn eines Ausschussvorsitzes je Akte, damit die Amtszulage eine Zeitraumsumme bekommt: {akte_id, ab, quelle, datum}
+vorsitz_ab: []
