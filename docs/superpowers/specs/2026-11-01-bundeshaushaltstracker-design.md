@@ -127,6 +127,35 @@ Netz: Knoten sind Personen, Organisationen, Ministerien/Ausschüsse; Kanten sind
 
 Hinweis- und Korrekturweg: Auf jeder Akte und Empfänger-Seite ein Knopf "Fehler melden / Beleg einreichen". Einreichungen werden vor Veröffentlichung von einem Menschen geprüft. Betroffene können Gegendarstellung verlangen; der Weg dazu steht im Impressum.
 
+### 4.7a Personen-Akten und Netz, Stufe 3 (Festlegung nach Florians Antworten vom 2.11.2026)
+
+**Florians Vorgaben.** Alle Menschen, die das Lobbyregister als gesetzliche Vertreter oder Interessenvertreter von Empfängern nennt, bekommen eine Akte, nicht nur Politiker und Personen mit belegter Verbindung (rund 11.300 Namen, dazu 639 Abgeordnete und die Bundesregierung). Das Netz („Umfeld zeigen“) ist der Kern der Stufe.
+
+**Die Akte.** Kopf: Name, öffentliche Funktionen mit Zeitraum und Fundstelle (Abgeordneter mit Fraktion, Ausschüssen und Wahlperiode; Regierungsmitglied, Parlamentarischer oder beamteter Staatssekretär mit Ressort; Vorstand, Geschäftsführung oder Interessenvertretung einer Organisation laut Lobbyregister). Block „Organisationen und ihr Geld vom Bund“: jede Organisation mit Posten der Person, daneben ihre Bundesmittel laut Lobbyregister (Untergrenze), Haushaltstitel und Förderkatalog aus den Empfänger-Daten der Stufe 2, nie addiert. Block „Veröffentlichungspflichtige Angaben“ (nur Abgeordnete): wörtlich aus bundestag.de, je Kategorie, mit Abrufdatum. Block „Parteispenden“: Spenden über 35.000 € (seit 5.3.2024, davor 50.000 €) der Organisationen, bei denen die Person Posten hat, laut bundestag.de mit Datum, Partei, Betrag und Fundstelle. Block „Zeitlinie“: Geldflüsse an verbundene Organisationen und Posten der Person auf einer Achse 2015 bis heute. Block „Quellen und Stand“ und der Knopf „Fehler melden / Beleg einreichen“. Formulierungen bleiben Tatsachensätze wie in §4.6a; keine Wertung, keine Warnfarbe.
+
+**Identität und Namensgleichheit** (Festlegung des Builders, von Florian bestätigt): Eine Akte entsteht je Person und Quelle (Lobbyregister-Eintrag, bundestag.de-Biografie, Kabinettsliste). Zusammengeführt werden zwei Akten nur mit Beleg: (a) die Bundestags-Angabe der Person nennt genau die Organisation, deren Lobbyregister-Eintrag denselben Namen führt; (b) das Lobbyregister meldet für die Person eine frühere Mandats- oder Regierungsfunktion, die zur Biografie passt (Name und Funktion); (c) ein Eintrag in `data/manual/personen.yaml` mit Quelle. Gleiche Namen ohne Beleg bleiben getrennte Akten mit dem Hinweis „gleicher Name, nicht zusammengeführt“. Innerhalb des Lobbyregisters gilt derselbe Name bei verschiedenen Organisationen als eine Person nur, wenn Vorname und Nachname exakt gleich sind und die Organisationen sich in den Angaben gegenseitig nennen; sonst getrennt.
+
+**Das Netz.** Knopf „Umfeld zeigen“ auf jeder Akte und jeder Empfänger-Seite öffnet einen Ausschnitt: Knoten sind Personen, Organisationen, Ministerien (Einzelpläne) und Parteien; Kanten sind Geld (Ministerium → Organisation, laut Lobbyregister-Spanne oder Haushaltstitel), Posten (Person – Organisation, Person – Ministerium bei Regierungsfunktion, Person – Bundestag bei Mandat) und Spende (Organisation → Partei). Zwei Schritte um den Startknoten, höchstens 60 Knoten (die größten nach Geld zuerst, Rest als „+ n weitere“). Jede Kante trägt Quelle und Zeitraum im Tooltip; Klick auf einen Knoten öffnet dessen Akte oder Seite; die drei Kantenarten unterscheiden sich durch Linienart und Legende, nicht durch Wertungsfarben. Das Netz ist statisch vorberechnet je Knoten als Nachbarschaftsliste (`data/build/netz/<id>.json`); die Seite rendert mit d3-force.
+
+**Datenbasis (geprüft am 2.11.2026).**
+
+| Quelle | Was sie liefert | Zugang |
+|---|---|---|
+| Lobbyregister-Detailprofile (aus Stufe 2) | Gesetzliche Vertreter und Interessenvertreter je Organisation mit Funktion, Kennzeichen und Details früherer Regierungs- oder Mandatsfunktion | bereits in `data/raw/lobbyregister` |
+| bundestag.de-Biografien (aus Stufe 2) | Name, Fraktion, Wahlkreis, Ausschüsse, veröffentlichungspflichtige Angaben; Liste der ausgeschiedenen Abgeordneten der laufenden Wahlperiode | bereits in `data/raw/bundestag`; Ausgeschiedene: `/abgeordnete/biografien/ausgeschiedene` |
+| bundesregierung.de, Bundeskabinett | Mitglieder der Bundesregierung mit Amt, je eine Seite | HTML-Liste `/breg-de/bundesregierung/bundeskabinett` |
+| Staatssekretäre | Parlamentarische und beamtete Staatssekretäre je Ressort | von Hand in `data/manual/regierung.yaml` mit Quelle (Ministeriumsseite „Leitung“) und Datum; der Build prüft Pflichtfelder |
+| bundestag.de, Parteienfinanzierung | Spenden über 35.000 € (ab 5.3.2024) bzw. 50.000 € (ab 1.7.2002): Spender, Partei, Betrag, Eingang, Veröffentlichung, je Jahr eine Seite | HTML `/parlament/praesidium/parteienfinanzierung/fundstellen50000/<jahr>`, 2015 bis heute |
+
+**Festlegungen des Builders.**
+
+- **Personen-Ids**: `slug(name)` plus Quellenkürzel bei Namensgleichheit (`-lr`, `-mdb`, `-breg`), stabil über Läufe durch Sortierung nach Quelle und Registernummer.
+- **Umfang der ersten Fassung**: Akten für alle Personen des Lobbyregisters mit Bundesmitteln-Organisation, alle Abgeordneten der 21. Wahlperiode (auch ausgeschiedene), Bundeskabinett und Staatssekretäre; Parteispenden 2015 bis heute. Frühere Wahlperioden (Webarchiv) und Rechenschaftsberichte (Spenden ab 10.000 €) kommen später.
+- **Spenden-Zuordnung**: Der Spendername wird wie die Empfängernamen normalisiert und nur bei exakter Übereinstimmung einer Organisation zugeordnet; Ähnliches landet in `data/review/spenden_kandidaten.yaml`. Spenden natürlicher Personen werden nur zugeordnet, wenn der Name exakt einer Akte entspricht und die Person im Lobbyregister oder Bundestag geführt ist; sonst erscheinen sie nicht (Anti-Ziel „keine Privatpersonen“).
+- **Suche**: Ansicht „Personen“ mit Suchfeld und Filter nach Funktion (Abgeordnete, Regierung, Vertreter von Empfängern); Teilen-Link `#v1;a=personen;pe=<id>`; Netz-Ansicht `#v1;a=netz;n=<knoten-id>` (Knoten-Ids: `p:<person>`, `e:<empfaenger>`, `m:<epl>`, `partei:<name>`).
+- **Schalter `--ohne-personen`** gilt weiter: ohne Personen werden keine Akten, keine Netz-Dateien und keine Personenblöcke gebaut.
+- **Korrekturweg**: „Fehler melden / Beleg einreichen“ öffnet ein vorausgefülltes Issue; im Impressum steht der Weg zur Gegendarstellung (Text folgt mit dem Deployment).
+
 ### 4.8 Ländervergleich
 
 Themenseiten: Rente, Gesundheit, Verteidigung, Bildung/Forschung, Verwaltung. Tafel mit Kennzahlen und Quelle pro Zelle (OECD, Eurostat, Jahr). "System übernehmen"-Presets für Rente, Gesundheit und Verwaltung in der ersten Ausbaustufe; jedes Preset ist eine Liste von Annahmen, die zusammen die deutschen Regler setzen; die Annahmen sind sichtbar und einzeln veränderbar; die Wirkung erscheint in der normalen Bilanz, markiert als Modell.
