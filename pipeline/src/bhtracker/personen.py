@@ -14,6 +14,7 @@ from pathlib import Path
 
 import yaml
 
+from .bezuege import WP_BEGINN, berechne_bezuege, lade_bezuege, lade_vorsitz_ab
 from .bundestag import KATEGORIE_VORHER, Abgeordneter, lade_abgeordnete
 from .empfaenger import norm_name, slug
 from .lobbyregister import Profil, lade_profile
@@ -50,6 +51,8 @@ class Funktion:
     stand: str
     quelle: dict
     ausschuesse: list[str] = field(default_factory=list)
+    amt: str | None = None                       # regierung: Amtsbezeichnung (Bundeskanzler, Bundesminister …, Staatssekretär)
+    aemter: list[str] = field(default_factory=list)   # mdb: „Rolle: Gremium“ aus der Biografie (Amtszulage, § 11 Abs. 2 AbgG)
 
 
 @dataclass
@@ -76,6 +79,7 @@ class Akte:
     org_normen: list[str] = field(default_factory=list)      # normalisierte Namen der Organisationen (Lobbyregister)
     angaben_org_normen: list[str] = field(default_factory=list)  # normalisierte Organisationsnamen aus den Bundestags-Angaben
     frueheres_mandat: bool = False
+    bezuege: dict | None = None                  # Stufe 3d: Bezüge aus dem Amt (bezuege.berechne_bezuege), nur bei Mandat oder Regierungsamt
 
 
 # ---------------------------------------------------------------- Roh-Identitäten je Quelle
@@ -112,8 +116,10 @@ def roh_identitaeten(profile: list[Profil], abgeordnete: list[Abgeordneter], reg
         bis = getattr(a, "ausgeschieden", None)
         kopf = f"Mitglied des Bundestages bis {bis}" if bis else "Mitglied des Bundestages"
         text = f"{kopf}, {a.fraktion}" if a.fraktion else kopf
-        funktionen = [Funktion(art="mdb", text=text, organisation_id=None, organisation="Deutscher Bundestag", epl=None, seit=None, bis=bis,
-                               stand=a.stand, quelle={**quelle, "etikett": "amtlich"}, ausschuesse=list(a.ausschuesse))]
+        eintritt = getattr(a, "mitglied_seit", None)
+        funktionen = [Funktion(art="mdb", text=text, organisation_id=None, organisation="Deutscher Bundestag", epl=None,
+                               seit=eintritt if eintritt and eintritt > WP_BEGINN else None, bis=bis,
+                               stand=a.stand, quelle={**quelle, "etikett": "amtlich"}, ausschuesse=list(a.ausschuesse), aemter=list(getattr(a, "aemter", [])))]
         angaben = [{"kategorie": x.kategorie, "organisation": x.organisation, "ort": x.ort, "funktion": x.funktion, "stand": a.stand, "quelle": quelle} for x in a.angaben]
         akten.append(Akte(id=f"{slug(a.name)}-mdb-{a.mdb_id}", name=a.name, quellen_ids=[f"{slug(a.name)}-mdb-{a.mdb_id}"], funktionen=funktionen,
                           amt=True, verbindung=False, freigabe=False, sichtbar=False, gleichnamig=[], angaben=angaben, organisationen=[], spenden=[],
@@ -122,7 +128,7 @@ def roh_identitaeten(profile: list[Profil], abgeordnete: list[Abgeordneter], reg
     for m in regierung:
         quelle = {"kurz": "bundesregierung.de" if "bundesregierung.de" in m.quelle else "Ressortseite", "url": m.quelle, "stand": m.stand, "etikett": "amtlich"}
         funktionen = [Funktion(art="regierung", text=f"{m.amt}, {m.ressort}", organisation_id=None, organisation=m.ressort, epl=m.epl, seit=m.seit, bis=m.bis,
-                               stand=m.stand, quelle=quelle)]
+                               stand=m.stand, quelle=quelle, amt=m.amt)]
         akten.append(Akte(id=f"{slug(m.name)}-breg", name=m.name, quellen_ids=[f"{slug(m.name)}-breg"], funktionen=funktionen, amt=True, verbindung=False,
                           freigabe=False, sichtbar=False, gleichnamig=[], angaben=[], organisationen=[], spenden=[], zeitlinie=[], quellen=[quelle],
                           stand=m.stand, quelle_art="breg", mdb_id=m.mdb_id))
@@ -365,6 +371,8 @@ def build_personen_akten(manual_dir: Path, raw_dir: Path, out: Path, empfaenger_
     fehler = validate_personen(manual)
     if fehler:
         raise ValueError("personen.yaml: " + "; ".join(fehler))
+    saetze = lade_bezuege(manual_dir / "bezuege.yaml")
+    vorsitz_ab = lade_vorsitz_ab(manual_dir / "bezuege.yaml")
     ressorts = _lade_yaml(manual_dir / "ressorts.yaml")
     profile = profile_mit_seite(lade_profile(raw_dir), empfaenger_seiten)
     profile_by_nr = {p.nummer: p for p in profile}
@@ -460,6 +468,8 @@ def build_personen_akten(manual_dir: Path, raw_dir: Path, out: Path, empfaenger_
             if j:
                 zl.append({"jahr": j, "art": "spende", "organisation_id": s["organisation_id"], "text": f"{s['organisation']} spendete {s['betrag']:,} € an {s['partei']}".replace(",", "."), "wert": s["betrag"]})
         a.zeitlinie = sorted(zl, key=lambda e: (e["jahr"], e["art"]))
+        if saetze and any(f.art in ("mdb", "regierung") for f in a.funktionen):
+            a.bezuege = berechne_bezuege([asdict(f) for f in a.funktionen], saetze, stand, vorsitz_ab.get(a.id))
         a.sichtbar = sichtbarkeit(a, set(), manual, modus)
         a.stand = stand
         arten: list[str] = []

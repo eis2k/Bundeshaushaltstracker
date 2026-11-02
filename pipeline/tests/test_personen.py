@@ -314,3 +314,22 @@ def test_ergaenze_akten_schreibt_parteispenden_auf_die_seite(tmp_path):
     assert neu["parteispenden"][0] == {"partei": "CSU", "betrag": 136_000, "eingang": "2025-12-23", "veroeffentlicht": "2025-12-26", "drucksache": "Drs. 21/4050",
                                       "drucksache_url": "https://d/x.pdf", "quelle": {"kurz": "bundestag.de", "url": "https://d/x.pdf", "etikett": "amtlich"}}
     assert "spender_ort" not in json.dumps(neu)
+
+
+def test_akte_traegt_bezuege(tmp_path):
+    # Stufe 3d: Akten mit Mandat oder Amt tragen den Block „Bezüge aus dem Amt“
+    raw, manual = _raw_mit_abdi(tmp_path)
+    (manual / "bezuege.yaml").write_text((MANUAL / "bezuege.yaml").read_text(encoding="utf-8"), encoding="utf-8")
+    (manual / "regierung.yaml").write_text(
+        'stand: "2026-11-02"\nmitglieder:\n  - {name: "Sanae Abdi", amt: "Parlamentarische Staatssekretärin", ressort: "Bundesministerium für Arbeit und Soziales", epl: "11", seit: "2025-05-06", quelle: "https://www.bundestag.de/abgeordnete/biografien/A/abdi_sanae-1043330", mdb_id: 1043330}\n', encoding="utf-8")
+    idx = json.loads(build_personen(manual, raw, tmp_path / "build", _seiten(), [], "2026-11-02").read_text(encoding="utf-8"))
+    by_id = {e["id"]: e for e in idx["eintraege"]}
+    sh = json.loads((tmp_path / "build" / "personen" / f"{by_id['sanae-abdi']['shard']}.json").read_text(encoding="utf-8"))
+    b = sh["sanae-abdi"]["bezuege"]
+    k = {x["komponente"]: x for x in b["zeilen"]}
+    assert k["Abgeordnetenentschädigung"]["summe"] == 246077.79 and k["Amtsgehalt"]["monatlich"] == 16084.36
+    assert k["Kürzung der Abgeordnetenentschädigung (Amt und Mandat)"]["monate"] == 19
+    assert b["summe_person"] < b["summe_person"] + b["summe_aufwand"]
+    reinfrank = next(a for a in idx["eintraege"] if a["id"] == "timo-reinfrank")
+    assert reinfrank["sichtbar"] is False    # Vertreter ohne Amt haben keine Bezüge und bleiben wie bisher
+    assert all(f.get("amt") is None or f["art"] == "regierung" for f in sh["sanae-abdi"]["funktionen"])
