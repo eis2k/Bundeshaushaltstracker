@@ -32,7 +32,7 @@
 <div class="sim">
   <div class="links">
     <section class="karte regler">
-      <h3><SlidersHorizontal size={16} /> Ausgaben verändern <small class="muted">Soll {app.jahr}, Faktor je Einzelplan; −50 % bis +50 % in 5-%-Schritten</small></h3>
+      <h3><SlidersHorizontal size={16} /> Ausgaben verändern <small class="muted">{app.stand === "ist" ? "Ist" : "Soll"} {app.jahr}, Faktor je Einzelplan; −50 % bis +50 % in 5-%-Schritten</small></h3>
       <div class="bereiche">
         {#each BEREICHE as b (b.id)}
           {@const Icon = ICONS[b.icon] ?? Shield}
@@ -44,7 +44,7 @@
               <small class="muted">{b.epls.map((e) => data.epl[e] ?? `Einzelplan ${e}`).join(", ")} · {fmtEuro(betrag(b.epls))}</small>
               <input id={`regler-${b.id}`} type="range" min="0.5" max="1.5" step="0.05" value={f} oninput={(e) => setze(b.epls, Number((e.target as HTMLInputElement).value))} />
             </div>
-            <b class="tabular" class:gut={f < 1} class:schlecht={f > 1}>{prozent(f)}</b>
+            <b class="tabular">{prozent(f)}</b>
           </div>
         {/each}
       </div>
@@ -62,11 +62,11 @@
       {#if erg}
         <dl>
           <dt>Gesamtvolumen</dt><dd class="tabular">{fmtEuro(erg.gesamtvolumen)}</dd>
-          <dt>Veränderung</dt><dd class="tabular" class:gut={erg.veraenderung < 0} class:schlecht={erg.veraenderung > 0}>{erg.veraenderung === 0 ? "±0 €" : `${erg.veraenderung > 0 ? "+" : "−"}${fmtEuro(Math.abs(erg.veraenderung))}`} <small>({veraenderungPct > 0 ? "+" : ""}{veraenderungPct.toLocaleString("de-DE")} %)</small></dd>
+          <dt>Veränderung</dt><dd class="tabular">{erg.veraenderung === 0 ? "±0 €" : `${erg.veraenderung > 0 ? "+" : "−"}${fmtEuro(Math.abs(erg.veraenderung))}`} <small>({veraenderungPct > 0 ? "+" : ""}{veraenderungPct.toLocaleString("de-DE")} %)</small></dd>
           <dt>Neuverschuldung</dt><dd class="tabular" class:schlecht={erg.neuverschuldung > (app.balance?.neueSchuldenOriginal ?? 0)} class:gut={erg.neuverschuldung < (app.balance?.neueSchuldenOriginal ?? 0)}>{fmtEuro(erg.neuverschuldung)}<small> war {fmtEuro(app.balance?.neueSchuldenOriginal ?? 0)}</small></dd>
           <dt>Defizitquote</dt><dd class="tabular">{(Math.round(erg.defizitquote * 1000) / 10).toLocaleString("de-DE")} %<small> Neuverschuldung / Ausgaben</small></dd>
         </dl>
-        <p class="muted small">Rechnung auf den Soll-Ansätzen {app.jahr}, keine Prognose; Einnahmen bleiben fest, außer über Steuer-Modelle. Soll und Annahmen sind getrennt ausgewiesen.</p>
+        <p class="muted small">Rechnung auf den {app.stand === "ist" ? "Ist-Werten" : "Soll-Ansätzen"} {app.jahr}, keine Prognose; Einnahmen bleiben fest, außer über Steuer-Modelle. Soll und Annahmen sind getrennt ausgewiesen.</p>
       {:else}
         <p class="muted">Lade Haushalt …</p>
       {/if}

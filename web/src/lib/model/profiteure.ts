@@ -9,14 +9,31 @@ export type EmpfaengerQuelle = "haushalt" | "lobbyregister";
 
 export interface TopEmpfaenger { id: string; name: string; wert: number; quelle: EmpfaengerQuelle }
 
-/** Empfänger mit Seite, die dem Einzelplan zugeordnet sind (null = alle): Haushalts-Soll des letzten Jahres vor Lobbyregister-Untergrenze, je Quelle absteigend. */
+/** Beträge eines Empfängers aus genau diesem Einzelplan (null = alle Einzelpläne), je Quelle getrennt; Förderkatalog-Ressorts sind keine Geldquelle. */
+function betraege(e: EmpfaengerIndex["eintraege"][number], epl: string | null): { haushalt: number; lobby: number } {
+  const summe = (m: Record<string, number> | undefined) => m ? Object.values(m).reduce((s, x) => s + x, 0) : 0;
+  if (epl === null) return { haushalt: e.haushalt_je_epl ? summe(e.haushalt_je_epl) : e.haushalt_soll_letztes_jahr, lobby: e.lobby_je_epl ? summe(e.lobby_je_epl) : e.lobby_untergrenze_bund };
+  return { haushalt: e.haushalt_je_epl?.[epl] ?? 0, lobby: e.lobby_je_epl?.[epl] ?? 0 };
+}
+
+/** Größte Empfänger mit Seite aus dem Einzelplan (null = alle): Haushalts-Soll des letzten Jahres aus Titeln des Einzelplans vor
+ *  Lobbyregister-Untergrenze der Geber des Einzelplans, je Quelle absteigend, nie addiert (Review C2). `_jahr` bleibt für die Beschriftung des Aufrufers. */
 export function topEmpfaenger(epl: string | null, _jahr: number, index: EmpfaengerIndex | null, max = 6): TopEmpfaenger[] {
-  const alle = (index?.eintraege ?? []).filter((e) => epl === null || (e.epls ?? []).includes(epl));
-  const haushalt = alle.filter((e) => e.haushalt_soll_letztes_jahr > 0).map((e) => ({ id: e.id, name: e.name, wert: e.haushalt_soll_letztes_jahr, quelle: "haushalt" as const }));
-  const lobby = alle.filter((e) => e.haushalt_soll_letztes_jahr <= 0 && e.lobby_untergrenze_bund > 0).map((e) => ({ id: e.id, name: e.name, wert: e.lobby_untergrenze_bund, quelle: "lobbyregister" as const }));
+  const haushalt: TopEmpfaenger[] = [];
+  const lobby: TopEmpfaenger[] = [];
+  for (const e of index?.eintraege ?? []) {
+    const b = betraege(e, epl);
+    if (b.haushalt > 0) haushalt.push({ id: e.id, name: e.name, wert: b.haushalt, quelle: "haushalt" });
+    else if (b.lobby > 0) lobby.push({ id: e.id, name: e.name, wert: b.lobby, quelle: "lobbyregister" });
+  }
   haushalt.sort((a, b) => b.wert - a.wert);
   lobby.sort((a, b) => b.wert - a.wert);
   return [...haushalt, ...lobby].slice(0, max);
+}
+
+/** Zahl aller Empfänger mit Betrag aus dem Einzelplan, für den Hinweis „weitere Empfänger“. */
+export function anzahlEmpfaenger(epl: string | null, index: EmpfaengerIndex | null): number {
+  return (index?.eintraege ?? []).filter((e) => { const b = betraege(e, epl); return b.haushalt > 0 || b.lobby > 0; }).length;
 }
 
 export interface Verantwortung { epl: string; name: string; haushalt: number; anteil: number; leitung: Leitung[]; hinweis: string | null }

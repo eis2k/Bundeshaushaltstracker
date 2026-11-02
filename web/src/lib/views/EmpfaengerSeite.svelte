@@ -71,7 +71,7 @@
           {#if seite.haushalt.titel.length}<span class="chip gruen">Öffentliche Mittel</span>{:else if seite.lobbyregister}<span class="chip">Lobbyregister</span>{/if}</div>
       </div>
       <ul class="kennzahlen">
-        <li><span class="kachel blau"><Landmark size={15} /></span><div><small>Zuwendungen {app.jahr} ({app.stand === "ist" ? "Ist" : "Soll"})</small><b class="tabular">{seite.haushalt.titel.length ? fmtEuro(zj.wert) : "–"}</b></div>{#if veraenderung !== null}<span class="delta" class:gut={veraenderung < 0} class:schlecht={veraenderung > 0}>{veraenderung > 0 ? "+" : ""}{veraenderung.toLocaleString("de-DE")} %</span>{/if}</li>
+        <li><span class="kachel blau"><Landmark size={15} /></span><div><small>Zuwendungen {app.jahr} ({app.stand === "ist" ? "Ist" : "Soll"})</small><b class="tabular">{reihe.some((r) => r.jahr === app.jahr) ? fmtEuro(zj.wert) : "–"}</b></div>{#if veraenderung !== null}<span class="delta">{veraenderung > 0 ? "+" : ""}{veraenderung.toLocaleString("de-DE")} %</span>{/if}</li>
         <li><span class="kachel blau"><FileText size={15} /></span><div><small>Haushaltstitel</small><b class="tabular">{seite.haushalt.titel.length}</b></div></li>
         <li><span class="kachel blau"><BarChart3 size={15} /></span><div><small>Seit 2015 (Soll, Titel)</small><b class="tabular">{seite.haushalt.titel.length ? fmtEuro(seit2015) : "–"}</b></div></li>
         {#if seite.lobby_untergrenze_bund > 0}<li><span class="kachel"><Scale size={15} /></span><div><small>Lobbyregister, Bund</small><b class="tabular">ab {fmtEuro(seite.lobby_untergrenze_bund)}</b></div></li>{/if}
@@ -396,7 +396,6 @@
   .kennzahlen small { color: var(--muted); font-size: 10px; }
   .kennzahlen b { color: var(--header); font-size: 13px; }
   .delta { font-size: 11px; font-weight: 600; padding: 1px 6px; border-radius: 999px; background: var(--bg); }
-  .delta.gut { color: var(--good); background: var(--chip-gruen); } .delta.schlecht { color: var(--bad); background: #fee2e2; }
   .kachel { width: 26px; height: 26px; border-radius: 8px; display: inline-flex; align-items: center; justify-content: center; background: var(--nav-bg); color: var(--header); flex: none; }
   .kachel.blau { background: var(--chip-blau); color: var(--nav-on); }
   .knopf { display: inline-flex; align-items: center; justify-content: center; gap: 6px; width: 100%; font: inherit; font-size: 12px; font-weight: 600; background: var(--nav-on); color: var(--nav-on-fg); border: 0; border-radius: 10px; padding: 8px 10px; cursor: pointer; margin-top: 6px; }

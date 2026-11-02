@@ -4,6 +4,8 @@
   import { entwicklungIndex, herkunftVerwendung, kennzahlen } from "../model/dashboard";
   import { fmtEuro, fmtPct } from "../model/format";
   import { ministerien } from "../model/ministerien";
+  import { kabinett as kabinettDes, parteiKurz } from "../model/verantwortung";
+  import Partei from "../ui/Partei.svelte";
   import { effectiveFactor } from "../model/scenario";
   import type { AppState } from "../state.svelte";
   import Avatar from "../ui/Avatar.svelte";
@@ -16,7 +18,7 @@
   $effect(() => { app.jahr; void app.ensureVorjahr(); });
 
   const data = $derived(app.viewData!);
-  const k = $derived(kennzahlen(data, app.vorjahrData, app.scenario.includeSv, app.factors, app.empfaengerIndex, app.personIndex));
+  const k = $derived(kennzahlen(data, app.vorjahrData, app.scenario.includeSv, app.factors, app.empfaengerIndex, app.personIndex, app.data ?? data));
   const hv = $derived(herkunftVerwendung(data, app.scenario.includeSv, app.factors));
   const entwicklung = $derived(app.zeitreihe ? entwicklungIndex(app.zeitreihe, app.stand).filter((e) => e.gesamt != null) : []);
   const mins = $derived(ministerien(data, app.stand, app.scenario.includeSv, app.jahr, app.index?.jahre.at(-1) ?? app.jahr, app.personIndex, app.empfaengerIndex));
@@ -25,7 +27,7 @@
   const chef = $derived(groesstes ? (groesstes.leitung.find((l) => LEITUNG.test(l.amt)) ?? groesstes.leitung[0]) : undefined);
 
   const topEmpfaenger = $derived([...(app.empfaengerIndex?.eintraege ?? [])].sort((a, b) => b.haushalt_soll_letztes_jahr - a.haushalt_soll_letztes_jahr).slice(0, 5));
-  const kabinett = $derived(mins.flatMap((m) => m.leitung.map((l) => ({ ...l, epl: m.epl, ressort: m.name }))).filter((l) => LEITUNG.test(l.amt)).slice(0, 5));
+  const kabinett = $derived(kabinettDes(app.personIndex, app.jahr, app.index?.jahre.at(-1) ?? app.jahr).filter((m) => LEITUNG.test(m.amt)).slice(0, 5));
   const simulatorEpls = ["14", "30", "11"];
   const summeEntwicklung = $derived(hv.verwendung.reduce((s, x) => s + x.wert, 0));
 
@@ -39,7 +41,7 @@
 
 <div class="dashboard">
   <div class="kennzahlen">
-    <Kennzahl label={`Bundeshaushalt ${app.jahr}`} wert={fmtEuro(k.haushalt)} neben={k.veraenderung == null ? "" : `${k.veraenderung > 0 ? "+" : ""}${k.veraenderung.toLocaleString("de-DE")} % ggü. ${app.jahr - 1}`} nebenTon={k.veraenderung == null ? "" : k.veraenderung > 0 ? "schlecht" : "gut"} ton="blau" icon={Wallet} />
+    <Kennzahl label={`Bundeshaushalt ${app.jahr}`} wert={fmtEuro(k.haushalt)} neben={k.veraenderung == null ? "" : `${k.veraenderung > 0 ? "+" : ""}${k.veraenderung.toLocaleString("de-DE")} % ggü. ${app.jahr - 1}`} ton="blau" icon={Wallet} />
     <Kennzahl label="Einnahmen" wert={fmtEuro(k.einnahmen)} neben={`davon Steuern ${fmtEuro(k.steuern)}`} ton="gruen" icon={Coins} />
     <Kennzahl label="Empfänger mit Seite" wert={k.empfaengerMitSeite.toLocaleString("de-DE")} neben="Lobbyregister und geprüfte Zuordnungen" ton="violett" icon={Building2} />
     <Kennzahl label="Personen-Akten" wert={k.aktenSichtbar.toLocaleString("de-DE")} neben="öffentlich sichtbar" ton="orange" icon={Users} />
@@ -103,7 +105,7 @@
       <h3><Users size={16} /> Politik & Verantwortung</h3>
       <ul class="personen">
         {#each kabinett as p (p.id)}
-          <li><Avatar name={p.name} size={28} /><div><button class="link" onclick={() => void app.openAkte(p.id)}>{p.name}</button><small class="muted">{p.amt}</small></div><button class="chip" onclick={() => app.zeigeImFluss([p.epl])}>Zuständigkeiten</button></li>
+          <li><Avatar name={p.name} size={28} /><div><button class="link" onclick={() => void app.openAkte(p.id)}>{p.name}</button><small class="muted">{p.amt} {#if p.partei}<Partei name={parteiKurz(p.partei)} />{/if}</small></div>{#if p.epl}<button class="chip" onclick={() => app.zeigeImFluss([p.epl!])}>Zuständigkeiten</button>{/if}</li>
         {/each}
         {#if !kabinett.length}<li class="muted small">Leitung für {app.jahr} nicht erfasst.</li>{/if}
       </ul>
@@ -115,7 +117,7 @@
         {@const f = effectiveFactor(epl, app.factors)}
         <label class="regler"><span>{data.epl[epl] ?? `Einzelplan ${epl}`}</span>
           <input type="range" min="0.5" max="1.5" step="0.05" value={f} oninput={(e) => app.setFactor(epl, Number((e.target as HTMLInputElement).value))} aria-label={`Faktor ${data.epl[epl] ?? epl}`} />
-          <b class="tabular" class:gut={f < 1} class:schlecht={f > 1}>{f === 1 ? "±0 %" : `${f > 1 ? "+" : "−"}${fmtPct(Math.abs(f - 1))}`}</b></label>
+          <b class="tabular">{f === 1 ? "±0 %" : `${f > 1 ? "+" : "−"}${fmtPct(Math.abs(f - 1))}`}</b></label>
       {/each}
       <button class="mehr" onclick={() => app.setView("simulator")}>Zum Simulator</button>
     </section>
@@ -154,7 +156,6 @@
   .regler span { grid-column: 1 / 3; color: var(--fg); }
   .regler input { width: 100%; accent-color: var(--nav-on); }
   .regler b { min-width: 48px; text-align: right; color: var(--muted); }
-  .regler b.gut { color: var(--good); } .regler b.schlecht { color: var(--bad); }
   .muted { color: var(--muted); } .small { font-size: 11px; }
   @media (max-width: 1200px) { .kennzahlen, .reihe.teaser { grid-template-columns: repeat(2, minmax(0, 1fr)); } .reihe { grid-template-columns: 1fr; } }
   @media (max-width: 700px) { .kennzahlen, .reihe.teaser { grid-template-columns: 1fr; } }

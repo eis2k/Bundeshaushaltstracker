@@ -17,13 +17,15 @@ export interface Kennzahlen {
   aktenSichtbar: number;
 }
 
-export function kennzahlen(data: YearData, vorjahr: YearData | null, includeSv: boolean, factors: Factors, empfaenger: EmpfaengerIndex | null, personen: PersonIndex | null): Kennzahlen {
+/** `roh` = unveränderte Soll-Daten des Jahres für die Veränderung zum Vorjahr (nominal, ohne Faktoren, ohne Ist- oder Preisumrechnung); Vorgabe `data`. */
+export function kennzahlen(data: YearData, vorjahr: YearData | null, includeSv: boolean, factors: Factors, empfaenger: EmpfaengerIndex | null, personen: PersonIndex | null, roh: YearData = data): Kennzahlen {
   const b = balance(data, factors, includeSv);
+  const r = balance(roh, {}, includeSv);
   const v = vorjahr ? balance(vorjahr, {}, includeSv) : null;
   const steuern = revenueGroups(data, includeSv).filter((g) => g.id.startsWith("E:steuern")).reduce((s, g) => s + g.soll, 0);
   return {
     haushalt: b.ausgaben,
-    veraenderung: v && v.ausgaben > 0 ? Math.round(((b.ausgaben - v.ausgaben) / v.ausgaben) * 1000) / 10 : null,
+    veraenderung: v && v.ausgaben > 0 ? Math.round(((r.ausgaben - v.ausgaben) / v.ausgaben) * 1000) / 10 : null,
     einnahmen: b.einnahmen,
     steuern,
     empfaengerMitSeite: empfaenger?.eintraege.length ?? 0,
@@ -57,15 +59,16 @@ export function herkunftVerwendung(data: YearData, includeSv: boolean, factors: 
   return { herkunft, verwendung };
 }
 
-/** Gesamtausgaben je Jahr als Index (erstes Jahr mit Wert = 100). Investitionen liegen in der Zeitreihe nicht als Reihe vor → null. */
+/** Gesamtausgaben je Jahr als Index (erstes Jahr mit Wert = 100). Ist nur, wenn alle Reihen Ist haben (kein Mischen mit Soll). Investitionen liegen in der Zeitreihe nicht als Reihe vor → null. */
 export function entwicklungIndex(z: Zeitreihe, stand: "soll" | "ist"): { jahr: number; gesamt: number | null; investitionen: number | null }[] {
   const summen = z.jahre.map((_, i) => {
     let s = 0;
     let hat = false;
     for (const serie of Object.values(z.epl)) {
       if (serie.art !== "A" || serie.sv) continue;
-      const w = stand === "ist" ? (serie.ist[i] ?? serie.soll[i]) : serie.soll[i];
-      if (w != null) { s += w; hat = true; }
+      const w = stand === "ist" ? serie.ist[i] : serie.soll[i];
+      if (w == null) { if (serie.soll[i] != null) return null; continue; }
+      s += w; hat = true;
     }
     return hat ? s : null;
   });

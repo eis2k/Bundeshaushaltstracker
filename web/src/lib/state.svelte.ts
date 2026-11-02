@@ -323,7 +323,7 @@ export class AppState {
   async ensureVorjahr(): Promise<void> {
     const vj = this.jahr - 1;
     if (this.vorjahrData?.jahr === vj || !(this.index?.jahre ?? []).includes(vj)) { if (this.vorjahrData?.jahr !== vj) this.vorjahrData = null; return; }
-    try { this.vorjahrData = await this.loader.loadYear(vj); } catch { this.vorjahrData = null; }
+    try { const d = await this.loader.loadYear(vj); if (this.jahr - 1 === vj) this.vorjahrData = d; } catch { this.vorjahrData = null; }
   }
 
   async ensurePersonen(): Promise<void> {

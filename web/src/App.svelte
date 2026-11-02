@@ -43,8 +43,9 @@
   });
 
   const haushalt = $derived(app.view === "fluss" || app.view === "karte" || app.view === "saeulen" || app.view === "gewachsen");
-  /** Geldflüsse bringen ihre Spalten selbst mit (Spec §4.11). */
+  /** Geldflüsse, Dashboard und Simulator bringen ihre Spalten selbst mit und laufen über die volle Breite (Spec §4.11). */
   const mitPanel = $derived(haushalt && app.view !== "fluss");
+  const breit = $derived(!mitPanel || app.view === "dashboard" || app.view === "simulator");
 </script>
 
 <div class="app">
@@ -58,7 +59,7 @@
       {#if haushalt && app.view !== "fluss"}
         <Presets {app} />
       {/if}
-      <main class:breit={!mitPanel}>
+      <main class:breit>
         {#if app.view === "fluss" && app.viewData && !app.error}
           <FlussSeite {app} />
         {:else}
@@ -108,7 +109,9 @@
             <div class="soon">Diese Ansicht ist noch im Aufbau.</div>
           {/if}
         </section>
-        {#if app.view === "personen" || app.view === "politik" || app.view === "netz"}
+        {#if breit}
+          <!-- volle Breite, kein Seitenpanel -->
+        {:else if app.view === "personen" || app.view === "politik" || app.view === "netz"}
           <aside class="panel hint">
             <b>Personen und Netz</b>
             <p>Akten zeigen nur, was amtlich veröffentlicht ist oder die Person selbst angegeben hat: Mandat, Amt, Posten, veröffentlichungspflichtige Angaben, Parteispenden ihrer Organisationen. Jede Zeile trägt Quelle und Datum.</p>
@@ -127,11 +130,6 @@
           <aside class="panel hint">
             <b>Ministerien</b>
             <p>Je Einzelplan: Leitung laut Bundesregierung, Ausgaben des Jahres und Empfänger mit Seite. Zuständigkeit für einen Einzelplan ist keine persönliche Entscheidung über eine einzelne Zahlung.</p>
-          </aside>
-        {:else if app.view === "dashboard"}
-          <aside class="panel hint">
-            <b>Dashboard</b>
-            <p>Alle Zahlen stammen aus dem Bundeshaushalt (bundeshaushalt.de) und den amtlichen Registern; Modellrechnungen sind als solche gekennzeichnet.</p>
           </aside>
         {:else}
           <Panel {app} />
@@ -155,6 +153,7 @@
   .panel.hint p { margin: 6px 0; }
   .link { background: none; border: 0; color: var(--accent); text-decoration: underline; cursor: pointer; font: inherit; padding: 0; }
   main { display: grid; grid-template-columns: minmax(0, 1fr) 300px; gap: 16px; align-items: start; }
+  main.breit { grid-template-columns: minmax(0, 1fr); }
   .view { background: var(--panel); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px; min-height: 420px; }
   .view[aria-busy="true"] { opacity: .7; }
   .loading, .soon, .error { color: var(--muted); padding: 40px; text-align: center; }

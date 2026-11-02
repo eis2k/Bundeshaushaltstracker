@@ -30,8 +30,6 @@ export interface SLink {
   value: number;
   colorKey: string;
   dim: boolean;
-  /** Datenquelle der Kante Ministerium → Empfänger (Spec §4.11): Beträge verschiedener Quellen werden nie addiert. */
-  quelle?: string;
 }
 
 export interface SGhost {
@@ -125,11 +123,8 @@ export function addModelle(modelle: Modell[] | undefined, add: (n: Omit<SNode, "
   return bund;
 }
 
-export interface EmpfaengerSpalteEintrag { id: string; name: string; wert: number; quelle: string }
-
 export function buildSankey(data: YearData, scenario: Scenario, factors: Record<NodeId, number>, focus: NodeId[],
-                            opts: { maxPerColumn: number; maxRevenue?: number; modelle?: Modell[]; empfaengerByTitel?: Record<string, { id: string; name: string }> },
-                            empfaengerSpalte: EmpfaengerSpalteEintrag[] = []): SankeyData {
+                            opts: { maxPerColumn: number; maxRevenue?: number; modelle?: Modell[]; empfaengerByTitel?: Record<string, { id: string; name: string }> }): SankeyData {
   const nodes: SNode[] = [];
   const links: SLink[] = [];
   const ghosts: SGhost[] = [];
@@ -143,8 +138,8 @@ export function buildSankey(data: YearData, scenario: Scenario, factors: Record<
     nodes.push({ dim: false, netOriginal: n.original, netEffective: n.effective, ...n });
     return n.id;
   };
-  const link = (source: string, target: string, value: number, colorKey: string, dim = false, quelle?: string) => {
-    if (value > 0) links.push({ source, target, value, colorKey, dim, ...(quelle ? { quelle } : {}) });
+  const link = (source: string, target: string, value: number, colorKey: string, dim = false) => {
+    if (value > 0) links.push({ source, target, value, colorKey, dim });
   };
   const ghost = (a: Agg) => { if (a.changed && a.original !== a.effective) ghosts.push({ id: a.id, diff: a.original - a.effective }); };
 
@@ -195,17 +190,8 @@ export function buildSankey(data: YearData, scenario: Scenario, factors: Record<
     if (a.id !== "rest:2") ghost(a);
   }
 
-  // Spalte 3 bei Fokus auf genau einen Einzelplan: Empfänger mit Seite (Spec §4.11), Betrag je Quelle, keine Summe über Quellen
-  const focusKap = focus[1];
-  if (focusEpl && focusKap === undefined && byEpl.has(focusEpl)) {
-    for (const e of empfaengerSpalte) {
-      if (e.wert <= 0) continue;
-      add({ id: `empfaenger:${e.id}`, label: e.name, column: 3, kind: "empfaenger", original: e.wert, effective: e.wert, changed: false, colorKey: focusEpl });
-      link(focusEpl, `empfaenger:${e.id}`, e.wert, focusEpl, false, e.quelle);
-    }
-  }
-
   // Spalte 3: Kapitel des Fokus-Einzelplans
+  const focusKap = focus[1];
   if (focusEpl && byEpl.has(focusEpl)) {
     const byKap = new Map<string, BudgetRow[]>();
     for (const r of byEpl.get(focusEpl)!) {

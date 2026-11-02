@@ -2,7 +2,7 @@
   /** Partei-Etikett (Spec §4.11 „Parteien“): dezente Kennzeichnung, keine Wertung. Ohne Angabe nichts. */
   let { name }: { name: string | null } = $props();
   const FARBEN: Record<string, string> = {
-    SPD: "#e3000f", CDU: "#1d1d1b", CSU: "#0a6ab6", "CDU/CSU": "#1d1d1b", "Bündnis 90/Die Grünen": "#46962b", GRÜNE: "#46962b", FDP: "#ffed00", "Die Linke": "#be3075", AfD: "#009ee0", BSW: "#7d254f", SSW: "#003c8f",
+    SPD: "#e3000f", CDU: "#1d1d1b", CSU: "#0a6ab6", "CDU/CSU": "#1d1d1b", "Bündnis 90/Die Grünen": "#46962b", "Bündnis 90 Die Grünen": "#46962b", GRÜNE: "#46962b", Grüne: "#46962b", FDP: "#ffed00", "Die Linke": "#be3075", Linke: "#be3075", AfD: "#009ee0", BSW: "#7d254f", SSW: "#003c8f",
   };
   const farbe = $derived(name ? FARBEN[name] ?? "var(--muted)" : null);
   const hell = $derived(name === "FDP");

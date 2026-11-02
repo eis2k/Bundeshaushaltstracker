@@ -40,3 +40,18 @@ describe("dashboard", () => {
     expect(e[0].jahr).toBe(2015);
   });
 });
+
+describe("kennzahlen: Veränderung zum Vorjahr (Review I4)", () => {
+  test("ohne Faktoren, aus den Rohdaten, auch wenn die Ansicht Faktoren trägt", () => {
+    const mit = kennzahlen(fixtureYear, year2019, false, { "11": 1.5 }, empf, personen);
+    const ohne = kennzahlen(fixtureYear, year2019, false, {}, empf, personen);
+    expect(mit.haushalt).toBeGreaterThan(ohne.haushalt);
+    expect(mit.veraenderung).toBe(ohne.veraenderung);
+  });
+  test("Rohdaten der Ansicht können getrennt übergeben werden (Ist- oder Preisansicht)", () => {
+    const ansicht = { ...fixtureYear, rows: fixtureYear.rows.map((r) => ({ ...r, soll: r.soll * 2 })) };
+    const k = kennzahlen(ansicht, year2019, false, {}, empf, personen, fixtureYear);
+    expect(k.haushalt).toBe(2 * kennzahlen(fixtureYear, year2019, false, {}, empf, personen).haushalt);
+    expect(k.veraenderung).toBe(kennzahlen(fixtureYear, year2019, false, {}, empf, personen).veraenderung);
+  });
+});

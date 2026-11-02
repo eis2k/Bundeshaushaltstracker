@@ -180,3 +180,17 @@ def test_laufende_regierungsfunktion_auf_der_empfaenger_seite():
     s2 = verbindungssatz(v["Bert Alt"], "Verein X", [])
     assert "hat zugleich eine öffentliche Funktion" in s1 and "zuvor" not in s1
     assert "hatte zuvor eine öffentliche Funktion" in s2 and "bis 2021-12-08" in s2
+
+
+def test_aufteilung_je_epl_trennt_quellen_und_einzelplaene():
+    # Review C2 (Stufe 4c): Beträge je Einzelplan und Quelle; Förderkatalog-Ressorts sind keine Geldquelle
+    from bhtracker.empfaenger import aufteilung_je_epl
+    titel = [{"id": "04-0401-68501", "epl": "04", "werte": {"2025": {"soll": 300.0, "ist": None}, "2026": {"soll": 395.4, "ist": None}}},
+             {"id": "05-0502-68701", "epl": "05", "werte": {"2026": {"soll": 10.0, "ist": None}}},
+             {"id": "04-0401-68502", "epl": "04", "werte": {"2025": {"soll": 1.0, "ist": None}}}]
+    lobby = [{"geber": "BMWE", "epl": "09", "von": 1_880_000, "bis": 1_890_000}, {"geber": "BMV", "epl": "12", "von": 470_000, "bis": 480_000},
+             {"geber": "BMWE", "epl": "09", "von": 10, "bis": 20}, {"geber": "Unbekannt", "epl": None, "von": 5, "bis": 5}]
+    haushalt, lob = aufteilung_je_epl(titel, lobby, 2026)
+    assert haushalt == {"04": 395.4, "05": 10.0}
+    assert lob == {"09": 1_880_010, "12": 470_000}
+    assert aufteilung_je_epl(titel, [], None) == ({}, {})

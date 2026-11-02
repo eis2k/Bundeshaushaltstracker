@@ -3,7 +3,7 @@
   import { onMount } from "svelte";
   import { fmtEuro } from "../model/format";
   import { ministerien, type Ministerium } from "../model/ministerien";
-  import { topEmpfaenger } from "../model/profiteure";
+  import { anzahlEmpfaenger, topEmpfaenger } from "../model/profiteure";
   import { parteiKurz } from "../model/verantwortung";
   import type { AppState } from "../state.svelte";
   import Avatar from "../ui/Avatar.svelte";
@@ -34,7 +34,7 @@
     if (!m || !app.zeitreihe) return [];
     const s = app.zeitreihe.epl[m.epl];
     if (!s) return [];
-    return app.zeitreihe.jahre.map((jahr, i) => ({ jahr, wert: app.stand === "ist" ? (s.ist[i] ?? s.soll[i]) : s.soll[i] })).filter((x): x is { jahr: number; wert: number } => x.wert != null);
+    return app.zeitreihe.jahre.map((jahr, i) => ({ jahr, wert: app.stand === "ist" ? s.ist[i] : s.soll[i] })).filter((x): x is { jahr: number; wert: number } => x.wert != null);
   });
   const veraenderung = $derived(entwicklung.length > 1 && entwicklung[0].wert > 0 ? Math.round(((entwicklung[entwicklung.length - 1].wert - entwicklung[0].wert) / entwicklung[0].wert) * 1000) / 10 : null);
   function linie(w: { wert: number }[]): string {
@@ -67,7 +67,7 @@
       {#if reiter === "geldfluesse"}
         {#if app.viewData}
           <Fluss data={app.viewData} scenario={app.scenario} factors={app.factors} focus={fokus} selected={gewaehltKnoten} topf="bund"
-                 empfaengerByTitel={app.empfaengerByTitel} empfaengerSpalte={top} empfaengerJahr={letztesJahr}
+                 empfaengerByTitel={app.empfaengerByTitel} empfaengerSpalte={fokus[0] === m.epl && app.jahr === letztesJahr ? top : []} empfaengerGesamt={fokus[0] === m.epl && app.jahr === letztesJahr ? anzahlEmpfaenger(m.epl, app.empfaengerIndex) : 0} empfaengerJahr={letztesJahr} onEmpfaengerListe={(epl) => app.openEmpfaengerListe({ epl })}
                  onEmpfaenger={(id) => void app.openEmpfaenger(id)} onNetz={(epl) => void app.openNetz(`m:${epl}`)}
                  onFocus={(p) => (fokus = p.length ? p : [m!.epl])} onSelect={(id) => (gewaehltKnoten = id)} />
         {/if}
@@ -97,7 +97,7 @@
       {:else}
         {#if entwicklung.length > 1}
           <div class="entw">
-            <span class="delta" class:gut={(veraenderung ?? 0) < 0} class:schlecht={(veraenderung ?? 0) > 0}>{veraenderung != null ? `${veraenderung > 0 ? "+" : ""}${veraenderung.toLocaleString("de-DE")} % seit ${entwicklung[0].jahr}` : ""}</span>
+            <span class="delta">{veraenderung != null ? `${veraenderung > 0 ? "+" : ""}${veraenderung.toLocaleString("de-DE")} % seit ${entwicklung[0].jahr}` : ""}</span>
             <svg viewBox="0 0 320 125" class="linie" role="img" aria-label="Entwicklung der Ausgaben des Einzelplans">
               <polyline points={linie(entwicklung)} fill="none" stroke="var(--nav-on)" stroke-width="2.5" />
               {#each entwicklung as e, i}<circle cx={(i / Math.max(1, entwicklung.length - 1)) * 320} cy={linie(entwicklung).split(" ")[i].split(",")[1]} r="3" fill="var(--nav-on)"><title>{e.jahr}: {fmtEuro(e.wert)}</title></circle>{/each}
@@ -156,7 +156,6 @@
   .betrag small { color: var(--muted); font-size: 10px; }
   .entw { display: flex; flex-direction: column; gap: 4px; max-width: 560px; }
   .delta { align-self: flex-start; font-size: 12px; font-weight: 700; padding: 2px 8px; border-radius: 999px; background: var(--bg); color: var(--muted); }
-  .delta.gut { color: var(--good); background: var(--chip-gruen); } .delta.schlecht { color: var(--bad); background: #fee2e2; }
   .linie { width: 100%; height: auto; }
   .achse { display: flex; justify-content: space-between; font-size: 11px; color: var(--muted); }
   .intro { margin: 0; font-size: 12px; }

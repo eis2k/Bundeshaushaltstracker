@@ -325,6 +325,22 @@ def verbindungssatz(v: Verbindung, empfaenger_name: str, geld_aus: list[str]) ->
 
 # ---------------------------------------------------------------- Build (Spec §4.6a)
 
+def aufteilung_je_epl(titel_eintraege: list[dict], lobby_z: list[dict], letztes_jahr: int | None) -> tuple[dict[str, float], dict[str, float]]:
+    """Beträge je Einzelplan, getrennt nach Quelle (Spec §4.11, Review C2): Haushalts-Soll des letzten Jahres aus den Titeln des Einzelplans
+    und Lobbyregister-Untergrenzen der Geber des Einzelplans. Förderkatalog-Ressorts zählen nicht als Geldquelle."""
+    haushalt: dict[str, float] = {}
+    if letztes_jahr is not None:
+        for t in titel_eintraege:
+            w = t["werte"].get(str(letztes_jahr))
+            if w:
+                haushalt[t["epl"]] = round(haushalt.get(t["epl"], 0) + w["soll"], 2)
+    lobby: dict[str, float] = {}
+    for z in lobby_z:
+        if z.get("epl"):
+            lobby[z["epl"]] = round(lobby.get(z["epl"], 0) + z["von"], 2)
+    return {k: v for k, v in haushalt.items() if v}, {k: v for k, v in lobby.items() if v}
+
+
 import json  # noqa: E402
 from pathlib import Path  # noqa: E402
 
@@ -520,6 +536,7 @@ def build_empfaenger(manual_dir: Path, raw_dir: Path, out: Path, years: dict[int
             if epl:
                 epls.add(epl)
             fk.append({"fkz": pr.fkz, "ressort": pr.ressort, "epl": epl, "thema": pr.thema, "von": pr.von, "bis": pr.bis, "summe": pr.summe, "foerderart": pr.foerderart})
+        haushalt_je_epl, lobby_je_epl = aufteilung_je_epl(titel_eintraege, lobby_z, letztes_jahr)
         geld_aus = []
         for z in sorted(lobby_z, key=lambda x: -x["von"]):
             if z["geber"] not in geld_aus:
@@ -584,7 +601,8 @@ def build_empfaenger(manual_dir: Path, raw_dir: Path, out: Path, years: dict[int
         eintraege.append({"id": sid, "name": s.name, "art": s.art, "rechtsform": seite["rechtsform"], "sitz": seite["sitz"],
                           "lobby_untergrenze_bund": seite["lobby_untergrenze_bund"], "haushalt_soll_letztes_jahr": haushalt_letztes,
                           "foerderkatalog_summe": round(sum(x["summe"] for x in fk), 2), "n_personen": len(personen),
-                          "n_verbindungen": len(verbindungen), "lobbyregister": p.nummer if p else None, "epls": sorted(epls)})
+                          "n_verbindungen": len(verbindungen), "lobbyregister": p.nummer if p else None, "epls": sorted(epls),
+                          "haushalt_je_epl": haushalt_je_epl, "lobby_je_epl": lobby_je_epl})
     eintraege.sort(key=lambda e: (-e["lobby_untergrenze_bund"], -e["haushalt_soll_letztes_jahr"], e["name"]))
     # Seiten früherer Läufe, deren Empfänger es nicht mehr gibt, entfernen (sonst bleiben sie per Link erreichbar)
     for alt in out_dir.glob("*.json"):

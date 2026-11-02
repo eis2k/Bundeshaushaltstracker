@@ -5,6 +5,7 @@
   import type { TopEmpfaenger, Verantwortung } from "../model/profiteure";
   import Avatar from "./Avatar.svelte";
   import Partei from "./Partei.svelte";
+  import { parteiKurz } from "../model/verantwortung";
 
   let { v, top, jahr, empfaengerJahr, onAkte, onEmpfaenger, onFokus }: {
     v: Verantwortung | null; top: TopEmpfaenger[]; jahr: number; empfaengerJahr: number | null;
@@ -30,7 +31,7 @@
       <div class="text">
         <b>{v.name}</b>
         {#if chef}
-          <span class="zeile">{rolle}: <button class="link" onclick={() => onAkte(chef.id)}>{chef.name}</button> <Partei name={chef.partei ?? null} /></span>
+          <span class="zeile">{rolle}: <button class="link" onclick={() => onAkte(chef.id)}>{chef.name}</button> <Partei name={chef.partei ? parteiKurz(chef.partei) : null} /></span>
         {:else}
           <span class="zeile muted">{v.hinweis}</span>
         {/if}

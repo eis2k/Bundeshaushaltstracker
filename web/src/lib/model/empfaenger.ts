@@ -26,6 +26,9 @@ export interface EmpfaengerIndexEintrag {
   n_verbindungen: number;
   lobbyregister: string | null;
   epls: string[];
+  /** Haushalts-Soll des letzten Jahres je Einzelplan (nur Titel) und Lobbyregister-Untergrenzen je Einzelplan (nur Geber); Quellen getrennt. */
+  haushalt_je_epl?: Record<string, number>;
+  lobby_je_epl?: Record<string, number>;
 }
 
 export interface EmpfaengerIndex {
