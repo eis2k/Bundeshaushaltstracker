@@ -74,3 +74,15 @@ Drei amtliche Quellen liefern die Empfänger-Seiten; alle Abrufe laufen über `b
 Pflegedaten: `data/manual/empfaenger.yaml` (Stamm, Aliasse, Titel-Zuordnung, Förderkatalog-Suchname), `data/manual/ressorts.yaml` (Geldgeber-Namen → Einzelplan), `data/manual/verbindungen.yaml` (von Hand bestätigte Verbindungen, nur mit `geprueft: true` und Quelle), `data/manual/jahresabschluss.yaml` (Kennzahlen aus Jahresabschlüssen mit Seitenangabe).
 
 Regeln: Beträge aus Haushalt (Euro), Lobbyregister (Spannen, Eigenangabe) und Förderkatalog (Projektsummen) stehen getrennt nebeneinander und werden nie addiert. Verbindungen Person ↔ Organisation werden nur bei exakt gleichem normalisiertem Namen automatisch veröffentlicht; alles andere wartet in der Prüfliste.
+
+## Personen und Netz (Stufe 3)
+
+| Quelle | Kommando | Rohdaten |
+|---|---|---|
+| Parteispenden über 35.000 € (bundestag.de, je Jahr) | `uv run bht fetch-personen --quellen spenden` | `data/raw/spenden/<jahr>.html` (laufendes Jahr wird immer neu geladen) |
+| Bundeskabinett (bundesregierung.de) | `uv run bht fetch-personen --quellen kabinett` | `data/raw/regierung/kabinett.html` |
+| Ausgeschiedene Abgeordnete der laufenden Wahlperiode | `uv run bht fetch-personen --quellen ausgeschiedene` | `data/raw/bundestag/<id>.html` |
+
+`bht build` baut nach den Empfänger-Seiten die Akten (`data/build/personen/index.json` und 256 Shard-Dateien, nur sichtbare Akten) und das Netz (`data/build/netz/index.json` als Karte Knoten → Shard, Umfelder zwei Schritte weit in Shard-Dateien). `--akten alle` macht alle Akten sichtbar (lokale Auswertung, nicht für die öffentliche Seite); `--ohne-personen` baut weder Akten noch Personenknoten.
+
+Pflegedaten: `data/manual/regierung.yaml` (Kabinett überschreiben, Staatsminister und Staatssekretäre mit Quelle, `mdb_id` verbindet mit der Bundestags-Akte), `data/manual/personen.yaml` (`zusammenfuehren`, `trennen`, `freigabe`, jeweils mit Quelle). Prüflisten: `data/review/personen_kandidaten.yaml` (gleiche Namen ohne Beleg), `data/review/spenden_kandidaten.yaml` (Organisationen ohne Treffer im Empfänger-Stamm; natürliche Personen werden nie gespeichert).
