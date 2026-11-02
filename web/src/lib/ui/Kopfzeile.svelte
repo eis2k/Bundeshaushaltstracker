@@ -10,6 +10,7 @@
     { id: "karte", label: "Karte" },
     { id: "saeulen", label: "Säulen" },
     { id: "gewachsen", label: "Was ist gewachsen?" },
+    { id: "empfaenger", label: "Empfänger" },
   ];
 
   let copied = $state(false);

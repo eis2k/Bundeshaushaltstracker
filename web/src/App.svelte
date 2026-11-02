@@ -10,6 +10,8 @@
   import Karte from "./lib/views/Karte.svelte";
   import Saeulen from "./lib/views/Saeulen.svelte";
   import Gewachsen from "./lib/views/Gewachsen.svelte";
+  import Empfaenger from "./lib/views/Empfaenger.svelte";
+  import EmpfaengerSeite from "./lib/views/EmpfaengerSeite.svelte";
   import Schnittwechsel from "./lib/ui/Schnittwechsel.svelte";
 
   const app = new AppState({ loadIndex, loadYear, loadPresets, loadGesetzFrei, loadZeitreihe, loadVpi, loadSozialkassen, loadTexte, loadKonkordanz, loadSteuern, loadEmpfaengerIndex, loadEmpfaenger });
@@ -54,11 +56,26 @@
                  onFocus={(p) => app.setFocus(p)} onSelect={(id) => app.setSelected(id)} />
       {:else if app.view === "gewachsen"}
         <Gewachsen {app} />
+      {:else if app.view === "empfaenger"}
+        {#if app.empfaengerSeite}
+          <EmpfaengerSeite {app} seite={app.empfaengerSeite} />
+        {:else}
+          <Empfaenger {app} />
+        {/if}
       {:else}
         <div class="soon">Diese Ansicht ist noch im Aufbau.</div>
       {/if}
     </section>
-    <Panel {app} />
+    {#if app.view === "empfaenger"}
+      <aside class="panel hint">
+        <b>Empfänger-Seiten</b>
+        <p>Belege aus Lobbyregister, Bundeshaushalt, Förderkatalog und bundestag.de. Eigenangaben sind als solche gekennzeichnet; Beträge aus verschiedenen Quellen werden nicht addiert.</p>
+        <p>Verbindungen zwischen Entscheidern und Empfängern erscheinen nur mit Fundstelle und nur bei exakt gleichem Organisationsnamen oder nach menschlicher Prüfung.</p>
+        <p>Fehlt ein Beleg oder stimmt etwas nicht: Auf jeder Seite gibt es „Fehler melden / Beleg einreichen“.</p>
+      </aside>
+    {:else}
+      <Panel {app} />
+    {/if}
   </main>
   <footer>
     <span>Daten: <a href="https://www.bundeshaushalt.de" target="_blank" rel="noopener">bundeshaushalt.de</a> (Bundesministerium der Finanzen){#if app.index}, Stand der Aufbereitung {app.index.erzeugt.slice(0, 10)}{/if}. Rechtlich verbindlich sind die amtlichen Dokumente.</span>
@@ -68,6 +85,9 @@
 
 <style>
   .app { min-height: 100vh; display: flex; flex-direction: column; }
+  .panel.hint { background: var(--panel); border: 1px solid var(--border); border-radius: 12px; padding: 14px; font-size: 12px; color: var(--muted); }
+  .panel.hint b { color: var(--fg); }
+  .panel.hint p { margin: 6px 0; }
   main { display: grid; grid-template-columns: minmax(0, 1fr) 300px; gap: 16px; padding: 16px; flex: 1; align-items: start; }
   .view { background: var(--panel); border: 1px solid var(--border); border-radius: 12px; padding: 14px; min-height: 420px; }
   .view[aria-busy="true"] { opacity: .7; }
