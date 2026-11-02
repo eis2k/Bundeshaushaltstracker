@@ -29,10 +29,7 @@
   }
   function titelOeffnen(id: string) {
     const [epl, kap] = id.split("-");
-    app.setTopf("bund");
-    app.setFocus([epl, `${epl}-${kap}`, id]);
-    app.setSelected(id);
-    app.setView("fluss");
+    app.zeigeImFluss([epl, `${epl}-${kap}`, id], id);
   }
 </script>
 

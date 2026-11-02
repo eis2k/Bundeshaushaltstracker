@@ -61,7 +61,7 @@
     if (!n.seite) return;
     if (n.art === "person") void app.openAkte(n.id.slice(2));
     else if (n.art === "organisation") void app.openEmpfaenger(n.id.slice(2));
-    else if (n.art === "ministerium") { app.setTopf("bund"); app.setFocus([n.id.slice(2)]); app.setView("fluss"); }
+    else if (n.art === "ministerium") app.zeigeImFluss([n.id.slice(2)]);
   }
   function zentrum(n: N) { void app.openNetz(n.id); }
   const startKnoten = $derived(umfeld.knoten.find((k) => k.id === umfeld.start));
@@ -74,7 +74,7 @@
     <h2>Umfeld: {startKnoten?.label ?? umfeld.start}</h2>
     <span class="muted">{umfeld.knoten.length} Knoten, {umfeld.kanten.length} Kanten, zwei Schritte{#if umfeld.weitere} · {umfeld.weitere} weitere Knoten nicht gezeigt (die größten nach Geld zuerst){/if}</span>
   </div>
-  <svg bind:this={svgEl} {width} {height} role="img" aria-label="Netz der Geldflüsse, Posten und Spenden rund um {startKnoten?.label ?? umfeld.start}">
+  <svg bind:this={svgEl} {width} {height} role="group" aria-label="Netz der Geldflüsse, Posten und Spenden rund um {startKnoten?.label ?? umfeld.start}">
     <g transform={transform.toString()}>
       {#each links as l}
         {@const s = l.source as N}
@@ -109,7 +109,7 @@
         {#if beleg.von}<button class="link" disabled={!beleg.von.seite} onclick={() => beleg?.von && klick(beleg.von as N)}>{KNOTEN_LABELS[beleg.von.art] ?? beleg.von.art}: {beleg.von.label}</button>{/if}
         {#if beleg.nach}<button class="link" disabled={!beleg.nach.seite} onclick={() => beleg?.nach && klick(beleg.nach as N)}>{KNOTEN_LABELS[beleg.nach.art] ?? beleg.nach.art}: {beleg.nach.label}</button>{/if}
       </p>
-      <p class="muted small">Belegte Beziehung, keine Wertung. Zuständigkeit für einen Einzelplan ist keine Entscheidung über eine einzelne Zahlung.</p>
+      <p class="muted small">Belegte Beziehung, keine Wertung.{#if beleg.art === "Geld"} Zuständigkeit für einen Einzelplan ist keine Entscheidung über eine einzelne Zahlung.{/if}</p>
     </aside>
   {/if}
   <div class="legende">
@@ -125,7 +125,7 @@
 <style>
   .netz { font-size: 12px; position: relative; }
   .treffer { cursor: pointer; outline: none; }
-  .treffer:focus-visible { stroke: var(--chip-blau); stroke-opacity: .9; }
+  .treffer:focus-visible { stroke: var(--accent); stroke-opacity: .55; }
   .beleg { position: absolute; right: 12px; top: 48px; width: 300px; max-width: calc(100% - 24px); background: var(--panel); border: 1px solid var(--border); border-radius: var(--radius-s); padding: 12px 14px; box-shadow: 0 6px 20px rgba(23, 60, 102, .10); }
   .beleg-kopf { display: flex; justify-content: space-between; align-items: center; }
   .beleg .tag { background: var(--chip-blau); color: var(--header); border-radius: 999px; padding: 2px 8px; font-weight: 600; font-size: 11px; }

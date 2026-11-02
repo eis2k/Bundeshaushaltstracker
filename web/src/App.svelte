@@ -39,6 +39,11 @@
   });
 
   const haushalt = $derived(app.view === "fluss" || app.view === "karte" || app.view === "saeulen" || app.view === "gewachsen");
+  // Simulator-Eintrag: auf schmalen Bildschirmen das Seitenpanel mit den Reglern in den Blick rollen (Spec §4.10, Festlegung 1)
+  $effect(() => {
+    if (!app.gestalten || !ready) return;
+    if (window.innerWidth < 900) setTimeout(() => document.querySelector("main > aside, main > .panel")?.scrollIntoView({ behavior: "smooth", block: "start" }), 50);
+  });
 </script>
 
 <div class="app">

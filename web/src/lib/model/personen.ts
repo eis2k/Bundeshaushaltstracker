@@ -12,8 +12,8 @@ export interface PersonIndexEintrag {
   shard: string;
   /** Funktionsarten der Akte (mdb, regierung, gesetzlicher_vertreter, …); zusammengeführte Akten tragen mehrere. */
   arten: string[];
-  /** Einzelpläne, die die Person laut Bundesregierung leitet (Stufe 4a, Ministerien-Ansicht). */
-  epl_leitung?: string[];
+  /** Regierungsämter mit Einzelplan, Amt und Zeitraum (Stufe 4a, Ministerien-Ansicht); Zuordnung nur im Zeitraum. */
+  epl_leitung?: { epl: string; amt: string; seit: string | null; bis: string | null }[];
 }
 
 export interface PersonIndex { stand: string; modus: "relevant" | "alle" | string; eintraege: PersonIndexEintrag[] }

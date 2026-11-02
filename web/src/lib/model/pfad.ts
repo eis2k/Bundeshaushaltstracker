@@ -36,11 +36,12 @@ const HAUSHALT: ViewId[] = ["fluss", "karte", "saeulen", "gewachsen"];
 export function aktuellesGlied(e: GliedEingabe): Glied {
   if (HAUSHALT.includes(e.view)) {
     const teile = [e.topfNamen[e.topf] ?? e.topf];
+    // Nur benannte Glieder: Einzelplan (Nummer), Kapitel und Titel mit Namen; Kassen-, Posten- und Einnahmen-Ids ohne Namen bleiben weg
     for (const f of e.focus) {
       if (/^\d{2}$/.test(f)) teile.push(`Einzelplan ${f} ${e.eplNamen[f] ?? ""}`.trim());
-      else teile.push(e.titelNamen[f] ?? f);
+      else if (e.titelNamen[f]) teile.push(e.titelNamen[f]);
     }
-    if (e.selected && !e.focus.includes(e.selected)) teile.push(e.titelNamen[e.selected] ?? e.selected);
+    if (e.selected && !e.focus.includes(e.selected) && e.titelNamen[e.selected]) teile.push(e.titelNamen[e.selected]);
     return { label: teile.join(" › "), ziel: { art: "haushalt", view: e.view, topf: e.topf, focus: [...e.focus] } };
   }
   if (e.view === "ministerien") return { label: "Ministerien", ziel: { art: "ministerien" } };

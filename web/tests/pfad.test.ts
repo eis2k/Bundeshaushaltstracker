@@ -19,6 +19,14 @@ describe("aktuellesGlied", () => {
   });
 });
 
+describe("aktuellesGlied ohne rohe Ids", () => {
+  test("Kassen-, Posten- und Einnahmen-Ids ohne Namen erscheinen nicht im Label", () => {
+    expect(aktuellesGlied({ ...leer, topf: "gesamt", focus: ["topf:grv"], selected: "topf:grv" }).label).toBe("Gesamtfluss");
+    expect(aktuellesGlied({ ...leer, focus: ["11"], selected: "E:steuern:011", eplNamen: { "11": "Arbeit" } }).label).toBe("Bund › Einzelplan 11 Arbeit");
+    expect(aktuellesGlied({ ...leer, focus: ["11", "11-1102"], selected: null, eplNamen: { "11": "Arbeit" }, titelNamen: { "11-1102": "Rentenversicherung" } }).label).toBe("Bund › Einzelplan 11 Arbeit › Rentenversicherung");
+  });
+});
+
 describe("pfad", () => {
   test("kürzt auf die letzten sechs Glieder", () => {
     const g = (n: number): Glied => ({ label: `G${n}`, ziel: { art: "personenliste" } });

@@ -250,6 +250,31 @@ describe("Personen und Netz (Stufe 3)", () => {
     expect(s.spur).toEqual([]);
   });
 
+  test("Spur merkt auch Rücksprünge auf schon besuchte Seiten und Sprünge in den Fluss", async () => {
+    const aas = { id: "aas", name: "Amadeu Antonio Stiftung", art: "verein", rechtsform: "", sitz: "", website: null, stand: "2026-11-01", geprueft: true, lobbyregister: null,
+      haushalt: { titel: [] }, lobby_zuwendungen: [], lobby_untergrenze_bund: 0, foerderkatalog: [], personen: [], verbindungen: [], pflichtangaben: null, quellen: [] };
+    const sloader: Loader = { ...ploader,
+      loadEmpfaengerIndex: async () => ({ stand: "2026-11-01", mit_personen: true, titel: {}, eintraege: [{ id: "aas", name: "Amadeu Antonio Stiftung", art: "verein", rechtsform: "", sitz: "", lobby_untergrenze_bund: 0, haushalt_soll_letztes_jahr: 0, foerderkatalog_summe: 0, n_personen: 0, n_verbindungen: 0, lobbyregister: null, epls: ["17"] }] }) as never,
+      loadEmpfaenger: async (id: string) => { if (id !== "aas") throw new Error("404"); return aas as never; } };
+    const s = new AppState(sloader);
+    await s.init("");
+    s.waehle(EINTRAEGE.find((e) => e.id === "empfaenger")!);
+    await s.openEmpfaenger("aas");
+    await s.openAkte("sanae-abdi");
+    await s.openEmpfaenger("aas");                                  // aus der Akte zurück zur Organisation: die Akte bleibt in der Spur
+    expect(s.spur.map((g) => g.label)).toEqual(["Empfänger", "Empfänger: Amadeu Antonio Stiftung", "Akte: Sanae Abdi"]);
+    s.openEmpfaengerListe();                                        // „Alle Empfänger“ aus der Seite heraus
+    expect(s.spur.map((g) => g.label).at(-1)).toBe("Empfänger: Amadeu Antonio Stiftung");
+    await s.openAkte("sanae-abdi");
+    s.zeigeImFluss(["11"]);                                         // „Im Fluss zeigen“ aus der Akte
+    expect(s.view).toBe("fluss"); expect(s.topf).toBe("bund"); expect(s.focus).toEqual(["11"]);
+    expect(s.spur.map((g) => g.label).at(-1)).toBe("Akte: Sanae Abdi");
+    await s.openAkte("sanae-abdi");                                 // dieselbe Akte erneut öffnen (von der Akte selbst) merkt nichts Doppeltes
+    const n = s.spur.length;
+    await s.openAkte("sanae-abdi");
+    expect(s.spur.length).toBe(n);
+  });
+
   test("zurück aus dem Netz führt zur Akte, von der es geöffnet wurde (Important 8)", async () => {
     const s = new AppState(ploader);
     await s.init("");

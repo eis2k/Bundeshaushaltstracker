@@ -242,6 +242,23 @@ export class AppState {
     this.scenario = { ...this.scenario, presets };
   }
 
+  /** Sprung in den Geldfluss aus dem Inhalt heraus (Akte, Empfänger-Seite, Netz, Ministerien, Zeitvergleich): merkt die verlassene Seite. */
+  zeigeImFluss(focus: NodeId[], selected: NodeId | null = null): void {
+    this.merke();
+    this.setTopf("bund");
+    this.focus = focus;
+    this.selected = selected ?? focus[focus.length - 1] ?? null;
+    this.setView("fluss");
+  }
+
+  /** Reiter der Unteransichten (Fluss/Karte/Säulen, Personen/Netz): Navigation, keine Spur. */
+  waehleUnteransicht(view: ViewId): void {
+    this.spur = [];
+    if (view === "personen") this.openPersonenListe();
+    else if (view === "netz") { this.netz = null; this.netzStart = null; this.netzFehlt = null; this.setView("netz"); }
+    else this.setView(view);
+  }
+
   /** Hauptnavigation (Seitenleiste / untere Leiste). */
   waehle(eintrag: NavEintrag): void {
     if (eintrag.view === "empfaenger") this.openEmpfaengerListe();
@@ -321,7 +338,7 @@ export class AppState {
 
   /** Öffnet eine Akte; nicht freigeschaltete oder unbekannte Ids werden benannt statt zu scheitern. */
   async openAkte(id: string | null): Promise<void> {
-    if (id && id !== this.akteId) this.merke();
+    if (id && !(this.view === "personen" && this.akteId === id)) this.merke();
     this.view = "personen";
     await this.ensurePersonen();
     this.akte = null;
@@ -345,7 +362,7 @@ export class AppState {
 
   /** Öffnet das Umfeld eines Knotens (p:, e:, m:, partei:). */
   async openNetz(knotenId: string | null): Promise<void> {
-    if (knotenId && knotenId !== this.netzStart) this.merke();
+    if (knotenId && !(this.view === "netz" && this.netzStart === knotenId)) this.merke();
     this.view = "netz";
     this.netz = null;
     this.netzFehlt = null;
@@ -381,7 +398,7 @@ export class AppState {
 
   /** Öffnet die Liste; `epl` filtert auf Empfänger, die Geld aus diesem Einzelplan erhalten. */
   openEmpfaengerListe(filter?: { epl?: string }): void {
-    if (filter?.epl) this.merke();
+    if (!(this.view === "empfaenger" && !this.empfaengerId && (this.empfaengerFilterEpl ?? null) === (filter?.epl ?? null))) this.merke();
     this.view = "empfaenger";
     this.empfaengerId = null;
     this.empfaengerSeite = null;
@@ -392,7 +409,7 @@ export class AppState {
 
   /** Öffnet eine Empfänger-Seite; unbekannte Id → Liste mit Hinweis. */
   async openEmpfaenger(id: string | null): Promise<void> {
-    if (id && id !== this.empfaengerId) this.merke();
+    if (id && !(this.view === "empfaenger" && this.empfaengerId === id)) this.merke();
     this.view = "empfaenger";
     await this.ensureEmpfaenger();
     if (!id) { this.openEmpfaengerListe(); return; }

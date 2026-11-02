@@ -514,7 +514,8 @@ def build_personen_akten(manual_dir: Path, raw_dir: Path, out: Path, empfaenger_
             if f.art not in arten:
                 arten.append(f.art)
         eintraege.append({"id": a.id, "name": a.name, "funktion_kurz": a.funktionen[0].text if a.funktionen else "", "amt": a.amt, "sichtbar": a.sichtbar,
-                          "arten": arten, "epl_leitung": sorted({f.epl for f in a.funktionen if f.art == "regierung" and f.epl}),
+                          "arten": arten,
+                          "epl_leitung": [{"epl": f.epl, "amt": f.amt or f.text.split(",")[0], "seit": f.seit, "bis": f.bis} for f in a.funktionen if f.art == "regierung" and f.epl],
                           "n_organisationen": len(orgs), "shard": shard(a.id)})
         if a.sichtbar:
             d = asdict(a)

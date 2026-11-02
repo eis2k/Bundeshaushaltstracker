@@ -52,10 +52,7 @@
     const parts = r.id.split("-");
     const path = ebene === "epl" ? [parts[0]] : ebene === "kap" ? [parts[0], r.id] : [parts[0], `${parts[0]}-${parts[1]}`, r.id];
     void app.setJahr(bisEffective);
-    app.setTopf("bund");
-    app.setFocus(path);
-    app.setSelected(r.id);
-    app.setView("fluss");
+    app.zeigeImFluss(path, r.id);
   }
   function pctLabel(r: GrowthRow): string {
     if (r.neu) return "neu";

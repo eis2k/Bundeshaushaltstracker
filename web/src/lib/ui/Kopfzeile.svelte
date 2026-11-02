@@ -19,6 +19,7 @@
   const b = $derived(app.balance);
   const gesamt = $derived(app.view === "fluss" && app.topf !== "bund" ? app.toepfe : null);
   const kopf = $derived(titelFuer(app.view, app.gestalten));
+  const haushalt = $derived(["fluss", "karte", "saeulen", "gewachsen", "ministerien"].includes(app.view));
   const modell = $derived(Object.keys(app.scenario.factors).length > 0 || app.scenario.presets.length > 0 || Object.keys(app.scenario.steuern ?? {}).length > 0);
   let showToepfe = $state(false);
 </script>
@@ -28,7 +29,9 @@
     <h1>{kopf.titel}{#if app.real}<small class="real">in Preisen von {app.bezugsjahr}</small>{/if}</h1>
     <p>{kopf.untertitel}</p>
   </div>
-  {#if b && gesamt}
+  {#if !haushalt}
+    <!-- Empfänger, Personen, Netz: keine Haushaltskennzahlen eines nicht sichtbaren Jahres -->
+  {:else if b && gesamt}
     <div class="karte"><small>Steuern + Beiträge{#if b.modellEinnahmen > 0} · inkl. Modell{/if}</small><b class="tabular">{fmtEuro(b.einnahmen + gesamt.beitraege)}</b></div>
     <div class="karte"><small>Ausgaben gesamt</small><b class="tabular">{fmtEuro(gesamt.gesamtAusgaben)}</b></div>
     <div class="karte" class:bad={b.neueSchulden > 0} class:good={b.neueSchulden <= 0}>

@@ -4,11 +4,7 @@
 
   let { app }: { app: AppState } = $props();
   const reiter = $derived(unteransichten(aktiverEintrag(app.view, app.gestalten)));
-  function oeffne(view: string) {
-    if (view === "personen") app.openPersonenListe();
-    else if (view === "netz") app.setView("netz");
-    else app.setView(view as typeof app.view);
-  }
+  function oeffne(view: string) { app.waehleUnteransicht(view as typeof app.view); }
 </script>
 
 {#if reiter.length > 1}
