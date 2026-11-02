@@ -47,3 +47,23 @@ def test_alle_bio_urls_stoppt_ohne_neue_links():
     urls = alle_bio_urls(http, pause=0)
     assert len(urls) == 12  # zweite Seite liefert nur Bekanntes → Ende
     assert len(calls) == 2 and "offset=0" in calls[0] and "offset=12" in calls[1]
+
+
+def test_parse_bio_liest_rollen_und_eintritt():
+    html = fixture_text("mdb_bio_ausschnitt.html")
+    html = html.replace('<h3 class="m-biography__subHeading">Ordentliches Mitglied</h3>',
+                        '<h3 class="m-biography__subHeading">Vorsitzende</h3><ul class="e-linkList"><li class="e-linkList__item"><a title="Verkehrsausschuss" href="/ausschuesse/verkehr" class="a-link --inList"><span class="a-link__label">Verkehrsausschuss</span></a></li></ul>'
+                        '<h3 class="m-biography__subHeading">Ordentliches Mitglied</h3>', 1)
+    html = html.replace("</h1>", "</h1><p>Mitglied des Bundestages seit März 2026; vorher Landtag.</p>", 1)
+    a = parse_bio(html, "https://www.bundestag.de/abgeordnete/biografien/A/abdi_sanae-1043330", "2026-11-01")
+    assert "Vorsitzende: Verkehrsausschuss" in a.aemter
+    assert any(x.startswith("Ordentliches Mitglied: ") for x in a.aemter)
+    assert a.mitglied_seit == "2026-03-01"
+    assert "Verkehrsausschuss" in a.ausschuesse
+
+
+def test_parse_bio_eintritt_nur_jahr_und_ohne_satz():
+    html = fixture_text("mdb_bio_ausschnitt.html")
+    assert parse_bio(html, "https://x/-1", "2026-11-01").mitglied_seit is None
+    html2 = html.replace("</h1>", "</h1><p>Mitglied des Deutschen Bundestages seit 2005; von 2013 bis 2017 Vorsitzender des X.</p>", 1)
+    assert parse_bio(html2, "https://x/-1", "2026-11-01").mitglied_seit == "2005-01-01"

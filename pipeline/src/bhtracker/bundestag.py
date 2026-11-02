@@ -27,6 +27,8 @@ _BIO_HREF = re.compile(r'href="((?:https://www\.bundestag\.de)?/abgeordnete/biog
 _TAG = re.compile(r"<[^>]+>")
 _WS = re.compile(r"\s+")
 _MONATE = {m: i + 1 for i, m in enumerate(("Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"))}
+_MITGLIED_SEIT = re.compile(r"Mitglied des (?:Deutschen )?Bundestages seit (?:(Januar|Februar|März|April|Mai|Juni|Juli|August|September|Oktober|November|Dezember) )?(\d{4})")
+_ROLLE_BLOCK = re.compile(r'<h3 class="m-biography__subHeading">(.*?)</h3>\s*<ul[^>]*>(.*?)</ul>', re.S)
 _AUSGESCHIEDEN = re.compile(r"mit Ablauf des (\d{1,2})\. (Januar|Februar|März|April|Mai|Juni|Juli|August|September|Oktober|November|Dezember) (\d{4}) aus dem Deutschen Bundestag ausgeschieden")
 
 
@@ -61,6 +63,8 @@ class Abgeordneter:
     stand: str = ""
     hinweis: str | None = None
     ausgeschieden: str | None = None   # ISO-Datum des Ausscheidens aus dem Bundestag (Biografie-Text), sonst None
+    aemter: list[str] = field(default_factory=list)   # „Rolle: Gremium“ aus dem Block „Mitgliedschaften und Ämter im Bundestag“
+    mitglied_seit: str | None = None   # Eintritt laut Biografie („Mitglied des Bundestages seit <Monat> <Jahr>“), ISO, Monat oder Jahresanfang
 
 
 # ---------------------------------------------------------------- Liste
@@ -144,21 +148,32 @@ def parse_bio(page_html: str, url: str, stand: str) -> Abgeordneter:
     idm = re.search(r"-(\d+)/?$", url)
     mdb_id = int(idm.group(1)) if idm else 0
     ausschuesse: list[str] = []
+    aemter: list[str] = []
     ab = _block(page_html, "Mitgliedschaften und Ämter im Bundestag")
     if ab:
+        for rm in _ROLLE_BLOCK.finditer(ab):
+            rolle = _text(rm.group(1))
+            for a in re.findall(r'<a [^>]*class="a-link --inList[^"]*"[^>]*>(.*?)</a>', rm.group(2), re.S):
+                label = re.search(r'<span class="a-link__label">(.*?)</span>', a, re.S)
+                t = _text(label.group(1) if label else a)
+                if rolle and t and f"{rolle}: {t}" not in aemter:
+                    aemter.append(f"{rolle}: {t}")
         for a in re.findall(r'<a [^>]*class="a-link --inList[^"]*"[^>]*>(.*?)</a>', ab, re.S):
             label = re.search(r'<span class="a-link__label">(.*?)</span>', a, re.S)
             t = _text(label.group(1) if label else a)
             if t and t not in ausschuesse:
                 ausschuesse.append(t)
-    aus = _AUSGESCHIEDEN.search(_text(page_html))
+    volltext = _text(page_html)
+    aus = _AUSGESCHIEDEN.search(volltext)
+    ms = _MITGLIED_SEIT.search(volltext)
+    mitglied_seit = f"{ms.group(2)}-{_MONATE[ms.group(1)]:02d}-01" if ms and ms.group(1) else (f"{ms.group(2)}-01-01" if ms else None)
     ausgeschieden = f"{aus.group(3)}-{_MONATE[aus.group(2)]:02d}-{int(aus.group(1)):02d}" if aus else None
     hinweise = [f"aus dem Bundestag ausgeschieden mit Ablauf des {ausgeschieden}"] if ausgeschieden else []
     block = _block(page_html, "Veröffentlichungspflichtige Angaben")
     if block is None:
         hinweise.append("keine veröffentlichungspflichtigen Angaben")
     return Abgeordneter(name, fraktion, url, mdb_id, ausschuesse, _angaben(block) if block is not None else [], stand,
-                        "; ".join(hinweise) or None, ausgeschieden)
+                        "; ".join(hinweise) or None, ausgeschieden, aemter, mitglied_seit)
 
 
 # ---------------------------------------------------------------- Abruf und Ablage
