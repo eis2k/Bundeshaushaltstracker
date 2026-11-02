@@ -114,3 +114,52 @@ def test_empfaenger_aus_titeln_zufuehrung_und_baumassnahme():
     assert e[norm_name("Stiftung Forum Recht")][1] == ["07-0705-68601"]
     assert e[norm_name("Stiftung Denkmal für die ermordeten Juden Europas")][1] == ["04-0452-89401"]
     assert e[norm_name("Stiftung Preußischer Kulturbesitz")][1] == ["04-0452-68531"]
+
+
+def test_empfaenger_aus_titeln_verwirft_zwecke_und_satzreste():
+    rows = [row("11-1102-63681", "Zuschuss des Bundes an die allgemeine Rentenversicherung"),
+            row("60-6002-68301", "Zuschüsse zur Entlastung beim Strompreis"),
+            row("60-6002-68302", "Zuschüsse an stromintensive Unternehmen"),
+            row("12-1210-89101", "Zuweisungen gemäß LuKIFG"),
+            row("60-6002-63401", "Zuweisungen an den Klima- und Transformationsfonds"),
+            row("09-0910-68301", "Zuschüsse zu den Übertragungsnetzkosten"),
+            row("04-0452-68591", 'Zuschuss an die Rundfunkanstalt Deutsche Welle""'),
+            row("06-0601-68501", "Zuschuss an den Bundesnachrichtendienst"),
+            row("60-6002-68501", "Zuschuss an die Postbeamtenversorgungskasse")]
+    e = empfaenger_aus_titeln(rows)
+    namen = {v[0] for v in e.values()}
+    assert "Rundfunkanstalt Deutsche Welle" in namen
+    assert "Bundesnachrichtendienst" in namen and "Postbeamtenversorgungskasse" in namen
+    for falsch in ("Bundes an die allgemeine Rentenversicherung", "zur Entlastung beim Strompreis", "stromintensive Unternehmen",
+                   "gemäß LuKIFG", "zu den Übertragungsnetzkosten", "Klima- und Transformationsfonds"):
+        assert falsch not in namen, falsch
+    assert len(e) == 3
+
+
+def test_verbindungssatz_je_kategorie_keine_falschen_funktionen():
+    # Review Stufe 2, Befund 2: Spenden, entgeltliche Tätigkeiten und beendete Tätigkeiten dürfen nicht als Funktion formuliert werden
+    def v(kategorie, funktion):
+        return Verbindung("abgeordneter_funktion", "Max Muster", "MdB, SPD", funktion, kategorie, "exakt", [], [{"kurz": "bundestag.de", "url": "https://x", "stand": "2026-11-01"}], "2026-11-01")
+    spende = verbindungssatz(v("Spenden und sonstige Zuwendungen", "Übernahme Reisekosten, 2025, 3.507,38 EUR"), "ELNET Deutschland e.V.", [])
+    assert spende.startswith("Max Muster (MdB, SPD) hat laut bundestag.de eine Zuwendung von ELNET Deutschland e.V. angezeigt: „Übernahme Reisekosten, 2025, 3.507,38 EUR“.")
+    taetig = verbindungssatz(v("Entgeltliche Tätigkeiten neben dem Mandat", "Arbeiter (bis 08.05.2025)"), "Volkswagen AG", [])
+    assert taetig.startswith("Max Muster (MdB, SPD) übte laut bundestag.de eine entgeltliche Tätigkeit bei Volkswagen AG aus: „Arbeiter (bis 08.05.2025)“.")
+    vereinb = verbindungssatz(v("Vereinbarungen über künftige Tätigkeiten oder Vermögensvorteile", "Vergünstigter Telekomvertrag"), "Deutsche Telekom AG", [])
+    assert "hat laut bundestag.de eine Vereinbarung mit Deutsche Telekom AG angezeigt" in vereinb
+    beendet = verbindungssatz(v("Funktionen in Unternehmen", "Mitglied des Aufsichtsrates (bis 11.07.2025)"), "DB InfraGO AG", [])
+    assert beendet.startswith("Max Muster (MdB, SPD) war laut bundestag.de Mitglied des Aufsichtsrates (bis 11.07.2025) bei DB InfraGO AG.")
+    laufend = verbindungssatz(v("Funktionen in Vereinen, Verbänden und Stiftungen", "Mitglied des Beirates (ab 07.04.2025)"), "DEval gGmbH", [])
+    assert laufend.startswith("Max Muster (MdB, SPD) ist laut bundestag.de Mitglied des Beirates (ab 07.04.2025) bei DEval gGmbH.")
+    sonst = verbindungssatz(v("Beteiligungen an Kapital- oder Personengesellschaften", "Kommanditist"), "X KG", [])
+    assert "hält laut bundestag.de eine Beteiligung an X KG: „Kommanditist“" in sonst
+
+
+def test_ressort_zu_epl_ohne_rueckwaerts_praefix_und_exakte_aliasse():
+    # Review Stufe 2, Befund 3: „Bund“ und „Bundesrepublik Deutschland“ dürfen nur exakt greifen
+    r = {"ressorts": [{"epl": "60", "kurz": "AFV", "exakt": True, "namen": ["Allgemeine Finanzverwaltung", "Bundesrepublik Deutschland", "Bund"]},
+                      {"epl": "12", "kurz": "BMV", "namen": ["Bundesministerium für Verkehr", "BMV"]}]}
+    assert ressort_zu_epl("Bund", r) == "60"
+    assert ressort_zu_epl("Bundesrepublik Deutschland - BMV", r) is None
+    assert ressort_zu_epl("Bund/BMBF", r) is None
+    assert ressort_zu_epl("Bundesministerium für Verkehr (BMV)", r) == "12"
+    assert ressort_zu_epl("Bundesministerium", r) is None   # Name kürzer als Alias: kein Rückwärts-Präfix

@@ -60,7 +60,7 @@
         <div class="v">
           <p class="satz">{v.satz}</p>
           <p class="src"><span class="tag">{etikett(v)}</span>
-            {#each v.quellen as q}<a href={q.url} target="_blank" rel="noopener">{q.kurz}{#if q.stand} (Stand {q.stand}){/if}</a> {/each}
+            {#each v.quellen as q}<a href={q.url} target="_blank" rel="noopener">{q.kurz}{#if q.etikett} · {q.etikett}{/if}{#if q.stand} (Stand {q.stand}){/if}</a> {/each}
           </p>
         </div>
       {/each}
@@ -143,6 +143,7 @@
         </table>
       </div>
       {#if seite.foerderkatalog.length > 50}<p class="muted small">{seite.foerderkatalog.length - 50} weitere Projekte im Förderkatalog.</p>{/if}
+      {#if seite.foerderkatalog_auszug}<p class="muted small">Auszug: Der Export des Förderkatalogs liefert höchstens 100 Projekte je Suche; die Summe ist eine Untergrenze.</p>{/if}
     {/if}
   </section>
 

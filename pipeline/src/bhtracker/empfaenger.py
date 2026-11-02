@@ -22,6 +22,7 @@ RECHTSFORM_TOKENS = (
 _UMLAUTE = str.maketrans({"ä": "ae", "ö": "oe", "ü": "ue", "ß": "ss"})
 _KLAMMER = re.compile(r"\s*\([^)]*\)")
 _NICHT_WORT = re.compile(r"[^a-z0-9]+")
+AEHNLICH_SCHWELLE = 0.85
 
 
 def norm_name(s: str) -> str:
@@ -61,19 +62,70 @@ class Stamm:
     quelle: str | None = None
 
     def normen(self) -> set[str]:
-        return {norm_name(self.name), *(norm_name(a) for a in self.aliasse)} - {""}
+        key = (self.name, tuple(self.aliasse))
+        cache = self.__dict__.get("_normen_cache")
+        if cache is None or cache[0] != key:
+            cache = (key, {norm_name(self.name), *(norm_name(a) for a in self.aliasse)} - {""})
+            self.__dict__["_normen_cache"] = cache
+        return cache[1]
+
+
+STOPP_TOKENS = {"fuer", "und", "der", "die", "das", "des", "den", "dem", "von", "vom", "zur", "zum", "mit", "bei", "deutsche", "deutscher",
+                "deutsches", "deutschland", "deutschen", "bundes", "bund", "gesellschaft", "verband", "verein", "stiftung", "institut", "zentrum",
+                "foerderung", "forschung", "international", "internationale", "berlin", "ev", "gmbh", "ggmbh", "landesverband", "bundesverband", "hilfe"}
+
+
+class StammIndex:
+    """Exakte Normen und Token-Index über den Stamm, damit Ähnlichkeitsvergleiche nur plausible Paare prüfen."""
+
+    def __init__(self, stamm: dict[str, Stamm]):
+        self.stamm = stamm
+        self.exakt: dict[str, str] = {}
+        self.tokens: dict[str, set[str]] = {}
+        for sid, s in stamm.items():
+            self.add(sid, s)
+
+    @staticmethod
+    def token(n: str) -> set[str]:
+        return {t for t in n.split() if len(t) >= 4 and t not in STOPP_TOKENS}
+
+    def add(self, sid: str, s: Stamm) -> None:
+        for n in s.normen():
+            self.exakt.setdefault(n, sid)
+            for t in self.token(n):
+                self.tokens.setdefault(t, set()).add(sid)
+
+    def aehnliche(self, n: str) -> list[tuple[float, str]]:
+        ids: set[str] = set()
+        for t in self.token(n):
+            ids |= self.tokens.get(t, set())
+        hits = []
+        for sid in ids:
+            normen = self.stamm[sid].normen()
+            sc = max(_aehnlich(n, sn) for sn in normen) if normen else 0.0
+            if sc >= AEHNLICH_SCHWELLE:
+                hits.append((sc, sid))
+        return sorted(hits, reverse=True)
 
 
 # ---------------------------------------------------------------- Empfänger aus Titeltexten
 
 _ZUSCHUSS = re.compile(
-    r"^(?:Zuschuss|Zuschüsse|Zuwendung|Zuwendungen|Beitrag|Beiträge|Einlage|Einlagen|Zuführung|Zuführungen|Zuweisung|Zuweisungen|Darlehen|Institutionelle Förderung|Förderung|Baumaßnahme|Baumaßnahmen|Baumaßnahmen|Zuschüsse für Baumaßnahmen)"
-    r"\s+(?:(?:an|in|der|des|für)\s+)?(?:die\s+|den\s+|das\s+|der\s+)?(?P<name>.+?)(?:\s+-\s+.*|,\s+[A-ZÄÖÜ][\wäöüß.\- ]+(?:\s+\(Main\))?|\s+zur\s+.*|\s+zum\s+.*)?$"
+    r"^(?:Zuschuss|Zuschüsse|Zuwendung|Zuwendungen|Beitrag|Beiträge|Einlage|Einlagen|Zuführung|Zuführungen|Zuweisung|Zuweisungen|Darlehen|Institutionelle Förderung|Förderung|Baumaßnahme|Baumaßnahmen|Zuschüsse für Baumaßnahmen)"
+    r"(?:\s+des\s+Bundes)?"
+    r"(?:\s+(?:an|in|für|der|des))?"
+    r"\s+(?:die\s+|den\s+|das\s+|der\s+)?(?P<name>[A-ZÄÖÜ].+?)"
+    r"(?:\s+-\s+.*|,\s+[A-ZÄÖÜ][\wäöüß.\- ]+(?:\s+\(Main\))?|\s+zur\s+.*|\s+zum\s+.*)?$"
 )
 _NAME_ORT_ZWECK = re.compile(
-    r"^(?P<name>.+?(?:e\. ?V\.|gGmbH|GmbH|Stiftung[^,]*|Institut[^,]*|Gesellschaft[^,]*|Akademie[^,]*|Verband[^,]*|Zentrum[^,]*)),?\s+[A-ZÄÖÜ][\wäöüß\-]+(?:\s+\(Main\))?\s+-\s+.*$"
+    r"^(?P<name>[A-ZÄÖÜ].+?(?:e\. ?V\.|gGmbH|GmbH|Stiftung[^,]*|Institut[^,]*|Gesellschaft[^,]*|Akademie[^,]*|Verband[^,]*|Zentrum[^,]*)),?\s+[A-ZÄÖÜ][\wäöüß\-]+(?:\s+\(Main\))?\s+-\s+.*$"
 )
-_EIGENNAME = re.compile(r"\b(e\. ?V\.|gGmbH|GmbH|Stiftung|Anstalt|Institut|Kasse|Verband)\b")
+# Ein Empfängername braucht ein Organisationsmerkmal; Zweckbestimmungen („zur Entlastung beim Strompreis“) sind keine Empfänger.
+_EIGENNAME = re.compile(
+    r"(e\. ?V\.|gGmbH|GmbH|\bAG\b|\bSE\b|mbH|gUG|\bStiftung|\bInstitut|\bGesellschaft|\bAkademie|\bVerband|\bVerein\b|\bWerk\b|\bZentrum|\bUniversität|\bHochschule"
+    r"|\b(?!(?:ins)?gesamt\b)[\wäöüß]*(?:anstalt|amt|dienst|kasse|werk)\b|\bAgentur|\bOrganisation|\bMuseum|\bTheater|\bOrchester|\bBibliothek|\bArchiv|\bKolleg|\bRat\b|\bKommission|\bUnion\b|\bBank\b|\bBüro\b|\bKammer\b)"
+)
+_SATZREST = re.compile(r"^(Bundes|Landes|Länder|zur|zum|zu|zum|gemäß|nach|bzw\.|von|für|aufgrund|im|in|auf|aus|bei|mit|über|wegen|sonstige|andere|weitere)\b", re.I)
 _GRUPPEN_ZUWENDUNG = ("684", "685", "686", "687", "893", "894")
 
 
@@ -99,9 +151,12 @@ def empfaenger_aus_titeln(rows: list[BudgetRow]) -> dict[str, tuple[str, list[st
                 name = text
         if not name or len(name) < 4:
             continue
-        # Generische Formulierungen ohne Eigennamen aussortieren
+        if _SATZREST.match(name) or not name[0].isupper():
+            continue
+        if not _EIGENNAME.search(name):
+            continue
         low = name.lower()
-        if any(w in low for w in ("einrichtungen", "maßnahmen", "vorhaben", "projekte", "träger", "verbände ", "länder", "gemeinden", "sonstige")) and not _EIGENNAME.search(name):
+        if any(w in low for w in ("einrichtungen", "maßnahmen", "vorhaben", "projekte", "träger ", "verbände ", "länder", "gemeinden", "sonstige")) and not re.search(r"(e\. ?V\.|gGmbH|GmbH|Stiftung)", name):
             continue
         key = norm_name(name)
         if not key:
@@ -116,16 +171,19 @@ def empfaenger_aus_titeln(rows: list[BudgetRow]) -> dict[str, tuple[str, list[st
 # ---------------------------------------------------------------- Ressorts
 
 def ressort_zu_epl(name: str, ressorts: dict) -> str | None:
+    """Geldgeber-Name → Einzelplan. Exakter Treffer oder Alias als Wortpräfix des Namens; Einträge mit `exakt: true` nur exakt.
+    Mehrdeutiges („Bundesrepublik Deutschland - BMV“, „Bund/BMBF“) bleibt None, nie geraten."""
     n = norm_name(name)
     if not n:
         return None
     best: tuple[int, str] | None = None
     for r in ressorts.get("ressorts") or []:
+        nur_exakt = bool(r.get("exakt"))
         for alias in r.get("namen") or []:
             a = norm_name(alias)
             if not a:
                 continue
-            if n == a or n.startswith(a + " ") or (len(a) >= 8 and a.startswith(n + " ")):
+            if n == a or (not nur_exakt and n.startswith(a + " ")):
                 if best is None or len(a) > best[0]:
                     best = (len(a), str(r["epl"]))
     return best[1] if best else None
@@ -167,10 +225,8 @@ def _aehnlich(a: str, b: str) -> float:
 
 
 def verbindungen_aus_angaben(abgeordnete: list[Abgeordneter], stamm: dict[str, Stamm]) -> tuple[dict[str, list[Verbindung]], list[Kandidat]]:
-    index: dict[str, str] = {}
-    for sid, s in stamm.items():
-        for n in s.normen():
-            index.setdefault(n, sid)
+    sidx = StammIndex(stamm)
+    index = sidx.exakt
     verb: dict[str, list[Verbindung]] = {}
     kandidaten: list[Kandidat] = []
     for mdb in abgeordnete:
@@ -193,11 +249,9 @@ def verbindungen_aus_angaben(abgeordnete: list[Abgeordneter], stamm: dict[str, S
                 kandidaten.append(Kandidat(mdb.name, funktion_person, a.organisation, exakt, stamm[exakt].name, 1.0, mdb.url,
                                            "Berufliche Tätigkeit vor der Mitgliedschaft im Bundestag; keine laufende Funktion"))
                 continue
-            for sid, s in stamm.items():
-                score = max(_aehnlich(n, sn) for sn in s.normen()) if s.normen() else 0.0
-                if score >= 0.85:
-                    kandidaten.append(Kandidat(mdb.name, funktion_person, a.organisation, sid, s.name, round(score, 3), mdb.url,
-                                               "vor der Mitgliedschaft" if vorher else ""))
+            for score, sid in sidx.aehnliche(n):
+                kandidaten.append(Kandidat(mdb.name, funktion_person, a.organisation, sid, stamm[sid].name, round(score, 3), mdb.url,
+                                           "vor der Mitgliedschaft" if vorher else ""))
     return verb, kandidaten
 
 
@@ -233,10 +287,31 @@ def manuelle_verbindungen(yaml_data: dict, empfaenger_id: str) -> list[Verbindun
     return out
 
 
+def _satz_angabe(v: Verbindung, q: str, name: str) -> str:
+    """Tatsachensatz je Kategorie der veröffentlichungspflichtigen Angaben; nichts wird zur Funktion umgedeutet."""
+    k = v.kategorie.lower()
+    f = v.funktion_beim_empfaenger.strip()
+    vorbei = "(bis " in f or f.lower().startswith("bis ")
+    wer = f"{v.person} ({v.funktion_person})"
+    if k.startswith("funktionen"):
+        return f"{wer} {'war' if vorbei else 'ist'} laut {q} {f or 'in einer Funktion'} bei {name}."
+    if k.startswith("entgeltliche"):
+        return f"{wer} {'übte' if vorbei else 'übt'} laut {q} eine entgeltliche Tätigkeit bei {name} aus: „{f}“."
+    if k.startswith("spenden") or "zuwendungen" in k:
+        return f"{wer} hat laut {q} eine Zuwendung von {name} angezeigt: „{f}“."
+    if k.startswith("vereinbarungen"):
+        return f"{wer} hat laut {q} eine Vereinbarung mit {name} angezeigt: „{f}“."
+    if k.startswith("beteiligungen"):
+        return f"{wer} hält laut {q} eine Beteiligung an {name}: „{f}“."
+    return f"{wer} nennt {name} laut {q} in den veröffentlichungspflichtigen Angaben ({v.kategorie}): „{f}“."
+
+
 def verbindungssatz(v: Verbindung, empfaenger_name: str, geld_aus: list[str]) -> str:
     q = v.quellen[0]["kurz"] if v.quellen else "Quelle"
     if v.typ == "regierungsfunktion":
         satz = f"{v.person} ist laut {q} {v.funktion_beim_empfaenger or 'in leitender Funktion'} bei {empfaenger_name} und hatte zuvor eine öffentliche Funktion: {v.funktion_person}."
+    elif v.typ == "abgeordneter_funktion":
+        satz = _satz_angabe(v, q, empfaenger_name)
     else:
         satz = f"{v.person} ({v.funktion_person}) ist laut {q} {v.funktion_beim_empfaenger} bei {empfaenger_name}."
     if v.ausschuesse:
@@ -257,7 +332,6 @@ from .bundestag import lade_abgeordnete  # noqa: E402
 from .foerderkatalog import Projekt, lade_projekte  # noqa: E402
 from .lobbyregister import bundeszuwendungen, lade_profile, untergrenze_bund  # noqa: E402
 
-AEHNLICH_SCHWELLE = 0.85
 
 
 def _lade_yaml(path: Path) -> dict:
@@ -321,77 +395,65 @@ def _kandidat(name_a: str, quelle_a: str, name_b: str, quelle_b: str, score: flo
 
 
 def baue_stamm(manual: dict, profile: list[Profil], years: dict[int, list[BudgetRow]]) -> tuple[dict[str, Stamm], list[dict]]:
-    """Stamm = manuelle Einträge + Lobbyregister-Organisationen mit Bundesmitteln + namentlich genannte Titel-Empfänger."""
+    """Stamm = manuelle Einträge + Lobbyregister-Organisationen mit Bundesmitteln. Namentlich genannte Titel-Empfänger
+    werden nur zugeordnet, wenn sie exakt zu einem Stamm-Eintrag passen; sonst landen sie als Kandidaten in der Prüfliste
+    (Spec §4.6a: nur Empfänger, die aus amtlichen Listen eindeutig hervorgehen)."""
     stamm = _stamm_aus_manual(manual)
     vergeben = set(stamm)
-    index: dict[str, str] = {}
-    by_lobby: dict[str, str] = {}
-    for sid, s in stamm.items():
-        for n in s.normen():
-            index.setdefault(n, sid)
-        if s.lobbyregister:
-            by_lobby[s.lobbyregister] = sid
+    by_lobby: dict[str, str] = {s.lobbyregister: sid for sid, s in stamm.items() if s.lobbyregister}
+    sidx = StammIndex(stamm)
     kandidaten: list[dict] = []
 
-    def aehnliche(n: str) -> list[tuple[float, str]]:
-        hits = []
-        for sid, s in stamm.items():
-            normen = s.normen()
-            if not normen:
-                continue
-            sc = max(_aehnlich(n, sn) for sn in normen)
-            if sc >= AEHNLICH_SCHWELLE:
-                hits.append((sc, sid))
-        return sorted(hits, reverse=True)
-
-    for p in profile:
+    for p in sorted(profile, key=lambda x: x.nummer):
         if not bundeszuwendungen(p) and p.nummer not in by_lobby:
             continue
         n = norm_name(p.name)
-        sid = by_lobby.get(p.nummer) or index.get(n)
+        sid = by_lobby.get(p.nummer) or sidx.exakt.get(n)
         if sid:
-            s = stamm[sid]
-            if not s.lobbyregister:
-                s.lobbyregister = p.nummer
+            if not stamm[sid].lobbyregister:
+                stamm[sid].lobbyregister = p.nummer
+            by_lobby[p.nummer] = sid
             continue
-        for sc, other in aehnliche(n):
-            kandidaten.append(_kandidat(p.name, f"Lobbyregister {p.nummer}", stamm[other].name, "Stamm", sc))
+        for sc, other in sidx.aehnliche(n):
+            kandidaten.append({**_kandidat(p.name, f"Lobbyregister {p.nummer}", stamm[other].name, "Stamm", sc), "art": "aehnlich"})
         sid = _unique_id(slug(p.name), vergeben)
         s = Stamm(id=sid, name=p.name, lobbyregister=p.nummer, art=_art_aus_profil(p), quelle=p.url)
         stamm[sid] = s
-        for nn in s.normen():
-            index.setdefault(nn, sid)
+        sidx.add(sid, s)
         by_lobby[p.nummer] = sid
 
     rows: list[BudgetRow] = [r for rs in years.values() for r in rs]
     for n, (anzeige, ids) in empfaenger_aus_titeln(rows).items():
-        sid = index.get(n)
+        sid = sidx.exakt.get(n)
         if sid:
-            s = stamm[sid]
             for t in ids:
-                if t not in s.titel:
-                    s.titel.append(t)
+                if t not in stamm[sid].titel:
+                    stamm[sid].titel.append(t)
             continue
-        treffer = aehnliche(n)
+        treffer = sidx.aehnliche(n)
         if treffer:
             for sc, other in treffer:
-                kandidaten.append(_kandidat(anzeige, f"Haushaltstitel {', '.join(ids)}", stamm[other].name, "Stamm", sc))
-            continue
-        sid = _unique_id(slug(anzeige), vergeben)
-        s = Stamm(id=sid, name=anzeige, titel=list(ids), art=_art_aus_name(anzeige), quelle="https://www.bundeshaushalt.de/")
-        stamm[sid] = s
-        for nn in s.normen():
-            index.setdefault(nn, sid)
+                kandidaten.append({**_kandidat(anzeige, f"Haushaltstitel {', '.join(ids)}", stamm[other].name, "Stamm", sc), "art": "aehnlich"})
+        else:
+            kandidaten.append({**_kandidat(anzeige, f"Haushaltstitel {', '.join(ids)}", "", "", 0.0), "art": "titel_ohne_stamm"})
     return stamm, kandidaten
 
 
-def _werte(titel_id: str, years: dict[int, list[BudgetRow]], ist_years: dict[int, list[BudgetRow]]) -> tuple[dict, BudgetRow | None]:
+def _text_nennt(text: str, s: Stamm) -> bool:
+    """Nennt die Zweckbestimmung den Empfänger (Name oder Alias, normalisiert als Teilzeichenkette)?"""
+    t = " " + norm_name(text) + " "
+    return any((" " + n + " ") in t for n in s.normen() if len(n) >= 4)
+
+
+def _werte(titel_id: str, years: dict[int, list[BudgetRow]], ist_years: dict[int, list[BudgetRow]], s: Stamm | None = None) -> tuple[dict, BudgetRow | None]:
     werte: dict[str, dict] = {}
     beispiel: BudgetRow | None = None
     for j in sorted(years):
         row = next((r for r in years[j] if r.id == titel_id), None)
         if row is None:
             continue
+        if s is not None and not _text_nennt(row.titel_text, s):
+            continue   # dieselbe Titelnummer bezeichnet in diesem Jahr etwas anderes
         beispiel = row
         ist_row = next((r for r in (ist_years.get(j) or []) if r.id == titel_id), None)
         ist = ist_row.ist if ist_row is not None and ist_row.ist is not None else (row.ist if row.ist is not None else None)
@@ -434,7 +496,7 @@ def build_empfaenger(manual_dir: Path, raw_dir: Path, out: Path, years: dict[int
         epls: set[str] = set()
         haushalt_letztes = 0
         for tid in s.titel:
-            werte, bsp = _werte(tid, years, ist_years)
+            werte, bsp = _werte(tid, years, ist_years, s)
             if bsp is None:
                 continue
             titel_eintraege.append({"id": tid, "text": bsp.titel_text, "epl": bsp.epl, "epl_text": bsp.epl_text, "werte": werte})
@@ -469,7 +531,14 @@ def build_empfaenger(manual_dir: Path, raw_dir: Path, out: Path, years: dict[int
                                      "regierungsfunktion": {"art": rf.art, "funktion": rf.funktion, "stelle": rf.stelle, "beendet": rf.beendet, "ende": rf.ende} if rf else None,
                                      "quelle": {"kurz": "Lobbyregister", "url": p.url, "stand": p.stand}})
                 verbindungen += [_verbindung_dict(v, verbindungssatz(v, s.name, geld_aus), geld_aus) for v in verbindungen_aus_profil(p)]
-            verbindungen += [_verbindung_dict(v, verbindungssatz(v, s.name, geld_aus), geld_aus) for v in verb_auto.get(sid, [])]
+            zweiter_beleg = ({"kurz": "Lobbyregister", "url": p.url, "stand": p.stand, "etikett": "Eigenangabe"} if p
+                             else {"kurz": "bundeshaushalt.de", "url": "https://www.bundeshaushalt.de/", "stand": stand, "etikett": "amtlich"} if titel_eintraege else None)
+            for v in verb_auto.get(sid, []):
+                quellen = [{**q, "etikett": "Eigenangabe"} for q in v.quellen]
+                if zweiter_beleg:
+                    quellen.append(zweiter_beleg)
+                v2 = Verbindung(v.typ, v.person, v.funktion_person, v.funktion_beim_empfaenger, v.kategorie, v.abgleich, v.ausschuesse, quellen, v.stand)
+                verbindungen.append(_verbindung_dict(v2, verbindungssatz(v2, s.name, geld_aus), geld_aus))
             verbindungen += [_verbindung_dict(v, verbindungssatz(v, s.name, geld_aus), geld_aus) for v in manuelle_verbindungen(verb_manual, sid)]
         ja = ja_by_id.get(sid)
         jahresabschluss = None
@@ -505,7 +574,7 @@ def build_empfaenger(manual_dir: Path, raw_dir: Path, out: Path, years: dict[int
             "lobbyregister": {"nummer": p.nummer, "eintrag_id": p.eintrag_id, "version": p.version, "stand": p.stand, "url": p.url, "pdf_url": p.pdf_url} if p else None,
             "haushalt": {"titel": titel_eintraege},
             "lobby_zuwendungen": lobby_z, "lobby_untergrenze_bund": untergrenze_bund(p) if p else 0,
-            "foerderkatalog": fk, "personen": personen, "verbindungen": verbindungen, "pflichtangaben": pflicht, "quellen": quellen,
+            "foerderkatalog": fk, "foerderkatalog_auszug": len(fk) >= 100, "personen": personen, "verbindungen": verbindungen, "pflichtangaben": pflicht, "quellen": quellen,
         }
         (out_dir / f"{sid}.json").write_text(json.dumps(seite, ensure_ascii=False, indent=0), encoding="utf-8", newline="\n")
         eintraege.append({"id": sid, "name": s.name, "art": s.art, "rechtsform": seite["rechtsform"], "sitz": seite["sitz"],
@@ -523,5 +592,5 @@ def build_empfaenger(manual_dir: Path, raw_dir: Path, out: Path, years: dict[int
         yaml.safe_dump({"stand": stand, "kandidaten": stamm_kandidaten}, f, allow_unicode=True, sort_keys=False)
     with open(review / "verbindungen_kandidaten.yaml", "w", encoding="utf-8", newline="\n") as f:
         f.write("# Automatisch erzeugt von `bht build`. Angaben von Abgeordneten, die einem Empfänger ähneln. Bestätigen: data/manual/verbindungen.yaml.\n")
-        yaml.safe_dump({"stand": stand, "kandidaten": [k.__dict__ for k in verb_kandidaten]}, f, allow_unicode=True, sort_keys=False)
+        yaml.safe_dump({"stand": stand, "kandidaten": [k.__dict__ for k in verb_kandidaten] if mit_personen else []}, f, allow_unicode=True, sort_keys=False)
     return index_path

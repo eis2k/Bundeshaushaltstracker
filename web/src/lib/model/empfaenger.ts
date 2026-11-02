@@ -88,6 +88,8 @@ export interface EmpfaengerSeite {
   lobby_zuwendungen: LobbyZuwendung[];
   lobby_untergrenze_bund: number;
   foerderkatalog: FoerderProjekt[];
+  /** Der CSV-Export des Förderkatalogs liefert höchstens 100 Projekte. */
+  foerderkatalog_auszug?: boolean;
   personen: PersonEintrag[];
   verbindungen: Verbindung[];
   pflichtangaben: Pflichtangaben | null;

@@ -161,3 +161,61 @@ def test_cli_build_ohne_rohdaten_ueberspringt(tmp_path, capsys):
                               von=2025, bis=2025, ohne_personen=False)
     cmd_build(args)
     assert "empfaenger: keine Rohdaten" in capsys.readouterr().out or not (out / "empfaenger").exists()
+
+
+def test_titel_empfaenger_ohne_stamm_wird_nur_kandidat(tmp_path):
+    # Review Stufe 2, Befund 1: Namen aus Titeltexten ohne Stamm- oder Lobbyregister-Treffer bekommen keine Seite
+    raw, manual, out = make_raw(tmp_path), make_manual(tmp_path), tmp_path / "build"
+    years = {2025: YEARS[2025] + [row("04-0452-68530", "Zuschuss an das Deutsche Historische Museum", 50_000_000, 2025)]}
+    build_empfaenger(manual, raw, out, years, {}, stand="2026-11-01")
+    idx = lade(out, "index.json")
+    assert not any("Historische" in e["name"] for e in idx["eintraege"])
+    assert "04-0452-68530" not in idx["titel"]
+    import yaml
+    kand = yaml.safe_load((tmp_path / "review" / "empfaenger_kandidaten.yaml").read_text(encoding="utf-8"))
+    assert any(k["name_a"] == "Deutsche Historische Museum" and k["quelle_a"].startswith("Haushaltstitel") and k.get("art") == "titel_ohne_stamm" for k in kand["kandidaten"])
+
+
+def test_ohne_personen_leert_verbindungs_prueflisten(tmp_path):
+    # Review Stufe 2, Befund 4
+    raw, manual, out = make_raw(tmp_path), make_manual(tmp_path), tmp_path / "build"
+    build_empfaenger(manual, raw, out, YEARS, IST_YEARS, mit_personen=False, stand="2026-11-01")
+    import yaml
+    vk = yaml.safe_load((tmp_path / "review" / "verbindungen_kandidaten.yaml").read_text(encoding="utf-8"))
+    assert vk["kandidaten"] == []
+
+
+def test_foerderkatalog_auszug_wird_markiert(tmp_path):
+    # Review Stufe 2, Befund 5: Der CSV-Export des Förderkatalogs liefert höchstens 100 Zeilen
+    raw, manual, out = make_raw(tmp_path), make_manual(tmp_path), tmp_path / "build"
+    text = (FIXTURES / "foekat_humboldt.csv").read_text(encoding="latin-1")
+    kopf, *zeilen = text.splitlines()
+    datenzeile = next(z for z in zeilen if z.strip())
+    viele = "\n".join([kopf] + [datenzeile.replace("M538100", f"M{i:06d}") for i in range(100)])
+    (raw / "foerderkatalog" / "alexander-von-humboldt-stiftung.csv").write_text(viele, encoding="latin-1", newline="")
+    build_empfaenger(manual, raw, out, YEARS, IST_YEARS, stand="2026-11-01")
+    seite = lade(out, "alexander-von-humboldt-stiftung.json")
+    assert len(seite["foerderkatalog"]) == 100 and seite["foerderkatalog_auszug"] is True
+    assert lade(out, "goethe-institut.json")["foerderkatalog_auszug"] is False
+
+
+def test_werte_nur_aus_jahren_mit_passendem_titeltext(tmp_path):
+    # Review Stufe 2, Befund 7: Eine Titelnummer kann in anderen Jahren einen anderen Empfänger bezeichnen
+    raw, manual, out = make_raw(tmp_path), make_manual(tmp_path), tmp_path / "build"
+    years = {2015: [row("05-0504-68740", "Zuschuss an das Institut für Auslandsbeziehungen", 100, 2015)],
+             2025: YEARS[2025]}
+    build_empfaenger(manual, raw, out, years, {}, stand="2026-11-01")
+    t = lade(out, "goethe-institut.json")["haushalt"]["titel"][0]
+    assert "2025" in t["werte"] and "2015" not in t["werte"]
+
+
+def test_automatische_verbindung_traegt_beide_belege(tmp_path):
+    # §4.6a: automatische Verbindung mit beiden Belegen verlinkt (bundestag.de und die Quelle des Empfängers)
+    raw, manual, out = make_raw(tmp_path), make_manual(tmp_path), tmp_path / "build"
+    (manual / "empfaenger.yaml").write_text(
+        "empfaenger:\n  - {id: amadeu-antonio-stiftung, name: 'Amadeu Antonio Stiftung', aliasse: ['Deutsche Stiftung Weltbevölkerung (DSW)'], lobbyregister: R004511, titel: [], foerderkatalog: null, art: verein_stiftung, geprueft: true, quelle: 'https://x'}\n",
+        encoding="utf-8")
+    build_empfaenger(manual, raw, out, YEARS, IST_YEARS, stand="2026-11-01")
+    v = [x for x in lade(out, "amadeu-antonio-stiftung.json")["verbindungen"] if x["typ"] == "abgeordneter_funktion"][0]
+    assert [q["kurz"] for q in v["quellen"]] == ["bundestag.de", "Lobbyregister"]
+    assert all(q.get("etikett") == "Eigenangabe" for q in v["quellen"])

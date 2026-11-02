@@ -13,3 +13,5 @@ data/raw/**
 data/build/_check/
 data/build/_texts_check/
 web/dist/
+# Prüflisten mit Namen aus automatischem Abgleich bleiben lokal (Spec §4.6a: erst nach Prüfung veröffentlichen)
+data/review/*_kandidaten.yaml

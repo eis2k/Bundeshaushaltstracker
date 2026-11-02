@@ -58,4 +58,5 @@ ressorts:
     hinweis: "DAAD-Mittel stammen überwiegend aus dem AA (Epl. 05) und dem BMFTR; die Zuordnung zu 30 gilt für Forschungs- und Bildungsprogramme."
   - epl: "60"
     kurz: AFV
+    exakt: true
     namen: ["Allgemeine Finanzverwaltung", "Bundesrepublik Deutschland", "Bund"]
