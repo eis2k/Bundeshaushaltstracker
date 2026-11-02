@@ -76,6 +76,7 @@ def test_kanzler_mit_mandat():
     assert z["Dienstaufwandsentschädigung"]["monatlich"] == 1022.58
     k = z["Kürzung der Abgeordnetenentschädigung (Amt und Mandat)"]
     assert k["monate"] == 19 and k["summe"] == -111811.78 and k["empfaenger"] == "person"   # 2 × −5.613,60 + 17 × −5.916,74
+    assert k["zeitraum_von"] == "2025-05-06" and k["zeitraum_bis"] == "2026-11-02"
     assert any("Ortszuschlag" in s for s in b["nicht_bezifferbar"])
 
 

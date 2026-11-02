@@ -288,6 +288,10 @@ def berechne_bezuege(funktionen: list[dict], saetze: list[Satz], stand: str, vor
     if mdb and reg:
         gemeinsam = sorted(mdb_monate & reg_monate)
         if gemeinsam:
+            # Zeitraum der Kürzung: Schnitt der belegten Zeiträume (Beginn des späteren, Ende des früheren)
+            zr = [_zeitraum(f, stand) for f in mdb + reg if _zeitraum(f, stand)[0] is not None]
+            k_von = max(z[0] for z in zr)
+            k_bis = min(z[1] for z in zr)
             summe = Decimal(0)
             letzter = None
             for m in gemeinsam:
@@ -299,7 +303,7 @@ def berechne_bezuege(funktionen: list[dict], saetze: list[Satz], stand: str, vor
             if letzter is not None:
                 zeilen.append({"posten": mdb[0].get("text") or "Mitglied des Bundestages", "komponente": "Kürzung der Abgeordnetenentschädigung (Amt und Mandat)",
                                "rechtsgrundlage": "§ 29 Abs. 1 AbgG (50 %, höchstens 30 % des Amtseinkommens)", "monatlich": float(-_cent(letzter.monatsbetrag / 2)),
-                               "zeitraum_von": gemeinsam[0] + "-01", "zeitraum_bis": gemeinsam[-1], "monate": len(gemeinsam), "summe": float(_cent(summe)),
+                               "zeitraum_von": k_von, "zeitraum_bis": k_bis, "monate": len(gemeinsam), "summe": float(_cent(summe)),
                                "empfaenger": "person", "quelle": {"kurz": "gesetze-im-internet.de", "url": "https://www.gesetze-im-internet.de/abgg/__29.html", "fundstelle": "§ 29 Abs. 1 AbgG"}})
         if reg_ohne_zeitraum or any(rolle_amt(f.get("amt") or f.get("text") or "") in KUERZUNG_AEMTER and _zeitraum(f, stand)[0] is None for f in reg):
             hinweise.append("§ 29 Abs. 1 AbgG: Kürzung der Abgeordnetenentschädigung um 50 % bei Amt und Mandat; Zeitraum nicht belegt, deshalb nicht gerechnet.")
