@@ -96,6 +96,8 @@ export class AppState {
   netzStart = $state<string | null>(null);
   netz = $state<Umfeld | null>(null);
   netzFehlt = $state<string | null>(null);
+  /** Woher das Netz geöffnet wurde (Akte oder Empfänger-Seite), für „zurück“; die App schreibt keine History-Einträge. */
+  netzHerkunft = $state<{ art: "akte"; id: string } | { art: "empfaenger"; id: string } | null>(null);
 
   bezugsjahr = $derived(this.index ? this.index.jahre[this.index.jahre.length - 1] : this.jahr);
   viewData = $derived<YearData | null>(this.data
@@ -267,6 +269,9 @@ export class AppState {
 
   /** Öffnet das Umfeld eines Knotens (p:, e:, m:, partei:). */
   async openNetz(knotenId: string | null): Promise<void> {
+    if (this.view === "personen" && this.akteId) this.netzHerkunft = { art: "akte", id: this.akteId };
+    else if (this.view === "empfaenger" && this.empfaengerId) this.netzHerkunft = { art: "empfaenger", id: this.empfaengerId };
+    else if (this.view !== "netz") this.netzHerkunft = null;
     this.view = "netz";
     this.netz = null;
     this.netzFehlt = null;
@@ -283,6 +288,18 @@ export class AppState {
     } catch {
       this.netzFehlt = knotenId;
     }
+  }
+
+  /** Verlässt das Netz zurück zur Akte oder Empfänger-Seite, von der es geöffnet wurde; sonst zur Personenliste. */
+  async closeNetz(): Promise<void> {
+    const h = this.netzHerkunft;
+    this.netz = null;
+    this.netzStart = null;
+    this.netzFehlt = null;
+    this.netzHerkunft = null;
+    if (h?.art === "akte") await this.openAkte(h.id);
+    else if (h?.art === "empfaenger") await this.openEmpfaenger(h.id);
+    else this.openPersonenListe();
   }
 
   async ensureEmpfaenger(): Promise<void> {

@@ -10,6 +10,8 @@ export interface PersonIndexEintrag {
   sichtbar: boolean;
   n_organisationen: number;
   shard: string;
+  /** Funktionsarten der Akte (mdb, regierung, gesetzlicher_vertreter, …); zusammengeführte Akten tragen mehrere. */
+  arten: string[];
 }
 
 export interface PersonIndex { stand: string; modus: "relevant" | "alle" | string; eintraege: PersonIndexEintrag[] }
@@ -34,7 +36,7 @@ export interface AkteOrganisation {
 
 export interface AkteAngabe { kategorie: string; organisation: string; ort: string; funktion: string; stand: string; quelle: Quelle }
 export interface AkteSpende { organisation_id: string; organisation: string; partei: string; betrag: number; eingang: string; veroeffentlicht?: string; drucksache: string; drucksache_url: string | null; quelle: Quelle }
-export interface ZeitlinieEintrag { jahr: number; art: "geld" | "posten" | "spende" | string; organisation_id: string | null; text: string; wert?: number }
+export interface ZeitlinieEintrag { jahr: number; art: "geld" | "posten" | "spende" | string; quelle?: "lobbyregister" | "haushalt" | string; organisation_id: string | null; text: string; wert?: number }
 
 export interface Akte {
   id: string;
@@ -66,10 +68,10 @@ export const FUNKTION_LABELS: Record<string, string> = {
 };
 
 function passtFilter(e: PersonIndexEintrag, f: PersonFilter): boolean {
-  const k = e.funktion_kurz.toLowerCase();
+  const arten = e.arten ?? [];
   if (f === "alle") return true;
-  if (f === "abgeordnete") return k.startsWith("mitglied des bundestages");
-  if (f === "regierung") return e.amt && !k.startsWith("mitglied des bundestages");
+  if (f === "abgeordnete") return arten.includes("mdb");
+  if (f === "regierung") return arten.includes("regierung");
   return !e.amt;
 }
 
@@ -79,14 +81,15 @@ export function filterePersonen(index: PersonIndex, q: string, filter: PersonFil
   return [...rows].sort((a, b) => Number(b.amt) - Number(a.amt) || a.name.localeCompare(b.name, "de"));
 }
 
-export interface ZeitlinieJahr { jahr: number; geld: number; spenden: number; posten: string[] }
+/** Geld je Jahr getrennt nach Quelle (Lobbyregister-Untergrenzen, Haushalts-Soll) und Spenden; Quellen werden nie addiert (§4.6a). */
+export interface ZeitlinieJahr { jahr: number; lobby: number; haushalt: number; spenden: number; posten: string[] }
 
-/** Geld und Spenden je Jahr summiert, Posten als Texte; Jahre aufsteigend. */
 export function zeitlinieJahre(akte: Akte): ZeitlinieJahr[] {
   const m = new Map<number, ZeitlinieJahr>();
   for (const z of akte.zeitlinie) {
-    const j = m.get(z.jahr) ?? { jahr: z.jahr, geld: 0, spenden: 0, posten: [] };
-    if (z.art === "geld") j.geld += z.wert ?? 0;
+    const j = m.get(z.jahr) ?? { jahr: z.jahr, lobby: 0, haushalt: 0, spenden: 0, posten: [] };
+    if (z.art === "geld" && z.quelle === "haushalt") j.haushalt += z.wert ?? 0;
+    else if (z.art === "geld") j.lobby += z.wert ?? 0;
     else if (z.art === "spende") j.spenden += z.wert ?? 0;
     else j.posten.push(z.text);
     m.set(z.jahr, j);

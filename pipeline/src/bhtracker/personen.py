@@ -7,6 +7,7 @@ from __future__ import annotations
 import hashlib
 import json
 import re
+import shutil
 from collections import defaultdict
 from dataclasses import asdict, dataclass, field
 from pathlib import Path
@@ -108,8 +109,10 @@ def roh_identitaeten(profile: list[Profil], abgeordnete: list[Abgeordneter], reg
                               quelle_art="lr", lr_nummern=[p.nummer], org_normen=[norm_name(p.name)], frueheres_mandat=frueheres_mandat))
     for a in sorted(abgeordnete, key=lambda x: x.mdb_id):
         quelle = {"kurz": "bundestag.de", "url": a.url, "stand": a.stand, "etikett": "Eigenangabe"}
-        text = f"Mitglied des Bundestages, {a.fraktion}" if a.fraktion else "Mitglied des Bundestages"
-        funktionen = [Funktion(art="mdb", text=text, organisation_id=None, organisation="Deutscher Bundestag", epl=None, seit=None, bis=None,
+        bis = getattr(a, "ausgeschieden", None)
+        kopf = f"Mitglied des Bundestages bis {bis}" if bis else "Mitglied des Bundestages"
+        text = f"{kopf}, {a.fraktion}" if a.fraktion else kopf
+        funktionen = [Funktion(art="mdb", text=text, organisation_id=None, organisation="Deutscher Bundestag", epl=None, seit=None, bis=bis,
                                stand=a.stand, quelle={**quelle, "etikett": "amtlich"}, ausschuesse=list(a.ausschuesse))]
         angaben = [{"kategorie": x.kategorie, "organisation": x.organisation, "ort": x.ort, "funktion": x.funktion, "stand": a.stand, "quelle": quelle} for x in a.angaben]
         akten.append(Akte(id=f"{slug(a.name)}-mdb-{a.mdb_id}", name=a.name, quellen_ids=[f"{slug(a.name)}-mdb-{a.mdb_id}"], funktionen=funktionen,
@@ -218,8 +221,22 @@ def zusammenfuehren(roh: list[Akte], profile_by_nr: dict[str, Profil], manual: d
                 a, b = gruppe[i], gruppe[j]
                 if frozenset((a.id, b.id)) in trennen:
                     continue
-                if (a.id in manuell and manuell.get(b.id) == manuell[a.id]) or _belegt(a, b, profile_by_nr):
+                if _belegt(a, b, profile_by_nr):
                     union(a.id, b.id)
+    # Manuelle Zusammenführung und mdb_id (Kabinett ↔ Bundestag) gelten auch bei Namensvarianten (zweiter Vorname, Geburtsname)
+    manuell_gruppen: dict[int, list[str]] = defaultdict(list)
+    for i, n in manuell.items():
+        if i in by_id:
+            manuell_gruppen[n].append(i)
+    nach_mdb_id: dict[int, list[str]] = defaultdict(list)
+    for a in roh:
+        if a.mdb_id and a.quelle_art in ("mdb", "breg"):
+            nach_mdb_id[a.mdb_id].append(a.id)
+    for ids in list(manuell_gruppen.values()) + list(nach_mdb_id.values()):
+        for i in range(len(ids)):
+            for j in range(i + 1, len(ids)):
+                if frozenset((ids[i], ids[j])) not in trennen:
+                    union(ids[i], ids[j])
 
     cluster: dict[str, list[Akte]] = defaultdict(list)
     for a in roh:
@@ -245,6 +262,31 @@ def zusammenfuehren(roh: list[Akte], profile_by_nr: dict[str, Profil], manual: d
         for a in gruppe:
             vergeben.add(a.id)
     return akten, kandidaten
+
+
+# ---------------------------------------------------------------- Pflegedatei
+
+def validate_personen(data: dict) -> list[str]:
+    """personen.yaml: zusammenfuehren/trennen brauchen mindestens zwei ids und eine Quelle (URL); freigabe braucht id, Quelle und geprueft_von."""
+    errors: list[str] = []
+    data = data or {}
+    for key in ("zusammenfuehren", "trennen"):
+        for i, e in enumerate(data.get(key) or []):
+            wer = f"{key} Eintrag {i + 1}"
+            ids = e.get("ids") or []
+            if not isinstance(ids, list) or len(ids) < 2:
+                errors.append(f"{wer}: ids braucht mindestens zwei Einträge")
+            if not str(e.get("quelle") or "").startswith("http"):
+                errors.append(f"{wer}: quelle (URL) fehlt")
+    for i, e in enumerate(data.get("freigabe") or []):
+        wer = f"freigabe Eintrag {i + 1}"
+        if not e.get("id"):
+            errors.append(f"{wer}: id fehlt")
+        if not str(e.get("quelle") or "").startswith("http"):
+            errors.append(f"{wer}: quelle (URL) fehlt")
+        if not e.get("geprueft_von"):
+            errors.append(f"{wer}: geprueft_von fehlt")
+    return errors
 
 
 # ---------------------------------------------------------------- Sichtbarkeit
@@ -284,6 +326,21 @@ def profile_mit_seite(profile: list[Profil], seiten: dict[str, dict]) -> list[Pr
     return [p for p in profile if p.nummer in nummern or norm_name(p.name) in normen]
 
 
+def _geld_der_seite(seite: dict) -> dict:
+    """Geldkennzahlen einer Empfänger-Seite für die Organisationsliste der Akte (Quellen nebeneinander, nicht addiert)."""
+    geld_aus: list[str] = []
+    for z in sorted(seite.get("lobby_zuwendungen") or [], key=lambda x: -x.get("von", 0)):
+        if z["geber"] not in geld_aus:
+            geld_aus.append(z["geber"])
+    letztes = 0
+    for t in (seite.get("haushalt") or {}).get("titel") or []:
+        jahre = sorted(t.get("werte") or {})
+        if jahre:
+            letztes += int(t["werte"][jahre[-1]].get("soll") or 0)
+    return {"lobby_untergrenze_bund": seite.get("lobby_untergrenze_bund", 0), "haushalt_soll_letztes_jahr": letztes,
+            "foerderkatalog_summe": round(sum(p.get("summe", 0) for p in seite.get("foerderkatalog") or []), 2), "geld_aus": geld_aus}
+
+
 def _jahr(datum: str | None) -> int | None:
     if not datum:
         return None
@@ -293,9 +350,21 @@ def _jahr(datum: str | None) -> int | None:
 
 def build_personen(manual_dir: Path, raw_dir: Path, out: Path, empfaenger_seiten: dict[str, dict], spenden: list[Spende], stand: str, *,
                    modus: str = "relevant", mit_personen: bool = True) -> Path | None:
+    erg = build_personen_akten(manual_dir, raw_dir, out, empfaenger_seiten, spenden, stand, modus=modus, mit_personen=mit_personen)
+    return erg[0] if erg else None
+
+
+def build_personen_akten(manual_dir: Path, raw_dir: Path, out: Path, empfaenger_seiten: dict[str, dict], spenden: list[Spende], stand: str, *,
+                         modus: str = "relevant", mit_personen: bool = True) -> tuple[Path, list[Akte], dict[str, list[Spende]]] | None:
+    """Schreibt Akten-Shards und Index; gibt (Index-Pfad, Akten, Spenden je Empfänger-Id) zurück. Ohne Personen wird ein altes personen/ gelöscht."""
     if not mit_personen:
+        if (out / "personen").exists():
+            shutil.rmtree(out / "personen")
         return None
     manual = _lade_yaml(manual_dir / "personen.yaml")
+    fehler = validate_personen(manual)
+    if fehler:
+        raise ValueError("personen.yaml: " + "; ".join(fehler))
     ressorts = _lade_yaml(manual_dir / "ressorts.yaml")
     profile = profile_mit_seite(lade_profile(raw_dir), empfaenger_seiten)
     profile_by_nr = {p.nummer: p for p in profile}
@@ -310,10 +379,13 @@ def build_personen(manual_dir: Path, raw_dir: Path, out: Path, empfaenger_seiten
             seite_by_nr[s["lobbyregister"]["nummer"]] = s
         seite_by_norm[norm_name(s["name"])] = s
     verbindungs_namen: set[str] = set()
+    mdb_posten: dict[str, list[tuple[dict, dict]]] = defaultdict(list)   # name_key → (Seite, Verbindung abgeordneter_funktion, exakt)
     for s in empfaenger_seiten.values():
         for v in s.get("verbindungen") or []:
             if v.get("person"):
                 verbindungs_namen.add(name_key(v["person"]))
+                if v.get("typ") == "abgeordneter_funktion" and v.get("abgleich", "exakt") == "exakt":
+                    mdb_posten[name_key(v["person"])].append((s, v))
 
     roh = roh_identitaeten(profile, abgeordnete, regierung)
     akten, kandidaten = zusammenfuehren(roh, profile_by_nr, manual)
@@ -344,19 +416,21 @@ def build_personen(manual_dir: Path, raw_dir: Path, out: Path, empfaenger_seiten
                 continue
             gesehen.add(seite["id"])
             f.organisation_id = seite["id"]
-            geld_aus = []
-            for z in sorted(seite.get("lobby_zuwendungen") or [], key=lambda x: -x.get("von", 0)):
-                if z["geber"] not in geld_aus:
-                    geld_aus.append(z["geber"])
-            letztes = 0
-            for t in (seite.get("haushalt") or {}).get("titel") or []:
-                jahre = sorted(t.get("werte") or {})
-                if jahre:
-                    letztes += int(t["werte"][jahre[-1]].get("soll") or 0)
             orgs.append({"id": seite["id"], "name": seite["name"], "funktion": f.text, "rolle": f.art, "stand": f.stand,
-                         "lobby_untergrenze_bund": seite.get("lobby_untergrenze_bund", 0), "haushalt_soll_letztes_jahr": letztes,
-                         "foerderkatalog_summe": round(sum(p.get("summe", 0) for p in seite.get("foerderkatalog") or []), 2), "geld_aus": geld_aus})
+                         "quelle": {"kurz": "Lobbyregister", "url": (seite.get("lobbyregister") or {}).get("url") or f.quelle.get("url"), "etikett": "Eigenangabe"},
+                         **_geld_der_seite(seite)})
             if name_key(a.name) in verbindungs_namen and any(name_key(v.get("person", "")) == name_key(a.name) for v in seite.get("verbindungen") or []):
+                a.verbindung = True
+        # Posten laut veröffentlichungspflichtigen Angaben (Bundestag) bei Empfängern mit Seite: nur für Akten mit Bundestags-Identität
+        if a.mdb_id:
+            for seite, v in mdb_posten.get(name_key(a.name), []):
+                if seite["id"] in gesehen:
+                    continue
+                gesehen.add(seite["id"])
+                q = (v.get("quellen") or [{}])[0]
+                orgs.append({"id": seite["id"], "name": seite["name"], "funktion": v.get("funktion_beim_empfaenger") or "Funktion laut Bundestagsangabe",
+                             "rolle": "abgeordneter_funktion", "stand": q.get("stand") or stand,
+                             "quelle": {"kurz": "bundestag.de", "url": q.get("url"), "etikett": "Eigenangabe"}, **_geld_der_seite(seite)})
                 a.verbindung = True
         a.organisationen = orgs
         # Spenden der verbundenen Organisationen
@@ -372,11 +446,11 @@ def build_personen(manual_dir: Path, raw_dir: Path, out: Path, empfaenger_seiten
             for z in seite.get("lobby_zuwendungen") or []:
                 j = _jahr(z.get("geschaeftsjahr"))
                 if j:
-                    zl.append({"jahr": j, "art": "geld", "organisation_id": o["id"], "text": f"{o['name']} erhielt laut Lobbyregister ab {z['von']:,} € von {z['geber']}".replace(",", "."), "wert": z["von"]})
+                    zl.append({"jahr": j, "art": "geld", "quelle": "lobbyregister", "organisation_id": o["id"], "text": f"{o['name']} erhielt laut Lobbyregister ab {z['von']:,} € von {z['geber']}".replace(",", "."), "wert": z["von"]})
             for t in (seite.get("haushalt") or {}).get("titel") or []:
                 for jahr, w in (t.get("werte") or {}).items():
                     if w.get("soll"):
-                        zl.append({"jahr": int(jahr), "art": "geld", "organisation_id": o["id"], "text": f"{o['name']}: Titel {t['id']} Soll {w['soll']:,} €".replace(",", "."), "wert": w["soll"]})
+                        zl.append({"jahr": int(jahr), "art": "geld", "quelle": "haushalt", "organisation_id": o["id"], "text": f"{o['name']}: Titel {t['id']} Soll {w['soll']:,} €".replace(",", "."), "wert": w["soll"]})
         for f in a.funktionen:
             j = _jahr(f.seit) or _jahr(f.stand)
             if j:
@@ -388,8 +462,12 @@ def build_personen(manual_dir: Path, raw_dir: Path, out: Path, empfaenger_seiten
         a.zeitlinie = sorted(zl, key=lambda e: (e["jahr"], e["art"]))
         a.sichtbar = sichtbarkeit(a, set(), manual, modus)
         a.stand = stand
+        arten: list[str] = []
+        for f in a.funktionen:
+            if f.art not in arten:
+                arten.append(f.art)
         eintraege.append({"id": a.id, "name": a.name, "funktion_kurz": a.funktionen[0].text if a.funktionen else "", "amt": a.amt, "sichtbar": a.sichtbar,
-                          "n_organisationen": len(orgs), "shard": shard(a.id)})
+                          "arten": arten, "n_organisationen": len(orgs), "shard": shard(a.id)})
         if a.sichtbar:
             d = asdict(a)
             for k in ("quelle_art", "lr_nummern", "org_normen", "angaben_org_normen", "frueheres_mandat"):
@@ -409,7 +487,7 @@ def build_personen(manual_dir: Path, raw_dir: Path, out: Path, empfaenger_seiten
     with open(review / "spenden_kandidaten.yaml", "w", encoding="utf-8", newline="\n") as f:
         f.write("# Automatisch erzeugt von `bht build`. Spenden von Organisationen ohne exakten Treffer im Empfänger-Stamm (keine natürlichen Personen).\n")
         yaml.safe_dump({"stand": stand, "kandidaten": spenden_kandidaten}, f, allow_unicode=True, sort_keys=False)
-    return index_path
+    return index_path, akten, zu_spenden
 
 
 # ---------------------------------------------------------------- Orchestrierung (Task 5)
@@ -428,14 +506,21 @@ def lade_seiten(out: Path) -> dict[str, dict]:
     return seiten
 
 
-def ergaenze_akten(out: Path, seiten: dict[str, dict], akten: list[Akte]) -> int:
-    """Schreibt akte_id und akte_sichtbar an die Personen der Empfänger-Seiten (Name und Organisation müssen passen)."""
+def ergaenze_akten(out: Path, seiten: dict[str, dict], akten: list[Akte], zu_spenden: dict[str, list[Spende]] | None = None) -> int:
+    """Schreibt akte_id und akte_sichtbar an die Personen der Empfänger-Seiten (Name und Organisation müssen passen)
+    und die veröffentlichungspflichtigen Parteispenden der Organisation (parteispenden)."""
     nach_name: dict[str, list[Akte]] = defaultdict(list)
     for a in akten:
         nach_name[name_key(a.name)].append(a)
     n = 0
     for sid, s in seiten.items():
         geaendert = False
+        if zu_spenden is not None:
+            s["parteispenden"] = [{"partei": sp.partei, "betrag": sp.betrag, "eingang": sp.eingang, "veroeffentlicht": sp.veroeffentlicht, "drucksache": sp.drucksache,
+                                   "drucksache_url": sp.drucksache_url,
+                                   "quelle": {"kurz": "bundestag.de", "url": sp.drucksache_url or "https://www.bundestag.de/parlament/praesidium/parteienfinanzierung/fundstellen50000", "etikett": "amtlich"}}
+                                  for sp in sorted(zu_spenden.get(sid, []), key=lambda x: (x.eingang, x.partei))]
+            geaendert = True
         for p in s.get("personen") or []:
             treffer = [a for a in nach_name.get(name_key(p.get("name", "")), []) if any(o["id"] == sid for o in a.organisationen)]
             if len(treffer) == 1:
@@ -458,31 +543,16 @@ def build_akten_und_netz(manual_dir: Path, raw_dir: Path, out: Path, stand: str,
     ressorts = _lade_yaml(manual_dir / "ressorts.yaml")
     akten: list[Akte] = []
     sichtbar = 0
+    zu_spenden: dict[str, list[Spende]]
     if mit_personen:
-        manual = _lade_yaml(manual_dir / "personen.yaml")
-        profile = profile_mit_seite(lade_profile(raw_dir), seiten)
-        profile_by_nr = {p.nummer: p for p in profile}
-        abgeordnete = lade_abgeordnete(raw_dir)
-        regierung = lade_regierung(manual_dir / "regierung.yaml", raw_dir, ressorts) if (manual_dir / "regierung.yaml").exists() or (raw_dir / "regierung").exists() else []
-        # build_personen rechnet alles noch einmal; hier nur für die Akten-Liste des Netzes und der Empfänger-Seiten
-        build_personen(manual_dir, raw_dir, out, seiten, spenden, stand, modus=modus, mit_personen=True)
-        idx = json.loads((out / "personen" / "index.json").read_text(encoding="utf-8"))
-        sichtbar_ids = {e["id"] for e in idx["eintraege"] if e["sichtbar"]}
-        roh = roh_identitaeten(profile, abgeordnete, regierung)
-        akten, _ = zusammenfuehren(roh, profile_by_nr, manual)
-        seite_by_norm = {norm_name(s["name"]): s for s in seiten.values()}
-        for a in akten:
-            a.sichtbar = a.id in sichtbar_ids
-            orgs = []
-            for f in a.funktionen:
-                if f.art in ("gesetzlicher_vertreter", "interessenvertreter"):
-                    seite = seite_by_norm.get(norm_name(f.organisation))
-                    if seite and not any(o["id"] == seite["id"] for o in orgs):
-                        orgs.append({"id": seite["id"], "name": seite["name"], "funktion": f.text, "rolle": f.art, "stand": f.stand})
-            a.organisationen = orgs
-        sichtbar = len(sichtbar_ids)
-        ergaenze_akten(out, seiten, akten)
-    zu_spenden, _ = zuordnen(spenden, {norm_name(s["name"]): s["id"] for s in seiten.values()})
+        erg = build_personen_akten(manual_dir, raw_dir, out, seiten, spenden, stand, modus=modus, mit_personen=True)
+        assert erg is not None
+        _, akten, zu_spenden = erg
+        sichtbar = sum(1 for a in akten if a.sichtbar)
+    else:
+        build_personen_akten(manual_dir, raw_dir, out, seiten, spenden, stand, modus=modus, mit_personen=False)
+        zu_spenden, _ = zuordnen(spenden, {norm_name(s["name"]): s["id"] for s in seiten.values()})
+    ergaenze_akten(out, seiten, akten, zu_spenden)
     knoten, kanten = baue_graph(seiten, akten, zu_spenden, ressorts)
     build_netz(out, knoten, kanten, mit_personen=mit_personen)
     return {"akten": len(akten), "sichtbar": sichtbar, "knoten": len(knoten), "kanten": len(kanten)}

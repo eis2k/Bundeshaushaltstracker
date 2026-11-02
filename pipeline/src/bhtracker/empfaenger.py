@@ -230,7 +230,8 @@ def verbindungen_aus_angaben(abgeordnete: list[Abgeordneter], stamm: dict[str, S
     verb: dict[str, list[Verbindung]] = {}
     kandidaten: list[Kandidat] = []
     for mdb in abgeordnete:
-        funktion_person = f"MdB, {mdb.fraktion}" if mdb.fraktion else "MdB"
+        mdb_kurz = f"MdB bis {mdb.ausgeschieden}" if getattr(mdb, "ausgeschieden", None) else "MdB"
+        funktion_person = f"{mdb_kurz}, {mdb.fraktion}" if mdb.fraktion else mdb_kurz
         quelle = {"kurz": "bundestag.de", "url": mdb.url, "stand": mdb.stand}
         for a in mdb.angaben:
             n = norm_name(a.organisation)

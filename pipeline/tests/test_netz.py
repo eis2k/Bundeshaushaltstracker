@@ -112,3 +112,13 @@ def test_build_netz_nur_fuer_knoten_mit_seite(tmp_path):
     # der unsichtbare Knoten bleibt aber als Nachbar im Umfeld der Organisation
     sh = json.loads((tmp_path / "build" / "netz" / f"{idx['e:aas']}.json").read_text(encoding="utf-8"))
     assert any(k["id"] == "p:timo-reinfrank" for k in sh["e:aas"]["knoten"])
+
+
+def test_posten_kante_aus_bundestagsangabe():
+    # Important 1: Posten eines Abgeordneten bei einem Empfänger (Quelle bundestag.de) ist eine Kante
+    seiten, akten, spenden = mini()
+    q = {"kurz": "bundestag.de", "url": "https://www.bundestag.de/abgeordnete/biografien/A/x-1", "stand": "2026-11-01", "etikett": "Eigenangabe"}
+    akten[1].organisationen = [{"id": "aas", "name": "Amadeu Antonio Stiftung", "funktion": "Mitglied des Kuratoriums", "rolle": "abgeordneter_funktion", "stand": "2026-11-01", "quelle": q}]
+    _, kanten = baue_graph(seiten, akten, spenden, RESSORTS)
+    k = next(k for k in kanten if k.von == "p:friedrich-merz" and k.nach == "e:aas")
+    assert k.art == "posten" and k.quelle["kurz"] == "bundestag.de" and "Kuratoriums" in k.text

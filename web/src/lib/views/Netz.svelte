@@ -64,7 +64,7 @@
 
 <div class="netz" bind:clientWidth={width}>
   <div class="kopf">
-    <button class="back" onclick={() => history.back()}>‹ zurück</button>
+    <button class="back" onclick={() => void app.closeNetz()}>‹ zurück</button>
     <h2>Umfeld: {startKnoten?.label ?? umfeld.start}</h2>
     <span class="muted">{umfeld.knoten.length} Knoten, {umfeld.kanten.length} Kanten, zwei Schritte{#if umfeld.weitere} · {umfeld.weitere} weitere Knoten nicht gezeigt (die größten nach Geld zuerst){/if}</span>
   </div>

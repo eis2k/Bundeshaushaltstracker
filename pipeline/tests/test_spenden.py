@@ -1,7 +1,7 @@
 from pathlib import Path
 
 from bhtracker.empfaenger import norm_name
-from bhtracker.spenden import JAHR_URL, fetch_spenden, lade_spenden, parse_spenden, zuordnen
+from bhtracker.spenden import JAHR_URL, fetch_spenden, ist_natuerliche_person, lade_spenden, parse_spenden, zuordnen
 
 FIXTURES = Path(__file__).parent / "fixtures"
 
@@ -29,8 +29,8 @@ def test_parse_spenden_liest_zeilen_und_laesst_monatszeilen_aus():
 def test_natuerliche_person_erkannt_und_ohne_adresse():
     sp = parse_spenden(fixture_text("spenden_2025_ausschnitt.html"), 2025)
     p = next(x for x in sp if x.partei == "AfD")
-    assert p.natuerliche_person is True and p.spender == "Prof. Dr. Winfried Stöcker"
-    assert "Sonnenberg" not in p.spender and "23627" not in p.spender_ort and p.spender_ort == "Groß Grönau"
+    assert p.natuerliche_person is True and p.spender == "Prof. Dr. Erika Musterfrau"
+    assert "Musterweg" not in p.spender and "12345" not in p.spender_ort and p.spender_ort == "Musterstadt"
     gmbh = next(x for x in sp if x.partei == "CDU")
     assert gmbh.natuerliche_person is False and gmbh.spender == "ProMinent GmbH" and gmbh.spender_ort == "Heidelberg"
 
@@ -41,7 +41,7 @@ def test_zuordnen_nur_organisationen_exakt():
     zu, kandidaten = zuordnen(sp, normen)
     assert [s.partei for s in zu["vbm"]] == ["CSU"]
     assert len(kandidaten) == 1 and kandidaten[0]["spender"] == "ProMinent GmbH"
-    assert all("Stöcker" not in str(k) for k in kandidaten)
+    assert all("Musterfrau" not in str(k) for k in kandidaten)
 
 
 def test_fetch_spenden_laedt_laufendes_jahr_neu(tmp_path):
@@ -56,3 +56,12 @@ def test_fetch_spenden_laedt_laufendes_jahr_neu(tmp_path):
     assert calls.count(JAHR_URL.format(jahr=2024)) == 1 and calls.count(JAHR_URL.format(jahr=2026)) == 2
     sp = lade_spenden(tmp_path)
     assert {s.jahr for s in sp} == {2024, 2026} and len(sp) == 6
+
+
+def test_natuerliche_person_mit_anrede_zusatz_und_co():
+    # Important 7: Anrede, Namenszusätze, mehr als vier Wörter und „c/o“ sind weiterhin natürliche Personen
+    for n in ["Herr Prof. Dr. Hans-Joachim Mustermann", "Wolfgang von Muster", "Kurt von Muster", "Philipp Graf Muster von Musterhausen",
+              "Gabriele Muster c/o Muster Verwaltungs GmbH", "Frau Dr. Anna Maria Luise Musterfrau", "Herrn Dr. Max Muster"]:
+        assert ist_natuerliche_person(n), n
+    for n in ["Verband der Bayrischen Metall- und Elektro-Industrie e.V. (VBM)", "ProMinent GmbH", "Deutsche Bank AG", "Muster Holding SE & Co. KGaA"]:
+        assert not ist_natuerliche_person(n), n

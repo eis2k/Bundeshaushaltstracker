@@ -6,7 +6,9 @@
   let { app, akte }: { app: AppState; akte: Akte } = $props();
 
   const jahre = $derived(zeitlinieJahre(akte));
-  const maxGeld = $derived(Math.max(1, ...jahre.map((j) => j.geld)));
+  const maxLobby = $derived(Math.max(1, ...jahre.map((j) => j.lobby)));
+  const maxHaushalt = $derived(Math.max(1, ...jahre.map((j) => j.haushalt)));
+  const maxSpenden = $derived(Math.max(1, ...jahre.map((j) => j.spenden)));
   const angabenNachKategorie = $derived.by(() => {
     const m = new Map<string, typeof akte.angaben>();
     for (const a of akte.angaben) m.set(a.kategorie, [...(m.get(a.kategorie) ?? []), a]);
@@ -104,19 +106,20 @@
     {#if jahre.length === 0}
       <p class="muted">Keine datierten Einträge.</p>
     {:else}
-      <svg class="zl" viewBox={`0 0 ${jahre.length * 64} 90`} role="img" aria-label="Zeitlinie: Geld an verbundene Organisationen je Jahr, Posten als Punkte">
+      <svg class="zl" viewBox={`0 0 ${jahre.length * 64} 90`} role="img" aria-label="Zeitlinie: Geld an verbundene Organisationen je Jahr und Quelle, Posten als Punkte">
         {#each jahre as j, i}
-          <rect x={i * 64 + 8} y={70 - (j.geld / maxGeld) * 50} width="28" height={(j.geld / maxGeld) * 50} fill="var(--steuern)" opacity="0.8" />
-          {#if j.spenden}<rect x={i * 64 + 38} y={70 - (j.spenden / maxGeld) * 50} width="10" height={(j.spenden / maxGeld) * 50} fill="var(--muted)" />{/if}
-          {#each j.posten as _, k}<circle cx={i * 64 + 22} cy={76 + k * 4} r="2.5" fill="var(--header)" />{/each}
-          <text x={i * 64 + 22} y="88" text-anchor="middle" font-size="8">{j.jahr}</text>
-          <title>{j.jahr}: Geld {fmtEuro(j.geld)}{j.spenden ? `, Spenden ${fmtEuro(j.spenden)}` : ""}{j.posten.length ? `; ${j.posten.join("; ")}` : ""}</title>
+          {#if j.lobby}<rect x={i * 64 + 6} y={70 - (j.lobby / maxLobby) * 50} width="14" height={(j.lobby / maxLobby) * 50} fill="var(--steuern)" opacity="0.8" />{/if}
+          {#if j.haushalt}<rect x={i * 64 + 22} y={70 - (j.haushalt / maxHaushalt) * 50} width="14" height={(j.haushalt / maxHaushalt) * 50} fill="var(--header)" opacity="0.6" />{/if}
+          {#if j.spenden}<rect x={i * 64 + 40} y={70 - (j.spenden / maxSpenden) * 50} width="8" height={(j.spenden / maxSpenden) * 50} fill="var(--muted)" />{/if}
+          {#each j.posten as _, k}<circle cx={i * 64 + 26} cy={76 + k * 4} r="2.5" fill="var(--header)" />{/each}
+          <text x={i * 64 + 26} y="88" text-anchor="middle" font-size="8">{j.jahr}</text>
+          <title>{j.jahr}: {[j.lobby ? `Lobbyregister ab ${fmtEuro(j.lobby)}` : "", j.haushalt ? `Haushalt Soll ${fmtEuro(j.haushalt)}` : "", j.spenden ? `Spenden ${fmtEuro(j.spenden)}` : ""].filter(Boolean).join(" · ") || "kein Geld-Eintrag"}{j.posten.length ? `; ${j.posten.join("; ")}` : ""}</title>
         {/each}
       </svg>
       <ul class="zlliste">
         {#each akte.zeitlinie as z}<li><span class="tabular">{z.jahr}</span> <span class="tag">{z.art}</span> {z.text}</li>{/each}
       </ul>
-      <p class="muted small">Balken: Geld an verbundene Organisationen (Lobbyregister-Untergrenzen und Haushaltstitel), nicht addiert mit Spenden (schmale Balken). Punkte: Posten mit Stand-Datum.</p>
+      <p class="muted small">Balken je Jahr, von links: Lobbyregister-Untergrenzen, Haushalts-Soll, Spenden (schmal). Jede Reihe hat ihren eigenen Maßstab; die Quellen werden nicht addiert. Punkte: Posten mit Stand-Datum.</p>
     {/if}
   </section>
 

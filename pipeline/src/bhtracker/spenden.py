@@ -26,7 +26,9 @@ _TAG = re.compile(r"<[^>]+>")
 _WS = re.compile(r"\s+")
 _DATUM = re.compile(r"(\d{2})\.(\d{2})\.(\d{4})")
 _PLZ_ORT = re.compile(r"^\d{5}\s+(.+)$")
-_TITEL = re.compile(r"^(?:Prof\.|Dr\.|Dipl\.-?\w*\.?|Ing\.|h\.c\.|mult\.|med\.|rer\.|nat\.|jur\.|phil\.|Frhr\.|Freiherr|Graf|Gräfin|von|zu|van|de)\s+", re.I)
+_TITEL = re.compile(r"^(?:Herrn?|Frau|Prof\.|Dr\.|Dipl\.-?\w*\.?|Ing\.|h\.c\.|mult\.|med\.|rer\.|nat\.|jur\.|phil\.|Frhr\.|Freiherr|Graf|Gräfin|von|zu|van|de)\s+", re.I)
+_ZUSATZ = {"von", "van", "vom", "de", "der", "den", "zu", "zur", "zum", "graf", "gräfin", "freiherr", "freifrau", "frhr.", "baron", "baronin", "und", "y", "da", "di"}
+_CO = re.compile(r"\s+c/o\s+.*$", re.I)
 
 
 def _urlopen_bytes(url: str) -> bytes:
@@ -77,17 +79,18 @@ def _betrag(s: str) -> int:
 
 
 def ist_natuerliche_person(name: str) -> bool:
-    """Kein Organisationsmerkmal, höchstens vier Wörter nach Abzug von Titeln: dann eine natürliche Person."""
-    if _EIGENNAME.search(name):
+    """Kein Organisationsmerkmal, höchstens fünf Wörter nach Abzug von Anrede, Titeln und Namenszusätzen: dann eine natürliche Person.
+    Ein „c/o“-Zusatz (Zustelladresse) zählt nicht zum Namen."""
+    rest = _CO.sub("", name).strip()
+    if _EIGENNAME.search(rest):
         return False
-    rest = name
     for _ in range(6):
         neu = _TITEL.sub("", rest)
         if neu == rest:
             break
         rest = neu
-    worte = [w for w in rest.replace(",", " ").split() if w]
-    return 1 <= len(worte) <= 4 and all(w[0].isupper() or w[0] in "'’" for w in worte)
+    worte = [w for w in rest.replace(",", " ").split() if w and w.lower() not in _ZUSATZ]
+    return 1 <= len(worte) <= 5 and all(w[0].isupper() or w[0] in "'’" for w in worte)
 
 
 def parse_spenden(page_html: str, jahr: int) -> list[Spende]:

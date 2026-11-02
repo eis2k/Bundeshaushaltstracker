@@ -68,6 +68,24 @@
     {/if}
   </section>
 
+  {#if seite.parteispenden?.length}
+    <section class="block">
+      <h3>Parteispenden der Organisation</h3>
+      <div class="scroll">
+        <table>
+          <thead><tr><th>Partei</th><th class="num">Betrag</th><th>Eingang</th><th>Veröffentlicht</th></tr></thead>
+          <tbody>
+            {#each seite.parteispenden as sp}
+              <tr><td>{sp.partei}</td><td class="num tabular">{fmtEuro(sp.betrag)}</td><td class="tabular">{sp.eingang}</td>
+                <td><a href={sp.quelle.url ?? "#"} target="_blank" rel="noopener">{sp.drucksache || "bundestag.de"}</a>{#if sp.veroeffentlicht} · {sp.veroeffentlicht}{/if}</td></tr>
+            {/each}
+          </tbody>
+        </table>
+      </div>
+      <p class="muted small">Veröffentlichungspflichtige Spenden an Parteien (über 35.000 €, davor 50.000 €) laut bundestag.de, amtlich. Eine Spende belegt eine Zahlung, nicht mehr.</p>
+    </section>
+  {/if}
+
   <section class="block">
     <h3>Geld vom Bund</h3>
     <p class="muted small">Drei Quellen, drei Blickwinkel auf dasselbe Geld. Die Beträge werden nicht addiert.</p>

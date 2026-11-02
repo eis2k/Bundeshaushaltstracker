@@ -74,6 +74,9 @@ export interface Pflichtangaben {
   jahresabschluss: Jahresabschluss | null;
 }
 
+/** Veröffentlichungspflichtige Parteispende der Organisation (bundestag.de, über 35.000 €, davor 50.000 €). */
+export interface Parteispende { partei: string; betrag: number; eingang: string; veroeffentlicht: string; drucksache: string; drucksache_url: string | null; quelle: Quelle }
+
 export interface EmpfaengerSeite {
   id: string;
   name: string;
@@ -92,6 +95,8 @@ export interface EmpfaengerSeite {
   foerderkatalog_auszug?: boolean;
   personen: PersonEintrag[];
   verbindungen: Verbindung[];
+  /** Parteispenden der Organisation (Stufe 3); fehlt in Builds ohne Spendendaten. */
+  parteispenden?: Parteispende[];
   pflichtangaben: Pflichtangaben | null;
   quellen: Quelle[];
 }

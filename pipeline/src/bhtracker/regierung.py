@@ -116,7 +116,7 @@ def validate_regierung(data: dict) -> list[str]:
     errors: list[str] = []
     for i, m in enumerate(data.get("mitglieder") or []):
         wer = m.get("name") or f"Eintrag {i + 1}"
-        for key in ("name", "amt", "ressort", "seit", "quelle"):
+        for key in ("name", "amt", "ressort", "quelle"):   # seit nur, wenn belegt (kein Platzhalter)
             if not m.get(key):
                 errors.append(f"{wer}: Feld '{key}' fehlt")
         amt = str(m.get("amt") or "")

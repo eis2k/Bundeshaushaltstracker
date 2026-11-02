@@ -60,3 +60,10 @@ def test_cli_build_fails_on_total_mismatch(tmp_path: Path, fx):
     rc = cli.main(["build", "--from", "2025", "--to", "2025", "--raw", str(raw), "--out", str(tmp_path / "build"),
                    "--summen", str(expected), "--manual", str(Path(__file__).resolve().parents[2] / "data" / "manual")])
     assert rc == 1
+
+
+def test_cli_akten_alle_braucht_eigenes_out(capsys):
+    # Important 6b: der volle Bestand darf nicht in das committete Standardverzeichnis
+    rc = cli.main(["build", "--akten", "alle"])
+    assert rc == 2
+    assert "--out" in capsys.readouterr().err

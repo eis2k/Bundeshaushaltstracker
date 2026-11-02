@@ -158,8 +158,8 @@ describe("Empfänger (Stufe 2)", () => {
 
 describe("Personen und Netz (Stufe 3)", () => {
   const personIndex = { stand: "2026-11-02", modus: "relevant", eintraege: [
-    { id: "sanae-abdi", name: "Sanae Abdi", funktion_kurz: "MdB", amt: true, sichtbar: true, n_organisationen: 0, shard: "aa" },
-    { id: "timo-reinfrank", name: "Timo Reinfrank", funktion_kurz: "Vorstand", amt: false, sichtbar: false, n_organisationen: 1, shard: "bb" } ] };
+    { id: "sanae-abdi", name: "Sanae Abdi", funktion_kurz: "MdB", amt: true, sichtbar: true, n_organisationen: 0, shard: "aa", arten: ["mdb"] },
+    { id: "timo-reinfrank", name: "Timo Reinfrank", funktion_kurz: "Vorstand", amt: false, sichtbar: false, n_organisationen: 1, shard: "bb", arten: ["gesetzlicher_vertreter"] } ] };
   const akteAbdi = { id: "sanae-abdi", name: "Sanae Abdi", sichtbar: true, grund_sichtbar: "amt", gleichnamig: [], quellen_ids: ["x"], amt: true, verbindung: false, freigabe: false,
     funktionen: [], angaben: [], organisationen: [], spenden: [], zeitlinie: [], quellen: [], stand: "2026-11-02" };
   const umfeld = { start: "p:sanae-abdi", knoten: [{ id: "p:sanae-abdi", art: "person", label: "Sanae Abdi", sichtbar: true, seite: "v1;a=personen;pe=sanae-abdi" }], kanten: [], weitere: 0 };
@@ -200,5 +200,23 @@ describe("Personen und Netz (Stufe 3)", () => {
     await s.openNetz("e:unbekannt");
     expect(s.netz).toBeNull();
     expect(s.netzFehlt).toBe("e:unbekannt");
+  });
+
+  test("zurück aus dem Netz führt zur Akte, von der es geöffnet wurde (Important 8)", async () => {
+    const s = new AppState(ploader);
+    await s.init("");
+    await s.openAkte("sanae-abdi");
+    await s.openNetz("p:sanae-abdi");
+    expect(s.view).toBe("netz");
+    await s.closeNetz();
+    expect(s.view).toBe("personen");
+    expect(s.akte?.id).toBe("sanae-abdi");
+    expect(s.toHash()).not.toContain("n=");
+    // ohne Herkunft: Personenliste
+    const t = new AppState(ploader);
+    await t.init("#v1;j=2025;a=netz;n=p:sanae-abdi");
+    await t.closeNetz();
+    expect(t.view).toBe("personen");
+    expect(t.akte).toBeNull();
   });
 });

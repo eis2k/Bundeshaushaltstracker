@@ -85,8 +85,9 @@ def baue_graph(empfaenger_seiten: dict[str, dict], akten: list[Akte], spenden_by
             eid = f"e:{o['id']}"
             if eid not in knoten:
                 continue
+            quelle = o.get("quelle") or {"kurz": "Lobbyregister", "url": (empfaenger_seiten[o["id"]].get("lobbyregister") or {}).get("url"), "etikett": "Eigenangabe"}
             kanten.append(Kante(pid, eid, "posten", f"{a.name}: {o.get('funktion') or 'Posten'} bei {o['name']} (Stand {o.get('stand', '')})", None,
-                               {"kurz": "Lobbyregister", "url": (empfaenger_seiten[o["id"]].get("lobbyregister") or {}).get("url"), "etikett": "Eigenangabe"}, str(o.get("stand") or "")))
+                               quelle, str(o.get("stand") or "")))
         for f in a.funktionen:
             if f.art == "regierung" and f.epl:
                 mid = ministerium(f.epl)

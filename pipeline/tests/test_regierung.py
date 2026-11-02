@@ -42,6 +42,8 @@ def test_validate_regierung_pflichtfelder():
     data["mitglieder"][0]["amt"] = "Staatssekretär"
     data["mitglieder"][0]["seit"] = "Mai 2025"
     assert any("seit" in e for e in validate_regierung(data))
+    data["mitglieder"][0].pop("seit")
+    assert validate_regierung(data) == []   # Important 5: ohne belegtes Datum kein Platzhalter
 
 
 def test_repo_regierung_yaml_ist_gueltig():

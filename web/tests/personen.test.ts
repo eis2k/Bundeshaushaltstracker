@@ -3,13 +3,14 @@ import { filterePersonen, issueUrlAkte, zeitlinieJahre, type Akte, type PersonIn
 import { kantenStil, legende, netzPfad, type Umfeld } from "../src/lib/model/netz";
 
 function e(id: string, name: string, extra: Partial<PersonIndexEintrag> = {}): PersonIndexEintrag {
-  return { id, name, funktion_kurz: "Vorstand", amt: false, sichtbar: true, n_organisationen: 1, shard: "ab", ...extra };
+  return { id, name, funktion_kurz: "Vorstand", amt: false, sichtbar: true, n_organisationen: 1, shard: "ab", arten: ["gesetzlicher_vertreter"], ...extra };
 }
 
 const idx: PersonIndex = {
   stand: "2026-11-02", modus: "relevant",
-  eintraege: [e("sanae-abdi", "Sanae Abdi", { amt: true, funktion_kurz: "Mitglied des Bundestages, SPD" }),
-              e("friedrich-merz", "Friedrich Merz", { amt: true, funktion_kurz: "Bundeskanzler, Bundeskanzleramt" }),
+  eintraege: [e("sanae-abdi", "Sanae Abdi", { amt: true, funktion_kurz: "Mitglied des Bundestages, SPD", arten: ["mdb"] }),
+              // Important 2: zusammengeführte Akte, Bundestags-Funktion steht vorn
+              e("friedrich-merz", "Friedrich Merz", { amt: true, funktion_kurz: "Mitglied des Bundestages, CDU/CSU", arten: ["mdb", "regierung"] }),
               e("timo-reinfrank", "Timo Reinfrank", { sichtbar: false }),
               e("tahera-ameer", "Tahera Ameer", { n_organisationen: 2 })],
 };
@@ -18,7 +19,8 @@ const akte: Akte = {
   id: "tahera-ameer", name: "Tahera Ameer", sichtbar: true, grund_sichtbar: "verbindung", gleichnamig: [], quellen_ids: ["x"], amt: false, verbindung: true, freigabe: false,
   funktionen: [{ art: "gesetzlicher_vertreter", text: "Vorstand", organisation_id: "amadeu-antonio-stiftung", organisation: "Amadeu Antonio Stiftung", epl: null, seit: null, bis: null, stand: "2026-09-02", quelle: { kurz: "Lobbyregister", url: "https://l", etikett: "Eigenangabe" }, ausschuesse: [] }],
   angaben: [], organisationen: [], spenden: [],
-  zeitlinie: [{ jahr: 2024, art: "geld", organisation_id: "a", text: "x", wert: 100 }, { jahr: 2025, art: "geld", organisation_id: "a", text: "y", wert: 200 }, { jahr: 2025, art: "posten", organisation_id: "a", text: "Vorstand bei A" }, { jahr: 2025, art: "spende", organisation_id: "a", text: "A spendete", wert: 50 }],
+  zeitlinie: [{ jahr: 2024, art: "geld", quelle: "lobbyregister", organisation_id: "a", text: "x", wert: 100 }, { jahr: 2025, art: "geld", quelle: "lobbyregister", organisation_id: "a", text: "y", wert: 200 },
+              { jahr: 2025, art: "geld", quelle: "haushalt", organisation_id: "a", text: "Titel", wert: 5000 }, { jahr: 2025, art: "posten", organisation_id: "a", text: "Vorstand bei A" }, { jahr: 2025, art: "spende", organisation_id: "a", text: "A spendete", wert: 50 }],
   quellen: [], stand: "2026-11-02",
 };
 
@@ -27,7 +29,7 @@ describe("filterePersonen", () => {
     expect(filterePersonen(idx, "abdi", "alle").map((x) => x.id)).toEqual(["sanae-abdi"]);
     expect(filterePersonen(idx, "", "alle").map((x) => x.id)).not.toContain("timo-reinfrank");
     expect(filterePersonen(idx, "", "alle", false).map((x) => x.id)).toContain("timo-reinfrank");
-    expect(filterePersonen(idx, "", "abgeordnete").map((x) => x.id)).toEqual(["sanae-abdi"]);
+    expect(filterePersonen(idx, "", "abgeordnete").map((x) => x.id)).toEqual(["friedrich-merz", "sanae-abdi"]);
     expect(filterePersonen(idx, "", "regierung").map((x) => x.id)).toEqual(["friedrich-merz"]);
     expect(filterePersonen(idx, "", "vertreter").map((x) => x.id)).toEqual(["tahera-ameer"]);
   });
@@ -37,10 +39,12 @@ describe("filterePersonen", () => {
 });
 
 describe("zeitlinieJahre", () => {
-  test("fasst Geld je Jahr zusammen und sammelt Posten", () => {
+  test("hält Geld je Quelle getrennt (Important 3) und sammelt Posten", () => {
     const z = zeitlinieJahre(akte);
     expect(z.map((x) => x.jahr)).toEqual([2024, 2025]);
-    expect(z[1].geld).toBe(200);
+    expect(z[1].lobby).toBe(200);
+    expect(z[1].haushalt).toBe(5000);
+    expect(z[0].haushalt).toBe(0);
     expect(z[1].posten).toEqual(["Vorstand bei A"]);
     expect(z[1].spenden).toBe(50);
   });

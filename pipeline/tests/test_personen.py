@@ -2,6 +2,7 @@ import dataclasses
 import json
 from pathlib import Path
 
+import pytest
 import yaml
 
 from bhtracker.bundestag import parse_bio
@@ -9,6 +10,8 @@ from bhtracker.lobbyregister import Person, Profil, extract_profil
 from bhtracker.personen import (
     Akte,
     build_personen,
+    ergaenze_akten,
+    validate_personen,
     roh_identitaeten,
     shard,
     sichtbarkeit,
@@ -136,6 +139,7 @@ def test_build_personen_schreibt_shards_und_index(tmp_path):
     by_id = {e["id"]: e for e in idx["eintraege"]}
     assert idx["modus"] == "relevant"
     assert by_id["sanae-abdi"]["sichtbar"] is True and by_id["sanae-abdi"]["amt"] is True
+    assert by_id["sanae-abdi"]["arten"] == ["mdb"] and by_id["tahera-ameer"]["arten"] == ["gesetzlicher_vertreter"]
     assert by_id["timo-reinfrank"]["sichtbar"] is False
     assert by_id["tahera-ameer"]["sichtbar"] is True   # Verbindung (Regierungsfunktion) auf der Empfänger-Seite
     sh = json.loads((out / "personen" / f"{by_id['sanae-abdi']['shard']}.json").read_text(encoding="utf-8"))
@@ -148,6 +152,7 @@ def test_build_personen_schreibt_shards_und_index(tmp_path):
     assert ameer["organisationen"][0]["id"] == "amadeu-antonio-stiftung" and ameer["organisationen"][0]["lobby_untergrenze_bund"] == 3_700_000
     assert ameer["spenden"][0]["partei"] == "CSU" and ameer["spenden"][0]["betrag"] == 136_000
     assert any(z["art"] == "geld" and z["jahr"] == 2025 for z in ameer["zeitlinie"]) and any(z["art"] == "posten" for z in ameer["zeitlinie"])
+    assert all(z["quelle"] == "lobbyregister" for z in ameer["zeitlinie"] if z["art"] == "geld")
     kand = yaml.safe_load((tmp_path / "review" / "personen_kandidaten.yaml").read_text(encoding="utf-8"))
     assert "kandidaten" in kand
 
@@ -192,3 +197,120 @@ def test_nur_personen_von_empfaengern_mit_seite(tmp_path):
     idx = json.loads(build_personen(manual, raw, tmp_path / "build", seiten, [], "2026-11-02", modus="alle").read_text(encoding="utf-8"))
     namen = {e["name"] for e in idx["eintraege"]}
     assert "Timo Reinfrank" in namen and "Frieda Fremd" not in namen
+
+
+# ---------------------------------------------------------------- Fix-Pass nach Review (2.11.2026)
+
+def _raw_mit_abdi(tmp_path):
+    raw = tmp_path / "raw"
+    (raw / "lobbyregister").mkdir(parents=True)
+    (raw / "lobbyregister" / "R004511_82516.json").write_text((FIXTURES / "lobby_detail_R004511.json").read_text(encoding="utf-8"), encoding="utf-8")
+    (raw / "bundestag").mkdir()
+    (raw / "bundestag" / "1043330.html").write_text((FIXTURES / "mdb_bio_ausschnitt.html").read_text(encoding="utf-8"), encoding="utf-8")
+    (raw / "bundestag" / "1043330.url").write_text("https://www.bundestag.de/abgeordnete/biografien/A/abdi_sanae-1043330", encoding="utf-8")
+    manual = tmp_path / "manual"
+    manual.mkdir()
+    (manual / "personen.yaml").write_text("zusammenfuehren: []\ntrennen: []\nfreigabe: []\n", encoding="utf-8")
+    (manual / "regierung.yaml").write_text("stand: '2026-11-02'\nmitglieder: []\n", encoding="utf-8")
+    (manual / "ressorts.yaml").write_text((MANUAL / "ressorts.yaml").read_text(encoding="utf-8"), encoding="utf-8")
+    return raw, manual
+
+
+def test_ausgeschiedene_abgeordnete_tragen_ende():
+    # Critical 1: „ist mit Ablauf des 31. August 2025 aus dem Deutschen Bundestag ausgeschieden“ → bis-Datum, keine Gegenwartsaussage
+    html = (FIXTURES / "mdb_bio_ausschnitt.html").read_text(encoding="utf-8").replace(
+        '<h1 class="m-biography__introName">Sanae Abdi</h1>',
+        '<h1 class="m-biography__introName">Sanae Abdi</h1><p>Sanae Abdi hat auf ihre Mitgliedschaft im 21. Deutschen Bundestag verzichtet '
+        'und ist mit Ablauf des 31. August 2025 aus dem Deutschen Bundestag ausgeschieden. <span>Nachfolgerin ist die Abgeordnete X.</span></p>')
+    a = parse_bio(html, "https://www.bundestag.de/abgeordnete/biografien/A/abdi_sanae-1043330", "2026-11-01")
+    assert a.ausgeschieden == "2025-08-31" and a.hinweis and "ausgeschieden" in a.hinweis
+    f = roh_identitaeten([], [a], [])[0].funktionen[0]
+    assert f.bis == "2025-08-31" and f.text.startswith("Mitglied des Bundestages bis 2025-08-31")
+    assert mdb_abdi().ausgeschieden is None and roh_identitaeten([], [mdb_abdi()], [])[0].funktionen[0].bis is None
+
+
+def test_mdb_posten_bei_empfaenger_steht_in_akte(tmp_path):
+    # Important 1: Verbindung abgeordneter_funktion (exakt) der Empfänger-Seite → Organisation der Akte, Quelle bundestag.de
+    raw, manual = _raw_mit_abdi(tmp_path)
+    seiten = _seiten()
+    seiten["amadeu-antonio-stiftung"]["verbindungen"].append({
+        "typ": "abgeordneter_funktion", "person": "Sanae Abdi", "funktion_person": "MdB, SPD", "funktion_beim_empfaenger": "Mitglied des Kuratoriums",
+        "kategorie": "Funktionen in Vereinen, Verbänden und Stiftungen", "abgleich": "exakt",
+        "quellen": [{"kurz": "bundestag.de", "url": "https://www.bundestag.de/abgeordnete/biografien/A/abdi_sanae-1043330", "stand": "2026-11-01"}]})
+    idx = json.loads(build_personen(manual, raw, tmp_path / "build", seiten, [], "2026-11-02").read_text(encoding="utf-8"))
+    by_id = {e["id"]: e for e in idx["eintraege"]}
+    assert by_id["sanae-abdi"]["n_organisationen"] == 1
+    sh = json.loads((tmp_path / "build" / "personen" / f"{by_id['sanae-abdi']['shard']}.json").read_text(encoding="utf-8"))
+    o = sh["sanae-abdi"]["organisationen"][0]
+    assert o["id"] == "amadeu-antonio-stiftung" and o["rolle"] == "abgeordneter_funktion" and o["funktion"] == "Mitglied des Kuratoriums"
+    assert o["quelle"]["kurz"] == "bundestag.de" and o["lobby_untergrenze_bund"] == 3_700_000
+    assert sh["sanae-abdi"]["verbindung"] is True
+
+
+def test_mdb_id_fuehrt_auch_bei_namensvariante_zusammen():
+    # Important 4: „Dr. Johann D. Wadephul“ (Bundestag) und „Dr. Johann Wadephul“ (Kabinett) sind mit mdb_id eine Akte
+    a = dataclasses.replace(mdb_abdi(), name="Dr. Johann D. Wadephul", mdb_id=1047914)
+    breg = Amtstraeger("Dr. Johann Wadephul", "Bundesminister des Auswärtigen", "Auswärtiges Amt", "05", "2025-05-06", None,
+                       "https://www.bundesregierung.de/breg-de/bundesregierung/bundeskabinett/johann-wadephul-2342698", "2026-11-02", 1047914)
+    akten, kandidaten = zusammenfuehren(roh_identitaeten([], [a], [breg]), {}, {})
+    assert len(akten) == 1 and akten[0].mdb_id == 1047914 and {f.art for f in akten[0].funktionen} == {"mdb", "regierung"}
+    assert kandidaten == []
+
+
+def test_manuelles_zusammenfuehren_ueber_namensgrenzen():
+    p2 = profil_mit("Zweite Stiftung", "R009999", [Person("Reinfrank-Schmidt", "Timo", "Vorstand", "gesetzlicher_vertreter", None)])
+    profile = [profil_aas(), p2]
+    roh = roh_identitaeten(profile, [], [])
+    ids = [a.id for a in roh if a.name in ("Timo Reinfrank", "Timo Reinfrank-Schmidt")]
+    assert len(ids) == 2
+    manual = {"zusammenfuehren": [{"ids": ids, "quelle": "https://www.lobbyregister.bundestag.de/suche/R009999/1", "datum": "2026-11-02"}]}
+    akten, _ = zusammenfuehren(roh, {p.nummer: p for p in profile}, manual)
+    treffer = [a for a in akten if a.name.startswith("Timo Reinfrank")]
+    assert len(treffer) == 1 and sorted(treffer[0].lr_nummern) == ["R004511", "R009999"]
+
+
+def test_validate_personen_pflichtfelder():
+    # Important 10
+    assert validate_personen({"zusammenfuehren": [], "trennen": [], "freigabe": []}) == []
+    err = validate_personen({"zusammenfuehren": [{"ids": ["a", "b"]}], "trennen": [{"ids": ["a"], "quelle": "https://x"}],
+                             "freigabe": [{"id": "c", "quelle": "https://q"}]})
+    assert any("quelle" in e for e in err) and any("ids" in e for e in err) and any("geprueft_von" in e for e in err)
+    assert validate_personen(yaml.safe_load((MANUAL / "personen.yaml").read_text(encoding="utf-8"))) == []
+
+
+def test_build_personen_bricht_bei_ungueltiger_pflegedatei_ab(tmp_path):
+    raw, manual = _raw_mit_abdi(tmp_path)
+    (manual / "personen.yaml").write_text("zusammenfuehren:\n  - {ids: [a, b]}\ntrennen: []\nfreigabe: []\n", encoding="utf-8")
+    with pytest.raises(ValueError, match="personen.yaml"):
+        build_personen(manual, raw, tmp_path / "build", _seiten(), [], "2026-11-02")
+
+
+def test_ohne_personen_loescht_alte_akten(tmp_path):
+    # Important 6a: ein Lauf mit --ohne-personen lässt keine Akten aus einem früheren Lauf liegen
+    raw, manual = _raw_mit_abdi(tmp_path)
+    out = tmp_path / "build"
+    build_personen(manual, raw, out, _seiten(), [], "2026-11-02")
+    assert (out / "personen" / "index.json").exists()
+    assert build_personen(manual, raw, out, _seiten(), [], "2026-11-02", mit_personen=False) is None
+    assert not (out / "personen").exists()
+
+
+def test_committed_personen_index_ist_relevant():
+    # Important 6b: das committete Verzeichnis trägt nie den Modus „alle“
+    idx = MANUAL.parent / "build" / "personen" / "index.json"
+    if idx.exists():
+        assert json.loads(idx.read_text(encoding="utf-8"))["modus"] == "relevant"
+
+
+def test_ergaenze_akten_schreibt_parteispenden_auf_die_seite(tmp_path):
+    # Important 9: Spenden erscheinen auch bei der Organisation
+    out = tmp_path / "build"
+    (out / "empfaenger").mkdir(parents=True)
+    s = _seiten()["amadeu-antonio-stiftung"]
+    (out / "empfaenger" / "amadeu-antonio-stiftung.json").write_text(json.dumps(s), encoding="utf-8")
+    sp = Spende(2025, "CSU", 136_000, "Amadeu Antonio Stiftung", "Berlin", "2025-12-23", "2025-12-26", "Drs. 21/4050", "https://d/x.pdf", False)
+    ergaenze_akten(out, {"amadeu-antonio-stiftung": s}, [], {"amadeu-antonio-stiftung": [sp]})
+    neu = json.loads((out / "empfaenger" / "amadeu-antonio-stiftung.json").read_text(encoding="utf-8"))
+    assert neu["parteispenden"][0] == {"partei": "CSU", "betrag": 136_000, "eingang": "2025-12-23", "veroeffentlicht": "2025-12-26", "drucksache": "Drs. 21/4050",
+                                      "drucksache_url": "https://d/x.pdf", "quelle": {"kurz": "bundestag.de", "url": "https://d/x.pdf", "etikett": "amtlich"}}
+    assert "spender_ort" not in json.dumps(neu)

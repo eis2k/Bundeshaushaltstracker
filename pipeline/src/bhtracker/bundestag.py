@@ -26,6 +26,8 @@ KATEGORIE_VORHER = "Berufliche Tätigkeit vor der Mitgliedschaft im Deutschen Bu
 _BIO_HREF = re.compile(r'href="((?:https://www\.bundestag\.de)?/abgeordnete/biografien/[A-Z]/[^"#?]+-(\d+))"')
 _TAG = re.compile(r"<[^>]+>")
 _WS = re.compile(r"\s+")
+_MONATE = {m: i + 1 for i, m in enumerate(("Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"))}
+_AUSGESCHIEDEN = re.compile(r"mit Ablauf des (\d{1,2})\. (Januar|Februar|März|April|Mai|Juni|Juli|August|September|Oktober|November|Dezember) (\d{4}) aus dem Deutschen Bundestag ausgeschieden")
 
 
 def _urlopen_bytes(url: str) -> bytes:
@@ -58,6 +60,7 @@ class Abgeordneter:
     angaben: list[Angabe] = field(default_factory=list)
     stand: str = ""
     hinweis: str | None = None
+    ausgeschieden: str | None = None   # ISO-Datum des Ausscheidens aus dem Bundestag (Biografie-Text), sonst None
 
 
 # ---------------------------------------------------------------- Liste
@@ -148,10 +151,14 @@ def parse_bio(page_html: str, url: str, stand: str) -> Abgeordneter:
             t = _text(label.group(1) if label else a)
             if t and t not in ausschuesse:
                 ausschuesse.append(t)
+    aus = _AUSGESCHIEDEN.search(_text(page_html))
+    ausgeschieden = f"{aus.group(3)}-{_MONATE[aus.group(2)]:02d}-{int(aus.group(1)):02d}" if aus else None
+    hinweise = [f"aus dem Bundestag ausgeschieden mit Ablauf des {ausgeschieden}"] if ausgeschieden else []
     block = _block(page_html, "Veröffentlichungspflichtige Angaben")
     if block is None:
-        return Abgeordneter(name, fraktion, url, mdb_id, ausschuesse, [], stand, "keine veröffentlichungspflichtigen Angaben")
-    return Abgeordneter(name, fraktion, url, mdb_id, ausschuesse, _angaben(block), stand, None)
+        hinweise.append("keine veröffentlichungspflichtigen Angaben")
+    return Abgeordneter(name, fraktion, url, mdb_id, ausschuesse, _angaben(block) if block is not None else [], stand,
+                        "; ".join(hinweise) or None, ausgeschieden)
 
 
 # ---------------------------------------------------------------- Abruf und Ablage

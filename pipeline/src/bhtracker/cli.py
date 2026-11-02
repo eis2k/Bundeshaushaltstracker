@@ -160,6 +160,9 @@ def build_one_year(jahr: int, raw: Path, out: Path, manual: dict, expected: dict
 
 def cmd_build(args: argparse.Namespace) -> int:
     raw, out, manual_dir = Path(args.raw), Path(args.out), Path(args.manual)
+    if getattr(args, "akten", "relevant") == "alle" and out.resolve() == DEFAULT_OUT.resolve():
+        print("build --akten alle: der volle Bestand gehört nicht in das veröffentlichte Verzeichnis; bitte ein eigenes --out angeben.", file=sys.stderr)
+        return 2
     manual = load_manual(manual_dir / "sondervermoegen.yaml")
     exp_all = load_expected(Path(args.summen))
     toleranz = int(exp_all.get("toleranz", 1_000_000))
