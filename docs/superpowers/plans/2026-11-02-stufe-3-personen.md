@@ -42,7 +42,7 @@
   ```python
   JAHR_URL = "https://www.bundestag.de/parlament/praesidium/parteienfinanzierung/fundstellen50000/{jahr}"
   @dataclass class Spende: jahr: int; partei: str; betrag: int; spender: str; spender_ort: str; eingang: str; veroeffentlicht: str; drucksache: str; drucksache_url: str | None; natuerliche_person: bool
-      # spender = erste Zeile des Spender-Felds (Name ohne Adresse); spender_ort = Ortsname aus der letzten Zeile („23627 Groß Grönau“ → „Groß Grönau“); eingang/veroeffentlicht ISO-Datum
+      # spender = erste Zeile des Spender-Felds (Name ohne Adresse); spender_ort = Ortsname aus der letzten Zeile („12345 Musterstadt“ → „Musterstadt“); eingang/veroeffentlicht ISO-Datum
       # natuerliche_person = kein Rechtsformmerkmal (_EIGENNAME aus empfaenger.py) und Name hat ≤ 4 Wörter und beginnt mit Vornamen-Muster (Titel/Vorname Nachname) → True
   def parse_spenden(html: str, jahr: int) -> list[Spende]      # Monatszeilen (eine Zelle) überspringen; Betrag „136.000 Euro“ → 136000
   def fetch_spenden(raw_dir: Path, jahre: list[int], http, pause=1.5) -> list[Path]   # raw_dir/"spenden"/f"{jahr}.html"; laufendes Jahr wird immer neu geladen, abgeschlossene Jahre nur wenn Datei fehlt
@@ -66,15 +66,15 @@ def test_parse_spenden_liest_zeilen_und_laesst_monatszeilen_aus():
 def test_natuerliche_person_erkannt_und_ohne_adresse():
     sp = parse_spenden(fixture_text("spenden_2025_ausschnitt.html"), 2025)
     p = next(x for x in sp if x.partei == "AfD")
-    assert p.natuerliche_person is True and p.spender == "Prof. Dr. Winfried Stöcker"
-    assert "Sonnenberg" not in p.spender and "23627" not in p.spender_ort
+    assert p.natuerliche_person is True and p.spender == "Prof. Dr. Erika Musterfrau"
+    assert "Musterweg" not in p.spender and "12345" not in p.spender_ort
 
 def test_zuordnen_nur_organisationen_exakt():
     sp = parse_spenden(fixture_text("spenden_2025_ausschnitt.html"), 2025)
     normen = {norm_name("Verband der Bayrischen Metall- und Elektro-Industrie e.V. (VBM)"): "vbm"}
     zu, kandidaten = zuordnen(sp, normen)
     assert [s.partei for s in zu["vbm"]] == ["CSU"]
-    assert all(not k.get("natuerliche_person") and "Stöcker" not in k["spender"] for k in kandidaten)
+    assert all(not k.get("natuerliche_person") and "Musterfrau" not in k["spender"] for k in kandidaten)
     assert len(kandidaten) == 2   # die beiden anderen Organisationen ohne Treffer
 
 def test_fetch_spenden_laedt_laufendes_jahr_neu(tmp_path):
