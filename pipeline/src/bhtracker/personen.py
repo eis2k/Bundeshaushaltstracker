@@ -617,4 +617,10 @@ def build_akten_und_netz(manual_dir: Path, raw_dir: Path, out: Path, stand: str,
     ergaenze_akten(out, seiten, akten, zu_spenden)
     knoten, kanten = baue_graph(seiten, akten, zu_spenden, ressorts)
     build_netz(out, knoten, kanten, mit_personen=mit_personen)
-    return {"akten": len(akten), "sichtbar": sichtbar, "knoten": len(knoten), "kanten": len(kanten)}
+    # Porträts und Logos (Spec §4.13): Verweise aus raw/bilder, wenn vorhanden
+    from .bilder import build_bilder  # lokaler Import
+    pi = out / "personen" / "index.json"
+    akten_index = json.loads(pi.read_text(encoding="utf-8"))["eintraege"] if (mit_personen and pi.exists()) else []
+    empf_index = [{"id": sid, "lobbyregister": (s.get("lobbyregister") or {}).get("nummer")} for sid, s in seiten.items()]
+    bilder = build_bilder(manual_dir, raw_dir, out, akten_index, empf_index, stand)
+    return {"akten": len(akten), "sichtbar": sichtbar, "knoten": len(knoten), "kanten": len(kanten), **({"bilder": bilder} if bilder else {})}

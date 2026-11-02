@@ -1,0 +1,6 @@
+# Porträts und Logos (Spec §4.13): feste Zuordnungen und Sperren für data/build/bilder.json.
+# zuordnungen: Akte → Wikidata-Item, wenn der Name mehrdeutig ist (quelle = Beleg, z. B. die Wikidata-Seite oder die Biografie).
+# gesperrt: Akten oder Empfänger, die kein Bild bekommen sollen (grund nennen; z. B. Bild veraltet, Marke beanstandet, Betroffenenwunsch).
+stand: "2026-11-02"
+zuordnungen: []
+gesperrt: []

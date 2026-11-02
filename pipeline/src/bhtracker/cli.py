@@ -252,6 +252,29 @@ def cmd_fetch_personen(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_fetch_bilder(args: argparse.Namespace) -> int:
+    """Lädt Wikidata-Listen (Bundestag, Lobbyregister-IDs), Suchtreffer und Commons-Lizenzdaten nach data/raw/bilder/ (Spec §4.13)."""
+    from . import bilder as bi_mod
+    raw, out = Path(args.raw), Path(args.out)
+    pi = out / "personen" / "index.json"
+    ei = out / "empfaenger" / "index.json"
+    akten = json.loads(pi.read_text(encoding="utf-8"))["eintraege"] if pi.exists() else []
+    empf = json.loads(ei.read_text(encoding="utf-8"))["eintraege"] if ei.exists() else []
+    if not akten and not empf:
+        print("fetch-bilder: erst `bht build` (Personen- und Empfänger-Index fehlen)", file=sys.stderr)
+        return 2
+    erg = bi_mod.fetch_bilder(raw, akten, empf, pause=args.pause)
+    print("bilder:", erg)
+    log = raw / "fetch_log.json"
+    alt = json.loads(log.read_text(encoding="utf-8")) if log.exists() else []
+    if not isinstance(alt, list):
+        alt = [alt]
+    alt.append({"zeit": datetime.now(timezone.utc).isoformat(timespec="seconds"), "kommando": "fetch-bilder", "ergebnis": erg})
+    log.write_text(json.dumps(alt, ensure_ascii=False, indent=1), encoding="utf-8", newline="
+")
+    return 0
+
+
 def cmd_fetch_empfaenger(args: argparse.Namespace) -> int:
     """Lädt Lobbyregister (Gesamtexport), Biografien der Abgeordneten und Förderkatalog-Treffer nach data/raw/."""
     raw, manual_dir = Path(args.raw), Path(args.manual)
@@ -333,6 +356,11 @@ def main(argv: list[str] | None = None) -> int:
     fp.add_argument("--pause", type=float, default=1.5)
     common(fp)
     fp.set_defaults(func=cmd_fetch_personen)
+
+    fb = sub.add_parser("fetch-bilder", help="Porträts und Logos: Wikidata-Verweise und Commons-Lizenzdaten laden")
+    fb.add_argument("--pause", type=float, default=0.5)
+    common(fb)
+    fb.set_defaults(func=cmd_fetch_bilder)
 
     c = sub.add_parser("check", help="nur Summenprüfung eines Jahres")
     c.add_argument("jahr", type=int)
