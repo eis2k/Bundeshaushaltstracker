@@ -1,0 +1,68 @@
+{
+"id": "zu-den-umstellungskosten-aus-der-freigabe-von-frequenzen",
+"name": "zu den Umstellungskosten aus der Freigabe von Frequenzen (\"Digitale Dividende\")",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "12-1202-89422",
+"text": "Zuschüsse zu den Umstellungskosten aus der Freigabe von Frequenzen (\"Digitale Dividende\")",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"werte": {
+"2015": {
+"soll": 1388000,
+"ist": 49158
+}
+}
+},
+{
+"id": "12-1204-89402",
+"text": "Zuschüsse zu den Umstellungskosten aus der Freigabe von Frequenzen (\"Digitale Dividende\")",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"werte": {
+"2016": {
+"soll": 600000,
+"ist": 31828
+},
+"2017": {
+"soll": 300000,
+"ist": 3528
+},
+"2018": {
+"soll": 100000,
+"ist": 3360
+},
+"2019": {
+"soll": 100000,
+"ist": 0
+},
+"2020": {
+"soll": 10000,
+"ist": 588
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

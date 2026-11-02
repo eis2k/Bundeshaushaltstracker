@@ -1,0 +1,64 @@
+{
+"id": "zur-bekaempfung-des-ausbruchs-des-neuen-coronavirus",
+"name": "zur Bekämpfung des Ausbruchs des neuen Coronavirus",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "15-1503-68403",
+"text": "Zuschüsse zur Bekämpfung des Ausbruchs des neuen Coronavirus",
+"epl": "15",
+"epl_text": "Bundesministerium für Gesundheit",
+"werte": {
+"2020": {
+"soll": 9100000000,
+"ist": 6129538790
+},
+"2021": {
+"soll": 4055800000,
+"ist": 941950951
+},
+"2022": {
+"soll": 1897650000,
+"ist": 1898567809
+},
+"2023": {
+"soll": 231446000,
+"ist": 360118057
+},
+"2024": {
+"soll": 15000000,
+"ist": 49878716
+},
+"2025": {
+"soll": 60000000,
+"ist": 37899158
+},
+"2026": {
+"soll": 5400000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

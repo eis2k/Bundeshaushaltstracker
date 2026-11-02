@@ -1,0 +1,92 @@
+{
+"id": "von-forschung",
+"name": "von Forschung",
+"art": "forschung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "06-0601-68622",
+"text": "Förderung von Forschung, Dokumentation und Tagungen sowie Durchführung von Forschungsvorhaben und Transferprojekten auf dem Gebiet der Sportwissenschaft",
+"epl": "06",
+"epl_text": "Bundesministerium des Innern",
+"werte": {
+"2015": {
+"soll": 4799000,
+"ist": 4794335
+},
+"2016": {
+"soll": 7639000,
+"ist": 7572559
+},
+"2017": {
+"soll": 5049000,
+"ist": 5083329
+},
+"2018": {
+"soll": 5849000,
+"ist": 5323733
+},
+"2019": {
+"soll": 5769000,
+"ist": 5794073
+},
+"2020": {
+"soll": 6684000,
+"ist": 5900622
+},
+"2021": {
+"soll": 6834000,
+"ist": 6031231
+},
+"2022": {
+"soll": 6434000,
+"ist": 6111920
+},
+"2023": {
+"soll": 6384000,
+"ist": 6296908
+},
+"2024": {
+"soll": 6384000,
+"ist": 6385123
+},
+"2025": {
+"soll": 6534000,
+"ist": 5304892
+}
+}
+},
+{
+"id": "04-0417-68601",
+"text": "Förderung von Forschung, Dokumentation und Tagungen sowie Durchführung von Forschungsvorhaben und Transferprojekten auf dem Gebiet der Sportwissenschaft",
+"epl": "04",
+"epl_text": "Bundeskanzler und Bundeskanzleramt",
+"werte": {
+"2026": {
+"soll": 6534000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

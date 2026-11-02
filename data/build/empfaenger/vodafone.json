@@ -45,7 +45,38 @@
 }
 ],
 "lobby_untergrenze_bund": 300003,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "13N17611",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Erhöhung der Resilienz kritischer Infrastrukturen am Beispiel von Mobilfunk-angebundenen medizinischen Geräten (RESMEDTEC) - Teilvorhaben: Compliance-getriebene Netzresilienz für medizinische Anwendungen",
+"von": "2025-12-01",
+"bis": "2028-11-30",
+"summe": 245325.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01FV2071E",
+"ressort": "BMV",
+"epl": "12",
+"thema": "Verbundprojekt: Integration von Lufttaxis in operative Verkehrsprozesse an Flughäfen - INTEGRAL-TX -, Teilvorhaben: Vodafone GmbH",
+"von": "2024-12-01",
+"bis": "2027-05-31",
+"summe": 323768.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS2459",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Patient Adaptive Telemedicine and Healthcare through Connectivity and Real-time Engagement - PATHCARE -",
+"von": "2026-03-01",
+"bis": "2029-02-28",
+"summe": 84403.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Marcel de Groot",
@@ -337,6 +368,11 @@
 "stand": "2026-10-22",
 "etikett": "Eigenangabe",
 "version": 37
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

@@ -1,0 +1,92 @@
+{
+"id": "zu-investitionen",
+"name": "zu Investitionen",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "04-0405-89412",
+"text": "Zuschüsse zu Investitionen",
+"epl": "04",
+"epl_text": "Bundeskanzlerin und Bundeskanzleramt",
+"werte": {
+"2015": {
+"soll": 9240000,
+"ist": 2240000
+}
+}
+},
+{
+"id": "04-0452-89412",
+"text": "Zuschüsse zu Investitionen",
+"epl": "04",
+"epl_text": "Bundeskanzler und Bundeskanzleramt",
+"werte": {
+"2016": {
+"soll": 1893000,
+"ist": 409200
+},
+"2017": {
+"soll": 893000,
+"ist": 893000
+},
+"2018": {
+"soll": 2793000,
+"ist": 2793000
+},
+"2019": {
+"soll": 4893000,
+"ist": 6376800
+},
+"2020": {
+"soll": 1393000,
+"ist": 1393000
+},
+"2021": {
+"soll": 2683000,
+"ist": 2683000
+},
+"2022": {
+"soll": 393000,
+"ist": 393000
+},
+"2023": {
+"soll": 393000,
+"ist": 393000
+},
+"2024": {
+"soll": 393000,
+"ist": 393000
+},
+"2025": {
+"soll": 393000,
+"ist": 393000
+},
+"2026": {
+"soll": 393000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

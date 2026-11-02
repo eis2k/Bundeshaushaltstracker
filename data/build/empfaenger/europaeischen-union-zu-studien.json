@@ -1,0 +1,92 @@
+{
+"id": "europaeischen-union-zu-studien",
+"name": "Europäischen Union zu Studien",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "12-1202-53219",
+"text": "Zuschüsse der Europäischen Union zu Studien, Untersuchungen und sonstigen FuE-Maßnahmen sowie Verkehrstelematik für Transeuropäische Verkehrsnetze",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"werte": {
+"2015": {
+"soll": 0,
+"ist": 68447
+}
+}
+},
+{
+"id": "12-1210-53219",
+"text": "Zuschüsse der Europäischen Union zu Studien, Untersuchungen und für Technische Hilfe zur Realisierung der Transeuropäischen Verkehrsnetze",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr",
+"werte": {
+"2016": {
+"soll": 0,
+"ist": 58029
+},
+"2017": {
+"soll": 0,
+"ist": 157998
+},
+"2018": {
+"soll": 0,
+"ist": 263043
+},
+"2019": {
+"soll": 0,
+"ist": 315069
+},
+"2020": {
+"soll": 0,
+"ist": 304727
+},
+"2021": {
+"soll": 0,
+"ist": 293434
+},
+"2022": {
+"soll": 0,
+"ist": 68971
+},
+"2023": {
+"soll": 0,
+"ist": 48564
+},
+"2024": {
+"soll": 0,
+"ist": 327079
+},
+"2025": {
+"soll": 0,
+"ist": 207918
+},
+"2026": {
+"soll": 0,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

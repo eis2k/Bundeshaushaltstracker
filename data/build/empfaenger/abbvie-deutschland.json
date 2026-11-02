@@ -29,7 +29,28 @@
 }
 ],
 "lobby_untergrenze_bund": 40001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03ZU2109AB",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "PROXIDRUGS: Erweiterte Assay- und Screening-Plattform zur Identifizierung und Charakterisierung von Proxidrugs (ProxiDETECT) - B",
+"von": "2025-01-01",
+"bis": "2027-12-31",
+"summe": 140000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ZU2109GD",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "PROXIDRUGS: Zielgerichtetes Delivery von PROXIDRUGS im menschlichen Körper (BioDEL) - D",
+"von": "2025-01-01",
+"bis": "2027-12-31",
+"summe": 32160.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Thibault Massart",
@@ -200,6 +221,11 @@
 "stand": "2026-07-07",
 "etikett": "Eigenangabe",
 "version": 20
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

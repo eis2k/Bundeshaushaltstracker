@@ -1,0 +1,56 @@
+{
+"id": "investitionen-im-rahmen-des-programms",
+"name": "Investitionen im Rahmen des Programms",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "09-0903-89121",
+"text": "Zuschüsse für Investitionen im Rahmen des Programms zur energetischen Gebäudesanierung \"CO2-Gebäudesanierungsprogramm\" der KfW-Bankengruppe - Abwicklung",
+"epl": "09",
+"epl_text": "Bundesministerium für Wirtschaft und Energie",
+"werte": {
+"2015": {
+"soll": 5000000,
+"ist": 1767169
+},
+"2016": {
+"soll": 2000000,
+"ist": 408422
+},
+"2017": {
+"soll": 0,
+"ist": 0
+},
+"2018": {
+"soll": 0,
+"ist": 0
+},
+"2019": {
+"soll": 0,
+"ist": 0
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

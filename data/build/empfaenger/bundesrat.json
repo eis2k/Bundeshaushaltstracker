@@ -1,0 +1,100 @@
+{
+"id": "bundesrat",
+"name": "Bundesrat",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "16-1607-73101",
+"text": "Baumaßnahmen für den Bundesrat",
+"epl": "16",
+"epl_text": "Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit",
+"werte": {
+"2015": {
+"soll": 10000000,
+"ist": 0
+},
+"2016": {
+"soll": 7000000,
+"ist": 1217452
+},
+"2017": {
+"soll": 8300000,
+"ist": 6222325
+}
+}
+},
+{
+"id": "06-0605-73101",
+"text": "Baumaßnahmen für den Bundesrat",
+"epl": "06",
+"epl_text": "Bundesministerium des Innern, für Bau und Heimat",
+"werte": {
+"2018": {
+"soll": 8679000,
+"ist": 5363923
+},
+"2019": {
+"soll": 2240000,
+"ist": 6975183
+},
+"2020": {
+"soll": 17094000,
+"ist": 8066158
+},
+"2021": {
+"soll": 6000000,
+"ist": 8133277
+}
+}
+},
+{
+"id": "25-2503-73101",
+"text": "Baumaßnahmen für den Bundesrat",
+"epl": "25",
+"epl_text": "Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+"werte": {
+"2022": {
+"soll": 1000000,
+"ist": 6241833
+},
+"2023": {
+"soll": 1923000,
+"ist": 5173391
+},
+"2024": {
+"soll": 0,
+"ist": 1286303
+},
+"2025": {
+"soll": 4500000,
+"ist": 991216
+},
+"2026": {
+"soll": 0,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

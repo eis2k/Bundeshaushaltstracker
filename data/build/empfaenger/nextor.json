@@ -29,7 +29,18 @@
 }
 ],
 "lobby_untergrenze_bund": 30001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03RU3U02I",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "RUBIN - Medi.NET - Medizingeräteplattform für offen vernetzte zentrale Arbeitsstationen in OP und Klinik nach ISO IEEE 11073 SDC, TP9: Plattform & Tools",
+"von": "2024-03-01",
+"bis": "2027-02-28",
+"summe": 149148.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Marcus Goerke",
@@ -91,6 +102,11 @@
 "stand": "2026-05-04",
 "etikett": "Eigenangabe",
 "version": 6
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

@@ -1,0 +1,144 @@
+{
+"id": "national-bedeutsame-kulturinvestitionen",
+"name": "national bedeutsame Kulturinvestitionen",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "04-0405-89410",
+"text": "Zuschüsse für national bedeutsame Kulturinvestitionen",
+"epl": "04",
+"epl_text": "Bundeskanzlerin und Bundeskanzleramt",
+"werte": {
+"2015": {
+"soll": 0,
+"ist": 0
+}
+}
+},
+{
+"id": "04-0452-89418",
+"text": "Zuschüsse für national bedeutsame Kulturinvestitionen zur Sanierung und Modernisierung von Orgeln",
+"epl": "04",
+"epl_text": "Bundeskanzler und Bundeskanzleramt",
+"werte": {
+"2016": {
+"soll": 5000000,
+"ist": 5000000
+},
+"2017": {
+"soll": 4780000,
+"ist": 4806750
+},
+"2018": {
+"soll": 0,
+"ist": 0
+},
+"2019": {
+"soll": 0,
+"ist": 0
+},
+"2020": {
+"soll": 0,
+"ist": 0
+},
+"2021": {
+"soll": 0,
+"ist": 0
+},
+"2022": {
+"soll": 0,
+"ist": 0
+},
+"2023": {
+"soll": 0,
+"ist": 0
+},
+"2024": {
+"soll": 0,
+"ist": 0
+},
+"2025": {
+"soll": 0,
+"ist": 0
+},
+"2026": {
+"soll": 0,
+"ist": null
+}
+}
+},
+{
+"id": "04-0452-89410",
+"text": "Zuschüsse für national bedeutsame Kulturinvestitionen",
+"epl": "04",
+"epl_text": "Bundeskanzler und Bundeskanzleramt",
+"werte": {
+"2016": {
+"soll": 0,
+"ist": 0
+},
+"2017": {
+"soll": 0,
+"ist": 0
+},
+"2018": {
+"soll": 2500000,
+"ist": 0
+},
+"2019": {
+"soll": 0,
+"ist": 0
+},
+"2020": {
+"soll": 500000,
+"ist": 3000000
+},
+"2021": {
+"soll": 0,
+"ist": 0
+},
+"2022": {
+"soll": 2500000,
+"ist": 1267500
+},
+"2023": {
+"soll": 4500000,
+"ist": 5732500
+},
+"2024": {
+"soll": 5000000,
+"ist": 5000000
+},
+"2025": {
+"soll": 5000000,
+"ist": 5000000
+},
+"2026": {
+"soll": 9500000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

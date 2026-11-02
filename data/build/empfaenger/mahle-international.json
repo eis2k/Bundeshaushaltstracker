@@ -53,7 +53,38 @@
 }
 ],
 "lobby_untergrenze_bund": 1430004,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EN5037A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: MUSCL-Degradations-optimierter Betrieb von Multi-Brennstoffzellensystemen im Schwerlastverkehr, Teilvorhaben: Lasthistogramme für BoP Komponenten für lebensdaueroptimale Betriebsstrategie",
+"von": "2024-01-01",
+"bis": "2026-12-31",
+"summe": 526407.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0531",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Fortschrittliche Material- und Integrationstechnologien für GaN-Leistungselektronik im Automobil - HiPower 5.0 -",
+"von": "2025-08-01",
+"bis": "2028-06-30",
+"summe": 70829.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01MV23019F",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: ChaNGe - Ready for the future: Inductive Charging - Next Generation, Teilvorhaben: Konzeptionierung und Automatisierung interoperabler, bidirektionaler Fahrzeugeinheiten, Standardisierung und Validierung induktiver Ladesysteme",
+"von": "2023-10-01",
+"bis": "2026-06-30",
+"summe": 1357147.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Arnd Franz",
@@ -170,6 +201,11 @@
 "stand": "2026-10-12",
 "etikett": "Eigenangabe",
 "version": 41
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

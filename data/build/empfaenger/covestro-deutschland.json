@@ -149,7 +149,128 @@
 }
 ],
 "lobby_untergrenze_bund": 2120016,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03XP0610A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "DISCO2VERY - Materialien für die industrielle CO2-Verwertung - vom Elektrokatalysator zur nachhaltigen Elektrode",
+"von": "2024-07-01",
+"bis": "2027-06-30",
+"summe": 177530.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "031B1272",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "BioKreativ 1 - NEnzy: Enzymkatalyse für die Kreislaufwirtschaft in der Kunststoffindustrie",
+"von": "2022-08-01",
+"bis": "2027-07-31",
+"summe": 2514191.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "02WEN1811B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "WENex - Verbundprojekt WENCI: Wasser und Energie für eine Nachhaltige Chemische Industrie, Teilprojekt 2",
+"von": "2026-07-01",
+"bis": "2029-06-30",
+"summe": 482500.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN4098C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: Mistral - Methodik für integrierte, standortweite Transformationskonzepte industrieller Liegenschaften, Teilvorhaben: Möglichkeiten zur energieeffizienten Intensivierung der Wasserstoffnutzung",
+"von": "2025-04-01",
+"bis": "2028-03-31",
+"summe": 275158.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN2133B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: LO2CAL - Lebensdauererhöhung der Sauerstoffverzehrkathode für den technischen Einsatz in der Chlor-Alkali-Elektrolyse, Teilvorhaben: GDE-Entwicklung",
+"von": "2025-02-01",
+"bis": "2028-01-31",
+"summe": 562081.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01LJ2503A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt KlimPro: Reduzierung der Prozessemissionen der Phenolherstellung durch Nutzung alternativer Kohlenstoffquellen durch Pyrolyse (RePPPy) - Teilprojekt 1: Pyrolyse im Labor- und Technikumsmaßstab und Conceptual Design für Downstream-Prozess",
+"von": "2025-12-01",
+"bis": "2028-11-30",
+"summe": 346406.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01LJ2601A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt KlimPro: CO2-arme BTEX-Produktion durch autokatalytisches chemisches Recycling von Schredderleichtfraktion (CARBEX) - Teilprojekt 1: Produktaufbereitung, Produktvalidierung und techno-ökonomische Bewertung",
+"von": "2026-09-01",
+"bis": "2029-08-31",
+"summe": 129036.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13MX010C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Aufbau eines Datenraums der chemischen Industrie sowie Schnittstellen der mit ihr verbundener Wertschöpfungsketten am Beispiel des digitalen Produkt Passes (Chem-X) - Teilvorhaben: Digitales Management von Materialinformationen für die Kreislaufwirtschaft",
+"von": "2024-12-01",
+"bis": "2026-11-30",
+"summe": 482126.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N124234A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Quantenalgorithmen für chemische Grundzustandseigenschaften ohne den Grundzustand zu präparieren (NOGS) - Teilvorhaben: Fermionische MPS als Startpunkt für Quantenalgorithmen",
+"von": "2025-01-01",
+"bis": "2027-12-31",
+"summe": 880800.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N124225B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Programmable Atomic Large-Scale Logical Quantum Operations (PASQUOPS) - Teilvorhaben: Industrielle Algorithmen mit wenigen Quantenoperationen",
+"von": "2025-08-01",
+"bis": "2028-07-31",
+"summe": 304090.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "02J25C011",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Systemische Gestaltung von Kreislaufökosystemen in der Automobilindustrie zur Optimierung der End-of-Life-Wertschöpfung von Licht- und Elektronikprodukten (KOLLEKT), Teilprojekt: Erforschung von Closed-Loop-Optionen für Polycarbonate für lichttechnische und elektronische Produkte",
+"von": "2026-06-01",
+"bis": "2029-05-31",
+"summe": 279222.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SF0775D",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben PHOENIX: Launch Space Power-to-X, Teilvorhaben: GDE-Optimierung",
+"von": "2024-12-15",
+"bis": "2028-11-14",
+"summe": 269431.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Markus Steilemann",
@@ -299,6 +420,11 @@
 "stand": "2026-10-14",
 "etikett": "Eigenangabe",
 "version": 51
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

@@ -1,0 +1,68 @@
+{
+"id": "zur-foerderung-alternativer-antriebe-im-schienenverkehr",
+"name": "zur Förderung alternativer Antriebe im Schienenverkehr",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "12-1210-89201",
+"text": "Zuschüsse zur Förderung alternativer Antriebe im Schienenverkehr",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"werte": {
+"2019": {
+"soll": 13900000,
+"ist": 600000
+},
+"2020": {
+"soll": 12600000,
+"ist": 2230378
+}
+}
+},
+{
+"id": "60-6092-89206",
+"text": "Zuschüsse zur Förderung alternativer Antriebe im Schienenverkehr",
+"epl": "60",
+"epl_text": "Allgemeine Finanzverwaltung",
+"werte": {
+"2023": {
+"soll": 65000000,
+"ist": null
+},
+"2024": {
+"soll": 88820000,
+"ist": null
+},
+"2025": {
+"soll": 63169000,
+"ist": 14439361
+},
+"2026": {
+"soll": 72281000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

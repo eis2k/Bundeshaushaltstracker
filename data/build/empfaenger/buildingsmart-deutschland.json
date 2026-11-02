@@ -37,7 +37,18 @@
 }
 ],
 "lobby_untergrenze_bund": 340002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "13IPC038ZN",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Digitale vertrauensvolle Zusammenarbeit in temporären Wertschöpfungsnetzwerken der Bauwirtschaft und des Industrie- und Anlagenbaus (Construct-X) - Teilvorhaben: Vernetzung und Transfer zur Kommunikation in die Wertschöpfungskette Bau sowie Entwicklung und Aufbau einer Merkmalbibliothek",
+"von": "2025-03-01",
+"bis": "2028-02-29",
+"summe": 997470.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Cornelius Preidel",
@@ -221,6 +232,11 @@
 "stand": "2026-07-08",
 "etikett": "Eigenangabe",
 "version": 14
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

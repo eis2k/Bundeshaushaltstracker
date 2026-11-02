@@ -37,7 +37,38 @@
 }
 ],
 "lobby_untergrenze_bund": 40002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "13MX001Q",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Aufbau eines Datenraums für die ausrüstende Industrie - die Ausrüster von Fabriken weltweit (Factory-X) - Teilvorhaben: Industrie 4.0 Datenlogistik im Lifecycle für Produktivsystemen (I40DaLiPro).",
+"von": "2024-02-01",
+"bis": "2026-06-30",
+"summe": 459036.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI6091K",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: HybSchaDC - Ultraschneller und intelligenter rein elektronischer und hybrider LVDC-Schalter mit sicherer Trennung, Teilvorhaben: Smarte DC-Schaltgeräte für industrielle Gleichstrom-Netze",
+"von": "2025-07-01",
+"bis": "2026-01-31",
+"summe": 122040.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI6152C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: HybSchaDC2 - Elektronikbasierte Schalt- und Schutzsys-teme mit Sensorik und intelligenter Steuerung für DC-Netze, Teilvorhaben: Elektronikbasierte Schalt- und Schutzsysteme mit Sensorik und intelligenter Steuerung für DC-Netze",
+"von": "2026-02-01",
+"bis": "2029-01-31",
+"summe": 581908.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Frank Stührenberg",
@@ -153,6 +184,11 @@
 "stand": "2025-07-02",
 "etikett": "Eigenangabe",
 "version": 7
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

@@ -61,7 +61,18 @@
 }
 ],
 "lobby_untergrenze_bund": 59360005,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "16RK14009C",
+"ressort": "BMV",
+"epl": "12",
+"thema": "Verbundprojekt: Sustainable Aviation Fuels based on Advanced Reaction and Process Intensification (SAFari)",
+"von": "2022-12-01",
+"bis": "2028-11-30",
+"summe": 241473.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Patrick Wendeler",
@@ -199,6 +210,11 @@
 "stand": "2026-10-22",
 "etikett": "Eigenangabe",
 "version": 39
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

@@ -1,0 +1,56 @@
+{
+"id": "unternehmen-und-start-ups-fuer-die-entwicklung-und-den-bau-v",
+"name": "Unternehmen und Start-Ups für die Entwicklung und den Bau von Microlaunchern für Satelliten",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "12-1205-68301",
+"text": "Zuschüsse an Unternehmen und Start-Ups für die Entwicklung und den Bau von Microlaunchern für Satelliten",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr",
+"werte": {
+"2024": {
+"soll": 1000000,
+"ist": 0
+},
+"2025": {
+"soll": 1000000,
+"ist": 916415
+}
+}
+},
+{
+"id": "30-3009-68392",
+"text": "Zuschüsse an Unternehmen und Start-Ups für die Entwicklung und den Bau von Microlaunchern für Satelliten",
+"epl": "30",
+"epl_text": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"werte": {
+"2026": {
+"soll": 0,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

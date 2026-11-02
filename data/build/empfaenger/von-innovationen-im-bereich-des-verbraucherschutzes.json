@@ -1,0 +1,120 @@
+{
+"id": "von-innovationen-im-bereich-des-verbraucherschutzes",
+"name": "von Innovationen im Bereich des Verbraucherschutzes",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "07-0701-68601",
+"text": "Förderung von Innovationen im Bereich des Verbraucherschutzes",
+"epl": "07",
+"epl_text": "Bundesministerium der Justiz und für Verbraucherschutz",
+"werte": {
+"2015": {
+"soll": 1561000,
+"ist": 420570
+},
+"2016": {
+"soll": 1061000,
+"ist": 607555
+},
+"2017": {
+"soll": 1411000,
+"ist": 1013395
+},
+"2018": {
+"soll": 1561000,
+"ist": 1094135
+},
+"2019": {
+"soll": 1561000,
+"ist": 1113918
+},
+"2020": {
+"soll": 4561000,
+"ist": 2388153
+},
+"2021": {
+"soll": 5061000,
+"ist": 3596536
+}
+}
+},
+{
+"id": "16-1608-68601",
+"text": "Förderung von Innovationen im Bereich des Verbraucherschutzes",
+"epl": "16",
+"epl_text": "Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+"werte": {
+"2022": {
+"soll": 3561000,
+"ist": 2992957
+},
+"2023": {
+"soll": 1711000,
+"ist": 1248438
+}
+}
+},
+{
+"id": "16-1608-68501",
+"text": "Förderung von Innovationen im Bereich des Verbraucherschutzes",
+"epl": "16",
+"epl_text": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+"werte": {
+"2024": {
+"soll": 1861000,
+"ist": 478990
+},
+"2025": {
+"soll": 1781000,
+"ist": 950457
+}
+}
+},
+{
+"id": "07-0701-68501",
+"text": "Förderung von Innovationen im Bereich des Verbraucherschutzes",
+"epl": "07",
+"epl_text": "Bundesministerium der Justiz und für Verbraucherschutz",
+"werte": {
+"2015": {
+"soll": 225000,
+"ist": 224648
+},
+"2016": {
+"soll": 0,
+"ist": 0
+},
+"2017": {
+"soll": 0,
+"ist": 0
+},
+"2026": {
+"soll": 1485000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

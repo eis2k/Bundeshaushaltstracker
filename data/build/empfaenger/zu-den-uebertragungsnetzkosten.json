@@ -1,0 +1,40 @@
+{
+"id": "zu-den-uebertragungsnetzkosten",
+"name": "zu den Übertragungsnetzkosten",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "60-6092-68309",
+"text": "Zuschuss zu den Übertragungsnetzkosten",
+"epl": "60",
+"epl_text": "Allgemeine Finanzverwaltung",
+"werte": {
+"2026": {
+"soll": 6500000000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

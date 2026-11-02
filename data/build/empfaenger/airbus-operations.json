@@ -29,7 +29,368 @@
 }
 ],
 "lobby_untergrenze_bund": 23750001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "20X2206A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Entwicklung von innovativen, digital gestützten und klimaschonenden Technologiekonzepten zum Fügen von überlappungsfreien Längs- und einseitig zugänglichen Querstößen bei der Rumpfmontage",
+"von": "2023-08-01",
+"bis": "2027-07-31",
+"summe": 3081450.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20A2202A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Hochleistungsversuche im Windkanal mit hochgestreckten, biegeweichen Flügelkonfigurationen bei flugrelevanten Reynoldszahlen mit Hilfe von Faserverbundmodellen",
+"von": "2024-06-01",
+"bis": "2027-08-31",
+"summe": 1199700.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20W2201A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Grüne Flugzeugrumpfentwicklung mit klimabeeinflussenden Technologien",
+"von": "2023-09-01",
+"bis": "2028-08-31",
+"summe": 1256509.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20K2203A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Optimierung von Kabine und Fracht durch gewichtseffiziente Kabinensysteme und Recycling von Komponenten unter dem Paradigma der zeiteffizienten Technologieeinführung",
+"von": "2023-10-01",
+"bis": "2026-12-31",
+"summe": 5520600.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20Y2202A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Datenplattform für Klimaneutrales Fliegen",
+"von": "2023-08-01",
+"bis": "2026-12-31",
+"summe": 1700000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20W2212A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Materialien, Prozesse und Prüfmethoden für kryogene Wasserstofftanksysteme in Metallbauweise",
+"von": "2023-06-01",
+"bis": "2026-12-31",
+"summe": 1322250.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20A2201A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Entwicklung eines klimaoptimierten Flugzeugs mit hochgestreckten und multifunktionalen Flügeln",
+"von": "2023-10-01",
+"bis": "2027-05-31",
+"summe": 3363000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20W2214A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Simulations- und testbasierte Nachweisführung von Kryoklebeverbindungen und Entwicklung von Füge- und Montage-Prozessen zur Herstellung eines CFK-LH2-Tanks für das emissionsfreie Fliegen",
+"von": "2023-04-01",
+"bis": "2026-10-31",
+"summe": 1051000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20W2202A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "GRüne Entwicklung schlAnker, emissionsarmer MeTallklEbepRozesse",
+"von": "2023-10-01",
+"bis": "2026-03-31",
+"summe": 283400.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20W2203A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Effiziente und nachhaltige Rumpfschalen aus thermoplastischem Faserverbundwerkstoff",
+"von": "2023-11-01",
+"bis": "2026-12-31",
+"summe": 999900.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03LB1013F",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: AMDECA - Additive Fertigung zur Unterstützung der Dekarbonisierung von Energiewandlungssystemen, Teilvorhaben: Additive Fertigung für die Luftfahrt",
+"von": "2023-08-01",
+"bis": "2026-10-31",
+"summe": 326468.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13IPC009",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "'AXIS - Aero Concept for Cloud Information Services': Validierung von innovativen cloud-Services für eine globale Luftfahrtdaten Plattform für die Verbesserung des Passagiererlebnisses, des Ende-zu-Ende Reiseerlebnisses sowie der Nutzung Flugzeugen als 'Flying Edge Device'",
+"von": "2023-08-01",
+"bis": "2026-09-30",
+"summe": 1698464.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13MX004A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Ecosystem for an efficient and sustainable Aerospace Supply Chain (Aerospace-X) - Teilvorhaben: Transparenz und datenbasierte Wertschöpfung entlang der Lieferkette der Luft- und Raumfahrtindustrie",
+"von": "2024-04-01",
+"bis": "2026-09-30",
+"summe": 4225688.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE1104",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Chiplets für modulare Leistungselektroniksysteme - Moore4Power -",
+"von": "2026-05-01",
+"bis": "2029-04-30",
+"summe": 71985.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20A2103A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verifikation Multifunktionaler Steuerflächen für Hinterkanten hochgestreckter Flügel",
+"von": "2021-10-01",
+"bis": "2026-03-31",
+"summe": 2299650.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20A2101A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Innovativer Entwurf von ultra-hocheffizienten Laminarflügeln für zukünftige Flugzeuge",
+"von": "2022-01-01",
+"bis": "2026-12-31",
+"summe": 1986100.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20W2106A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Entwicklung von Technologiebausteinen für Rumpfstrukturen zukünftiger emissionsfreier Flugzeuge",
+"von": "2022-11-01",
+"bis": "2026-12-31",
+"summe": 1499600.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20Y2108A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Entwicklung von leistungsoptimierten und autonomiefähigen Türsystemen für die zukünftigen Neuentwicklungen von Verkehrsflugzeugen",
+"von": "2022-11-01",
+"bis": "2026-10-31",
+"summe": 2255950.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20M2113A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Industrielle Technologien und Prozesse für Zero Emission Aircraft",
+"von": "2022-09-01",
+"bis": "2026-02-28",
+"summe": 2500200.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20K2402A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Vibroakkustisches Passagiererlebnis",
+"von": "2025-07-01",
+"bis": "2028-09-30",
+"summe": 982750.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20Y2401A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Elektrohydraulische Systeme für umweltfreundliche Flugzeuge künftiger Generationen",
+"von": "2025-10-01",
+"bis": "2028-12-31",
+"summe": 1199600.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20D2401A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Zertifizierbare KI-Anwendungen in Luftfahrt-Produktionssystemen",
+"von": "2025-12-01",
+"bis": "2029-05-31",
+"summe": 2099950.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20W2401A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Entwicklung stark gekrümmter CFK-Strukturen und dessen Fertigungstechnologien für zukünftige Auftriebskomponenten",
+"von": "2025-09-01",
+"bis": "2028-11-30",
+"summe": 2100050.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20A2401A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "UltraEffiziente Flugzeugintegration basierend auf Spitzentechnologie & -fähigkeiten",
+"von": "2026-06-01",
+"bis": "2029-11-30",
+"summe": 1726400.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20W2405A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Entwicklung hochratenfähiger, gewichtssparender und nachhaltiger Hinterbaustrukturen für zukünftige Flugzeuggenerationen",
+"von": "2025-07-01",
+"bis": "2028-09-30",
+"summe": 3499900.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20W2410A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Entwicklung hochratenfähiger, gewichtssparender und nachhaltiger stringerversteifter Hautpaneele für CFK-Rümpfe zukünftiger Flugzeuggenerationen",
+"von": "2025-11-01",
+"bis": "2029-01-31",
+"summe": 2399850.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20W2407A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Entwicklung einer nachhaltigen, kosteneffizienten und hochratenfähigen Fügetechnologie von CFK-Bauteilen zu einer integrierten Rumpf-Schale mit Versteifungsstrukturen für zukünftige Flugzeuggenerationen",
+"von": "2026-07-01",
+"bis": "2029-09-30",
+"summe": 3300050.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20W2402A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Hochratenfähige, effiziente Leichtbau-Rumpfschalen, neuartige Designprinzipien und Technologiebausteine, integral optimiert und validiert für schadenstolerante, nietfreie, strukturelle Fügetechnologien",
+"von": "2025-07-01",
+"bis": "2028-09-30",
+"summe": 1195300.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20M2240A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Entwicklung von Basis und effizienzoptimierten Architekturen für emissionsfreie Flugzeuge",
+"von": "2024-05-01",
+"bis": "2027-04-30",
+"summe": 2036205.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20M2241A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Entwicklung und Verifizierung von Installationen zur Wasserstoffverteilung in Flugzeugen",
+"von": "2023-05-01",
+"bis": "2027-03-31",
+"summe": 7947500.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20M2219A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Entwicklung eines industrialisierbaren Konzeptes für Fertigungs- und Montageprozesse für Komponenten und Baugruppen eines Brennstoffzellensystems",
+"von": "2023-04-01",
+"bis": "2026-09-30",
+"summe": 5510715.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20M2236A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Entwicklung, fertigungstechnische Nachweisführung und Tests kryogener Wasserstofftanks in Composite-Bauweise für emissionsfreie Passagierflugzeuge bei Airbus",
+"von": "2023-07-01",
+"bis": "2027-03-31",
+"summe": 1808100.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20M2106A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Entwicklung eines sicheren Systems zur Konditionierung von Flüssigwasserstoff für die Direktverbrennung in einer Turbine",
+"von": "2022-10-01",
+"bis": "2026-12-31",
+"summe": 4251400.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20M2407A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Physische und digitale Prozesskette für qualitätsgesicherte LH2-Speichersysteme",
+"von": "2026-07-01",
+"bis": "2029-06-30",
+"summe": 3170800.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20M2419A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Entwicklung eines LT-PEM-Brennstoffzellensystems der nächsten Generation für wasserstoffbetriebene Kurzstreckenflugzeuge",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 3550450.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20M2452A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Optimierte Metall-Technologien für nachhaltige Füge- und Oberflächentechnikprozesse für Wasserstoffspeichersysteme",
+"von": "2026-07-01",
+"bis": "2029-06-30",
+"summe": 792800.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Sebastian Peters",
@@ -223,6 +584,11 @@
 "stand": "2026-07-01",
 "etikett": "Eigenangabe",
 "version": 21
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

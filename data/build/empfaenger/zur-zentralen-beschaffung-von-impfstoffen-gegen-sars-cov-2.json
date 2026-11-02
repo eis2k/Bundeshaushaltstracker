@@ -1,0 +1,60 @@
+{
+"id": "zur-zentralen-beschaffung-von-impfstoffen-gegen-sars-cov-2",
+"name": "zur zentralen Beschaffung von Impfstoffen gegen SARS-CoV-2",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "15-1503-68407",
+"text": "Zuschüsse zur zentralen Beschaffung von Impfstoffen gegen SARS-CoV-2",
+"epl": "15",
+"epl_text": "Bundesministerium für Gesundheit",
+"werte": {
+"2021": {
+"soll": 8887400000,
+"ist": 3872519409
+},
+"2022": {
+"soll": 7089566000,
+"ist": 6694113588
+},
+"2023": {
+"soll": 3024393000,
+"ist": 1189864414
+},
+"2024": {
+"soll": 346227000,
+"ist": 449965119
+},
+"2025": {
+"soll": 427418000,
+"ist": 395811581
+},
+"2026": {
+"soll": 59065000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

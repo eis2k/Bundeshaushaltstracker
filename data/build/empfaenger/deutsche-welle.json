@@ -78,7 +78,68 @@
 },
 "lobby_zuwendungen": [],
 "lobby_untergrenze_bund": 0,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03FHP233H",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "PePatH-BRS - Zukunftsweisende Personalgewinnung und -entwicklung für professorales Personal an der H-BRS, Teilvorhaben Deutsche Welle",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 115057.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03RU2U151G",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "RUBIN - news-polygraph - Verbundvorhaben: MOVERA - Multimodal Orchestration for Media-Content Verification, TP7: AVAIL - AI Driven VerificAtion for Investigative JournaLism",
+"von": "2023-05-01",
+"bis": "2026-04-30",
+"summe": 573876.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS2469",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Personenzentrierte, Audio-/Sprachbasierte Deepfake- und Shallowfake-Erkennung - PADSE -",
+"von": "2026-04-01",
+"bis": "2029-03-31",
+"summe": 428290.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01MK25004H",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: GenKI4Media - Generative KI Assistenten für den Medien-, Kultur- und Kreativ-Bereich, Teilvorhaben: Assistenzsysteme für redaktionelle Organisationen",
+"von": "2025-08-01",
+"bis": "2028-01-31",
+"summe": 490000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS2563",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Desinformation vorbeugen und abwehren: Entwicklung von Maßnahmen gegen Desinformation (inklusive Deepfakes) sowie Erforschung der Wirksamkeit von Gegenmaßnahmen durch CleanFeed - CleanFeed -",
+"von": "2026-03-15",
+"bis": "2029-03-31",
+"summe": 502230.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS2661",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Multimodaler KI-basierter Desinformations-Assistent für Aufklärung und Resilienz im Umgang mit medialen Desinformationen - Fake-O-Meter -",
+"von": "2026-05-01",
+"bis": "2029-02-28",
+"summe": 407492.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [],
 "verbindungen": [
 {
@@ -154,6 +215,11 @@
 {
 "kurz": "bundeshaushalt.de",
 "url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 },
 {

@@ -1,0 +1,84 @@
+{
+"id": "im-inland-insbesondere-errichtung-von-ersatzbauten-fuer-die",
+"name": "im Inland, insbesondere Errichtung von Ersatzbauten für die Streitkräfte der Entsendestaaten",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "08-0802-71203",
+"text": "Baumaßnahmen im Inland, insbesondere Errichtung von Ersatzbauten für die Streitkräfte der Entsendestaaten zum Zweck der Freigabe oder Verlegung von militärischen Anlagen",
+"epl": "08",
+"epl_text": "Bundesministerium der Finanzen",
+"werte": {
+"2015": {
+"soll": 1000000,
+"ist": 918261
+},
+"2016": {
+"soll": 500000,
+"ist": 0
+},
+"2017": {
+"soll": 0,
+"ist": -575539
+},
+"2018": {
+"soll": 0,
+"ist": 0
+},
+"2019": {
+"soll": 0,
+"ist": 0
+},
+"2020": {
+"soll": 0,
+"ist": 0
+},
+"2021": {
+"soll": 0,
+"ist": -4477535
+},
+"2022": {
+"soll": 0,
+"ist": 0
+},
+"2023": {
+"soll": 0,
+"ist": 0
+},
+"2024": {
+"soll": 0,
+"ist": 0
+},
+"2025": {
+"soll": 0,
+"ist": 0
+},
+"2026": {
+"soll": 0,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

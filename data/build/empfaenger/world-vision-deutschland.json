@@ -188,12 +188,20 @@
 "geschaeftsjahr": "2024",
 "jahresabschluss": {
 "url": "https://www.lobbyregister.bundestag.de/media/33/1e/832295/testatsversion_pruefbericht_2025.pdf",
-"geschaeftsjahr": "",
-"kennzahlen": null,
-"seite": null,
+"geschaeftsjahr": "2024/25",
+"kennzahlen": {
+"ertraege_gesamt": 169152393,
+"oeffentliche_hand": 75159000,
+"spenden": 168421767,
+"personalaufwand": 11730080,
+"projektfoerderung": 138810189,
+"weitergeleitete_mittel": null,
+"jahresergebnis": 142364
+},
+"seite": 7,
 "pruefer": null,
-"hinweis": null,
-"erfasst": null
+"hinweis": "Geschäftsjahr 1.10.2024 bis 30.9.2025. „Ertrag aus Spendenverbrauch“ enthält auch öffentliche Zuschüsse (75,2 Mio € laut Lagebericht S. 28, Tausend Euro).",
+"erfasst": "2026-11-02"
 }
 },
 "quellen": [
@@ -204,6 +212,12 @@
 "stand": "2026-08-18",
 "etikett": "Eigenangabe",
 "version": 17
+},
+{
+"kurz": "Jahresabschluss des Empfängers",
+"url": "https://www.lobbyregister.bundestag.de/media/33/1e/832295/testatsversion_pruefbericht_2025.pdf",
+"abgerufen": "2026-11-02",
+"etikett": "Eigenangabe"
 }
 ]
 }

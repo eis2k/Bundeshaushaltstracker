@@ -1,0 +1,44 @@
+{
+"id": "zur-foerderung-landwirtschaftlicher-betriebe-in-benachteilig",
+"name": "zur Förderung Landwirtschaftlicher Betriebe in benachteiligten Gebieten (Ausgleichszulage)",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "10-1095-63231",
+"text": "Zuweisungen zur Förderung Landwirtschaftlicher Betriebe in benachteiligten Gebieten (Ausgleichszulage)",
+"epl": "10",
+"epl_text": "Bundesministerium für Ernährung und Landwirtschaft",
+"werte": {
+"2015": {
+"soll": 0,
+"ist": 61997874
+},
+"2023": {
+"soll": 0,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

@@ -53,7 +53,18 @@
 }
 ],
 "lobby_untergrenze_bund": 7850004,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "281A817B21",
+"ressort": "BMLEH",
+"epl": "10",
+"thema": "Verbundprojekt: Hybride Mykoprotein-Fleischprodukte für eine nachhaltige und gesunde Ernährung (HyMycoMeat) - Teilprojekt B",
+"von": "2024-06-01",
+"bis": "2027-05-31",
+"summe": 5768.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Lars Gorissen",
@@ -170,6 +181,11 @@
 "stand": "2026-07-20",
 "etikett": "Eigenangabe",
 "version": 16
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

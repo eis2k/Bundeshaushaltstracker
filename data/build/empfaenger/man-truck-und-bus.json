@@ -93,7 +93,88 @@
 }
 ],
 "lobby_untergrenze_bund": 4000009,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "45AOV1001E",
+"ressort": "BMV",
+"epl": "12",
+"thema": "Weiterentwicklung und Optimierung des öffentlichen Personennahverkehrs durch Automatisierung und digitale Vernetzung. Aufbau eines Ridepoolingsystems mit 3 bis 5 automatisierten Fahrzeugen im On-Demand (OD) Betrieb und Linienbetrieb eines automatisierten Solobusses und zweier Bus-Platoons in München.",
+"von": "2023-03-30",
+"bis": "2027-06-30",
+"summe": 1018116.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN4125C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: GAMCO - GREEN AMMONIA MULTIFUEL COMBINE Teilvorhaben 2: Nummerische Berechnung und Simulation für die Auslegung eines NH3-Brennverfahrens",
+"von": "2026-05-01",
+"bis": "2029-10-31",
+"summe": 252404.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "19A24002C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: SALSA - Smarte, Adaptive und Lernbare Systeme für Alle, Teilvorhaben: Adaptive Systeme Lkw",
+"von": "2024-07-01",
+"bis": "2027-06-30",
+"summe": 457393.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01MV23015D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: SPIRIT-E - Shared Private Charging Infrastructure and Reservation for Bidirectionally Integrated Truck Electrification, Teilvorhaben: Entwicklung, Implementierung und Demonstration smarter Fahrzeugfunktionen für V2X fähige Nutzfahrzeuge",
+"von": "2023-08-01",
+"bis": "2026-10-31",
+"summe": 1358108.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01MV21004B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: NEFTON - Nutzfahrzeugelektrifizierung für Transportsektor-optimierte Netzanbindung, Teilvorhaben: Entwicklung und prototypische Umsetzung eines Fahrzeugs",
+"von": "2021-06-01",
+"bis": "2026-03-31",
+"summe": 2103518.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16BZF311A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Remanufacturing von variantenreichen Batteriemodulen mit automatisierten Montage- und Prüfprozessen",
+"von": "2023-02-01",
+"bis": "2026-07-31",
+"summe": 684464.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EMF0404I",
+"ressort": "BMV",
+"epl": "12",
+"thema": "Verbundvorhaben/ HoLa: Hochleistungsladen im Lkw-Fernverkehr (HoLa)",
+"von": "2021-09-01",
+"bis": "2027-01-15",
+"summe": 1252410.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03B10409A",
+"ressort": "BMV",
+"epl": "12",
+"thema": "NIP II - FuE - Verbund: Konzeptionierung und Aufbau eines Heavy Duty Brennstoffzellensystems (FCS-HD)",
+"von": "2021-12-01",
+"bis": "2026-05-31",
+"summe": 3874569.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Alexander Vlaskamp",
@@ -352,6 +433,11 @@
 "stand": "2026-08-03",
 "etikett": "Eigenangabe",
 "version": 24
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

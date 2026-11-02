@@ -29,7 +29,18 @@
 }
 ],
 "lobby_untergrenze_bund": 990001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03LB1019C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: H2ERON - Intelligente und maximal produktive Leichtbaufertigung mittels LPBF zur Erschließung effizienter Wasserstoff-Anwendungen in der nachhaltigen Energiewirtschaft sowie für die Automobilindustrie, Teilvorhaben: Maximale Produktivität im LPBF-Prozess durch variable Optik und Feedback-Loop",
+"von": "2023-12-01",
+"bis": "2026-11-30",
+"summe": 1033252.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Marie Niehaus-Langer",
@@ -102,6 +113,11 @@
 "stand": "2026-10-13",
 "etikett": "Eigenangabe",
 "version": 11
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

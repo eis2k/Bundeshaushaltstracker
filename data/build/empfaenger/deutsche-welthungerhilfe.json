@@ -411,12 +411,20 @@
 "geschaeftsjahr": "2025",
 "jahresabschluss": {
 "url": "https://www.lobbyregister.bundestag.de/media/22/2d/824357/welthungerhilfe-jahresbericht-2025.pdf",
-"geschaeftsjahr": "",
-"kennzahlen": null,
-"seite": null,
+"geschaeftsjahr": "2025",
+"kennzahlen": {
+"ertraege_gesamt": 397254927,
+"oeffentliche_hand": 279011941,
+"spenden": 101545863,
+"personalaufwand": 46755440,
+"projektfoerderung": 323222831,
+"weitergeleitete_mittel": null,
+"jahresergebnis": 12800000
+},
+"seite": 45,
 "pruefer": null,
-"hinweis": null,
-"erfasst": null
+"hinweis": "Jahresergebnis vor Rücklagenveränderung; nach Zuführungen 0 €. Öffentliche Zuwendungen laut Lagebericht (S. 44): Vereinte Nationen 98,0 Mio €, Auswärtiges Amt 68,1 Mio €, BMZ 60,6 Mio €, EU 20,7 Mio €, GIZ 6,1 Mio €.",
+"erfasst": "2026-11-02"
 }
 },
 "quellen": [
@@ -427,6 +435,12 @@
 "stand": "2026-08-02",
 "etikett": "Eigenangabe",
 "version": 31
+},
+{
+"kurz": "Jahresabschluss des Empfängers",
+"url": "https://www.lobbyregister.bundestag.de/media/22/2d/824357/welthungerhilfe-jahresbericht-2025.pdf",
+"abgerufen": "2026-11-02",
+"etikett": "Eigenangabe"
 }
 ]
 }

@@ -141,12 +141,20 @@
 "geschaeftsjahr": "2025",
 "jahresabschluss": {
 "url": "https://www.lobbyregister.bundestag.de/media/00/ef/857516/WP-PruefungsberichtCARE_Testat_2025.pdf",
-"geschaeftsjahr": "",
-"kennzahlen": null,
-"seite": null,
+"geschaeftsjahr": "2025",
+"kennzahlen": {
+"ertraege_gesamt": 96244162,
+"oeffentliche_hand": 48344000,
+"spenden": 31105000,
+"personalaufwand": 9363153,
+"projektfoerderung": 81886179,
+"weitergeleitete_mittel": null,
+"jahresergebnis": -9237326
+},
+"seite": 3,
 "pruefer": null,
-"hinweis": null,
-"erfasst": null
+"hinweis": "Öffentliche Zuwendungsgeber 48,3 Mio € und Kooperationspartner 15,8 Mio € laut Lagebericht (S. 16, Tausend Euro); Spenden = ungebundene 14,6 Mio € + gebundene 16,5 Mio €. Jahresergebnis vor Auflösung projektbezogener Mittel −9,2 Mio €, danach 0 €.",
+"erfasst": "2026-11-02"
 }
 },
 "quellen": [
@@ -157,6 +165,12 @@
 "stand": "2026-10-06",
 "etikett": "Eigenangabe",
 "version": 26
+},
+{
+"kurz": "Jahresabschluss des Empfängers",
+"url": "https://www.lobbyregister.bundestag.de/media/00/ef/857516/WP-PruefungsberichtCARE_Testat_2025.pdf",
+"abgerufen": "2026-11-02",
+"etikett": "Eigenangabe"
 }
 ]
 }

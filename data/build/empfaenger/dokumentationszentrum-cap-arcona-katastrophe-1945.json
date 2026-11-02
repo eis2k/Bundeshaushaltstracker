@@ -1,0 +1,56 @@
+{
+"id": "dokumentationszentrum-cap-arcona-katastrophe-1945",
+"name": "Dokumentationszentrum \"Cap-Arcona-Katastrophe 1945",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "06-0601-68414",
+"text": "Zuschüsse zu Lern- und Gedenkorten von historischer und gesellschaftspolitischer Bedeutung",
+"epl": "06",
+"epl_text": "Bundesministerium des Innern",
+"werte": {
+"2022": {
+"soll": 500000,
+"ist": 0
+},
+"2023": {
+"soll": 3300000,
+"ist": 0
+},
+"2024": {
+"soll": 2080000,
+"ist": 165367
+},
+"2025": {
+"soll": 2080000,
+"ist": 984000
+},
+"2026": {
+"soll": 9441000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

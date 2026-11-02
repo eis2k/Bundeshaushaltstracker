@@ -1,0 +1,56 @@
+{
+"id": "von-u-space-service-providern",
+"name": "von U-Space Service Providern (USSP)",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "12-1205-68605",
+"text": "Förderung von U-Space Service Providern (USSP)",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr",
+"werte": {
+"2024": {
+"soll": 8000000,
+"ist": 0
+},
+"2025": {
+"soll": 6000000,
+"ist": 0
+}
+}
+},
+{
+"id": "30-3009-68680",
+"text": "Förderung von U-Space Service Providern (USSP)",
+"epl": "30",
+"epl_text": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"werte": {
+"2026": {
+"soll": 5000000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

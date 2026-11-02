@@ -61,7 +61,38 @@
 }
 ],
 "lobby_untergrenze_bund": 2500005,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "13IPC006",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Entwicklung von kleinen, effizienten, effektiven Cloud Edge Knoten (KeeCEK), die sowohl kritische industrielle Anwendungen ausführen können als auch die 5G/6G Funkinfrastruktur bereitstellen.",
+"von": "2023-05-01",
+"bis": "2026-12-31",
+"summe": 12096872.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS2542K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Echtzeitfähige Virtualisierung für industrielle 6G-Anwendungen - VICTOR6G -",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 527800.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS2525",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: SENSing demonstriert anhand echter ApplikaTIONen - SENSATION -",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 484965.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Bernd Mellinghaus",
@@ -210,6 +241,11 @@
 "stand": "2026-07-13",
 "etikett": "Eigenangabe",
 "version": 17
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

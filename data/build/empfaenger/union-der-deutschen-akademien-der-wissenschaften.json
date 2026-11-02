@@ -119,12 +119,20 @@
 "geschaeftsjahr": "2025",
 "jahresabschluss": {
 "url": "https://www.lobbyregister.bundestag.de/media/bf/89/724688/Rechnungsabschluss-2025-AH-GH.pdf",
-"geschaeftsjahr": "",
-"kennzahlen": null,
-"seite": null,
+"geschaeftsjahr": "2025",
+"kennzahlen": {
+"ertraege_gesamt": null,
+"oeffentliche_hand": 79713000,
+"spenden": null,
+"personalaufwand": null,
+"projektfoerderung": null,
+"weitergeleitete_mittel": null,
+"jahresergebnis": null
+},
+"seite": 2,
 "pruefer": null,
-"hinweis": null,
-"erfasst": null
+"hinweis": "Gescannter Rechnungsabschluss des Akademienprogramms (kameral). Einnahmen aus Zuweisungen und Zuschüssen von Bund und Ländern zusammen 79.713.000 €, nicht getrennt.",
+"erfasst": "2026-11-02"
 }
 },
 "quellen": [
@@ -135,6 +143,12 @@
 "stand": "2026-04-20",
 "etikett": "Eigenangabe",
 "version": 5
+},
+{
+"kurz": "Jahresabschluss des Empfängers",
+"url": "https://www.lobbyregister.bundestag.de/media/bf/89/724688/Rechnungsabschluss-2025-AH-GH.pdf",
+"abgerufen": "2026-11-02",
+"etikett": "Eigenangabe"
 }
 ]
 }

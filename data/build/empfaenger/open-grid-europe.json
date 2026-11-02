@@ -45,7 +45,18 @@
 }
 ],
 "lobby_untergrenze_bund": 5950003,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03B11026D",
+"ressort": "BMV",
+"epl": "12",
+"thema": "NIP II - FuE - Verbund: Entwicklung und Validierung einer Wasserstoffqualitätsanalytik gemäß ISO 14687:2019.",
+"von": "2022-12-01",
+"bis": "2026-08-31",
+"summe": 76476.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Thomas Hüwener",
@@ -346,6 +357,11 @@
 "stand": "2026-06-10",
 "etikett": "Eigenangabe",
 "version": 32
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

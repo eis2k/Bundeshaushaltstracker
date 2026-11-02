@@ -1,0 +1,84 @@
+{
+"id": "zum-deutsch-franzoesischen-jugendwerk",
+"name": "zum Deutsch-Französischen Jugendwerk",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "17-1702-68607",
+"text": "Beitrag zum Deutsch-Französischen Jugendwerk",
+"epl": "17",
+"epl_text": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"werte": {
+"2015": {
+"soll": 11226000,
+"ist": 11226000
+},
+"2016": {
+"soll": 11226000,
+"ist": 11226000
+},
+"2017": {
+"soll": 11512000,
+"ist": 11511962
+},
+"2018": {
+"soll": 11512000,
+"ist": 11511962
+},
+"2019": {
+"soll": 13512000,
+"ist": 13511963
+},
+"2020": {
+"soll": 13512000,
+"ist": 13511962
+},
+"2021": {
+"soll": 13512000,
+"ist": 13511962
+},
+"2022": {
+"soll": 13512000,
+"ist": 13511962
+},
+"2023": {
+"soll": 13512000,
+"ist": 13511962
+},
+"2024": {
+"soll": 13512000,
+"ist": 13511962
+},
+"2025": {
+"soll": 15112000,
+"ist": 15111962
+},
+"2026": {
+"soll": 14843000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

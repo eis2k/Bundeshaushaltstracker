@@ -1,0 +1,84 @@
+{
+"id": "zur-foerderung-von-stadtteilen-mit-besonderem-entwicklungsbe",
+"name": "zur Förderung von Stadtteilen mit besonderem Entwicklungsbedarf (Soziale Stadt)",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "16-1606-88214",
+"text": "Zuweisungen zur Förderung von Stadtteilen mit besonderem Entwicklungsbedarf (Soziale Stadt)  - Abwicklung",
+"epl": "16",
+"epl_text": "Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit",
+"werte": {
+"2015": {
+"soll": 0,
+"ist": 7237206
+},
+"2016": {
+"soll": 0,
+"ist": 940956
+},
+"2017": {
+"soll": 0,
+"ist": 15000
+}
+}
+},
+{
+"id": "06-0604-88214",
+"text": "Zuweisungen zur Förderung von Stadtteilen mit besonderem Entwicklungsbedarf (Soziale Stadt)  - Abwicklung",
+"epl": "06",
+"epl_text": "Bundesministerium des Innern, für Bau und Heimat",
+"werte": {
+"2018": {
+"soll": 0,
+"ist": 0
+},
+"2019": {
+"soll": 0,
+"ist": 0
+},
+"2020": {
+"soll": 0,
+"ist": 0
+},
+"2021": {
+"soll": 0,
+"ist": 0
+}
+}
+},
+{
+"id": "25-2502-88214",
+"text": "Zuweisungen zur Förderung von Stadtteilen mit besonderem Entwicklungsbedarf (Soziale Stadt)  - Abwicklung",
+"epl": "25",
+"epl_text": "Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+"werte": {
+"2022": {
+"soll": 0,
+"ist": 0
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

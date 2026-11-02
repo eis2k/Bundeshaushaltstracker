@@ -1,0 +1,84 @@
+{
+"id": "zur-foerderung-der-sozialen-eingliederung-von-menschen-mit-b",
+"name": "zur Förderung der sozialen Eingliederung von Menschen mit Behinderungen",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "11-1105-68403",
+"text": "Zuschüsse zur Förderung der sozialen Eingliederung von Menschen mit Behinderungen",
+"epl": "11",
+"epl_text": "Bundesministerium für Arbeit und Soziales",
+"werte": {
+"2015": {
+"soll": 450000,
+"ist": 435500
+},
+"2016": {
+"soll": 546000,
+"ist": 555300
+},
+"2017": {
+"soll": 551000,
+"ist": 529400
+},
+"2018": {
+"soll": 565000,
+"ist": 573314
+},
+"2019": {
+"soll": 605000,
+"ist": 548175
+},
+"2020": {
+"soll": 605000,
+"ist": 605000
+},
+"2021": {
+"soll": 605000,
+"ist": 578431
+},
+"2022": {
+"soll": 605000,
+"ist": 593700
+},
+"2023": {
+"soll": 613000,
+"ist": 611200
+},
+"2024": {
+"soll": 671000,
+"ist": 614645
+},
+"2025": {
+"soll": 671000,
+"ist": 633716
+},
+"2026": {
+"soll": 671000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

@@ -1,0 +1,44 @@
+{
+"id": "zur-foerderung-der-neuordnung-laendlichen-grundbesitzes-eins",
+"name": "zur Förderung der Neuordnung ländlichen Grundbesitzes einschließlich Nutzungstausch",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "10-1095-88213",
+"text": "Zuweisungen zur Förderung der Neuordnung ländlichen Grundbesitzes einschließlich Nutzungstausch",
+"epl": "10",
+"epl_text": "Bundesministerium für Ernährung und Landwirtschaft",
+"werte": {
+"2015": {
+"soll": 0,
+"ist": 53176665
+},
+"2023": {
+"soll": 0,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

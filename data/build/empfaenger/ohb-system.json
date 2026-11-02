@@ -37,7 +37,78 @@
 }
 ],
 "lobby_untergrenze_bund": 950002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "16KISQ047K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Quantenschlüsselübertragung von einem CubeSat zum Boden - QUBE II -, Teilvorhaben: Demonstration des Quantenschlüsselaustauschs mit einer Bodenstation mittels Kleinstsatelliten (CubeSats)",
+"von": "2022-01-01",
+"bis": "2028-09-30",
+"summe": 314634.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KISQ107",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Interoperables sicheres Quantenschlüssel Management System - QuNET+ISQKMS -",
+"von": "2022-10-01",
+"bis": "2026-12-31",
+"summe": 144637.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "50EE2431",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Entwicklung innovativer Informationsprodukte für die Landwirtschaft - 'HyLap'",
+"von": "2025-01-01",
+"bis": "2026-04-30",
+"summe": 129480.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "50RP2595B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben: VibraVoid - Vibrationsvermeidung mit akustischen Schwarzen Löchern in Raumfahrtstrukturen Teilprojekt: Erforschung von innovativen Schallreduktionstechnologien mit ABHs zur Reduktion von Vibrations- und Schocklasten in Raumfahrtstrukturen",
+"von": "2025-01-01",
+"bis": "2026-12-31",
+"summe": 49626.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "50NA2309B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben: Weltraumgestützte Überwachung von GNSS Signalinterferenzen, Teilvorhaben OHB",
+"von": "2023-02-01",
+"bis": "2026-09-30",
+"summe": 1070387.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "50RK2403A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben: KeOpS - Keramische Optische Systeme - Teilvorhaben: System Design, Analyse und Verifikation",
+"von": "2024-08-01",
+"bis": "2027-06-30",
+"summe": 644539.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "50NP2402A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben OTP 2 - Optical Tamper Protection, Teilvorhaben: OHB",
+"von": "2024-10-01",
+"bis": "2026-12-31",
+"summe": 227302.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Sabine Freifrau von der Recke",
@@ -186,6 +257,11 @@
 "stand": "2026-04-15",
 "etikett": "Eigenangabe",
 "version": 16
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

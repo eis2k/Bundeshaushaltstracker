@@ -101,7 +101,128 @@
 }
 ],
 "lobby_untergrenze_bund": 630010,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EI6122D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: SysStab2030 - Systemstabilität durch marktbasierte Systemdienstleistungen und technische Mindestanforderungen an zukünftige elektrische Anlagen, Teilvorhaben: Systemstabilität durch marktbasierte SDL und techn. Mindestanforderungen an zukünftige elektrische Anlagen aus Sicht der TenneT TSO GmbH",
+"von": "2024-07-01",
+"bis": "2027-03-31",
+"summe": 116282.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13MX011A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Verknüpfung von Datenökosystemen für die Anbindung von Flexibilitäten an Netzstrukturen (DataFleX) - Teilvorhaben: Koordinierung des Verbunds für die Pilotierung der netzdienlichen Integration von Kleinstflexibilitäten in der TenneT Regelzone",
+"von": "2025-10-01",
+"bis": "2027-01-31",
+"summe": 1000168.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI4046B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: PROGRESS - Erprobung kurativer Entlastungsmaßnahmen in Höchst- und Hochspannungsnetzen, Teilvorhaben: Erprobung kurativer Entlastungsmaßnahmen im Übertragungsnetz der TenneT TSO GmbH",
+"von": "2022-06-01",
+"bis": "2026-03-31",
+"summe": 129028.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI4071A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: energy-data-X - Energiedatenraum zum Datenaustausch in Gaia-X, Teilvorhaben: Führung des Konsortiums energy-data-X und Aufbau und Betrieb einer Data Space-Basisinfrastruktur",
+"von": "2023-10-01",
+"bis": "2026-09-30",
+"summe": 910958.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI6117C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: GNN4GC - Graph Neuronale Netze für den Einsatz in der Netzsteuerung, Teilvorhaben: Spezifikation und Erprobung eines Empfehlungssystems mit Graph Neuronalen Netzen für das Übertragungsnetz von TenneT TSO GmbH",
+"von": "2023-12-01",
+"bis": "2027-02-28",
+"summe": 243024.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI6128E",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: CURL380 - Schlüsseltechnologie für Supraleitende Strombegrenzer für die Anwendung in Höchstspannungsnetzen von 380 kV, Teilvorhaben: Systemintegration und Untersuchung von Anwendungsszenarien",
+"von": "2025-04-01",
+"bis": "2028-03-31",
+"summe": 120480.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI6150B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: MITIGATE-HARM - Minderung von Oberschwingungen in leistungselektronikbasierten Stromversorgungssystemen, Teilvorhaben: TenneT",
+"von": "2025-12-01",
+"bis": "2028-11-30",
+"summe": 52514.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI4120E",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: OWiMO - Offshore Windenergie Wartungsoptimierung, Teilvorhaben: Datenanalyse historischer Wartungsdaten, Integration Offshore-spezifischer Randbedingungen und Validierung der KI-Plattform an Offshore-Assets",
+"von": "2026-02-01",
+"bis": "2029-01-31",
+"summe": 212507.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01MV23015B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: SPIRIT-E - Shared Private Charging Infrastructure and Reservation for Bidirectionally Integrated Truck Electrification, Teilvorhaben: Untersuchung der Eignung von bidirektionalen, elektrischen Nutzfahrzeugen zur Erbringung von Systemdienstleistungen",
+"von": "2023-08-01",
+"bis": "2026-10-31",
+"summe": 218533.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01MV23013E",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: BDL Next - Bidirektionales Lademanagement der nächsten Generation im massenfähigen Realbetrieb, Teilvorhaben: Systemintegration",
+"von": "2023-11-01",
+"bis": "2027-01-31",
+"summe": 164376.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SFK1E0-3",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben ENSURE3: Neue EnergieNetzStruktURen für die Energiewende - Teilvorhaben TenneT TSO GmbH",
+"von": "2023-08-01",
+"bis": "2026-12-31",
+"summe": 744779.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13N17767",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Innovation Hub für die Umsetzung von Lösungen für die Drohnenerkennung und -abwehr zum Schutz von Energie- und Versorgungsinfrastrukturen (SicherNetz) - Teilvorhaben: SicherNetz - überregional",
+"von": "2026-04-01",
+"bis": "2029-12-31",
+"summe": 139320.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Tim Christian Meyerjürgens",
@@ -1144,6 +1265,11 @@
 "stand": "2026-10-05",
 "etikett": "Eigenangabe",
 "version": 45
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

@@ -29,7 +29,18 @@
 }
 ],
 "lobby_untergrenze_bund": 790001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "19I24003A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: PoWer - Potenzial von Wasserstoffmotoren für effiziente und robuste Offroad-Anwendungen, Teilvorhaben: Auslegung, Fertigung und Robustheitsuntersuchung von H2-Motorkomponenten",
+"von": "2024-08-01",
+"bis": "2027-07-31",
+"summe": 1731004.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Arnd Franz",
@@ -135,6 +146,11 @@
 "stand": "2026-10-12",
 "etikett": "Eigenangabe",
 "version": 39
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

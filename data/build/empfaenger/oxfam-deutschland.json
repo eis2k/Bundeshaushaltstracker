@@ -276,12 +276,20 @@
 "geschaeftsjahr": "2025",
 "jahresabschluss": {
 "url": "https://www.lobbyregister.bundestag.de/media/10/db/864315/Oxfam_jb2024-25.pdf",
-"geschaeftsjahr": "2024",
-"kennzahlen": null,
-"seite": null,
+"geschaeftsjahr": "2024/25",
+"kennzahlen": {
+"ertraege_gesamt": 45212448,
+"oeffentliche_hand": 28665838,
+"spenden": 7879435,
+"personalaufwand": 6633121,
+"projektfoerderung": 30082961,
+"weitergeleitete_mittel": 225403,
+"jahresergebnis": 218765
+},
+"seite": 28,
 "pruefer": null,
-"hinweis": null,
-"erfasst": null
+"hinweis": "Geschäftsjahr bis 31.3.2025. Zuwendungen der Oxfam Deutschland Shops gGmbH 3,95 Mio € und Nachlässe 0,43 Mio € gesondert. Personalaufwand = Löhne und Gehälter + Sozialabgaben.",
+"erfasst": "2026-11-02"
 }
 },
 "quellen": [
@@ -292,6 +300,12 @@
 "stand": "2026-10-22",
 "etikett": "Eigenangabe",
 "version": 25
+},
+{
+"kurz": "Jahresabschluss des Empfängers",
+"url": "https://www.lobbyregister.bundestag.de/media/10/db/864315/Oxfam_jb2024-25.pdf",
+"abgerufen": "2026-11-02",
+"etikett": "Eigenangabe"
 }
 ]
 }

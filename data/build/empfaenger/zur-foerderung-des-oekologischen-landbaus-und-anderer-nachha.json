@@ -1,0 +1,56 @@
+{
+"id": "zur-foerderung-des-oekologischen-landbaus-und-anderer-nachha",
+"name": "zur Förderung des ökologischen Landbaus und anderer nachhaltiger Formen der Landwirtschaft",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "10-1005-68602",
+"text": "Zuschüsse zur Förderung des ökologischen Landbaus und anderer nachhaltiger Formen der Landwirtschaft",
+"epl": "10",
+"epl_text": "Bundesministerium für Ernährung und Landwirtschaft",
+"werte": {
+"2015": {
+"soll": 17000000,
+"ist": 14298986
+},
+"2016": {
+"soll": 17000000,
+"ist": 15054230
+},
+"2017": {
+"soll": 20000000,
+"ist": 17600846
+},
+"2018": {
+"soll": 30000000,
+"ist": 16695266
+},
+"2019": {
+"soll": 30000000,
+"ist": 21613508
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

@@ -29,7 +29,18 @@
 }
 ],
 "lobby_untergrenze_bund": 20001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "16KIS1971",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Sicher im Datenverkehr - SID -",
+"von": "2023-10-01",
+"bis": "2026-09-30",
+"summe": 83905.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Carsten Rasner",
@@ -262,6 +273,11 @@
 "stand": "2026-09-29",
 "etikett": "Eigenangabe",
 "version": 26
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

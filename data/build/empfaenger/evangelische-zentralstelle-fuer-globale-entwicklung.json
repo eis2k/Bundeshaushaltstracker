@@ -95,11 +95,19 @@
 "jahresabschluss": {
 "url": "https://www.lobbyregister.bundestag.de/media/cb/27/811926/EZE-JAP-2024-Testat-final.pdf",
 "geschaeftsjahr": "2024",
-"kennzahlen": null,
-"seite": null,
+"kennzahlen": {
+"ertraege_gesamt": 159373221,
+"oeffentliche_hand": null,
+"spenden": null,
+"personalaufwand": 348858,
+"projektfoerderung": 158901821,
+"weitergeleitete_mittel": null,
+"jahresergebnis": -158521
+},
+"seite": 3,
 "pruefer": null,
-"hinweis": null,
-"erfasst": null
+"hinweis": "Gescannte GuV. Zuwendungen, Zuschüsse und Spenden werden zusammen ausgewiesen (158.650.886 €), überwiegend Bundesmittel (BMZ), die an Brot für die Welt weitergeleitet werden.",
+"erfasst": "2026-11-02"
 }
 },
 "quellen": [
@@ -110,6 +118,12 @@
 "stand": "2026-07-13",
 "etikett": "Eigenangabe",
 "version": 12
+},
+{
+"kurz": "Jahresabschluss des Empfängers",
+"url": "https://www.lobbyregister.bundestag.de/media/cb/27/811926/EZE-JAP-2024-Testat-final.pdf",
+"abgerufen": "2026-11-02",
+"etikett": "Eigenangabe"
 }
 ]
 }

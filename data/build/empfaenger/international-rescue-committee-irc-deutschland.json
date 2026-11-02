@@ -198,12 +198,20 @@
 "geschaeftsjahr": "2024",
 "jahresabschluss": {
 "url": "https://www.lobbyregister.bundestag.de/media/2f/ef/837394/Jahresabschluesse-Testat-FY25-FY24.pdf",
-"geschaeftsjahr": "",
-"kennzahlen": null,
-"seite": null,
+"geschaeftsjahr": "2024/25",
+"kennzahlen": {
+"ertraege_gesamt": 138044411,
+"oeffentliche_hand": null,
+"spenden": null,
+"personalaufwand": null,
+"projektfoerderung": 122016317,
+"weitergeleitete_mittel": null,
+"jahresergebnis": 5275365
+},
+"seite": 5,
 "pruefer": null,
-"hinweis": null,
-"erfasst": null
+"hinweis": "Geschäftsjahr 1.10.2024 bis 30.9.2025. „Spenden und andere Zuwendungen“ (132,2 Mio €) nicht nach Herkunft getrennt; Personalaufwand nicht gesondert in der GuV. Projektförderung = Programmausgaben.",
+"erfasst": "2026-11-02"
 }
 },
 "quellen": [
@@ -214,6 +222,12 @@
 "stand": "2026-09-01",
 "etikett": "Eigenangabe",
 "version": 18
+},
+{
+"kurz": "Jahresabschluss des Empfängers",
+"url": "https://www.lobbyregister.bundestag.de/media/2f/ef/837394/Jahresabschluesse-Testat-FY25-FY24.pdf",
+"abgerufen": "2026-11-02",
+"etikett": "Eigenangabe"
 }
 ]
 }

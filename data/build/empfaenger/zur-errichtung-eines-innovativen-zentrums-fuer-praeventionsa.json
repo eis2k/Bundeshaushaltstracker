@@ -1,0 +1,64 @@
+{
+"id": "zur-errichtung-eines-innovativen-zentrums-fuer-praeventionsa",
+"name": "zur Errichtung eines innovativen Zentrums für Präventionsarbeit \"Welt der Versuchungen",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "15-1504-89403",
+"text": "Zuschuss zur Errichtung eines innovativen Zentrums für Präventionsarbeit Welt der Versuchungen\"\"",
+"epl": "15",
+"epl_text": "Bundesministerium für Gesundheit",
+"werte": {
+"2020": {
+"soll": 500000,
+"ist": 0
+},
+"2021": {
+"soll": 330000,
+"ist": 0
+},
+"2022": {
+"soll": 1320000,
+"ist": 0
+},
+"2023": {
+"soll": 660000,
+"ist": 333850
+},
+"2024": {
+"soll": 2470000,
+"ist": 0
+},
+"2025": {
+"soll": 3130000,
+"ist": 1400000
+},
+"2026": {
+"soll": 9550000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

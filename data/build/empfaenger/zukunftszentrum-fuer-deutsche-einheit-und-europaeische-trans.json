@@ -1,0 +1,48 @@
+{
+"id": "zukunftszentrum-fuer-deutsche-einheit-und-europaeische-trans",
+"name": "Zukunftszentrum für Deutsche Einheit und Europäische Transformation",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "25-2501-71301",
+"text": "Baumaßnahmen für das Zukunftszentrum für Deutsche Einheit und Europäische Transformation",
+"epl": "25",
+"epl_text": "Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+"werte": {
+"2024": {
+"soll": 1400000,
+"ist": 0
+},
+"2025": {
+"soll": 3600000,
+"ist": 250000
+},
+"2026": {
+"soll": 21000000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

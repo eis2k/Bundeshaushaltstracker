@@ -1573,12 +1573,20 @@
 "geschaeftsjahr": "2025",
 "jahresabschluss": {
 "url": "https://www.lobbyregister.bundestag.de/media/93/45/867339/Deutscher-Caritasverband-e-V-Freiburg_Bankexemplar-2025-1.pdf",
-"geschaeftsjahr": "",
-"kennzahlen": null,
-"seite": null,
+"geschaeftsjahr": "2025",
+"kennzahlen": {
+"ertraege_gesamt": 216412927,
+"oeffentliche_hand": 112469965,
+"spenden": 57383118,
+"personalaufwand": 35114540,
+"projektfoerderung": 154175642,
+"weitergeleitete_mittel": null,
+"jahresergebnis": 1823467
+},
+"seite": 5,
 "pruefer": null,
-"hinweis": null,
-"erfasst": null
+"hinweis": "Öffentliche Hand = Bundeszuschüsse 106.700.264 € + EU 5.769.701 €; kirchliche Zuschüsse 11,1 Mio € und sonstige Zuschüsse 9,1 Mio € gesondert. Projektaufwand = Caritas international 88,6 Mio € + Projekte Inland 65,5 Mio €.",
+"erfasst": "2026-11-02"
 }
 },
 "quellen": [
@@ -1594,6 +1602,12 @@
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/S/sassenrath_carl-1046970",
 "abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Jahresabschluss des Empfängers",
+"url": "https://www.lobbyregister.bundestag.de/media/93/45/867339/Deutscher-Caritasverband-e-V-Freiburg_Bankexemplar-2025-1.pdf",
+"abgerufen": "2026-11-02",
 "etikett": "Eigenangabe"
 }
 ]

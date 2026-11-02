@@ -1,0 +1,40 @@
+{
+"id": "nationalen-uebergangsrat",
+"name": "Nationalen Übergangsrat",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "05-0502-86611",
+"text": "Darlehen an den Nationalen Übergangsrat zur Sicherung der demokratischen Entwicklung in Libyen",
+"epl": "05",
+"epl_text": "Auswärtiges Amt",
+"werte": {
+"2015": {
+"soll": 0,
+"ist": 0
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

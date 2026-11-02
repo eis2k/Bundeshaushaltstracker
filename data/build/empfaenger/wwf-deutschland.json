@@ -565,7 +565,48 @@
 }
 ],
 "lobby_untergrenze_bund": 98780068,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03LW0507",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "BiodivMon: Länderübergreifende Biodiversitäts- und Ökosystemuntersuchungen von Teichlandschaften in Europa (TRANSPONDER) - Stakeholder-Netzwerk und Datenmanagement",
+"von": "2024-03-01",
+"bis": "2027-12-31",
+"summe": 100692.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "67KF0219A",
+"ressort": "BMUKN",
+"epl": "16",
+"thema": "NKI: Verbundprojekt: LebensLänger - Gemeinsam, wissenschaftlich, zielgerichtet zum Nutzungswandel von Produkten aktivieren und befähigen",
+"von": "2026-04-01",
+"bis": "2029-03-31",
+"summe": 919470.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03F0944F",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Polarregionen im Wandel 1: SQUEEZE - Schutz der schwindenden Arktischen Tundra - Potential, Planung und Kommunikation, Vorhaben: Förderung des Dialogs zwischen Wissenschaft und Gesellschaft",
+"von": "2023-09-01",
+"bis": "2027-04-30",
+"summe": 167152.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SFK2O0-3",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben P2X-3: Erforschung, Validierung und Implementierung von 'Power-to-X' Konzepten - Standortanalyse und -bewertung (SOAB): Weiterentwicklung von Nachhaltigkeitskriterien für den Import und Export von PtX-Produkten. Capacity Building: Aufbau von Wissen und Kompetenzen zu PtX.",
+"von": "2024-01-01",
+"bis": "2026-12-31",
+"summe": 1082510.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Selvi Naidu",
@@ -1218,12 +1259,20 @@
 "geschaeftsjahr": "2024",
 "jahresabschluss": {
 "url": "https://www.lobbyregister.bundestag.de/media/4c/b2/866105/WWF_Jahresbericht-25-WEB-DoS-4.pdf",
-"geschaeftsjahr": "",
-"kennzahlen": null,
-"seite": null,
+"geschaeftsjahr": "2024/25",
+"kennzahlen": {
+"ertraege_gesamt": 137086000,
+"oeffentliche_hand": null,
+"spenden": 55643000,
+"personalaufwand": null,
+"projektfoerderung": null,
+"weitergeleitete_mittel": null,
+"jahresergebnis": null
+},
+"seite": 29,
 "pruefer": null,
-"hinweis": null,
-"erfasst": null
+"hinweis": "Jahresbericht, Beträge in Tausend Euro gerundet. Projektförderungen 39,7 Mio € stammen von öffentlichen und privaten Gebern, nicht getrennt ausgewiesen. Jahresüberschuss vor Ergebnisrücklagen laut S. 33: 9,8 Mio €.",
+"erfasst": "2026-11-02"
 }
 },
 "quellen": [
@@ -1234,6 +1283,17 @@
 "stand": "2026-10-28",
 "etikett": "Eigenangabe",
 "version": 163
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
+},
+{
+"kurz": "Jahresabschluss des Empfängers",
+"url": "https://www.lobbyregister.bundestag.de/media/4c/b2/866105/WWF_Jahresbericht-25-WEB-DoS-4.pdf",
+"abgerufen": "2026-11-02",
+"etikett": "Eigenangabe"
 }
 ]
 }

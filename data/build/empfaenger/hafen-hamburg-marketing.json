@@ -29,7 +29,18 @@
 }
 ],
 "lobby_untergrenze_bund": 20001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "19H24004D",
+"ressort": "BMV",
+"epl": "12",
+"thema": "Verbundprojekt: DigiTank - Digitaler Tanklagerbetrieb - Sicher, Umweltfreundlich und Menschenzentriert, Teilvorhaben: Projektmanagement, Marktanalyse und Geschäftsmodellierung",
+"von": "2025-01-01",
+"bis": "2028-12-31",
+"summe": 124089.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Axel Mattern",
@@ -136,6 +147,11 @@
 "stand": "2026-06-19",
 "etikett": "Eigenangabe",
 "version": 8
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

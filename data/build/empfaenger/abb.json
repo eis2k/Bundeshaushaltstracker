@@ -93,7 +93,88 @@
 }
 ],
 "lobby_untergrenze_bund": 2940009,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EN2095F",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: FOREST - Framework for Resource, Energy, Sustainability Treatment in Paper Production , Teilvorhaben: Modellierungsframework",
+"von": "2023-04-01",
+"bis": "2026-03-31",
+"summe": 456681.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN3092A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: EnEff:Wärme: ZAHLEN - Zukünftiges Automatisiertes Hierarchisches und Lokales EnergiemaNagement, Teilvorhaben: Energiemanagement in Communities",
+"von": "2024-07-01",
+"bis": "2027-06-30",
+"summe": 941610.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ZU2205LA",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "ETOS: Optimierung modularer Elektro-Synthese-Prozesse durch Ganzheitliche Automatisierungsarchitekturen (OMEGA) - A",
+"von": "2026-04-01",
+"bis": "2029-03-31",
+"summe": 803793.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "02J25C102",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Eureka-Verbundprojekt: Transforming Circularity through CoDesign - Zirkuläre Transformation durch CoDesign ermöglichen (TransCCoDe), Teilprojekt: Untersuchungen zu systematischen reuse- oder refurbishment Strategien",
+"von": "2026-09-01",
+"bis": "2029-08-31",
+"summe": 219758.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16IS23062B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: OpenSCALING - Open standards for SCALable virtual engineerING and operation",
+"von": "2023-11-01",
+"bis": "2027-04-30",
+"summe": 256500.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16ME1133",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Edge-Cloud AI-Plattform für verteilte Sensorik und Datenverarbeitung - AI-DISCO -",
+"von": "2026-02-01",
+"bis": "2030-01-31",
+"summe": 193598.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI6101A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: GreEner-Tech - Nachhaltige Schaltanlagen für das Mittelspannungsnetz, Teilvorhaben: Nachhaltigere Schaltanlagen",
+"von": "2023-09-01",
+"bis": "2026-12-31",
+"summe": 876574.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI4130B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: TARANIS - LTCC-basierte Sensoren zur Überwachung des Spannungsniveaus in Mittelspannungsnetzen, Teilvorhaben: Erforschung eines hochgenauen frequenzkompensierten Mittelspannungssensors auf Basis der LTCC-Technologie",
+"von": "2026-08-01",
+"bis": "2029-07-31",
+"summe": 277894.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Rosa Meckseper",
@@ -176,6 +257,11 @@
 "stand": "2026-06-22",
 "etikett": "Eigenangabe",
 "version": 17
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

@@ -29,7 +29,28 @@
 }
 ],
 "lobby_untergrenze_bund": 110001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "20F2101A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Entwicklung integerer Navigationsalgorithmen für UAM durch Einbeziehung eines Doppler-Radars",
+"von": "2022-08-01",
+"bis": "2026-10-31",
+"summe": 1048000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20F2403A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Aufbau und Erprobung symmetrischer Gyroskope für ein MEMS-basiertes IRS",
+"von": "2026-03-01",
+"bis": "2029-05-31",
+"summe": 1784500.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Lutz Kampmann",
@@ -112,6 +133,11 @@
 "stand": "2026-03-09",
 "etikett": "Eigenangabe",
 "version": 8
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

@@ -1,0 +1,92 @@
+{
+"id": "investitionen-an-oeffentliche-unternehmen",
+"name": "Investitionen an öffentliche Unternehmen",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "14-1412-89141",
+"text": "Zuschüsse für Investitionen an öffentliche Unternehmen",
+"epl": "14",
+"epl_text": "Bundesministerium der Verteidigung",
+"werte": {
+"2015": {
+"soll": 1600000,
+"ist": 162988
+}
+}
+},
+{
+"id": "14-1408-89141",
+"text": "Zuschüsse für Investitionen an öffentliche Unternehmen",
+"epl": "14",
+"epl_text": "Bundesministerium der Verteidigung",
+"werte": {
+"2016": {
+"soll": 250000,
+"ist": 95073
+},
+"2017": {
+"soll": 250000,
+"ist": 394737
+},
+"2018": {
+"soll": 250000,
+"ist": 437319
+},
+"2019": {
+"soll": 1350000,
+"ist": 1230441
+},
+"2020": {
+"soll": 1250000,
+"ist": 950239
+},
+"2021": {
+"soll": 250000,
+"ist": 2921177
+},
+"2022": {
+"soll": 250000,
+"ist": 283047
+},
+"2023": {
+"soll": 3000000,
+"ist": 2796325
+},
+"2024": {
+"soll": 2200000,
+"ist": 1791043
+},
+"2025": {
+"soll": 3000000,
+"ist": 419613
+},
+"2026": {
+"soll": 161000000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

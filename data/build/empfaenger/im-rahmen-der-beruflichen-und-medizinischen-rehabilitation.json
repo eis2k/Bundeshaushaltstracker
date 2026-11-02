@@ -1,0 +1,84 @@
+{
+"id": "im-rahmen-der-beruflichen-und-medizinischen-rehabilitation",
+"name": "im Rahmen der beruflichen und medizinischen Rehabilitation",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "11-1105-68406",
+"text": "Zuschüsse im Rahmen der beruflichen und medizinischen Rehabilitation",
+"epl": "11",
+"epl_text": "Bundesministerium für Arbeit und Soziales",
+"werte": {
+"2015": {
+"soll": 470000,
+"ist": 479818
+},
+"2016": {
+"soll": 320000,
+"ist": 169377
+},
+"2017": {
+"soll": 320000,
+"ist": 77396
+},
+"2018": {
+"soll": 270000,
+"ist": 86355
+},
+"2019": {
+"soll": 240000,
+"ist": 100648
+},
+"2020": {
+"soll": 250000,
+"ist": 82474
+},
+"2021": {
+"soll": 80000,
+"ist": 18540
+},
+"2022": {
+"soll": 110000,
+"ist": 99249
+},
+"2023": {
+"soll": 110000,
+"ist": 100
+},
+"2024": {
+"soll": 110000,
+"ist": 155131
+},
+"2025": {
+"soll": 110000,
+"ist": 20782
+},
+"2026": {
+"soll": 110000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

@@ -37,6 +37,14 @@ kandidaten:
   aehnlichkeit: 1.0
   quelle: https://www.bundestag.de/abgeordnete/biografien/A/amtsberg_luise-1043430
   hinweis: ''
+- person: Carolin Bachmann
+  funktion_person: MdB, AfD
+  organisation_text: Bundesstiftung Baukultur
+  empfaenger_id: investitionen-an-die-bundesstiftung-baukultur
+  empfaenger_name: Investitionen an die Bundesstiftung Baukultur
+  aehnlichkeit: 1.0
+  quelle: https://www.bundestag.de/abgeordnete/biografien/B/bachmann_carolin-1043502
+  hinweis: ''
 - person: Lisa Badum
   funktion_person: MdB, Bündnis 90 Die Grünen
   organisation_text: Naturstrom AG
@@ -55,19 +63,11 @@ kandidaten:
   aehnlichkeit: 1.0
   quelle: https://www.bundestag.de/abgeordnete/biografien/B/baer_karl-1043528
   hinweis: vor der Mitgliedschaft
-- person: Bärbel Bas
-  funktion_person: MdB, SPD
-  organisation_text: Stiftung Denkmal für die ermordeten Juden Europas
-  empfaenger_id: baumassnahme-stiftung-denkmal-fuer-die-ermordeten-juden-euro
-  empfaenger_name: Baumaßnahme Stiftung Denkmal für die ermordeten Juden Europas
-  aehnlichkeit: 1.0
-  quelle: https://www.bundestag.de/abgeordnete/biografien/B/bas_baerbel-1043554
-  hinweis: ''
 - person: Marc Bernhard
   funktion_person: MdB, AfD
   organisation_text: Stiftung Forum Recht
-  empfaenger_id: zufuehrung-an-die-stiftung-forum-recht
-  empfaenger_name: Zuführung an die Stiftung Forum Recht
+  empfaenger_id: forum-recht
+  empfaenger_name: Forum Recht
   aehnlichkeit: 1.0
   quelle: https://www.bundestag.de/abgeordnete/biografien/B/bernhard_marc-1043678
   hinweis: ''
@@ -87,19 +87,28 @@ kandidaten:
   aehnlichkeit: 1.0
   quelle: https://www.bundestag.de/abgeordnete/biografien/B/blankenburg_jakob-1043716
   hinweis: ''
-- person: Dr. Franziska Brantner
-  funktion_person: MdB, Bündnis 90 Die Grünen
-  organisation_text: Bundesagentur für Sprunginnovationen (SprinD GmbH)
-  empfaenger_id: bundesagentur
-  empfaenger_name: Bundesagentur
+- person: Stephan Brandner
+  funktion_person: MdB, AfD
+  organisation_text: Agentur für Arbeit
+  empfaenger_id: bundesagentur-fuer-arbeit
+  empfaenger_name: Bundesagentur für Arbeit
   aehnlichkeit: 1.0
-  quelle: https://www.bundestag.de/abgeordnete/biografien/B/brantner_franziska-1043804
+  quelle: https://www.bundestag.de/abgeordnete/biografien/B/brandner_stephan-1043798
+  hinweis: ''
+- person: Silvia Breher
+  funktion_person: MdB, CDU/CSU
+  organisation_text: Landwirtschaftliche Rentenbank
+  empfaenger_id: landwirtschaftliche-rentenbank-fuer-das-zukunfts-und-investi
+  empfaenger_name: Landwirtschaftliche Rentenbank für das Zukunfts- und Investitionsprogramm
+    Landwirtschaft
+  aehnlichkeit: 1.0
+  quelle: https://www.bundestag.de/abgeordnete/biografien/B/breher_silvia-1043814
   hinweis: ''
 - person: Clara Bünger
   funktion_person: MdB, Die Linke
   organisation_text: Stiftung Forum Recht
-  empfaenger_id: zufuehrung-an-die-stiftung-forum-recht
-  empfaenger_name: Zuführung an die Stiftung Forum Recht
+  empfaenger_id: forum-recht
+  empfaenger_name: Forum Recht
   aehnlichkeit: 1.0
   quelle: https://www.bundestag.de/abgeordnete/biografien/B/buenger_clara-1043894
   hinweis: ''
@@ -114,8 +123,8 @@ kandidaten:
 - person: Esther Dilcher
   funktion_person: MdB, SPD
   organisation_text: Stiftung Forum Recht
-  empfaenger_id: zufuehrung-an-die-stiftung-forum-recht
-  empfaenger_name: Zuführung an die Stiftung Forum Recht
+  empfaenger_id: forum-recht
+  empfaenger_name: Forum Recht
   aehnlichkeit: 1.0
   quelle: https://www.bundestag.de/abgeordnete/biografien/D/dilcher_esther-1044056
   hinweis: ''
@@ -162,12 +171,11 @@ kandidaten:
 - person: Dr. Götz Frömming
   funktion_person: MdB, AfD
   organisation_text: Land Berlin
-  empfaenger_id: land-berlin
-  empfaenger_name: Land Berlin
+  empfaenger_id: investitionen-an-das-land-berlin
+  empfaenger_name: Investitionen an das Land Berlin
   aehnlichkeit: 1.0
   quelle: https://www.bundestag.de/abgeordnete/biografien/F/froemming_goetz-1044408
-  hinweis: Berufliche Tätigkeit vor der Mitgliedschaft im Bundestag; keine laufende
-    Funktion
+  hinweis: vor der Mitgliedschaft
 - person: Schahina Gambir
   funktion_person: MdB, Bündnis 90 Die Grünen
   organisation_text: DEval - Deutsches Evaluierungsinstitut der Entwicklungszusammenarbeit
@@ -177,14 +185,6 @@ kandidaten:
   aehnlichkeit: 1.0
   quelle: https://www.bundestag.de/abgeordnete/biografien/G/gambir_schahina-1044436
   hinweis: ''
-- person: Dr. Thomas Gebhart
-  funktion_person: MdB, CDU/CSU
-  organisation_text: Landtag Rheinland-Pfalz
-  empfaenger_id: land-rheinland-pfalz
-  empfaenger_name: Land Rheinland-Pfalz
-  aehnlichkeit: 0.93
-  quelle: https://www.bundestag.de/abgeordnete/biografien/G/gebhart_thomas-1044466
-  hinweis: vor der Mitgliedschaft
 - person: Martin Gerster
   funktion_person: MdB, SPD
   organisation_text: THW-Bundesvereinigung e.V. (THW-BV)
@@ -243,6 +243,14 @@ kandidaten:
   aehnlichkeit: 0.857
   quelle: https://www.bundestag.de/abgeordnete/biografien/H/hasselmann_britta-1044778
   hinweis: ''
+- person: Mechthild Heil
+  funktion_person: MdB, CDU/CSU
+  organisation_text: Bundesstiftung Baukultur
+  empfaenger_id: investitionen-an-die-bundesstiftung-baukultur
+  empfaenger_name: Investitionen an die Bundesstiftung Baukultur
+  aehnlichkeit: 1.0
+  quelle: https://www.bundestag.de/abgeordnete/biografien/H/heil_mechthild-1044822
+  hinweis: ''
 - person: Gabriela Heinrich
   funktion_person: MdB, SPD
   organisation_text: DATEV eG
@@ -257,6 +265,14 @@ kandidaten:
   organisation_text: Bundeswehr
   empfaenger_id: verband-der-reservisten
   empfaenger_name: Verband der Reservisten der Deutschen Bundeswehr e. V.
+  aehnlichkeit: 1.0
+  quelle: https://www.bundestag.de/abgeordnete/biografien/H/herbstreuth_diana-1044916
+  hinweis: vor der Mitgliedschaft
+- person: Diana Herbstreuth
+  funktion_person: MdB, CDU/CSU
+  organisation_text: Bundeswehr
+  empfaenger_id: zu-den-kosten-von-der-bundeswehr-mitbenutzter-militaerischer
+  empfaenger_name: zu den Kosten von der Bundeswehr mitbenutzter militärischer Anlagen
   aehnlichkeit: 1.0
   quelle: https://www.bundestag.de/abgeordnete/biografien/H/herbstreuth_diana-1044916
   hinweis: vor der Mitgliedschaft
@@ -283,6 +299,14 @@ kandidaten:
   empfaenger_name: Agora Digitale Transformation gGmbH
   aehnlichkeit: 1.0
   quelle: https://www.bundestag.de/abgeordnete/biografien/H/heuberger_moritz-1044964
+  hinweis: ''
+- person: Christian Hirte
+  funktion_person: MdB, CDU/CSU
+  organisation_text: Bundesstiftung Baukultur
+  empfaenger_id: investitionen-an-die-bundesstiftung-baukultur
+  empfaenger_name: Investitionen an die Bundesstiftung Baukultur
+  aehnlichkeit: 1.0
+  quelle: https://www.bundestag.de/abgeordnete/biografien/H/hirte_christian-1045006
   hinweis: ''
 - person: Philip M. A. Hoffmann
   funktion_person: MdB, CDU/CSU
@@ -341,6 +365,14 @@ kandidaten:
   empfaenger_name: Berghof Foundation Operations gGmbH
   aehnlichkeit: 1.0
   quelle: https://www.bundestag.de/abgeordnete/biografien/K/kaddor_lamya-1045258
+  hinweis: ''
+- person: Elisabeth Kaiser
+  funktion_person: MdB, SPD
+  organisation_text: Bundesstiftung Baukultur
+  empfaenger_id: investitionen-an-die-bundesstiftung-baukultur
+  empfaenger_name: Investitionen an die Bundesstiftung Baukultur
+  aehnlichkeit: 1.0
+  quelle: https://www.bundestag.de/abgeordnete/biografien/K/kaiser_elisabeth-1045268
   hinweis: ''
 - person: Ronja Kemmer
   funktion_person: MdB, CDU/CSU
@@ -476,22 +508,6 @@ kandidaten:
   aehnlichkeit: 1.0
   quelle: https://www.bundestag.de/abgeordnete/biografien/M/machalet_tanja-1045922
   hinweis: ''
-- person: Isabel Mackensen-Geis
-  funktion_person: MdB, SPD
-  organisation_text: Landtag Rheinland-Pfalz
-  empfaenger_id: land-rheinland-pfalz
-  empfaenger_name: Land Rheinland-Pfalz
-  aehnlichkeit: 0.93
-  quelle: https://www.bundestag.de/abgeordnete/biografien/M/mackensen_geis_isabel-1045928
-  hinweis: vor der Mitgliedschaft
-- person: Holger Mann
-  funktion_person: MdB, SPD
-  organisation_text: Bundesagentur für Sprunginnovationen (SPRIND) GmbH
-  empfaenger_id: bundesagentur
-  empfaenger_name: Bundesagentur
-  aehnlichkeit: 1.0
-  quelle: https://www.bundestag.de/abgeordnete/biografien/M/mann_holger-1045960
-  hinweis: ''
 - person: Johann Martel
   funktion_person: MdB, AfD
   organisation_text: AUDI AG
@@ -588,8 +604,77 @@ kandidaten:
 - person: Christian Moser
   funktion_person: MdB, CDU/CSU
   organisation_text: Landwirt
-  empfaenger_id: landwirtschaftliche-rentenbank
-  empfaenger_name: Landwirtschaftliche Rentenbank
+  empfaenger_id: zur-alterssicherung-der-landwirte
+  empfaenger_name: zur Alterssicherung der Landwirte
+  aehnlichkeit: 1.0
+  quelle: https://www.bundestag.de/abgeordnete/biografien/M/moser_christian-1046208
+  hinweis: ''
+- person: Christian Moser
+  funktion_person: MdB, CDU/CSU
+  organisation_text: Landwirt
+  empfaenger_id: zur-landwirtschaftlichen-unfallversicherung
+  empfaenger_name: zur landwirtschaftlichen Unfallversicherung
+  aehnlichkeit: 1.0
+  quelle: https://www.bundestag.de/abgeordnete/biografien/M/moser_christian-1046208
+  hinweis: ''
+- person: Christian Moser
+  funktion_person: MdB, CDU/CSU
+  organisation_text: Landwirt
+  empfaenger_id: zur-gewaehrung-einer-rente-an-kleinlandwirte-bei-landabgabe
+  empfaenger_name: zur Gewährung einer Rente an Kleinlandwirte bei Landabgabe (Landabgaberente)
+  aehnlichkeit: 1.0
+  quelle: https://www.bundestag.de/abgeordnete/biografien/M/moser_christian-1046208
+  hinweis: ''
+- person: Christian Moser
+  funktion_person: MdB, CDU/CSU
+  organisation_text: Landwirt
+  empfaenger_id: zur-foerderung-der-einstellung-der-landwirtschaftlichen-erwe
+  empfaenger_name: zur Förderung der Einstellung der landwirtschaftlichen Erwerbstätigkeit
+  aehnlichkeit: 1.0
+  quelle: https://www.bundestag.de/abgeordnete/biografien/M/moser_christian-1046208
+  hinweis: ''
+- person: Christian Moser
+  funktion_person: MdB, CDU/CSU
+  organisation_text: Landwirt
+  empfaenger_id: investitionen-an-die-bundesanstalt-fuer-landwirtschaft-und-e
+  empfaenger_name: Investitionen an die Bundesanstalt für Landwirtschaft und Ernährung
+    (BLE)
+  aehnlichkeit: 1.0
+  quelle: https://www.bundestag.de/abgeordnete/biografien/M/moser_christian-1046208
+  hinweis: ''
+- person: Christian Moser
+  funktion_person: MdB, CDU/CSU
+  organisation_text: Landwirt
+  empfaenger_id: zur-foerderung-des-oekologischen-landbaus-und-anderer-nachha
+  empfaenger_name: zur Förderung des ökologischen Landbaus und anderer nachhaltiger
+    Formen der Landwirtschaft
+  aehnlichkeit: 1.0
+  quelle: https://www.bundestag.de/abgeordnete/biografien/M/moser_christian-1046208
+  hinweis: ''
+- person: Christian Moser
+  funktion_person: MdB, CDU/CSU
+  organisation_text: Landwirt
+  empfaenger_id: zur-foerderung-der-gesundheit-und-robustheit-landwirtschaftl
+  empfaenger_name: zur Förderung der Gesundheit und Robustheit landwirtschaftlicher
+    Nutztiere
+  aehnlichkeit: 1.0
+  quelle: https://www.bundestag.de/abgeordnete/biografien/M/moser_christian-1046208
+  hinweis: ''
+- person: Christian Moser
+  funktion_person: MdB, CDU/CSU
+  organisation_text: Landwirt
+  empfaenger_id: landwirtschaftliche-rentenbank-fuer-das-zukunfts-und-investi
+  empfaenger_name: Landwirtschaftliche Rentenbank für das Zukunfts- und Investitionsprogramm
+    Landwirtschaft
+  aehnlichkeit: 1.0
+  quelle: https://www.bundestag.de/abgeordnete/biografien/M/moser_christian-1046208
+  hinweis: ''
+- person: Christian Moser
+  funktion_person: MdB, CDU/CSU
+  organisation_text: Landwirt
+  empfaenger_id: zur-foerderung-landwirtschaftlicher-betriebe-in-benachteilig
+  empfaenger_name: zur Förderung Landwirtschaftlicher Betriebe in benachteiligten
+    Gebieten (Ausgleichszulage)
   aehnlichkeit: 1.0
   quelle: https://www.bundestag.de/abgeordnete/biografien/M/moser_christian-1046208
   hinweis: ''
@@ -606,6 +691,14 @@ kandidaten:
   organisation_text: Bundeswehr
   empfaenger_id: verband-der-reservisten
   empfaenger_name: Verband der Reservisten der Deutschen Bundeswehr e. V.
+  aehnlichkeit: 1.0
+  quelle: https://www.bundestag.de/abgeordnete/biografien/N/nolte_jan-1046360
+  hinweis: vor der Mitgliedschaft
+- person: Jan Ralf Nolte
+  funktion_person: MdB, AfD
+  organisation_text: Bundeswehr
+  empfaenger_id: zu-den-kosten-von-der-bundeswehr-mitbenutzter-militaerischer
+  empfaenger_name: zu den Kosten von der Bundeswehr mitbenutzter militärischer Anlagen
   aehnlichkeit: 1.0
   quelle: https://www.bundestag.de/abgeordnete/biografien/N/nolte_jan-1046360
   hinweis: vor der Mitgliedschaft
@@ -642,6 +735,14 @@ kandidaten:
   aehnlichkeit: 1.0
   quelle: https://www.bundestag.de/abgeordnete/biografien/P/paul_andreas-1046490
   hinweis: vor der Mitgliedschaft
+- person: Andreas Paul
+  funktion_person: MdB, AfD
+  organisation_text: Bundeswehr
+  empfaenger_id: zu-den-kosten-von-der-bundeswehr-mitbenutzter-militaerischer
+  empfaenger_name: zu den Kosten von der Bundeswehr mitbenutzter militärischer Anlagen
+  aehnlichkeit: 1.0
+  quelle: https://www.bundestag.de/abgeordnete/biografien/P/paul_andreas-1046490
+  hinweis: vor der Mitgliedschaft
 - person: Sabine Poschmann
   funktion_person: MdB, SPD
   organisation_text: Dortmunder Energie- und Wasserversorgung GmbH
@@ -651,6 +752,15 @@ kandidaten:
   quelle: https://www.bundestag.de/abgeordnete/biografien/P/poschmann_sabine-1046592
   hinweis: Berufliche Tätigkeit vor der Mitgliedschaft im Bundestag; keine laufende
     Funktion
+- person: Sabine Poschmann
+  funktion_person: MdB, SPD
+  organisation_text: Zukunftszentrum für Deutsche Einheit und Europäische Transformation
+    gemeinnützige GmbH
+  empfaenger_id: zukunftszentrum-fuer-deutsche-einheit-und-europaeische-trans
+  empfaenger_name: Zukunftszentrum für Deutsche Einheit und Europäische Transformation
+  aehnlichkeit: 1.0
+  quelle: https://www.bundestag.de/abgeordnete/biografien/P/poschmann_sabine-1046592
+  hinweis: ''
 - person: Thomas Rachel
   funktion_person: MdB, CDU/CSU
   organisation_text: Deutsches Evaluierungsinstitut der Entwicklungszusammenarbeit
@@ -738,6 +848,14 @@ kandidaten:
   quelle: https://www.bundestag.de/abgeordnete/biografien/S/schaetzl_johannes-1047012
   hinweis: Berufliche Tätigkeit vor der Mitgliedschaft im Bundestag; keine laufende
     Funktion
+- person: Ulrike Schielke-Ziesing
+  funktion_person: MdB, AfD
+  organisation_text: Deutsche Rentenversicherung Nord
+  empfaenger_id: deutsche-rentenversicherung-bund
+  empfaenger_name: Deutsche Rentenversicherung Bund
+  aehnlichkeit: 0.938
+  quelle: https://www.bundestag.de/abgeordnete/biografien/S/schielke_ziesing_ulrike-1047064
+  hinweis: vor der Mitgliedschaft
 - person: Christoph Schmid
   funktion_person: MdB, SPD
   organisation_text: Engagement Global gemeinnützige GmbH
@@ -783,8 +901,8 @@ kandidaten:
 - person: Dr. Till Steffen
   funktion_person: MdB, Bündnis 90 Die Grünen
   organisation_text: Stiftung Forum Recht
-  empfaenger_id: zufuehrung-an-die-stiftung-forum-recht
-  empfaenger_name: Zuführung an die Stiftung Forum Recht
+  empfaenger_id: forum-recht
+  empfaenger_name: Forum Recht
   aehnlichkeit: 1.0
   quelle: https://www.bundestag.de/abgeordnete/biografien/S/steffen_till-1047534
   hinweis: ''
@@ -799,12 +917,12 @@ kandidaten:
 - person: Johannes Steiniger
   funktion_person: MdB, CDU/CSU
   organisation_text: Land Rheinland-Pfalz
-  empfaenger_id: land-rheinland-pfalz
-  empfaenger_name: Land Rheinland-Pfalz
+  empfaenger_id: land-rheinland-pfalz-fuer-die-deutsche-universitaet-fuer-ver
+  empfaenger_name: Land Rheinland-Pfalz für die Deutsche Universität für Verwaltungswissenschaften
+    in Speyer
   aehnlichkeit: 1.0
   quelle: https://www.bundestag.de/abgeordnete/biografien/S/steiniger_johannes-1047560
-  hinweis: Berufliche Tätigkeit vor der Mitgliedschaft im Bundestag; keine laufende
-    Funktion
+  hinweis: vor der Mitgliedschaft
 - person: Otto Strauß
   funktion_person: MdB, AfD
   organisation_text: Deutscher Aero Club e.V. (DAeC)
@@ -830,6 +948,14 @@ kandidaten:
   aehnlichkeit: 1.0
   quelle: https://www.bundestag.de/abgeordnete/biografien/T/tauschwitz_vivian-1047674
   hinweis: vor der Mitgliedschaft
+- person: Vivian Tauschwitz
+  funktion_person: MdB, CDU/CSU
+  organisation_text: Bundeswehr
+  empfaenger_id: zu-den-kosten-von-der-bundeswehr-mitbenutzter-militaerischer
+  empfaenger_name: zu den Kosten von der Bundeswehr mitbenutzter militärischer Anlagen
+  aehnlichkeit: 1.0
+  quelle: https://www.bundestag.de/abgeordnete/biografien/T/tauschwitz_vivian-1047674
+  hinweis: vor der Mitgliedschaft
 - person: Carsten Träger
   funktion_person: MdB, SPD
   organisation_text: DBU Naturerbe GmbH
@@ -839,6 +965,14 @@ kandidaten:
   aehnlichkeit: 1.0
   quelle: https://www.bundestag.de/abgeordnete/biografien/T/traeger_carsten-1047782
   hinweis: ''
+- person: Mayra Vriesema
+  funktion_person: MdB, Bündnis 90 Die Grünen
+  organisation_text: Bundesstiftung Baukultur
+  empfaenger_id: investitionen-an-die-bundesstiftung-baukultur
+  empfaenger_name: Investitionen an die Bundesstiftung Baukultur
+  aehnlichkeit: 1.0
+  quelle: https://www.bundestag.de/abgeordnete/biografien/V/1047906-1047906
+  hinweis: ''
 - person: Robin Wagener
   funktion_person: MdB, Bündnis 90 Die Grünen
   organisation_text: Deutsche Atlantische Gesellschaft e.V.
@@ -847,19 +981,11 @@ kandidaten:
   aehnlichkeit: 0.857
   quelle: https://www.bundestag.de/abgeordnete/biografien/W/wagener_robin-1047920
   hinweis: ''
-- person: Dirk Wiese
-  funktion_person: MdB, SPD
-  organisation_text: Stiftung Denkmal für die ermordeten Juden Europas
-  empfaenger_id: baumassnahme-stiftung-denkmal-fuer-die-ermordeten-juden-euro
-  empfaenger_name: Baumaßnahme Stiftung Denkmal für die ermordeten Juden Europas
-  aehnlichkeit: 1.0
-  quelle: https://www.bundestag.de/abgeordnete/biografien/W/wiese_dirk-1048128
-  hinweis: ''
 - person: Elisabeth Winkelmeier-Becker
   funktion_person: MdB, CDU/CSU
   organisation_text: Stiftung Forum Recht
-  empfaenger_id: zufuehrung-an-die-stiftung-forum-recht
-  empfaenger_name: Zuführung an die Stiftung Forum Recht
+  empfaenger_id: forum-recht
+  empfaenger_name: Forum Recht
   aehnlichkeit: 1.0
   quelle: https://www.bundestag.de/abgeordnete/biografien/W/winkelmeier_becker_elisabeth-1048162
   hinweis: ''
@@ -926,8 +1052,77 @@ kandidaten:
 - person: Artur Auernhammer
   funktion_person: MdB, CDU/CSU
   organisation_text: Landwirt
-  empfaenger_id: landwirtschaftliche-rentenbank
-  empfaenger_name: Landwirtschaftliche Rentenbank
+  empfaenger_id: zur-alterssicherung-der-landwirte
+  empfaenger_name: zur Alterssicherung der Landwirte
+  aehnlichkeit: 1.0
+  quelle: https://www.bundestag.de/abgeordnete/biografien/A/auernhammer_artur-1048348
+  hinweis: vor der Mitgliedschaft
+- person: Artur Auernhammer
+  funktion_person: MdB, CDU/CSU
+  organisation_text: Landwirt
+  empfaenger_id: zur-landwirtschaftlichen-unfallversicherung
+  empfaenger_name: zur landwirtschaftlichen Unfallversicherung
+  aehnlichkeit: 1.0
+  quelle: https://www.bundestag.de/abgeordnete/biografien/A/auernhammer_artur-1048348
+  hinweis: vor der Mitgliedschaft
+- person: Artur Auernhammer
+  funktion_person: MdB, CDU/CSU
+  organisation_text: Landwirt
+  empfaenger_id: zur-gewaehrung-einer-rente-an-kleinlandwirte-bei-landabgabe
+  empfaenger_name: zur Gewährung einer Rente an Kleinlandwirte bei Landabgabe (Landabgaberente)
+  aehnlichkeit: 1.0
+  quelle: https://www.bundestag.de/abgeordnete/biografien/A/auernhammer_artur-1048348
+  hinweis: vor der Mitgliedschaft
+- person: Artur Auernhammer
+  funktion_person: MdB, CDU/CSU
+  organisation_text: Landwirt
+  empfaenger_id: zur-foerderung-der-einstellung-der-landwirtschaftlichen-erwe
+  empfaenger_name: zur Förderung der Einstellung der landwirtschaftlichen Erwerbstätigkeit
+  aehnlichkeit: 1.0
+  quelle: https://www.bundestag.de/abgeordnete/biografien/A/auernhammer_artur-1048348
+  hinweis: vor der Mitgliedschaft
+- person: Artur Auernhammer
+  funktion_person: MdB, CDU/CSU
+  organisation_text: Landwirt
+  empfaenger_id: investitionen-an-die-bundesanstalt-fuer-landwirtschaft-und-e
+  empfaenger_name: Investitionen an die Bundesanstalt für Landwirtschaft und Ernährung
+    (BLE)
+  aehnlichkeit: 1.0
+  quelle: https://www.bundestag.de/abgeordnete/biografien/A/auernhammer_artur-1048348
+  hinweis: vor der Mitgliedschaft
+- person: Artur Auernhammer
+  funktion_person: MdB, CDU/CSU
+  organisation_text: Landwirt
+  empfaenger_id: zur-foerderung-des-oekologischen-landbaus-und-anderer-nachha
+  empfaenger_name: zur Förderung des ökologischen Landbaus und anderer nachhaltiger
+    Formen der Landwirtschaft
+  aehnlichkeit: 1.0
+  quelle: https://www.bundestag.de/abgeordnete/biografien/A/auernhammer_artur-1048348
+  hinweis: vor der Mitgliedschaft
+- person: Artur Auernhammer
+  funktion_person: MdB, CDU/CSU
+  organisation_text: Landwirt
+  empfaenger_id: zur-foerderung-der-gesundheit-und-robustheit-landwirtschaftl
+  empfaenger_name: zur Förderung der Gesundheit und Robustheit landwirtschaftlicher
+    Nutztiere
+  aehnlichkeit: 1.0
+  quelle: https://www.bundestag.de/abgeordnete/biografien/A/auernhammer_artur-1048348
+  hinweis: vor der Mitgliedschaft
+- person: Artur Auernhammer
+  funktion_person: MdB, CDU/CSU
+  organisation_text: Landwirt
+  empfaenger_id: landwirtschaftliche-rentenbank-fuer-das-zukunfts-und-investi
+  empfaenger_name: Landwirtschaftliche Rentenbank für das Zukunfts- und Investitionsprogramm
+    Landwirtschaft
+  aehnlichkeit: 1.0
+  quelle: https://www.bundestag.de/abgeordnete/biografien/A/auernhammer_artur-1048348
+  hinweis: vor der Mitgliedschaft
+- person: Artur Auernhammer
+  funktion_person: MdB, CDU/CSU
+  organisation_text: Landwirt
+  empfaenger_id: zur-foerderung-landwirtschaftlicher-betriebe-in-benachteilig
+  empfaenger_name: zur Förderung Landwirtschaftlicher Betriebe in benachteiligten
+    Gebieten (Ausgleichszulage)
   aehnlichkeit: 1.0
   quelle: https://www.bundestag.de/abgeordnete/biografien/A/auernhammer_artur-1048348
   hinweis: vor der Mitgliedschaft
@@ -1006,6 +1201,14 @@ kandidaten:
   aehnlichkeit: 1.0
   quelle: https://www.bundestag.de/abgeordnete/biografien/B/bury_yannick-1048484
   hinweis: ''
+- person: Dr. Yannick Bury
+  funktion_person: MdB, CDU/CSU
+  organisation_text: Deutsch-Französisches Jugendwerk (DFJW)
+  empfaenger_id: zum-deutsch-franzoesischen-jugendwerk
+  empfaenger_name: zum Deutsch-Französischen Jugendwerk
+  aehnlichkeit: 0.914
+  quelle: https://www.bundestag.de/abgeordnete/biografien/B/bury_yannick-1048484
+  hinweis: ''
 - person: Hansjörg Durz
   funktion_person: MdB, CDU/CSU
   organisation_text: Agora Digitale Transformation gemeinnützige GmbH
@@ -1023,6 +1226,14 @@ kandidaten:
   quelle: https://www.bundestag.de/abgeordnete/biografien/E/erndl_thomas-1048566
   hinweis: Berufliche Tätigkeit vor der Mitgliedschaft im Bundestag; keine laufende
     Funktion
+- person: Dr. Jonas Geissler
+  funktion_person: MdB, CDU/CSU
+  organisation_text: Deutsches Institut für Menschenrechte e.V. (DIMR)
+  empfaenger_id: deutschen-instituts-fuer-menschenrechte
+  empfaenger_name: Deutschen Instituts für Menschenrechte
+  aehnlichkeit: 0.961
+  quelle: https://www.bundestag.de/abgeordnete/biografien/G/geissler_jonas-1048618
+  hinweis: ''
 - person: Christian Haase
   funktion_person: MdB, CDU/CSU
   organisation_text: Der Deutsche Forstwirtschaftsrat (DFWR) e.V.
@@ -1030,6 +1241,14 @@ kandidaten:
   empfaenger_name: Deutscher Forstwirtschaftsrat e.V. (DFWR)
   aehnlichkeit: 0.918
   quelle: https://www.bundestag.de/abgeordnete/biografien/H/haase_christian-1048668
+  hinweis: ''
+- person: Prof. Dr. Matthias Hiller
+  funktion_person: MdB, CDU/CSU
+  organisation_text: Mandant 11, Erstellung und Verbreitung von Medieninhalten
+  empfaenger_id: von-medien
+  empfaenger_name: von Medien
+  aehnlichkeit: 1.0
+  quelle: https://www.bundestag.de/abgeordnete/biografien/H/hiller_matthias-1048714
   hinweis: ''
 - person: Roderich Kiesewetter
   funktion_person: MdB, CDU/CSU
@@ -1052,6 +1271,14 @@ kandidaten:
   organisation_text: Bundeswehr
   empfaenger_id: verband-der-reservisten
   empfaenger_name: Verband der Reservisten der Deutschen Bundeswehr e. V.
+  aehnlichkeit: 1.0
+  quelle: https://www.bundestag.de/abgeordnete/biografien/K/kiessling_michael-1048786
+  hinweis: ''
+- person: Michael Kießling
+  funktion_person: MdB, CDU/CSU
+  organisation_text: Bundeswehr
+  empfaenger_id: zu-den-kosten-von-der-bundeswehr-mitbenutzter-militaerischer
+  empfaenger_name: zu den Kosten von der Bundeswehr mitbenutzter militärischer Anlagen
   aehnlichkeit: 1.0
   quelle: https://www.bundestag.de/abgeordnete/biografien/K/kiessling_michael-1048786
   hinweis: ''
@@ -1085,8 +1312,8 @@ kandidaten:
 - person: Johannes Rothenberger
   funktion_person: MdB, CDU/CSU
   organisation_text: Stiftung Forum Recht
-  empfaenger_id: zufuehrung-an-die-stiftung-forum-recht
-  empfaenger_name: Zuführung an die Stiftung Forum Recht
+  empfaenger_id: forum-recht
+  empfaenger_name: Forum Recht
   aehnlichkeit: 1.0
   quelle: https://www.bundestag.de/abgeordnete/biografien/R/rothenberger_johannes-1049136
   hinweis: ''

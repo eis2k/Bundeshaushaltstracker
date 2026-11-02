@@ -125,7 +125,168 @@
 }
 ],
 "lobby_untergrenze_bund": 2720013,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03B31003",
+"ressort": "BMV",
+"epl": "12",
+"thema": "NIP II - Cluster: Innovationscluster zur großskaligen Produktion von Brennstoffzellen-Stacks",
+"von": "2021-11-01",
+"bis": "2026-04-30",
+"summe": 228717.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13IK036J",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Resiliente Automotive-Gießereien durch Einsatz AI-gestützter Assistenten für nachhaltige Prozesse (ReGAIN) - Teilvorhaben: Standardisierung von Betriebsdaten in der Gießerei",
+"von": "2023-10-01",
+"bis": "2026-08-31",
+"summe": 212163.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13IPC034R",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Digitales Ökosystem für KI-basierte Robotik (RoX) - Teilvorhaben: Mitentwicklung eines semantischen Coremodells und Verbreitung, Internationalisierung und Governance",
+"von": "2024-09-01",
+"bis": "2027-02-28",
+"summe": 1620972.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13IPC037H",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Edge-Cloud-gestützter Datenraum für die Windindustrie (Wind-X) - Teilvorhaben: Stakeholdermanagement durch die Definition von Anforderungen, Wissenstransfer und Entwicklung von Geschäftsmodellen sowie durch die Zusammenarbeit mit der IPCEI-CIS- und MX-Community",
+"von": "2024-11-01",
+"bis": "2027-07-31",
+"summe": 297288.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13MX001W",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Aufbau eines Datenraums für die ausrüstende Industrie - die Ausrüster von Fabriken weltweit (Factory-X) - Teilvorhaben: Mittelstandsgerechte Datenraumentwicklung und Transfermaßnahmen zur Verbreitung der Ergebnisse aus Factory-X",
+"von": "2024-02-01",
+"bis": "2026-06-30",
+"summe": 2034810.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13MX009A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Skalierender Technologietransfer für Manufacturing-X (SCALE-MX) - Teilvorhaben: SCALE-MX-EnableManufacturing",
+"von": "2024-10-01",
+"bis": "2026-09-30",
+"summe": 828603.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13IK039M",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Umsetzung der Digitalisierung für die Fluidtechnik 4.0 im branchen- und herstellerübergreifenden Datenraum mittels Verwaltungsschalen, Teilmodellen und Demonstratoren (Fluid 4.0) - Teilvorhaben: Standardisierung, Transfer, Vernetzung und Kommunikation",
+"von": "2024-01-01",
+"bis": "2026-07-31",
+"summe": 385023.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01MF22002A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Mittelstand-Digital Zentrum Augsburg Teilvorhaben: VDMA",
+"von": "2022-03-01",
+"bis": "2026-12-31",
+"summe": 1407300.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16IS26028H",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "IKTexplorativ: Chaos Engineering zur experimentellen Resilienzbewertung der Produktion (Chaos-X) - Interoperable Schnittstellenstandards im Maschinen- und Anlagenbau",
+"von": "2026-06-01",
+"bis": "2029-05-31",
+"summe": 306585.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI3081G",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: Normungsroadmap Wasserstofftechnologien, Teilvorhaben: (petro) chemische Industrie, Thermoprozessanlagen und Reduktionsprozesse'",
+"von": "2023-01-01",
+"bis": "2027-12-31",
+"summe": 581218.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI3115F",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: S3dEL - Safety und Security für das Scale-Up dezentraler Elektrolyseanlagen, Teilvorhaben: Anwendungsszenarien und Anforderungsprofile zur Sicherheit hochskalierter dezentraler Elektrolyseanlagen und bidirektionaler Wissenstransfer in die Maschinen- und Anlagenbau und -betreiber Industrie",
+"von": "2025-07-01",
+"bis": "2028-06-30",
+"summe": 254249.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI3128C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: NRMH2Plus - Normungsroadmap Wasserstoffderivate und -technologien. Teilvorhaben: Industrieanlagen und Komponenten",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 786924.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03XP0540A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "BETSY - Begleitmaßnahme und Transfer-Accelerator zur Förderinitiative Effizienzsteigerung und Nutzung von Synergieeffekten in der Batteriezellfertigung für die Elektromobilität",
+"von": "2023-06-01",
+"bis": "2027-05-31",
+"summe": 588796.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03XP0539E",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "ENLARGE - Interoperable Produktion als Enabler für eine datengetriebene Batterie-Wertschöpfungskette",
+"von": "2023-05-01",
+"bis": "2026-04-30",
+"summe": 212376.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SFK3C5-3",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben SynErgie3: Synchronisierte und energieadaptive Produktionstechnik zur flexiblen Ausrichtung von Industrieprozessen auf eine fluktuierende Energieversorgung",
+"von": "2023-07-01",
+"bis": "2026-06-30",
+"summe": 161582.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SF0803B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben H2Map-Educate: Wasserstoffatlanten und Bildung im Bereich Wasserstoff zur Unterstützung der interkontinentalen Zusammenarbeit und Bildung in der Wasserstoffwirtschaft",
+"von": "2026-05-15",
+"bis": "2029-05-14",
+"summe": 89541.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Bertram Kawlath",
@@ -1581,6 +1742,11 @@
 "stand": "2026-10-23",
 "etikett": "Eigenangabe",
 "version": 129
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

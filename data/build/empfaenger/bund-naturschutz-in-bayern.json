@@ -37,7 +37,18 @@
 }
 ],
 "lobby_untergrenze_bund": 860002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "033L308E",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "REGULUS - Verbundvorhaben: A-DUR - Revitalisierte Auwälder - Dynamik und Resilienz im Zeichen der Multifunktionalität, Teilprojekt 5",
+"von": "2024-02-01",
+"bis": "2029-01-31",
+"summe": 133711.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Martin Geilhufe",
@@ -443,6 +454,11 @@
 "stand": "2026-06-16",
 "etikett": "Eigenangabe",
 "version": 30
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

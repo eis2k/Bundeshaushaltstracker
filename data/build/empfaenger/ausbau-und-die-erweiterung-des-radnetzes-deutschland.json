@@ -1,0 +1,60 @@
+{
+"id": "ausbau-und-die-erweiterung-des-radnetzes-deutschland",
+"name": "Ausbau und die Erweiterung des \"Radnetzes Deutschland",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "12-1210-89192",
+"text": "Zuschüsse für den Ausbau und die Erweiterung des Radnetzes Deutschland\"\"",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr",
+"werte": {
+"2020": {
+"soll": 6000000,
+"ist": 813071
+},
+"2021": {
+"soll": 10000000,
+"ist": 596037
+},
+"2022": {
+"soll": 15000000,
+"ist": 4922754
+},
+"2023": {
+"soll": 18000000,
+"ist": 14573113
+},
+"2024": {
+"soll": 18250000,
+"ist": 23385138
+},
+"2025": {
+"soll": 18310000,
+"ist": 11162305
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

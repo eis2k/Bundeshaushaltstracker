@@ -29,7 +29,18 @@
 }
 ],
 "lobby_untergrenze_bund": 50001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "16KIS2384",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "KMU-innovativ-Verbundprojekt: Zero-Energy Communication für variable Umgebungsbedingungen und Funkinfrastrukturen - ZECOM -",
+"von": "2025-10-01",
+"bis": "2027-09-30",
+"summe": 92246.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Bjørn Gulden",
@@ -178,6 +189,11 @@
 "stand": "2026-10-08",
 "etikett": "Eigenangabe",
 "version": 18
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

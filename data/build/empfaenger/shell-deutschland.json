@@ -45,7 +45,28 @@
 }
 ],
 "lobby_untergrenze_bund": 22500003,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03HY128A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben HYPOWER - Elektrische Integration von Groß-Elektrolysen in das Stromnetz auf Basis einer 100 MW Elektrolyse. (Unterstützung für H2Giga)",
+"von": "2022-12-01",
+"bis": "2027-04-30",
+"summe": 127901.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EMF0404N",
+"ressort": "BMV",
+"epl": "12",
+"thema": "Verbundvorhaben/ HoLa: Hochleistungsladen im Lkw-Fernverkehr",
+"von": "2024-12-01",
+"bis": "2027-01-15",
+"summe": 1091212.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Felix Faber",
@@ -260,6 +281,11 @@
 "stand": "2026-10-08",
 "etikett": "Eigenangabe",
 "version": 57
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

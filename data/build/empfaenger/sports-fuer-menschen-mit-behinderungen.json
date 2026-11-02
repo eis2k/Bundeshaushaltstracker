@@ -1,0 +1,68 @@
+{
+"id": "sports-fuer-menschen-mit-behinderungen",
+"name": "Sports für Menschen mit Behinderungen",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "11-1105-68401",
+"text": "Förderung des Sports für Menschen mit Behinderungen",
+"epl": "11",
+"epl_text": "Bundesministerium für Arbeit und Soziales",
+"werte": {
+"2015": {
+"soll": 480000,
+"ist": 441982
+},
+"2016": {
+"soll": 480000,
+"ist": 423835
+},
+"2017": {
+"soll": 460000,
+"ist": 388520
+},
+"2018": {
+"soll": 460000,
+"ist": 450527
+},
+"2019": {
+"soll": 460000,
+"ist": 452344
+},
+"2020": {
+"soll": 460000,
+"ist": 439529
+},
+"2021": {
+"soll": 460000,
+"ist": 438346
+},
+"2022": {
+"soll": 486000,
+"ist": 483247
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

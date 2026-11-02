@@ -1,0 +1,56 @@
+{
+"id": "gefluechtete-kultur-und-medienschaffende",
+"name": "geflüchtete Kultur- und Medienschaffende",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "04-0452-68411",
+"text": "Förderung für geflüchtete Kultur- und Medienschaffende",
+"epl": "04",
+"epl_text": "Bundeskanzler und Bundeskanzleramt",
+"werte": {
+"2022": {
+"soll": 0,
+"ist": 0
+},
+"2023": {
+"soll": 6000000,
+"ist": 4445000
+},
+"2024": {
+"soll": 4006000,
+"ist": 3633739
+},
+"2025": {
+"soll": 3610000,
+"ist": 2778105
+},
+"2026": {
+"soll": 1500000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

@@ -1,0 +1,52 @@
+{
+"id": "zum-pilotprojekt-reflexives-einsatztrainingszentrum",
+"name": "zum Pilotprojekt Reflexives Einsatztrainingszentrum",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "06-0624-68401",
+"text": "Zuschuss zum Pilotprojekt Reflexives Einsatztrainingszentrum",
+"epl": "06",
+"epl_text": "Bundesministerium des Innern",
+"werte": {
+"2023": {
+"soll": 2500000,
+"ist": 0
+},
+"2024": {
+"soll": 0,
+"ist": 2500000
+},
+"2025": {
+"soll": 0,
+"ist": 0
+},
+"2026": {
+"soll": 0,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

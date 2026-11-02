@@ -29,7 +29,38 @@
 }
 ],
 "lobby_untergrenze_bund": 6290001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EN5053A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: SensWatch - Ausfallfreies Sensorsystem zur Langzeitüberwachung der Wasserstoffinfrastruktur mittels integriertem Mikroenergiesystem und eines Energie-Pufferspeicher, TV: Spezifikation der Systemanforderungen und Validierung",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 63273.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EWR012C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Reallabor: EnergieparkBL - Demonstration von Sektorkopplung: Wind-Elektrolyse für Erzeugung, Speicherung und Transport von grünem Wasserstoff - Teilvorhaben: Umstellung einer in Betrieb befindlichen Erdgasleitung auf den Transport von Wasserstoff",
+"von": "2021-09-01",
+"bis": "2028-11-30",
+"summe": 2075100.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EWR012CV",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Reallabor: EnergieparkBL - Demonstration von Sektorkopplung: Wind-Elektrolyse für Erzeugung, Speicherung und Transport von grünem Wasserstoff - Teilvorhaben: Umstellung einer in Betrieb befindlichen Erdgasleitung auf den Transport von Wasserstoff [VE]",
+"von": "2021-09-01",
+"bis": "2026-08-31",
+"summe": 0.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Ralph Bahke",
@@ -145,6 +176,11 @@
 "stand": "2026-10-08",
 "etikett": "Eigenangabe",
 "version": 15
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

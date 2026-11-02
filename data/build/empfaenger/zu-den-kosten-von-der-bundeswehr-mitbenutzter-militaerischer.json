@@ -1,0 +1,92 @@
+{
+"id": "zu-den-kosten-von-der-bundeswehr-mitbenutzter-militaerischer",
+"name": "zu den Kosten von der Bundeswehr mitbenutzter militärischer Anlagen",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "14-1422-68705",
+"text": "Beitrag zu den Kosten von der Bundeswehr mitbenutzter militärischer Anlagen",
+"epl": "14",
+"epl_text": "Bundesministerium der Verteidigung",
+"werte": {
+"2015": {
+"soll": 70000000,
+"ist": 40927506
+}
+}
+},
+{
+"id": "14-1401-68705",
+"text": "Beitrag zu den Kosten von der Bundeswehr mitbenutzter militärischer Anlagen",
+"epl": "14",
+"epl_text": "Bundesministerium der Verteidigung",
+"werte": {
+"2016": {
+"soll": 70052000,
+"ist": 54409158
+},
+"2017": {
+"soll": 49900000,
+"ist": 38840992
+},
+"2018": {
+"soll": 136556000,
+"ist": 135201530
+},
+"2019": {
+"soll": 116376000,
+"ist": 90631674
+},
+"2020": {
+"soll": 100015000,
+"ist": 71695480
+},
+"2021": {
+"soll": 71221000,
+"ist": 68593692
+},
+"2022": {
+"soll": 90798000,
+"ist": 81795082
+},
+"2023": {
+"soll": 99468000,
+"ist": 81948197
+},
+"2024": {
+"soll": 81665000,
+"ist": 80395562
+},
+"2025": {
+"soll": 100818000,
+"ist": 64432406
+},
+"2026": {
+"soll": 166560000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

@@ -1,0 +1,112 @@
+{
+"id": "zu-den-kosten-fuer-erhebungen-auf-dem-gebiet-der-krebskrankh",
+"name": "zu den Kosten für Erhebungen auf dem Gebiet der Krebskrankheiten und anderer nicht übertragbarer Krankheiten",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "15-1502-63202",
+"text": "Zuschuss zu den Kosten zum Betrieb eines Transplantationsregisters und eines Implantateregisters",
+"epl": "15",
+"epl_text": "Bundesministerium für Gesundheit",
+"werte": {
+"2015": {
+"soll": 897000,
+"ist": 895317
+},
+"2016": {
+"soll": 500000,
+"ist": 150000
+},
+"2017": {
+"soll": 500000,
+"ist": 0
+},
+"2018": {
+"soll": 500000,
+"ist": 0
+}
+}
+},
+{
+"id": "15-1504-63202",
+"text": "Zuschuss zu den Kosten für Erhebungen auf dem Gebiet der Krebskrankheiten und anderer nicht übertragbarer Krankheiten",
+"epl": "15",
+"epl_text": "Bundesministerium für Gesundheit",
+"werte": {
+"2016": {
+"soll": 897000,
+"ist": 673423
+},
+"2017": {
+"soll": 897000,
+"ist": 760663
+},
+"2018": {
+"soll": 1280000,
+"ist": 878215
+}
+}
+},
+{
+"id": "15-1504-68503",
+"text": "Zuschuss zu den Kosten für Erhebungen auf dem Gebiet der Krebskrankheiten und anderer nicht übertragbarer Krankheiten",
+"epl": "15",
+"epl_text": "Bundesministerium für Gesundheit",
+"werte": {
+"2019": {
+"soll": 1280000,
+"ist": 981811
+},
+"2020": {
+"soll": 1280000,
+"ist": 1056277
+},
+"2021": {
+"soll": 1280000,
+"ist": 843003
+},
+"2022": {
+"soll": 1280000,
+"ist": 816968
+},
+"2023": {
+"soll": 1280000,
+"ist": 857855
+},
+"2024": {
+"soll": 1280000,
+"ist": 782013
+},
+"2025": {
+"soll": 1280000,
+"ist": 862716
+},
+"2026": {
+"soll": 1280000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

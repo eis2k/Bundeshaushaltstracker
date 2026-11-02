@@ -1,0 +1,44 @@
+{
+"id": "ausstellung-architecture-of-speed",
+"name": "Ausstellung \"architecture of speed",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "12-1210-68604",
+"text": "Förderung eines verkehrsträgerübergreifenden Mobilitätssystems auf Grundlage des automatisierten, autonomen und vernetzten Fahrens",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr",
+"werte": {
+"2021": {
+"soll": 325000,
+"ist": 322942
+},
+"2026": {
+"soll": 8114000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

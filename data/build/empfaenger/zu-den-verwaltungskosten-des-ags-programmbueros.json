@@ -1,0 +1,80 @@
+{
+"id": "zu-den-verwaltungskosten-des-ags-programmbueros",
+"name": "zu den Verwaltungskosten des AGS-Programmbüros (NAGSMA)",
+"art": "unternehmen",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "14-1422-68721",
+"text": "Beitrag zu den Verwaltungskosten des AGS-Programmbüros (NAGSMA)",
+"epl": "14",
+"epl_text": "Bundesministerium der Verteidigung",
+"werte": {
+"2015": {
+"soll": 3830000,
+"ist": 4414812
+}
+}
+},
+{
+"id": "14-1401-68721",
+"text": "Beitrag zu den Verwaltungskosten des AGS-Programmbüros (NAGSMA)",
+"epl": "14",
+"epl_text": "Bundesministerium der Verteidigung",
+"werte": {
+"2016": {
+"soll": 3817000,
+"ist": 3122014
+},
+"2017": {
+"soll": 3877000,
+"ist": 2254927
+},
+"2018": {
+"soll": 3877000,
+"ist": 1345853
+},
+"2019": {
+"soll": 1000000,
+"ist": 168066
+},
+"2020": {
+"soll": 200000,
+"ist": 1073458
+},
+"2021": {
+"soll": 100000,
+"ist": 0
+},
+"2022": {
+"soll": 0,
+"ist": 0
+},
+"2023": {
+"soll": 0,
+"ist": 0
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

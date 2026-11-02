@@ -1,0 +1,60 @@
+{
+"id": "zur-markteinfuehrung-nachwachsender-rohstoffe",
+"name": "zur Markteinführung nachwachsender Rohstoffe",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "10-1005-68612",
+"text": "Zuschüsse zur Markteinführung nachwachsender Rohstoffe",
+"epl": "10",
+"epl_text": "Bundesministerium für Ernährung und Landwirtschaft",
+"werte": {
+"2015": {
+"soll": 500000,
+"ist": 0
+},
+"2016": {
+"soll": 500000,
+"ist": 0
+}
+}
+},
+{
+"id": "10-1005-88411",
+"text": "Zuschüsse zur Markteinführung nachwachsender Rohstoffe (Investitionen)",
+"epl": "10",
+"epl_text": "Bundesministerium für Ernährung und Landwirtschaft",
+"werte": {
+"2015": {
+"soll": 500000,
+"ist": 0
+},
+"2016": {
+"soll": 500000,
+"ist": 0
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

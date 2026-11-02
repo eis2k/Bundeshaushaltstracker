@@ -1,3 +1,313 @@
 # Kennzahlen aus Jahresabschlüssen der Empfänger, von Hand abgelesen (Eigenangabe des Empfängers, Prüfvermerk des Wirtschaftsprüfers).
-# Beträge in Euro, ohne Umrechnung; fehlende Posten bleiben null. Seite = Seite im verlinkten PDF.
-eintraege: []
+# Beträge in Euro, ohne Umrechnung; fehlende Posten bleiben null. Seite = Seite im verlinkten PDF (Zählung des PDF, nicht aufgedruckte Seitenzahl).
+# Felder: ertraege_gesamt, oeffentliche_hand, spenden, personalaufwand, projektfoerderung, weitergeleitete_mittel, jahresergebnis.
+# Regel: Nur Zahlen, die so im Dokument stehen. Keine Quoten (rechnet die Seite). Unklares bleibt null und steht im hinweis.
+eintraege:
+  - empfaenger: amadeu-antonio-stiftung
+    geschaeftsjahr: 2024
+    url: "https://www.lobbyregister.bundestag.de/media/2b/d6/837710/Jahresabschluss-2024-Amadeu-Antonio-Stiftung.pdf"
+    seite: 2
+    pruefer: "Gem.Audit PartG mbB Wirtschaftsprüfungsgesellschaft, Hamburg (uneingeschränkter Bestätigungsvermerk 26.11.2025)"
+    ertraege_gesamt: 12523375
+    oeffentliche_hand: 7351034
+    spenden: 3308958
+    personalaufwand: 6965568
+    projektfoerderung: 1015267
+    weitergeleitete_mittel: 901912
+    jahresergebnis: 1490418
+    erfasst: "2026-11-01"
+    hinweis: "Gescannte GuV. Personalaufwand = alle Beschäftigten; eine Vorstandsvergütung ist nicht gesondert ausgewiesen. „Öffentliche Hand“ umfasst Bund, Länder und EU."
+  - empfaenger: deutsche-forschungsgemeinschaft
+    geschaeftsjahr: 2025
+    url: "https://www.lobbyregister.bundestag.de/media/44/84/860411/dfg-jb2025.pdf"
+    seite: 132
+    pruefer: null
+    ertraege_gesamt: 3807489887
+    oeffentliche_hand: 3774632442
+    spenden: null
+    personalaufwand: null
+    projektfoerderung: null
+    weitergeleitete_mittel: null
+    jahresergebnis: null
+    erfasst: "2026-11-02"
+    hinweis: "Haushaltsbericht (Wirtschaftsplan-Rechnung), keine GuV. Zuwendungen des Bundes 2.608.757.800 €, der Länder 1.165.874.642 €. Die Ausgabenseite ist nicht nach Personal- und Projektaufwand gegliedert."
+  - empfaenger: brot-fuer-die-welt-evangelisches-werk-fuer-diakonie-und-entw
+    geschaeftsjahr: 2025
+    url: "https://www.lobbyregister.bundestag.de/media/ee/db/862930/BfdW_Jahresbericht_2025.pdf"
+    seite: 32
+    pruefer: null
+    ertraege_gesamt: 341693863
+    oeffentliche_hand: 178768634
+    spenden: 72577459
+    personalaufwand: 33154303
+    projektfoerderung: 255096228
+    weitergeleitete_mittel: null
+    jahresergebnis: null
+    erfasst: "2026-11-02"
+    hinweis: "Mittelherkunft und -verwendung laut Jahresbericht. Öffentliche Hand = Bundesmittel 177.184.106 € + EU 1.584.528 €; Mittel des Kirchlichen Entwicklungsdienstes (66,2 Mio €) gesondert. Personalaufwand = Programmarbeit 30,4 Mio € + Werbung 2,75 Mio €; der Verwaltungsanteil ist im Bericht nicht als Personalaufwand beschriftet."
+  - empfaenger: evangelische-zentralstelle-fuer-globale-entwicklung
+    geschaeftsjahr: 2024
+    url: "https://www.lobbyregister.bundestag.de/media/cb/27/811926/EZE-JAP-2024-Testat-final.pdf"
+    seite: 3
+    pruefer: null
+    ertraege_gesamt: 159373221
+    oeffentliche_hand: null
+    spenden: null
+    personalaufwand: 348858
+    projektfoerderung: 158901821
+    weitergeleitete_mittel: null
+    jahresergebnis: -158521
+    erfasst: "2026-11-02"
+    hinweis: "Gescannte GuV. Zuwendungen, Zuschüsse und Spenden werden zusammen ausgewiesen (158.650.886 €), überwiegend Bundesmittel (BMZ), die an Brot für die Welt weitergeleitet werden."
+  - empfaenger: deutsche-welthungerhilfe
+    geschaeftsjahr: 2025
+    url: "https://www.lobbyregister.bundestag.de/media/22/2d/824357/welthungerhilfe-jahresbericht-2025.pdf"
+    seite: 45
+    pruefer: null
+    ertraege_gesamt: 397254927
+    oeffentliche_hand: 279011941
+    spenden: 101545863
+    personalaufwand: 46755440
+    projektfoerderung: 323222831
+    weitergeleitete_mittel: null
+    jahresergebnis: 12800000
+    erfasst: "2026-11-02"
+    hinweis: "Jahresergebnis vor Rücklagenveränderung; nach Zuführungen 0 €. Öffentliche Zuwendungen laut Lagebericht (S. 44): Vereinte Nationen 98,0 Mio €, Auswärtiges Amt 68,1 Mio €, BMZ 60,6 Mio €, EU 20,7 Mio €, GIZ 6,1 Mio €."
+  - empfaenger: studienstiftung-des-deutschen-volkes
+    geschaeftsjahr: 2025
+    url: "https://www.lobbyregister.bundestag.de/media/ec/46/784134/Studienstiftung-des-deutschen-Volkes-e-V-endgueltiger-Jahresabschluss-31-12-2025.pdf"
+    seite: 28
+    pruefer: null
+    ertraege_gesamt: 135635407
+    oeffentliche_hand: 129952962
+    spenden: null
+    personalaufwand: 14650344
+    projektfoerderung: 107947789
+    weitergeleitete_mittel: null
+    jahresergebnis: null
+    erfasst: "2026-11-02"
+    hinweis: "Haushaltsrechnung (kamerale Gesamtübersicht). Bundesmittel 124.982.519 € (S. 30), Ländermittel 4,97 Mio €. Projektförderung = Stipendien und Stipendienprogramme."
+  - empfaenger: deutscher-caritasverband
+    geschaeftsjahr: 2025
+    url: "https://www.lobbyregister.bundestag.de/media/93/45/867339/Deutscher-Caritasverband-e-V-Freiburg_Bankexemplar-2025-1.pdf"
+    seite: 5
+    pruefer: null
+    ertraege_gesamt: 216412927
+    oeffentliche_hand: 112469965
+    spenden: 57383118
+    personalaufwand: 35114540
+    projektfoerderung: 154175642
+    weitergeleitete_mittel: null
+    jahresergebnis: 1823467
+    erfasst: "2026-11-02"
+    hinweis: "Öffentliche Hand = Bundeszuschüsse 106.700.264 € + EU 5.769.701 €; kirchliche Zuschüsse 11,1 Mio € und sonstige Zuschüsse 9,1 Mio € gesondert. Projektaufwand = Caritas international 88,6 Mio € + Projekte Inland 65,5 Mio €."
+  - empfaenger: wwf-deutschland
+    geschaeftsjahr: "2024/25"
+    url: "https://www.lobbyregister.bundestag.de/media/4c/b2/866105/WWF_Jahresbericht-25-WEB-DoS-4.pdf"
+    seite: 29
+    pruefer: null
+    ertraege_gesamt: 137086000
+    oeffentliche_hand: null
+    spenden: 55643000
+    personalaufwand: null
+    projektfoerderung: null
+    weitergeleitete_mittel: null
+    jahresergebnis: null
+    erfasst: "2026-11-02"
+    hinweis: "Jahresbericht, Beträge in Tausend Euro gerundet. Projektförderungen 39,7 Mio € stammen von öffentlichen und privaten Gebern, nicht getrennt ausgewiesen. Jahresüberschuss vor Ergebnisrücklagen laut S. 33: 9,8 Mio €."
+  - empfaenger: deutsches-rotes-kreuz
+    geschaeftsjahr: 2025
+    url: "https://www.lobbyregister.bundestag.de/media/b2/d2/856719/Deutsches-Rotes-Kreuz-e-V-_2025_EB-signiert.pdf"
+    seite: 29
+    pruefer: null
+    ertraege_gesamt: 213750000
+    oeffentliche_hand: 126826039
+    spenden: 62299000
+    personalaufwand: 50684000
+    projektfoerderung: null
+    weitergeleitete_mittel: 54089000
+    jahresergebnis: 264000
+    erfasst: "2026-11-02"
+    hinweis: "Zuwendungen „vor allem aus Bundes- und EU-Mitteln“ (S. 9); Werte außer den Zuwendungen in Tausend Euro gerundet. Weitergeleitete Mittel = Mittelzuweisungen an Dritte."
+  - empfaenger: international-rescue-committee-irc-deutschland
+    geschaeftsjahr: "2024/25"
+    url: "https://www.lobbyregister.bundestag.de/media/2f/ef/837394/Jahresabschluesse-Testat-FY25-FY24.pdf"
+    seite: 5
+    pruefer: null
+    ertraege_gesamt: 138044411
+    oeffentliche_hand: null
+    spenden: null
+    personalaufwand: null
+    projektfoerderung: 122016317
+    weitergeleitete_mittel: null
+    jahresergebnis: 5275365
+    erfasst: "2026-11-02"
+    hinweis: "Geschäftsjahr 1.10.2024 bis 30.9.2025. „Spenden und andere Zuwendungen“ (132,2 Mio €) nicht nach Herkunft getrennt; Personalaufwand nicht gesondert in der GuV. Projektförderung = Programmausgaben."
+  - empfaenger: nrc-fluechtlingshilfe-deutschland
+    geschaeftsjahr: 2025
+    url: "https://www.lobbyregister.bundestag.de/media/e0/88/772973/20260331_elektronisch-signiert_Bericht-zur-JAP-2025-der-NRC-Fluechtlingshilfe-DE-gGmbH_ES34488660_V0-4.pdf"
+    seite: 19
+    pruefer: null
+    ertraege_gesamt: 43397518
+    oeffentliche_hand: 39034000
+    spenden: null
+    personalaufwand: 3764672
+    projektfoerderung: 37907233
+    weitergeleitete_mittel: null
+    jahresergebnis: 0
+    erfasst: "2026-11-02"
+    hinweis: "Institutionelle Zuwendungen 39,0 Mio € laut Anhang (S. 23), Rest Spenden; Jahresüberschuss nach Steuern 0 €."
+  - empfaenger: handicap-international
+    geschaeftsjahr: 2025
+    url: "https://www.lobbyregister.bundestag.de/media/5c/e5/785999/208566_Bericht-JAP-2025_sig_1.pdf"
+    seite: 20
+    pruefer: null
+    ertraege_gesamt: 41064678
+    oeffentliche_hand: 35395171
+    spenden: 5654893
+    personalaufwand: 3547402
+    projektfoerderung: 34593632
+    weitergeleitete_mittel: null
+    jahresergebnis: 0
+    erfasst: "2026-11-02"
+    hinweis: "„Zuschüsse und Zuwendungen“ ohne Aufschlüsselung der Geber; Spenden einschließlich Mitgliedsbeiträge und Erbschaften. Projektförderung = Aufwendungen zur Finanzierung der Auslandsprogramme."
+  - empfaenger: care-deutschland
+    geschaeftsjahr: 2025
+    url: "https://www.lobbyregister.bundestag.de/media/00/ef/857516/WP-PruefungsberichtCARE_Testat_2025.pdf"
+    seite: 3
+    pruefer: null
+    ertraege_gesamt: 96244162
+    oeffentliche_hand: 48344000
+    spenden: 31105000
+    personalaufwand: 9363153
+    projektfoerderung: 81886179
+    weitergeleitete_mittel: null
+    jahresergebnis: -9237326
+    erfasst: "2026-11-02"
+    hinweis: "Öffentliche Zuwendungsgeber 48,3 Mio € und Kooperationspartner 15,8 Mio € laut Lagebericht (S. 16, Tausend Euro); Spenden = ungebundene 14,6 Mio € + gebundene 16,5 Mio €. Jahresergebnis vor Auflösung projektbezogener Mittel −9,2 Mio €, danach 0 €."
+  - empfaenger: help-hilfe-zur-selbsthilfe
+    geschaeftsjahr: 2025
+    url: "https://www.lobbyregister.bundestag.de/media/10/ef/822008/Jahresabschluss-2025-deutsch.pdf"
+    seite: 39
+    pruefer: null
+    ertraege_gesamt: 67855612
+    oeffentliche_hand: 47305045
+    spenden: 16953057
+    personalaufwand: null
+    projektfoerderung: 64209274
+    weitergeleitete_mittel: null
+    jahresergebnis: 332602
+    erfasst: "2026-11-02"
+    hinweis: "„Zuwendungen“ 47,3 Mio € ohne Gebertrennung (institutionelle Mittel). Personalaufwand nur für den Verwaltungsbereich ausgewiesen (1,59 Mio €), Projektpersonal im Projektaufwand."
+  - empfaenger: world-vision-deutschland
+    geschaeftsjahr: "2024/25"
+    url: "https://www.lobbyregister.bundestag.de/media/33/1e/832295/testatsversion_pruefbericht_2025.pdf"
+    seite: 7
+    pruefer: null
+    ertraege_gesamt: 169152393
+    oeffentliche_hand: 75159000
+    spenden: 168421767
+    personalaufwand: 11730080
+    projektfoerderung: 138810189
+    weitergeleitete_mittel: null
+    jahresergebnis: 142364
+    erfasst: "2026-11-02"
+    hinweis: "Geschäftsjahr 1.10.2024 bis 30.9.2025. „Ertrag aus Spendenverbrauch“ enthält auch öffentliche Zuschüsse (75,2 Mio € laut Lagebericht S. 28, Tausend Euro)."
+  - empfaenger: deutsche-gesellschaft-fuer-internationale-zusammenarbeit
+    geschaeftsjahr: 2025
+    url: "https://www.lobbyregister.bundestag.de/media/f9/47/836893/GIZ-Jahresabschluss-2025.pdf"
+    seite: 28
+    pruefer: null
+    ertraege_gesamt: 4028685452
+    oeffentliche_hand: null
+    spenden: null
+    personalaufwand: 1639914990
+    projektfoerderung: null
+    weitergeleitete_mittel: null
+    jahresergebnis: 19976167
+    erfasst: "2026-11-02"
+    hinweis: "Bundesunternehmen (Durchführungsorganisation des BMZ). Erträge = Gesamtleistung; Umsatzerlöse 3.799.508.040 €. Geschäftsvolumen gemeinnütziger Bereich davon BMZ 2.973 Mio € (S. 15)."
+  - empfaenger: oxfam-deutschland
+    geschaeftsjahr: "2024/25"
+    url: "https://www.lobbyregister.bundestag.de/media/10/db/864315/Oxfam_jb2024-25.pdf"
+    seite: 28
+    pruefer: null
+    ertraege_gesamt: 45212448
+    oeffentliche_hand: 28665838
+    spenden: 7879435
+    personalaufwand: 6633121
+    projektfoerderung: 30082961
+    weitergeleitete_mittel: 225403
+    jahresergebnis: 218765
+    erfasst: "2026-11-02"
+    hinweis: "Geschäftsjahr bis 31.3.2025. Zuwendungen der Oxfam Deutschland Shops gGmbH 3,95 Mio € und Nachlässe 0,43 Mio € gesondert. Personalaufwand = Löhne und Gehälter + Sozialabgaben."
+  - empfaenger: arbeiter-samariter-bund-deutschland
+    geschaeftsjahr: 2025
+    url: "https://www.lobbyregister.bundestag.de/media/b2/21/840392/JAP-Bericht-2025-ASB-Deutschland-endg_.pdf"
+    seite: 37
+    pruefer: null
+    ertraege_gesamt: 153924556
+    oeffentliche_hand: null
+    spenden: 1876587
+    personalaufwand: 12173507
+    projektfoerderung: 35716721
+    weitergeleitete_mittel: 56081570
+    jahresergebnis: 6004979
+    erfasst: "2026-11-02"
+    hinweis: "Bundesverband: Gesamtmitgliedsbeiträge 101,2 Mio €; „Spenden und Zuwendungen Auslandshilfe“ 35,3 Mio € nicht nach Herkunft getrennt. Weitergeleitete Mittel = Beitragsverteilung an Organisationsstufen."
+  - empfaenger: verband-der-reservisten
+    geschaeftsjahr: 2024
+    url: "https://www.lobbyregister.bundestag.de/media/49/2f/773218/VdRBw-Sachbericht-2024.pdf"
+    seite: 84
+    pruefer: null
+    ertraege_gesamt: 28154274
+    oeffentliche_hand: 24306595
+    spenden: 29509
+    personalaufwand: 14774526
+    projektfoerderung: null
+    weitergeleitete_mittel: null
+    jahresergebnis: null
+    erfasst: "2026-11-02"
+    hinweis: "Verwendungsnachweis (Ist 2024, laut Fußnote vorläufig), keine GuV. Bundesmittel 24,3 Mio € = anforderungsfähige Zuwendungsmittel; Personalausgaben zu 14.696.986 € aus Bundesmitteln."
+  - empfaenger: union-der-deutschen-akademien-der-wissenschaften
+    geschaeftsjahr: 2025
+    url: "https://www.lobbyregister.bundestag.de/media/bf/89/724688/Rechnungsabschluss-2025-AH-GH.pdf"
+    seite: 2
+    pruefer: null
+    ertraege_gesamt: null
+    oeffentliche_hand: 79713000
+    spenden: null
+    personalaufwand: null
+    projektfoerderung: null
+    weitergeleitete_mittel: null
+    jahresergebnis: null
+    erfasst: "2026-11-02"
+    hinweis: "Gescannter Rechnungsabschluss des Akademienprogramms (kameral). Einnahmen aus Zuweisungen und Zuschüssen von Bund und Ländern zusammen 79.713.000 €, nicht getrennt."
+  - empfaenger: plan-international-deutschland
+    geschaeftsjahr: "2024/25"
+    url: "https://www.lobbyregister.bundestag.de/media/97/87/863071/Plan_Jahresbericht_2025.pdf"
+    seite: 41
+    pruefer: null
+    ertraege_gesamt: 240226012
+    oeffentliche_hand: 73468897
+    spenden: 162593706
+    personalaufwand: 16043312
+    projektfoerderung: 924706
+    weitergeleitete_mittel: 193365683
+    jahresergebnis: 0
+    erfasst: "2026-11-02"
+    hinweis: "Geschäftsjahr 1.7.2024 bis 30.6.2025. Spendenerträge einschließlich Patenschaftsbeiträge; weitergeleitete Mittel = bereits abgeführte Spenden an den internationalen Verbund; Projektförderung = Projektausgaben Inland."
+  - empfaenger: deutscher-volkshochschul-verband
+    geschaeftsjahr: 2024
+    url: "https://www.lobbyregister.bundestag.de/media/2d/6d/866847/DVV-Jahresbericht-2024-web.pdf"
+    seite: 53
+    pruefer: null
+    ertraege_gesamt: null
+    oeffentliche_hand: null
+    spenden: null
+    personalaufwand: 4261753
+    projektfoerderung: null
+    weitergeleitete_mittel: null
+    jahresergebnis: null
+    erfasst: "2026-11-02"
+    hinweis: "Ergebnisrechnung 2024 im Jahresbericht; aus der Textextraktion war nur der Posten Personalkosten eindeutig lesbar."

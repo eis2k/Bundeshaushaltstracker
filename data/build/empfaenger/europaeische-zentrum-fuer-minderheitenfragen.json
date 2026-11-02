@@ -1,0 +1,92 @@
+{
+"id": "europaeische-zentrum-fuer-minderheitenfragen",
+"name": "Europäische Zentrum für Minderheitenfragen (ECMI)",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "06-0603-68506",
+"text": "Zuschuss an das Europäische Zentrum für Minderheitenfragen (ECMI)",
+"epl": "06",
+"epl_text": "Bundesministerium des Innern",
+"werte": {
+"2015": {
+"soll": 271000,
+"ist": 249000
+},
+"2016": {
+"soll": 250000,
+"ist": 241000
+},
+"2017": {
+"soll": 250000,
+"ist": 250000
+},
+"2018": {
+"soll": 250000,
+"ist": 250000
+},
+"2019": {
+"soll": 250000,
+"ist": 250000
+},
+"2020": {
+"soll": 250000,
+"ist": 250000
+},
+"2021": {
+"soll": 372000,
+"ist": 372000
+},
+"2022": {
+"soll": 372000,
+"ist": 355997
+},
+"2023": {
+"soll": 372000,
+"ist": 372000
+},
+"2024": {
+"soll": 442000,
+"ist": 442000
+},
+"2025": {
+"soll": 442000,
+"ist": 442000
+}
+}
+},
+{
+"id": "06-0603-68542",
+"text": "Zuschuss an das Europäische Zentrum für Minderheitenfragen (ECMI)",
+"epl": "06",
+"epl_text": "Bundesministerium des Innern",
+"werte": {
+"2026": {
+"soll": 442000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

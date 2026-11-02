@@ -212,12 +212,20 @@
 "geschaeftsjahr": "2025",
 "jahresabschluss": {
 "url": "https://www.lobbyregister.bundestag.de/media/44/84/860411/dfg-jb2025.pdf",
-"geschaeftsjahr": "",
-"kennzahlen": null,
-"seite": null,
+"geschaeftsjahr": "2025",
+"kennzahlen": {
+"ertraege_gesamt": 3807489887,
+"oeffentliche_hand": 3774632442,
+"spenden": null,
+"personalaufwand": null,
+"projektfoerderung": null,
+"weitergeleitete_mittel": null,
+"jahresergebnis": null
+},
+"seite": 132,
 "pruefer": null,
-"hinweis": null,
-"erfasst": null
+"hinweis": "Haushaltsbericht (Wirtschaftsplan-Rechnung), keine GuV. Zuwendungen des Bundes 2.608.757.800 €, der Länder 1.165.874.642 €. Die Ausgabenseite ist nicht nach Personal- und Projektaufwand gegliedert.",
+"erfasst": "2026-11-02"
 }
 },
 "quellen": [
@@ -228,6 +236,12 @@
 "stand": "2026-10-13",
 "etikett": "Eigenangabe",
 "version": 31
+},
+{
+"kurz": "Jahresabschluss des Empfängers",
+"url": "https://www.lobbyregister.bundestag.de/media/44/84/860411/dfg-jb2025.pdf",
+"abgerufen": "2026-11-02",
+"etikett": "Eigenangabe"
 }
 ]
 }

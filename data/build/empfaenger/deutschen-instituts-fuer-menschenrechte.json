@@ -1,0 +1,80 @@
+{
+"id": "deutschen-instituts-fuer-menschenrechte",
+"name": "Deutschen Instituts für Menschenrechte",
+"art": "forschung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "02-0212-68502",
+"text": "Förderung des Deutschen Instituts für Menschenrechte",
+"epl": "02",
+"epl_text": "Deutscher Bundestag",
+"werte": {
+"2016": {
+"soll": 2438000,
+"ist": 2510000
+},
+"2017": {
+"soll": 2657000,
+"ist": 2657000
+},
+"2018": {
+"soll": 2657000,
+"ist": 2693000
+},
+"2019": {
+"soll": 3071000,
+"ist": 3068000
+},
+"2020": {
+"soll": 3085000,
+"ist": 3085000
+},
+"2021": {
+"soll": 3115000,
+"ist": 3115000
+},
+"2022": {
+"soll": 3691000,
+"ist": 3691000
+},
+"2023": {
+"soll": 5174000,
+"ist": 5174000
+},
+"2024": {
+"soll": 5427000,
+"ist": 5427000
+},
+"2025": {
+"soll": 5553000,
+"ist": 5553000
+},
+"2026": {
+"soll": 5427000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

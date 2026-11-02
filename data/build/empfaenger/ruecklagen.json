@@ -1,0 +1,40 @@
+{
+"id": "ruecklagen",
+"name": "Rücklagen",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "17-1790-91901",
+"text": "Zuführung an Rücklagen",
+"epl": "17",
+"epl_text": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+"werte": {
+"2015": {
+"soll": 0,
+"ist": 1741727
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

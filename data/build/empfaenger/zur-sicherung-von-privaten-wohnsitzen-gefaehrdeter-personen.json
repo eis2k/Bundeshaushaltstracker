@@ -1,0 +1,84 @@
+{
+"id": "zur-sicherung-von-privaten-wohnsitzen-gefaehrdeter-personen",
+"name": "zur Sicherung von privaten Wohnsitzen gefährdeter Personen",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "60-6002-89301",
+"text": "Baumaßnahmen zur Sicherung von privaten Wohnsitzen gefährdeter Personen",
+"epl": "60",
+"epl_text": "Allgemeine Finanzverwaltung",
+"werte": {
+"2015": {
+"soll": 2500000,
+"ist": 1176075
+},
+"2016": {
+"soll": 2500000,
+"ist": 966240
+},
+"2017": {
+"soll": 2000000,
+"ist": 1430128
+},
+"2018": {
+"soll": 3000000,
+"ist": 3474467
+},
+"2019": {
+"soll": 2500000,
+"ist": 2032418
+},
+"2020": {
+"soll": 3700000,
+"ist": 1801726
+},
+"2021": {
+"soll": 3700000,
+"ist": 1296817
+},
+"2022": {
+"soll": 5000000,
+"ist": 879115
+},
+"2023": {
+"soll": 3700000,
+"ist": 3884921
+},
+"2024": {
+"soll": 4500000,
+"ist": 2798803
+},
+"2025": {
+"soll": 5000000,
+"ist": 3013844
+},
+"2026": {
+"soll": 5000000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

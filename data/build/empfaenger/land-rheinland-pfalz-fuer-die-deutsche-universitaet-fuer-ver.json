@@ -1,0 +1,84 @@
+{
+"id": "land-rheinland-pfalz-fuer-die-deutsche-universitaet-fuer-ver",
+"name": "Land Rheinland-Pfalz für die Deutsche Universität für Verwaltungswissenschaften in Speyer",
+"art": "forschung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "06-0602-63233",
+"text": "Zuschuss an das Land Rheinland-Pfalz für die Deutsche Universität für Verwaltungswissenschaften in Speyer",
+"epl": "06",
+"epl_text": "Bundesministerium des Innern",
+"werte": {
+"2015": {
+"soll": 175000,
+"ist": 174300
+},
+"2016": {
+"soll": 263000,
+"ist": 174300
+},
+"2017": {
+"soll": 353000,
+"ist": 174300
+},
+"2018": {
+"soll": 446000,
+"ist": 174300
+},
+"2019": {
+"soll": 446000,
+"ist": 174300
+},
+"2020": {
+"soll": 175000,
+"ist": 174300
+},
+"2021": {
+"soll": 175000,
+"ist": 174300
+},
+"2022": {
+"soll": 446000,
+"ist": 174300
+},
+"2023": {
+"soll": 446000,
+"ist": 174300
+},
+"2024": {
+"soll": 446000,
+"ist": 174300
+},
+"2025": {
+"soll": 328000,
+"ist": 174300
+},
+"2026": {
+"soll": 175000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

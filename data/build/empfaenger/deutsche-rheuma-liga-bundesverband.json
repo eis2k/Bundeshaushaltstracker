@@ -69,7 +69,18 @@
 }
 ],
 "lobby_untergrenze_bund": 390006,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03DPS1113B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "DATIPilot - Sprint - INNOVATE MSC-MACT: Innovative Stammzelltherapie (MSC-MACT): Überwindung von Hürden in Studienplanung, Zulassung und Erstattung für sichere Translation, TP B",
+"von": "2024-12-01",
+"bis": "2026-05-31",
+"summe": 19909.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Corinna Elling-Audersch",
@@ -266,6 +277,11 @@
 "stand": "2026-06-29",
 "etikett": "Eigenangabe",
 "version": 16
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

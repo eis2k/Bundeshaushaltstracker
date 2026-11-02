@@ -1,0 +1,92 @@
+{
+"id": "freiheits-und-einheitsdenkmal",
+"name": "Freiheits- und Einheitsdenkmal",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "04-0405-89465",
+"text": "Baumaßnahme Freiheits- und Einheitsdenkmal",
+"epl": "04",
+"epl_text": "Bundeskanzlerin und Bundeskanzleramt",
+"werte": {
+"2015": {
+"soll": 500000,
+"ist": 63771
+}
+}
+},
+{
+"id": "04-0452-89465",
+"text": "Baumaßnahme Freiheits- und Einheitsdenkmal",
+"epl": "04",
+"epl_text": "Bundeskanzler und Bundeskanzleramt",
+"werte": {
+"2016": {
+"soll": 0,
+"ist": 44596
+},
+"2017": {
+"soll": 0,
+"ist": 0
+},
+"2018": {
+"soll": 2045000,
+"ist": 546650
+},
+"2019": {
+"soll": 6725000,
+"ist": 782410
+},
+"2020": {
+"soll": 4718000,
+"ist": 3759208
+},
+"2021": {
+"soll": 0,
+"ist": 2819344
+},
+"2022": {
+"soll": 2579000,
+"ist": 1459777
+},
+"2023": {
+"soll": 2660000,
+"ist": 2282258
+},
+"2024": {
+"soll": 0,
+"ist": 451765
+},
+"2025": {
+"soll": 1250000,
+"ist": 251648
+},
+"2026": {
+"soll": 8040000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

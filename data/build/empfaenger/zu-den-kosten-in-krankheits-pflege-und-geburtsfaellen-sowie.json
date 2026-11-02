@@ -1,0 +1,92 @@
+{
+"id": "zu-den-kosten-in-krankheits-pflege-und-geburtsfaellen-sowie",
+"name": "zu den Kosten in Krankheits-﻿, Pflege- und Geburtsfällen sowie Unterstützungen nach §§ 27 und 28 Abgeordnetengesetz",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "02-0201-41104",
+"text": "Zuschuss zu den Kosten in Krankheits-﻿, Pflege- und Geburtsfällen sowie Unterstützungen nach §§ 27 und 28 Abgeordnetengesetz",
+"epl": "02",
+"epl_text": "Deutscher Bundestag",
+"werte": {
+"2015": {
+"soll": 8270000,
+"ist": 8467997
+}
+}
+},
+{
+"id": "02-0212-41104",
+"text": "Zuschuss zu den Kosten in Krankheits-, Pflege- und Geburtsfällen sowie Unterstützungen nach §§ 27 und 28 Abgeordnetengesetz",
+"epl": "02",
+"epl_text": "Deutscher Bundestag",
+"werte": {
+"2016": {
+"soll": 7795000,
+"ist": 8602958
+},
+"2017": {
+"soll": 8650000,
+"ist": 8805815
+},
+"2018": {
+"soll": 9110000,
+"ist": 9172203
+},
+"2019": {
+"soll": 9110000,
+"ist": 9207400
+},
+"2020": {
+"soll": 9110000,
+"ist": 9969787
+},
+"2021": {
+"soll": 9110000,
+"ist": 9896491
+},
+"2022": {
+"soll": 10360000,
+"ist": 10012158
+},
+"2023": {
+"soll": 10880000,
+"ist": 10232683
+},
+"2024": {
+"soll": 10400000,
+"ist": 10753496
+},
+"2025": {
+"soll": 11341000,
+"ist": 14084243
+},
+"2026": {
+"soll": 10601000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

@@ -1779,62 +1779,6 @@
 }
 },
 {
-"id": "10-1091-63403",
-"text": "Zuweisungen an den Versorgungsfonds",
-"epl": "10",
-"epl_text": "Bundesministerium für Landwirtschaft, Ernährung und Heimat",
-"werte": {
-"2015": {
-"soll": 1507000,
-"ist": 1133378
-},
-"2023": {
-"soll": 4981000,
-"ist": null
-},
-"2024": {
-"soll": 5623000,
-"ist": null
-},
-"2025": {
-"soll": 5748000,
-"ist": 5835333
-},
-"2026": {
-"soll": 4944000,
-"ist": null
-}
-}
-},
-{
-"id": "10-1092-63403",
-"text": "Zuweisungen an den Versorgungsfonds",
-"epl": "10",
-"epl_text": "Bundesministerium für Landwirtschaft, Ernährung und Heimat",
-"werte": {
-"2015": {
-"soll": 1159000,
-"ist": 1254558
-},
-"2023": {
-"soll": 2948000,
-"ist": null
-},
-"2024": {
-"soll": 3569000,
-"ist": null
-},
-"2025": {
-"soll": 3300000,
-"ist": 3785367
-},
-"2026": {
-"soll": 4318000,
-"ist": null
-}
-}
-},
-{
 "id": "02-0211-63403",
 "text": "Zuweisungen an den Versorgungsfonds",
 "epl": "02",

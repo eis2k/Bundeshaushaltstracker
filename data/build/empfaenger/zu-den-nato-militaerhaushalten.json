@@ -1,0 +1,92 @@
+{
+"id": "zu-den-nato-militaerhaushalten",
+"name": "zu den NATO-Militärhaushalten",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "14-1422-68701",
+"text": "Beitrag zu den NATO-Militärhaushalten",
+"epl": "14",
+"epl_text": "Bundesministerium der Verteidigung",
+"werte": {
+"2015": {
+"soll": 102400000,
+"ist": 102269006
+}
+}
+},
+{
+"id": "14-1401-68701",
+"text": "Beitrag zu den NATO-Militärhaushalten",
+"epl": "14",
+"epl_text": "Bundesministerium der Verteidigung",
+"werte": {
+"2016": {
+"soll": 100000000,
+"ist": 99999819
+},
+"2017": {
+"soll": 112748000,
+"ist": 111277872
+},
+"2018": {
+"soll": 114514000,
+"ist": 111859668
+},
+"2019": {
+"soll": 120600000,
+"ist": 120600000
+},
+"2020": {
+"soll": 122000000,
+"ist": 125000000
+},
+"2021": {
+"soll": 168000000,
+"ist": 167999999
+},
+"2022": {
+"soll": 160000000,
+"ist": 169280000
+},
+"2023": {
+"soll": 197000000,
+"ist": 233550989
+},
+"2024": {
+"soll": 215000000,
+"ist": 205956398
+},
+"2025": {
+"soll": 294000000,
+"ist": 246829675
+},
+"2026": {
+"soll": 316000000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

@@ -445,7 +445,278 @@
 }
 ],
 "lobby_untergrenze_bund": 6390053,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03XP0614B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "KeraRes - Layer-by-Layer-beschichtete Keramikmembranen für die ressourceneffiziente Erzeugung von Trink- und Brauchwasser",
+"von": "2024-07-01",
+"bis": "2027-06-30",
+"summe": 436316.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "031B1583",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Bioökonomie International 2024: ChloroBioRem - Bioaugmentation und Stimulierung der funktionellen Biodiversität in neuen Verfahrenskonzepten zur biobasierten Sanierung von Chlorethen-kontaminiertem Grundwasser",
+"von": "2025-01-01",
+"bis": "2027-12-31",
+"summe": 381461.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "02WDG1688B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Digital GreenTech 2 - Verbundprojekt DIWA: Digitale, vernetzte und interaktive Wasserqualitätsüberwachung, ein Konzept für autonome Frühwarnsysteme zum Gewässerschutz, Teilprojekt 2",
+"von": "2023-09-01",
+"bis": "2026-08-31",
+"summe": 178727.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "02WIL1657",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "ELARIA: Entfernungseffizienz und Risikobewertung von Antibiotikaresistenzen, Pathogenen und Fäkalindikatoren bei der weitergehenden Abwasserbehandlung (Deutsch-Israelische Wassertechnologie-Kooperation)",
+"von": "2022-10-01",
+"bis": "2026-03-31",
+"summe": 284750.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "02WGW1665B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "LURCH - Verbundprojekt PFClean: Innovatives modulares System zur nachhaltigen Reduzierung von PFAS-Kontaminanten aus Boden und Grundwasser, Teilprojekt 2",
+"von": "2023-03-01",
+"bis": "2026-08-31",
+"summe": 442415.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "02WGW1720",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Grundwasser-Projekt ArNO: Nitratbelastung von Einzugsgebieten - Eignung der verwendeten Grundwassermessstellen zur Ermittlung der Nitratbelastung unter Berücksichtigung historisch erzeugter Nitrateinträge",
+"von": "2024-03-01",
+"bis": "2026-02-28",
+"summe": 793145.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "02WAS1717E",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "WASA - Verbundprojekt WaMiSAR: Nachhaltiges und klimaangepasstes Wassermanagement im Bergbau der Region des südlichen Afrikas, Teilprojekt 5",
+"von": "2024-05-01",
+"bis": "2028-04-30",
+"summe": 185170.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "02WQ1725A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "KMU-innovativ Verbundprojekt TAUWIS: Teilautonomes Unterwasser-Inspektionssystem zur Infrastrukturdatenerfassung, Teilprojekt 1",
+"von": "2024-09-01",
+"bis": "2026-08-31",
+"summe": 156265.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "02WAZ1742C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "WaZ - Verbundprojekt Flexilienz: Resilienzen stärken: Flexibilisierung und Innovationen als Treiber für eine zukunftsfähige Wasserversorgung in Kassel, Teilprojekt 3",
+"von": "2025-03-01",
+"bis": "2028-02-29",
+"summe": 308700.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "02WQ1775C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "KMU-innovativ-Verbundprojekt ResilVerbund: Digitale Resilienz-Tools für Verbundsysteme als Beitrag für eine zukunftssichere Trinkwasserversorgung, Teilprojekt 3",
+"von": "2026-03-01",
+"bis": "2028-02-29",
+"summe": 97927.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "02WIL1797A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt MONADIS: Mikrobiologische Online-Überwachung und fortschrittliche kombinierte Desinfektion zur Verbesserung der Wasserqualität, Teilprojekt 1 (Deutsch-Israelische Wassertechnologie-Kooperation)",
+"von": "2026-05-01",
+"bis": "2029-04-30",
+"summe": 201400.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "02WEN1812A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "WENex - Verbundprojekt WENde: Wassereffizienz in der Energiewende in Deutschland, Teilprojekt 1",
+"von": "2026-07-01",
+"bis": "2029-06-30",
+"summe": 860823.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE4063F",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: ThermIon - Extraktion von Lithium aus thermalen Solen, Teilvorhaben: Entwicklung von Vor- und Nachbehandlungsstrategien für die Rückgewinnung von Lithium",
+"von": "2024-10-01",
+"bis": "2027-09-30",
+"summe": 298876.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE5115C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: MemKoWI - Membranverfahren zur Abtrennung von Kohlendioxid und Wasserstoff aus Industriegasen, Teilvorhaben: Prozessgasanalysen, Membrancharakterisierungen, Degradationsuntersuchungen und Unterstützung bei Auslegung der transportablen modularen Membranprüfstände",
+"von": "2022-11-01",
+"bis": "2027-04-30",
+"summe": 328685.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN3049A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: EnEff:Stadt: HyBEST - Innovative Wasserstoff-Konzepte in Bestandsclustern, Teilvorhaben: digitaler Zwilling Karlsruhe",
+"von": "2021-12-01",
+"bis": "2026-05-31",
+"summe": 746320.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03B11026E",
+"ressort": "BMV",
+"epl": "12",
+"thema": "NIP II - FuE - Verbund: Entwicklung und Validierung einer Wasserstoffqualitätsanalytik gemäß ISO 14687:2019.",
+"von": "2022-12-01",
+"bis": "2026-08-31",
+"summe": 484746.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01IF23267N",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Naturnahe Flockungsmittel in der Trinkwasseraufbereitung als konkurrenzfähige Alternative zu Metallsalzen und Polyacrylamid",
+"von": "2024-04-01",
+"bis": "2027-09-30",
+"summe": 656687.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13N17777",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Sektorübergreifende Nutzung von kommunalem Abwasser für die Produktion von grünem Wasserstoff zur Stärkung der Versorgungssicherheit 2035 (reSYNERGY) - Teilvorhaben: Konzepte zur Wasserbereitstellung sowie zur Nutzung von Nebenprodukten der Wasserstoffproduktion",
+"von": "2026-04-01",
+"bis": "2029-03-31",
+"summe": 589825.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03LW0657K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "BiodivKI-2: KI-gestützte Erfassung und Prognose der Biodiversität und Wasserqualität in Trinkwasser-Reservoiren (IQ-Wasser-2) - Biodiversitäts- und Wasserqualitätsprognose",
+"von": "2024-12-01",
+"bis": "2027-11-30",
+"summe": 549566.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03G0940A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "TG: SCHUTZGRUND - Untersuchungen zum Schutz des Untergrundes vor modifizierten Geothermalfluiden, Leitantrag, Vorhaben: Einfluss der Wertstoffextraktion auf die Zusammensetzung von geothermalen Fluiden",
+"von": "2025-03-01",
+"bis": "2028-02-29",
+"summe": 428010.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N125122E",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Inline-Messgeräte auf Basis weit abstimmbarer monolithischer MIR-Laser (InlineMIR) - Teilvorhaben: Evaluation eines Laseranalysators zur Inline-Messung des CO2-Gehalts im Wasser",
+"von": "2025-11-01",
+"bis": "2028-10-31",
+"summe": 305682.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01IF23630N",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Entfernung von PFAS aus Grund- und Abwässern durch Elektrosorption /-desorption an modifizierten Aktivkohlen und elektrochemischen Abbau",
+"von": "2025-07-01",
+"bis": "2028-12-31",
+"summe": 528658.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI3081B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: NRM_H2 - Normungsroadmap Wasserstofftechnologien, Teilprojekt: Wasserstoffqualität, Erzeugung, Infrastruktur, Wärme, Ausbildung und Zertifizierung.'",
+"von": "2023-01-01",
+"bis": "2026-12-31",
+"summe": 3026410.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI3128B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: NRMH2Plus - Normungsroadmap Wasserstoffderivate und -technologien. Teilvorhaben: Speicherung, Verflüssigung, Terminals",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 3377441.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI1110C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: MonKWP - Monitoring der Kommunale Wärmeplanung im Energiesystem Deutschland, Teilvorhaben: Wasserstoffnetz",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 399010.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SFK1K0-3",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben ENSURE3: Neue EnergieNetzStruktURen für die Energiewende - Teilvorhaben DVGW",
+"von": "2023-08-01",
+"bis": "2026-07-31",
+"summe": 709472.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SF0841A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben HYPPE: Untersuchungen zu PFAS Emissionen in PEM-Anwendungen und möglichen Austragspfaden, Teilvorhaben: Quantifizierung von PFAS aus PEM-Abwässern und Emissionsminderungsansätze",
+"von": "2026-10-01",
+"bis": "2029-09-30",
+"summe": 677263.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Gerald Linke",
@@ -729,6 +1000,11 @@
 "stand": "2026-10-26",
 "etikett": "Eigenangabe",
 "version": 50
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

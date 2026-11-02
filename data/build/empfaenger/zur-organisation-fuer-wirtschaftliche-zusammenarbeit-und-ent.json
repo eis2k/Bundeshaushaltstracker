@@ -1,0 +1,84 @@
+{
+"id": "zur-organisation-fuer-wirtschaftliche-zusammenarbeit-und-ent",
+"name": "zur Organisation für Wirtschaftliche Zusammenarbeit und Entwicklung (OECD)",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "60-6002-68722",
+"text": "Beitrag zur Organisation für Wirtschaftliche Zusammenarbeit und Entwicklung (OECD)",
+"epl": "60",
+"epl_text": "Allgemeine Finanzverwaltung",
+"werte": {
+"2015": {
+"soll": 25600000,
+"ist": 21709211
+},
+"2016": {
+"soll": 25400000,
+"ist": 22078974
+},
+"2017": {
+"soll": 24400000,
+"ist": 22509411
+},
+"2018": {
+"soll": 24400000,
+"ist": 22597800
+},
+"2019": {
+"soll": 24400000,
+"ist": 22555797
+},
+"2020": {
+"soll": 24400000,
+"ist": 22037510
+},
+"2021": {
+"soll": 24400000,
+"ist": 23170491
+},
+"2022": {
+"soll": 24400000,
+"ist": 23754907
+},
+"2023": {
+"soll": 24400000,
+"ist": 25368347
+},
+"2024": {
+"soll": 26800000,
+"ist": 26901496
+},
+"2025": {
+"soll": 29000000,
+"ist": 26248153
+},
+"2026": {
+"soll": 30000000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

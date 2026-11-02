@@ -1,0 +1,76 @@
+{
+"id": "zur-foerderung-energieeffizienter-und-oder-co2-armer-nutzfah",
+"name": "zur Förderung energieeffizienter und/oder CO2-armer Nutzfahrzeuge",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "12-1201-68424",
+"text": "Zuschüsse zur Förderung energieeffizienter und/oder CO2-armer Nutzfahrzeuge",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr",
+"werte": {
+"2017": {
+"soll": 10000000,
+"ist": 0
+},
+"2018": {
+"soll": 10000000,
+"ist": 132000
+},
+"2019": {
+"soll": 10000000,
+"ist": 7145610
+},
+"2020": {
+"soll": 10000000,
+"ist": 11585259
+},
+"2021": {
+"soll": 10000000,
+"ist": 13078850
+},
+"2022": {
+"soll": 0,
+"ist": 206154
+},
+"2023": {
+"soll": 0,
+"ist": 12000
+},
+"2024": {
+"soll": 0,
+"ist": 0
+},
+"2025": {
+"soll": 0,
+"ist": 0
+},
+"2026": {
+"soll": 0,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

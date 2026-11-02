@@ -1,0 +1,92 @@
+{
+"id": "deutscher-kuenstler-im-ausland",
+"name": "deutscher Künstler im Ausland",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "04-0405-68751",
+"text": "Förderung deutscher Künstler im Ausland",
+"epl": "04",
+"epl_text": "Bundeskanzlerin und Bundeskanzleramt",
+"werte": {
+"2015": {
+"soll": 3122000,
+"ist": 2913653
+}
+}
+},
+{
+"id": "04-0452-68751",
+"text": "Förderung deutscher Künstler im Ausland",
+"epl": "04",
+"epl_text": "Bundeskanzler und Bundeskanzleramt",
+"werte": {
+"2016": {
+"soll": 3203000,
+"ist": 2929940
+},
+"2017": {
+"soll": 3224000,
+"ist": 3223225
+},
+"2018": {
+"soll": 3449000,
+"ist": 3455560
+},
+"2019": {
+"soll": 3519000,
+"ist": 3568529
+},
+"2020": {
+"soll": 3605000,
+"ist": 3660449
+},
+"2021": {
+"soll": 3805000,
+"ist": 3911423
+},
+"2022": {
+"soll": 3852000,
+"ist": 3839995
+},
+"2023": {
+"soll": 3860000,
+"ist": 3977077
+},
+"2024": {
+"soll": 4010000,
+"ist": 4075149
+},
+"2025": {
+"soll": 4010000,
+"ist": 4150788
+},
+"2026": {
+"soll": 4198000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

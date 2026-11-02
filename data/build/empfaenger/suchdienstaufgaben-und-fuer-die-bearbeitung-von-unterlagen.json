@@ -1,0 +1,84 @@
+{
+"id": "suchdienstaufgaben-und-fuer-die-bearbeitung-von-unterlagen",
+"name": "Suchdienstaufgaben und für die Bearbeitung von Unterlagen",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "06-0603-68403",
+"text": "Zuwendungen für Suchdienstaufgaben und für die Bearbeitung von Unterlagen zur Familienzusammenführung und Aussiedlung von Deutschen",
+"epl": "06",
+"epl_text": "Bundesministerium des Innern",
+"werte": {
+"2015": {
+"soll": 14598000,
+"ist": 13751629
+},
+"2016": {
+"soll": 14573000,
+"ist": 10861865
+},
+"2017": {
+"soll": 13901000,
+"ist": 11031502
+},
+"2018": {
+"soll": 11265000,
+"ist": 11001634
+},
+"2019": {
+"soll": 10664000,
+"ist": 10664000
+},
+"2020": {
+"soll": 11118000,
+"ist": 10717315
+},
+"2021": {
+"soll": 11637000,
+"ist": 10957981
+},
+"2022": {
+"soll": 11760000,
+"ist": 10439086
+},
+"2023": {
+"soll": 12170000,
+"ist": 10832360
+},
+"2024": {
+"soll": 12170000,
+"ist": 10696243
+},
+"2025": {
+"soll": 12270000,
+"ist": 11926886
+},
+"2026": {
+"soll": 12170000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

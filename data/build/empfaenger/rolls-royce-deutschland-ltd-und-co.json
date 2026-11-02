@@ -45,7 +45,288 @@
 }
 ],
 "lobby_untergrenze_bund": 7710003,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EE5116C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: DigITecT - Digitalisierung und interdisziplinäre Auslegungstechnologien von Turbomaschinen für die Energiewende, Teilvorhaben: 3.2",
+"von": "2023-01-01",
+"bis": "2026-06-30",
+"summe": 476760.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE5185C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: TurboTrans-Turbomaschinen für d. Transormation in das integrierte Energiesystem d. Zukunft, Teilvorhaben: 4.5b u. 4.6c.",
+"von": "2025-01-01",
+"bis": "2028-06-30",
+"summe": 117889.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE5194A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: FokusTurbo - Flexible Turbomaschinen für klimaneutrale und resiliente Energiesysteme, Teilvorhaben: 4.3a: Fortgeschr. Randbeding. für thermoak. Löser, 4.4a: Weitere Effekte bei d. Beschr. d. Schallausbr., 4.6a: insitu Messverf. z. Thermalfarbenanalyse, 4.7a: Einlaufschichten auf Spinellbasis",
+"von": "2026-01-01",
+"bis": "2029-06-30",
+"summe": 551464.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE5203D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: DiWaTurb - Diversifizierung des Energiesystems durch Wasserstoff, Wärmepumpen und Energiespeicher - Turbomaschinen, Teilvorhaben: AP 1.2A, AP 2.1A, AP 4.1A, AP 4.2A und AP 5.3C.",
+"von": "2026-10-01",
+"bis": "2029-09-30",
+"summe": 539137.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20D2102A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Partikel- und Emissionsreduzierungstechnologie für effiziente und umweltfreundliche Antriebssysteme",
+"von": "2023-01-01",
+"bis": "2027-09-30",
+"summe": 967240.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20T2101A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Experimentelle Validierung sicherheitsrelevanter Technologiemerkmale für flugtüchtige Hochleistungsgetriebe",
+"von": "2021-12-01",
+"bis": "2026-04-30",
+"summe": 1341450.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20T2105A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Herstellungsverfahren und Verbindungstechnologien für hochtemperaturbeständige Faserkunststoff-Verbundwerksstoffe",
+"von": "2023-01-01",
+"bis": "2026-12-31",
+"summe": 1294500.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20M2115H",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Operationelle Auswirkungen von Wasserstoff beim Einsatz von Luftfahrt - Gasturbinen",
+"von": "2023-01-01",
+"bis": "2026-06-30",
+"summe": 59300.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20L21022",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Entwicklung und Erprobung von Brennkammertechnologien für Turbo-Generatoren für hybrid-elektrische Flugantriebe",
+"von": "2022-01-01",
+"bis": "2026-12-31",
+"summe": 866050.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20L2108A2",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Digitaler Lebenszyklus hybrid-elektrischer Antriebssysteme",
+"von": "2022-11-01",
+"bis": "2026-12-31",
+"summe": 1483636.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20T2402A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben zur Akzeptanz klimafreundlicher Luftfahrttechnologien durch Lärmreduzierung",
+"von": "2025-10-01",
+"bis": "2028-12-31",
+"summe": 1120900.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20T2403A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Effizienzsteigerung von Triebwerkssystemen mittels gekoppelt instationärer und skalenauflösender Simulation",
+"von": "2026-01-01",
+"bis": "2029-06-30",
+"summe": 1314750.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20T2409A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Hocheffiziente Kühlung von Turbinenbauteilen auf Basis additiver Herstellungsverfahren und hochtemperaturbeständiger Materialien",
+"von": "2026-07-01",
+"bis": "2029-12-31",
+"summe": 3747300.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20T2406A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Emissionsarmes Brennkammersystem für CO2 freies Fliegen",
+"von": "2026-01-01",
+"bis": "2029-12-31",
+"summe": 3059150.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20T2404A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Aerothermale Methoden und Designuntersuchungen für schlankere Nacelles und Einflüsse auf effizientere Fan-Blisks",
+"von": "2026-01-01",
+"bis": "2029-12-31",
+"summe": 3379700.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20T2401A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Materialentwicklung, konstruktive Verbesserung & Analyse für Getriebe",
+"von": "2026-01-01",
+"bis": "2029-12-31",
+"summe": 3289100.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20T2407A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Aerothermal NetZero - Technologien für eine neue Kompressor-Generation in Flugtriebwerken",
+"von": "2026-04-01",
+"bis": "2029-06-30",
+"summe": 951700.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20W2210F",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Thermoplastische Hybridbauweisen für komplexe Strukturbauteile in der Luftfahrt-Großserie",
+"von": "2026-07-01",
+"bis": "2027-09-30",
+"summe": 346000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20T2412",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Robuste Gleitlager in Hochleistungsgetrieben",
+"von": "2026-06-01",
+"bis": "2029-05-31",
+"summe": 2522650.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20N2202B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Komponentenoptimierung, Materialvalidierung und Effizienzsteigerung des Feingussprozesses zur Deckung des wachsenden Bedarfs an Antriebskomponenten für die klimaneutrale Luftfahrt",
+"von": "2023-10-01",
+"bis": "2026-12-31",
+"summe": 188500.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20L2108A1",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Digitaler Lebenszyklus hybrid-elektrischer Antriebssysteme",
+"von": "2022-11-01",
+"bis": "2026-12-31",
+"summe": 759700.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20L21021",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Entwicklung und Erprobung von Brennkammertechnologien für Turbo-Generatoren für hybrid-elektrische Flugantriebe",
+"von": "2022-01-01",
+"bis": "2026-12-31",
+"summe": 1670500.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20L2105A1",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verifikation extrem schneller und adaptiver Fertigungsprozessketten und Integration in die agile, digitale Technologieentwicklung hybrid-elektrischer Luftfahrtantriebe",
+"von": "2022-09-01",
+"bis": "2026-12-31",
+"summe": 2243050.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20L21091",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Agile produktbezogene Material- und Fertigungsentwicklung für die Komponenten eines hybrid-elektrischen Luftfahrtantriebssystems",
+"von": "2022-05-01",
+"bis": "2027-05-31",
+"summe": 6933750.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20M2264A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Kosten- und leistungsoptimierte Brennkammer-Turbinentechnologien für moderne Turbo-Generatoren",
+"von": "2023-03-01",
+"bis": "2026-12-31",
+"summe": 2483150.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20M2262A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verdichtertechnologien für duale Brennstoffe",
+"von": "2023-07-01",
+"bis": "2028-06-30",
+"summe": 5370600.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20M2237H",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Brennkammer- und Turbinentechnologie für brennstoffflexible Kraftstoffinjektion",
+"von": "2023-06-01",
+"bis": "2026-12-31",
+"summe": 2067550.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20M2104A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Wasserstoffverbrennungstechnologie für Antriebssysteme der neuen Generation",
+"von": "2021-10-01",
+"bis": "2026-12-31",
+"summe": 4143300.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Dirk Geisinger",
@@ -129,6 +410,11 @@
 "stand": "2026-06-29",
 "etikett": "Eigenangabe",
 "version": 14
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

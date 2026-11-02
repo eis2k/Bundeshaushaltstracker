@@ -1,0 +1,84 @@
+{
+"id": "von-medien",
+"name": "von Medien",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "23-2301-68705",
+"text": "Förderung von Medien, Zugang zu Information und Meinungsfreiheit in Kooperationsländern",
+"epl": "23",
+"epl_text": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+"werte": {
+"2015": {
+"soll": 19200000,
+"ist": 19200000
+},
+"2016": {
+"soll": 19200000,
+"ist": 19200000
+},
+"2017": {
+"soll": 20000000,
+"ist": 19999999
+},
+"2018": {
+"soll": 30000000,
+"ist": 30000000
+},
+"2019": {
+"soll": 30000000,
+"ist": 30000000
+},
+"2020": {
+"soll": 30000000,
+"ist": 30000000
+},
+"2021": {
+"soll": 40000000,
+"ist": 40000000
+},
+"2022": {
+"soll": 32000000,
+"ist": 36990675
+},
+"2023": {
+"soll": 30000000,
+"ist": 29790000
+},
+"2024": {
+"soll": 28300000,
+"ist": 28297000
+},
+"2025": {
+"soll": 30000000,
+"ist": 30000000
+},
+"2026": {
+"soll": 27419000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

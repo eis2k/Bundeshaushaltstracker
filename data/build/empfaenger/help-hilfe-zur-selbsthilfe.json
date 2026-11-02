@@ -194,12 +194,20 @@
 "geschaeftsjahr": "2025",
 "jahresabschluss": {
 "url": "https://www.lobbyregister.bundestag.de/media/10/ef/822008/Jahresabschluss-2025-deutsch.pdf",
-"geschaeftsjahr": "",
-"kennzahlen": null,
-"seite": null,
+"geschaeftsjahr": "2025",
+"kennzahlen": {
+"ertraege_gesamt": 67855612,
+"oeffentliche_hand": 47305045,
+"spenden": 16953057,
+"personalaufwand": null,
+"projektfoerderung": 64209274,
+"weitergeleitete_mittel": null,
+"jahresergebnis": 332602
+},
+"seite": 39,
 "pruefer": null,
-"hinweis": null,
-"erfasst": null
+"hinweis": "„Zuwendungen“ 47,3 Mio € ohne Gebertrennung (institutionelle Mittel). Personalaufwand nur für den Verwaltungsbereich ausgewiesen (1,59 Mio €), Projektpersonal im Projektaufwand.",
+"erfasst": "2026-11-02"
 }
 },
 "quellen": [
@@ -215,6 +223,12 @@
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/F/fey_katrin-1044300",
 "abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Jahresabschluss des Empfängers",
+"url": "https://www.lobbyregister.bundestag.de/media/10/ef/822008/Jahresabschluss-2025-deutsch.pdf",
+"abgerufen": "2026-11-02",
 "etikett": "Eigenangabe"
 }
 ]

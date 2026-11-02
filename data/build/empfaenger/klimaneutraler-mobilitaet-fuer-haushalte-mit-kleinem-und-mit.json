@@ -1,0 +1,40 @@
+{
+"id": "klimaneutraler-mobilitaet-fuer-haushalte-mit-kleinem-und-mit",
+"name": "klimaneutraler Mobilität für Haushalte mit kleinem und mittlerem Einkommen",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "60-6092-89318",
+"text": "Förderung klimaneutraler Mobilität für Haushalte mit kleinem und mittlerem Einkommen",
+"epl": "60",
+"epl_text": "Allgemeine Finanzverwaltung",
+"werte": {
+"2026": {
+"soll": 550000000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

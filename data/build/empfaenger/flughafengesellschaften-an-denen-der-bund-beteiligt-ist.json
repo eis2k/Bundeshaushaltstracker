@@ -1,0 +1,92 @@
+{
+"id": "flughafengesellschaften-an-denen-der-bund-beteiligt-ist",
+"name": "Flughafengesellschaften, an denen der Bund beteiligt ist",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "12-1217-86111",
+"text": "Darlehen an Flughafengesellschaften, an denen der Bund beteiligt ist",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"werte": {
+"2015": {
+"soll": 0,
+"ist": 34372000
+}
+}
+},
+{
+"id": "12-1205-86111",
+"text": "Darlehen an Flughafengesellschaften, an denen der Bund beteiligt ist",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr",
+"werte": {
+"2016": {
+"soll": 171600000,
+"ist": 73754000
+},
+"2017": {
+"soll": 116220000,
+"ist": 106626000
+},
+"2018": {
+"soll": 0,
+"ist": 108940000
+},
+"2019": {
+"soll": 0,
+"ist": 0
+},
+"2020": {
+"soll": 19000000,
+"ist": 52316585
+},
+"2021": {
+"soll": 171600000,
+"ist": 113880000
+},
+"2022": {
+"soll": 0,
+"ist": 0
+},
+"2023": {
+"soll": 0,
+"ist": 0
+},
+"2024": {
+"soll": 0,
+"ist": 0
+},
+"2025": {
+"soll": 0,
+"ist": 0
+},
+"2026": {
+"soll": 0,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

@@ -109,7 +109,118 @@
 }
 ],
 "lobby_untergrenze_bund": 460011,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EI4085E",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "ProMetheUs - Probabilistische Methoden für eine sichere Netzbetriebsplanung unter Unsicherheiten, Teilprojekt: Entwicklung und Beurteilung probabilistischer Methoden in der Betriebsplanung für eine effiziente und sichere Netzführung",
+"von": "2024-05-01",
+"bis": "2027-04-30",
+"summe": 302563.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI6122C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: SysStab2030 - Systemstabilität durch marktbasierte Systemdienstleistungen und technische Mindestanforderungen an zukünftige elektrische Anlagen, Teilvorhaben: Systemstabilität durch marktb. SDL und techn. Mindestanforderungen an zukünftige elektr. Anlagen aus Sicht der 50Hertz Transmission GmbH",
+"von": "2024-07-01",
+"bis": "2027-03-31",
+"summe": 110009.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ZU2107BD",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "OTC-Rostock: Dynamic Self Monitoring Cables (OTC-SMOC2Dyn) - D",
+"von": "2024-10-01",
+"bis": "2027-09-30",
+"summe": 60000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SF0693C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben EIZ: Energie-Innovationszentrum der Brandenburgischen Technischen Universität Cottbus-Senftenberg",
+"von": "2022-08-01",
+"bis": "2026-09-30",
+"summe": 304113.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SF0845B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben EIZ: Energie-Innovationszentrum der Brandenburgischen Technischen Universität Cottbus-Senftenberg",
+"von": "2026-10-01",
+"bis": "2031-09-30",
+"summe": 943565.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI6092D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: OVANET3_0 - Asset-minimale Systemführung mit integrierten Multi-Terminal DC-Netzen: Bestimmung des Systemzustands, Teilvorhaben: Maßnahmen der Asset-minimalen Systemführung im AC-DC-System",
+"von": "2023-04-01",
+"bis": "2026-09-30",
+"summe": 39230.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI4074C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: Syszell - Integrative Ansätze für die Bereitstellung von Systemdienstleistungen in zellularen Systemen, Teilvorhaben: Kontinuierliche Bestimmung und Überwachung der ausreichenden Vorhaltung von Momentanreserve aus vielen dezentral verteilten Kleinanlagen",
+"von": "2023-09-01",
+"bis": "2026-12-31",
+"summe": 109996.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI1074C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: IMTRA - Integrierte Marktmodelle zur Bewertung der Transmission und Resource Adequacy, Teilvorhaben: Gesamtverfahren zur Bewertung von Resource und Transmission Adequacy",
+"von": "2023-11-01",
+"bis": "2026-04-30",
+"summe": 106359.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI6116B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: ODAL - Operator-zentrische digitale Assistenzsysteme in modularen Leitsystemen, Teilvorhaben: Integration und Erprobung modularer Assistenzfunktionalitäten im MCCS",
+"von": "2024-07-01",
+"bis": "2027-06-30",
+"summe": 772825.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI6117D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: GNN4GC - Graph Neuronale Netze für den Einsatz in der Netzsteuerung, Teilvorhaben: Spezifikation und Erprobung eines Empfehlungssystems mit Graph Neuronalen Netzen für das Übertragungsnetz von 50Hertz",
+"von": "2023-12-01",
+"bis": "2027-02-28",
+"summe": 199946.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI4120D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: OWiMO - Offshore Windenergie Wartungsoptimierung, Teilvorhaben: Integration von Asset-Management-Systemen, Entwicklung fairer Multi-ÜNB-Wartungsplanung und Validierung im Shadow-Pilotbetrieb",
+"von": "2026-02-01",
+"bis": "2029-01-31",
+"summe": 321688.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Stefan Kapferer",
@@ -760,6 +871,11 @@
 "stand": "2026-10-08",
 "etikett": "Eigenangabe",
 "version": 48
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

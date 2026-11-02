@@ -1,0 +1,60 @@
+{
+"id": "zur-foerderung-der-nachhaltigen-holzverwertung",
+"name": "zur Förderung der nachhaltigen Holzverwertung",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "10-1005-68615",
+"text": "Zuschüsse zur Förderung der nachhaltigen Holzverwertung",
+"epl": "10",
+"epl_text": "Bundesministerium für Landwirtschaft, Ernährung und Heimat",
+"werte": {
+"2020": {
+"soll": 5000000,
+"ist": 2989521
+},
+"2021": {
+"soll": 10000000,
+"ist": 7582878
+},
+"2022": {
+"soll": 14000000,
+"ist": 12087262
+},
+"2023": {
+"soll": 20000000,
+"ist": 18303857
+},
+"2024": {
+"soll": 22000000,
+"ist": 17955870
+},
+"2025": {
+"soll": 20660000,
+"ist": 16579786
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

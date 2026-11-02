@@ -177,6 +177,26 @@
 "ist": null
 }
 }
+},
+{
+"id": "06-0602-63220",
+"text": "Zuweisungen an die Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben",
+"epl": "06",
+"epl_text": "Bundesministerium des Innern",
+"werte": {
+"2015": {
+"soll": 17663000,
+"ist": 139600000
+},
+"2016": {
+"soll": 125245000,
+"ist": 103500000
+},
+"2017": {
+"soll": 135545000,
+"ist": 110700000
+}
+}
 }
 ]
 },

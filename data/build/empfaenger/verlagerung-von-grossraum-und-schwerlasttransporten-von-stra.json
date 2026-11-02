@@ -1,0 +1,52 @@
+{
+"id": "verlagerung-von-grossraum-und-schwerlasttransporten-von-stra",
+"name": "Verlagerung von Großraum- und Schwerlasttransporten (GST) von Straße auf die Wasserstraße",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "12-1210-68304",
+"text": "Zuschüsse für die Verlagerung von Großraum- und Schwerlasttransporten (GST) von Straße auf die Wasserstraße",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr",
+"werte": {
+"2022": {
+"soll": 10000000,
+"ist": 0
+},
+"2023": {
+"soll": 2000000,
+"ist": 0
+},
+"2024": {
+"soll": 2000000,
+"ist": 200000
+},
+"2025": {
+"soll": 1000000,
+"ist": 139461
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

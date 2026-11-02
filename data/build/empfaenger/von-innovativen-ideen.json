@@ -1,0 +1,52 @@
+{
+"id": "von-innovativen-ideen",
+"name": "von innovativen Ideen",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "12-1204-68501",
+"text": "Förderung von innovativen Ideen zum Thema Breitband",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"werte": {
+"2016": {
+"soll": 400000,
+"ist": 0
+},
+"2017": {
+"soll": 375000,
+"ist": 81462
+},
+"2018": {
+"soll": 375000,
+"ist": 184346
+},
+"2019": {
+"soll": 25000,
+"ist": 5319
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

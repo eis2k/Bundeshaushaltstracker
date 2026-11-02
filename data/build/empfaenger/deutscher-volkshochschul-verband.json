@@ -389,11 +389,19 @@
 "jahresabschluss": {
 "url": "https://www.lobbyregister.bundestag.de/media/2d/6d/866847/DVV-Jahresbericht-2024-web.pdf",
 "geschaeftsjahr": "2024",
-"kennzahlen": null,
-"seite": null,
+"kennzahlen": {
+"ertraege_gesamt": null,
+"oeffentliche_hand": null,
+"spenden": null,
+"personalaufwand": 4261753,
+"projektfoerderung": null,
+"weitergeleitete_mittel": null,
+"jahresergebnis": null
+},
+"seite": 53,
 "pruefer": null,
-"hinweis": null,
-"erfasst": null
+"hinweis": "Ergebnisrechnung 2024 im Jahresbericht; aus der Textextraktion war nur der Posten Personalkosten eindeutig lesbar.",
+"erfasst": "2026-11-02"
 }
 },
 "quellen": [
@@ -415,6 +423,12 @@
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/R/reinalter_anja-1046726",
 "abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Jahresabschluss des Empfängers",
+"url": "https://www.lobbyregister.bundestag.de/media/2d/6d/866847/DVV-Jahresbericht-2024-web.pdf",
+"abgerufen": "2026-11-02",
 "etikett": "Eigenangabe"
 }
 ]

@@ -29,7 +29,28 @@
 }
 ],
 "lobby_untergrenze_bund": 400001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "20M2239C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Entwicklung eines Wasserstoffspeicher- und Versorgungssystems zur Erprobung in einer Do228",
+"von": "2023-08-01",
+"bis": "2027-12-31",
+"summe": 126600.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20M2202B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Systemarchitekturoptimierung skalierbarer LH2- Luftfahrtantriebe für CS-23 Flugzeuge",
+"von": "2024-08-01",
+"bis": "2028-07-31",
+"summe": 512100.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Ulrich Scheib",
@@ -145,6 +166,11 @@
 "stand": "2026-06-22",
 "etikett": "Eigenangabe",
 "version": 10
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

@@ -1,0 +1,56 @@
+{
+"id": "gemeinwohlorientierter-kleiner-und-mittlerer-unternehmen",
+"name": "gemeinwohlorientierter kleiner und mittlerer Unternehmen (Social Entrepreneurship)",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "09-0902-68612",
+"text": "Förderung gemeinwohlorientierter kleiner und mittlerer Unternehmen (Social Entrepreneurship)",
+"epl": "09",
+"epl_text": "Bundesministerium für Wirtschaft und Energie",
+"werte": {
+"2022": {
+"soll": 10493000,
+"ist": 0
+},
+"2023": {
+"soll": 26108000,
+"ist": 15630013
+},
+"2024": {
+"soll": 30000000,
+"ist": 9662522
+},
+"2025": {
+"soll": 16612000,
+"ist": 28403436
+},
+"2026": {
+"soll": 16440000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

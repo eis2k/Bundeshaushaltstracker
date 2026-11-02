@@ -29,7 +29,18 @@
 }
 ],
 "lobby_untergrenze_bund": 20001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03TI1002B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: CERES - Cyberresiliente Home Energy Managementsysteme am Rand des Energienetzes, Teilvorhaben: Produktnahe Entwicklung und Validierung einer cyberresilienten HEMS-Architektur mit realitätsnaher Cyberrange",
+"von": "2027-01-01",
+"bis": "2029-12-31",
+"summe": 243338.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Johannes Hauck",
@@ -167,6 +178,11 @@
 "stand": "2026-07-20",
 "etikett": "Eigenangabe",
 "version": 16
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

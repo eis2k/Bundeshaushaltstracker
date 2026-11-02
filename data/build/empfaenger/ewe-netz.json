@@ -37,7 +37,38 @@
 }
 ],
 "lobby_untergrenze_bund": 210002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "02WAZ1740G",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "WaZ - Verbundprojekt aqua3: Technische Ausgestaltung und digital-gestützte Bewirtschaftung von 3 qualitätsgesicherten Wasserkreisläufen zur langfristigen Sicherstellung der städtischen Wasserversorgung als Beitrag zur Entwicklung klimaangepasster Städte, Teilprojekt 7",
+"von": "2025-04-01",
+"bis": "2028-03-31",
+"summe": 25540.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI4078D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: WARAN - Wärme anbinden und netzdienlich nutzen Teilvorhaben: Koordinierter Zugriff auf Flexibilitäten und Daten über den sicheren Kommunikationskanal des MSB",
+"von": "2023-11-01",
+"bis": "2027-04-30",
+"summe": 535983.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI4096D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: Opti-VNL - Optimierte Verfahren zur Prognose vertikaler Netzlast unter Nutzung von maschinellem Lernen, Teilvorhaben: OptiVNL4Grid - Optimierter Einsatz verbesserter VNL-Prognosen im präventiven Engpassmanagement hochautomatisierter Verteilnetze",
+"von": "2025-04-01",
+"bis": "2028-03-31",
+"summe": 121624.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Torsten Maus",
@@ -169,6 +200,11 @@
 "stand": "2026-10-16",
 "etikett": "Eigenangabe",
 "version": 10
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 },
 {
 "kurz": "bundestag.de",

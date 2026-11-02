@@ -378,12 +378,20 @@
 "geschaeftsjahr": "2024",
 "jahresabschluss": {
 "url": "https://www.lobbyregister.bundestag.de/media/97/87/863071/Plan_Jahresbericht_2025.pdf",
-"geschaeftsjahr": "",
-"kennzahlen": null,
-"seite": null,
+"geschaeftsjahr": "2024/25",
+"kennzahlen": {
+"ertraege_gesamt": 240226012,
+"oeffentliche_hand": 73468897,
+"spenden": 162593706,
+"personalaufwand": 16043312,
+"projektfoerderung": 924706,
+"weitergeleitete_mittel": 193365683,
+"jahresergebnis": 0
+},
+"seite": 41,
 "pruefer": null,
-"hinweis": null,
-"erfasst": null
+"hinweis": "Geschäftsjahr 1.7.2024 bis 30.6.2025. Spendenerträge einschließlich Patenschaftsbeiträge; weitergeleitete Mittel = bereits abgeführte Spenden an den internationalen Verbund; Projektförderung = Projektausgaben Inland.",
+"erfasst": "2026-11-02"
 }
 },
 "quellen": [
@@ -394,6 +402,12 @@
 "stand": "2026-10-19",
 "etikett": "Eigenangabe",
 "version": 25
+},
+{
+"kurz": "Jahresabschluss des Empfängers",
+"url": "https://www.lobbyregister.bundestag.de/media/97/87/863071/Plan_Jahresbericht_2025.pdf",
+"abgerufen": "2026-11-02",
+"etikett": "Eigenangabe"
 }
 ]
 }

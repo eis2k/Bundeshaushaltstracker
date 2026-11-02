@@ -1,0 +1,96 @@
+{
+"id": "zum-wiederaufbau-der-vom-erdbeben-zerstoerten-ortskirche-st",
+"name": "zum Wiederaufbau der vom Erdbeben zerstörten Ortskirche St. Pietro Apostolo in Onna (Italien)",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "16-1606-89601",
+"text": "Zuschuss zum Wiederaufbau der vom Erdbeben zerstörten Ortskirche St. Pietro Apostolo in Onna (Italien)",
+"epl": "16",
+"epl_text": "Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit",
+"werte": {
+"2015": {
+"soll": 0,
+"ist": 595762
+},
+"2016": {
+"soll": 0,
+"ist": 3393
+},
+"2017": {
+"soll": 0,
+"ist": 0
+}
+}
+},
+{
+"id": "06-0604-89601",
+"text": "Zuschuss zum Wiederaufbau der vom Erdbeben zerstörten Ortskirche St. Pietro Apostolo in Onna (Italien)",
+"epl": "06",
+"epl_text": "Bundesministerium des Innern, für Bau und Heimat",
+"werte": {
+"2018": {
+"soll": 0,
+"ist": 0
+},
+"2019": {
+"soll": 0,
+"ist": 0
+},
+"2020": {
+"soll": 0,
+"ist": 0
+},
+"2021": {
+"soll": 0,
+"ist": 0
+}
+}
+},
+{
+"id": "25-2501-89601",
+"text": "Zuschuss zum Wiederaufbau der vom Erdbeben zerstörten Ortskirche St. Pietro Apostolo in Onna (Italien)",
+"epl": "25",
+"epl_text": "Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+"werte": {
+"2022": {
+"soll": 0,
+"ist": 0
+},
+"2023": {
+"soll": 0,
+"ist": 0
+},
+"2024": {
+"soll": 0,
+"ist": 0
+},
+"2025": {
+"soll": 0,
+"ist": 0
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

@@ -1,0 +1,56 @@
+{
+"id": "im-rahmen-des-programms-niedrigenergiehaus-im-bestand-der-kf",
+"name": "im Rahmen des Programms \"Niedrigenergiehaus im Bestand\" (einschl. Heizungsmodernisierung und Energiesparhäuser) der KfW-Bankengruppe",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "09-0903-66121",
+"text": "Zuschüsse im Rahmen des Programms \"Niedrigenergiehaus im Bestand\" (einschl. Heizungsmodernisierung und Energiesparhäuser) der KfW-Bankengruppe - Abwicklung",
+"epl": "09",
+"epl_text": "Bundesministerium für Wirtschaft und Energie",
+"werte": {
+"2015": {
+"soll": 8250000,
+"ist": 8070000
+},
+"2016": {
+"soll": 3750000,
+"ist": 3700000
+},
+"2017": {
+"soll": 0,
+"ist": 1452
+},
+"2018": {
+"soll": 0,
+"ist": 0
+},
+"2019": {
+"soll": 0,
+"ist": 0
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

@@ -1,0 +1,200 @@
+{
+"id": "zu-den-kosten-fuer-materialerhaltung-und-betrieb",
+"name": "zu den Kosten für Materialerhaltung und Betrieb",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "14-1422-55321",
+"text": "Beitrag zu den Kosten für Materialerhaltung und Betrieb",
+"epl": "14",
+"epl_text": "Bundesministerium der Verteidigung",
+"werte": {
+"2015": {
+"soll": 1800000,
+"ist": 439997
+}
+}
+},
+{
+"id": "14-1422-55331",
+"text": "Beitrag zu den Kosten für Materialerhaltung und Betrieb",
+"epl": "14",
+"epl_text": "Bundesministerium der Verteidigung",
+"werte": {
+"2015": {
+"soll": 73400000,
+"ist": 71595394
+}
+}
+},
+{
+"id": "14-1401-55321",
+"text": "Beitrag zu den Kosten für Materialerhaltung und Betrieb",
+"epl": "14",
+"epl_text": "Bundesministerium der Verteidigung",
+"werte": {
+"2016": {
+"soll": 3700000,
+"ist": 2379169
+},
+"2017": {
+"soll": 7000000,
+"ist": 12660020
+},
+"2018": {
+"soll": 8800000,
+"ist": 271462
+},
+"2019": {
+"soll": 12600000,
+"ist": 6722464
+},
+"2020": {
+"soll": 15600000,
+"ist": 16034198
+},
+"2021": {
+"soll": 20678000,
+"ist": 16961041
+},
+"2022": {
+"soll": 26080000,
+"ist": 38727856
+},
+"2023": {
+"soll": 49000000,
+"ist": 49001000
+},
+"2024": {
+"soll": 49000000,
+"ist": 37779258
+},
+"2025": {
+"soll": 49000000,
+"ist": 49000000
+},
+"2026": {
+"soll": 49000000,
+"ist": null
+}
+}
+},
+{
+"id": "14-1401-55331",
+"text": "Beitrag zu den Kosten für Materialerhaltung und Betrieb",
+"epl": "14",
+"epl_text": "Bundesministerium der Verteidigung",
+"werte": {
+"2016": {
+"soll": 75300000,
+"ist": 58778322
+},
+"2017": {
+"soll": 77400000,
+"ist": 90112422
+},
+"2018": {
+"soll": 74100000,
+"ist": 35977294
+},
+"2019": {
+"soll": 74000000,
+"ist": 92052746
+},
+"2020": {
+"soll": 75600000,
+"ist": 73950383
+},
+"2021": {
+"soll": 74700000,
+"ist": 79575909
+},
+"2022": {
+"soll": 74700000,
+"ist": 82415523
+},
+"2023": {
+"soll": 74700000,
+"ist": 77830651
+},
+"2024": {
+"soll": 79700000,
+"ist": 101816845
+},
+"2025": {
+"soll": 100000000,
+"ist": 100011000
+},
+"2026": {
+"soll": 100000000,
+"ist": null
+}
+}
+},
+{
+"id": "14-1401-55341",
+"text": "Beitrag zu den Kosten für Materialerhaltung und Betrieb",
+"epl": "14",
+"epl_text": "Bundesministerium der Verteidigung",
+"werte": {
+"2018": {
+"soll": 0,
+"ist": 0
+},
+"2019": {
+"soll": 18807000,
+"ist": 2754344
+},
+"2020": {
+"soll": 32551000,
+"ist": 11029155
+},
+"2021": {
+"soll": 22000000,
+"ist": 21934131
+},
+"2022": {
+"soll": 50045000,
+"ist": 42055000
+},
+"2023": {
+"soll": 75275000,
+"ist": 75276000
+},
+"2024": {
+"soll": 44000000,
+"ist": 74685342
+},
+"2025": {
+"soll": 85000000,
+"ist": 85000000
+},
+"2026": {
+"soll": 95000000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

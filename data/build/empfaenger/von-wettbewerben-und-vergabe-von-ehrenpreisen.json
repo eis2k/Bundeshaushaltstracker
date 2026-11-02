@@ -1,0 +1,84 @@
+{
+"id": "von-wettbewerben-und-vergabe-von-ehrenpreisen",
+"name": "von Wettbewerben und Vergabe von Ehrenpreisen",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "10-1010-68601",
+"text": "Förderung von Wettbewerben und Vergabe von Ehrenpreisen",
+"epl": "10",
+"epl_text": "Bundesministerium für Landwirtschaft, Ernährung und Heimat",
+"werte": {
+"2015": {
+"soll": 480000,
+"ist": 294889
+},
+"2016": {
+"soll": 480000,
+"ist": 281140
+},
+"2017": {
+"soll": 480000,
+"ist": 313511
+},
+"2018": {
+"soll": 480000,
+"ist": 632442
+},
+"2019": {
+"soll": 480000,
+"ist": 295003
+},
+"2020": {
+"soll": 480000,
+"ist": 102008
+},
+"2021": {
+"soll": 400000,
+"ist": 70890
+},
+"2022": {
+"soll": 400000,
+"ist": 157529
+},
+"2023": {
+"soll": 400000,
+"ist": 326348
+},
+"2024": {
+"soll": 470000,
+"ist": 121924
+},
+"2025": {
+"soll": 536000,
+"ist": 320587
+},
+"2026": {
+"soll": 472000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

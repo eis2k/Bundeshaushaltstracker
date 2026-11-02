@@ -53,7 +53,418 @@
 }
 ],
 "lobby_untergrenze_bund": 19980004,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "033RC045A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "DISCO2-Verbundvorhaben: JEThylen - JET Fuel Synthese über elektrochemische CO2 Reduktion zu Ethylen - TP: Elektrolyseurentwicklung, Stabilität und Skalierung",
+"von": "2026-03-01",
+"bis": "2029-02-28",
+"summe": 733092.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE5068D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: TurboGruen - Turbomaschinen für Energiespeicher und grüne Brennstoffe, Teilvorhaben: 2.2a, 2.5a, 3.4 und 3.5",
+"von": "2021-07-01",
+"bis": "2026-06-30",
+"summe": 851546.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE5120A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: Mat4H2Turbine - Validierung des innovativen Werkstoffes A286mod für den Einsatz in zukünftig wasserstoffbefeuerten Gasturbinen, Teilvorhaben: Verwendbarkeit von A286mod in Gasturbinen",
+"von": "2022-08-01",
+"bis": "2026-07-31",
+"summe": 278607.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE5119A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: 4FH2Max - Optimierung des bestehenden Verbrennungssystems der Siemens Energy Gas Turbine 4000F für den sicheren Betrieb mit Wasserstoffanteil >50%vol zur CO2-Emissionsreduktion, Teilvorhaben: Designoptimierung und Validierung von SGT5-4000F Brennern basierend auf Hochdruckverbrennungstests",
+"von": "2022-10-01",
+"bis": "2027-09-30",
+"summe": 1618713.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE5116A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: DigITecT - Digitalisierung und interdisziplinäre Auslegungstechnologien von Turbomaschinen für die Energiewende, Teilvorhaben: 1.2a und 4.1a",
+"von": "2022-12-01",
+"bis": "2026-11-30",
+"summe": 572446.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE5125A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: Hydroxy - Entwicklung eines CO2-freien, wasserstoffbefeuerten Dampferzeugers, Teilvorhaben: Entwicklung und Untersuchung des Dampferzeugers in einem geschlossenen Wasser-Dampf-Kreislauf",
+"von": "2022-10-01",
+"bis": "2027-03-31",
+"summe": 1919943.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE5133B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: EviProd - Datenevidentes thermisches Beschichten zur Produktion hochbeanspruchbarer Gasturbinenkomponenten für regenerative Energieträger, Teilvorhaben: Qualifizierung von EviProd für Komplexanlagen zum Beschichten von Turbinenkomponenten",
+"von": "2022-10-01",
+"bis": "2026-03-31",
+"summe": 353652.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE5157A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: ESCO - Design und Betriebsverhalten von Energieanlagen mit überkritischem Kohlendioxid (sCO2) als Arbeitsfluid, Teilvorhaben: Technologische Aspekte von sCO2 Turbomaschinen und Systemen",
+"von": "2024-04-01",
+"bis": "2027-09-30",
+"summe": 155945.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE5158D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: TurboHyTec - Turbomaschinen für Hydrogen Technologien, Teilvorhaben: AP3.1a, AP4.1 und AP4.2",
+"von": "2023-10-01",
+"bis": "2027-02-28",
+"summe": 907219.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE5169A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: LEHXMS - Large Electric Heat eXchanger for Molten Salt: Entwicklung und Demonstration eines leistungsstarken Elektroerhitzers für Flüssigsalz, Teilvorhaben: Entwicklung, Herstellung und Implementierung des Elektroerhitzers",
+"von": "2023-11-01",
+"bis": "2027-01-31",
+"summe": 2617940.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE5185D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: TurboTrans - Turbomaschinen für die Transformation in das integrierte Energiesystem der Zukunft, Teilvorhaben: 4.2a, 4.3a und 4.4a Disziplinübergreifende Simulationen, effizientere Berechnung thermoakustischer Instabilitäten und generativer Ansatz zur Skalierung von H2-Verbrennungstechnologie",
+"von": "2025-01-01",
+"bis": "2027-12-31",
+"summe": 256011.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE5194D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: FokusTurbo - Flexible Turbomaschinen für klimaneutrale und resiliente Energiesysteme, Teilvorhaben: 1.3a, 3.6a, 4.1a und 4.2a Entwicklung probabilistischer Lebensdauermodelle, frequenzbasierter Strömungssimulationen und innovativer H2-Brennkammertechnologien für Gasturbinen.",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 428988.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE5197C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: LaBeGa 2 - Innovative lastflexible Beschichtungssysteme für Wasserstoff-Gasturbinen, Teilvorhaben: Bewertung und Anwendung innovativer Beschichtungslösungen für Wasserstoff-befeuerte Gasturbinen",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 110157.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE5203A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: DiWaTurb - Diversifizierung des Energiesystems durch Wasserstoff, Wärmepumpen und Energiespeicher - Turbomaschinen, Teilvorhaben: AP2.2a, 4.2b, 4.5a, 5.2b, 5.3b - Verdichter, Verbrennungstechnologien und KI-Assistenzsysteme",
+"von": "2026-10-01",
+"bis": "2029-09-30",
+"summe": 686242.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN3024C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: EnEff:Wärme: Qwark3 - Quartiers-Wärme-Kraft-Kälte-Kopplung / Teilvorhaben: 'Entwicklung und Test einer Groß- und Hochtemperaturwärmepumpe für die Einbindung in das Berliner Fernwärmenetz'",
+"von": "2020-08-01",
+"bis": "2027-07-31",
+"summe": 705370.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN4107D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: etaGPT - Ein interaktiver KI-Assistent zur Analyse und Optimierung von Energiesystemen, Teilvorhaben: Industriegerechte Anwendung im Bereich der Energietechnologie",
+"von": "2025-05-01",
+"bis": "2028-04-30",
+"summe": 237815.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN4122B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: NEILOS - Neuartiges Elektroerhitzersystem für Salzschmelzen zur Elektrifizierung von Hochtemperatur-Industrieprozessen, Teilvorhaben: Entwicklung Elektroerhitzer für erhöhte Salzschmelzetemperatur",
+"von": "2026-02-01",
+"bis": "2029-07-31",
+"summe": 319899.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03LB1013A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: AMDECA - Additive Fertigung zur Unterstützung der Dekarbonisierung von Energiewandlungssystemen, Teilvorhaben: Entwicklung einer additiven Design- und Fertigungskette für Bauteile von Energiewandlungssystemen",
+"von": "2023-08-01",
+"bis": "2026-10-31",
+"summe": 832256.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE5177A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "'Verbundvorhaben: LEIMAT-II - Erschließung weiterer Anwendungsbereiche einer leichten Superlegierung für den Einsatz in last- und brennstoffflexiblen Gasturbinen, Teilvorhaben: Erweiterung des Legierungskonzepts für konventionellen Feinguss und Anwendung fortschrittlicher Lebensdauermodelle.'",
+"von": "2024-07-01",
+"bis": "2027-06-30",
+"summe": 376274.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE5179A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: H2BED - Entwicklung von Basistechnologien für 100% Wasserstoffgasturbinen zur Beschleunigung der Energiewende in Deutschland, Teilvorhaben: Entwicklung von Brennertechnologie und Wärmedämmschichten sowie Untersuchung von Gasturbinenwerkstoffen für 100% Wasserstoff",
+"von": "2024-07-01",
+"bis": "2028-06-30",
+"summe": 5164455.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE5191A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: REACT-AI - Reaktionsschnelle Bereitstellung von Gasturbinen-Lösungen für die Energiewende mittels einer neuartigen, generativen KI-Designkette, Teilvorhaben: KI-gestütztes Design von Turbinenschaufeln",
+"von": "2025-08-01",
+"bis": "2028-07-31",
+"summe": 634674.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03B10611B",
+"ressort": "BMV",
+"epl": "12",
+"thema": "NIP II - FuE - Verbund: RiverCell 3 - Brennstoffzellen-Hybridanlage für ein Flusskreuzfahrtschiff - Weiterentwicklung für die Schiffsintegration",
+"von": "2024-01-01",
+"bis": "2026-12-31",
+"summe": 1390151.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13IPC037J",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Edge-Cloud-gestützter Datenraum für die Windindustrie (Wind-X) - Teilvorhaben: Entwicklung und Pilotierung innovativer Cloud-Edge-Lösungen zur Verbesserung der Lieferkette",
+"von": "2026-01-01",
+"bis": "2027-07-31",
+"summe": 545844.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE1167A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: EPH-FuE -Energiepark Herzogenrath Forschung und Entwicklung, Teilvorhaben: Gesamtenergiesystemoptimierung inklusive Mobilität",
+"von": "2023-07-01",
+"bis": "2027-01-31",
+"summe": 787589.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13F1039E",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Vorfelduntersuchungen für ein integriertes Prozess-Modell (IPM) eines end-to-end Kraftwerkskonzepts am Beispiel der Laserfusion (KONZEPT) - Teilvorhaben: Methodische Strukturierung des IPM, Entwicklung techno-ökonomischer Modelle und Energieumwandlungskonzepte lasergetriebener Fusionskraftwerke",
+"von": "2026-03-01",
+"bis": "2028-02-29",
+"summe": 1919416.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13XP5199A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Vollständig digitalisierte & vereinheitlichte Materialmodellierung zur Echtzeitanalyse des prozess- & betriebsbedingten Deformations- & Schädigungsverhaltens innerhalb digitaler Bauteilzwillinge (DigitalModelling) - Teilvorhaben: Proprietäre Daten, Testing und Demonstration",
+"von": "2024-01-01",
+"bis": "2026-12-31",
+"summe": 15131.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "02J21C100",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben: Entwicklung und Validierung eines evolutionären, menschzentrierten Frameworks für wandlungskompetente Organisationen (EvoFrame), Teilprojekt: Verbesserung der Mensch-Maschinen Interaktionen im Gasturbinen Service",
+"von": "2023-01-01",
+"bis": "2026-06-30",
+"summe": 142170.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI6088B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: Hochleistungs-HGÜ - Hochleistungs-Halbleiter für eine energieeffiziente Hochspannungs-Gleichstrom-Übertragung, Teilvorhaben: Leistungsdichteanhebung des HGÜ-Konverters",
+"von": "2022-11-01",
+"bis": "2026-04-30",
+"summe": 222914.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI6114A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: ecoHGÜ - Qualifikation von umweltverträglichen Esterflüssigkeiten für den Einsatz in Transformatorisoliersystemen für die Hochspannungs-Gleichstromübertragung, Teilvorhaben: Zusammenführung der Entwicklungsergebnisse und Überführung in ein Mock-up",
+"von": "2024-03-01",
+"bis": "2027-02-28",
+"summe": 287613.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI3098A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: SUPER-H2 - Scale-Up Pressurized Electrolyzer for Renewable H2, Teilvorhaben: Entwicklung der Fertigungstechnologie für die Serienfertigung des ELYZER P",
+"von": "2024-09-01",
+"bis": "2028-09-30",
+"summe": 3049893.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI6128B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: CURL380 - Schlüsseltechnologie für Supraleitende Strombegrenzer für die Anwendung in Höchstspannungsnetzen von 380 kV, Teilvorhaben: Modulaufbau, Tests und Gesamtsystemintegration für die 380kV Hochspannungsebene",
+"von": "2025-04-01",
+"bis": "2028-03-31",
+"summe": 358785.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI4096C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: Opti-VNL - Optimierte Verfahren zur Prognose vertikaler Netzlast unter Nutzung von maschinellem Lernen, Teilvorhaben: VNL-Insight - Plattform für Prognose und Bewertung der vertikalen Netzlast",
+"von": "2025-04-01",
+"bis": "2028-03-31",
+"summe": 354008.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI6143E",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: SyNerGy-H2 - Systemdienliche Netzintegration von Multi-Mega-/ Gigawatt-Elektrolyseanlagen, Teilvorhaben: Erforschung und Vorentwicklung eines Hochleistungs-DC/DC Wandlers",
+"von": "2025-07-01",
+"bis": "2028-06-30",
+"summe": 456532.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI3122D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: AEMset - Alkalische Elektrolyse mit Membran - Hocheffiziente edelmetallfreie Katalysatoren, stabile Binder-Ionomere, effektives Elektrodendesign und Transfer auf industrierelevante Prozesse, Teilvorhaben: MEA-Integration in industrierelevante Vollzelle",
+"von": "2025-09-01",
+"bis": "2028-08-31",
+"summe": 841646.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI6145B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: LiBaTra - Sichere Deaktivierung für den Lithium-Ionen-Batterietransport und das Recycling, Teilvorhaben: Automatische Deaktivierung eines stationären Batteriespeichers",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 374441.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SFK2S5B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben P2V: Power2ValueChemicals - Demonstration einer Wertschöpfungskette zur klimaverträglichen Produktion von Value Chemicals aus regenerativen CO2-Quellen und erneuerbar produziertem Strom, Teilvorhaben: CO2-zu-CO-Elektrolyse Miniplant",
+"von": "2023-12-01",
+"bis": "2026-11-30",
+"summe": 819909.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03HY131A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "H2annibal: Erforschung von Betriebsverhalten und Alterung eines PEM-Elektrolyseurs in einer Anlage zur Produktion von Isophorondiamin (Partnervorhaben zu H2Giga)",
+"von": "2022-12-01",
+"bis": "2028-09-30",
+"summe": 2583144.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SF0840B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben CHIMERA: Auslegung und Betriebserfahrung netzbildender Hybridkraftwerke an einer Co-Simulationssplattform, Teilvorhaben: Untersuchung von Park- und Anlagenregelung von Hybridkraftwerken und deren Wirtschaftlichkeit",
+"von": "2026-08-01",
+"bis": "2029-07-31",
+"summe": 928418.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EW0031A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben F3-PYLOT: Fully Fluorine Free - Production of Green Hydrogen, Teilvorhaben: Zell- und Stackdesign, Beschichtungsmethoden und Integration fluorfreier Membranen und Elektroden in die PEM-Elektrolyse",
+"von": "2025-12-01",
+"bis": "2029-11-30",
+"summe": 9681872.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03HY130A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben H2Giga_NG5_AEM-Direkt: Direktbeschichtung von anionenleitenden Membranen für großskalige Wasserelektrolyseure, Teilvorhaben: Stackdesign & elektrochemische Charakterisierung",
+"von": "2023-03-01",
+"bis": "2026-02-28",
+"summe": 2883211.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16BZF316A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Nachhaltige und kostengünstige Redox-Flow-Batterietechnologie für stationäre Speicherung (Multiflow)",
+"von": "2024-10-01",
+"bis": "2027-09-30",
+"summe": 852366.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Christian Bruch",
@@ -246,6 +657,11 @@
 "stand": "2026-09-30",
 "etikett": "Eigenangabe",
 "version": 13
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

@@ -1,0 +1,92 @@
+{
+"id": "beschaffungen",
+"name": "Beschaffungen",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "04-0405-89441",
+"text": "Zuschüsse für Beschaffungen",
+"epl": "04",
+"epl_text": "Bundeskanzlerin und Bundeskanzleramt",
+"werte": {
+"2015": {
+"soll": 2355000,
+"ist": 2355000
+}
+}
+},
+{
+"id": "04-0452-89441",
+"text": "Zuschüsse für Beschaffungen",
+"epl": "04",
+"epl_text": "Bundeskanzler und Bundeskanzleramt",
+"werte": {
+"2016": {
+"soll": 2355000,
+"ist": 2355000
+},
+"2017": {
+"soll": 2355000,
+"ist": 2355000
+},
+"2018": {
+"soll": 2355000,
+"ist": 2355000
+},
+"2019": {
+"soll": 2355000,
+"ist": 2355000
+},
+"2020": {
+"soll": 2355000,
+"ist": 2355000
+},
+"2021": {
+"soll": 4705000,
+"ist": 3053846
+},
+"2022": {
+"soll": 5705000,
+"ist": 3815389
+},
+"2023": {
+"soll": 4205000,
+"ist": 2875499
+},
+"2024": {
+"soll": 4205000,
+"ist": 3447903
+},
+"2025": {
+"soll": 1855000,
+"ist": 1855000
+},
+"2026": {
+"soll": 1855000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

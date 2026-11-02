@@ -1,0 +1,84 @@
+{
+"id": "bundesamt-fuer-verfassungsschutz",
+"name": "Bundesamt für Verfassungsschutz",
+"art": "oeffentlich",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "06-0626-54101",
+"text": "Zuschuss an das Bundesamt für Verfassungsschutz",
+"epl": "06",
+"epl_text": "Bundesministerium des Innern",
+"werte": {
+"2015": {
+"soll": 230768000,
+"ist": 222480785
+},
+"2016": {
+"soll": 260545000,
+"ist": 253294733
+},
+"2017": {
+"soll": 348966000,
+"ist": 306918024
+},
+"2018": {
+"soll": 390810000,
+"ist": 345879830
+},
+"2019": {
+"soll": 421964000,
+"ist": 399114450
+},
+"2020": {
+"soll": 467190000,
+"ist": 416035521
+},
+"2021": {
+"soll": 476451000,
+"ist": 422511011
+},
+"2022": {
+"soll": 488361000,
+"ist": 440323972
+},
+"2023": {
+"soll": 469469000,
+"ist": 468737148
+},
+"2024": {
+"soll": 468883000,
+"ist": 504339688
+},
+"2025": {
+"soll": 576991000,
+"ist": 551301151
+},
+"2026": {
+"soll": 690852000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

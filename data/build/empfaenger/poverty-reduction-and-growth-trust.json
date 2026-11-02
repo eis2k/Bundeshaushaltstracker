@@ -11,6 +11,38 @@
 "haushalt": {
 "titel": [
 {
+"id": "60-6002-86621",
+"text": "Darlehen an den Poverty Reduction and Growth Trust (PRGT)",
+"epl": "60",
+"epl_text": "Allgemeine Finanzverwaltung",
+"werte": {
+"2021": {
+"soll": 1226000000,
+"ist": 1226000000
+},
+"2022": {
+"soll": 1226000000,
+"ist": 1226000000
+},
+"2023": {
+"soll": 548000000,
+"ist": 548000000
+},
+"2024": {
+"soll": 0,
+"ist": 0
+},
+"2025": {
+"soll": 0,
+"ist": 0
+},
+"2026": {
+"soll": 0,
+"ist": null
+}
+}
+},
+{
 "id": "60-6002-68728",
 "text": "Zuschuss an den Poverty Reduction and Growth Trust (PRGT)",
 "epl": "60",

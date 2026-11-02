@@ -1,0 +1,64 @@
+{
+"id": "musikwirtschaft-international",
+"name": "Musikwirtschaft International",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "05-0504-68710",
+"text": "Förderung Musikwirtschaft International",
+"epl": "05",
+"epl_text": "Auswärtiges Amt",
+"werte": {
+"2020": {
+"soll": 3000000,
+"ist": 3000000
+},
+"2021": {
+"soll": 4000000,
+"ist": 4000000
+},
+"2022": {
+"soll": 2000000,
+"ist": 1868000
+},
+"2023": {
+"soll": 3000000,
+"ist": 2963810
+},
+"2024": {
+"soll": 2750000,
+"ist": 1330165
+},
+"2025": {
+"soll": 1400000,
+"ist": 1400000
+},
+"2026": {
+"soll": 1400000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

@@ -587,12 +587,20 @@
 "geschaeftsjahr": "2025",
 "jahresabschluss": {
 "url": "https://www.lobbyregister.bundestag.de/media/b2/d2/856719/Deutsches-Rotes-Kreuz-e-V-_2025_EB-signiert.pdf",
-"geschaeftsjahr": "",
-"kennzahlen": null,
-"seite": null,
+"geschaeftsjahr": "2025",
+"kennzahlen": {
+"ertraege_gesamt": 213750000,
+"oeffentliche_hand": 126826039,
+"spenden": 62299000,
+"personalaufwand": 50684000,
+"projektfoerderung": null,
+"weitergeleitete_mittel": 54089000,
+"jahresergebnis": 264000
+},
+"seite": 29,
 "pruefer": null,
-"hinweis": null,
-"erfasst": null
+"hinweis": "Zuwendungen „vor allem aus Bundes- und EU-Mitteln“ (S. 9); Werte außer den Zuwendungen in Tausend Euro gerundet. Weitergeleitete Mittel = Mittelzuweisungen an Dritte.",
+"erfasst": "2026-11-02"
 }
 },
 "quellen": [
@@ -603,6 +611,12 @@
 "stand": "2026-10-05",
 "etikett": "Eigenangabe",
 "version": 38
+},
+{
+"kurz": "Jahresabschluss des Empfängers",
+"url": "https://www.lobbyregister.bundestag.de/media/b2/d2/856719/Deutsches-Rotes-Kreuz-e-V-_2025_EB-signiert.pdf",
+"abgerufen": "2026-11-02",
+"etikett": "Eigenangabe"
 }
 ]
 }

@@ -125,7 +125,118 @@
 }
 ],
 "lobby_untergrenze_bund": 16140013,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "031B1398A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "CO2BioTech: biofactur-e - CO2-basierte Bioproduktionsplattform für Cystein, Aspartat und Glycolat via (elektro-)enzymatischem Methanol (TP A)",
+"von": "2024-01-01",
+"bis": "2027-06-30",
+"summe": 568801.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN2142B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: SiliRecy - Entwicklung eines kontinuierlichen Depolymerisationsverfahrens zum Recycling von Siliconelastomerabfällen im Extruder, Teilvorhaben: Materialbereitstellung, Analyse und Bewertung von Siliconrecyclat",
+"von": "2025-08-01",
+"bis": "2028-07-31",
+"summe": 195963.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13IPC034S",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Digitales Ökosystem für KI-basierte Robotik (RoX) - Teilvorhaben: Entwicklung einer KI-basierten Lösung zum automatisierten heckseitigem Be- und Entladen von LKWs sowie fahrerloses Handling von Materialien in komplexen Industrieumgebungen.",
+"von": "2024-09-01",
+"bis": "2027-02-28",
+"summe": 419400.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ZU1205BB",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "ETOS: Modulare und skalierbare Anschwemmzellen für die Elektrokonversion von wenig löslichem L-Cystin (MOSAIC) - B",
+"von": "2023-04-01",
+"bis": "2026-03-31",
+"summe": 140945.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ZU1201AM",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "CNATM: Chemisch modifizierte Nukleoside, Nukleotide und Oligonukleotide als Therapeutika und Vakzine (Verbundprojekt 1) - M",
+"von": "2023-05-01",
+"bis": "2026-04-30",
+"summe": 196579.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ZU2111DK",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "SaxoCell: Ex vivo-modifizierte Natürliche Killerzellen zur Immuntherapie von Tumoren und Autoimmunerkrankungen (NK-Alliance) - K",
+"von": "2024-10-01",
+"bis": "2027-09-30",
+"summe": 318580.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13MX010L",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Aufbau eines Datenraums der chemischen Industrie sowie Schnittstellen der mit ihr verbundener Wertschöpfungsketten am Beispiel des digitalen Produkt Passes (Chem-X) - Teilvorhaben: Digitaler Produkt Passes aus Sicht eines vernetzten Chemieunternehmens mit Schwerpunkt Silicone und Polymerprodukte",
+"von": "2024-12-01",
+"bis": "2026-11-30",
+"summe": 508156.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03XP0519B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "MaSSiF - Materialinnovationen für Schwefel-Silizium-Festkörperbatterien - Design, Aufbau und Bewertung von Prototypzellen",
+"von": "2023-02-01",
+"bis": "2026-01-31",
+"summe": 195825.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03XP0532D",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "InProMal - Integrierte und beschleunigte Prozessoptimierung zur Herstellung prälithiierter Elektroden für Energiespeicher mit Methoden des Maschinellen Lernens",
+"von": "2023-02-01",
+"bis": "2026-01-31",
+"summe": 160797.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SF0705H",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben H2-Reallabor Burghausen / ChemDelta Bavaria_Teilvorhaben: H",
+"von": "2023-04-01",
+"bis": "2028-03-31",
+"summe": 4046679.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16IPCEI234",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Entwicklung innovativer Fertigungsprozesse für Polysilicium für zukünftige Halbleiter-Anwendungen - Etching-Line-Next",
+"von": "2022-05-23",
+"bis": "2026-12-31",
+"summe": 46482030.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Christian Hartel",
@@ -451,6 +562,11 @@
 "stand": "2026-06-24",
 "etikett": "Eigenangabe",
 "version": 24
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

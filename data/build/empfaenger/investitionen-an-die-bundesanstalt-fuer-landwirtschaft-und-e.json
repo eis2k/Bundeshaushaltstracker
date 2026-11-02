@@ -1,0 +1,84 @@
+{
+"id": "investitionen-an-die-bundesanstalt-fuer-landwirtschaft-und-e",
+"name": "Investitionen an die Bundesanstalt für Landwirtschaft und Ernährung (BLE)",
+"art": "oeffentlich",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "10-1004-89301",
+"text": "Zuschüsse für Investitionen an die Bundesanstalt für Landwirtschaft und Ernährung (BLE)",
+"epl": "10",
+"epl_text": "Bundesministerium für Landwirtschaft, Ernährung und Heimat",
+"werte": {
+"2015": {
+"soll": 14546000,
+"ist": 4740953
+},
+"2016": {
+"soll": 18087000,
+"ist": 5167156
+},
+"2017": {
+"soll": 51288000,
+"ist": 22707891
+},
+"2018": {
+"soll": 33266000,
+"ist": 4025048
+},
+"2019": {
+"soll": 6150000,
+"ist": 9738419
+},
+"2020": {
+"soll": 3657000,
+"ist": 3430461
+},
+"2021": {
+"soll": 3413000,
+"ist": 3516749
+},
+"2022": {
+"soll": 4023000,
+"ist": 3683127
+},
+"2023": {
+"soll": 1713000,
+"ist": 39700392
+},
+"2024": {
+"soll": 6067000,
+"ist": 40091531
+},
+"2025": {
+"soll": 30387000,
+"ist": 3331381
+},
+"2026": {
+"soll": 14371000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

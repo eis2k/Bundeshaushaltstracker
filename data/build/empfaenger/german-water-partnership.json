@@ -53,7 +53,18 @@
 }
 ],
 "lobby_untergrenze_bund": 370004,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "02WAS1712B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "WASA - Vernetzungs- und Transfervorhaben WASANet: Hauptphase Südliches Afrika, Teilprojekt 2",
+"von": "2023-11-01",
+"bis": "2027-10-31",
+"summe": 225342.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Boris Greifeneder",
@@ -139,6 +150,11 @@
 "stand": "2026-06-10",
 "etikett": "Eigenangabe",
 "version": 9
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

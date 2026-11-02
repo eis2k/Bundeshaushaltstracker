@@ -53,7 +53,7 @@
 },
 {
 "geber": "Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration und Beauftragte der Bundesregierung für Antirassismus",
-"epl": null,
+"epl": "04",
 "von": 1050001,
 "bis": 1060000,
 "zweck": "Förderung des Projekts 'Selbstbestimmt vernetzen, erinnern und bilden'",
@@ -69,7 +69,7 @@
 },
 {
 "geber": "Deutsche Stiftung für Engagement und Ehrenamt DSEE",
-"epl": null,
+"epl": "17",
 "von": 80001,
 "bis": 90000,
 "zweck": "Unterstützung des Projekts 'Diversitätsorientierte Demokratiearbeit im ländlichen Raum Thüringens'",
@@ -122,13 +122,21 @@
 },
 "geschaeftsjahr": "2025",
 "jahresabschluss": {
-"url": "https://www.lobbyregister.bundestag.de/media/2b/d6/837710/Jahresabschluss-2024-Amadeu-Antonio-Stiftung-Web.pdf",
+"url": "https://www.lobbyregister.bundestag.de/media/2b/d6/837710/Jahresabschluss-2024-Amadeu-Antonio-Stiftung.pdf",
 "geschaeftsjahr": "2024",
-"kennzahlen": null,
-"seite": null,
-"pruefer": null,
-"hinweis": null,
-"erfasst": null
+"kennzahlen": {
+"ertraege_gesamt": 12523375,
+"oeffentliche_hand": 7351034,
+"spenden": 3308958,
+"personalaufwand": 6965568,
+"projektfoerderung": 1015267,
+"weitergeleitete_mittel": 901912,
+"jahresergebnis": 1490418
+},
+"seite": 2,
+"pruefer": "Gem.Audit PartG mbB Wirtschaftsprüfungsgesellschaft, Hamburg (uneingeschränkter Bestätigungsvermerk 26.11.2025)",
+"hinweis": "Gescannte GuV. Personalaufwand = alle Beschäftigten; eine Vorstandsvergütung ist nicht gesondert ausgewiesen. „Öffentliche Hand“ umfasst Bund, Länder und EU.",
+"erfasst": "2026-11-01"
 }
 },
 "quellen": [
@@ -139,6 +147,12 @@
 "stand": "2026-09-02",
 "etikett": "Eigenangabe",
 "version": 12
+},
+{
+"kurz": "Jahresabschluss des Empfängers",
+"url": "https://www.lobbyregister.bundestag.de/media/2b/d6/837710/Jahresabschluss-2024-Amadeu-Antonio-Stiftung.pdf",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
 }
 ]
 }

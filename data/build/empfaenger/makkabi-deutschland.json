@@ -1,0 +1,52 @@
+{
+"id": "makkabi-deutschland",
+"name": "Makkabi Deutschland e. V.",
+"art": "verein_stiftung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "06-0601-68523",
+"text": "Institutionelle Förderung Makkabi Deutschland e. V.",
+"epl": "06",
+"epl_text": "Bundesministerium des Innern",
+"werte": {
+"2025": {
+"soll": 679000,
+"ist": 678366
+}
+}
+},
+{
+"id": "04-0416-68523",
+"text": "Institutionelle Förderung Makkabi Deutschland e. V.",
+"epl": "04",
+"epl_text": "Bundeskanzler und Bundeskanzleramt",
+"werte": {
+"2026": {
+"soll": 811000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

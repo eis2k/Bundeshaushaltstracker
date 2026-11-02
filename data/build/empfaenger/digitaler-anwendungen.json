@@ -1,0 +1,56 @@
+{
+"id": "digitaler-anwendungen",
+"name": "digitaler Anwendungen",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "16-1601-68604",
+"text": "Förderung digitaler Anwendungen zur Steigerung der Ressourceneffizienz in zirkulären Produktionsprozessen",
+"epl": "16",
+"epl_text": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+"werte": {
+"2022": {
+"soll": 8000000,
+"ist": 247174
+},
+"2023": {
+"soll": 8000000,
+"ist": 4601597
+},
+"2024": {
+"soll": 8000000,
+"ist": 7614988
+},
+"2025": {
+"soll": 0,
+"ist": 1872510
+},
+"2026": {
+"soll": 0,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

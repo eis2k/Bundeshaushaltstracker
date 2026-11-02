@@ -1,0 +1,92 @@
+{
+"id": "innovative-forschung-im-bereich-building-information-modelin",
+"name": "innovative Forschung im Bereich Building Information Modeling",
+"art": "forschung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "12-1204-68621",
+"text": "Zuschüsse für innovative Forschung im Bereich Building Information Modeling",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr",
+"werte": {
+"2019": {
+"soll": 903000,
+"ist": 62666
+},
+"2020": {
+"soll": 3352000,
+"ist": 1415765
+},
+"2021": {
+"soll": 4501000,
+"ist": 2994963
+},
+"2022": {
+"soll": 3637000,
+"ist": 978561
+},
+"2023": {
+"soll": 3000000,
+"ist": 671499
+},
+"2024": {
+"soll": 5000000,
+"ist": 958999
+},
+"2025": {
+"soll": 1410000,
+"ist": 1324995
+}
+}
+},
+{
+"id": "12-1210-68601",
+"text": "Zuschüsse für innovative Forschung im Bereich Building Information Modeling",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr",
+"werte": {
+"2016": {
+"soll": 2200000,
+"ist": 2339022
+},
+"2017": {
+"soll": 2200000,
+"ist": 2697365
+},
+"2018": {
+"soll": 3010000,
+"ist": 2695716
+},
+"2019": {
+"soll": 3010000,
+"ist": 3959279
+},
+"2026": {
+"soll": 1410000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

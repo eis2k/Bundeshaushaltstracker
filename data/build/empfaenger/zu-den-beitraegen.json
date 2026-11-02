@@ -1,0 +1,84 @@
+{
+"id": "zu-den-beitraegen",
+"name": "zu den Beiträgen",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "11-1102-63685",
+"text": "Zuschüsse zu den Beiträgen zur Rentenversicherung der in Werkstätten, bei anderen Leistungsanbietern nach § 60 SGB IX und Inklusionsbetrieben beschäftigten behinderten Menschen",
+"epl": "11",
+"epl_text": "Bundesministerium für Arbeit und Soziales",
+"werte": {
+"2015": {
+"soll": 1175000000,
+"ist": 1198491534
+},
+"2016": {
+"soll": 1215000000,
+"ist": 1235427907
+},
+"2017": {
+"soll": 1270000000,
+"ist": 1281104806
+},
+"2018": {
+"soll": 1333000000,
+"ist": 1300931862
+},
+"2019": {
+"soll": 1371000000,
+"ist": 1336905542
+},
+"2020": {
+"soll": 1410000000,
+"ist": 1400430120
+},
+"2021": {
+"soll": 1430000000,
+"ist": 1452005291
+},
+"2022": {
+"soll": 1510000000,
+"ist": 1439770702
+},
+"2023": {
+"soll": 1560000000,
+"ist": 1433032523
+},
+"2024": {
+"soll": 1595000000,
+"ist": 1494428922
+},
+"2025": {
+"soll": 1620000000,
+"ist": 1580453228
+},
+"2026": {
+"soll": 1690000000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

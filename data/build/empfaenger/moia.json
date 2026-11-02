@@ -29,7 +29,28 @@
 }
 ],
 "lobby_untergrenze_bund": 1170001,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "45AVF3B021",
+"ressort": "BMV",
+"epl": "12",
+"thema": "Integration von autonomen Fahrzeugen in Mobilitätsanwendungen",
+"von": "2023-10-23",
+"bis": "2027-06-30",
+"summe": 7641938.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01ME2614MI",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: MILA.mobility - Middleware-Integration von Leitstellen- und Dispositionssystemen für Autonome Mobilität, Teilvorhaben: Modellbasierte Simulation flexibler Bedienformen und Analyse der Resilienzwirkungen autonomer Shuttles im öffentlichen Verkehr",
+"von": "2026-08-01",
+"bis": "2030-03-31",
+"summe": 147817.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Christian Senger",
@@ -185,6 +206,11 @@
 "stand": "2026-08-19",
 "etikett": "Eigenangabe",
 "version": 18
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

@@ -37,7 +37,28 @@
 }
 ],
 "lobby_untergrenze_bund": 1420002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EWR012B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Reallabor: EnergieparkBL - Demonstration von Sektorkopplung: Wind-Elektrolyse für Erzeugung, Speicherung und Transport von grünem Wasserstoff - Teilvorhaben: Großtechnische Speicherung von Wasserstoff aus erneuerbaren Energien",
+"von": "2021-09-01",
+"bis": "2028-11-30",
+"summe": 2334373.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EWR012BV",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Reallabor: EnergieparkBL - Demonstration von Sektorkopplung: Wind-Elektrolyse für Erzeugung, Speicherung und Transport von grünem Wasserstoff - Teilvorhaben: Großtechnische Speicherung von Wasserstoff aus erneuerbaren Energien [VE]",
+"von": "2021-09-01",
+"bis": "2026-08-31",
+"summe": 0.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Bernd Protze",
@@ -98,6 +119,11 @@
 "stand": "2026-05-27",
 "etikett": "Eigenangabe",
 "version": 8
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

@@ -1,0 +1,84 @@
+{
+"id": "zur-foerderung-der-einstellung-der-landwirtschaftlichen-erwe",
+"name": "zur Förderung der Einstellung der landwirtschaftlichen Erwerbstätigkeit",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "10-1001-63606",
+"text": "Zuschüsse zur Förderung der Einstellung der landwirtschaftlichen Erwerbstätigkeit",
+"epl": "10",
+"epl_text": "Bundesministerium für Landwirtschaft, Ernährung und Heimat",
+"werte": {
+"2015": {
+"soll": 2000000,
+"ist": 2069290
+},
+"2016": {
+"soll": 2000000,
+"ist": 1789623
+},
+"2017": {
+"soll": 1800000,
+"ist": 1495048
+},
+"2018": {
+"soll": 1700000,
+"ist": 1190629
+},
+"2019": {
+"soll": 1200000,
+"ist": 828185
+},
+"2020": {
+"soll": 1000000,
+"ist": 650038
+},
+"2021": {
+"soll": 800000,
+"ist": 602086
+},
+"2022": {
+"soll": 700000,
+"ist": 549012
+},
+"2023": {
+"soll": 600000,
+"ist": 501516
+},
+"2024": {
+"soll": 600000,
+"ist": 398624
+},
+"2025": {
+"soll": 500000,
+"ist": 358257
+},
+"2026": {
+"soll": 400000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

@@ -306,12 +306,20 @@
 "geschaeftsjahr": "2025",
 "jahresabschluss": {
 "url": "https://www.lobbyregister.bundestag.de/media/b2/21/840392/JAP-Bericht-2025-ASB-Deutschland-endg_.pdf",
-"geschaeftsjahr": "",
-"kennzahlen": null,
-"seite": null,
+"geschaeftsjahr": "2025",
+"kennzahlen": {
+"ertraege_gesamt": 153924556,
+"oeffentliche_hand": null,
+"spenden": 1876587,
+"personalaufwand": 12173507,
+"projektfoerderung": 35716721,
+"weitergeleitete_mittel": 56081570,
+"jahresergebnis": 6004979
+},
+"seite": 37,
 "pruefer": null,
-"hinweis": null,
-"erfasst": null
+"hinweis": "Bundesverband: Gesamtmitgliedsbeiträge 101,2 Mio €; „Spenden und Zuwendungen Auslandshilfe“ 35,3 Mio € nicht nach Herkunft getrennt. Weitergeleitete Mittel = Beitragsverteilung an Organisationsstufen.",
+"erfasst": "2026-11-02"
 }
 },
 "quellen": [
@@ -322,6 +330,12 @@
 "stand": "2026-09-10",
 "etikett": "Eigenangabe",
 "version": 11
+},
+{
+"kurz": "Jahresabschluss des Empfängers",
+"url": "https://www.lobbyregister.bundestag.de/media/b2/21/840392/JAP-Bericht-2025-ASB-Deutschland-endg_.pdf",
+"abgerufen": "2026-11-02",
+"etikett": "Eigenangabe"
 }
 ]
 }

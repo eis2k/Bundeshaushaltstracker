@@ -1,0 +1,84 @@
+{
+"id": "zu-den-laufenden-kosten-des-einheitlichen-patentgerichts",
+"name": "zu den laufenden Kosten des Einheitlichen Patentgerichts",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "07-0710-68703",
+"text": "Beitrag zu den laufenden Kosten des Einheitlichen Patentgerichts",
+"epl": "07",
+"epl_text": "Bundesministerium der Justiz und für Verbraucherschutz",
+"werte": {
+"2015": {
+"soll": 950000,
+"ist": 543981
+},
+"2016": {
+"soll": 5500000,
+"ist": 0
+},
+"2017": {
+"soll": 4188000,
+"ist": 0
+},
+"2018": {
+"soll": 3000000,
+"ist": 0
+},
+"2019": {
+"soll": 5500000,
+"ist": 0
+},
+"2020": {
+"soll": 4266000,
+"ist": 169131
+},
+"2021": {
+"soll": 4300000,
+"ist": 0
+},
+"2022": {
+"soll": 6700000,
+"ist": 2906232
+},
+"2023": {
+"soll": 4378000,
+"ist": 4791716
+},
+"2024": {
+"soll": 5400000,
+"ist": 5740888
+},
+"2025": {
+"soll": 5115000,
+"ist": 3549422
+},
+"2026": {
+"soll": 9900000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

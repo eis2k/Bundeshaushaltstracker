@@ -1,0 +1,64 @@
+{
+"id": "institut-fuer-zeitgeschichte-muenchen",
+"name": "Institut für Zeitgeschichte München",
+"art": "forschung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "08-0812-68501",
+"text": "Zuschuss an das Institut für Zeitgeschichte München - Berlin für das Forschungsprojekt zur Aufarbeitung der Geschichte der Treuhandanstalt",
+"epl": "08",
+"epl_text": "Bundesministerium der Finanzen",
+"werte": {
+"2017": {
+"soll": 579000,
+"ist": 370290
+},
+"2018": {
+"soll": 599000,
+"ist": 583835
+},
+"2019": {
+"soll": 620000,
+"ist": 565630
+},
+"2020": {
+"soll": 628000,
+"ist": 527120
+},
+"2021": {
+"soll": 550000,
+"ist": 533420
+},
+"2022": {
+"soll": 0,
+"ist": 62316
+},
+"2023": {
+"soll": 0,
+"ist": 27283
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

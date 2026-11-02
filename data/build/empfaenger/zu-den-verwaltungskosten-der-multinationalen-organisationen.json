@@ -1,0 +1,40 @@
+{
+"id": "zu-den-verwaltungskosten-der-multinationalen-organisationen",
+"name": "zu den Verwaltungskosten der multinationalen Organisationen für Unterstützung",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "14-1422-68703",
+"text": "Beiträge zu den Verwaltungskosten der multinationalen Organisationen für Unterstützung, Rüstung und Informationsaustausch",
+"epl": "14",
+"epl_text": "Bundesministerium der Verteidigung",
+"werte": {
+"2015": {
+"soll": 4754000,
+"ist": 3622375
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

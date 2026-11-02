@@ -16,7 +16,64 @@
 "pdf_url": "https://www.lobbyregister.bundestag.de/media/bf/5c/811944/Lobbyregister-Registereintraege-Detailansicht-R003847-2026-07-13_13-25-30.pdf"
 },
 "haushalt": {
-"titel": []
+"titel": [
+{
+"id": "10-1002-68501",
+"text": "Zuschuss an die Deutsche Gesellschaft für Ernährung e. V.",
+"epl": "10",
+"epl_text": "Bundesministerium für Landwirtschaft, Ernährung und Heimat",
+"werte": {
+"2015": {
+"soll": 3856000,
+"ist": 3505000
+},
+"2016": {
+"soll": 4010000,
+"ist": 3635000
+},
+"2017": {
+"soll": 4126000,
+"ist": 4125000
+},
+"2018": {
+"soll": 4336000,
+"ist": 4335400
+},
+"2019": {
+"soll": 4779000,
+"ist": 4616500
+},
+"2020": {
+"soll": 5003000,
+"ist": 4350000
+},
+"2021": {
+"soll": 5116000,
+"ist": 4860000
+},
+"2022": {
+"soll": 5602000,
+"ist": 5300000
+},
+"2023": {
+"soll": 5645000,
+"ist": 5644270
+},
+"2024": {
+"soll": 6110000,
+"ist": 6031001
+},
+"2025": {
+"soll": 6182000,
+"ist": 6181300
+},
+"2026": {
+"soll": 6244000,
+"ist": null
+}
+}
+}
+]
 },
 "lobby_zuwendungen": [
 {
@@ -244,6 +301,11 @@
 "stand": "2026-07-13",
 "etikett": "Eigenangabe",
 "version": 9
+},
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

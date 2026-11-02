@@ -1,0 +1,44 @@
+{
+"id": "zur-grundinstandsetzung-und-sanierung-der-staatsbibliothek-h",
+"name": "zur Grundinstandsetzung und Sanierung der Staatsbibliothek Haus 2",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "04-0452-89435",
+"text": "Zuschüsse zur Grundinstandsetzung und Sanierung der Staatsbibliothek",
+"epl": "04",
+"epl_text": "Bundeskanzler und Bundeskanzleramt",
+"werte": {
+"2025": {
+"soll": 17000000,
+"ist": 0
+},
+"2026": {
+"soll": 13000000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

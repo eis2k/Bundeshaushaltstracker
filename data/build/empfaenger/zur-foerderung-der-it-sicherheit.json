@@ -1,0 +1,84 @@
+{
+"id": "zur-foerderung-der-it-sicherheit",
+"name": "zur Förderung der IT-Sicherheit",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "06-0623-68602",
+"text": "Zuschüsse zur Förderung der IT-Sicherheit",
+"epl": "06",
+"epl_text": "Bundesministerium des Innern",
+"werte": {
+"2015": {
+"soll": 0,
+"ist": 0
+},
+"2016": {
+"soll": 0,
+"ist": 0
+},
+"2017": {
+"soll": 0,
+"ist": 0
+},
+"2018": {
+"soll": 0,
+"ist": 0
+},
+"2019": {
+"soll": 0,
+"ist": 0
+},
+"2020": {
+"soll": 300000,
+"ist": 0
+},
+"2021": {
+"soll": 500000,
+"ist": 0
+},
+"2022": {
+"soll": 16750000,
+"ist": 199482
+},
+"2023": {
+"soll": 23485000,
+"ist": 9627629
+},
+"2024": {
+"soll": 25950000,
+"ist": 20193327
+},
+"2025": {
+"soll": 500000,
+"ist": 8652127
+},
+"2026": {
+"soll": 500000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

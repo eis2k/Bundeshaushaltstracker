@@ -37,7 +37,298 @@
 }
 ],
 "lobby_untergrenze_bund": 40780002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "16KISK221",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Holistische Entwicklung leistungsfähiger 6G-Vernetzung für verteilte medizintechnische Systeme - 6G-Health -",
+"von": "2022-10-15",
+"bis": "2026-04-30",
+"summe": 511286.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS1842",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Agile Lösungen für ProduktionsAutomaten mittels KommunikationsAbsicherung - ALPAKA -",
+"von": "2023-03-01",
+"bis": "2026-05-31",
+"summe": 509293.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS1828",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: IIoT-Sicherheit in Material Handling und Produktion - SUSTAIN -",
+"von": "2023-04-01",
+"bis": "2026-09-30",
+"summe": 676463.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS1907",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Cybersecurity Appliance to enhance the Security of Living Environments - CASTLE -",
+"von": "2024-01-01",
+"bis": "2027-03-31",
+"summe": 620067.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS2249",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Sustainable Technologies for Advanced Resilient and Energy-Efficient Networks - Guided utilities for automation, resilience, and Digital innovation in advanced networks - SUSTAINET-guarDian -",
+"von": "2025-01-01",
+"bis": "2027-12-31",
+"summe": 484967.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS2337",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: IntelliGEnte Lösungen für Echtzeit Sicherheit: Methoden der Künstlichen Intelligenz zur Steigerung der Vertauenswürdigkeit in mobilen Netzen - IGEL-AI -",
+"von": "2025-06-01",
+"bis": "2028-05-31",
+"summe": 470864.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13N18092",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Sensor-basiertes Autonomes Monitoring System (SEAMOS) - Teilvorhaben: Sichere digitale Kernarchitektur und Systemintegration",
+"von": "2026-09-01",
+"bis": "2029-08-31",
+"summe": 813750.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13N17549",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Adhoc-Notfall-KOMMunikation: ENtwicklung und Evaluierung (ANKOMMEN) - Teilvorhaben: Next eXPerience: Mission Critical 5G für BOS",
+"von": "2025-12-01",
+"bis": "2028-11-30",
+"summe": 919085.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ZU1210CE",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "SEMECO: Vertrauenswürdige Kommunikation (Q3) - Teilvorhaben E",
+"von": "2023-11-01",
+"bis": "2026-04-30",
+"summe": 229855.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ZU2210CF",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "SEMECO - Q3: Kontinuierliche, vertrauenswürdige Vitalzeichenüberwachung in Echtzeit für stationäre und Telemedizin (VitaTrust) - Teilvorhaben F",
+"von": "2026-06-15",
+"bis": "2029-06-14",
+"summe": 196159.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ZU2210EC",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "SEMECO - A1: Neue Datenübertragungstechnologie für Computertomographen (DataCT) - Teilvorhaben C",
+"von": "2026-05-01",
+"bis": "2029-04-30",
+"summe": 225407.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ZU2210IA",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "SEMECO - A7: Sichere Identifikation für Hochrisikomedikamente (MedID-Guard) - Teilvorhaben A",
+"von": "2026-05-01",
+"bis": "2029-04-30",
+"summe": 499981.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03WIR3906C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "WIR! - UAM - Lebensrettung im Wattenmeer mittels spezieller Wasserrettungsdrohnen, TP3: WaterRescueDrones",
+"von": "2023-08-01",
+"bis": "2026-07-31",
+"summe": 460394.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01MN26011C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: CEleRA - Circular Electronics Repair & Automation - Automatisierte Reparatur und Recycling von industrieller Elektronik für eine nachhaltige Kreislaufwirtschaft, Teilvorhaben: Auswahl, Bereitstellung, Integration und Optimierung von IC-Lösungen zur Speicherung des Digitalen Produktpasses",
+"von": "2026-02-01",
+"bis": "2029-01-31",
+"summe": 517840.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0245K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Technologien und Pilotlinien für die heterogene Integration von Kommunikations- und Radarelektronik - HICONNECTS -",
+"von": "2023-01-01",
+"bis": "2026-09-30",
+"summe": 1157926.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0264",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Entwicklung eines Open-Source RISC-V-Ökosystems für industrielle Anwendungen - TRISTAN -",
+"von": "2023-01-01",
+"bis": "2026-06-30",
+"summe": 897012.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16ME0850",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Strukturintegrierte Elektronik mittels Spritzgussverfahren für verbesserte Radarsysteme im Automobil - MID4automotive -",
+"von": "2023-03-01",
+"bis": "2026-06-30",
+"summe": 248621.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0312",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Elektroniksysteme für sicher vernetzte Fahrzeuge und Verkehrsplattformen - EcoMobility -",
+"von": "2023-06-01",
+"bis": "2026-04-30",
+"summe": 115998.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0496",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Vernetzte Sensorsysteme für Industrie 4.0 und Automotive - MOSAIC -",
+"von": "2025-08-01",
+"bis": "2028-06-30",
+"summe": 254958.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0585",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Chip-Design und Prozesstechnologien für die 10 Angstrom Lithographie in der Chip-Produktion - ACT10 -",
+"von": "2025-10-01",
+"bis": "2028-09-30",
+"summe": 141713.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0550",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Europäische RISC-V Hardware-Plattform für hochleistungsfähige Automobil-Prozessoren - RIGOLETTO -",
+"von": "2025-07-01",
+"bis": "2028-06-30",
+"summe": 312547.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0600",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Europäische Chiplet-Integrations-Plattform für hochleistungsfähige Automobil-Prozessoren - CHASSIS -",
+"von": "2025-11-01",
+"bis": "2028-10-31",
+"summe": 34373.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE1105K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: RISC-V-basierte Edge-KI-Architektur für echtzeitkritische Anwendungen - HumAMI -",
+"von": "2026-09-01",
+"bis": "2029-08-31",
+"summe": 451539.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE1151",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Mikroelektronische Chips für quantensicheres Edge-Computing - uPQComing -",
+"von": "2026-07-01",
+"bis": "2029-06-30",
+"summe": 245653.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N125224D",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Praktische Quantenvorteile für Optimierungsprobleme mit kryptografischen Methoden (PraktiQOM) - Teilvorhaben: Quantenunterstützte Anwendungsfälle für kombinatorische Optimierung in der Halbleiterindustrie",
+"von": "2025-11-01",
+"bis": "2028-10-31",
+"summe": 416450.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS2423",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Sicherstellung einer allgegenwärtigen und unterbrechungsfreien Versorgung durch eine vereinigte TN/NTN-Abdeckung in 6G - 6G-Coverage -",
+"von": "2026-03-01",
+"bis": "2029-02-28",
+"summe": 765891.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS2451K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Patient Adaptive Telemedicine and Healthcare through Connectivity and Real-time Engagement - PATHCARE -",
+"von": "2026-03-01",
+"bis": "2029-02-28",
+"summe": 532880.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS2445",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: 6G Campusnetze und Digitale Zwillinge für die Industrie 4.0 - 6GCampusTwin4In -",
+"von": "2026-02-01",
+"bis": "2029-01-31",
+"summe": 512720.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16IPCEI220",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Zukunftstechnologien für die Europäische Innovations- und Technologiesouveränität in der Mikroelektronik - FUTURE ME",
+"von": "2023-01-27",
+"bis": "2029-12-31",
+"summe": 303301417.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Lars Reger",
@@ -198,6 +489,11 @@
 "stand": "2026-07-14",
 "etikett": "Eigenangabe",
 "version": 10
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

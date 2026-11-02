@@ -37,7 +37,128 @@
 }
 ],
 "lobby_untergrenze_bund": 4040002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "031B1149AX",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Modellregion, Phase 1, Bio4Mat- Pro: BoostLab2-3 - SAVER2, Stimuliertes Adhäsionsversagen durch Elektrizität für Reparatur und Recycling, TP1",
+"von": "2022-01-01",
+"bis": "2026-09-30",
+"summe": 0.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "031B1160AX",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Modellregion, Phase 1, Bio4MatPro: Boostlab 6 - 2 - HoLoPep: Die biotechnologische Herstellung von Biopeptiden als nachhaltige Additive in Klebstoffen und/oder Wasch-/Reinigungsmitteln, in einem technisch-kommerziell sinnvollen Maßstab, TP A.",
+"von": "2022-04-01",
+"bis": "2026-09-30",
+"summe": 0.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "031B1139AX",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Modellregion, Phase 1, Bio4Mat- Pro: BoostLab1-1 - AMLSyn, Etablierung eines robusten Zellsystems für die biotechnologische Herstellung von alpha-Methylen-Lactonen, insbesondere Tulipalin A, TP1",
+"von": "2022-01-01",
+"bis": "2026-09-30",
+"summe": 0.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE1185C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: IndiFiduell - individuelle Draht-Finger Verbindungen für langzeitstabile Hocheffizienzmodule, Teilvorhaben: Kosteneffiziente und langzeitstabile Zell-Zell Verbindung für Rückkontaktsolarmodule",
+"von": "2024-01-01",
+"bis": "2026-12-31",
+"summe": 330558.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE2068C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: InjectAdhesive - Klebstoffinjektion als effizientes und ressourcenschonendes Fügeverfahren für die Rotorblattproduktion, Teilvorhaben: Entwicklung von injektionsfähigen epoxidfreien Klebstoffen für die Rotorblattproduktion",
+"von": "2024-09-01",
+"bis": "2027-08-31",
+"summe": 199700.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03LB2035G",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: DOM4Composites - (De)Montageoptimierte Modulbauweise thermoplastischer Faserverbundwerkstoffe, Teilvorhaben: Evaluierung von Verbundstrategien auf Klebstoff-Basis",
+"von": "2023-10-01",
+"bis": "2026-09-30",
+"summe": 178872.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13IK040H",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Catena-X Automotive Network NEXT (CX-NEXT) - Teilvorhaben: Henkel",
+"von": "2024-08-01",
+"bis": "2026-09-30",
+"summe": 750648.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13MX010D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Aufbau eines Datenraums der chemischen Industrie sowie Schnittstellen der mit ihr verbundener Wertschöpfungsketten am Beispiel des digitalen Produkt Passes (Chem-X) - Teilvorhaben: Datenaustausch mit Datenräumen/semantischen Modellen für digitale Materialpässe zur Steigerung der Nachhaltigkeit",
+"von": "2024-12-01",
+"bis": "2026-11-30",
+"summe": 465220.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "031B1139A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Modellregion, Bio4MatPro: BoostLab 1-1 - AMYLSyn, Process intensification of alpha methylene lactone synthesis, TP 1",
+"von": "2022-01-01",
+"bis": "2026-09-30",
+"summe": 191936.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "031B1149A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Modellregion, Bio4MatPro: BoostLab 2-3 - SAVER2, Stimuliertes Adhäsionsversagen durch Elektrizität für Reparatur und Recycling, TP 1",
+"von": "2022-01-01",
+"bis": "2026-09-30",
+"summe": 50000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "031B1160A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Modellregion, Bio4MatPro: BoostLab 6-2 - HoLoPep, HochLeistungs-BioPeptide als nachhaltige Additive für industrielle Anwendung, TP A",
+"von": "2022-04-01",
+"bis": "2026-09-30",
+"summe": 105318.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20M2265C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Hybrides Eisschutzsystem auf einem fortschrittlichen Vorflügel mit natürlicher Laminarität",
+"von": "2023-08-01",
+"bis": "2027-01-31",
+"summe": 300650.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Carsten  Knobel",
@@ -176,6 +297,11 @@
 "stand": "2026-07-08",
 "etikett": "Eigenangabe",
 "version": 7
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

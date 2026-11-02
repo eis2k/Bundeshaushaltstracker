@@ -1,0 +1,84 @@
+{
+"id": "honorarkonsularbeamte",
+"name": "Honorarkonsularbeamte",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "05-0512-68722",
+"text": "Zuschüsse für Honorarkonsularbeamte",
+"epl": "05",
+"epl_text": "Auswärtiges Amt",
+"werte": {
+"2015": {
+"soll": 1500000,
+"ist": 1203673
+},
+"2016": {
+"soll": 1500000,
+"ist": 1004702
+},
+"2017": {
+"soll": 1500000,
+"ist": 1018917
+},
+"2018": {
+"soll": 1458000,
+"ist": 985082
+},
+"2019": {
+"soll": 1500000,
+"ist": 1049325
+},
+"2020": {
+"soll": 1500000,
+"ist": 957865
+},
+"2021": {
+"soll": 1359000,
+"ist": 856424
+},
+"2022": {
+"soll": 1300000,
+"ist": 723068
+},
+"2023": {
+"soll": 1500000,
+"ist": 780363
+},
+"2024": {
+"soll": 1501000,
+"ist": 917449
+},
+"2025": {
+"soll": 800000,
+"ist": 843872
+},
+"2026": {
+"soll": 800000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

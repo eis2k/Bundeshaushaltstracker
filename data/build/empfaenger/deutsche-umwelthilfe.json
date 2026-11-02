@@ -93,7 +93,88 @@
 }
 ],
 "lobby_untergrenze_bund": 1360009,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "01UR2504C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Zirkuläre Wohnraumnutzung: kommunale Strategien, Erfolgsfaktoren, Effekte. Teilprojekt C: Transfer, Stakeholder, Kommunikation",
+"von": "2025-04-01",
+"bis": "2030-03-31",
+"summe": 366925.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN1074D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: EnOB: LezBAU - Lebenszyklusbilanzierung in frühen Bauphasen zur Analyse von Umweltauswirkungen, Teilvorhaben: Einbindung von Nutzer*innen und Stakeholdern",
+"von": "2023-01-01",
+"bis": "2027-06-30",
+"summe": 226105.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03DPC1217C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "DATIpilot - Community - MEHRCE - TRUE - Wahre Preise sichtbar machen - Ökologische Folgekosten transparent machen und Wettbewerbsverzerrungen bei ausgewählten Ein- und Mehrwegsystemen im Lebensmittelbereich korrigieren, TP3: Entwicklung politikrelevanter Handlungsempfehlungen",
+"von": "2026-09-01",
+"bis": "2028-08-31",
+"summe": 52269.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03DPC1216A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "DATIpilot - Community - MEHRCE - Communityprojekt: Abfallvermeidungspotentiale der Mehrwegquoten in der EU-Verpackungsverordnung, TP1: Politische Handlungsempfehlungen & Verbreitung der Ergebnisse",
+"von": "2026-07-01",
+"bis": "2028-01-31",
+"summe": 62204.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "67KF0193B",
+"ressort": "BMUKN",
+"epl": "16",
+"thema": "Verbundprojekt: NKI: KlimaBürgerHaushalt - Klimaschutz in der kommunalen Haushaltsplanung",
+"von": "2024-11-01",
+"bis": "2027-10-31",
+"summe": 290104.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "67KF0181A",
+"ressort": "BMUKN",
+"epl": "16",
+"thema": "Verbundprojekt: NKI: Ganzheitlichen kommunalen Klimaschutz durch nachhaltiges Bauen und Sanieren stärken",
+"von": "2023-04-01",
+"bis": "2026-03-31",
+"summe": 307348.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "67KF0174",
+"ressort": "BMUKN",
+"epl": "16",
+"thema": "NKI: POP-UP Mobilitätswende - bundesweite Verbreitung von Sofortmaßnahmen",
+"von": "2023-03-01",
+"bis": "2026-04-30",
+"summe": 675469.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SFK1J0-3",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben ENSURE3: Neue EnergieNetzStruktURen für die Energiewende - Teilvorhaben Deutsche Umwelthilfe e.V. (DUH)",
+"von": "2023-08-01",
+"bis": "2026-07-31",
+"summe": 343508.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Margit Mönnecke",
@@ -410,6 +491,11 @@
 "stand": "2026-10-21",
 "etikett": "Eigenangabe",
 "version": 65
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

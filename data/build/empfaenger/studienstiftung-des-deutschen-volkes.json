@@ -105,12 +105,20 @@
 "geschaeftsjahr": "2025",
 "jahresabschluss": {
 "url": "https://www.lobbyregister.bundestag.de/media/ec/46/784134/Studienstiftung-des-deutschen-Volkes-e-V-endgueltiger-Jahresabschluss-31-12-2025.pdf",
-"geschaeftsjahr": "",
-"kennzahlen": null,
-"seite": null,
+"geschaeftsjahr": "2025",
+"kennzahlen": {
+"ertraege_gesamt": 135635407,
+"oeffentliche_hand": 129952962,
+"spenden": null,
+"personalaufwand": 14650344,
+"projektfoerderung": 107947789,
+"weitergeleitete_mittel": null,
+"jahresergebnis": null
+},
+"seite": 28,
 "pruefer": null,
-"hinweis": null,
-"erfasst": null
+"hinweis": "Haushaltsrechnung (kamerale Gesamtübersicht). Bundesmittel 124.982.519 € (S. 30), Ländermittel 4,97 Mio €. Projektförderung = Stipendien und Stipendienprogramme.",
+"erfasst": "2026-11-02"
 }
 },
 "quellen": [
@@ -121,6 +129,12 @@
 "stand": "2026-06-29",
 "etikett": "Eigenangabe",
 "version": 5
+},
+{
+"kurz": "Jahresabschluss des Empfängers",
+"url": "https://www.lobbyregister.bundestag.de/media/ec/46/784134/Studienstiftung-des-deutschen-Volkes-e-V-endgueltiger-Jahresabschluss-31-12-2025.pdf",
+"abgerufen": "2026-11-02",
+"etikett": "Eigenangabe"
 }
 ]
 }

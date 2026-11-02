@@ -11,6 +11,30 @@
 "haushalt": {
 "titel": [
 {
+"id": "60-6095-61101",
+"text": "Zuführung an den Bund",
+"epl": "60",
+"epl_text": "Allgemeine Finanzverwaltung",
+"werte": {
+"2023": {
+"soll": 0,
+"ist": null
+},
+"2024": {
+"soll": 0,
+"ist": null
+},
+"2025": {
+"soll": 0,
+"ist": 0
+},
+"2026": {
+"soll": 0,
+"ist": null
+}
+}
+},
+{
 "id": "60-6097-61111",
 "text": "Zuweisung an den Bund",
 "epl": "60",

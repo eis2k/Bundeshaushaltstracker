@@ -61,7 +61,38 @@
 }
 ],
 "lobby_untergrenze_bund": 560005,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EN2108C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: H4Cu - Erdgassubstitution durch Wasserstoff in der Kupferhalbzeugherstellung, Teilvorhaben: Bewertung des praxisnahen Einsatzes von Wasserstoff als emissionsfreie Alternative zu fossilen Brennstoffen sowie der damit verbundenen anlagentechnischen Umrüstung in der Kupferhalbzeugherstellung",
+"von": "2024-09-01",
+"bis": "2027-08-31",
+"summe": 148568.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN2119A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: GreenTBRC - CO2-freies Recycling von Nichteisen-Metallen, Teilvorhaben: Großtechnische Referenzdaten, Vorbereitung der Prozessumrüstung und Verfahrensnachweis im Produktionsmaßstab",
+"von": "2024-09-01",
+"bis": "2028-08-31",
+"summe": 219328.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN2136D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben InduJet: Hocheffiziente und CO2 neutrale Heißgaserzeugung mittels induktiver Suszeptorerwärmung für industrielle Anwendungen, Teilvorhaben: Bewertung des praxisnahen Einsatzes eines emissionsfreien Heißgaserzeugers",
+"von": "2025-06-01",
+"bis": "2028-05-31",
+"summe": 85532.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Toralf Haag",
@@ -267,6 +298,11 @@
 "stand": "2026-10-20",
 "etikett": "Eigenangabe",
 "version": 24
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

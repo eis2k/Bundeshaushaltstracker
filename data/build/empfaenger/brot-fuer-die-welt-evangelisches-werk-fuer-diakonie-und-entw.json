@@ -533,12 +533,20 @@
 "geschaeftsjahr": "2025",
 "jahresabschluss": {
 "url": "https://www.lobbyregister.bundestag.de/media/ee/db/862930/BfdW_Jahresbericht_2025.pdf",
-"geschaeftsjahr": "",
-"kennzahlen": null,
-"seite": null,
+"geschaeftsjahr": "2025",
+"kennzahlen": {
+"ertraege_gesamt": 341693863,
+"oeffentliche_hand": 178768634,
+"spenden": 72577459,
+"personalaufwand": 33154303,
+"projektfoerderung": 255096228,
+"weitergeleitete_mittel": null,
+"jahresergebnis": null
+},
+"seite": 32,
 "pruefer": null,
-"hinweis": null,
-"erfasst": null
+"hinweis": "Mittelherkunft und -verwendung laut Jahresbericht. Öffentliche Hand = Bundesmittel 177.184.106 € + EU 1.584.528 €; Mittel des Kirchlichen Entwicklungsdienstes (66,2 Mio €) gesondert. Personalaufwand = Programmarbeit 30,4 Mio € + Werbung 2,75 Mio €; der Verwaltungsanteil ist im Bericht nicht als Personalaufwand beschriftet.",
+"erfasst": "2026-11-02"
 }
 },
 "quellen": [
@@ -549,6 +557,12 @@
 "stand": "2026-10-19",
 "etikett": "Eigenangabe",
 "version": 57
+},
+{
+"kurz": "Jahresabschluss des Empfängers",
+"url": "https://www.lobbyregister.bundestag.de/media/ee/db/862930/BfdW_Jahresbericht_2025.pdf",
+"abgerufen": "2026-11-02",
+"etikett": "Eigenangabe"
 }
 ]
 }

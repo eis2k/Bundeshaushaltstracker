@@ -1,0 +1,200 @@
+{
+"id": "zu-den-beschaffungskosten",
+"name": "zu den Beschaffungskosten",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "14-1422-55921",
+"text": "Beitrag zu den Beschaffungskosten",
+"epl": "14",
+"epl_text": "Bundesministerium der Verteidigung",
+"werte": {
+"2015": {
+"soll": 90000000,
+"ist": 90774938
+}
+}
+},
+{
+"id": "14-1422-55931",
+"text": "Beitrag zu den Beschaffungskosten",
+"epl": "14",
+"epl_text": "Bundesministerium der Verteidigung",
+"werte": {
+"2015": {
+"soll": 25000000,
+"ist": 27594217
+}
+}
+},
+{
+"id": "14-1401-55921",
+"text": "Beitrag zu den Beschaffungskosten",
+"epl": "14",
+"epl_text": "Bundesministerium der Verteidigung",
+"werte": {
+"2016": {
+"soll": 56000000,
+"ist": 44116404
+},
+"2017": {
+"soll": 33580000,
+"ist": 4384325
+},
+"2018": {
+"soll": 20000000,
+"ist": 27371691
+},
+"2019": {
+"soll": 10000000,
+"ist": 4814049
+},
+"2020": {
+"soll": 500000,
+"ist": 4666968
+},
+"2021": {
+"soll": 1000,
+"ist": 0
+},
+"2022": {
+"soll": 1000,
+"ist": 0
+},
+"2023": {
+"soll": 1000,
+"ist": 0
+},
+"2024": {
+"soll": 1000,
+"ist": 0
+},
+"2025": {
+"soll": 1000,
+"ist": 0
+},
+"2026": {
+"soll": 1000,
+"ist": null
+}
+}
+},
+{
+"id": "14-1401-55931",
+"text": "Beitrag zu den Beschaffungskosten NAEW&C",
+"epl": "14",
+"epl_text": "Bundesministerium der Verteidigung",
+"werte": {
+"2016": {
+"soll": 25000000,
+"ist": 31808424
+},
+"2017": {
+"soll": 20238000,
+"ist": 21581962
+},
+"2018": {
+"soll": 8000000,
+"ist": 2558036
+},
+"2019": {
+"soll": 40700000,
+"ist": 50177672
+},
+"2020": {
+"soll": 43600000,
+"ist": 46549615
+},
+"2021": {
+"soll": 34110000,
+"ist": 30091367
+},
+"2022": {
+"soll": 26564000,
+"ist": 23707263
+},
+"2023": {
+"soll": 26002000,
+"ist": 26680864
+},
+"2024": {
+"soll": 25880000,
+"ist": 31380264
+},
+"2025": {
+"soll": 25880000,
+"ist": 25717722
+},
+"2026": {
+"soll": 25880000,
+"ist": null
+}
+}
+},
+{
+"id": "14-1401-55941",
+"text": "Beitrag zu den Beschaffungskosten",
+"epl": "14",
+"epl_text": "Bundesministerium der Verteidigung",
+"werte": {
+"2018": {
+"soll": 131000000,
+"ist": 128287070
+},
+"2019": {
+"soll": 159350000,
+"ist": 175356419
+},
+"2020": {
+"soll": 387142000,
+"ist": 408651762
+},
+"2021": {
+"soll": 248897000,
+"ist": 248896326
+},
+"2022": {
+"soll": 80092000,
+"ist": 67029000
+},
+"2023": {
+"soll": 1000,
+"ist": 0
+},
+"2024": {
+"soll": 1000,
+"ist": 0
+},
+"2025": {
+"soll": 10000000,
+"ist": 10000000
+},
+"2026": {
+"soll": 1000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

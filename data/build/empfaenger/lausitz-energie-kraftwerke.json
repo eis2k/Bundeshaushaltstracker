@@ -53,7 +53,18 @@
 }
 ],
 "lobby_untergrenze_bund": 200004,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03SF0845K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben EIZ: Energie-Innovationszentrum der Brandenburgischen Technischen Universität Cottbus-Senftenberg, Teilvorhaben: Sicherheitslösungen und Netzbetriebsführung",
+"von": "2026-10-01",
+"bis": "2031-09-30",
+"summe": 656910.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Jörg Waniek",
@@ -181,6 +192,11 @@
 "stand": "2025-07-01",
 "etikett": "Eigenangabe",
 "version": 24
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

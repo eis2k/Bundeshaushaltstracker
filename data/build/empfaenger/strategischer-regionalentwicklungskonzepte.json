@@ -1,0 +1,48 @@
+{
+"id": "strategischer-regionalentwicklungskonzepte",
+"name": "strategischer Regionalentwicklungskonzepte",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "25-2502-63381",
+"text": "Förderung strategischer Regionalentwicklungskonzepte",
+"epl": "25",
+"epl_text": "Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+"werte": {
+"2024": {
+"soll": 2000000,
+"ist": 462193
+},
+"2025": {
+"soll": 2000000,
+"ist": 2197625
+},
+"2026": {
+"soll": 6000000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

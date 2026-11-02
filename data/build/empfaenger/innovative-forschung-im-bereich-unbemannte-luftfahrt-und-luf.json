@@ -1,0 +1,72 @@
+{
+"id": "innovative-forschung-im-bereich-unbemannte-luftfahrt-und-luf",
+"name": "innovative Forschung im Bereich unbemannte Luftfahrt (Drohnen) und Lufttaxis",
+"art": "forschung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "12-1204-68612",
+"text": "Zuschüsse für innovative Forschung im Bereich unbemannte Luftfahrt (Drohnen) und Lufttaxis",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr",
+"werte": {
+"2020": {
+"soll": 4800000,
+"ist": 3612299
+},
+"2021": {
+"soll": 7800000,
+"ist": 6426432
+},
+"2022": {
+"soll": 13714000,
+"ist": 7637950
+},
+"2023": {
+"soll": 5700000,
+"ist": 6021575
+},
+"2024": {
+"soll": 7500000,
+"ist": 5603938
+},
+"2025": {
+"soll": 3703000,
+"ist": 4341286
+}
+}
+},
+{
+"id": "12-1210-68622",
+"text": "Zuschüsse für innovative Forschung im Bereich unbemannte Luftfahrt (Drohnen) und Lufttaxis",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr",
+"werte": {
+"2026": {
+"soll": 500000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

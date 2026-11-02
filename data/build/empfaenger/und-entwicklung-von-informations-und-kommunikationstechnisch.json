@@ -1,0 +1,88 @@
+{
+"id": "und-entwicklung-von-informations-und-kommunikationstechnisch",
+"name": "und Entwicklung von Informations- und Kommunikationstechnischen (IKT-)Infrastrukturen",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "12-1202-89421",
+"text": "Förderung und Entwicklung von Informations- und Kommunikationstechnischen (IKT-)Infrastrukturen, Breitband",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"werte": {
+"2015": {
+"soll": 3000000,
+"ist": 2815412
+}
+}
+},
+{
+"id": "12-1204-89411",
+"text": "Förderung und Entwicklung von Informations- und Kommunikationstechnischen (IKT-)Infrastrukturen",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr",
+"werte": {
+"2016": {
+"soll": 1000000,
+"ist": 49308
+},
+"2017": {
+"soll": 1000000,
+"ist": 94575
+},
+"2018": {
+"soll": 1000000,
+"ist": 363944
+},
+"2019": {
+"soll": 1000000,
+"ist": 298941
+},
+"2020": {
+"soll": 1000000,
+"ist": 277282
+},
+"2021": {
+"soll": 500000,
+"ist": 206176
+},
+"2022": {
+"soll": 250000,
+"ist": 183498
+},
+"2023": {
+"soll": 250000,
+"ist": 119196
+},
+"2024": {
+"soll": 250000,
+"ist": 727957
+},
+"2025": {
+"soll": 200000,
+"ist": 61601
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

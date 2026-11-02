@@ -1,0 +1,80 @@
+{
+"id": "arbeitnehmerfreizuegigkeit-der-in-deutschland-taetigen-arbei",
+"name": "Arbeitnehmerfreizügigkeit der in Deutschland tätigen Arbeitskräfte aus der Europäischen Union",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "11-1106-68431",
+"text": "Förderung der Arbeitnehmerfreizügigkeit der in Deutschland tätigen Arbeitskräfte aus der Europäischen Union",
+"epl": "11",
+"epl_text": "Bundesministerium für Arbeit und Soziales",
+"werte": {
+"2016": {
+"soll": 500000,
+"ist": 495579
+},
+"2017": {
+"soll": 1200000,
+"ist": 1114504
+},
+"2018": {
+"soll": 1200000,
+"ist": 1161748
+},
+"2019": {
+"soll": 2200000,
+"ist": 1973540
+},
+"2020": {
+"soll": 2575000,
+"ist": 2333581
+},
+"2021": {
+"soll": 3250000,
+"ist": 3305873
+},
+"2022": {
+"soll": 3580000,
+"ist": 3561226
+},
+"2023": {
+"soll": 3803000,
+"ist": 3792014
+},
+"2024": {
+"soll": 3996000,
+"ist": 3995982
+},
+"2025": {
+"soll": 4200000,
+"ist": 3995848
+},
+"2026": {
+"soll": 4200000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

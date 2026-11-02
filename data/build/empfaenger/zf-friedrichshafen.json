@@ -37,7 +37,208 @@
 }
 ],
 "lobby_untergrenze_bund": 3770002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03XPM014E",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "ProgRec - Effiziente Prognose der Verarbeitungs- und Struktureigenschaften von recycelten faserverstärkten Thermoplasten in der Kreislaufwirtschaft -",
+"von": "2025-11-01",
+"bis": "2028-10-31",
+"summe": 239907.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS1808",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Supply Chain Security-Identifikation von (absichtlichen und unabsichtlichen) Sicherheitsschwachstellen - ASRIOT -",
+"von": "2023-04-01",
+"bis": "2026-06-30",
+"summe": 274088.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN4074C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: PreHop - Prozesskettenentwicklung zur energieeffizienten, hochgenauen Herstellung von Hohlrädern für Planetengetriebe, Teilvorhaben: Produkt- und Prozesskettenentwicklung",
+"von": "2023-12-01",
+"bis": "2027-11-30",
+"summe": 115907.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN4128C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: digiMass - Entwicklung einer geschlossenen digitalen Prozesskette von der Umformung bis zur Festigkeitsbewertung für die Massivumformung, Teilvorhaben: Bauteilebearbeitung, Zusammenbau und Analyse",
+"von": "2026-03-01",
+"bis": "2029-02-28",
+"summe": 170845.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "19A23014U",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: nxtAIM - NXT GEN AI METHODS: Generative Methoden für Perzeption, Prädiktion und Planung, Teilvorhaben: Scalability, Sensorik",
+"von": "2024-01-01",
+"bis": "2026-12-31",
+"summe": 1480277.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "19A22006V",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: STADT:up - Solutions and Technologies for Automated Driving in Town: an urban mobility project, Teilvorhaben: Holistisches HMI Konzept und Aufbau eines Versuchsträgers",
+"von": "2023-01-01",
+"bis": "2026-06-30",
+"summe": 1179124.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "19S22006W",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: DigiTain - Digitalization for Sustainability, Teilvorhaben: Aufbau einer elektrischen Antriebsachse in Leicht-Bauweise mit wiederverwertbaren Materialien",
+"von": "2023-01-01",
+"bis": "2026-03-31",
+"summe": 564480.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "19A23009C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: ProSeCA - Proactive Security Chain for Automotive, Teilvorhaben: Implementierung des Intrusion Detection Systems und Software Testing am SBoM Demonstrator",
+"von": "2023-09-01",
+"bis": "2026-06-30",
+"summe": 445752.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13IK038A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Entwicklung einer freiverketteten Matrixproduktion zur modularen, hochflexiblen und ressourcenschonenden Fertigung von Next-Generation-Mobility-Produkten (nexAMo) - Teilvorhaben: Entwicklung und Aufbau der Demonstrator-Linie (Matrixproduktion)",
+"von": "2024-01-01",
+"bis": "2026-06-30",
+"summe": 1983586.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13IK004F",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Catena-X Automotive Network (Catena-X) - Teilvorhaben: ZF Friedrichshafen AG",
+"von": "2021-08-01",
+"bis": "2026-09-30",
+"summe": 7756072.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0436",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Elektronikplattform für vertrauenswürdige dezentrale Edge-KI - EdgeAI-Trust -",
+"von": "2024-07-01",
+"bis": "2027-04-30",
+"summe": 215527.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0466",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Hardwareabstraktionsschicht für das Software-definierte Automobil der Zukunft - HAL4SDV -",
+"von": "2024-06-01",
+"bis": "2027-05-31",
+"summe": 358555.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0526",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Europäische Softwarearchitektur und Entwicklungswerkzeuge für das Automobil der Zukunft - Shift2SDV -",
+"von": "2025-07-01",
+"bis": "2028-06-30",
+"summe": 323822.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "19A24004Y",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Safe AI Engineering - Sicherheitsargumentation befähigendes AI Engineering über den gesamten Lebenszyklus einer KI-Funktion, Teilvorhaben: Anwendung von virtuellen Methoden für die Absicherung von KI-Funktionen für assistierte und automatisierte Fahrfunktionen",
+"von": "2025-03-01",
+"bis": "2028-02-29",
+"summe": 642790.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "19DNS2501Y",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: CONTROL - Controlling Risk for Highly Automated Transportation Systems Operating in Complex Open Environments, Teilvorhaben: Sensorverhalten anhand Erfassung von Fahrzeugeigenbewegung",
+"von": "2025-10-01",
+"bis": "2028-09-30",
+"summe": 503665.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16IS23062L",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: OpenSCALING - Open standards for SCALable virtual engineerING and operation",
+"von": "2025-04-01",
+"bis": "2027-04-30",
+"summe": 284546.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16IS26017G",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "ITEA24: Collaborative Design Exploration Framework (Enginuity)",
+"von": "2026-05-01",
+"bis": "2029-04-30",
+"summe": 908808.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16IS26029H",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "IKTexplorativ: Entwicklung einer modellbasierten Engineering Methodik für softwaredefinierte Mobilitätssysteme (COSMOS) - Modellbasierte Methoden und Werkzeuge für die Entwicklung von System- und Softwarearchitekturen verteilter Mobilitätssysteme",
+"von": "2026-04-01",
+"bis": "2029-03-31",
+"summe": 472860.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01MV23022A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Beyond1kV - Batterieelektrische Antriebssysteme für Nutzfahrzeuge mit Bordnetzspannungen über 1 kV, Teilvorhaben: Modulares Niederspannungs-Antriebssystem",
+"von": "2023-10-01",
+"bis": "2026-12-31",
+"summe": 521586.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01MV23030A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: HoGaN - Hochstrom GaN-Elektronik, Teilvorhaben: GaN basiertes Umrichtersystem",
+"von": "2023-10-01",
+"bis": "2026-12-31",
+"summe": 615820.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Mathias Miedreich",
@@ -197,6 +398,11 @@
 "stand": "2026-10-14",
 "etikett": "Eigenangabe",
 "version": 31
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

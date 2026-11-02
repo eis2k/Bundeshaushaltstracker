@@ -1,0 +1,118 @@
+{
+"id": "stiftung-denkmal-fuer-die-ermordeten-juden-europas",
+"name": "Stiftung Denkmal für die ermordeten Juden Europas",
+"art": "verein_stiftung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "04-0405-89462",
+"text": "Baumaßnahme Stiftung Denkmal für die ermordeten Juden Europas",
+"epl": "04",
+"epl_text": "Bundeskanzlerin und Bundeskanzleramt",
+"werte": {
+"2015": {
+"soll": 0,
+"ist": 0
+}
+}
+},
+{
+"id": "04-0452-89462",
+"text": "Baumaßnahme Stiftung Denkmal für die ermordeten Juden Europas",
+"epl": "04",
+"epl_text": "Bundeskanzlerin und Bundeskanzleramt",
+"werte": {
+"2016": {
+"soll": 0,
+"ist": 0
+},
+"2017": {
+"soll": 0,
+"ist": 0
+},
+"2018": {
+"soll": 0,
+"ist": 0
+},
+"2019": {
+"soll": 0,
+"ist": 0
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [
+{
+"typ": "abgeordneter_funktion",
+"person": "Bärbel Bas",
+"funktion_person": "MdB, SPD",
+"funktion_beim_empfaenger": "Vorsitzende des Kuratoriums (bis März 2025)",
+"kategorie": "Funktionen in Körperschaften und Anstalten des öffentlichen Rechts",
+"abgleich": "exakt",
+"satz": "Bärbel Bas (MdB, SPD) ist laut bundestag.de Vorsitzende des Kuratoriums (bis März 2025) bei Stiftung Denkmal für die ermordeten Juden Europas.",
+"ausschuesse": [],
+"geld_aus": [],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/B/bas_baerbel-1043554",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+},
+{
+"typ": "abgeordneter_funktion",
+"person": "Dirk Wiese",
+"funktion_person": "MdB, SPD",
+"funktion_beim_empfaenger": "Mitglied des Kuratoriums, ehrenamtlich",
+"kategorie": "Funktionen in Körperschaften und Anstalten des öffentlichen Rechts",
+"abgleich": "exakt",
+"satz": "Dirk Wiese (MdB, SPD) ist laut bundestag.de Mitglied des Kuratoriums, ehrenamtlich bei Stiftung Denkmal für die ermordeten Juden Europas. Ausschüsse und Gremien im Bundestag laut bundestag.de: Der Ältestenrat; Wahlausschuss.",
+"ausschuesse": [
+"Der Ältestenrat",
+"Wahlausschuss"
+],
+"geld_aus": [],
+"quellen": [
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/W/wiese_dirk-1048128",
+"stand": "2026-11-01"
+}
+],
+"stand": "2026-11-01"
+}
+],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/B/bas_baerbel-1043554",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "bundestag.de",
+"url": "https://www.bundestag.de/abgeordnete/biografien/W/wiese_dirk-1048128",
+"abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+}
+]
+}

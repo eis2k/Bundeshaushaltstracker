@@ -1,0 +1,48 @@
+{
+"id": "leistungsberechtigte-nach-dem-sgb-xiv",
+"name": "Leistungsberechtigte nach dem SGB XIV",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "11-1103-86301",
+"text": "Darlehen an Leistungsberechtigte nach dem SGB XIV",
+"epl": "11",
+"epl_text": "Bundesministerium für Arbeit und Soziales",
+"werte": {
+"2024": {
+"soll": 50000,
+"ist": 44612
+},
+"2025": {
+"soll": 50000,
+"ist": 27973
+},
+"2026": {
+"soll": 50000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

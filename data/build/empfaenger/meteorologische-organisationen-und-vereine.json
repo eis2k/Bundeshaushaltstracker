@@ -1,0 +1,92 @@
+{
+"id": "meteorologische-organisationen-und-vereine",
+"name": "meteorologische Organisationen und Vereine",
+"art": "verein_stiftung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "12-1214-68501",
+"text": "Beiträge für meteorologische Organisationen und Vereine",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr und digitale Infrastruktur",
+"werte": {
+"2015": {
+"soll": 25000,
+"ist": 24995
+}
+}
+},
+{
+"id": "12-1220-68501",
+"text": "Beiträge für meteorologische Organisationen und Vereine",
+"epl": "12",
+"epl_text": "Bundesministerium für Verkehr",
+"werte": {
+"2016": {
+"soll": 25000,
+"ist": 25000
+},
+"2017": {
+"soll": 25000,
+"ist": 24351
+},
+"2018": {
+"soll": 25000,
+"ist": 24776
+},
+"2019": {
+"soll": 25000,
+"ist": 24938
+},
+"2020": {
+"soll": 25000,
+"ist": 24958
+},
+"2021": {
+"soll": 25000,
+"ist": 25000
+},
+"2022": {
+"soll": 25000,
+"ist": 24742
+},
+"2023": {
+"soll": 43000,
+"ist": 42842
+},
+"2024": {
+"soll": 43000,
+"ist": 38442
+},
+"2025": {
+"soll": 43000,
+"ist": 38423
+},
+"2026": {
+"soll": 43000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

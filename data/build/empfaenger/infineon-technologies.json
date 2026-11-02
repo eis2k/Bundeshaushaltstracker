@@ -53,7 +53,1008 @@
 }
 ],
 "lobby_untergrenze_bund": 112010004,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "20F2203D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Radarsensoren mit Silicium-Germanium- und Bipolartransistoren sowie komplementären Metall-Oxyd-Halbleitern für Luftfahrzeuge in bodennahen Szenarien",
+"von": "2023-10-01",
+"bis": "2026-09-30",
+"summe": 437800.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03FHP107E",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Auf- und Ausbau sowie Erprobung von Strukturen zur Gewinnung und Entwicklung professoralen Personals an der Fachhochschule Südwestfalen - Teilvorhaben E - Infineon Technologies AG",
+"von": "2024-04-01",
+"bis": "2027-03-31",
+"summe": 140544.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0300",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Open-Source KI-Plattform für Edge-Computing in Europa - NEUROKIT2E -",
+"von": "2023-06-01",
+"bis": "2026-11-30",
+"summe": 442339.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0350K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: KI-unterstützte Elektroniksysteme für die nachhaltige Produktion - AIMS5.0 -",
+"von": "2023-06-01",
+"bis": "2026-09-30",
+"summe": 1588387.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0333K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Open-Source RISC-V-Ökosystem für Prozessoren in hoch-performanten und sicherheitskritischen Anwendungen - ISOLDE -",
+"von": "2023-05-01",
+"bis": "2026-10-31",
+"summe": 1240543.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KISK163",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Industrialisierbare Schlüsseltechnologien für Energie-effiziente Tbit-Transceiver in 6G Mobilfunksystemen - ESSENCE-6GM -",
+"von": "2022-10-01",
+"bis": "2026-09-30",
+"summe": 873784.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KISK150",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Komponenten und RU Charakterisierung - 6G-TERAKOM-",
+"von": "2022-10-15",
+"bis": "2026-04-14",
+"summe": 816348.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KISK199K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: 6G Technologien für sichere Campusnetze mit integriertem Sensing - 6G-CampuSens -",
+"von": "2022-11-01",
+"bis": "2026-04-30",
+"summe": 2247684.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KISK218",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Holistische Entwicklung leistungsfähiger 6G-Vernetzung für verteilte medizintechnische Systeme - 6G-Health -",
+"von": "2022-10-15",
+"bis": "2026-04-30",
+"summe": 658944.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS2032",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Quantencomputerresistente Kryptographie für Industrie- und Zahlungsverkehrsanwendungen - Quoryptan -",
+"von": "2024-03-01",
+"bis": "2027-02-28",
+"summe": 560333.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS1794K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Hardwarebasierte Sicherheit für industrielle Produktionsanlagen - HardShiP -",
+"von": "2023-04-01",
+"bis": "2026-09-30",
+"summe": 1132321.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS2137K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Post-Quanten-Kryptografie für Automotive-Komponenten - PARFAIT -",
+"von": "2024-09-01",
+"bis": "2027-08-31",
+"summe": 729601.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS2155",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Post-Quanten-sichere Open-Source-Schemata und Technologien für Automotive-Anwendungen - POST -",
+"von": "2024-09-01",
+"bis": "2027-08-31",
+"summe": 363725.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE1165C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: PV4Life - Erhöhung der Stromrichter-Lebensdauer durch Komponenten-Optimierung mittels Digitaler KI Zwillinge, Teilvorhaben: Halbleiterinnovationen für optimierte Lebensdauer",
+"von": "2023-08-01",
+"bis": "2027-01-31",
+"summe": 516612.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE2065A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: WindShield - Effiziente Windenergieleistungselektronik dank neuartiger Schutzfunktion in Modulen mit erhöhter Leistungsdichte, Teilvorhaben: Module mit neuartiger Schutzfunktion",
+"von": "2024-07-01",
+"bis": "2027-06-30",
+"summe": 1044626.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EE2077B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: VollWind - Erforschung und Demonstration eines ultrakompakten, filterlosen Vollumrichters für Hochleistungs-Windenergieanlagen, Teilvorhaben: Leistungshalbleiterinnovationen",
+"von": "2025-06-01",
+"bis": "2028-05-31",
+"summe": 842563.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN4080A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: InnoWP - Innovative Leistungselektronik für hocheffiziente Kompressor-Antriebe im Wärmepumpen-Massenmarkt, Teilvorhaben: Halbleiter und Gate-Treiber",
+"von": "2024-04-01",
+"bis": "2027-03-31",
+"summe": 1503640.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN4033A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: HoverGaN - Holistische Entwicklung von vertikalen GaN Transistoren für Betriebsspannungen bis 1.7kV, Teilvorhaben: 'Charakterisierung des dynamischen Defektverhaltens in nativen GaN Bauelementen im Vergleich zu GaN/Si'",
+"von": "2022-06-01",
+"bis": "2026-05-31",
+"summe": 559385.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN4051B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: IDEALER - Ideenumsetzung und Demonstration elektrischer Antriebs- und Leistungselektroniklösungen mit einer verbesserten Energie- und Ressourcen-Effizienz, Teilvorhaben: SiC Leistungsmodule",
+"von": "2023-05-01",
+"bis": "2027-04-30",
+"summe": 562231.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN5035A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: MarrakEsH - Modulare, regenerative und autarke Energieversorgung mit H2-Technik, Teilvorhaben: High Power Mikrocontroller Unit für die modulare, regenerative und autarke Energieversorgung",
+"von": "2023-10-01",
+"bis": "2027-03-31",
+"summe": 904449.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN4056B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: D.gitaLE - Digitale Leistungselektronik, Teilvorhaben: Halbleiterinnovationen für eine verbesserte Lebensdauervorhersage von Leistungshalbleitermodule",
+"von": "2023-07-01",
+"bis": "2027-06-30",
+"summe": 638316.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ETE053C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: ADMirABLE - Artificial Intelligence gestützte Digital Twins für die Modellierung der Alterung zur Optimierung der Betriebsführung und Lebensdauer von Energiespeichern, Teilvorhaben: Methoden, Modelle, Software und Hardware für das Batteriemanagementsystem",
+"von": "2025-01-01",
+"bis": "2027-12-31",
+"summe": 683891.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN5048A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: EISBaEr-Einsatz von Innovativer Sensorik zur Verbesserung der Effizienz und Haltbarkeit von Brennstoffzellen,Teilvorhaben: Integration von mehreren MEMS-basierten Sensor-Elementen in ein innovatives, gemeinsames Sensor-Gehäuse für einen genauen, robusten H2-Konzentrations-Sensor",
+"von": "2025-07-01",
+"bis": "2028-06-30",
+"summe": 682318.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN4137A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: ELMBA - Energie-effiziente Leistungselektronik für medizinische Bildgebungs-Anwendungen, Teilvorhaben: GaN Schalter",
+"von": "2026-10-01",
+"bis": "2029-09-30",
+"summe": 693796.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13IK033A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Spezifischer Einsatz von Digitalisierung, KI und Kompetenzaufbau in der Fahrzeugzulieferfertigung und im Qualitätsmanagement (SmartMan) - Teilvorhaben: Neue Methoden der inline-Defekterkennung in der Halbleiterfertigung sowie Effizienzsteigerung durch eine KI-basierte Produktionsplanung/steuerung",
+"von": "2023-09-01",
+"bis": "2026-08-31",
+"summe": 1874032.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13N17633",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Kritische Resiliente Infrastruktur durch ein Satelliten-Netzwerk für sektorübergreifende zuverlässige Versorgungsstrukturen (KRISNet) - Teilvorhaben: HW-Sicherheitsanker Weiterentwicklung für kritische Infrastrukturen zur Erhöhung der Resilienz",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 511485.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ZU1209MC",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "QVLS-iLabs: Skalierbare integrierte Ionenfallen für QT (SiQT) - C",
+"von": "2023-03-01",
+"bis": "2026-02-28",
+"summe": 1561039.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ZU1210AC",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "SEMECO: Sichere & Vertrauenswürdige Systemarchitekturen (Q1) - Teilvorhaben C",
+"von": "2023-05-10",
+"bis": "2026-05-09",
+"summe": 546314.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ZU2110GA",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "QSens: Volumenfertigung von Quantensensoren am Beispiel von Magnetfeldsensoren in Siliziumcarbid (QVOL2) - A",
+"von": "2024-11-01",
+"bis": "2027-10-31",
+"summe": 720000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ZU2209KC",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "QVLS-iLabs: Skalierbare Integrierte Ionenfallen für QT - 2 (SiQT-2) - C",
+"von": "2026-03-01",
+"bis": "2029-02-28",
+"summe": 1468411.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ZU2210HC",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "SEMECO - A6: Effizientes Ressourcen-Management im Krankenhaus durch Lokalisierung (HospiTrack) - Teilvorhaben C",
+"von": "2026-05-01",
+"bis": "2029-04-30",
+"summe": 401524.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "13MX008C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Initiative zur Digitalisierung der Lieferketten in der Halbleiterindustrie (Semiconductor-X) - Teilvorhaben: Datenraumoptimierte Befähigung der vertikalen Integrationsfähigkeit in Halbleiterlieferketten und Lieferketten, die Halbleiter beinhalten",
+"von": "2024-05-01",
+"bis": "2026-09-30",
+"summe": 1193600.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "19S23002A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: ELISA - Elektromobilität durch Interoperable und Sichere Architekturen, Teilvorhaben: Vertrauenswürdigkeit und Hardwaresicherheit für interoperable und sichere Architekturen in der Elektromobilität",
+"von": "2023-07-01",
+"bis": "2026-06-30",
+"summe": 1399172.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "19I23005A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Power2EMC - Intelligent, EMC-Compliant and Energy Efficient Control of Power Electronic Systems, Teilvorhaben: Leistungselektronik auf Komponenten- und Modul-Level",
+"von": "2023-07-01",
+"bis": "2026-06-30",
+"summe": 923683.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "19A23006A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: SICHER - Sensorische Insassenerkennung für ein sicheres autonomes Fahren durch Radar, Teilvorhaben: Radartransceiversystem zur intelligenten Innenraumerkennung in SiGe BiCMOS Technologie",
+"von": "2023-07-01",
+"bis": "2026-06-30",
+"summe": 3186804.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "19A23009A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: ProSeCA - Proactive Security Chain for Automotive, Teilvorhaben: Beitrag zum Gesamtsicherheitskonzept durch Erforschung sicherheitsrelevanter Hardwarekomponenten",
+"von": "2023-09-01",
+"bis": "2026-06-30",
+"summe": 1466804.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "19I23007A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: trustAE - Transformation der Fahrzeugtechnik durch hochintegrierte Komponenten für robuste, digitalisierte und effiziente Antriebs- und Energiesysteme basierend auf WBG-Technologien, Teilvorhaben: Energieeffiziente und intelligente Ansteuerung und Energieumwandlung",
+"von": "2023-10-01",
+"bis": "2026-06-30",
+"summe": 1177723.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16ME0542K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Intelligentes robustes 300 GHz Radar-Edge-Sensornetzwerk - RadarSkin -",
+"von": "2022-07-01",
+"bis": "2026-03-31",
+"summe": 856550.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16ME0533K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Elektronik mit neuartigen Materialien für Edge-Computing in Mobilfunknetzen - AI_at_theEdge -",
+"von": "2022-07-01",
+"bis": "2026-03-31",
+"summe": 1506601.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16ME0523K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Vertrauenswürdige und energiesparsame Edge-Elektronik für medizinische Anwendungen - MEDGE -",
+"von": "2022-11-01",
+"bis": "2026-01-31",
+"summe": 379846.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16ME0696",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Automatisierte Entwurfsmethoden für hocheffiziente integrierte Sensormodule in Edge-Computing-Anwendungen - HoLoDEC -",
+"von": "2022-10-01",
+"bis": "2026-03-31",
+"summe": 819145.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16ME0785K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Digitale und energieeffiziente Radarnetzwerke für heterogene E/E-Fahrzeugarchitekturen - VERANO -",
+"von": "2022-12-01",
+"bis": "2026-03-31",
+"summe": 1821642.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0268K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Entwicklung eines Open-Source RISC-V-Ökosystems für industrielle Anwendungen - TRISTAN -",
+"von": "2023-01-01",
+"bis": "2026-06-30",
+"summe": 659301.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0237K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Elektronische Sensoren für leistungsstarke Audio-Anwendungen in der Medizin und Industrie - Listen2Future -",
+"von": "2023-02-01",
+"bis": "2026-04-30",
+"summe": 807864.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16ME0920K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Zuverlässigkeit und Qualität in der Mikroelektronikfertigung durch KI-basierte Fehleranalyse - FA2IR -",
+"von": "2024-02-01",
+"bis": "2027-01-31",
+"summe": 943986.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0311",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Elektroniksysteme für sicher vernetzte Fahrzeuge und Verkehrsplattformen - EcoMobility -",
+"von": "2023-06-01",
+"bis": "2026-04-30",
+"summe": 490270.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0342K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Ressourceneffiziente und umweltschonende Elektronikfertigung - SUSTRONICS -",
+"von": "2023-06-01",
+"bis": "2026-05-31",
+"summe": 406730.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0305",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Elektroniksysteme mit besonders niedrigem Energieverbrauch für das Internet der Dinge - LoLiPoP IoT -",
+"von": "2023-06-01",
+"bis": "2026-05-31",
+"summe": 388058.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0281K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Intelligente GaN-Leistungselektronik für effiziente Energiewandlung - ALL2GaN -",
+"von": "2023-05-01",
+"bis": "2026-10-31",
+"summe": 1648290.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0373K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Technologien und Ökodesign für nachhaltige Elektronik - EECONE -",
+"von": "2023-07-01",
+"bis": "2026-11-30",
+"summe": 602508.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0450K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Zukunftssichere und skalierbare Elektronikplattform für das dezentrale Rechnen - SMARTY -",
+"von": "2024-07-01",
+"bis": "2027-05-31",
+"summe": 338170.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0425",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Verteilte Multisensorplattform für sichere automatisierte Fahrzeuge - DistriMuSe -",
+"von": "2024-05-01",
+"bis": "2027-04-30",
+"summe": 237279.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0437",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Elektronikplattform für vertrauenswürdige dezentrale Edge-KI - EdgeAI-Trust -",
+"von": "2024-07-01",
+"bis": "2027-04-30",
+"summe": 247519.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0380",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Tieftemperaturfähige Elektronik für zukünftiges Hochleistungsrechnen - ArCTIC -",
+"von": "2024-06-01",
+"bis": "2027-03-31",
+"summe": 368752.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0409",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Europäisches Ökosystem für nachhaltige Silizium-Carbid-Leistungselektronik - FastLane -",
+"von": "2024-06-01",
+"bis": "2027-04-30",
+"summe": 752310.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0401K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Elektroniksysteme für resiliente flexible Energienetze mit erneuerbaren Energieerzeugern - ECS4DRES -",
+"von": "2024-07-01",
+"bis": "2027-05-31",
+"summe": 570507.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0383K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Intelligente Elektroniksysteme für technologische Souveränität im Automobilsektor - ShapeFuture -",
+"von": "2024-06-15",
+"bis": "2027-04-30",
+"summe": 613322.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0464",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Hardwareabstraktionsschicht für das Software-definierte Automobil der Zukunft - HAL4SDV -",
+"von": "2024-08-01",
+"bis": "2027-05-31",
+"summe": 170200.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16ME1062K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Fortschrittliche Aufbau- und Verbindungstechnik in der Leistungselektronik mit KI-gestützter Prozessüberwachung - PAPAI -",
+"von": "2025-09-01",
+"bis": "2028-08-31",
+"summe": 1233396.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0492K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Vernetzte Sensorsysteme für Industrie 4.0 und Automotive - MOSAIC -",
+"von": "2025-08-01",
+"bis": "2028-06-30",
+"summe": 1703243.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0574",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Material- und Prozesstechnologien für eine umweltverträgliche Halbleiterproduktion - GENESIS -",
+"von": "2025-05-01",
+"bis": "2028-04-30",
+"summe": 392101.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0543K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Europäische RISC-V Hardware-Plattform für hochleistungsfähige Automobil-Prozessoren - RIGOLETTO -",
+"von": "2025-07-01",
+"bis": "2028-06-30",
+"summe": 901224.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0500K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Europäische Technologieplattform für heterogene Systemintegration - E2PACKMAN -",
+"von": "2025-07-01",
+"bis": "2028-06-30",
+"summe": 2519933.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0527K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Fortschrittliche Material- und Integrationstechnologien für GaN-Leistungselektronik im Automobil - HiPower 5.0 -",
+"von": "2025-08-01",
+"bis": "2028-06-30",
+"summe": 1436943.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE0599",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Europäische Chiplet-Integrations-Plattform für hochleistungsfähige Automobil-Prozessoren - CHASSIS -",
+"von": "2025-11-01",
+"bis": "2028-10-31",
+"summe": 270719.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16ME1135",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Open-Source Entwurfs- und Integrationswerkzeuge für RRAM-basiertes Computing - DI-ORBIT -",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 347904.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16ME1168",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Offene Design-Methodik zur Standardisierung und Automatisierung der IP-Integration in Chip-Architekturen - DI-FITS -",
+"von": "2026-02-01",
+"bis": "2029-01-31",
+"summe": 452275.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE1095K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Chiplets für modulare Leistungselektroniksysteme - Moore4Power -",
+"von": "2026-05-01",
+"bis": "2029-04-30",
+"summe": 1715337.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE1120",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Open-Source-Designwerkzeuge für Analoge Mikrochips - ODE4EC-AMS -",
+"von": "2026-06-01",
+"bis": "2029-05-31",
+"summe": 103270.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE1117",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Open-Source-Chipdesign-Plattform mit hoher Leistungsfähigkeit, Interoperabilität und Verifikation - ODE4EC-PIV -",
+"von": "2026-06-01",
+"bis": "2029-05-31",
+"summe": 285816.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16MEE1089K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Spintronische Chips auf Basis mikroelektronischer Fertigungsprozesse - SPIN CHIP -",
+"von": "2026-06-01",
+"bis": "2029-11-30",
+"summe": 516115.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N124228A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Prozessinnovation für Supraleitende Quantenschaltkreise mit verbesserter Charakterisierung (QuantumSPICE) - Teilvorhaben: Halbleiterinnovationen für Supraleitende Quantenschaltkreise",
+"von": "2024-11-01",
+"bis": "2027-10-31",
+"summe": 1017440.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N124269B",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Quantum Optimization Solver Kit (QuSol) - Teilvorhaben: Hybride quanten-klassische Algorithmen (mit NISQ und fehlertoleranten Anteilen) für Anwendungen im Bereich Optimierung im Supply Chain Management",
+"von": "2025-01-01",
+"bis": "2027-12-31",
+"summe": 608256.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N124069A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Hochintegrierte Quantenelektronik für Quantensensorik (HIQEQS) - Teilvorhaben: System-on-Chip (SoC)Top Level Integration für die Ansteuerung von JAWS und Auslesung von SQUIDs in BiCMOS Technologie",
+"von": "2025-03-01",
+"bis": "2028-02-29",
+"summe": 1045032.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N125301A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Hochintegrierte quantenlimitierte Wanderwellenverstärker (HIQWa) - Teilvorhaben: Verlustarme passive Bauteile zur Integration mit supraleitenden parametrischen Verstärkern",
+"von": "2025-10-01",
+"bis": "2028-09-30",
+"summe": 800670.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N125244C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Quanteninformierte approximative Optimierung auf NISQ und partiell fehlertoleranten Quantencomputern (QIAPO) - Teilvorhaben: Quantenalgorithmische Methoden zur Lösung von Optimierungsproblemen in Halbleiterlieferketten und anderen Bereichen mit Fokus auf Datenreduktion",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 351429.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N123131A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Modulare miniaturisierte photoakustische Gassensorik zur dezentralen Prozessüberwachung (ModPAS) - Teilvorhaben: MEMS-Mikrophon-Detektoren und Evaluation",
+"von": "2024-04-01",
+"bis": "2027-03-31",
+"summe": 996421.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N121139D",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Munich Quantum Valley Quantencomputer Demonstratoren - Supraleitende Qubits (MUNIQC-SC) - Teilvorhaben: Industry-scale trilayer superconducting Qubit technology",
+"von": "2022-01-01",
+"bis": "2026-12-31",
+"summe": 3360376.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01N121239I",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Quantencomputer mit gespeicherten Ionen für Anwendungen (ATIQ) - Teilvorhaben: Kryoelektronik und aktive Falle für hochintegrierte Ionenfallen-Quantencomputer",
+"von": "2021-12-01",
+"bis": "2026-11-30",
+"summe": 2439053.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "19DNS2501I",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: CONTROL - Controlling Risk for Highly Automated Transportation Systems Operating in Complex Open Environments, Teilvorhaben: Sicherheitsargumentation entlang des gesamten Lebenszyklus",
+"von": "2025-10-01",
+"bis": "2028-09-30",
+"summe": 580483.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20F2402C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Konzeptionierung und Integration von KI-Assistenzsystemen für Trajectory Based Operations für ältere, aktuelle und zukünftige Flugzeuggenerationen",
+"von": "2026-05-01",
+"bis": "2029-07-31",
+"summe": 715350.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20K2404B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Neuartige Wide-Bandgap-Leistungshalbleiter für Luftfahrtanwendungen",
+"von": "2026-04-01",
+"bis": "2029-03-31",
+"summe": 1710350.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS2437K",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: 6G Massive MIMO Radio Unit mit skalierbarem Smart Pixel Array, höchster Link-Kapazität und optimierter Energie-Effizienz - 6G-MIMOLink -",
+"von": "2026-03-01",
+"bis": "2029-02-28",
+"summe": 1408696.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16IS22084A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt GenerIoT: Generating and Deploying Lightweight, Secure and Zero-overhead Software for Multipurpose IoT Devices",
+"von": "2022-11-01",
+"bis": "2026-04-30",
+"summe": 858391.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI6088A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: Hochleistungs-HGÜ - Hochleistungs-Halbleiter für eine energieeffiziente Hoch-spannungs-Gleichstrom-Übertragung, Teilvorhaben: Hochleistungshalbleiter",
+"von": "2022-11-01",
+"bis": "2026-04-30",
+"summe": 1579037.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI6097A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: ViTA-LE - Verbesserte Vorhersage - in Test und Anwendung - der Lebensdauer von Leistungselektronik zur regenerativen Energieerzeugung, Teilvorhaben: Beschleunigte Alterungstests und verbesserte Lebensdauervorhersage für Halbleiterleistungsmodule",
+"von": "2023-04-01",
+"bis": "2027-03-31",
+"summe": 803519.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI4093D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: PVCharge - Multifunktionale Leistungselektronik für PV-Parkplätze, Teilvorhaben: Innovative Kühlungslösungen und optimierte Leistungshalbleitermodule für die nächste Generation von Netzwechselrichter-Systemen",
+"von": "2025-04-01",
+"bis": "2028-03-31",
+"summe": 462907.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI6135E",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: ReNew - Resiliente Schnelladeparks für den Schwerlastverkehr, Teilvorhaben: Halbleiter-Innovationen für kompakte Leistungsumrichter im Mittelspannungsbereich",
+"von": "2025-07-01",
+"bis": "2028-06-30",
+"summe": 610058.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI6152B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: HybSchaDC2 - Elektronikbasierte Schalt- und Schutzsys-teme mit Sensorik und intelligenter Steuerung für DC-Netze, Teilvorhaben: Entwicklung eines Leistungshalbleiter Configuration Tools und von State-of-Health Monitoring",
+"von": "2026-02-01",
+"bis": "2029-01-31",
+"summe": 502720.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI6153B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: GaNHypeCharge - All-GaN PV-Hybridspeicher mit bidirektionalem DC-Laden, Teilvorhaben: GaN-Halbleitermodule",
+"von": "2026-03-01",
+"bis": "2029-02-28",
+"summe": 1000189.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EI6156C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: MiDAS - Mittelspannungs-DC-Architektur für Solarhybridkraftwerke und Großspeicher, Teilvorhaben: Innovative Halbleiter",
+"von": "2026-05-01",
+"bis": "2029-04-30",
+"summe": 723190.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03ETE046A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: ProMoBiS - Progressive Multizell-Verbund-Konzepte für Batteriesysteme mit integrierter Sensorik, Teilvorhaben: Zellexterne Sensorik und modellbasierte Algorithmen für progressive Multizell-Verbund-Konzepte für Batteriesysteme",
+"von": "2023-04-01",
+"bis": "2026-05-31",
+"summe": 972102.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01MV23022B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: Beyond1kV - Batterieelektrische Antriebssysteme für Nutzfahrzeuge mit Bordnetzspannungen über 1 kV, Teilvorhaben: Leistungshalbleitermodule",
+"von": "2023-10-01",
+"bis": "2026-12-31",
+"summe": 1133898.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01MV23030C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: HoGaN - Hochstrom GaN-Elektronik, Teilvorhaben: Hochstrom GaN-Bauelemente",
+"von": "2023-10-01",
+"bis": "2026-12-31",
+"summe": 735955.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EMF0502A",
+"ressort": "BMV",
+"epl": "12",
+"thema": "Verbund UniCharge: Innovationen für eine nachhaltige Mobilität - Verbundvorhaben UniCharge - Universelles, bidirektionales und kostenoptimiertes On-board-Ladegerät für die Zukunft der Elektromobilität",
+"von": "2022-11-01",
+"bis": "2026-04-30",
+"summe": 701821.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "20M2216B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Entwicklung innovativer robuster Sensorik und Miniaturisierung der Sensorelemente für die Überwachung des Druckes in Niederdruck-Wasserstoffinstallationen",
+"von": "2024-12-01",
+"bis": "2027-11-30",
+"summe": 676150.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SF0829C",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben FiLeNE: Funktionsintegrierte Leistungselektronik zur modularen Netzanbindung Erneuerbarer Energien, Teilvorhaben: Halbleiterinnovation",
+"von": "2026-08-01",
+"bis": "2029-07-31",
+"summe": 1126122.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SF0844A",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben IsoKo4DC: Isolationskoordination in DC-Systemen - Grundlagen für die sichere Auslegung bei erhöhter Gleichspannungsbelastung bis 3 kV Teilvorhaben: Langzeitverhalten technischer Kunststoffe im DC-Feld und Modellansätze",
+"von": "2026-07-15",
+"bis": "2029-07-14",
+"summe": 622123.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16BZF346B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Effiziente und Integrierte Sensorik für intelligente, nachhaltige und sichere Batteriesysteme",
+"von": "2023-04-01",
+"bis": "2026-09-30",
+"summe": 712169.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16IPCEI214",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Innovative Halbleiterlösungen für eine nachhaltige Zukunft und ein digital souveränes Europa - INNONEXT_IFAG",
+"von": "2022-06-10",
+"bis": "2027-12-31",
+"summe": 125842068.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Jochen Hanebeck",
@@ -445,6 +1446,11 @@
 "stand": "2026-07-06",
 "etikett": "Eigenangabe",
 "version": 19
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

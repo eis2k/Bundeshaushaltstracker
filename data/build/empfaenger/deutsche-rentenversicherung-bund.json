@@ -1,0 +1,40 @@
+{
+"id": "deutsche-rentenversicherung-bund",
+"name": "Deutsche Rentenversicherung Bund",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "60-6002-63601",
+"text": "Zuführung an die Deutsche Rentenversicherung Bund zur Auszahlung der Frühstart-Rente durch die zentrale Stelle i. S. v. § 81 EStG",
+"epl": "60",
+"epl_text": "Allgemeine Finanzverwaltung",
+"werte": {
+"2026": {
+"soll": 50000000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

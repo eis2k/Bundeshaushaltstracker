@@ -45,7 +45,18 @@
 }
 ],
 "lobby_untergrenze_bund": 520003,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03TZ2005B",
+"ressort": "BMV",
+"epl": "12",
+"thema": "Umbau von Diesel-Rangierfahrzeugen auf Elektroantrieb mit Akkumulator für innerbetriebliche Transporte",
+"von": "2023-05-01",
+"bis": "2026-12-31",
+"summe": 212000.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Christian Meyer",
@@ -239,6 +250,11 @@
 "stand": "2026-09-29",
 "etikett": "Eigenangabe",
 "version": 25
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

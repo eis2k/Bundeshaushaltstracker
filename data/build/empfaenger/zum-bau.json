@@ -1,0 +1,140 @@
+{
+"id": "zum-bau",
+"name": "zum Bau",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "17-1702-88202",
+"text": "Zuweisungen zum Bau, zum Erwerb, zur Einrichtung und zur Bauerhaltung von zentralen oder überregionalen Jugendbildungs- und Jugendbegegnungsstätten sowie Jugendherbergen",
+"epl": "17",
+"epl_text": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"werte": {
+"2015": {
+"soll": 3000000,
+"ist": 2844082
+},
+"2016": {
+"soll": 3000000,
+"ist": 498792
+},
+"2017": {
+"soll": 5000000,
+"ist": 2023314
+},
+"2018": {
+"soll": 10500000,
+"ist": 2725705
+},
+"2019": {
+"soll": 10400000,
+"ist": 2332000
+},
+"2020": {
+"soll": 10500000,
+"ist": 2943138
+},
+"2021": {
+"soll": 10500000,
+"ist": 3828543
+},
+"2022": {
+"soll": 7500000,
+"ist": 948925
+},
+"2023": {
+"soll": 3900000,
+"ist": 2993956
+},
+"2024": {
+"soll": 900000,
+"ist": 894903
+},
+"2025": {
+"soll": 2287000,
+"ist": 2286132
+},
+"2026": {
+"soll": 5152000,
+"ist": null
+}
+}
+},
+{
+"id": "17-1703-89322",
+"text": "Zuschüsse zum Bau, zur Modernisierung sowie für Sanierungsmaßnahmen und zur Einrichtung von Familienferienstätten",
+"epl": "17",
+"epl_text": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+"werte": {
+"2015": {
+"soll": 1800000,
+"ist": 1773500
+},
+"2016": {
+"soll": 1800000,
+"ist": 780700
+},
+"2017": {
+"soll": 1800000,
+"ist": 494000
+},
+"2018": {
+"soll": 3800000,
+"ist": 232758
+},
+"2019": {
+"soll": 4240000,
+"ist": 2403922
+},
+"2020": {
+"soll": 4200000,
+"ist": 1875434
+},
+"2021": {
+"soll": 1800000,
+"ist": 1378624
+},
+"2022": {
+"soll": 1800000,
+"ist": 645758
+},
+"2023": {
+"soll": 1800000,
+"ist": 206460
+},
+"2024": {
+"soll": 1125000,
+"ist": 211558
+},
+"2025": {
+"soll": 0,
+"ist": 0
+},
+"2026": {
+"soll": 0,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

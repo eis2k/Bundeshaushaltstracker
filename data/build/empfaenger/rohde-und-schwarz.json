@@ -53,7 +53,38 @@
 }
 ],
 "lobby_untergrenze_bund": 3680004,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "13N17746",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Inverses Synthetisches Apertur Radar zur Sicherheitskontrolle von Personen-Gruppen (SiKoPeG-PRO) - Teilvorhaben: ISAR-Kontrolle",
+"von": "2026-01-01",
+"bis": "2027-12-31",
+"summe": 1426175.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "16KIS2530",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: SENSing demonstriert anhand echter ApplikaTIONen - SENSATION -",
+"von": "2026-01-01",
+"bis": "2028-12-31",
+"summe": 276741.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "50LA2601D",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben: HETPACS - Heterogene Packaging-Technologien für Space-Anwendungen, Teilvorhaben: Advanced Packaging für Hochfrequenzanwendungen bis 90 GHz in der Messtechnik",
+"von": "2026-02-01",
+"bis": "2029-01-31",
+"summe": 244997.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Christian  Leicher",
@@ -269,6 +300,11 @@
 "stand": "2025-12-09",
 "etikett": "Eigenangabe",
 "version": 10
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

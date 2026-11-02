@@ -194,12 +194,20 @@
 "geschaeftsjahr": "2025",
 "jahresabschluss": {
 "url": "https://www.lobbyregister.bundestag.de/media/e0/88/772973/20260331_elektronisch-signiert_Bericht-zur-JAP-2025-der-NRC-Fluechtlingshilfe-DE-gGmbH_ES34488660_V0-4.pdf",
-"geschaeftsjahr": "",
-"kennzahlen": null,
-"seite": null,
+"geschaeftsjahr": "2025",
+"kennzahlen": {
+"ertraege_gesamt": 43397518,
+"oeffentliche_hand": 39034000,
+"spenden": null,
+"personalaufwand": 3764672,
+"projektfoerderung": 37907233,
+"weitergeleitete_mittel": null,
+"jahresergebnis": 0
+},
+"seite": 19,
 "pruefer": null,
-"hinweis": null,
-"erfasst": null
+"hinweis": "Institutionelle Zuwendungen 39,0 Mio € laut Anhang (S. 23), Rest Spenden; Jahresüberschuss nach Steuern 0 €.",
+"erfasst": "2026-11-02"
 }
 },
 "quellen": [
@@ -210,6 +218,12 @@
 "stand": "2026-06-24",
 "etikett": "Eigenangabe",
 "version": 9
+},
+{
+"kurz": "Jahresabschluss des Empfängers",
+"url": "https://www.lobbyregister.bundestag.de/media/e0/88/772973/20260331_elektronisch-signiert_Bericht-zur-JAP-2025-der-NRC-Fluechtlingshilfe-DE-gGmbH_ES34488660_V0-4.pdf",
+"abgerufen": "2026-11-02",
+"etikett": "Eigenangabe"
 }
 ]
 }

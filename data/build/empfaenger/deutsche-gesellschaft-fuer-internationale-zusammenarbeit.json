@@ -467,12 +467,20 @@
 "geschaeftsjahr": "2025",
 "jahresabschluss": {
 "url": "https://www.lobbyregister.bundestag.de/media/f9/47/836893/GIZ-Jahresabschluss-2025.pdf",
-"geschaeftsjahr": "",
-"kennzahlen": null,
-"seite": null,
+"geschaeftsjahr": "2025",
+"kennzahlen": {
+"ertraege_gesamt": 4028685452,
+"oeffentliche_hand": null,
+"spenden": null,
+"personalaufwand": 1639914990,
+"projektfoerderung": null,
+"weitergeleitete_mittel": null,
+"jahresergebnis": 19976167
+},
+"seite": 28,
 "pruefer": null,
-"hinweis": null,
-"erfasst": null
+"hinweis": "Bundesunternehmen (Durchführungsorganisation des BMZ). Erträge = Gesamtleistung; Umsatzerlöse 3.799.508.040 €. Geschäftsvolumen gemeinnütziger Bereich davon BMZ 2.973 Mio € (S. 15).",
+"erfasst": "2026-11-02"
 }
 },
 "quellen": [
@@ -554,6 +562,12 @@
 "kurz": "bundestag.de",
 "url": "https://www.bundestag.de/abgeordnete/biografien/Z/zippelius_nicolas-1049406",
 "abgerufen": "2026-11-01",
+"etikett": "Eigenangabe"
+},
+{
+"kurz": "Jahresabschluss des Empfängers",
+"url": "https://www.lobbyregister.bundestag.de/media/f9/47/836893/GIZ-Jahresabschluss-2025.pdf",
+"abgerufen": "2026-11-02",
 "etikett": "Eigenangabe"
 }
 ]

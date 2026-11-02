@@ -325,11 +325,19 @@
 "jahresabschluss": {
 "url": "https://www.lobbyregister.bundestag.de/media/49/2f/773218/VdRBw-Sachbericht-2024.pdf",
 "geschaeftsjahr": "2024",
-"kennzahlen": null,
-"seite": null,
+"kennzahlen": {
+"ertraege_gesamt": 28154274,
+"oeffentliche_hand": 24306595,
+"spenden": 29509,
+"personalaufwand": 14774526,
+"projektfoerderung": null,
+"weitergeleitete_mittel": null,
+"jahresergebnis": null
+},
+"seite": 84,
 "pruefer": null,
-"hinweis": null,
-"erfasst": null
+"hinweis": "Verwendungsnachweis (Ist 2024, laut Fußnote vorläufig), keine GuV. Bundesmittel 24,3 Mio € = anforderungsfähige Zuwendungsmittel; Personalausgaben zu 14.696.986 € aus Bundesmitteln.",
+"erfasst": "2026-11-02"
 }
 },
 "quellen": [
@@ -345,6 +353,12 @@
 "kurz": "bundeshaushalt.de",
 "url": "https://www.bundeshaushalt.de/",
 "abgerufen": "2026-11-02"
+},
+{
+"kurz": "Jahresabschluss des Empfängers",
+"url": "https://www.lobbyregister.bundestag.de/media/49/2f/773218/VdRBw-Sachbericht-2024.pdf",
+"abgerufen": "2026-11-02",
+"etikett": "Eigenangabe"
 }
 ]
 }

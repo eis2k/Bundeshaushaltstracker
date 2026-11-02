@@ -37,7 +37,18 @@
 }
 ],
 "lobby_untergrenze_bund": 1180002,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "16BZF408F",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Aufbau Batteriekompetenz Saarland",
+"von": "2023-10-01",
+"bis": "2028-09-30",
+"summe": 304671.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Dave Johnston",
@@ -285,6 +296,11 @@
 "stand": "2026-09-23",
 "etikett": "Eigenangabe",
 "version": 19
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

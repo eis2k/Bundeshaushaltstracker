@@ -70,7 +70,98 @@
 },
 "lobby_zuwendungen": [],
 "lobby_untergrenze_bund": 0,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "M538100",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Alexander von Humboldt-Professur (Internationaler Preis für Forschung in Deutschland / Research in Germany Award)",
+"von": "2024-01-01",
+"bis": "2028-12-31",
+"summe": 142079051.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "AVH2024",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Förderung von Kooperation und Austausch von Wissenschaftler*innen mit dem Ausland",
+"von": "2024-01-01",
+"bis": "2028-12-31",
+"summe": 121215700.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "M531500",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Alexander von Humboldt Professur für Künstliche Intelligenz",
+"von": "2019-07-01",
+"bis": "2031-12-31",
+"summe": 89089895.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "M541701",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "SCIENCE_PLUS_AvH 1.000-Köpfe-Plus-Programm",
+"von": "2025-07-01",
+"bis": "2030-12-31",
+"summe": 80450000.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01DG21022",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Einrichtung von fünf Deutschen Forschungslehrstühlen im Bereich 'Mathematik und ihre Anwendungen' an Zentren des African Institute for Mathematical Sciences (AIMS)",
+"von": "2021-04-01",
+"bis": "2030-12-31",
+"summe": 4052580.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01DG19002",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Begleitvorhaben zum Aufbau von Deutschen Forschungslehrstühlen in Afrika II",
+"von": "2019-07-01",
+"bis": "2031-12-31",
+"summe": 2542529.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01DG25010",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Aufbau von Humboldt-Forschungshubs mit integrierten KI-Lösungen zur Bewältigung globaler Herausforderungen",
+"von": "2026-01-01",
+"bis": "2030-03-31",
+"summe": 3363488.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "01DL26002",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Middle East and North African German Frontiers of Science and Technology (MENAGFOST) Symposienreihe",
+"von": "2026-05-01",
+"bis": "2030-04-30",
+"summe": 626243.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "M541704",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "SVIK_SCIENCE_PLUS_AVH - Verstärkung des 1.000-Köpfe-Plus-Programms im Bereich strukturwirksamer Förderungen mit hohem Investitionsbedarf",
+"von": "2026-04-01",
+"bis": "2029-12-31",
+"summe": 82500000.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [],
 "verbindungen": [],
 "pflichtangaben": null,
@@ -78,6 +169,11 @@
 {
 "kurz": "bundeshaushalt.de",
 "url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
 "abgerufen": "2026-11-02"
 }
 ]

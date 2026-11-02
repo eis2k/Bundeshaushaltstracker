@@ -1,0 +1,92 @@
+{
+"id": "zur-unterstuetzung-der-durch-blutprodukte-hiv-infizierten-pe",
+"name": "zur Unterstützung der durch Blutprodukte HIV-infizierten Personen",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "15-1502-68512",
+"text": "Zuschuss zur Unterstützung der durch Blutprodukte HIV-infizierten Personen",
+"epl": "15",
+"epl_text": "Bundesministerium für Gesundheit",
+"werte": {
+"2015": {
+"soll": 0,
+"ist": 0
+}
+}
+},
+{
+"id": "15-1502-68501",
+"text": "Leistungen des Bundes zur Unterstützung der durch Blutprodukte HIV-infizierten Personen",
+"epl": "15",
+"epl_text": "Bundesministerium für Gesundheit",
+"werte": {
+"2016": {
+"soll": 0,
+"ist": 0
+},
+"2017": {
+"soll": 2000000,
+"ist": 2000000
+},
+"2018": {
+"soll": 2500000,
+"ist": 2500000
+},
+"2019": {
+"soll": 8700000,
+"ist": 7736400
+},
+"2020": {
+"soll": 9000000,
+"ist": 8829100
+},
+"2021": {
+"soll": 9200000,
+"ist": 8700930
+},
+"2022": {
+"soll": 9000000,
+"ist": 8747200
+},
+"2023": {
+"soll": 9228000,
+"ist": 8939602
+},
+"2024": {
+"soll": 9410000,
+"ist": 9188300
+},
+"2025": {
+"soll": 9770000,
+"ist": 9461000
+},
+"2026": {
+"soll": 9860000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

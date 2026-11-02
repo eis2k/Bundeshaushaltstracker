@@ -1,0 +1,64 @@
+{
+"id": "als-soforthilfe-fuer-studierende-in-pandemiebedingten-notlag",
+"name": "als Soforthilfe für Studierende in pandemiebedingten Notlagen",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "30-3002-66150",
+"text": "Darlehen als Soforthilfe für Studierende in pandemiebedingten Notlagen - Zinszuschüsse und Sicherheitsleistungen an die Kreditanstalt für Wiederaufbau (KfW) - und Nothilfemechanismus im BAföG",
+"epl": "30",
+"epl_text": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"werte": {
+"2020": {
+"soll": 0,
+"ist": 17884595
+},
+"2021": {
+"soll": 72373000,
+"ist": 30270153
+},
+"2022": {
+"soll": 28000000,
+"ist": 26023432
+},
+"2023": {
+"soll": 12326000,
+"ist": 168949
+},
+"2024": {
+"soll": 15704000,
+"ist": 4930309
+},
+"2025": {
+"soll": 13335000,
+"ist": 9301045
+},
+"2026": {
+"soll": 13335000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

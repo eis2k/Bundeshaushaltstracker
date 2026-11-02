@@ -117,7 +117,18 @@
 }
 ],
 "lobby_untergrenze_bund": 10270012,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "13N16609",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Sicherung der Informations- und Kommunikationsstrukturen von Hilfsorganisationen durch Kompetenzaufbau (deFenSIO) - Teilvorhaben: Anforderungen an resiliente Informations- und Kommunikationsstrukturen für Hilfsorganisationen",
+"von": "2023-05-01",
+"bis": "2026-08-31",
+"summe": 271520.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Elmar Pankau",
@@ -225,6 +236,11 @@
 "stand": "2026-08-12",
 "etikett": "Eigenangabe",
 "version": 13
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

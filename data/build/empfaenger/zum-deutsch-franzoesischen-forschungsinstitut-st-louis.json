@@ -1,0 +1,64 @@
+{
+"id": "zum-deutsch-franzoesischen-forschungsinstitut-st-louis",
+"name": "zum deutsch- französischen Forschungsinstitut St. Louis (ISL)",
+"art": "forschung",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "14-1404-55105",
+"text": "Beitrag zum deutsch- französischen Forschungsinstitut St. Louis (ISL)",
+"epl": "14",
+"epl_text": "Bundesministerium der Verteidigung",
+"werte": {
+"2020": {
+"soll": 23100000,
+"ist": 22724000
+},
+"2021": {
+"soll": 23359000,
+"ist": 23349217
+},
+"2022": {
+"soll": 23774000,
+"ist": 23774000
+},
+"2023": {
+"soll": 23675000,
+"ist": 23675000
+},
+"2024": {
+"soll": 27100000,
+"ist": 27100000
+},
+"2025": {
+"soll": 28700000,
+"ist": 28700000
+},
+"2026": {
+"soll": 29300000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

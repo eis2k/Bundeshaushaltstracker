@@ -85,7 +85,98 @@
 }
 ],
 "lobby_untergrenze_bund": 440008,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "02P24Q904",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundprojekt: Forschungscampus OHLF: SARESA, Teilprojekt: Design und Bewertung von Circular Economy Technologien im Karosseriebau",
+"von": "2025-03-01",
+"bis": "2030-02-28",
+"summe": 129082.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN4061C",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: EPiCoaT - Energieeffiziente Presshärteprozesse mit innovativen Beschichtungen und fortschrittlichen Technologien, Teilvorhaben: Entwicklung und Analysen von Blechbeschichtungen für die Warmformgebung und Übertragung dieser auf kontinuierliche Bandprozesse",
+"von": "2023-09-01",
+"bis": "2026-12-31",
+"summe": 202311.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN2139B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: H2-EiPro - Untersuchung des Einflusses der H2-Verbrennung in Industrieöfen auf das Produkt am Beispiel von Stahlbrammen, Teilvorhaben: Untersuchung des Einflusses auf die Produktqualität sowie Ermittlung von notwendigen Anpassungen der Produktionsparameter",
+"von": "2025-07-01",
+"bis": "2030-06-30",
+"summe": 1776880.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EN2152B",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: ESPS - Energiesparende, kohlenstofffreie Pfannenzustellungssysteme für energieeffiziente und CO2-emissionsarme Stahlfertigung für einen nachhaltigen Einsatz, Teilvorhaben: Erprobung neuer Dauer- und Verschleißfutterzustellungen",
+"von": "2026-04-01",
+"bis": "2029-03-31",
+"summe": 214024.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03EWR014A",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: Reallaborr: H2Stahl - Wasserstofftechnologien zur schrittweisen Dekarbonisierung der Stahlindustrie, Teilvorhaben: Forschungsvorhaben für den Wasserstoff-Hochofen",
+"von": "2021-10-08",
+"bis": "2028-12-31",
+"summe": 1844017.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "19S22005D",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundprojekt: FSCM - Future Sustainable Car Materials, Teilvorhaben: Hoch- und höchstfeste Stähle",
+"von": "2022-10-01",
+"bis": "2026-03-31",
+"summe": 172978.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SFK3B3-3",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben SynErgie3: Synchronisierte und energieadaptive Produktionstechnik zur flexiblen Ausrichtung von Industrieprozessen auf eine fluktuierende Energieversorgung. Teilvorhaben: B3-3_thyssenkrupp Steel Europe",
+"von": "2023-10-01",
+"bis": "2026-06-30",
+"summe": 121128.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SF0789F",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben C2C-L-MeOH: Carbon2Chem circular (C2CC)  Teilprojekt: C2C - Methanol-Synthese mit Realgasen im Demonstrationsbetrieb (L-MeOH)",
+"von": "2025-01-01",
+"bis": "2028-12-31",
+"summe": 1799957.0,
+"foerderart": "Direkte Projektförderung"
+},
+{
+"fkz": "03SF0787G",
+"ressort": "BMFTR",
+"epl": "30",
+"thema": "Verbundvorhaben C2C3-L-SI: Carbon2Chem circular (C2CC)  Teilprojekt: C2C - Systemintegration (L-SI)",
+"von": "2025-01-01",
+"bis": "2028-12-31",
+"summe": 100017.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Marie Jaroni",
@@ -354,6 +445,11 @@
 "stand": "2026-09-24",
 "etikett": "Eigenangabe",
 "version": 10
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }

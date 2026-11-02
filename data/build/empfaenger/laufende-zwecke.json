@@ -1,0 +1,100 @@
+{
+"id": "laufende-zwecke",
+"name": "laufende Zwecke",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "04-0402-68511",
+"text": "Zuschuss für laufende Zwecke",
+"epl": "04",
+"epl_text": "Bundeskanzlerin und Bundeskanzleramt",
+"werte": {
+"2015": {
+"soll": 12265000,
+"ist": 12165355
+}
+}
+},
+{
+"id": "04-0410-68511",
+"text": "Zuschuss für laufende Zwecke",
+"epl": "04",
+"epl_text": "Bundeskanzlerin und Bundeskanzleramt",
+"werte": {
+"2016": {
+"soll": 12265000,
+"ist": 10969945
+},
+"2017": {
+"soll": 13225000,
+"ist": 13772803
+},
+"2018": {
+"soll": 13417000,
+"ist": 13700668
+},
+"2019": {
+"soll": 14683000,
+"ist": 15498406
+},
+"2020": {
+"soll": 14760000,
+"ist": 15759871
+}
+}
+},
+{
+"id": "04-0410-68502",
+"text": "Zuschuss für laufende Zwecke",
+"epl": "04",
+"epl_text": "Bundeskanzler und Bundeskanzleramt",
+"werte": {
+"2021": {
+"soll": 15772000,
+"ist": 15535880
+},
+"2022": {
+"soll": 16000000,
+"ist": 16132040
+},
+"2023": {
+"soll": 17302000,
+"ist": 17610733
+},
+"2024": {
+"soll": 18220000,
+"ist": 18536530
+},
+"2025": {
+"soll": 18967000,
+"ist": 18726727
+},
+"2026": {
+"soll": 19302000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

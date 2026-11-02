@@ -1,0 +1,92 @@
+{
+"id": "bzw-leistungen-an-die-europaeische-weltraumorganisation-in-p",
+"name": "bzw. Leistungen an die Europäische Weltraumorganisation (ESA) in Paris",
+"art": "sonstige",
+"rechtsform": "",
+"sitz": "",
+"website": null,
+"stand": "2026-11-02",
+"geprueft": false,
+"lobbyregister": null,
+"haushalt": {
+"titel": [
+{
+"id": "09-0901-89631",
+"text": "Beitrag bzw. Leistungen an die Europäische Weltraumorganisation (ESA) in Paris",
+"epl": "09",
+"epl_text": "Bundesministerium für Wirtschaft und Energie",
+"werte": {
+"2015": {
+"soll": 713550000,
+"ist": 723950000
+},
+"2016": {
+"soll": 782250000,
+"ist": 790750000
+},
+"2017": {
+"soll": 755250000,
+"ist": 755250000
+},
+"2018": {
+"soll": 852450000,
+"ist": 852450000
+},
+"2019": {
+"soll": 857150000,
+"ist": 857150000
+},
+"2020": {
+"soll": 855000000,
+"ist": 855000000
+},
+"2021": {
+"soll": 920000000,
+"ist": 920000000
+},
+"2022": {
+"soll": 915000000,
+"ist": 915000000
+},
+"2023": {
+"soll": 885000000,
+"ist": 902102166
+},
+"2024": {
+"soll": 1042335000,
+"ist": 1045858804
+},
+"2025": {
+"soll": 939143000,
+"ist": 929981351
+}
+}
+},
+{
+"id": "30-3009-89690",
+"text": "Beitrag bzw. Leistungen an die Europäische Weltraumorganisation (ESA) in Paris",
+"epl": "30",
+"epl_text": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+"werte": {
+"2026": {
+"soll": 981833000,
+"ist": null
+}
+}
+}
+]
+},
+"lobby_zuwendungen": [],
+"lobby_untergrenze_bund": 0,
+"foerderkatalog": [],
+"personen": [],
+"verbindungen": [],
+"pflichtangaben": null,
+"quellen": [
+{
+"kurz": "bundeshaushalt.de",
+"url": "https://www.bundeshaushalt.de/",
+"abgerufen": "2026-11-02"
+}
+]
+}

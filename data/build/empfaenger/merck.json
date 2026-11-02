@@ -53,7 +53,18 @@
 }
 ],
 "lobby_untergrenze_bund": 230004,
-"foerderkatalog": [],
+"foerderkatalog": [
+{
+"fkz": "03EN4107E",
+"ressort": "BMWE",
+"epl": "09",
+"thema": "Verbundvorhaben: etaGPT - Ein interaktiver KI-Assistent zur Analyse und Optimierung von Energiesystemen, Teilvorhaben: Industriegerechte Anwendung für die Pharma- und Chemieindustrie",
+"von": "2025-05-01",
+"bis": "2028-04-30",
+"summe": 176151.0,
+"foerderart": "Direkte Projektförderung"
+}
+],
 "personen": [
 {
 "name": "Kai Beckmann",
@@ -268,6 +279,11 @@
 "stand": "2026-07-01",
 "etikett": "Eigenangabe",
 "version": 14
+},
+{
+"kurz": "Förderkatalog des Bundes",
+"url": "https://foerderportal.bund.de/foekat/",
+"abgerufen": "2026-11-02"
 }
 ]
 }
