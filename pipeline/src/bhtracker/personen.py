@@ -105,8 +105,10 @@ def roh_identitaeten(profile: list[Profil], abgeordnete: list[Abgeordneter], reg
             frueheres_mandat = False
             if person.regierungsfunktion:
                 rf = person.regierungsfunktion
-                funktionen.append(Funktion(art="fruehere_regierungsfunktion", text=", ".join(t for t in (rf.funktion or rf.art, rf.stelle) if t),
-                                           organisation_id=None, organisation=rf.stelle, epl=None, seit=None, bis=rf.ende, stand=p.stand, quelle=quelle))
+                # Lobbyregister: „recentGovernmentFunction“ kann laufen (ended False) oder beendet sein; nur Beendetes heißt „früher“
+                funktionen.append(Funktion(art="fruehere_regierungsfunktion" if rf.beendet else "regierungsfunktion",
+                                           text=", ".join(t for t in (rf.funktion or rf.art, rf.stelle) if t),
+                                           organisation_id=None, organisation=rf.stelle, epl=None, seit=None, bis=rf.ende if rf.beendet else None, stand=p.stand, quelle=quelle))
                 verbindung = True
                 frueheres_mandat = rf.art == "HOUSE_OF_REPRESENTATIVES"
             akten.append(Akte(id=f"{slug(name)}-lr-{p.nummer.lower()}", name=name, quellen_ids=[f"{slug(name)}-lr-{p.nummer.lower()}"],
@@ -368,11 +370,10 @@ def _geld_der_seite(seite: dict) -> dict:
     for z in sorted(seite.get("lobby_zuwendungen") or [], key=lambda x: -x.get("von", 0)):
         if z["geber"] not in geld_aus:
             geld_aus.append(z["geber"])
-    letztes = 0
-    for t in (seite.get("haushalt") or {}).get("titel") or []:
-        jahre = sorted(t.get("werte") or {})
-        if jahre:
-            letztes += int(t["werte"][jahre[-1]].get("soll") or 0)
+    # Soll des jüngsten Jahres über alle Titel (ausgelaufene Titel mischen sich nicht mit aktuellen Werten)
+    titel = (seite.get("haushalt") or {}).get("titel") or []
+    jahre_alle = sorted({j for t in titel for j in (t.get("werte") or {})})
+    letztes = sum(int((t.get("werte") or {}).get(jahre_alle[-1], {}).get("soll") or 0) for t in titel) if jahre_alle else 0
     return {"lobby_untergrenze_bund": seite.get("lobby_untergrenze_bund", 0), "haushalt_soll_letztes_jahr": letztes,
             "foerderkatalog_summe": round(sum(p.get("summe", 0) for p in seite.get("foerderkatalog") or []), 2), "geld_aus": geld_aus}
 
@@ -490,9 +491,11 @@ def build_personen_akten(manual_dir: Path, raw_dir: Path, out: Path, empfaenger_
                     if w.get("soll"):
                         zl.append({"jahr": int(jahr), "art": "geld", "quelle": "haushalt", "organisation_id": o["id"], "text": f"{o['name']}: Titel {t['id']} Soll {w['soll']:,} €".replace(",", "."), "wert": w["soll"]})
         for f in a.funktionen:
-            j = _jahr(f.seit) or _jahr(f.stand)
+            j = _jahr(f.seit) or _jahr(f.bis) or _jahr(f.stand)
             if j:
-                zl.append({"jahr": j, "art": "posten", "organisation_id": f.organisation_id, "text": f"{f.text} bei {f.organisation}" + (f", Stand {f.stand}" if not f.seit else f", seit {f.seit}")})
+                bei = f" bei {f.organisation}" if f.organisation and f.art not in ("mdb", "regierung") and f.organisation.lower() not in f.text.lower() else ""
+                wann = f", seit {f.seit}" if f.seit else (f", bis {f.bis}" if f.bis else f", Stand {f.stand}")
+                zl.append({"jahr": j, "art": "posten", "organisation_id": f.organisation_id, "text": f"{f.text}{bei}{wann}"})
         for s in a.spenden:
             j = _jahr(s.get("eingang"))
             if j:

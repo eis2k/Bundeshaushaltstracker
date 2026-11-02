@@ -16,5 +16,10 @@ saetze:
   - {art: b11, ab: "2024-03-01", monat: 16084.36, quelle: "https://www.gesetze-im-internet.de/bbesg/anlage_iv.html", fundstelle: "Anlage IV BBesG, Bundesbesoldungsordnung B, gültig ab 1. März 2024 (BGBl. 2023 I Nr. 414)", datum: "2026-11-02"}
   - {art: dienstaufwand_kanzler, ab: "2002-01-01", jahr: 12271.01, quelle: "https://www.gesetze-im-internet.de/bming/__11.html", fundstelle: "§ 11 Abs. 1 Buchst. c BMinG: jährlich 24.000 DM, Umrechnung 1,95583", datum: "2026-11-02"}
   - {art: dienstaufwand_minister, ab: "2002-01-01", jahr: 3681.30, quelle: "https://www.gesetze-im-internet.de/bming/__11.html", fundstelle: "§ 11 Abs. 1 Buchst. c BMinG: jährlich 7.200 DM, Umrechnung 1,95583", datum: "2026-11-02"}
-# optional: Beginn eines Ausschussvorsitzes je Akte, damit die Amtszulage eine Zeitraumsumme bekommt: {akte_id, ab, quelle, datum}
-vorsitz_ab: []
+# Beginn eines Vorsitzes oder Präsidiumsamts je Akte, damit die Amtszulage eine Zeitraumsumme bekommt: {akte_id, ab, quelle, fundstelle, datum}
+vorsitz_ab:
+  - {akte_id: julia-kloeckner, ab: "2025-03-25", quelle: "https://dserver.bundestag.de/btp/21/21001.pdf", fundstelle: "Plenarprotokoll 21/1, TOP 5 Wahl der Präsidentin", datum: "2025-03-25"}
+  - {akte_id: andrea-lindholz, ab: "2025-03-25", quelle: "https://dserver.bundestag.de/btp/21/21001.pdf", fundstelle: "Plenarprotokoll 21/1, TOP 6 Wahl der Stellvertreterinnen und Stellvertreter der Präsidentin", datum: "2025-03-25"}
+  - {akte_id: josephine-ortleb, ab: "2025-03-25", quelle: "https://dserver.bundestag.de/btp/21/21001.pdf", fundstelle: "Plenarprotokoll 21/1, TOP 6 Wahl der Stellvertreterinnen und Stellvertreter der Präsidentin", datum: "2025-03-25"}
+  - {akte_id: omid-nouripour, ab: "2025-03-25", quelle: "https://dserver.bundestag.de/btp/21/21001.pdf", fundstelle: "Plenarprotokoll 21/1, TOP 6 Wahl der Stellvertreterinnen und Stellvertreter der Präsidentin", datum: "2025-03-25"}
+  - {akte_id: bodo-ramelow, ab: "2025-03-25", quelle: "https://dserver.bundestag.de/btp/21/21001.pdf", fundstelle: "Plenarprotokoll 21/1, TOP 6 Wahl der Stellvertreterinnen und Stellvertreter der Präsidentin", datum: "2025-03-25"}

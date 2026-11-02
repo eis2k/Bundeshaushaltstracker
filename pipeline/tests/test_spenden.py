@@ -65,3 +65,11 @@ def test_natuerliche_person_mit_anrede_zusatz_und_co():
         assert ist_natuerliche_person(n), n
     for n in ["Verband der Bayrischen Metall- und Elektro-Industrie e.V. (VBM)", "ProMinent GmbH", "Deutsche Bank AG", "Muster Holding SE & Co. KGaA"]:
         assert not ist_natuerliche_person(n), n
+
+
+def test_organisationsformen_und_firma():
+    for n in ["Athos KG", "Muster OHG", "Muster SE & Co. KGaA", "Deutsche Vermögensberatung Aktiengesellschaft DVAG", "Joh. Berenberg, Gossler & Co. KG"]:
+        assert not ist_natuerliche_person(n), n
+    sp = parse_spenden(fixture_text("spenden_2025_ausschnitt.html").replace("<span>ProMinent GmbH</span>", "<span>Firma</span><br /><span>ProMinent GmbH</span>"), 2025)
+    cdu = next(x for x in sp if x.partei == "CDU")
+    assert cdu.spender == "ProMinent GmbH" and cdu.natuerliche_person is False

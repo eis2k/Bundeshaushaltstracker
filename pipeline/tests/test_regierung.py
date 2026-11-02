@@ -2,7 +2,7 @@ from pathlib import Path
 
 import yaml
 
-from bhtracker.regierung import fetch_kabinett, lade_regierung, parse_kabinett, validate_regierung
+from bhtracker.regierung import AEMTER, fetch_kabinett, lade_regierung, parse_kabinett, validate_regierung
 
 FIXTURES = Path(__file__).parent / "fixtures"
 MANUAL = Path(__file__).resolve().parents[2] / "data" / "manual"
@@ -71,3 +71,11 @@ def test_lade_regierung_yaml_ueberschreibt_abruf(tmp_path):
 def test_fetch_kabinett_schreibt_datei(tmp_path):
     p = fetch_kabinett(tmp_path, lambda url: b"<html></html>")
     assert p.exists() and p.name == "kabinett.html"
+
+
+def test_parse_kabinett_verwirft_unbekannte_aemter():
+    # Minor: ändert sich das Markup („Vita“ statt „Lebenslauf“), darf kein Unsinn als Amt durchgehen
+    html = fixture_text("kabinett_ausschnitt.html").replace("Bundeskanzler", "Hofnarr")   # Kachel mit unbekanntem Amt
+    out = parse_kabinett(html, "2026-11-02", ressorts())
+    assert all(any(m.amt.startswith(a) for a in AEMTER) for m in out)
+    assert len(out) < len(parse_kabinett(fixture_text("kabinett_ausschnitt.html"), "2026-11-02", ressorts()))

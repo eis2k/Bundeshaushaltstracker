@@ -117,3 +117,33 @@ def test_seit_hinweis_wird_uebernommen():
     b = berechne_bezuege(fn, SAETZE, "2026-11-02")
     assert any("Eintritt laut Biografie" in h for h in b["hinweise"])
     assert not any("Beginn der 21. Wahlperiode" in h for h in b["hinweise"])
+
+
+# ---------------------------------------------------------------- Nacharbeiten Stufe 3
+
+def test_zeile_nennt_alle_verwendeten_saetze():
+    b = berechne_bezuege([f("mdb", "MdB")], SAETZE, "2026-11-02")
+    e = {x["komponente"]: x for x in b["zeilen"]}["Abgeordnetenentschädigung"]
+    assert [q["fundstelle"][:18] for q in e["quellen"]] == ["Drucksache 20/1129", "bundestag.de „Ents", "Anpassungsverfahre"]
+    assert e["quelle"] == e["quellen"][-1]
+
+
+def test_validate_bezuege_dubletten_und_betraege():
+    s = {"art": "b11", "ab": "2024-03-01", "monat": 1, "quelle": "https://x", "fundstelle": "f", "datum": "2026-01-01"}
+    assert any("doppelt" in e for e in validate_bezuege({"saetze": [s, dict(s)]}))
+    assert any("größer als 0" in e for e in validate_bezuege({"saetze": [{**s, "monat": 0}]}))
+
+
+def test_praesidium_mit_vorsitz_ab_hat_summe():
+    b = berechne_bezuege([f("mdb", "MdB", aemter=["Präsidentin: Der Ältestenrat"])], SAETZE, "2026-11-02", vorsitz_ab="2025-03-25")
+    z = {x["komponente"]: x for x in b["zeilen"]}
+    assert z["Amtszulage Präsidium"]["monate"] == 21 and z["Amtszulage Präsidium"]["summe"] == 237470.27   # 100 % der Entschädigung, tageweise wie diese
+    assert z["Amtsaufwandsentschädigung Präsidium"]["summe"] == round(21 * 1023.0, 2)
+    assert not any("Beginn des Vorsitzes nicht belegt" in h for h in b["hinweise"])
+
+
+def test_repo_vorsitz_ab_praesidium():
+    data = yaml.safe_load((MANUAL / "bezuege.yaml").read_text(encoding="utf-8"))
+    ids = {v["akte_id"] for v in data["vorsitz_ab"]}
+    assert {"julia-kloeckner", "andrea-lindholz", "josephine-ortleb", "omid-nouripour", "bodo-ramelow"} <= ids
+    assert all(v["ab"] == "2025-03-25" and "21001" in v["quelle"] for v in data["vorsitz_ab"])

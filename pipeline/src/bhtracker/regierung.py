@@ -101,8 +101,8 @@ def parse_kabinett(page_html: str, stand: str, ressorts: dict) -> list[Amtstraeg
             t = _text(it)
             if t and t.lower() != "lebenslauf":
                 amt = t
-        if not name_m or not amt:
-            continue
+        if not name_m or not amt or not any(amt.startswith(a) for a in AEMTER):
+            continue   # unbekannte Amtsbezeichnung (Markup geändert?) wird nicht übernommen
         name = _text(name_m.group(1))
         href = href_m.group(1) if href_m else KABINETT_URL
         if href.startswith("/"):

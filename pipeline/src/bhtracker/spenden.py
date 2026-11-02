@@ -29,6 +29,7 @@ _PLZ_ORT = re.compile(r"^\d{5}\s+(.+)$")
 _TITEL = re.compile(r"^(?:Herrn?|Frau|Prof\.|Dr\.|Dipl\.-?\w*\.?|Ing\.|h\.c\.|mult\.|med\.|rer\.|nat\.|jur\.|phil\.|Frhr\.|Freiherr|Graf|Gräfin|von|zu|van|de)\s+", re.I)
 _ZUSATZ = {"von", "van", "vom", "de", "der", "den", "zu", "zur", "zum", "graf", "gräfin", "freiherr", "freifrau", "frhr.", "baron", "baronin", "und", "y", "da", "di"}
 _CO = re.compile(r"\s+c/o\s+.*$", re.I)
+_RECHTSFORM = re.compile(r"(\bKG\b|\bOHG\b|\bKGaA\b|\bGbR\b|\bAktiengesellschaft\b|\bHolding\b|&\s*Co\b|\bFirma\b|\bLtd\b|\bInc\b|\bPLC\b|\bLLP\b|\bPartG\b)", re.I)
 
 
 def _urlopen_bytes(url: str) -> bytes:
@@ -82,7 +83,7 @@ def ist_natuerliche_person(name: str) -> bool:
     """Kein Organisationsmerkmal, höchstens fünf Wörter nach Abzug von Anrede, Titeln und Namenszusätzen: dann eine natürliche Person.
     Ein „c/o“-Zusatz (Zustelladresse) zählt nicht zum Namen."""
     rest = _CO.sub("", name).strip()
-    if _EIGENNAME.search(rest):
+    if _EIGENNAME.search(rest) or _RECHTSFORM.search(rest):
         return False
     for _ in range(6):
         neu = _TITEL.sub("", rest)
@@ -108,6 +109,9 @@ def parse_spenden(page_html: str, jahr: int) -> list[Spende]:
         if not zeilen or not partei:
             continue
         name = zeilen[0]
+        if name.strip().lower() in ("firma", "fa.") and len(zeilen) > 1:   # „Firma“ als eigene Zeile vor dem Namen
+            name = zeilen[1]
+            zeilen = zeilen[1:]
         ort = ""
         for z in reversed(zeilen[1:]):
             m = _PLZ_ORT.match(z)

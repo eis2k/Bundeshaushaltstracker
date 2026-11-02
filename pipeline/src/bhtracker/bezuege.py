@@ -92,12 +92,23 @@ def validate_bezuege(data: dict) -> list[str]:
             errors.append(f"{wer}: fundstelle fehlt")
         if not _ISO.match(str(s.get("datum") or "")):
             errors.append(f"{wer}: datum muss ISO-Datum sein")
+        betrag = s.get("monat") if s.get("monat") is not None else s.get("jahr")
+        if betrag is not None and not (isinstance(betrag, (int, float)) and betrag > 0):
+            errors.append(f"{wer}: Betrag muss größer als 0 sein")
+    gesehen: set[tuple[str, str]] = set()
+    for s in (data or {}).get("saetze") or []:
+        key = (str(s.get("art")), str(s.get("ab")))
+        if key in gesehen:
+            errors.append(f"Satz {key[0]} ab {key[1]} ist doppelt")
+        gesehen.add(key)
     for i, v in enumerate((data or {}).get("vorsitz_ab") or []):
         wer = f"vorsitz_ab Eintrag {i + 1}"
         if not v.get("akte_id") or not _ISO.match(str(v.get("ab") or "")):
             errors.append(f"{wer}: akte_id und ab (ISO) nötig")
         if not str(v.get("quelle") or "").startswith("http") or not _ISO.match(str(v.get("datum") or "")):
             errors.append(f"{wer}: quelle (URL) und datum nötig")
+        if not v.get("fundstelle"):
+            errors.append(f"{wer}: fundstelle fehlt")
     return errors
 
 
@@ -248,22 +259,28 @@ def _zeile(posten: str, komponente: str, rechtsgrundlage: str, art: str, faktor:
     letzter = satz_am(saetze, art, bis if von else stand)
     monatlich = _cent(letzter.monatsbetrag * fak) if letzter else None
     zeile = {"posten": posten, "komponente": komponente, "rechtsgrundlage": rechtsgrundlage, "monatlich": float(monatlich) if monatlich is not None else None,
-             "zeitraum_von": von, "zeitraum_bis": bis if von else None, "monate": None, "summe": None, "empfaenger": empfaenger, "quelle": _quelle(letzter)}
+             "zeitraum_von": von, "zeitraum_bis": bis if von else None, "monate": None, "summe": None, "empfaenger": empfaenger, "quelle": _quelle(letzter),
+             "quellen": [_quelle(letzter)] if letzter else []}
     je_monat: dict[str, Decimal] = {}
     if von is None:
         return zeile, je_monat
     summe = Decimal(0)
+    verwendet: list[Satz] = []
     for m in monate(von, bis):
         s = satz_am(saetze, art, f"{m}-01")
         if s is None:
             luecken[komponente][m[:4]] += 1
             continue
+        if s not in verwendet:
+            verwendet.append(s)
         tf = _tagesfaktor(m, von, bis, echtes_bis) if tageweise else Decimal(1)
         betrag = _cent(s.monatsbetrag * fak * tf)
         je_monat[m] = betrag
         summe += betrag
     zeile["monate"] = len(je_monat)
     zeile["summe"] = float(_cent(summe)) if je_monat else None
+    if verwendet:
+        zeile["quellen"] = [_quelle(s) for s in sorted(verwendet, key=lambda s: s.ab)]
     return zeile, je_monat
 
 
@@ -301,12 +318,16 @@ def berechne_bezuege(funktionen: list[dict], saetze: list[Satz], stand: str, vor
         faktor = amtszulage_faktor(f.get("aemter") or [])
         if faktor:
             komponente = "Amtszulage Präsidium" if faktor >= Decimal("0.5") else "Amtszulage Ausschussvorsitz"
-            zeilen.append(_zeile(posten, komponente, "§ 11 Abs. 2 AbgG", "abgeordnetenentschaedigung", faktor, vorsitz_ab or None, bis, saetze, stand, "person", luecken)[0])
+            z_von = max(vorsitz_ab, von) if vorsitz_ab else None
+            zeilen.append(_zeile(posten, komponente, "§ 11 Abs. 2 AbgG", "abgeordnetenentschaedigung", faktor, z_von, bis, saetze, stand, "person", luecken,
+                                 tageweise=True, echtes_bis=echtes_bis)[0])
             if not vorsitz_ab:
                 merke(f"{komponente}: Beginn des Vorsitzes nicht belegt, deshalb nur Monatsbetrag ohne Summe.")
+            else:
+                merke(f"{komponente}: gerechnet ab {vorsitz_ab} (Beginn laut Pflegedatei bezuege.yaml mit Fundstelle).")
             if faktor >= Decimal("0.5"):
                 art = "amtsaufwand_praesident" if faktor == 1 else "amtsaufwand_vize"
-                zeilen.append(_zeile(posten, "Amtsaufwandsentschädigung Präsidium", "§ 12 Abs. 5 AbgG", art, Fraction(1), vorsitz_ab or None, bis, saetze, stand, "person", luecken)[0])
+                zeilen.append(_zeile(posten, "Amtsaufwandsentschädigung Präsidium", "§ 12 Abs. 5 AbgG", art, Fraction(1), z_von, bis, saetze, stand, "person", luecken)[0])
         kp_bis = _folgemonat_ende(bis) if echtes_bis else bis
         if kp_bis > stand:
             kp_bis = stand

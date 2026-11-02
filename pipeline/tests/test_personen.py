@@ -6,7 +6,7 @@ import pytest
 import yaml
 
 from bhtracker.bundestag import parse_bio
-from bhtracker.lobbyregister import Person, Profil, extract_profil
+from bhtracker.lobbyregister import Person, Profil, Regierungsfunktion, extract_profil
 from bhtracker.personen import (
     Akte,
     build_personen,
@@ -354,3 +354,40 @@ def test_nachruecker_erbt_eintritt_vom_vorgaenger(tmp_path):
     assert e["zeitraum_von"] == "2026-06-01" and e["monate"] == 6
     assert not any("Beginn der 21. Wahlperiode" in h for h in sh["sanae-abdi"]["bezuege"]["hinweise"])
     assert any("Vorgänger" in h for h in sh["sanae-abdi"]["bezuege"]["hinweise"])
+
+
+# ---------------------------------------------------------------- Nacharbeiten Stufe 3
+
+def test_laufende_regierungsfunktion_heisst_nicht_frueher():
+    p = profil_mit("Zweite Stiftung", "R009999", [Person("Amt", "Anna", "Vorstand", "gesetzlicher_vertreter",
+                   Regierungsfunktion("STATE_SECRETARY", "Staatssekretärin", "Bundesministerium X", False, None))])
+    f = next(a for a in roh_identitaeten([p], [], []) if a.name == "Anna Amt").funktionen[1]
+    assert f.art == "regierungsfunktion" and f.bis is None
+    p2 = profil_mit("Zweite Stiftung", "R009999", [Person("Alt", "Bert", "Vorstand", "gesetzlicher_vertreter",
+                    Regierungsfunktion("STATE_SECRETARY", "Staatssekretär", "Bundesministerium X", True, "2021-12-08"))])
+    f2 = next(a for a in roh_identitaeten([p2], [], []) if a.name == "Bert Alt").funktionen[1]
+    assert f2.art == "fruehere_regierungsfunktion" and f2.bis == "2021-12-08"
+
+
+def test_zeitlinie_ohne_dopplung_und_mit_endjahr(tmp_path):
+    raw, manual = _raw_mit_abdi(tmp_path)
+    d = json.loads((raw / "lobbyregister" / "R004511_82516.json").read_text(encoding="utf-8"))
+    d["lobbyistIdentity"]["legalRepresentatives"][0].update({"recentGovernmentFunctionPresent": True, "recentGovernmentFunction": {
+        "type": {"code": "STATE_SECRETARY", "de": "Staatssekretär"}, "federalAdministration": {"function": "Staatssekretär", "supremeFederalAuthority": "Bundesministerium X"},
+        "ended": True, "endDate": "2021-12-08"}})
+    (raw / "lobbyregister" / "R004511_82516.json").write_text(json.dumps(d, ensure_ascii=False), encoding="utf-8")
+    idx = json.loads(build_personen(manual, raw, tmp_path / "build", _seiten(), [], "2026-11-02").read_text(encoding="utf-8"))
+    by_id = {e["id"]: e for e in idx["eintraege"]}
+    wer = next(e for e in idx["eintraege"] if e["sichtbar"] and "fruehere_regierungsfunktion" in e["arten"])
+    a = json.loads((tmp_path / "build" / "personen" / f"{wer['shard']}.json").read_text(encoding="utf-8"))[wer["id"]]
+    posten = [z for z in a["zeitlinie"] if z["art"] == "posten"]
+    assert any(z["jahr"] == 2021 and "Bundesministerium X" in z["text"] and z["text"].count("Bundesministerium X") == 1 for z in posten)
+    abdi = json.loads((tmp_path / "build" / "personen" / f"{by_id['sanae-abdi']['shard']}.json").read_text(encoding="utf-8"))["sanae-abdi"]
+    assert not any("bei Deutscher Bundestag" in z["text"] for z in abdi["zeitlinie"])
+
+
+def test_haushalt_soll_nur_juengstes_jahr():
+    from bhtracker.personen import _geld_der_seite
+    seite = {"lobby_zuwendungen": [], "foerderkatalog": [], "haushalt": {"titel": [
+        {"id": "a", "werte": {"2024": {"soll": 100}, "2026": {"soll": 300}}}, {"id": "b", "werte": {"2024": {"soll": 50}}}]}}
+    assert _geld_der_seite(seite)["haushalt_soll_letztes_jahr"] == 300
