@@ -95,6 +95,8 @@ Tests: `cd pipeline && uv run pytest` und `cd web && npm test && npm run check`.
 
 ## Deployment
 
+**Lokal im Browser testen (Docker):** `docker compose up -d --build` baut die Seite samt Daten in ein nginx-Image und startet sie unter http://localhost:8080, unabhängig vom Dev-Server; nach einem neuen `bht build` denselben Befehl erneut ausführen, `docker compose down` stoppt den Container. Ein öffentliches Deployment gibt es erst nach rechtlicher Prüfung.
+
 `npm run build` erzeugt in `web/dist/` die komplette Seite samt Daten. `deploy/deploy.sh` baut und spielt sie per rsync auf den Server (Zugang über die Umgebungsvariablen `BHT_HOST`, `BHT_USER`, optional `BHT_PATH`). Die nginx-Konfiguration liegt in `deploy/nginx.conf`; HTTPS kommt über certbot. Vor der Veröffentlichung sind `web/public/impressum.html` und `web/public/datenschutz.html` mit den Betreiberangaben zu füllen.
 
 ## Mitmachen

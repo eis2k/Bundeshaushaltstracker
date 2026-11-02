@@ -1,0 +1,12 @@
+.git
+.superpowers
+.venv
+**/node_modules
+web/dist
+pipeline
+data/raw
+data/review
+data/build/_check
+data/build/_texts_check
+docs
+**/__pycache__

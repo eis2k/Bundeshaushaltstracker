@@ -1,0 +1,14 @@
+# Lokale Docker-Version des Bundeshaushaltstrackers (kein öffentliches Deployment).
+#   docker compose up -d --build      → http://localhost:8080
+#   docker compose down
+# Das Image enthält den Web-Build und die Daten aus data/build; nach einem neuen `bht build` erneut mit --build starten.
+services:
+  tracker:
+    build:
+      context: .
+      dockerfile: deploy/Dockerfile
+    image: bundeshaushaltstracker:local
+    container_name: bundeshaushaltstracker
+    ports:
+      - "8080:80"
+    restart: unless-stopped
