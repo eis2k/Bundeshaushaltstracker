@@ -5,6 +5,7 @@
   import { EMPFAENGER_ART_LABELS, aufEinenBlick, fmtSpanne, geldAus, issueUrl, summeSeit, titelZeitreihe, zuwendungenJahr, type EmpfaengerSeite } from "../model/empfaenger";
   import { fmtEuro } from "../model/format";
   import { verantwortung } from "../model/profiteure";
+  import { chef as chefVon } from "../model/ministerien";
   import type { AppState } from "../state.svelte";
   import Avatar from "../ui/Avatar.svelte";
   import EmpfaengerFluss from "../ui/EmpfaengerFluss.svelte";
@@ -33,8 +34,7 @@
   const letztesJahr = $derived(app.index?.jahre.at(-1) ?? app.jahr);
   const zustaendigEpl = $derived(blick.eplHaushalt ?? blick.eplLobby);
   const v = $derived(zustaendigEpl && app.viewData ? verantwortung(zustaendigEpl, app.jahr, letztesJahr, app.viewData, app.scenario.includeSv, app.personIndex) : null);
-  const LEITUNG = /^(bundeskanzler|bundesminister|chef)/i;
-  const chef = $derived(v ? (v.leitung.find((l) => LEITUNG.test(l.amt)) ?? v.leitung[0] ?? null) : null);
+  const chef = $derived(v ? chefVon(v.leitung) : null);
   const mitAkte = $derived(seite.personen.filter((p) => p.akte_id && p.akte_sichtbar));
   const ja = $derived(seite.pflichtangaben?.jahresabschluss ?? null);
   const kz = $derived(ja?.kennzahlen ?? null);

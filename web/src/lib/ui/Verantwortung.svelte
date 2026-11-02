@@ -6,13 +6,14 @@
   import Avatar from "./Avatar.svelte";
   import Partei from "./Partei.svelte";
   import { parteiKurz } from "../model/verantwortung";
+  import { chef as chefVon, vorgaenger } from "../model/ministerien";
 
   let { v, top, jahr, empfaengerJahr, onAkte, onEmpfaenger, onFokus }: {
     v: Verantwortung | null; top: TopEmpfaenger[]; jahr: number; empfaengerJahr: number | null;
     onAkte: (id: string) => void; onEmpfaenger: (id: string) => void; onFokus: (epl: string) => void;
   } = $props();
-  const LEITUNG = /^(bundeskanzler|bundesminister|chef)/i;
-  const chef = $derived(v ? (v.leitung.find((l) => LEITUNG.test(l.amt)) ?? v.leitung[0] ?? null) : null);
+  const chef = $derived(v ? chefVon(v.leitung) : null);
+  const zuvor = $derived(v ? vorgaenger(v.leitung, chef) : []);
   const rolle = $derived(chef ? (/kanzler/i.test(chef.amt) ? "Kanzler/in" : /chef/i.test(chef.amt) ? "Chef/in" : /in$/.test(chef.amt.split(" ")[0]) ? "Ministerin" : /minister/i.test(chef.amt) ? "Minister" : chef.amt) : "");
   /** Kürzel wie „BMAS“: Bundesministerium → BM, dann Anfangsbuchstaben der Sachworte. */
   function kuerzel(name: string): string {
@@ -35,6 +36,7 @@
         {:else}
           <span class="zeile muted">{v.hinweis}</span>
         {/if}
+        {#each zuvor as z (z.id)}<span class="zeile muted">zuvor: <button class="link" onclick={() => onAkte(z.id)}>{z.name}</button>{#if z.bis} (bis {z.bis}){/if}</span>{/each}
         <span class="zeile">Haushalt: <b class="tabular">{fmtEuro(v.haushalt)}</b></span>
         <span class="zeile">Anteil: <b class="tabular">{v.anteil.toLocaleString("de-DE")} %</b></span>
       </div>

@@ -1,5 +1,5 @@
 import { describe, expect, test } from "vitest";
-import { ministerien } from "../src/lib/model/ministerien";
+import { chef, ministerien, ministerienTabelle, vorgaenger } from "../src/lib/model/ministerien";
 import type { PersonIndex } from "../src/lib/model/personen";
 import { includeRow } from "../src/lib/model/tree";
 import type { YearData } from "../src/lib/model/types";
@@ -43,8 +43,34 @@ describe("ministerien", () => {
   test("ohne belegtes Ernennungsdatum nur im aktuellen Jahr, mit Hinweis", () => {
     const heute = ministerien(daten, "soll", false, 2025, 2025, personen, empfaenger as never).find((x) => x.epl === "14")!;
     expect(heute.leitung.map((l) => l.id)).toEqual(["i-j"]);
-    expect(heute.leitungHinweis).toBe("Ernennungsdatum nicht belegt; Stand des Kabinettsabrufs");
+    expect(heute.leitungHinweis).toBe("Ernennungsdatum nicht belegt: I J; Stand des Kabinettsabrufs");
     const alt = ministerien(daten, "soll", false, 2024, 2025, personen, empfaenger as never).find((x) => x.epl === "14")!;
     expect(alt.leitung).toEqual([]);
+  });
+});
+
+describe("Stufe 4d: Leitung im Wechseljahr, Tabelle", () => {
+  test("chef: zuletzt amtierende Leitung zuerst, Vorgänger getrennt", () => {
+    const e11 = ministerien(daten, "soll", false, 2025, 2025, personen, empfaenger as never).find((x) => x.epl === "11")!;
+    expect(chef(e11.leitung)?.id).toBe("a-b");
+    expect(vorgaenger(e11.leitung, chef(e11.leitung)).map((l) => l.id)).toEqual(["g-h"]);
+    expect(chef([])).toBeNull();
+  });
+  test("undatierter Minister im aktuellen Jahr zusätzlich zur datierten Staatssekretärin, mit Hinweis", () => {
+    const p: PersonIndex = { ...personen, eintraege: [...personen.eintraege,
+      { id: "m-n", name: "M N", funktion_kurz: "Mitglied des Bundestages", amt: true, sichtbar: true, n_organisationen: 0, shard: "aa", arten: ["mdb", "regierung"], epl_leitung: [{ epl: "14", amt: "Parlamentarischer Staatssekretär", seit: "2025-05-06", bis: null }] },
+    ] };
+    const e14 = ministerien(daten, "soll", false, 2025, 2025, p, empfaenger as never).find((x) => x.epl === "14")!;
+    expect(e14.leitung.map((l) => l.id)).toEqual(["i-j", "m-n"]);   // undatierter Minister (i-j) steht trotz datierter Staatssekretär dabei
+    expect(e14.leitungHinweis).toBe("Ernennungsdatum nicht belegt: I J; Stand des Kabinettsabrufs");
+    const alt = ministerien(daten, "soll", false, 2024, 2025, p, empfaenger as never).find((x) => x.epl === "14")!;
+    expect(alt.leitung.map((l) => l.id)).toEqual([]);
+  });
+  test("ministerienTabelle: Änderung zum Vorjahr nominal, ohne Vorjahr null", () => {
+    const liste = ministerien(fixtureYear, "soll", false, 2025, 2025, personen, null);
+    const vorjahr: YearData = { ...fixtureYear, jahr: 2024, rows: fixtureYear.rows.map((r) => ({ ...r, soll: Math.round(r.soll * 0.8) })) };
+    const t = ministerienTabelle(liste, vorjahr, false);
+    expect(t.find((x) => x.epl === "11")?.veraenderung).toBe(25);
+    expect(ministerienTabelle(liste, null, false).every((x) => x.veraenderung === null)).toBe(true);
   });
 });

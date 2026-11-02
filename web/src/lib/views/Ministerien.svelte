@@ -1,8 +1,9 @@
 <script lang="ts">
   /** Ministerien (Spec §4.11): Detailkarte des gewählten Einzelplans mit Reitern Geldflüsse | Empfänger | Verantwortung | Entwicklung, darunter alle Einzelpläne als Karten. */
   import { onMount } from "svelte";
+  import { LayoutGrid, Table2 } from "lucide-svelte";
   import { fmtEuro } from "../model/format";
-  import { ministerien, type Ministerium } from "../model/ministerien";
+  import { chef as chefVon, ministerien, ministerienTabelle, type Ministerium } from "../model/ministerien";
   import { anzahlEmpfaenger, topEmpfaenger } from "../model/profiteure";
   import { parteiKurz } from "../model/verantwortung";
   import type { AppState } from "../state.svelte";
@@ -12,6 +13,7 @@
 
   let { app }: { app: AppState } = $props();
   onMount(() => { void app.ensurePersonen(); void app.ensureEmpfaenger(); void app.ensureZeitreihe(); });
+  $effect(() => { app.jahr; void app.ensureVorjahr(); });
 
   const liste = $derived(app.viewData ? ministerien(app.viewData, app.stand, app.scenario.includeSv, app.jahr, app.index?.jahre.at(-1) ?? app.jahr, app.personIndex, app.empfaengerIndex) : []);
   const summe = $derived(liste.reduce((s, m) => s + m.ausgaben, 0));
@@ -21,8 +23,17 @@
   type Reiter = "geldfluesse" | "empfaenger" | "verantwortung" | "entwicklung";
   let reiter = $state<Reiter>("geldfluesse");
   const REITER: { id: Reiter; label: string }[] = [{ id: "geldfluesse", label: "Geldflüsse" }, { id: "empfaenger", label: "Empfänger" }, { id: "verantwortung", label: "Verantwortung" }, { id: "entwicklung", label: "Entwicklung" }];
-  const LEITUNG = /^(bundeskanzler|bundesminister|chef)/i;
-  const chef = $derived(m ? (m.leitung.find((l) => LEITUNG.test(l.amt)) ?? m.leitung[0] ?? null) : null);
+  const chef = $derived(m ? chefVon(m.leitung) : null);
+  /** Karten | Tabelle (Spec §4.12); Tabelle mit Änderung zum Vorjahr (nominal Soll) und Sortierung. */
+  let darstellung = $state<"karten" | "tabelle">("karten");
+  let sortiere = $state<"haushalt" | "veraenderung" | "epl">("haushalt");
+  const tabelle = $derived.by(() => {
+    const t = ministerienTabelle(liste, app.vorjahrData, app.scenario.includeSv);
+    if (sortiere === "epl") return [...t].sort((a, b) => a.epl.localeCompare(b.epl));
+    if (sortiere === "veraenderung") return [...t].sort((a, b) => (b.veraenderung ?? -Infinity) - (a.veraenderung ?? -Infinity));
+    return t;
+  });
+  function pct(v: number | null): string { return v == null ? "–" : `${v > 0 ? "+" : ""}${v.toLocaleString("de-DE")} %`; }
   const anteil = $derived(m && summe ? Math.round((m.ausgaben / summe) * 1000) / 10 : 0);
   const letztesJahr = $derived(app.index?.jahre.at(-1) ?? app.jahr);
   const top = $derived(m ? topEmpfaenger(m.epl, app.jahr, app.empfaengerIndex, 5) : []);
@@ -113,10 +124,42 @@
     </article>
   {/if}
 
-  <p class="intro muted">Alle Einzelpläne {app.jahr} ({app.stand === "ist" ? "Ist" : "Soll"}, gezählt wie im Geldfluss). Klick wählt die Detailkarte oben.</p>
+  <div class="leiste">
+    <p class="intro muted">Alle Einzelpläne {app.jahr} ({app.stand === "ist" ? "Ist" : "Soll"}, gezählt wie im Geldfluss). Klick wählt die Detailkarte oben.</p>
+    <div class="umschalter" role="tablist" aria-label="Darstellung">
+      <button role="tab" aria-selected={darstellung === "karten"} class:on={darstellung === "karten"} onclick={() => (darstellung = "karten")}><LayoutGrid size={13} /> Karten</button>
+      <button role="tab" aria-selected={darstellung === "tabelle"} class:on={darstellung === "tabelle"} onclick={() => (darstellung = "tabelle")}><Table2 size={13} /> Tabelle</button>
+    </div>
+  </div>
+  {#if darstellung === "tabelle"}
+  <div class="tabelle">
+    <table>
+      <thead><tr>
+        <th><button class="sort" class:on={sortiere === "epl"} onclick={() => (sortiere = "epl")}>Einzelplan</button></th>
+        <th>Leitung {app.jahr}</th>
+        <th class="num"><button class="sort" class:on={sortiere === "haushalt"} onclick={() => (sortiere = "haushalt")}>Haushalt {app.jahr}</button></th>
+        <th class="num"><button class="sort" class:on={sortiere === "veraenderung"} onclick={() => (sortiere = "veraenderung")}>Änderung ggü. {app.jahr - 1}</button></th>
+        <th class="num">Anteil</th>
+      </tr></thead>
+      <tbody>
+        {#each tabelle as x (x.epl)}
+          {@const leit = chefVon(x.leitung)}
+          <tr class:on={m?.epl === x.epl} onclick={() => { gewaehlt = x.epl; reiter = "geldfluesse"; }}>
+            <td><span class="epl">{x.epl}</span> <b>{x.name}</b></td>
+            <td>{#if leit}<span class="leit"><Avatar name={leit.name} size={24} />{leit.name} {#if leit.partei}<Partei name={parteiKurz(leit.partei)} />{/if}</span>{:else}<span class="muted">{x.leitungHinweis}</span>{/if}</td>
+            <td class="num tabular">{fmtEuro(x.ausgaben)}</td>
+            <td class="num tabular">{pct(x.veraenderung)}</td>
+            <td class="num tabular">{summe ? (Math.round((x.ausgaben / summe) * 1000) / 10).toLocaleString("de-DE") : 0} %</td>
+          </tr>
+        {/each}
+      </tbody>
+    </table>
+    <p class="muted small">Änderung: Soll gegen Soll des Vorjahres, nominal, ohne deine Regler; „–“ ohne Vorjahr im Bestand. Ressortzuschnitte wechseln zwischen Wahlperioden.</p>
+  </div>
+  {:else}
   <div class="karten">
     {#each liste as x (x.epl)}
-      {@const leit = x.leitung.find((l) => LEITUNG.test(l.amt)) ?? x.leitung[0]}
+      {@const leit = chefVon(x.leitung)}
       <button class="karte" class:on={m?.epl === x.epl} onclick={() => { gewaehlt = x.epl; reiter = "geldfluesse"; }} aria-pressed={m?.epl === x.epl}>
         <div class="kz">
           {#if leit}<Avatar name={leit.name} size={34} />{:else}<Avatar name={x.name} art="organisation" size={34} />{/if}
@@ -127,6 +170,7 @@
       </button>
     {/each}
   </div>
+  {/if}
 </div>
 
 <style>
@@ -159,6 +203,22 @@
   .linie { width: 100%; height: auto; }
   .achse { display: flex; justify-content: space-between; font-size: 11px; color: var(--muted); }
   .intro { margin: 0; font-size: 12px; }
+  .leiste { display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap; }
+  .umschalter { display: inline-flex; gap: 2px; background: var(--nav-bg); border-radius: 10px; padding: 3px; }
+  .umschalter button { display: inline-flex; align-items: center; gap: 4px; background: none; border: 0; color: var(--header); padding: 4px 10px; border-radius: 8px; cursor: pointer; font-size: 12px; font-weight: 600; opacity: .75; }
+  .umschalter button.on { background: var(--nav-on); color: var(--nav-on-fg); opacity: 1; }
+  .tabelle { background: var(--panel); border: 1px solid var(--border); border-radius: var(--radius); padding: 8px 12px; overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; font-size: 12px; }
+  th { text-align: left; font-size: 10px; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); padding: 6px; border-bottom: 1px solid var(--border); }
+  td { padding: 7px 6px; border-bottom: 1px solid var(--border); vertical-align: middle; }
+  tr.on td { background: var(--chip-blau); }
+  tbody tr { cursor: pointer; }
+  tbody tr:hover td { background: var(--bg); }
+  td b { color: var(--header); }
+  .num { text-align: right; white-space: nowrap; }
+  .sort { background: none; border: 0; padding: 0; font: inherit; color: inherit; cursor: pointer; text-transform: inherit; letter-spacing: inherit; }
+  .sort.on { color: var(--header); text-decoration: underline; }
+  .leit { display: inline-flex; align-items: center; gap: 6px; }
   .karten { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 10px; }
   .karte { text-align: left; font: inherit; background: var(--panel); border: 1px solid var(--border); border-radius: var(--radius); padding: 12px 14px; display: flex; flex-direction: column; gap: 8px; cursor: pointer; }
   .karte:hover { border-color: var(--nav-on); }

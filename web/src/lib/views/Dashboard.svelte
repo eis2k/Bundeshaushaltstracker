@@ -3,7 +3,7 @@
   import { onMount } from "svelte";
   import { entwicklungIndex, kennzahlen } from "../model/dashboard";
   import { fmtEuro, fmtPct } from "../model/format";
-  import { ministerien } from "../model/ministerien";
+  import { chef as chefVon, ministerien } from "../model/ministerien";
   import { kabinett as kabinettDes, parteiKurz } from "../model/verantwortung";
   import Partei from "../ui/Partei.svelte";
   import { effectiveFactor, effectiveValue } from "../model/scenario";
@@ -25,7 +25,7 @@
   const mins = $derived(ministerien(data, app.stand, app.scenario.includeSv, app.jahr, app.index?.jahre.at(-1) ?? app.jahr, app.personIndex, app.empfaengerIndex));
   const groesstes = $derived(mins.find((m) => m.epl !== "60" && m.epl !== "32") ?? mins[0]);
   const LEITUNG = /^(bundeskanzler|bundesminister|chef)/i;
-  const chef = $derived(groesstes ? (groesstes.leitung.find((l) => LEITUNG.test(l.amt)) ?? groesstes.leitung[0]) : undefined);
+  const chef = $derived(groesstes ? chefVon(groesstes.leitung) : null);
 
   const topEmpfaenger = $derived([...(app.empfaengerIndex?.eintraege ?? [])].sort((a, b) => b.haushalt_soll_letztes_jahr - a.haushalt_soll_letztes_jahr).slice(0, 5));
   const kabinett = $derived(kabinettDes(app.personIndex, app.jahr, app.index?.jahre.at(-1) ?? app.jahr).filter((m) => LEITUNG.test(m.amt)).slice(0, 5));
